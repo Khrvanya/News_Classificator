@@ -4,7 +4,6 @@ import joblib
 
 BASIC_LINKS_AMOUNT = 300
 
-
 def to_list(obj) -> list:
     if type(obj) == list:
         return obj
@@ -40,12 +39,6 @@ class Node:
         for node in self.children_set:
             name_set.add(node.name)
         return name_set
-
-    def get_children_queries(self):
-        queries_set = set()
-        for node in self.children_set:
-            queries_set.add(make_filename_safe(', '.join(node.queries)))
-        return queries_set
 
     def __str__(self):
         print('name: ', self.name, '\nqueries: ', self.queries,
@@ -129,9 +122,4 @@ def make_node_structure(pipeline_folder_path=None) -> Node:
         load_node_structure_models(finance, pipeline_folder_path)
     
     return finance
-    
-    
-# root = make_node_structure()
-# scrape_categories(root, QUERIES_PATH)
-# make_classification_models(root, MODELS_PATH, QUERIES_PATH)
     

@@ -68,6 +68,11 @@ def article_tree_classify(article: list, node=ROOT_NODE, diff_coef=.1) -> dict:
     return diction
     
     
-# text_path = r'queries\energy, energy, energy finance, energy news, energy stocks, energy futures, energy shares\2 Top Energy Stocks to Buy Now.txt'
-# text = [open(text_path, 'r').read()]    ## text = [str]
+# text_path = r'queries\ripple\3 Reasons Why XRP is Making DoubleDigit Gains Right Now.txt'
+# text = [open(text_path, 'r', errors='ignore').read()]    ## text = [str]
+# print(article_tree_classify(text))
+
+
+# text_path = r'queries\russell2000\Will quadruple witching mark the start of a rocky stretch for US ....txt'
+# text = [open(text_path, 'r', errors='ignore').read()]    ## text = [str]
 # print(article_tree_classify(text))

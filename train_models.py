@@ -192,7 +192,7 @@ def make_classification_models(root_node, models_path, queries_path, delete_prev
     if delete_previous or not re.findall(root_node.name,
                                                    ' '.join(os.listdir(models_path))):
 
-        trained_pipeline = train_best_pipeline(queries_path, root_node.get_children_queries())
+        trained_pipeline = train_best_pipeline(queries_path, root_node.get_children_names())
 
         joblib.dump(trained_pipeline, os.path.join(models_path, root_node.name + '.sav'))
 
@@ -202,5 +202,3 @@ def make_classification_models(root_node, models_path, queries_path, delete_prev
     print('!!!end making', root_node.name, 'pipeline!!!\n\n')
     for node in root_node.children_set:
         make_classification_models(node, models_path, queries_path, delete_previous, save)
-
-
