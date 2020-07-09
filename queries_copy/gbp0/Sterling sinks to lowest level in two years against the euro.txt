@@ -1,0 +1,26 @@
+Weak sterling: The pound has dropped to a two-year low against the euro. Photograph: Chris Ratcliffe/Bloomberg
+Irish exporters may have to battle further falls in sterling as the Brexit crisis drags on, one expert has warned as the British pound plunged against the euro.
+Sterling abruptly dropped to a two-year low against the euro in mid-afternoon action in London, after a Financial Times report that British prime minister Boris Johnson would hold a general election in the “days after” the UK is due to leave the EU on October 31st if he loses a likely confidence vote in parliament.
+Sterling slid as low as 92.07p on Thursday, drawing back to hover around 92.13p with a 0.12 per cent fall from the previous day’s trading. August traditionally shows light trading as many are on holiday, which often makes for bigger moves than normal.
+Economist Alan McQuaid said that sterling could weaken further as the row over the UK’s departure from the EU continued.
+“I don’t think it will reach parity, as the euro has problems of its own, but it could go 95 or 98 pence,” he warned.
+Thursday’s lows brought the euro to around 92.35 pence in the pound. Sterling’s weakness hits Irish exporters’ competitiveness, as it drives up the price of the goods and services they sell.
+Joe Healy , Irish Farmers’ Association president, whose industry is among the biggest exporters to the UK, warned that sterling’s collapse was having serious repercussions for agri-food.
+“The value of sterling has dropped over 30 per cent since the Brexit vote. This is having a huge impact on the competitiveness of our exports. These pressures are all being pushed back down on farmers,” he said.
+Mr Healy stressed that farmers face immediate problems. He pointed out that a recent €100 million support fund for beef producers only covered the period to May 12th, while losses have mounted since then.
+“The EU Commission and the Government need to come on the pitch with aid for losses since May 12th and a €1 billion package to support the beef market and provide direct aid to farmers,” he said.
+Thursday’s sterling level was the lowest since August 2017. The pound has fallen more than 5 per cent since May 1st against the euro.
+Sterling briefly fell as low as $1.2094 against the dollar before recovering slightly to trade 0.1 per cent lower at $1.2120.
+Mr Johnson would hold a general election “days after” the UK is due to leave the EU on October 31st, should there be a successful parliamentary no-confidence vote in his government, senior aides to the prime minister have said.
+“We can’t stop them forcing an election but we control the timetable so we will force the date after October 31st,” said a senior Downing Street official. “If there must be a general election, then it will be days after October 31st.”
+Another close aide to Mr Johnson did not deny that any election would be held in the first few days of November. – Copyright The Financial Times Limited 2019
+/* Any CSS that needs to be patched put here with date and jira ref.
+  @media only screen and (max-width: 767px){.span2 .soa.feature_box .feature_text:before {top: 70px;}}
+    var minWidth = 1100;
+    var shouldShow = jq('body.isArticle.anonymous')[0] != undefined;
+  	var tab = '<div class="floating_tab slideFromLeft"><a class="gtm-event" data-evt-category="/digital-subscriptions" data-evt-action="Go to StoreFront" data-evt-label="Subscribe Now: Floating Tab" href="/digital-subscriptions"><b>Subscribe Now</b></a></div>';
+ -webkit-box-shadow: 5px 0px 20px 0px rgba(81, 81, 81, 0.7); -moz-box-shadow:    5px 0px 20px 0px rgba(81, 81, 81, 0.7); box-shadow: 5px 0px 20px 0px rgba(81, 81, 81, 0.7);}
+@media only screen and (max-width: 1101px) { .floating_tab{display:none !important;} }    
+            var lazyAds = adLazyloaded;
+            var active = false;
+                                    return ad !== lazyAd;
