@@ -68,6 +68,6 @@ def article_tree_classify(article: list, node=ROOT_NODE, diff_coef=.1) -> dict:
     return diction
     
     
-text_path = r'queries\energy, energy, energy finance, energy news, energy stocks, energy futures, energy shares\2 Top Energy Stocks to Buy Now.txt'
-text = [open(text_path, 'r').read()    ## text = [str]
-print(article_tree_classify(text))
+# text_path = r'queries\energy, energy, energy finance, energy news, energy stocks, energy futures, energy shares\2 Top Energy Stocks to Buy Now.txt'
+# text = [open(text_path, 'r').read()]    ## text = [str]
+# print(article_tree_classify(text))
