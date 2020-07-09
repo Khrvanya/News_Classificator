@@ -1,0 +1,10 @@
+Similar to what we did with corn, this post shows the weighted number of soybean pods per an 18 square foot area on the left hand axis and the implied soybean pod weight in grams per pod for the 11 objective soybean states on the right hand axis.
+The USDA usually provides a graphic of this in the crop production briefings, but similar to the fact that it did not include the corn ears per acre vs. implied ear weight graphic for the ten objective states suggests the delayed soybean harvest may be responsible.
+Note that USDA has indicated it will resurvey three soybean states that still had a large amount of unharvested soybean acreage when the survey period for the January crop production report ended in mid-December 2019.
+USDA's 2019 soybean yield was put at 47.4 bpa which would be the lowest since the 44.0 figure seen in 2013.
+Soybeans were also subjected to very late plantings linked to heavy spring rains and inclement weather during harvest that no doubt contributed to the lowest national yield in nine seasons.
+Soybean yields are a function of the number of pods per acre times the weight of each pod.
+As opposed to corn where the increase in corn yields over time is linked to the constant rise in the number of plants and ears per acre with ear weights more a function of that season's weather, the upward trend in soybean yields over time is based on increasing pod weights over time with the trend of the number of soybeans withn an 18 square foot area rather flat.
+In its November 2019 crop production briefing, USDA did furnish the pods in 18 square foot area vs. implied pod weight chart and at that time it showed a record implied weight, just under 0.34 grams per pod and our calculations out this year's figure at 0.343 grams/pod is by far the highest ever.
+This is offset however by the lowest number of pods per 18 square foot area at 1588 since 1580 pods/18 sq ft in 2013.
+This results in a weighted 11 state aveage yield of 48.4 bpa which is the lowest since 2014.

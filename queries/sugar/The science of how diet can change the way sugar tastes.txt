@@ -1,0 +1,26 @@
+We know humans also experience changes in taste perception in response to diet. Credit: Pixabay
+The food animals eat can change how they perceive future food. This response uses the same machinery that the brain uses to learn, new research has found.
+Researchers at the University of Sydney have discovered the basic science of how sweet taste perception is fine-tuned in response to different diets. While it has long been known that food can taste different based on previous experience, until now we didn't know the molecular pathways that controlled this effect.
+Professor Greg Neely at the Charles Perkins Centre and School of Life and Environmental Sciences with Professor Qiaoping Wang (formerly at the Charles Perkins Centre and now based at Sun Yat-Sen University, China) used fruit flies to study sweet taste. They learned that taste is highly subjective based on previous experience .
+Professor Neely said they learned four important things:
+The food animals eat can change how they perceive future food.
+This response uses the same machinery that the brain uses to learn.
+Pathways that can extend lifespan were also involved in enhancing taste perception, and diets in fruit flies that promote long life were also found to enhance taste perception.
+Lifespan, learning and sensory perception are linked in ways we are just starting to understand.
+"We found that the fruit fly 'tongue' – taste sensors on its proboscis and front feet—can learn things using the same molecular pathways that the fly brain uses to learn things," Professor Neely said. "Central to this is the neurotransmitter dopamine."
+"It turns out these are also the same chemical pathways that humans use to learn and remember all sorts of things," Professor Neely said. "This really highlights how learning is a whole-body phenomenon; and was a complete surprise to us."
+Professor Wang, who led the study, said: "We were surprised to find that a protein-restricted diet that makes an animal live much longer also turns up the intensity of sucrose perception for that animal, and that is dependent on the same learning and longevity pathways.
+The fruit fly 'tongue' is a proboscis, an elongated sucking mouthpart.
+"The response was also really specific. For example, when we fed flies food that had no sweetness, the animals' sweet taste perception was enhanced, but only for glucose, not for fructose. We have no idea why they specifically focus just on one kind of sugar when they perceive them both as sweet."
+"We also found that eating high amounts of sugar suppressed sweet taste perception , making sugar seem less sweet," Professor Neely said. "This finding, which occurs through a different mechanism, matched nicely with recent results from our colleague Monica Dus at the University of Michigan, who is the world expert in this area."
+The researchers found if they changed the diet of the fruit fly (increasing sugar, removing taste of sugar, increasing protein, changing sugar for complex carbohydrate), this drastically altered how well the fruit fly could taste subsequent sugar after a few days.
+"We found that when flies ate unsweetened food, this made sugary food taste much more intense," Professor Wang said.
+"Then we looked at all the proteins that changed in the fruit fly 'tongue' in response to diet, and we investigated what was happening," Professor Neely said.
+They found the sensation of taste is controlled by dopamine (the "reward" neuromodulator). The researchers then mapped the pathway and found the same pathways that are well established as controlling learning and memory or promoting long life also enhance taste sensation.
+"While this work was conducted in fruit flies , the molecules involved are conserved through to humans. We know humans also experience changes in taste perception in response to diet, so it's possible the whole process is conserved; we will have to see," Professor Wang said.
+The research published in Cell reports, is a follow up study to Professor's Neely's work testing the effects of artificial sweeteners . That research found artificial sweeteners activate a neuronal starvation pathway, and end up promoting increased food intake, especially when combined with a low-carb diet.
+"Our first studies were focused on how different food additives impact the brain, and from this we found taste changed in response to diet, so here we followed up that observation and describe how that works," Professor Neely said. "Turns out the fly 'tongue' itself is remembering what has come before, which is kind of neat."
+More information: Qiao-Ping Wang et al. PGC1α Controls Sucrose Taste Sensitization in Drosophila, Cell Reports (2020). DOI: 10.1016/j.celrep.2020.03.044
+                                                 The science of how diet can change the way sugar tastes (2020, April  9)
+This document is subject to copyright. Apart from any fair dealing for the purpose of private study or research, no
+                                            part may be reproduced without the written permission. The content is provided for information purposes only.

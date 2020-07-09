@@ -1,0 +1,5 @@
+Vitalik Buterin pointed out that 40 million fewer Ether has been mined today than was envisioned five years ago.
+Vitalik Buterin tweeted today that the Ether ( ETH ) supply is 40 million less today than what was estimated in the original whitepaper. He believes this refutes the theory that Ethereum is run by inflationist technocrats.
+Buterin’s tweet from June 17, 2020. Source: Twitter .
+The estimate cited by Buterin was forecasting a supply of 150.8 million Ether five years out. However, the actual supply today is only 111.3 million. The issues of inflation and deflation are always contentious for crypto enthusiasts, as many believe that the purported deflationary nature of cryptocurrency is one of its main advantages over its fiat counterparts.
+Although Buterin’s observation is interesting on its own, it would have been even more insightful if he had also compared today’s state of Ethereum with where it was supposed to be according to the plan .

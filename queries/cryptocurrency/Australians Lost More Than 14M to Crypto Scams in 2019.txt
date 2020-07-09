@@ -1,0 +1,8 @@
+A study by Scamwatch suggests cryptocurrency scams are a real threat in Australia.
+Australians filed 1,810 reports of cryptocurrency-related scams in 2019, collectively totaling more than $21.6 million AU ($14.9 million USD).
+According to a study by Scamwatch, an arm of the Australian Competition and Consumer Commission, younger Australians aged 25 to 34 were those most heavily affected by crypto investment scams.
+“Cloud mining farms became a common adaptation of this type of scam. Most were Ponzi schemes, with no real cryptocurrency involved.”
+It goes on to characterize cloud crypto mining as an “an incredibly resource-intensive activity” that relies on powerful computing systems to mine a coin. This is the concept scammers are building their deception on, asking people to invest in nonexistent server time or space.
+Scamwatch’s study reveals a sharp increase in total losses related to scams over the past two years, from $234 million in 2017 to $437 million in 2019.
+One example from the report is an international Ponzi-style scam calling itself “USI Tech.” It hit Australia in 2019, and Scamwatch received over 200 reports totaling losses of $ 2.2 million paid irreversibly in Bitcoin ( BTC ). Scamwatch’s report says that USI Tech is now known as one of the “biggest cryptocurrency scams in the world.”
+Bitcoin was a leading payment method used across all types of scams in 2019, coming in second after conventional bank transfers.

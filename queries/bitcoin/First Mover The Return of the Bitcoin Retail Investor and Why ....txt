@@ -1,0 +1,37 @@
+Please consider using a different web browser for better experience.
+Please enable JavaScript in your browser for a better site experience.
+Since the end of 2017, the conventional thinking was that well-heeled financial institutions would take the reins from retail investors, becoming the driving force and primary investor class in crypto.
+But a report out last week from derivatives exchange ZUBR argues retail investors are not just here to stay, they could end up absorbing more than half of bitcoin’s daily fresh supply in as little as four years.
+You’re reading First Mover, CoinDesk’s daily markets newsletter. Assembled by the CoinDesk Markets Team, First Mover starts your day with the most up-to-date sentiment around crypto markets, which of course never close, putting in context every wild swing in bitcoin and more. We follow the money so you don’t have to. You can subscribe here .
+“By the time the next reward [halving] era comes around in 2024, retail could potentially account for eating up over 50% of the physical supply,” the report predicts.
+Using data from analytics firm Chainalysis, ZUBR found the number of wallet accounts holding small whole balances, anywhere between 1 to 10 bitcoins – sizes that suggest retail rather than institutional – had risen rapidly.
+Since bitcoin hit its all-time high at the end of 2017, the number of “retail” wallet holders more than doubled, reaching 215,000 by the start of June 2020.
+In total, these entities hold over 500,000 bitcoin (~$4.6 billion), up over 100,000 since the start of 2019.
+​​​​​​On average, 144 bitcoin blocks are mined every day. After the next halving in 2024, about 450 bitcoin will enter circulation each day. Assuming demand continues at its present trajectory over the next four years, ZUBR estimates the amount of new bitcoins demanded daily by retail investors could be at around 250 – well over half the daily supply four years from now.
+And that’s only wallet addresses with whole numbers. Adding in wallets with fractional balances and daily demand could be even higher. ZUBR also excluded crypto held in exchange accounts from its study.
+​​​​​​At the start of the year, approximately 1,800 new bitcoins entered into circulation each day. Since the block reward fell from 12.5 to 6.25 in mid-May, the daily bitcoin supply has dropped to just 900.
+Assuming the same level of mining activity, daily supply will likely fall down to just 225 bitcoin by the end of the decade.
+These supply pressures make a highly bullish case for bitcoin, said Jason Deane, analyst at Quantum Economics.
+“Bitcoin has a perfect supply curve, total (maximum) supply is always known, and it can only be lower due to lost coins,” he told CoinDesk.
+Although bitcoin’s total supply stands at around 21 million, the estimated number of coins believed to have been lost or otherwise irrecoverable ranges between 1.5 million, according to CoinMetrics , or even as high as 4 million, according to Unchained Capital . That puts even greater pressure on supply.
+But the real variable is demand. Should this continue to increase, there will come a point when it will outpace supply, causing bitcoin’s price to rise.
+A rising price might help burnish bitcoin’s credentials as a store of value asset; possibly creating a virtuous circle where price increases help bolster the store of value narrative which, in turn, leads to further price increases.
+Indeed, going back to ZUBR’s research, this virtuous circle may already be present.
+Since the start of 2020, balances for retail-sized entities have grown continuously month on month. Despite unprecedented market volatility – bitcoin’s price fell nearly 40% in March – there has not yet been a month so far this year where the total amount of bitcoin held in retail-sized wallets has decreased.
+Zooming out, there hasn’t been a month of net decline since April 2019. Going out even further, there have only been five months since the mining of the “genesis block”, more than 11 years ago, where the monthly amount of retail balances of bitcoin have decreased, rather than grown.
+This natural “hodling” mentality might suggest that retail investors, as an investor class, see bitcoin as a natural store of value, rather than a medium of exchange, and are, therefore, hoarding as much as they can, anticipating further price increases.
+Indeed, events such as “Black Thursday” on March 12, which temporarily took the bitcoin price down below $5,000, might have been seen more as a unique buying opportunity, rather than an existential threat to the cryptocurrency.
+In fact, some institutions and brokerages told CoinDesk at the time they were offloading as much of their bitcoin as possible onto retail investors, some buying for the first time, who were buying up to two to three times as much as they were normally.
+According to Deane, this should come as no surprise. If you assume that demand is going to continue rising, just as daily supply continues to fall, it’s reasonable that retail investors may be buying in anticipation of further price hikes.
+The market may soon be at the point where instead of dealing in bitcoins, many small-time traders will instead be buying in “satoshis,” bitcoin’s smallest divisible unit at approximately 0.00000001 BTC (currently around 0.009 of a cent).
+“Obtaining a whole bitcoin will be very difficult in the future and most people will only deal in satoshi, which will almost certainly become the norm, especially for individuals,” Deane said.
+BTC: Price: $9,106 ( BPI ) | 24-Hr High: $9,190 | 24-Hr Low: $9,025
+Trend: Bitcoin’s price bounce from lows below $8,850 seen over the weekend has run out of steam, and the cryptocurrency looks vulnerable to deeper declines.
+At press time, bitcoin is trading near $9,100, having faced rejection around $9,200 during Sunday’s U.S. trading hours.
+On the hourly chart, a bearish trendline connecting the June 22 and June 24 highs is still intact. Meanwhile, the relative strength index (RSI) has fallen back into bearish territory below 50. The MACD, too, has crossed into the negative territory.
+The same indicators are also reporting bearish conditions on the daily and three-day charts.
+In addition, the weekly chart shows signs of uptrend exhaustion: Bitcoin has been above a trendline connecting the June 2019 and February 2020 highs (yellow line) for six weeks. Even so, buyers are failing to step in.
+As a result, a retest of the weekend low of $8,830 cannot be ruled out. A violation there would expose deeper support levels lined up at $8,630 (May 24 low) and $8,638 (50-week moving average).
+On the higher side, immediate resistance is seen at $9,172, the hourly chart’s bearish trendline. Above that, the focus would shift to $9,344 (a lower high on the hourly chart). The overall bias would turn bullish only after a move above $10,000.
+Sign up to receive First Mover in your inbox, every weekday.
+The leader in blockchain news, CoinDesk is a media outlet that strives for the highest journalistic standards and abides by a strict set of editorial policies . CoinDesk is an independent operating subsidiary of Digital Currency Group, which invests in cryptocurrencies and blockchain startups.

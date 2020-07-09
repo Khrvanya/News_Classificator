@@ -1,0 +1,34 @@
+Find out how bitcoin and the blockchain works, so that you have some understanding of the system, the ledger, the major players and the public and private key elements.
+Remember bitcoin yields nothing and its main source of value is scarcity. Most bitcoin activity is trading not investing.
+Research coin wallets, the digital vaults where cryptocurrency is held, and consider security carefully. Bitcoins have been stolen before, understand how this happened.
+Be prepared for extreme volatility. The price can move by 20 per cent in one day and you could easily lose half of your cash in a far quicker time that investing in the stock market.
+Consider how you would cash in any gains. There are reports that this has proved hard for some people. A time of market stress could lead to people being locked in and unable to trade.
+Read our guide to How to be a successful investor , which looks at the far less high octane world of long-term investing and how to make it a success.
+The digital currency that most will be familiar with is free from government interference and can be shared instantly online. It doesn't rely on trusting one central monetary authority.
+The underlying technology is blockchain, a financial ledger maintained by a network of computers that can track the movement of any asset without the need for a central regulator.
+Glen Goodman, an expert and author of the book The Crypto Trader, said: 'There's a popular narrative going around social media that bitcoin will benefit from all the money printing by the US Federal Reserve, the Bank of England and other central banks.
+'The "money printer goes brrr...." meme is wildly popular.
+'All these newly created dollars, pounds and euros are being used to bail out governments, companies and workers during the global lockdown.
+'Historically, creating large amounts of new money tends to lead to inflation and can cause currencies to lose value.
+The 'money printer goes brrr' meme has become popular online with the US Federal Reserve and Bank of England announcing billions in quantitative easing. Some Bitcoin enthusiasts believe the fact it is finite makes it a hard currency that retains its value, like gold
+'In times like that, people traditionally flock to gold, which they see as a hard currency because it can't be created in infinite amounts.
+'Bitcoin is now seen by many people in the same way, because new bitcoins are created slowly and there is maximum limit of 21million bitcoins.
+'Its price has been rising recently, as people transfer some of their savings into bitcoin.'
+Gold prices have also surged and reached all-time highs in recent months, as investors piled out of stocks and bought into assets known to retain their value in times of trouble.
+Crypto enthusiasts are split on whether the halving, the third in bitcoin's history, will lead to a boom in the price as fewer coins enter digital circulation.
+Halvings take place every time 210,000 blocks are mined, occurring roughly every four years.
+Mining, put as simply as possible, is the process of adding transaction records to bitcoin's public ledger of past transactions or blockchain, done by specialised computers.
+It currently takes around 10 minutes for powerful computers to mine bitcoin and the energy consumed in doing so believed to match that of the entire population of Switzerland.
+From 11 May 2020, it will become harder to mine.
+Previous events in 2012 and 2016 saw the price reach an all-time high within three to six months, according to Isle of Man-based cryptocurrency exchange Coin Corner.
+However, those were both far lower than bitcoin's ultimate high of more than $20,000 reached two years' ago, at the height of bitcoin's boom.
+Bitcoin's price fell of a cliff at the start of March but has rebounded, especially as the halving got nearer
+Coin Corner chief executive Danny Scott believes bitcoin reaching a $1million price tag within five years wasn't unrealistic.
+He said: 'As the third halving event to occur, there are expectations for what might come after, with history telling us that the bitcoin price will typically begin to rise significantly within the 12 months following a halving - something that can be simply put down to supply and demand.
+He added the exchange, which allows people to buy bitcoin and other cryptocurrencies, had seen an increase in customers every month of this year.
+Searches for 'Bitcoin halving' hit an all-time high over the last few weeks, beating out searches during previous events in 2012 and 2016
+'February was up 5 per cent compared to January and March was up 17.6 per cent compared to February', he said. 'We expect to see this trend continue, not just for the next month, but for the next year.'
+It is possible people are piling in ahead of the halving expecting their holdings to increase in value afterwards, with Google Trends data finding the highest number of searches for 'bitcoin halving' in the cryptocurrency's 11-year history in early April.
+But some are less convinced the halving will lead to a bitcoin bull run.
+Goodman added: 'The halving is a big part of the bullish Bitcoin narrative; it's helping to drive prices higher because it's got a lot of people excited.
+'But in a fundamental sense, it doesn't have as big an impact as many people seem to believe.

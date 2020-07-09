@@ -1,0 +1,30 @@
+1 min read . Updated: 03 Sep 2019, 04:36 PM IST Staff Writer
+Gold and silver prices rose closer to record highs in Indian markets today, bucking global weakness. A sharp fall in rupee's value against the US dollar pushed gold and silver prices higher in Indian markets.  On MCX, gold futures rose 0,42% to ₹39,109 while silver futures hit a new high of ₹48,970, rising about 0.5%. The rupee tumbled to 72.37 a dollar against the US dollar, amid a broad strengthening of the greenback, as compared to its previous close of 71.40 a dollar. Gold prices had hit a new high of ₹39,425 last week.
+In global markets, gold prices slipped 0.3% to $1,525 an ounce after hitting a six-year high of $1,554.56 last week. Gold prices are up around 20% so far this year amid inflows into gold-backed assets. US-China trade war, volatility in risk assets like equities, and central banks signalling a looser monetary policy have boosted the safe-haven appeal of gold. Analysts at Goldman Sachs and UBS Group say gold prices are likely to advance further as demand for ETFs rises.
+Inflows into gold-backed ETFs topped 100 tons in August, the highest since February 2013, according to a Bloomberg report. Holdings rose 101.9 tons, bringing total known assets to 2,453.4 tons, the third straight monthly increase after the addition of a combined 154.1 tons in June and July, the report added.
+Veteran investor Mark Mobius also remains positive on gold , saying that investors should allocate about 10% of their assets in physical gold.
+In the latest escalation in their trade war, the US on Sunday began imposing 15% tariffs on a variety of Chinese goods on Sunday while China also imposed new duties on US crude oil. China also said that it has lodged a complaint against the US at the World Trade Organization over US import duties.
+Back in India, jewellers hope that upcoming festive season will improve gold demand, which has been hurt due to high prices. The domestic price includes a 12.5% import tax and 3% sales tax. The depreciation of the rupee, which is down about 3.5% so far this year, and an import duty hike in July, have pushed gold prices to record highs in India.
+* Thank you for subscribing to our newsletter.
+Click here to read the Mint ePaperLivemint.com is now on Telegram. Join Livemint channel in your Telegram and stay updated
+You are now subscribed to our newsletters. In case you can’t find any email from our side, please check the spam folder.
+lozad('.lozad', { load: function(el) { el.src = el.dataset.src; el.onload = function() { el.classList.add('fade')}}}).observe()
+.myAccount .planSec, .myAccount a.LinkCTA{padding:16px; margin:16px; box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.1); background-color: #fff;}
+	       		var userData = data;
+	       		var name = userData.name;
+	       		var email = userData.email;
+	       		var signupSource = userData.source;
+	       		var subscribedAtOnce = userData.subscribedAtOnce;
+	       		var plan  = userData.plan;
+	       		document.getElementById('uName').innerHTML = "<strong>"+name+"</strong>" + email;
+		       		var status = planData.status;
+		       		var purchaseSource = planData.source_device;
+			       		var nextActivationDate = planData.current_term_ends_at;
+			       		var planDescription = planData.plan.description;
+			       		var planName = planData.plan.name;
+			       		var planPrice = planData.amount;
+			       		//var planInterval = planData.shipping_interval;
+			       		var planInterval = planData.duration;
+			       		var planUnit = planData.interval_unit;
+			       		//var html = "<strong>Your Subscription Plan</strong>"+planName+" ₹"+planPrice+" / "+planInterval+" " + nextBillingHtml + cancelHtml; 
+			       		var html = "<strong>Your Subscription Plan</strong> "+planDescription + " "+ planName +": ₹"+planPrice + " "+ nextBillingHtml + cancelHtml;

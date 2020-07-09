@@ -1,0 +1,13 @@
+Crypto exchange Coinfield is to make stocks such as Tesla and Apple tradable on the popular XRP ledger (XRPL), it announced today.
+Stocks and ETFs from over 25 global stock exchanges and fiat-backed stablecoins will be available for trading on top of Ripple's XRP ledger from next year via a new platform "Sologenic," Coinfield’s CEO Bob Ras told Decrypt.
+“It’s an ecosystem, merging traditional financial market assets—non-blockchain financial systems—with crypto assets,” he said. "We offer our customers the ability to tokenize any asset on demand. Users can tokenize over 30,000 stocks and ETFs.”
+Coinfield uses its crypto, Solo (Ƨ,) to provide a bridge between crypto assets and stocks or ETFs. Solo is paired directly with fiat, and used as collateral to settle transactions with third-party brokerage firms.
+Tesla shares, for example, would be converted to a tokenized stablecoin version of TSLA, TSLAƨ. And USD would become USDƨ.
+These stablecoins will be tradable against XRP and Solo on CoinField’s exchange and the XRPL DEX.
+“We offer users ability to tokenize any asset, or fiat. A user from, say, Japan can tokenize fiat on top of XRPL and they can move their funds almost instantly to the XRP blockchain,” said Ras. “We’re helping [with the] mass adoption of cryptocurrencies, and we get more users to invest in the stock market,” he added.
+The project has been six months in development, and Coinfield’s partners include top securities legal firms, Wietse Wind, the founder of XRPL Labs and online banking firm Cashaa.
+It will launch in Q1 with a public IEO. Solo holders will then be able to trade their coins for Bitcoin, and other assets. They’ll also be given a “Crypto Card” so they can use crypto assets as collateral and spend instantly anywhere in the world, said Ras.
+In Q2, Coinfield is planning to launch its decentralized exchange, but users will need to wait until later in the year to trade securities on the platform. Ras said that the exchange anticipates acquiring a securities brokerage license, from the Estonian regulator, within six months.
+Coinfield enables trade against six fiat currencies and launched in February 2018. It’s currently based in Canada but is in the process of transferring its head office to Spain.
+Last week, the exchange launched an XRP validator, and was included in Ripple’s “Unique Node List” (UNL,) of trusted tier-one validators on the network.
+In the same week Ripple and XRP fans also welcomed a decentralization milestone for the XRP Ledger. According to its transaction ledger, 80 percent of its validators are now third-parties.

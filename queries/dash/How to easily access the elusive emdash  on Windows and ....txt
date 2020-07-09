@@ -1,0 +1,16 @@
+Unfortunately, the em-dash — and the en-dash (–) for that matter — is not popular enough to deserve its own place on the keyboard. Instead, you’ll need to use a shortcut. The problem is the shortcut varies across operating systems.
+No worries, we’re here to help. Here’s how to type em-dashes and en-dashes on both Mac and Windows systems.
+Admittedly, Mac makes it easier to use em- and en-dashes than Windows. There’s a pretty simple shortcut which works on laptops and desktop macOS systems by default.
+To type an en-dash, you’ll need to press the Alt key and the Minus key at the same time. That’s it, you’ve now got an en-dash (–).
+The em-dash works similarly — it merely requires one extra key. Hold down Alt + Shift + Minus for an em-dash. Boom, that’s it.
+Windows tends to be a little less friendly to dash admirers, but things have gotten better with the release of its own emoji keyboard — it’s actually got a somewhat convenient shortcut for em and en-dashes built into it.
+Press the Win key and the dot (.) at the same time to get to the emoji keyboard.
+At the top of the keyboard, navigate to the symbols menu (the omega icon).
+You should see the en- and em-dashes towards the bottom of the keyboard.
+Another alternative is to use Alt codes. There’s a catch, however: Alt codes don’t always work on laptop keyboards. This was the case with the Razer Blade, which I recently tested .
+For an em-dash, hold down the Alt key and type 0151, then release the Alt key. That’s it!
+For an en-dash, hold down the Alt key and type 0150, then release the Alt key. Pretty simple, right?
+Well, that’s it. Now you know how to use en- and em-dashes on Mac and Windows.
+Read next: The evolution of sex toys: From 30,000-year old stone dildos to hi-tech vibrators
+Celebrate Pride 2020 with us this month!
+Why is queer representation so important? What's it like being trans in tech? How do I participate virtually? You can find all our Pride 2020 coverage here .

@@ -1,0 +1,18 @@
+Please consider using a different web browser for better experience.
+Please enable JavaScript in your browser for a better site experience.
+Hong Kong-based cryptocurrency platform Crypto.com has revamped its digital exchange.
+The new upgrades are expected to increase the performance and throughput of the exchange tenfold, the company announced Thursday. Changes include improvements to speed, scalability and security.
+The Crypto.com exchange launched in beta at the end of last year. The exchange is one of many services offered on the platform alongside currency accounts, debit cards and a mobile app. Company co-founder and CEO Kris Marszalek told CoinDesk the firm is planning to end the trial phase by the end of the year, and the infrastructure upgrades are expected to pave the way for new features including margin trading and derivatives trading.
+“With the enhanced performance of the exchange and new features in the pipeline, we want to eliminate any reason for users to go elsewhere, and function as their trusted ‘one-stop shop’ for their digital asset needs,” Marszalek said in an email.
+CIO Matthew Chan told CoinDesk that to accommodate new features, Crypto.com had to change the foundation on which the exchange was built.
+“What we did here was essentially the equivalent of changing the engine on an airplane mid-flight,” Chan said in an email.
+According to Chan, the tenfold increase in performance is thanks to a revamped matching engine and order management system. For high-frequency traders, this would translate into faster response times, stability and access to real-time data.
+Chan also took on the improvement of scalability, or processing capabilities, during peak transaction traffic.
+“The aim we had when making our adjustments was to build a dynamic system which in theory can scale infinitely,” Chan said.
+Crypto exchanges are vulnerable to attacks , with users losing their currency held in exchanges or wallets online. Crypto.com holds 100% of user funds offline in cold storage . According to Marszalek, this is not something the platform is willing to change, despite opening it up to increased transaction volumes.
+Read more: Users See ‘Buying Opportunity’ in Coronavirus Market Downturn, Says Crypto.com
+“This was a golden opportunity for us to reassess all elements of our architecture, and fully integrate DevSecOps into our development lifecycle,” Chan added. “The tech stack, internal communications and other major aspects of all systems have been carefully reviewed, and stress-tested by both internal and external ethical hackers.”
+For Marszalek, the new upgrades are part of a larger vision. Crypto.com was founded by Marszalek in 2016 as Monaco, a payment platform with its own MCO token. In 2017, the company’s initial coin offering raised $26.7 million. The next year, Monaco was rebranded as Crypto.com, which currently holds $360 million in cryptocurrency insurance.
+“Our three core business pillars consist of payments, trading and lending. As of today, trading is the biggest contributor to our bottom line,” Marszalek wrote in an email.
+Crypto.com has 2 million users on its platform, Marszalek said.
+The leader in blockchain news, CoinDesk is a media outlet that strives for the highest journalistic standards and abides by a strict set of editorial policies . CoinDesk is an independent operating subsidiary of Digital Currency Group, which invests in cryptocurrencies and blockchain startups.

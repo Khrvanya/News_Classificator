@@ -1,0 +1,10 @@
+The regulator thinks it's still early for accurately classifying digital assets.
+The Autorité des Marchés Financiers (AMF) has clarified its position on crypto assets in its response to the European Commission’s consultation.
+Though the French regulator defines any crypto asset as “a digital asset that may depend on cryptography and exists on a distributed ledger,” it still thinks it’s early for the precise classification of such assets.
+The regulator, however, clarified that proper distinction between crypto-assets that are qualified as financial instruments and that falls under electronic money should be made.
+“We believe it is important to keep the electronic money regime, which is relevant and should not be undermined by a new regulation. However, it would be useful to work on the articulation between the different regimes,” the regulator stated.
+The French regulator is also concerned with the wide-spread use of stablecoins and pointed out that authorities could ban them if necessary.
+This echoes with the country’s stand against Facebook’s proposed digital currency Libra and its concerns for its impact on the economy.
+“This proposal would allow a regulatory framework to apply to any stablecoin regardless of its size,” the response noted. “However, this requires the ability to draw a line between stablecoins which would be concerned by mandatory requirements and other payment tokens only partially covered by mandatory requirements.”
+The response also pointed out the benefits of initial coin offerings (ICO) over the traditional initial public offerings (IPOs) but is concerned with the risks associated with such funding techniques.
+Notably, the AMF last month approved registration of Coinhouse, a crypto trading company, paving its way for obtaining a banking license in the country. It was the first digital asset company obtaining such approval from the regulator.

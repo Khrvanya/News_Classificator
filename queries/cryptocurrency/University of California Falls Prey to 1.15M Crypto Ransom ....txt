@@ -1,0 +1,14 @@
+It’s no secret that the crypto industry is rife with scams, hacks, and other nefarious activities, with the decentralized and private nature of many digital assets being conducive to these types of undertakings.
+The latest group to fall victim to one of these scams is a school within the University of California system, who paid an online gang $1.14 million to gain access to files that were encrypted due to malware that spread throughout their computer system.
+According to a recent report from BBC – who followed the conversation between the two parties thanks to an anonymous source – the Netwalker criminal gang extorted over $1 million in Bitcoin from the University of California, San Francisco (UCSF) earlier this month.
+Shortly after the malware had infected the university’s computer system, the IT department was directed to a page on the dark web the resembled a standard customer service page.
+They then engaged the criminals in a conversation on the site, who instructed that they pay $3 million in crypto to have access to their files and computers restored. Otherwise, they threatened, the files would all be wiped clean.
+The University offered to pay $780,000, but the hackers claimed that this is not enough considering that the university makes “billions per year” and demanded they pay $1.5 million in crypto.
+The university eventually offered a total of $1,140,895, which was accepted by the hackers.
+The next day, 116.4 Bitcoin was transferred into the gang’s crypto wallets.
+These actions run counter to recommendations from most law enforcement agencies across the globe, who argue against making contact or sending payment to any of these digital ransom rings.
+“The data that was encrypted is important to some of the academic work we pursue as a university serving the public good. We therefore made the difficult decision to pay some portion of the ransom, approximately $1.14 million, to the individuals behind the malware attack…”
+Ransom schemes are becoming commonplace, and law enforcement officials remain ardent in their stance against victims sending Bitcoin or any other crypto to these criminals.
+Jan Op Gen Oorth – a Europol agent – stated that paying the ransom just encourages more of it to take place.
+“Victims should not pay the ransom, as this finances criminals and encourages them to continue their illegal activities.”
+Because crypto-assets like Bitcoin can easily be sent through a “mixer” that makes it incredibly difficult to track, it is unlikely that victims who pay these organizations will ever be able to recover the stolen funds.

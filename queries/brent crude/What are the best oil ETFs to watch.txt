@@ -1,0 +1,25 @@
+These investments were chosen as examples of six different types of oil fund: a Brent oil ETF, a WTI fund, a leveraged oil ETF and a short oil ETF – plus funds that track large- and small-cap oil stocks.
+The WisdomTree Brent Crude Oil ETC is designed to track the Bloomberg Brent Crude Subindex. It is collateralised by swaps, which are held with the Bank of New York Mellon.
+Buying BRNT gives you exposure to movements in the price of Brent – one of the most popular oil benchmarks in the world, which is classed as oil drilled in North Sea fields.
+BRNT posted a positive performance in 2019, but like most oil investments, it plummeted in the early months of 2020. Alongside BRNT, WisdomTree also manages a fund that tracks the price of Brent futures contracts with one-month expiries: OILB.
+The United States Oil Fund seeks to track the daily percentage price changes of light, sweet oil delivered to Cushing, Oklahoma – better known as West Texas Intermediate, or WTI.
+WTI is the lightest, sweetest oil of the major benchmarks, meaning it has low sulfur and is of high quality. All WTI is produced in the US.
+USO is a commodity ETF, so its holdings are intended to help it track the price of WTI. It mostly achieves this using futures contracts, although it also holds US Treasury bills.
+Leveraged oil ETFs are designed to multiply the performance of an underlying index. ProShares Ultra Bloomberg Crude Oil tracks the Bloomberg WTI Crude Oil index – but aims to double its daily movements. So if WTI gains 50 points in a single day, UCO should move up 100 points.
+UCO uses futures contracts across the New York Mercantile Exchange (NYMEX) and Intercontinental Exchange (ICE) exchanges to track the price of WTI.
+The ProShares UltraShort Bloomberg Crude Oil, meanwhile, also offers leveraged exposure to WTI. But it’s an inverse ETF, which means it aims to move in the opposite direction. So if WTI gains 50 points in a single day, SCO should move down 100 points.
+As an inverse ETF, SCO is a rare oil investment that has grown in price in recent months. Like UCO, it uses futures contracts to track its index.
+The Energy Select Sector fund is venerable in terms of ETFs – it was launched all the way back in 1998. It tracks the Energy Select Sector index, which includes large-cap companies across the US involved in oil and gas, as well as energy equipment.
+XLE’s top holdings are Chevron Corp , ExxonMobil and ConocoPhillips , three of the biggest US petroleum companies.
+Invesco’s S&P SmallCap Energy tracks the S&P SmallCap Energy index. It focuses on smaller energy companies that are listed in the US.
+PSCE doesn’t only hold oil companies – 6% of its holdings are in Renewable Energy Group, for example. But it does offer exposure to lots of small-cap oil and gas companies, including SouthWestern Energy , Dril-Quip and Range Resources .
+Open a live account and pick from thousands of global markets, including a range of oil ETFs
+If you want to trade on commodity prices, you can open a CFD trading account . CFDs enable you to go long and short on Brent, WTI, natural gas and more.
+Alternatively, open a demo to try trading without risking any capital.
+There are a few different types available, including leveraged and short ETFs
+Oil supply and demand is variable, which often leads to volatility in the commodity’s price
+Create an IG account to take your position, or find out more about oil trading
+The information on this page does not contain a record of our trading prices, or an offer of, or solicitation for, a transaction in any financial instrument. IG Bank S.A. accepts no responsibility for any use that may be made of these comments and for any consequences that result. No representation or warranty is given as to the accuracy or completeness of this information. Consequently any person acting on it does so entirely at their own risk. Any research provided does not have regard to the specific investment objectives, financial situation and needs of any specific person who may receive it and as such is considered to be a marketing communication. Although we are not specifically constrained from dealing ahead of our recommendations we do not seek to take advantage of them before they are provided to our clients. See full non-independent research disclaimer .
+Trade commodity futures, as well as 27 commodity markets with no fixed expiries.
+Wide range of popular and niche metals, energies and softs
+Spreads from 0.3 pts on Spot Gold, 2 pts on Spot Silver and 2.8 pts on Oil

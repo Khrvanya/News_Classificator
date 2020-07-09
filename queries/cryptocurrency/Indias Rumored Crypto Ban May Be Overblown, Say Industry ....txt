@@ -1,0 +1,32 @@
+Please consider using a different web browser for better experience.
+Please enable JavaScript in your browser for a better site experience.
+India’s Rumored Crypto Ban May Be Overblown, Say Industry Pros
+India’s Rumored Crypto Ban May Be Overblown, Say Industry Pros
+Rumors that India might be considering a new ban on crypto may be premature, according to exchange founders and startup CEOs working in the sector.
+Indian news site The Economic Times created a stir Friday by suggesting lawmakers in India, where the Supreme Court overturned a punitive banking ban from the Reserve Bank of India (RBI) only four months ago, were planning on slapping a new ban on crypto companies.
+The article , titled “With a law, India plans lasting ban on crypto,” cited one unnamed “senior government official” who told The Economic Times, “A note [presumably on crypto] has been moved (by the finance ministry) for inter-ministerial consultations.”
+The article doesn’t provide any information on what the note could be but says it was spurred on by the Supreme Court ruling, which allowed crypto exchanges to finally access banking services after nearly two years stuck in the wilderness.
+The article said the government could lean on a previous government draft law, from July 2019, that proposed all forms of cryptocurrency be banned, with anyone caught holding them facing up a fine and up to 10 years imprisonment.
+But is there any substance to this?
+Well, the report in question relates to one published by a government panel, chaired by former Economic Affairs Secretary Subhash Chandra Garg. While the report recognizes blockchain technology is an “important new and innovative technology,” it notes, “with serious concern,” that the use of cryptocurrencies in India is “mushrooming” at an alarming rate.
+Highlighting that many crypto assets don’t have any intrinsic value and supporting the RBI ban, the report concludes: “The Committee has recommended a law banning the cryptocurrencies in India and criminalising carrying on of any activities connected with cryptocurrencies in India.”
+The only exception, they say, would be a digital currency issued by the state itself.
+Speaking to CoinDesk, Nischal Shetty, the founder and CEO of WazirX, a local exchange acquired by Binance late last year, said a blanket ban on crypto wasn’t what he was seeing.
+“This is all leaked information,” Shetty said. “There is movement for sure, but no one has been able to get clarity on whether it specifically talks about a ban, or whether it talks about just moving forward with regulation. There are a lot of assumptions.”
+Based on his own government sources, Shetty said he believes the Finance Ministry is consulting with other government departments to determine what the next regulatory step should be.
+“I’ve personally met people in government, right, ministers in Parliament, and what I’ve seen is they’ve been very positive about regulating,” Shetty said. “Some of them have been very vocal that a ban is not the solution because they understand technology … they understand that banning a technology is not a solution.”
+The original draft bill from the Garg committee – which has long since been wound up – is still floating in the Finance Ministry and Shetty agrees it could form part of the “default content” when determining how to move forward with crypto regulation.
+“Someone from the Finance Ministry has proposed that they should consider looking into cryptocurrencies and figuring out what to do, either to ban it, or to regulate it,” Shetty said, as the lifting of the RBI ban has made this a priority for officials. “[The government] wants to see progress and regulations,” he added.
+But, he points out, the idea of reaching out to other departments is in order to take in other viewpoints. Citing Bloomberg Quint’s appraisal of the note, Shetty highlighted: “if in any way, they [the Finance Ministry] get pushback that a ban is not the right way approach, then they would set up another committee, which would explore [crypto] regulation.”
+“I see this as a positive step,” he continued, “there is no clarity in India today. It’s a good thing that someone is taking the initiative.”
+Shetty’s thoughts have been echoed elsewhere.
+A spokesperson for the Bangalore-based exchange CoinSwitch said, “the report has no mention of the particular government body responsible for such actions or contains quotes from reliable sources. As such there is a lack of clarity and until further details reveal we would carefully monitor the situation.”
+Similarly, Sumit Gupta, the co-founder and CEO of CoinDCX, one of the country’s largest exchanges, told CoinDesk in an email that “reconsidering past bills is likely part of the process of forming clearer regulations around the use of cryptocurrencies within India.”
+Gupta noted the lifting of the RBI ban has led to record trading volumes and user adoption, calling recent growth in the sector “unprecedented.”
+CoinTelegraph reported earlier this week there has been a flurry of new exchanges launching in India, as well as a wave of outside investment from global players, including OKEx and Binance.
+“Given the previous open-mindedness of government officials and regulators in the Supreme Court case, where they were willing to engage with cryptocurrency sector leaders in dialogue about the future of the industry – we are confident that a similarly communicative approach will be taken in making this decision,” Gupta said.
+Among some of the existing industry players in India’s crypto scene, a consensus is building around starting more formal dialogues with officials. There’s already an active crypto-related trade body within the Internet and Mobile Association of India, which helped challenge the RBI ban.
+Shetty said WazirX was looking at creating a self-regulatory framework.
+“We have to show our government on why we are already practicing KYC [know-your-customer verification] and all the standard practices in India as exchanges,” he said. “I think a formal regulatory note from us would be helpful in going in the right direction.”
+CoinDesk reached out to the India’s Finance Ministry for comment but did not receive a response by press time.
+The leader in blockchain news, CoinDesk is a media outlet that strives for the highest journalistic standards and abides by a strict set of editorial policies . CoinDesk is an independent operating subsidiary of Digital Currency Group, which invests in cryptocurrencies and blockchain startups.

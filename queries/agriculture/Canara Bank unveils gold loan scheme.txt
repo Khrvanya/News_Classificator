@@ -1,0 +1,33 @@
+1 min read . Updated: 19 May 2020, 09:06 AM IST IANS
+Though gold is held by Indians as a family asset in the form of jewellery and coins, it is seldom leveraged for monetary requirements
+State-run Canara Bank has unveiled a special gold loan scheme for diverse sectors with lower interest rate to overcome the financial fallout of the coronavirus pandemic, an official said on Monday.
+"The loan can be availed for agriculture, agri-allied sectors, medical and personal emergencies and overdraft facilities by the needy pledging their gold as a collateral security," said the city-based bank in a statement.
+The scheme is on offer till June 30 with 7.85 per cent interest per annum.
+"As coronavirus changed the socio-economic order, managing daily expense, business continuity, health and family care has become a challenge for many. The scheme aims to meet the financial needs of the customers," the statement said.
+"The gold loan facility is offered from all our branches across the country to provide liquidity to revive customers' business and restore normalcy in their lives," said Canara Bank General Manager D. Vijay Kumar.
+Though gold is held by Indians as a family asset in the form of jewellery and coins, it is seldom leveraged for monetary requirements.
+"In times of need, this asset can be utilised to avail credit to support emergency cash requirements," Kumar added.
+The loans are payable in three years with flexible repayment options. The borrowing limit ranges from ₹10 lakh to ₹20 lakh.
+* Thank you for subscribing to our newsletter.
+Click here to read the Mint ePaperLivemint.com is now on Telegram. Join Livemint channel in your Telegram and stay updated
+You are now subscribed to our newsletters. In case you can’t find any email from our side, please check the spam folder.
+lozad('.lozad', { load: function(el) { el.src = el.dataset.src; el.onload = function() { el.classList.add('fade')}}}).observe()
+.myAccount .planSec, .myAccount a.LinkCTA{padding:16px; margin:16px; box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.1); background-color: #fff;}
+	       		var userData = data;
+	       		var name = userData.name;
+	       		var email = userData.email;
+	       		var signupSource = userData.source;
+	       		var subscribedAtOnce = userData.subscribedAtOnce;
+	       		var plan  = userData.plan;
+	       		document.getElementById('uName').innerHTML = "<strong>"+name+"</strong>" + email;
+		       		var status = planData.status;
+		       		var purchaseSource = planData.source_device;
+			       		var nextActivationDate = planData.current_term_ends_at;
+			       		var planDescription = planData.plan.description;
+			       		var planName = planData.plan.name;
+			       		var planPrice = planData.amount;
+			       		//var planInterval = planData.shipping_interval;
+			       		var planInterval = planData.duration;
+			       		var planUnit = planData.interval_unit;
+			       		//var html = "<strong>Your Subscription Plan</strong>"+planName+" ₹"+planPrice+" / "+planInterval+" " + nextBillingHtml + cancelHtml; 
+			       		var html = "<strong>Your Subscription Plan</strong> "+planDescription + " "+ planName +": ₹"+planPrice + " "+ nextBillingHtml + cancelHtml;

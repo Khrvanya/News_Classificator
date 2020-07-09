@@ -1,0 +1,28 @@
+Keep up to date with all the latest news from Coin Rivet. By signing up, you agree to our terms & conditions and privacy policy
+With the growth of the Bitcoin futures market over the last year, what other solutions could bridge the gap between Bitcoin, altcoins, and the unbanked?
+A futures contract is a technique used to hedge positions and reduce the risk of the unknown.
+In the case of Bitcoin, futures are mostly associated with speculators who wish to use traditional, regulated financial services to bet on the price of Bitcoin.
+Essentially, Bitcoin futures allow for traditional investors to enter the Bitcoin space and participate in the markets without having to go through all the steps needed to buy actual Bitcoin.
+As Andreas Antonopolous explains in this interview with Ivan on Tech, the more developed a market is, the more options will appear to bet on the price of said market.
+In this article, I will take a look at how the Bitcoin futures market has been developing. In addition, I’ll look into why traditional finance, such as the banking sector, is looking to develop blockchain-based solutions.
+— skew (@skewdotcom) January 15, 2020
+One of the most important metrics to look at in any market is volume. The more volume a market has, the more mature it is. Looking at the Bitcoin futures market, volume seems to be spiking .
+The tweet above from Skew Analytics shows the total volume of Bitcoin futures worldwide has hit $25 billion. This increase in volume could be derived from the recent Bitcoin price increase or could actually be the driver of the current positive momentum.
+Moreover, data from the CME Group shows that as of this month, open interest for its Bitcoin futures products alone totalled over 5,000 contracts. In Bitcoin, that’s just under 27,000 BTC, representing over $230 million at current USD prices.
+The CME report from January 7 also shows a sharp increase in buyers. A total of 5,400 contracts have been negotiated – 3% above 2019’s July high.
+With the massive rise in the number of Bitcoin futures contracts, I personally wonder whether institutions are only adopting Bitcoin because of its price.
+Are financial institutions building blockchain-based products as well? What platforms, products, and cryptocurrencies have been targeted by the banking sector?
+In addition, can blockchain technology bring value to the banking sector and could people benefit from it?
+Not only could a flourishing Bitcoin futures market bring more attention to the space in terms of speculation, it could also encourage institutions to start adopting blockchain solutions.
+As Coin Rivet reported last year, JP Morgan is working on developing its own cryptocurrency, while social media giant Facebook is also planning to launch its native blockchain-based token Libra this year.
+Added to this, solutions like Ripple are striking an increasing number of partnership deals with key players in the banking and financial sectors.
+Both @xarnetwork and Opera are now live, and it's more than what I signed up for when I joined the company in April 2018.
+With the current development and the team we built around Fantom, 2020 is looking better than ever. I can't wait to see what's in store for us.
+— Michael Chen (@CryptoMHchn) December 27, 2019
+Institutions are certainly starting to pay more attention to blockchain technology. Solutions like Hyperledger or R3’s Corda are getting serious traction.
+New solutions in the DeFi space are also adopting a decentralised approach, such as Maker or Compound, as well as taking permissioned and private blockchain technology to the banking sector.
+XARNetwork , a solution developed over the Fantom protocol , offers the best of both worlds, combining the advantages of both traditional banking systems and blockchain systems.
+Like other lending protocols, XARNetwork can collateralise assets on its blockchain to issue stable-value tokens on-chain, trade synthetic instruments, lend value, and generate returns on holdings (like staking).
+However, this DeFi solution does not want to replace banking. The goal is to connect traditional banking with blockchain solutions.
+If the goal of many cryptocurrency enthusiasts is to fix the problem of the unbanked – the large percentage of the world’s population who have no access to a bank account – perhaps enabling banks to access the interoperable features of blockchain may not be such a bad idea.
+As such, protocols such as XARNetwork, Hyperledger, and Compound could help bridge the gap between the banks and the unbanked.

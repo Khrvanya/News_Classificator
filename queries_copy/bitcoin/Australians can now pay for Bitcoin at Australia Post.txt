@@ -1,0 +1,29 @@
+Customers of local cryptocurrency exchange Bitcoin.com.au can now pay for bitcoin at over 3,500 Australia Post branches.
+Bitcoin’s insatiable advance towards greater adoption and proliferation has taken a huge turn, as far as Australians are concerned.
+As of today, Australians can pay for Bitcoin at more than 3,500 Australia Post branches across the country.
+According to crypto exchange Bitcoin.com.au , the new service was launched to promote cryptocurrencies to the mainstream audience, as well as boosting adoption among established businesses and organisations in Australia.
+The agreement was first unveiled in early May as part of the exchange’s broader plans to widen crypto accessibility, expand sales and boost commissions.
+Bitcoin.com.au customers are already able to pay for their Bitcoin at 1,500 retail outlets in the Blueshyft payment network, at 1,200 newsagents and can utilise online payment option POLi to make Bitcoin purchases via online banking.
+“This is a major milestone for digital currency in Australia and around the world. It proves that there are established businesses and organisations that want to learn about new technologies by doing, and not by blocking,” Bitcoin.com.au chief executive officer Holger Arians said.
+Bitcoin.com.au’s cryptocurrency collection service works by users first visiting the company’s website to place an order between $5 and $50,000, in exchange for a corresponding amount of Bitcoin or Ethereum – two of the world’s most popular cryptocurrencies.
+Users are then issued with a “wallet address”, a staple part of any crypto transaction which allows users to receive their cryptocurrency into a pre-existing crypto wallet.
+Surprisingly to some, and contrary to popular opinion that crypto transactions are entirely anonymous, Bitcoin.com.au will also collect and verify identification information via Australia Post’s Digital ID service, to stay compliant with Australian Government regulations.
+Bitcoin price chart in US dollars.
+Having set up a crypto wallet, a Bitcoin.com.au account and after having their ID verified, individuals can then attend any of Australia Post’s 3,500 branches to make a payment through EFTPOS or with cash.
+According to Bitcoin.com.au, “it should only take a few minutes to see your coins in your wallet” in addition to email confirmation, which allows users to track the transaction on the blockchain.
+“Our mission is to make Bitcoin safe and easy for every Australian. For many people, paying for Bitcoin at an Australia Post office feels safer than transferring funds online — particularly for first-time buyers,” said Mr Arians.
+Over the past five years, cryptocurrencies have emerged as one of the most novel financial instruments in history. Their influence, so far, has been trivial given that less than 1% of the world’s population owns any of them.
+According to consumer data provider Statista, the number of blockchain wallet users worldwide rose from around 7 million in 2016 to over 34.6 million in 2019.
+Growth has been rapid but total adoption remains limited relative to the total population.
+If Statista’s statistics are accurate, it would indicate that only 0.4% of the world’s population is “crypto-ready”, so to speak.
+Early indications are emerging that crypto payments will become ubiquitous in Australia (and other developed countries) eventually.
+People can now pay for a Coca-Cola with Bitcoin.
+The recent deal between Coca-Cola and Centrapay which deployed 2,000 Bitcoin-ready Coca-Cola vending machines in Australia and New Zealand, is a case in point.
+Coca-Cola announced that its customers can use an associated “Sylo Smart Wallet” with its vending machines through their smartphones or a QR code payment sticker.
+In parallel to the proliferation of cryptocurrencies among consumers, is the adoption of blockchain and distributed ledger technology (DLT) by businesses and large organisations.
+Banks, in particular, are actively looking at how they can use blockchain to streamline payments between intermediaries without having to clear transactions through central banks, which can take several days for the transactions to be reconciled.
+Stock exchanges are also getting in on the act. The ASX is exploring not only how blockchain speeds up share transactions , but also how DLT streamlines them, making them more transparent and fraud-proof.
+Currently, it takes around three business days for physical share trades to be completed on the ASX, from the time the trade is made on the exchange until the payment and transfer of legal ownership are completed.
+Blockchain could potentially streamline the entire process and allow investors to buy and sell stocks in seconds rather than days.
+Bitcoin.com.au’s partnership with Australia Post is a small step towards cryptocurrencies going mainstream with the likes of PayPal, Venmo, 7-Eleven, CVS Pharmacies and Rite Aid Pharmacies all making recent announcements about venturing into facilitating Bitcoin transactions.
+For the time being, the US is spearheading the advance into crypto proliferation among consumers, but Australia is gradually catching up.

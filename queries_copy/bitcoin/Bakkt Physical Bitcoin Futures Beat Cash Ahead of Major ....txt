@@ -1,0 +1,12 @@
+Volumes for Bakkt’s futures delivered in BTC are trumping fiat settlements as markets rise to fill a days-old CME gap.
+Bitcoin ( BTC ) futures platform Bakkt now sees most of its contracts settled in BTC, not cash, the latest data reveals.
+According to analytics resource Skew, the latest date for which data is available in May produced $34 million for Bakkt’s physically-settled Bitcoin futures.
+Cash-settled Bitcoin futures recorded $9.3 million in volume, while total open interest was $7.6 million.
+The trend reverses the previous status quo, under which futures settled in fiat saw larger volumes. This was the case throughout March and April, as volatility underscored investors’ desire for cash.
+May meanwhile also saw a daily record for physically-settled futures at Bakkt at $43 million.
+This Friday will further see 50% of open interest expire at fellow non-exchange futures provider CME Group . As Cointelegraph reported , such settlement dates tend to compound downward price pressure on Bitcoin in the short term.
+CME’s open interest hit its own all-time high in the first week of the month.
+Nonetheless, a “gap” which opened up in the CME order book over the weekend was conspicuously “filled” on Wednesday, in line with another regular trend seen since 2017 when Bitcoin futures began trading.
+BTC/USD suddenly rose from $8,900 to $9,200 on the day, sealing the gap, which lay between $9,065 and $9,180.
+Institutional Bitcoin investment has returned to the spotlight in recent weeks. A major event for commentators was an admission by billionaire hedge fund player Paul Tudor Jones that he now kept up to 2% of his net assets in BTC.
+Thereafter, RT host Max Keiser among others claimed that sooner or later, others would have no choice but to follow his conspicuous endorsement of the cryptocurrency.

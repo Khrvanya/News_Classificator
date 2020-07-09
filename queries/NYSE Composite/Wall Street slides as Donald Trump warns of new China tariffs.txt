@@ -1,0 +1,46 @@
+Pivot Or Perish Market Dashboard India-China Face-Off The Future Of Covid Tracker Lounge Coronavirus India2Global Emerging Tech Conclave #WFHLife Long Reads Money With Monika, Season 4 Mint 50 - Top Mutual Funds Plain Facts Mark To Market Podcasts Money With Monika, Season 3 Companies Markets Money Start-ups Mutual Funds Insurance Technology Industry Opinion Politics
+2 min read . Updated: 01 May 2020, 09:46 PM IST C Nivedita , Shreyashi Sanyal , Reuters
+The S&P 500 technology sector shed 1.5% in early trading, while the trade-sensitive Philadelphia Semiconductor index fell 4%
+The energy sector fell 4.7% as big oil firms Exxon Mobil and Chevron Corp reported weak quarterly results, feeling the pain inflicted by crashing oil prices
+Wall Street's main indexes fell on Friday after President Donald Trump threatened to slap new tariffs on China over the coronavirus crisis, while a profit warning from Amazon added to the gloom.
+Trump said late on Thursday his trade deal with China was now of secondary importance to the pandemic, as his administration crafted retaliatory measures over the outbreak.
+The threat pulled attention back to the trade war between the world's two largest economies that has kept global financial markets on tenterhooks for nearly two years.
+"It will not be easy to repair corporate carnage after this perfect storm," said Peter Cecchini, chief market strategist at Cantor Fitzgerald in New York.
+"The trade war mattered because the stress was not with the consumer this time; it was within companies' balance sheets."
+The S&P 500 technology sector shed 1.5% in early trading, while the trade-sensitive Philadelphia Semiconductor index fell 4%.
+The consumer discretionary subindex also came under pressure after Amazon.com Inc said it could post its first quarterly loss in five years as it was spending at least $4 billion in response to the coronavirus pandemic. The e-commerce giant's shares tumbled 6.3%.
+Apple Inc's Chief Executive Officer Tim Cook said it was impossible to forecast overall results for the current quarter because of uncertainty created by the virus after the company reported sales and profits above expectations.
+Shares of the iPhone maker reversed earlier losses to trade 0.5% higher.
+The energy sector fell 4.7% as big oil firms Exxon Mobil and Chevron Corp reported weak quarterly results, feeling the pain inflicted by crashing oil prices.
+With nearly half of the S&P 500 companies having reported results so far, analysts expect a 14.4% fall in profits for the first quarter and foresee an even sharper decline of nearly 37% for the current quarter.
+However, aggressive stimulus measures and hopes of reopening the economy from virus-induced curbs helped the S&P 500 index post its best month in 33 years in April. The benchmark index is now 18% away from reclaiming a record high hit in February.
+At 10:27 a.m. ET the Dow Jones Industrial Average was down 449.62 points, or 1.85%, at 23,896.10, the S&P 500 was down 59.05 points, or 2.03%, at 2,853.38 and the Nasdaq Composite was down 179.27 points, or 2.02%, at 8,710.28.
+U.S. manufacturing activity plunged to an 11-year low in April, supporting analysts' views the economy was sinking deeper into recession. However, the Institute for Supply Management's (ISM) index reading of 41.5 last month was a smaller than the expected drop to 36.9.
+"Markets have already moved beyond analysing the anticipated immediate collapse in economic activity to focusing on the duration of it," said Binay Chandgothia, portfolio manager at Principal Global Investors in Hong Kong.
+"While there are some initial signs of stabilization in indicators that have already dropped precipitously, markets would like to see continued progress – moving from a stabilization phase to a recovery phase."
+United Airlines Holdings Inc slipped 8% after posting a first-quarter loss of $1.7 billion.
+Declining issues outnumbered advancers for a 7.15-to-1 ratio on the NYSE and for a 5.66-to-1 ratio on the Nasdaq.
+The S&P index recorded no new 52-week high and two new lows, while the Nasdaq recorded 12 new highs and six new lows.
+* Thank you for subscribing to our newsletter.
+Click here to read the Mint ePaperLivemint.com is now on Telegram. Join Livemint channel in your Telegram and stay updated
+You are now subscribed to our newsletters. In case you can’t find any email from our side, please check the spam folder.
+lozad('.lozad', { load: function(el) { el.src = el.dataset.src; el.onload = function() { el.classList.add('fade')}}}).observe()
+.myAccount .planSec, .myAccount a.LinkCTA{padding:16px; margin:16px; box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.1); background-color: #fff;}
+	       		var userData = data;
+	       		var name = userData.name;
+	       		var email = userData.email;
+	       		var signupSource = userData.source;
+	       		var subscribedAtOnce = userData.subscribedAtOnce;
+	       		var plan  = userData.plan;
+	       		document.getElementById('uName').innerHTML = "<strong>"+name+"</strong>" + email;
+		       		var status = planData.status;
+		       		var purchaseSource = planData.source_device;
+			       		var nextActivationDate = planData.current_term_ends_at;
+			       		var planDescription = planData.plan.description;
+			       		var planName = planData.plan.name;
+			       		var planPrice = planData.amount;
+			       		//var planInterval = planData.shipping_interval;
+			       		var planInterval = planData.duration;
+			       		var planUnit = planData.interval_unit;
+			       		//var html = "<strong>Your Subscription Plan</strong>"+planName+" ₹"+planPrice+" / "+planInterval+" " + nextBillingHtml + cancelHtml; 
+			       		var html = "<strong>Your Subscription Plan</strong> "+planDescription + " "+ planName +": ₹"+planPrice + " "+ nextBillingHtml + cancelHtml;

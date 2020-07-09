@@ -1,0 +1,10 @@
+Bitcoin has 140 times more daily active addresses than XRP, but has fewer addresses with a positive balance in them than ETH.
+Bitcoin ( BTC ) continues to lead the popularity contest among the top cryptocurrencies —  but it has fewer addresses with actual coins in them than Ethereum.
+According to data from on-chain market analyst Glassnode, Bitcoin has almost three times as many daily active addresses as Ethereum ( ETH ), 11 times more than Litecoin ( LTC ) and 140 times more than Ripple ( XRP ).
+The number of new Bitcoin addresses being created each day is almost five times that of Ethereum. New Bitcoin addresses reached almost 470K in 24 hours, the day after the Bitcoin halving, in contrast to Ethereum increasing by only 90K new addresses daily
+The number of addresses holding more than 0.1 BTC and more than 1 BTC also reached ATHs of 3,053,970 and 815,698 respectively.
+— glassnode alerts (@glassnodealerts) May 20, 2020
+However, 95% of the total number of Bitcoin addresses in existence — 626 million — hold zero Bitcoin. This calls into question the state of the network’s true growth.
+Following the 2017/2018 bull run, millions of Bitcoin addresses were emptied to zero on multiple occasions, however the number of Ethereum addresses with a positive balance continued to grow at a steady rate.
+Since February 2019, Ethereum has overtaken Bitcoin in the number of ‘non-zero’ addresses and currently has almost 10 million more than Bitcoin. The need to keep addresses with small amounts of Ethereum for gas may account for some of the difference.
+The number of active wallets to non-zero wallets on Bitcoin and Ethereum sit at 3% and 0.8% respectively. Considering Ethereum has millions more addresses with tokens in them, but only one third of Bitcoin’s active addresses, it suggests that small hodlers and network users are more inclined to invest in Ethereum while large hodlers and traders are more likely to invest in bitcoin.

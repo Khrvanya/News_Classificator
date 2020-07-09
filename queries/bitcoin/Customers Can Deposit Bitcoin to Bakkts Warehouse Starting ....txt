@@ -1,0 +1,11 @@
+Please consider using a different web browser for better experience.
+Please enable JavaScript in your browser for a better site experience.
+Bakkt will open its warehouse to customers’ bitcoin on Sept. 6 in anticipation of its impending futures contract offerings, the company announced Wednesday.
+In a tweet, the Intercontinental Exchange-backed bitcoin futures provider said it would begin offering customers secure storage for bitcoin “to prepare for the launch” of its daily and monthly futures contracts on Sept. 23.
+— Bakkt (@Bakkt) August 28, 2019
+Bakkt announced it had secured the last of its necessary regulatory approvals to launch earlier this month, more than a year after first unveiling its plan to offer customers a regulated, physically-settled bitcoin futures product – effectively, bets on bitcoin’s price at some future date.
+While Bakkt’s launch had been delayed by regulatory holdups multiple times, it now plans to begin offering customers access to the first physically-settled futures contracts in the U.S. late next month.
+Unlike cash-settled futures contracts, such as what CME offers, customers receive the actual bitcoin they bet on when a contract expires, rather than the fiat equivalent.
+The company will offer customers access to a margined daily product, seeing its value proposition as offering traders a regulated alternative to existing spot markets.
+Bakkt CEO Kelly Loeffler previously told CoinDesk that its daily contract “is designed to provide a margined instrument,” adding:
+The leader in blockchain news, CoinDesk is a media outlet that strives for the highest journalistic standards and abides by a strict set of editorial policies . CoinDesk is an independent operating subsidiary of Digital Currency Group, which invests in cryptocurrencies and blockchain startups.

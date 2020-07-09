@@ -1,0 +1,11 @@
+Monero’s compliance workgroup concludes that FinCEN Funds Travel Rule does not apply to underlying assets and cryptocurrencies such as XMR.
+The Monero Compliance Workgroup has stated that the Monero ( XMR ) network is not subject to U.S. Financial Crimes and Enforcement Network ( FinCEN ) guidelines regarding the Funds Travel Rule, in a Dec. 5 blog post .
+What is the Funds Travel Rule?
+The Funds Travel Rule requires financial institutions who are sending and/or receiving funds to store and transmit certain information about the transfer if it is valued at over $3,000 or equivalent amount.
+However, in its May 2019 guidelines, FinCEN states that:
+“If a given transmission protocol is unable to accommodate such information, the obligated person may provide such information in a message different from the transmittal order itself."
+This suggests that there is no need to transmit this information on-chain.
+Compliance is the responsibility of exchanges, not cryptocurrencies
+Any regulated Anti-Money Laundering/Know Your Customer compliant exchange should have the required transactional information and is probably already storing it. But in its statement, Monero concludes that the Funds Travel Rule does not apply to Monero itself, or indeed to any cryptocurrency.
+“It would appear to be inappropriate to state that any cryptocurrency is compliant or not compliant with the Funds Travel Rule since the Funds Travel Rule appears to apply to regulated entities, rather than the underlying assets in which the entities trade.”
+This may, however, be too late to convince some exchanges who have already decided to play it safe by delisting Monero and other privacy-coins to avoid potential scrutiny from regulators.

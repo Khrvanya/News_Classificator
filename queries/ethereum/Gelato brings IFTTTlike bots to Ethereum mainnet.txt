@@ -1,0 +1,14 @@
+Gelato Network has launched an automation protocol that allows developers to deploy bots on Ethereum mainnet. Image: Shutterstock
+Gelato Network has launched its audited automation protocol on Ethereum mainnet.
+It lets developers deploy bots to autonomously execute smart contract tasks.
+Following an initial alpha rollout in February, Gelato, an automation protocol, has launched on the Ethereum mainnet , meaning it can now be used to deploy bots to execute smart contracts for decentralized applications..
+Gelato Network provides the infrastructure for developers to build and monetize their dapps, all without having to write smart contract code or provide bespoke node infrastructure.
+It pitches itself as a decentralized version of the IFTTT app, which lets you set up small tasks on your phone without having to code them (for instance, send a text when your friend posts on Twitter).
+Likewise, with Gelato, developers can either custom-design Gelato tasks or pick from a slew of existing ones. These tasks will be fulfilled by a distributed network of relay node “executors.” By depositing ETH into Gelato and maintaining a balance, developers can compensate executors and ensure that tasks are continually completed.
+“Even for the famed 10x engineers, writing bots for these processes to keep up with every new DeFi app is a time-consuming and cumbersome challenge,” the Gelato team wrote in February .
+“This is why Gelato decided to build it for you: your personal bot that is designed from scratch to work with every smart contract on Ethereum.”
+Gelato frames the approach as essentially prepaying for transactions with ETH, thus opening up the possibility to design various business models for dapps. It’s permissionless, non-custodial, and now audited for its mainnet release.
+Additionally, Gelato announced integration with Chainlink for access to its Fast Gas/Gwei Price Reference Oracle, letting developers factor gas price into the automation of smart contracts—such as halting execution if the price passes a certain threshold.
+According to Gelato, potential use cases for its smart contract automation paired with Chainlink integration include automatic trading, dollar-cost averaging, limited and stop-loss orders on DEXs, and automatic interest rate refinancing.
+On the road to launch, Gelato’s product has been rebranded from Gelato Finance to Gelato Network, hinting towards a wider array of use cases for its technology. It has also abandoned the original, simplified web interface of the alpha, letting developers use JavaScript and/or Solidity to tap into the full range of Gelato’s capabilities.
+Get the best of Decrypt where you want it most.

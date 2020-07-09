@@ -1,0 +1,24 @@
+The scam features a fake Ledger extension for Chrome, called Ledger Live, which collects users' passphrases and empties their wallets.
+So far, scammers managed to steal as much as 1.4 million XRP coins from users who installed the fake add-on.
+Cryptocurrency scams that result in massive thefts are nothing new in the crypto industry . However, most of the scammers tend to go for Bitcoin, as it is the most expensive, or some other coin of high value.
+Recently, however, online fraudsters started targeting XRP users, most likely because Bitcoin scams became difficult to successfully pull off. Whether or not this is actually the reason behind the change, experts are reporting large quantities of XRP that scammers are stealing with a new fake Chrome extension, called Ledger Live .
+uses the name of a famous Ledger wallet. Many are familiar with the Ledger
+wallet, as it is one of the most popular hardware wallets in the industry. It
+is an online wallet that doesn’t have constant access to the internet,
+precisely for the purpose of keeping the users’ coins safe.
+extension does not make much sense, but many have still fallen victim to the
+scam while seeking a handy way to manage their coins.
+According to reports, the fake extension collects the users’ backup passphrases and then uses them to steal the coins. It was reported by a Twitter user called xrplorer forensics (@xrpforensics), who revealed it in a series of tweets.
+Fake “Ledger Live” chrome extensions are used to collect user backup passphrases. They are advertised in Google searches and use Google Docs for collecting data. Accounts are being emptied and we have seen more than 200K XRP being stolen the past month alone. @Ledger @Google
+— xrplorer forensics (@xrpforensics) March 24, 2020
+fake extension also managed to trick Google itself, as it appears to be
+advertised in Google searches. It collects the data via Google Docs, and those
+behind it managed to steal over 200,000 XRP tokens in the past month alone, as
+accounts, but the ones that were cashed out were taken to HitBTC.
+from other places than the vendor directly. The screenshot shows a POST request
+We don't have figures from other currencies. Don't EVER download tools for your hardware wallet from other places than the vendor directly. The screenshot shows a POST request from an extension. pic.twitter.com/ct4IreHeM4
+— xrplorer forensics (@xrpforensics) March 24, 2020
+have targeted XRP and its community, but the trend does seem to be on the rise.
+and airdrops. Also, XRP within Ledger wallets was also targeted and compromised nearly a year ago, in
+Finally, there was also a fake Brad Garlinghouse account on YouTube, that promoted another XRP airdrop scam.
+@YouTube @bgarlinghouse @Ripple @JoelKatz someone has created a YT account as Brad Garlinghouse and is using this video to promote an xrp airdrop scam. @YouTube you need to shut this down #XRP #xrpthestandard #Ripple pic.twitter.com/T1fZzkHg7f

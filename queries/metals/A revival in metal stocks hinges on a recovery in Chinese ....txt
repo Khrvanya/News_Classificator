@@ -1,0 +1,34 @@
+Pivot Or Perish Market Dashboard India-China Face-Off The Future Of Covid Tracker Lounge Coronavirus India2Global Emerging Tech Conclave #WFHLife Long Reads Money With Monika, Season 4 Mint 50 - Top Mutual Funds Plain Facts Mark To Market Podcasts Money With Monika, Season 3 Companies Markets Money Start-ups Mutual Funds Insurance Technology Industry Opinion Politics
+2 min read . Updated: 27 Feb 2020, 12:14 AM IST Clifford Alvares
+The jump in coronavirus cases has prompted a risk-off run in metal stocks, with prices taking a sharp knock since the beginning of this year. The Nifty Metal index is the worst performer among all sectoral indices losing 13.3% this calendar year. Now a revival in metal stocks will depend heavily on how soon China can recover from the epidemic.
+China is not a direct major metals trading partner of India. But as it still accounts for more than 50% of global demand for metals, a sneeze in China inadvertently sees the Indian metals sector catch a cold.
+The virus epidemic has also sent metal prices on the London Metal Exchange (LME) into a tailspin. Aluminium, copper, nickel and zinc were down 6-11% for the year till date. Hot- rolled coil prices, too, have fallen 10% in 2020.
+Prices are now seen stabilizing, but a V-shaped recovery in metals is still doubtful. The lockdown in China has sent metal inventories soaring. Companies in China have noted that steel inventories are 20% higher than last year.
+“We are concerned about the precipitous steel inventory build-up in China as mills operating with blast furnaces continued production, utilising raw-material inventory accumulated before the Chinese New Year. Steel inventory has risen to a record 21.6mt, up 21% y-o-y, and 88% in one month. In non-ferrous, too, zinc and aluminium stocks on the SHFE have jumped significantly in the past month," said analysts at Edelweiss Securities Ltd. SHFE stands for Shanghai Futures Exchange.
+While analysts point out that some parts of China have resumed construction, it would still take a while to clear inventories. Besides, most firms in China are still operating at low levels. For instance, Chinese automakers are operating at 32% capacity. To top it, Chinese auto sales dipped in January, while the steel industry has been severely disrupted by transport restrictions.
+In fact, most of the metal segment, including base metals, faces challenges in the near future. “India is a net exporter of aluminium and zinc. Domestic and export prices are directly linked to LME prices and have been under pressure due to a potential increase in global surpluses led by China (and the global) slowdown," said analysts at Kotak Institutional Equities in a note to clients.
+On the steel front, domestic prices have been impacted by import parity. This has seen steel prices in the home market fall. One positive is that prices of iron ore, of which China is a major consumer, may soften, which should partially offset margins of integrated steel producers.
+Overall, though, steel makers are still sensitive to international price movements. While the demand picture will be clearer by the end of the quarter, domestic demand for metals is not as robust. India’s GDP sank to 4.5% in the third quarter. But as the fortunes of the metals sector are closely tied to China, only a rapid recovery on the mainland would be in investor interest.
+* Thank you for subscribing to our newsletter.
+Click here to read the Mint ePaperLivemint.com is now on Telegram. Join Livemint channel in your Telegram and stay updated
+You are now subscribed to our newsletters. In case you can’t find any email from our side, please check the spam folder.
+lozad('.lozad', { load: function(el) { el.src = el.dataset.src; el.onload = function() { el.classList.add('fade')}}}).observe()
+.myAccount .planSec, .myAccount a.LinkCTA{padding:16px; margin:16px; box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.1); background-color: #fff;}
+	       		var userData = data;
+	       		var name = userData.name;
+	       		var email = userData.email;
+	       		var signupSource = userData.source;
+	       		var subscribedAtOnce = userData.subscribedAtOnce;
+	       		var plan  = userData.plan;
+	       		document.getElementById('uName').innerHTML = "<strong>"+name+"</strong>" + email;
+		       		var status = planData.status;
+		       		var purchaseSource = planData.source_device;
+			       		var nextActivationDate = planData.current_term_ends_at;
+			       		var planDescription = planData.plan.description;
+			       		var planName = planData.plan.name;
+			       		var planPrice = planData.amount;
+			       		//var planInterval = planData.shipping_interval;
+			       		var planInterval = planData.duration;
+			       		var planUnit = planData.interval_unit;
+			       		//var html = "<strong>Your Subscription Plan</strong>"+planName+" ₹"+planPrice+" / "+planInterval+" " + nextBillingHtml + cancelHtml; 
+			       		var html = "<strong>Your Subscription Plan</strong> "+planDescription + " "+ planName +": ₹"+planPrice + " "+ nextBillingHtml + cancelHtml;

@@ -1,0 +1,16 @@
+Vitalik Buterin has presented his personal version for Ethereum for the next five to ten years.
+According to Buterin, Ethereum will have six key advantages over the current Bitcoin design.
+The inventor of Ethereum , Vitalik Buterin, presented his personal roadmap for the further development of Ethereum within the next five to ten years. He emphasized that this roadmap only represents his own view. From the Twitter community, however, there have been several critical voices claiming that the presented scheme is too extensive and elaborate to be surveyed and understood by outsiders.
+This is my approximate view of what the next ~5-10 years of eth2 and beyond might look like.
+Roadmap below reflects my own views, others (including future versions of me) may have different perspectives! Details may of course change as we discover new info or new tech. pic.twitter.com/wynMVC04Ag
+— vitalik.eth (@VitalikButerin) March 18, 2020
+The first step in the transition to Ethereum 2.0 will, as is well known, be phase 0. In this phase, the blockchain is being prepared for the transition to the Proof of Stake with the deposit contract and numerous audits, while the transition will actually take place in phase 1. Among other things, rollups will be possible at this time, which will allow a first stage of scaling in the range of thousands of transactions per second.
+As Buterin further explained in his thread, there is no need to fear increasing complexity in future development. In the past, Ethereum has been criticized several times because schedules and release dates could not be met due to an allegedly too great complexity. However, Buterin assured in his tweets that the complexity will not increase.
+And many of the changes actually go in the direction of *reducing* complexity.
+In particular, the “square sharding as the end of the story” is supposed to ensure that there will be no further transition as complex as the one from Ethereum 1.0 to 2.0 . Furthermore, Buterin also assured that maintaining compatibility and ensuring a smooth transition for applications from Eth1 to Eth2 is a key requirement.
+Otherwise, Ethereum’s focus will increasingly shift from research to development, as Buterin stated:
+In general, over the last ~2 years there has been a solid shift from “blue sky” research, trying to understand what is possible, to concrete research and development, trying to optimize specific primitives that we know are implementable and implement them.
+We know much more about the capabilities and limits of proof of stake, security models of sharding, etc etc. Thanks to the hard work of many, moon math like ZK-SNARKs is looking increasingly down-to-earth.
+Asked by a Twitter commentator how the future Ethereum will be better than Bitcoin (BTC) , Buterin shared a list of six arguments, headed by Sharding and zero knowledge proofs. Buterin explained that these two solutions make the network cheaper to use, especially compared to Bitcoin. On the other hand, both solutions allow Ethereum to scale up to over one million transactions per second.
+Buterin’s entire list of enhancements include the following:
+Follow us on Facebook and Twitter and don’t miss any hot news anymore! Do you like our price indices ?

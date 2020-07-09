@@ -1,0 +1,36 @@
+Please consider using a different web browser for better experience.
+Please enable JavaScript in your browser for a better site experience.
+First Mover: Bitcoin’s Hot Again and Crypto Miners Are Hoarding – Or Are They?
+First Mover: Bitcoin’s Hot Again and Crypto Miners Are Hoarding – Or Are They?
+Bitcoin is rallying again, and some analysts are looking at a potential driver of even higher prices: new data showing that mining pools are hanging onto the cryptocurrency rather than sending it to exchanges for a quick sale.
+But as with a lot of bitcoin analysis, the interpretation isn’t always clear-cut; the data might be seen differently as a sign of a weak market.
+You’re reading First Mover, CoinDesk’s daily markets newsletter. Assembled by the CoinDesk Markets Team, First Mover starts your day with the most up-to-date sentiment around crypto markets, which of course never close, putting in context every wild swing in bitcoin and more. We follow the money so you don’t have to. You can subscribe here .
+Charts provided by the Korean analytics firm CryptoQuant show a slowdown in outflows from cryptocurrency mining pools, which essentially aggregate computing power to increase their collective chance of getting more bitcoin.
+The Beijing-based F2Pool, for example, which currently accounts for 17.1% of the Bitcoin blockchain’s total computing power, witnessed an outflow of 139 bitcoins on Wednesday, the fewest in nearly six months, according to CryptoQuant. Of those, 29 bitcoins got sent to cryptocurrency exchanges, the fewest in at least a year.
+Taken alone, the slowdown shows mining pools are hanging onto the bitcoin rather than transferring them to an exchange for a quick monetization.
+But what it means for prices is trickier.
+One possibility is the miner community might be expecting a big price rally at some point down the road.
+Another is miners might be worried the market is looking weak or thin: If they transferred their bitcoins to an exchange en route to cashing out, the heavy surge in sell orders might cause prices to collapse.
+Mining pools typically account for the highest percentage of coins sent to exchanges, so they tend to have a big impact on the market.
+The dynamic is analogous to the delicate balance some central banks face when trying to build up foreign reserves or intervene in currency markets. Take the Reserve Bank of India, for example. When the market for the Indian rupee is strong and trending higher, it’s easier for the RBI to buy U.S. dollars without driving down the value of its own currency. If the central bank buys dollars while the rupee market is soft, the sell-off in the local currency only deepens.
+The very exercise of studying mining pool behavior highlights the emerging field of “on-chain analysis,” in which data gleaned directly from the public blockchain network are aggregated, sorted and charted to map out where the money is flowing.
+There are a lot of forces at play right now in the bitcoin market. Originally, the cryptocurrency was designed to be used in an electronic peer-to-peer payment network, but increasingly it has become popular among many investors as a potential hedge against inflation.
+And while there’s the possibly inflationary forces of trillions of dollars of emergency money injections by the Federal Reserve and other central banks, there’s also the deflationary impact of the coronavirus-induced recession, the worst since the early 20th century.
+With so much to think about, the thinking goes, on-chain analysis can provide additional clues on where prices are headed.
+One issue for the analysts is the data can sometimes seem contradictory.
+Another on-chain metric is the “miner’s rolling inventory,” or MRI.
+This gauge measures changes in bitcoin inventory levels held by the miners. An MRI above 100% means miners are selling more than they mine, while a sub-100% reading indicates hoarding – selling less than they mine and building inventory.
+On Wednesday the MRI stood at 114%, meaning miners were reducing inventory over the past 24 hours by spending more than they mined. The MRIs for one-week, five-week and 12-week periods also are hovering above 100%.
+These signals might be an indication miners see the market as strong enough to absorb the extra selling pressure.
+Such efforts to scrub the on-chain data and then interpret them show how cryptocurrency-market investors and analysts are scrambling to keep up with fast-evolving digital-asset markets that are in many ways similar to traditional markets, but in other ways fundamentally different.
+“Bitcoin is a bit [of an] alternative, and there aren’t really established fundamentals for it,” Delphi Digital’s Yan Liberman said Thursday on a panel at CoinDesk’s Consensus: Distributed conference, where analysts discussed different ways of slicing on-chain data.
+BTC: Price: $9,572 ( BPI ) | 24-Hr High: $9,867 | 24-Hr Low: $9,262
+Trend: Bitcoin is exhibiting high price volatility while heading into the weekend. The top cryptocurrency by market value fell from $9,750 to $9,262 during the 60 minutes to 03:00 UTC, only to rise back above $9,700 during the early European trading hours.
+At press time, bitcoin is changing hands near $9,590, representing an over 18% gain from the low of $8,100 observed a day before Monday’s block reward halving. As such, traders may conclude that the pullback from recent highs above $10,000 has ended and the broader bull trend from March lows has resumed.
+However, chart analysts suggest a convincing move above the $10,074 is needed to restore the bullish bias. “Bulls need to close this week above the previous week’s high to remain in full control,” tweeted NebraskanGooner , a popular trader and an adviser to blockchain intelligence firm Glassnode.
+Indeed, a weekly close (Sunday, 00:00 UTC) above $10,074 would invalidate the buyer exhaustion signaled by the previous week’s “spinning top” candle and restore the bull trend on the technical charts.
+That said, the bullish weekly close may remain elusive if the cryptocurrency fails to hold at or over current levels according to renowned analyst Josh Rager. “A failure to close (the day) above $9,550 would indicate a top has been made,” Rager tweeted .
+The cryptocurrency is currently trading above $9,550, having bounced up from $9,200 early Friday. However, the price bounce lacks credence due to low buying volumes and could be short lived. In fact, the entire rise from $8,100 to $9,940 seen earlier this week has been accompanied by anemic buying volumes.
+All in all, a re-test of $9,200 in the next 24 hours cannot be ruled out. Acceptance under that level would shift risk in favor of a drop to the next support at $8,980.
+Sign up to receive First Mover in your inbox, every weekday.
+The leader in blockchain news, CoinDesk is a media outlet that strives for the highest journalistic standards and abides by a strict set of editorial policies . CoinDesk is an independent operating subsidiary of Digital Currency Group, which invests in cryptocurrencies and blockchain startups.

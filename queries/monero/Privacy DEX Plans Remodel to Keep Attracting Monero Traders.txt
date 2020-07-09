@@ -1,0 +1,29 @@
+When autocomplete results are available use up and down arrows to review and enter to go to the desired page. Touch device users, explore by touch or with swipe gestures.
+Get daily crypto briefings and weekly Bitcoin market reports delivered right to your inbox.
+The DeFi news category was brought to you by Ampleforth, our preferred DeFi partner
+Privacy DEX Bisq revealed several metrics related to the platform’s growth. Although trading volume in assets like Bitcoin and Monero have both increased since 2018, the project used the occasion to announce a change in how the project is structured.
+A quick glance at Bisq’s activity on CoinGecko reveals a few points of interest.
+First, the highest-traded asset on the exchange is the privacy-centric cryptocurrency, Monero (XMR). At its peak in the past week, the XMR/BTC trading pair made up more than 30% of the exchange’s roughly $218,413 traded volume.
+The second point is that Bisq commands little volume compared to other crypto exchanges. Illiquid markets are a hallmark of decentralized exchanges, but Bisq suffers the most.
+Competitors like IDEX, Kyber Network, and Uniswap, for instance, each boast approximately $600,000, $1.6 million, and $4.5 million in volume in the past 24 hours, respectively.
+For reference, OKEx, a top centralized exchange, enjoys just under $43 million in trading volume over the same period. Each of these platforms, however, is led by distinct objectives.
+Bisq’s vision to become the leading privacy DEX is perhaps the most difficult.
+The exchange has been built to focus almost entirely on privacy and security. Instead of a centralized server that houses all trading activity, Bisq uses Tor routing and local computing to prevent enticing honey pots (places where hackers can make away with a large haul). Before a trade is made, users must also deposit their funds into a 2-of-2 multi-signature escrow.
+In return for these features, Bisq gives up efficiency. And yet the latest report indicates that they continue to attract more and more users.
+Since 2018, the number of users who have downloaded Bisq has increased by 15% . Within that same timeframe, the total number of trades on the platform has increased by 91% , according to the platform.
+The majority of this activity has been from users buying and selling crypto for top fiat currencies like the euro (EUR), dollar (USD), and pound (GBP). The top crypto trading pairs, as mentioned above, have been XMR/BTC, BTC/EUR, BTC/USD, and BTC/GBP.
+The number of fiat trades made on Bisq since April 2018.
+In its Q1 2020 update, the Bisq team wrote :
+“If Bisq just set out to be a successful software project that facilitated bitcoin trading, this would be it. There would be no need to step back and reevaluate anything. Just keep developing, keep growing, and let things evolve as they do.”
+The latest announcement also ushered in a handful of operational changes. Continued growth has been the primary pursuit, but the incoming plan is multi-tiered.
+Insofar as Bisq is a decentralized exchange platform, the team working behind the scenes also wanted to decentralize how revenue and decision-making were distributed. This was the impetus behind establishing the Bisq DAO .
+For every trade on the platform, 2% is taken off the top and converted to a Bitcoin-based colored coin (BSQ). When contributors to the project request compensation, stakeholders (i.e. traders and contributors) vote to approve or reject the request.
+This mechanism has run into a few issues, however.
+According to the Q1 2020 update, “it’s become clear that while the Bisq DAO provides a solid technical basis for a decentralized operation, the human side of the Bisq DAO wasn’t as solid.”
+To that end, $60,000 will be allocated per month to pursue administrative tasks, led by Chris Beams , shipping updates and solving bugs, led by Christoph Atteneder , continued growth, led by Steve Jain , contributor support, also led by Beams, and maintaining a certain number of critical nodes, led by wiz .
+Bisq is now the best way to trade Liquid's confidential asset L-BTC for Bitcoin without KYC and without a trusted third party. Thanks @adam3us @notgrubles for your support listing the first Liquid asset on @bisq_network pic.twitter.com/roZWb7RWE6
+— wiz (@wiz) January 21, 2020
+Thus, as Bisq has grown in size, the project has needed to leave the “free-for-all” development culture previously in place. This amorphous structure led to a number of issues, reads the Bisq update, with poor resource and contributor allocation being the most notable.
+The DeFi news category was brought to you by Ampleforth, our preferred DeFi partner
+The information on or accessed through this website is obtained from independent sources we believe to be accurate and reliable, but Decentral Media, Inc. makes no representation or warranty as to the timeliness, completeness, or accuracy of any information on or accessed through this website. Decentral Media, Inc. is not an investment advisor. We do not give personalized investment advice or other financial advice. The information on this website is subject to change without notice. Some or all of the information on this website may become outdated, or it may be or become incomplete or inaccurate. We may, but are not obligated to, update any outdated, incomplete, or inaccurate information.
+You should never make an investment decision on an ICO, IEO, or other investment based on the information on this website, and you should never interpret or otherwise rely on any of the information on this website as investment advice. We strongly recommend that you consult a licensed investment advisor or other qualified financial professional if you are seeking investment advice on an ICO, IEO, or other investment. We do not accept compensation in any form for analyzing or reporting on any ICO, IEO, cryptocurrency, currency, tokenized sales, securities, or commodities.

@@ -1,0 +1,14 @@
+Litecoin creator Charlie Lee recently posited the concept of LTC miner pool donations to help boost funding.
+Litecoin ( LTC ) founder Charlie Lee proposed mining pool donations as a new funding method for cryptocurrency development.
+“I think a better way to fund development is mining pools voluntarily donate a portion of the block reward,” Lee said in a tweet on Jan. 24, adding:
+“How about Litecoin pools donate 1% (0.125 LTC) of block rewards to the @LTCFoundation? If every miner/pool does this, it amounts to about $1.5MM donation per year!”
+With 1% donated on a consistent basis, Lee’s suggested solution would provide enough funding for Litecoin permanently going forward, Lee confirmed to Cointelegraph.
+“At current LTC price, 1% of block rewards is about 7x Litecoin Foundation's yearly expenses. Even if a small percent of miners are generous enough to donate, the foundation would be able to put it to good use by funding developers to work on Litecoin Core, Mimble Wimble, LiteWallet, LN wallet, hosting the yearly Litecoin Summit, and pushing for adoption of Litecoin by merchants and users.”
+Lee also confirmed such donations are voluntary, adding, “It wouldn’t be right if it wasn’t voluntary.”
+Garnering enough capital to run and operate a business can be difficult. The situation becomes more complicated when the business or project aims for decentralization.
+Rumors circulated in late 2019 regarding the Litecoin Foundation’s potential bankruptcy, which Lee denied in an Oct. 13 tweet . “Don't listen to stupid fud and lies,” Lee said. “We have enough money to last 2 years.”
+Lee’s 1% voluntary donation proposal comes after Bitcoin Cash ( BCH ) proponents Roger Ver and Jihan Wu suggested an “infrastructure funding plan,” requiring miners to pay 12.5% of block rewards to an operation in Hong Kong, Cointelegraph reported on Jan. 24.
+In response to 51% attack concerns, Dogecoin merged its mining with Litecoin in 2014, enabling simultaneous mining of the two assets. Notably, this joint Litecoin and Dogecoin mining impacts Lee’s new mining pool donation concept.
+“Currently with merged mining of Dogecoin and other Scrypt coins, miners make 105%+ of block rewards,” Lee noted in a second tweet . “So 1% is a reasonably small amount to give back towards funding a public good.”
+Finally, Lee also toyed with the idea of miners choosing which Litecoin project their funds will go toward, asking the community for their opinions on his ideas as a whole.
+"It's important that miners can choose to support other Litecoin organizations as well,” he told Cointelegraph. “Miners should donate to the organizations that want to help out."

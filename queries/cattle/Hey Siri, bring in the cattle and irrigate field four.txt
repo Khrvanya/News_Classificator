@@ -1,0 +1,25 @@
+Appleholic, (noun), æp·əl-hɑl·ɪk: An imaginative person who thinks about what Apple is doing, why and where it is going. Delivering popular Apple-related news, advice and entertainment since 1999.
+If you go down to the farm today, you’ll probably find it managed by iPhones, iPads and other mobile devices.
+If you go down to the farm today, you’ll likely find it packed with sensors , drones and remote management systems run by iPhones, iPads and other mobile devices.
+In fact, we’re only one or two Siri Shortcuts away from voice-controlled farms equipped with remotely controlled irrigation, livestock and crop management solutions and blockchain-based crop lifecycle analysis tools.
+Most of this technology exists, but cost constrains deployment.
+Leading the digital transformation of agriculture are apps, such as: Agrellus , an online marketplace for agriculture, xarvio Scouting App for better crop management, FieldNET Mobile to control water pivots remotely, Yara ImageIT , which turns your iPhone into a crop nutrient testing system, AgSense , and GrainTruckPlus . There are many more apps for agriculture available at the App Store – including Tudder , the “Tinder for farm animals."
+Above the fields, drones are seeing use across the agricultural lifecycle, for herd protection, crop management and more.
+An app called FieldAgent is a good example of this. It flies your DJI drone to capture data in order to build crop health and field plans, to identify weeds and more. These tasks can be automated.
+The tech industry’s current darling, blockchain, is also getting some traction. IBM at CES 2020 introduced an app that connects consumers to farmers using it, the idea being that the ‘chain carried all the information about the coffee a consumer might want in a format that could be accessed using an iPhone app .
+This was a good illustration of how the blockchain can be used to store data about crops – things like pH levels, distribution, nutrition and more.
+The idea here is that better transparency across the agricultural lifecycle should benefit all the stakeholders in the industry.
+Remote controlled farms are a reality, with technology solving real problems. After all, most farms are spread across vast areas, so just taking the journey to analyze and solve a situation sucks up time. Technology innovation also opens up other efficiencies. And, of course, backing up these remote agricultural M2M deployments are the mobile networks and companies like Dacom .
+One recent example of farm irrigation systems being controlled using Apple’s technologies was recently shown in Namibia, Africa, where Konigstein Capital has installed smart irrigation systems controlled with an iPad .
+The idea is that farmers control the water pivots from the Apple device. This saves time, enables fast repairs, and makes it possible to farm 24/7.
+The location has installed auto-steering systems on three tractors, enabling them to work safely and effectively at night when human drivers ordinarily can’t do the job.
+As semi-autonomous vehicles take the road, it will only be a matter of time until we see AI-driven farm equipment. In fact, we already do – take a look at the work from Japan’s high-tech agriculture tech provider, Spread .
+Next up? AR-based agricultural control systems. There's already research exploring use of drones and soil sampling with AR that show how this is being deployed.
+Of course, once you have turned a mobile device into a control system for such equipment, you’ve also made it possible to build voice-based shortcuts for those controls. Farmers may even end up managing the whole process using your voice and a set of connected AR glasses .
+The drive to install technology across agriculture isn’t merely a case of tech looking to become a solution, but a case of an industry that needs such change.
+Global population is expected to hit 9.7 billion by 2050, the UN claims. Feeding these people will demand global agricultural production climbs 69% by 2050 – even while climate and environmental challenges impact crop cycles.
+This is the context that is driving tech deployment as agriculturalists and technologists seek out any form of productivity advantage to help them meet these challenges. In practice, of course, the cost of such technologies will most benefit those enterprises with the money to invest in them, while smaller farmers will employ less efficient processes.
+But, if ever an industry needed tech-driven democracy, agriculture is it:
+Because around nine out of 10 of the world’s farms are small – but provide over 80 percent of global food supply.
+We just can’t meet these targets without them.
+Please follow me on Twitter , or join me in the AppleHolic’s bar & grill and Apple Discussions groups on MeWe.

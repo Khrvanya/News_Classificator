@@ -1,0 +1,10 @@
+A mystery hacker allegedly stole $25m (£20m) in crypto-currencies - and then returned the funds two days later.
+Records show that funds in a variety of crypto-currencies were withdrawn from the DForce platform based in China.
+A sum of $10m was taken in Ethereum, for example, while a further $10m was taken in digital coins tied to the US dollar and $4m in other coins.
+Roughly the same amount has now been returned - although in a different mix of crypto-currencies.
+DForce is an online service that allows users to make crypto-currency transactions with one another.
+"The hackers have attempted to contact us and we intend to enter into discussions with them," wrote DForce founder Mindao Yang in a blog shortly after the attack happened , on Sunday.
+"This attack not only harmed our users, our partners, and my co-founders, but also me personally. My assets were stolen in this attack, too," he added.
+Mr Yang has promised a further update on the situation later today. The BBC has also contacted DForce for comment.
+In a technical blog about the alleged hack , blockchain security firm PeckShield explained how the attacker managed to withdraw crypto-currency by tricking the DForce system.
+In essence, the attacker was allegedly able to withdraw funds by convincing the system that money had been deposited, when it had in fact been siphoned away.

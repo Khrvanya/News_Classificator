@@ -1,0 +1,11 @@
+The XRP Markets Report for Q1 2020 shows the On-Demand Liquidity network is more popular than ever, while Ripple’s XRP sales have hit a new low.
+In further good news, Ripple has again reduced its total XRP sales from $13.08 million in Q4 2019 to $1.75 million in Q1 2020. The company had been criticised for propping up its balance sheet with XRP sales. The report also notes the token was integrated into “a number of additional exchanges and liquidity instruments.”
+The report attributes part of the increase in ODL to cost-saving measures implemented by the network which eliminate the need to pre-fund international accounts. It highlights the partnership between Ripple and UK-based digital money transfer service Azimo as an example:
+“Azimo launched its service to send payments to the Philippines and, within a few months, ODL saved the company 30%-50% when arranging currency transfers between customers in the Philippines and those in the UK and Europe.”
+Numerous other transfer services worldwide use RippleNet’s ODL product including U.K.-based financial software firm Finastra, South Korean money transfer service providers Sentbe and Hanpass, and mobile and online based cross-border remittance services firm WireBarley.
+XRP’s volatility doubled, from 3.1% in the final quarter of 2019 to 6.2% in Q1 of 2020. According to the report, “XRP’s volatility over the quarter was higher than that of BTC (5.8%), and lower than that of ETH (7.3%).”
+Daily volume increased overall from $187.34 million in Q4 of 2019 to $322.66 million in Q1.
+After looking as if it may pull away from a correlation with other major tokens like Bitcoin ( BTC ), Ethereum ( ETH ), and Bitcoin SV ( BSV ), XRP spiked towards a 100% correlation following the major crypto downturn in March.
+Those monitoring XRP whale activity may have noticed Ripple releases one billion coins every month, usually half at the first of the month:
+— Whale Alert (@whale_alert) May 1, 2020
+The report notes that across Q1 2020, 3 billion XRP tokens were released out of escrow. However, 2.7 billion of these were “returned and subsequently put into new escrow contracts”.

@@ -1,0 +1,17 @@
+It’s been a record past few months for Grayscale Investments — an industry fund manager best known for its two flagship funds: the Grayscale Bitcoin Trust (GBTC) and the Grayscale Ethereum Trust (ETHE).
+As reported by CryptoSlate previously , the Digital Currency Group -owned firm saw a vast amount of inflows — a company record, in fact. Over the course of the first quarter, the firm brought in over $500 million worth of investment from mostly institutional players. 99 percent of that sum went into GBTC and ETHE.
+This shows that despite the uncertainty in the economy and in society, investors are still turning to the cryptocurrency markets.
+This was recently confirmed when an analyst noted that Grayscale’s Ethereum product was trading at a heavy premium on secondary OTC markets.
+When you buy a share of Grayscale’s ETHE, you aren’t buying one ETH. As the firm’s website indicates, ETHE is an asset representing 0.09401903 of the coin, and it cannot be redeemed for the underlying cryptocurrency.
+Due to the lack of redeemability, coupled with the fact that it is the only Ethereum product that trades on “traditional” investing platforms, ETHE is often priced at a heavy premium to the underlying spot market.
+One prominent analyst shared the chart below, showing that the weekend rally in the price of ETH sent ETHE shares rocketing higher during Jun. 2’s trading session, spurred by an influx of investment.
+ETHE moved so high that the analyst noted that at one point on Jun. 2, the shares were trading for $194 a pop while the ETH backing each share was then valued at around $23.50.
+“This means $ETHE investors are buying $ETH at an implied ~$230B market cap, a 725% premium,” the analyst said in regards to the premium.
+That’s to say, those buying the Grayscale Ethereum Trust on secondary OTC markets were valuing ETH at $230 billion, higher than Bitcoin’s market capitalization of around $175 billion.
+As a pertinent aside, this is far from the highest premium ETHE has traded at: the shares were changing hands for over 1,300 percent higher than the underlying cryptocurrency just under a year ago.
+Whatever the case, according to Eric Ervin , CEO of asset-management firm Blockforce Capital, the absurdly high premiums being seen in the ETHE market is a sign that “public markets want access to cryptocurrencies like Ethereum.”
+Although the 725 percent premium seems to be pure lunacy, it reflects the sentiment cryptocurrency investors have about Ethereum’s prospects.
+As reported by CryptoSlate , Ethereum’s top 100 “whales” (top 100 addresses by holding size) have increased their holdings to a 10-month high, with $4.5 billion worth of ETH cumulatively held amongst them. From May 25-27 alone, their holdings increased by over $30 million, blockchain analytics firm Santiment found.
+While it’s hard to determine why the crypto investor diaspora is feeling so optimistic, there have been a series of fundamental happenings that is boosting the sentiment of Ethereum investors.
+Ethereum’s “killer use case,” decentralized finance, is reaching the crucial $1 billion milestone once again, according to Defipulse.com .
+Also, analysts are observing a confluence of trends taking place with the Ethereum blockchain that shows ETH is on a bull market footing. Spencer Noon , the head of crypto-native investment fund DTC Capital, laid out these trends, some of which are as follows: the number of daily active Ethereum users is at two-year highs, while the value of stablecoins locked on the blockchain has surmounted $7 billion.

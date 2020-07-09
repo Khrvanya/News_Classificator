@@ -1,0 +1,24 @@
+Fianna Fáil leader Micheál Martin. “There is a huge amount of the grassroots who are not happy with [him] and see this as an opportunity to shift him”
+Canvassing to persuade Fianna Fáil members in the west of Ireland to back the three-party coalition deal has begun in earnest, with feelings already running high on both sides of the debate.
+Mr Mullen, a FF member since 1966, says Dara Calleary , “who I’ve supported and voted for all my life, and his father before him, told us at a party meeting that a vote for Sinn Féin was a vote for Leo”.
+“But he forgot to tell us that a vote for Dara Calleary is a vote for Leo,” said Mr Mullen. “I feel let down by that, very badly let down. If I wanted to vote for Fine Gael couldn’t I have voted for their candidate here myself?
+“I think there is a disconnect between the leadership and the people on the ground. I will be voting against this, and I don’t mind saying it,” said Mr Mullen, whose grandfather was a founding member of Fianna Fáil.
+Life-long Fianna Fáil member Tony Flaherty (73) says that the party’s membership in Galway is not supportive of the proposed coalition, but may vote for it to avoid another general election.
+Located in Moycullen , he went on: “I don’t know what way I will vote yet, but the only reason I’d vote for it is to avoid another election. An election wouldn’t make much difference, we’d be back in the same place again.”
+However, he worries about the Greens . “I think their policy is crazy for rural Ireland. They put up as much smoke in China or India in a minute as we would do over here in a year. But they want all of us to go around on bicycles.”
+Ennis Comhairle Ceantar member Angela Coll , whose grandfather, Patrick Gilgunn , was elected as a Sinn Féin councillor in Leitrim in 1922 before joining Fianna Fáil in 1926, says she has never seen the party’s grassroots so divided.
+“It’s been non-stop. I’m being canvassed by grassroots members rather than councillors, which is very unusual. The grassroots are reaching out to other grassroots.
+“I don’t want to go into government with Fine Gael. We canvassed to get rid of Fine Gael, but if we don’t form a government we are handing power to Sinn Féin, and I have no interest in that.”
+She says some members want to get rid of Micheál Martin. “There is a huge amount of the grassroots who are not happy with [him] and see this as an opportunity to shift him. If we vote no he would have to go,” she told The Irish Times.
+    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+/* Any CSS that needs to be patched put here with date and jira ref.
+  @media only screen and (max-width: 767px){.span2 .soa.feature_box .feature_text:before {top: 70px;}}
+    var minWidth = 1100;
+    var shouldShow = jq('body.isArticle.anonymous')[0] != undefined;
+  	var tab = '<div class="floating_tab slideFromLeft"><a class="gtm-event" data-evt-category="/digital-subscriptions" data-evt-action="Go to StoreFront" data-evt-label="Subscribe Now: Floating Tab" href="/digital-subscriptions"><b>Subscribe Now</b></a></div>';
+ -webkit-box-shadow: 5px 0px 20px 0px rgba(81, 81, 81, 0.7); -moz-box-shadow:    5px 0px 20px 0px rgba(81, 81, 81, 0.7); box-shadow: 5px 0px 20px 0px rgba(81, 81, 81, 0.7);}
+@media only screen and (max-width: 1101px) { .floating_tab{display:none !important;} }    
+            var lazyAds = adLazyloaded;
+            var active = false;
+                                    return ad !== lazyAd;

@@ -1,0 +1,17 @@
+The hacker group is believed to operate out of Eastern Europe, based on current evidence.
+An organized hacker group believed to be operating out of Eastern Europe has stolen around $200 million from online cryptocurrency exchanges, cyber-security firm ClearSky said in a report shared with ZDNet today .
+Or Blatt, Research Team Leader at ClearSky, told ZDNet the group, which ClearSky has been tracking under the name of CryptoCore, has been active since 2018.
+Blatt said they linked CryptoCore to five successful hacks, but they've also seen the group target another 10-20 cryptocurrency exchanges as well.
+The five confirmed victims are located in the United States, Japan, and the Middle East, Blatt told ZDNet in an email today without being able to disclose victim names due to non-disclosure agreements.
+ClearSky says that some of CryptoCore's operations have been previously documented in isolated reports identifying the group as " Dangerous Password " and " Leery Turtle [PDF] " but the Israeli security firm says the group's operations have been more ample and widespread than previously documented.
+However, despite operating for almost two and a half years, ClearSky says the group has been using the same tactics all this time, with little variation in their attacks.
+ClearSky says that all attacks start with an information gathering stage during which they collect the necessary details to target an exchange's management, IT staff, and other employees.
+The first phishing attacks are always launched against personal email accounts, rather than the corporate ones, as they are most likely to be less secured than the official ones, and will sometime contain business information.
+However, CryptoCore operators will eventually move to also target business accounts.
+"It's a matter of hours to weeks until the spear-phishing email is sent to a corporate email account of an exchange's executive," ClearSky said.
+"The spear-phishing is typically carried out by impersonating a high-ranking employee either from the target organization or from another organization (e.g. advisory board) with connections to the targeted employee," the cyber-security firm explained.
+The end goal is to plant malware on an employee or manager's computer and steal or obtain access to a password manager account. The CryptoCore hackers will use these passwords to access accounts and wallets, disable two-factor authentication systems, and start transferring funds out of the exchange's "hot wallets."
+CryptoCore is now the second organized group that has repeatedly targeted cryptocurrency exchanges during the past 3-4 years.
+North Korean state-sponsored hackers have been the biggest threat to cryptocurrency exchanges.
+According to a report from the United Nations panel on threat intelligence, North Korean hackers stole around $571 million from at least five cryptocurrency exchanges in Asia between January 2017 and September 2018.
+The UN report echoed two other reports published in October 2018, which also blamed North Korean hackers for two cryptocurrency scams and five trading platform hacks.

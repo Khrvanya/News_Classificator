@@ -1,0 +1,11 @@
+The director of the Financial Crimes Enforcement Network (FinCEN), Kenneth Blanco, said on Friday (Nov. 15) that the U.S. government is going to strictly oversee the implementation of rules that would force crypto exchanges, marketplaces and digital wallets to identify their customers when they do transactions over a certain monetary threshold, according to a report by Reuters .
+One part of the anti-money laundering (AML) regulations is the “travel rule,” which compels exchanges to disclose identities of recipients and receivers for money transfers $3,000 or higher.
+“It [travel rule] applies to CVCs [convertible virtual currencies], and we expect that you will comply, period,” Blanco said. “That’s what our expectation is. You will comply. I don’t know what the shock is. This is nothing new.”
+Money laundering with crypto is a growing problem, and it is happening in the billions of dollars. Many investigators around the globe are trying to track down digital money laundering rings with varied success.
+The amount of money laundering crime may exceed $4.3 billion this year.
+The travel rule was first instituted in 1996, and it was expanded to apply to crypto in 2013. The U.S. Treasury-led Financial Action Task Force (FATF) recently released new guidelines concerning crypto as well.
+FATF also told both regulators and exchanges that they need to comply with the travel rule.
+Blanco said the travel rule is the most common violation levied at virtual-based money services.
+“FinCEN … has been conducting examinations that include compliance with the funds’ travel rule since 2014,” Blanco said.
+Many people in the crypto industry were initially confused as to whether the rule applied to them, even after FinCEN released guidance in May.
+The CEO of U.S. blockchain forensics company CipherTrace, Dave Jevans, said many people in the industry were surprised by the recent stipulations regarding the rule because crypto had never been classified as real money.

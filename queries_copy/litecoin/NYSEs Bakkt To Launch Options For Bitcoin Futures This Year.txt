@@ -1,0 +1,11 @@
+Bakkt, the New York Stock Exchange-affiliated bitcoin futures exchange, announced Thursday that it plans to launch a fully regulated options contract for bitcoin futures Dec. 9.
+Bakkt is a digital assets platform founded by by the Intercontinental Exchange in 2018. ICE is the parent company of the NYSE.
+Bakkt’s first regulated bitcoin futures exchange was launched Sept. 23.
+Despite high anticipation from the cryptocurrency industry, it had relatively low trading volume during its first few weeks, with only five contracts made in the first hour of the launch.
+On Oct. 23, the platform reached an all-time high of 590 contracts, worth around $4.81 million. The currency trading volume can be traced online on official Bakkt’s page and Twitter bot feed.
+According to Bakkt’s CEO, Kelly Loeffler, the platform is based on “customer feedback and is designed to hedge or gain bitcoin exposure, generate income and offer cost and capital efficiencies.”
+The main features of the platform include margin contracts and gross-margining, cash and physical payment options, at $1.25 per contract fee.
+Options on futures contracts are a right to buy or sell a specific futures contract at a price on or before the option's expiration date.
+In September 2019, Chicago-based derivatives marketplace CME Group (NASDAQ: CME ) announced it is launching options futures in the first quarter of 2020. It started offering bitcoin futures product to its customers in December 2017.
+The Chicago Board Options Exchange (BATS: CBOE ) introduced bitcoin futures at the same time CME did. It was also planning to open options on bitcoin futures contracts but decided not to pursue this idea because of the disappointing volume numbers.
+Bitcoin was trading up 11.33% at $8,288.66 at the time of publication.

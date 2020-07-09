@@ -1,0 +1,43 @@
+(The opinions expressed here are those of the author, a columnist for Reuters.)
+* Shanghai stocks of copper, aluminium and zinc: tmsnrt.rs/3hEtwsn
+LONDON, June 16 (Reuters) - The copper price has recovered strongly from its COVID-19 collapse in March.
+London Metal Exchange (LME) copper is currently trading at $5,810, up 33% from its March 19 low of $4,371 and back to where it was before the deadly coronavirus knocked out global manufacturing activity and demand for industrial metals.
+The world, Doctor Copper seems to be saying, is ready to move on.
+Or at least China is.
+As ever, copper and other industrial metals are taking their fundamental cue from the world’s largest user.
+The Shanghai Futures Exchange’s (ShFE) base metal contracts are all trading in backwardation with the exception of nickel.
+The premium for prompt material reflects dwindling exchange inventory. After surging during China’s lockdown, ShFE stocks are now mostly falling just as fast.
+Which is not what most expected, particularly for copper.
+Such was the title of UBS’ Monday copper research note. The bank has significantly lifted its copper price forecasts.
+“The strength in copper prices at this stage of the economic recovery has surprised us,” UBS says in the note. “Clearly, we underestimated the strength of China’s rebound and supply’s ongoing challenges.”
+ShFE copper stocks jumped from 124,000 tonnes at the start of January to a March peak of 380,000 tonnes.
+Inventory always rises over the Lunar New Year holiday but the scale and the speed of the build over China’s lockdown seemed an ominous warning of the severity of the COVID-19 demand hit.
+However, the subsequent turnaround in inventory has been just as dramatic. Registered copper stocks now total just 128,000 tonnes.
+From a mid-year perspective, ShFE copper stocks have conformed to the “normal” seasonal Chinese pattern, albeit with sharper accentuation than in the last three years.
+The drawdown in visible stocks has been mirrored by a decline in the amount of metal sitting in Shanghai’s bonded warehouses.
+Bonded stocks were assessed by Fastmarkets at 212,000-222,000 tonnes as of June 1, down by 27% on the start of May and the lowest level since the company first started collecting the data in 2014.
+Chinese imports of refined copper are running at robust levels, up 4% to 1.18 million tonnes in the first four months of the year.
+Each tonne shipped to China is a tonne less in the rest of the world. LME stocks have increased by just 104,000 tonnes since the start of the year, a surprisingly benign outcome considering the scale of the hit to global factory activity.
+The answer to the question posed by UBS is clearly that the metal has gone to China.
+But is it all just about rebounding demand?
+China’s factories are humming again as Beijing’s stimulus starts to flow through the economy.
+The country’s total social financing credit impulse accelerated to 6.2% annual growth in May, according to analysts at Citi. (“China Commodities Focus,” June 15, 2020)
+That’s translating into rebounds in activity in key metals usage sectors. Automotive output rose by 19% year-on-year in May. New property starts were up 2.5% and new floor sales by 10%, according to the bank.
+Fixed asset investment in infrastructure jumped by 11% with core spending channels such as transport and green energy positive for copper’s prospects.
+There is no doubting the scale of the collective restock taking place, but its impact on the refined copper market is also being accentuated by what is happening on the supply side.
+Mine closures due to national lockdowns have grabbed the headlines in recent months but the bigger supply disruption has taken place in the copper scrap sector.
+Scrap is the great regulator of the copper market. When prices fall violently as during the first quarter of this year, scrap supply quickly constricts as old scrap collection rates decline and traders hold back sales of existing inventory until prices recover.
+This inherent price elasticity has this year been compounded by an international collapse in collection networks during lockdowns.
+The recyclable segment of copper’s supply chain is notoriously opaque, which is why it is so often the market’s collective blind spot.
+But if you believe Kostas Bintas, head of copper trading at Trafigura Group, the global drop in scrap supply could be as much as 700,000 tonnes. That exceeds the company’s estimate of 400,000 tonnes of lost mine production, he said in a June 10 interview with Bloomberg.
+It’s a hard estimate to verify independently but it’s quite clear China is experiencing a severe squeeze on scrap availability which is displacing demand into the refined metal arena.
+This is partly also of its own making. Beijing has spent the last couple of years choking off imports of all recyclable materials it deemed “foreign garbage”.
+China was importing over 300,000 tonnes of copper scrap a month as recently as 2017. That flow has been cut to a trickle of 73,000 tonnes a month so far this year.
+Higher-quality scrap has now been reclassified by Beijing as a natural resource under pressure from the country’s copper industry, which uses it to make both refined metal and as a direct input in some products.
+The change is supposed to be effective next month but there is rising concern that the country’s customs department doesn’t seem ready to process the new trade codes.
+Any pushback is only going to keep scrap availability in China super tight.
+If the strength of the recovery in China’s apparent copper consumption has generally surprised, it may well be because it’s been fueled in part by statistically shadowy scrap drivers.
+Moreover, scrap availability may take much longer to return to normal than the mines which were temporarily closed during rolling lockdowns in key suppliers to the Chinese market such as Peru and Mexico.
+Certainly, China seems in danger of missing its July deadline to normalise copper scrap imports.
+Amid the multiple unknowns in the Chinese and global copper recovery story, scrap, or the lack of it, is very much in the mix.
+If Trafigura is right, it may even be the main ingredient.

@@ -1,0 +1,12 @@
+Ethereum-based tokenized real estate platform hits ATH after turning to crypto following a permanent ban by PayPal.
+U.S. tokenized real estate platform RealT hit record highs in sales and new users after it turned to crypto-only transactions, following a ban by payments platform Paypal in April.
+The Ethereum-based startup tokenizes and sells U.S. property, allowing users around the world to share in property ownership for as little as $50.
+According to RealT’s Twitter account, 62% of purchases on their platform were made via Paypal prior to the ban. Over the course of a year, there were more than $800,000 Paypal transactions, with only four disputes raised by consumers worth $600 — or 0.075% of the total.
+But in early April, the platform’s customers began to report problems with Paypal transactions. A few weeks later Paypal sent a letter informing the company it had been banned “due to excessive risk” and that there will be “no appeals to the decision”.
+The team decided to answer the question: Can a business survive on crypto alone?
+This unfortunate event actually resulted in an extremely value-able experiment for us, that really changed the moral of the company, during what would otherwise be a critical event.
+— RealT (@RealTPlatform) May 5, 2020
+Within a week of the switch to crypto-only payments, orders through its payment provider Coinbase Commerce increased almost 240% thanks to the popularity of their sixth tokenized property, which raised $203,333 in shares worth $51 each.
+According to RealT it was the company’s best week of sales ever with 100% of the revenue coming in via crypto. The RealT blog claimed it was “the fastest property ever sold on Ethereum”:
+“While more payment merchants are always better, the fact that RealT was able to hit ATH in both sales and new user signups, with ONLY crypto as a payment mechanism, is insanely bullish for the crypto-space at large.”
+Paypal has a long history of arbitrarily cutting off services and customers. In 2018, its users received warning emails advising them cryptocurrency was “prohibited under the Acceptable Use Policy”. In 2019 Paypal banned Pornhub (again due to the policy) forcing them to turn to cryptocurrencies to pay their models. The company joined Facebook’s Libra project ... only to later drop out.

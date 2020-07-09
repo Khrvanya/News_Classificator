@@ -1,0 +1,28 @@
+Farming cattle in northern Australia can be tough, especially in times of drought, but producers are increasingly turning to digital technologies to help them look after their herds.
+As these new technologies take on more of the load in cattle farming we need to change the way we think about training people for the grazing industries of northern Australia. We need to start by teaching those in traditional agriculture industries how to make better use of new technologies as well as creating more opportunities for people in the IT and other high-tech sectors.
+Will spoke about his app at a recent conference and agriculture innovation and he told how a growing group of cattle managers around the world were now downloading and using his app.
+His presentation was at the Belmont Research and Education Centre, located a half hour drive north of Rockhampton in Central Queensland. Will certainly looked at home on the cattle property with his big boots and big belt.
+Knowing that Will was an out and out cattleman I wasn’t sure how he was going to go giving a talk on technology. The Belmont set-up had provided some technical challenges for the previous speakers – an old laptop can be temperamental at the best of times.
+But Will stood up, pulled his smart-phone from his pocket and without any fuss linked into the projector via Bluetooth. He then proceeded to seamlessly run through his talk using interactive slides that he had prepared on his smart-phone.
+He told how the app allows a producer to track and monitor mobs of cattle as they move around the farm, effectively enabling farmers to track management interventions such as animal health issues.
+Will represents a growing number of northern cattle producers that are engaging in the development and use of digital technologies to enable precision livestock management in extensive and complex cattle productions systems.
+Northern Australian beef production systems have traditionally been low input. CSIRO
+Typically northern cattle production systems are low input and mustering cattle is expensive. So producers aim to minimise the number of times cattle have to be brought through a set of yards.
+On properties that have well managed watering points it is possible to set up cattle yards with one-way gates or spear traps at the watering trough. When cattle come to drink from the trough they can be held in the yards.
+This system has been traditionally used to reduce mustering costs.
+The Cooperative Research Centre for Remote Economic Participation ( CRC-REP ) has been working on a project that links automated monitoring using electronic identification tags that are fitted to the cattle.
+As cattle come to water they walk across a set of weigh scales, and using sophisticated walk-over-weighing algorithms their weight and electronic ID are recorded.
+Walk-over-weighing automatically records cattle weights each time they go to water. CSIRO
+The work from the CRC-REP project is being developed and refined to incorporate a drafting system that not only allows automated monitoring of cattle but also automatic management, selecting animals which meet a predefined weight range.
+Since the introduction of Brahman cattle in northern Australia, Central Queensland has provided a proofing ground for new and emerging beef cattle technologies.
+Belmont Cattle Station is an AgForce owned cattle station that has a long history of supporting the latest beef cattle scientific research.
+AgForce in Central Queensland has now established a partnership with my university to enable the property to be further developed to support emerging research and importantly to make direct links with education and training activities.
+Our research work on precision livestock management has established a wireless sensor network to monitor and track the location and movement of cattle across the property.
+Researchers are working to develop real-time data processing algorithms that can be used to determine reproductive status, health and the productivity of the cattle.
+Technology that allows farmers to automatically monitor their livestock means they will be able to collect more information with less effort. Linking the information to automatic management systems will further reduce the time farmers spend working cattle.
+Precision livestock management data systems will require farmers that can capture the benefits from large complex datasets. Managing technology that can manage cattle.
+Farmers of the future will need to be more tech savvy. CSIRO
+Agricultural training programs need to provide the next generation of farmers with skills to capitalise on the benefits of digitally enabled automated monitoring and management systems.
+Maintaining and supporting IT hardware platforms that have a dedicated agricultural application is a big jump from simply working out a feed budget.
+Ironically, the unique challenges of making electronics work in remote rugged locations may well mean that a broader range of industries will seek to recruit the next generation of agricultural graduates.
+As farmers acquire and apply new technical skills so these skills might end up being used by a wider range of industries. A broader uptake of agriculturally derived innovation might just lead to a more agriculturally minded nation.

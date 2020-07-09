@@ -1,0 +1,10 @@
+According to Messari’s realized cap figures, XRP token holders paid an average of seven times the current price.
+Most XRP investors are “deeply in the red” according to Messari crypto analyst Ryan Watkins, using realized capitalization as the metric
+Watkins made the claim in a June 16 tweet saying that “XRP’s aggregate estimated cost basis is $1.38”, based on the realized cap of the cryptocurrency. As the current value of XRP is $0.19, this would mean token holders paid on average more than seven times the price.
+The realized capitalization of a token is a metric created by crypto analytics site Coin Metrics . It is calculated by valuing each unit of supply at the price it last moved on its respective blockchain. According to Watkins, the metric can be used as an “estimation of the aggregate cost basis of a cryptoasset”.
+“The metric is meant to present realized cap in a more familiar, ‘per coin’ format,” Watkins said in a followup tweet.
+Using this data, Messari calculated the realization capitalization of XRP at roughly $43.25 billion as of June 15, and not the $6 billion market cap determined by multiplying the total value of XRP in circulation by the market cost of each token.
+The crypto analyst explained the atypical metric has some disadvantages:
+“Neither realized cap nor its derivative estimated cost basis are perfect, and there’s no guarantee that a crypto assets’ investor base will behave a particular way depending on its estimated cost basis. However, to the degree these estimates are generally accurate, they do provide interesting insights into how investors may behave.”
+“Despite XRP having only closed above $1.00 on just 2.1% of its trading days, XRP’s aggregate estimated cost basis is $1.38,” Watkins said on Twitter. “This suggests most XRP investors are deeply in the red.”
+The cryptocurrency has already had a newsworthy first and second quarter for 2020. Cointelegraph reported in May that Tether ( USDT ) had overtaken XRP to become the third largest cryptocurrency by market cap. In April, Messari named the token as the worst-performing crypto asset in the top 25 coins by market cap for Q1 2020.

@@ -1,0 +1,35 @@
+Energy  sector optimistic  post  lockdown, bets on technology for transformation
+1 min read . Updated: 03 Jul 2020, 05:59 AM IST Tanya Thomas , Kalpana Pathak
+India is currently going through a graded exit from a stringent lockdown, reopening the economy as it tries to save both lives and livelihoods
+In the peak of the crisis, Brent crude fell to a 20-year low, while the West Texas Intermediate fell below zero on dwindling storage
+The energy industry is preparing for a technology-led transformation in a post-covid world, as consumption picks up following the catastrophic demand destruction of the past three months. The outlook for the sector will mirror the state of the overall economy, according to participants at Mint’s Pivot or Perish webinar.
+Fuel demand has begun to return, said B. Anand, chief executive officer of Nayara Energy, adding companies must address operational inefficiencies to optimize costs and output, with technology as a key enabler. “We are seeing cautious optimism, but we are seeing better markers as compared to what was in April and May," he said.
+India is currently going through a graded exit from a stringent lockdown, reopening the economy as it tries to save both lives and livelihoods.
+According to Ashish Khanna, president, renewables at Tata Power Ltd, the pandemic has made companies realize how their investments in digital transformation have paid off. “These technologies have always been available but in the highly regulated and cost-effective industry that we are in, the question has been whether it is worth investing in new technology," he said.
+Pramod Agrawal, vice-president and regional chief technology officer, Automation Anywhere Inc., said customers now want energy supply to be contactless and friction-free, prompting the company to redefine the customer experience. “This has also taught us the importance of operational efficiencies and rise in IT, operations and maintenance aspects. Businesses want to engage and transform how they have been working so far," he said.
+Despite multiple challenges thrown up by the coronavirus pandemic, the energy sector has held up, said Ashwani Dudeja, CEO, Shell Energy India, adding, currently a recovery is on. “On the gas front, there is a bit of an upside in terms of demand and another benefit of this is low fuel prices, which makes it attractive for Indian buyers," he added.
+Energy analyst Vandana Hari, founder and CEO of Vanda Insights Pte Ltd, said covid wiped out about 10% of global oil demand, but it will likely stabilize with supply already recalibrating itself.
+In the peak of the crisis, Brent crude fell to a 20-year low, while the West Texas Intermediate fell below zero on dwindling storage.
+* Thank you for subscribing to our newsletter.
+Click here to read the Mint ePaperLivemint.com is now on Telegram. Join Livemint channel in your Telegram and stay updated
+You are now subscribed to our newsletters. In case you can’t find any email from our side, please check the spam folder.
+lozad('.lozad', { load: function(el) { el.src = el.dataset.src; el.onload = function() { el.classList.add('fade')}}}).observe()
+.myAccount .planSec, .myAccount a.LinkCTA{padding:16px; margin:16px; box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.1); background-color: #fff;}
+	       		var userData = data;
+	       		var name = userData.name;
+	       		var email = userData.email;
+	       		var signupSource = userData.source;
+	       		var subscribedAtOnce = userData.subscribedAtOnce;
+	       		var plan  = userData.plan;
+	       		document.getElementById('uName').innerHTML = "<strong>"+name+"</strong>" + email;
+		       		var status = planData.status;
+		       		var purchaseSource = planData.source_device;
+			       		var nextActivationDate = planData.current_term_ends_at;
+			       		var planDescription = planData.plan.description;
+			       		var planName = planData.plan.name;
+			       		var planPrice = planData.amount;
+			       		//var planInterval = planData.shipping_interval;
+			       		var planInterval = planData.duration;
+			       		var planUnit = planData.interval_unit;
+			       		//var html = "<strong>Your Subscription Plan</strong>"+planName+" ₹"+planPrice+" / "+planInterval+" " + nextBillingHtml + cancelHtml; 
+			       		var html = "<strong>Your Subscription Plan</strong> "+planDescription + " "+ planName +": ₹"+planPrice + " "+ nextBillingHtml + cancelHtml;

@@ -1,0 +1,9 @@
+The need to identify the sender and receiving parties in crypto transactions allegedly means support for privacy-focused altcoins must end.
+The South Korean arm of cryptocurrency exchange OKEx is removing support for five major altcoins due to new international regulations.
+In a blog post originally published on Sept. 10, OKEx Korea confirmed it would halt trading of Monero ( XMR ), Dash ( DASH ), Zcash ( ZEC ), Horizen (ZEN) and Super Bitcoin (SBTC) on Oct. 10.
+The reason, said the exchange, is that as since they are focused on privacy, the coins fall foul of new guidelines set out by the intergovernmental body the Financial Action Task Force, or FATF .
+“Support for trading of 5 different cryptocurrencies, XMR, DASH, ZEC, ZEN, SBTC, will be terminated,” the blog post reads.
+As Cointelegraph reported , the sweeping changes to crypto transaction rules demand businesses to identify the two parties sending funds to each other if a transaction is worth more than around $1,000.
+More than 200 countries should theoretically implement the rules by June 2020, despite concerns that doing so is physically impossible for many decentralized blockchains.
+The five cryptocurrencies outlined by OKEx make it all but impossible to identify the sender and recipient of a transaction by design.
+An OKEx representative told Cointelegraph that the coins will be delisted only on OKEx.co.kr, but they will remain listed on the global OKEx platform.

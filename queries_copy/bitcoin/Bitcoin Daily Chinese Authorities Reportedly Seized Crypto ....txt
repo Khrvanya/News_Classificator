@@ -1,0 +1,10 @@
+In China, crypto over-the-counter (OTC) traders are being arrested in an attempt to crack down on illegal transactions, according to a report from CoinDesk .
+Prominent OTC trader Zhao Dong , of crypto lending platform RenrenBit , was held up by police in the city of Hangzhou, the report says. Zhao has a prominent status among the community, and rumors online began to circulate. One poster relayed the information that one OTC trading desk in Beijing, not named, had its whole team arrested by police last month, CoinDesk said.
+According to RenrenBit, Zhao has been released and is now assisting police in investigations on anti-fraud and anti-money laundering issues, CoinDesk reported.
+A person with inside information about the matter, who remained anonymous in the CoinDesk report, said Chinese authorities had begun to take a harder look at many cryptocurrency firms.
+This action follows a June event in which many accounts were frozen in connection with suspicions of illegal activity occurring in conjunction with them. Cryptocurrencies, particularly the dollar-pegged USDT, have been known methods to facilitate Ponzi schemes or fraud in China, CoinDesk reports.
+Salesforce co-founder and CNET founder Halsey Minor has a new project going — a public blockchain network with dollars baked in, CoinDesk reported.
+The network is called Public Mint , and according to CoinDesk, it is a programmable blockchain with fiat funds held in insured banks. That will let users create their own “digital money systems.” Users would be able to trade with regular U.S. dollars on their smartphones, while the funds would be held centrally by custodians.
+There is expected to be more support added later for other currencies, CoinDesk reports.
+Public Mint says it’s supported by up to 200 banks that are not named in the platform’s press release.
+The platform says it could be used as a solution for crypto firms having trouble utilizing traditional banks.

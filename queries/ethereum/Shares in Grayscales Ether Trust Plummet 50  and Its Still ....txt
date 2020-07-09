@@ -1,0 +1,10 @@
+The premium on shares in Grayscale’s Ethereum Investment Trust plummeted 50% in less than one week.
+Shares in Grayscale ’s Ethereum Investment Trust (ETHE) have crashed by 50% in just four days on the secondary, over-the-counter ( OTC ) markets.
+With each share representing 0.094 Ether ( ETH ), the sharp retracement has seen the price premium on the trust’s shares fall from 750 % to roughly 360% in less than two weeks.
+ETHE’s current price of $102.5 means that investors are willing to pay an implied price of $1,090 per Ether in order to access ETH through the trust on the OTC markets.
+The crash coincided with the unlocking of many ETHE shares that were purchased on Grayscale’s primary market — which have a 12-month lockup period. The expiration of this period resulted in many more shares being made available on the secondary OTC markets.
+Excitement around Ethereum’s forthcoming ETH 2.0 revamp appears to have been reflected in ETHE shares, which were recently trading for an implied price of $2,905 per Ether. If reflected in the real price of Ether, this price would equate to a market cap of $323 billion or close to double that of Bitcoin ( BTC ).
+However, this past week has seen Grayscale’s Ether shares plummet — with ETHE falling from $204 to less than $80 earlier today, before rebounding back above $100.
+The heavy selling in the ETHE markets has not impacted the spot price of Ether, with ETH actually posting slight gains as prices oscillated between roughly $230 and $245 over the past four days.
+Grayscale’s Ethereum Investment Trust offers ETH exposure to institutions while taking care of custody, purchasing, taxation, and other technicalities associated with investing in crypto assets.
+As of early June, Grayscale had purchased $110 million worth of ETH in 2020 so far — equal to roughly 0.4% of Ethereum’s entire market cap in just five months.

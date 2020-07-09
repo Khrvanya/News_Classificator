@@ -1,0 +1,16 @@
+The recent cryptocurrency crash has propelled many stablecoins up the market cap rankings, with six dollar-pegged crypto assets currently ranking in the top 50.
+While most cryptocurrencies have seen their market capitalization slashed over the past month, the market meltdown has seen stablecoins ascend the market cap rankings.
+As of press time, six stablecoins currently reside among the top 50 crypto assets by capitalization.
+The largest-stablecoin by capitalization, Tether ( USDT ), currently ranks as the fourth-largest cryptocurrency with a market cap of $4.66 billion. Despite the total USDT market cap growing by just 0.5% in four weeks, Tether has crept up the ladder since ranking seventh by capitalization on Feb. 15.
+However, due to the plummeting prices of the assets that USDT is traded against, Tether volume has fallen 20% from $48 billion to $60 billion over the same period.
+Circle’s USD Coin ( USDC ) has made significant strides over the past month, climbing from the 30th-ranked virtual currency with a capitalization of $430 million to place 17th with a market cap of $601.5 million today.
+Jeremy Allaire, the co-founder and CEO of Circle, took to Twitter on March 14 to celebrate USDC’s now 40% gain in capitalization over the past month, stating :
+“USDC surging in market demand over the past days, reaching new ATH at $568m in circulation. Fascinating to see ‘flight to safety’ within the crypto macro market, but also demand for high quality USD liquidity for markets. While not as exciting to see markets so crushed, it's still rewarding to see that this entirely new, entirely digital, blockchain based monetary infrastructure is working.”
+As with Tether, 24-hour USDC volume has fallen roughly 20% from $936.5 million four weeks ago to $757 million today.
+The third-largest stablecoin, Paxos Standard ( PAX ), has seen a nearly 5% gain in market cap over four weeks from $208 million to $218 million, bolstered by a recent injection of 7.6 million tokens coins from the PAX Treasury.
+Despite the relatively small increase in capitalization, PAX has ascended from 42nd to currently comprise the 27th-largest crypto asset.
+PAX is one of the few stablecoins to have seen an increase in trade activity since February, with 24-hour volume gaining 80% from $382 million to $684 million.
+The past month has seen TrueUSD ( TUSD ) clamber into the top 50 cryptocurrencies by capitalization — ascending from 60th to currently rank as the 35th-largest crypto asset.
+Binance USD ( BUSD ), which launched just six months ago, has seen an enormous gain in market share this past month.
+From Feb. 16 to March 15, BUSD jumped from ranking 243rd to 36th alongside a more than 600% increase in capitalization from $17.5 million to $124 million today. BUSD volume has also increased by 50% from $78 million to $118 million.
+Despite its underlying protocol MakerDAO facing a debt crisis as a result of the recent market crash, the stablecoin Dai ( DAI ) has also broken into the top 50 cryptocurrencies by capitalization.

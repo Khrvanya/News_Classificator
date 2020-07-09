@@ -1,0 +1,25 @@
+Aside from cash indices and index futures, you can also trade index ETFs and individual shares with IG. Again, you can open these positions with spread bets and CFDs. If you’d rather take ownership of the underlying market, you can also invest directly in index ETFs and individual shares with IG.
+To start trading indices with spread bets and CFDs today, open an account with IG. We’re a FTSE 250 company with over 45 years’ experience. Our spreads are among the lowest in the industry, and we have a larger offering of weekend index markets than any other UK provider.
+It’s important to choose an index that’s best-suited to your trading style. This will depend on your individual appetite for risk, available capital and whether you prefer taking short-term or long-term positions.
+For example, the Germany 30 is usually a volatile index which is favoured by traders with high risk appetites and who prefer short-term trading. On the other hand, the US 500 is largely known for its steady returns over time, making it a favourite with traders with lower appetites for risk and a long-term outlook.
+IG offers over 80 index markets on both major and minor global indices2, meaning that you’re more likely to find a market that fits your individual trading style.
+Going long means that you are speculating on the value of an index increasing, and going short means that you are speculating on its value decreasing.
+If the economic outlook for an economy or sector looks good based on the performance of the companies on an index, a long position could help you realise a profit if the index increased in value.
+If the outlook is poor – possibly because large companies on a capitalisation-weighted index are underperforming – you might want to go short on the expectation that the index will fall in value.
+Stops and limits are essential tools for managing your risk while trading indices. A stop order will close your position automatically if it goes to a less favourable level than the current market price, while a limit order will close your position automatically if it goes to a more favourable market price.
+When you think you’re ready to start indices trading, it’s time to open your trade. To do this, go to the market you want to trade on the IG trading platform – Wall Street for example.
+Next, decide whether you want to deal at the cash price or the futures price – and select buy if you think the price will rise, or sell if you think the price will fall. Enter your position size, and click ‘place deal’ to open your trade.
+Monitor your position, and close your trade when you want to take a profit or cut a loss.
+What does indices trading mean?
+Indices trading means that you are taking a position on a stock index – which is measure of the performance of several different companies. Indices trading can be a way to get exposure to an entire sector or economy at once, without having to open positions on lots of different shares.
+Can I profit from index trading?
+You can profit from index trading by accurately predicting an index’s price movements. For example, if you think the FTSE 100 will rise, you would open a long position. But, if you think it will fall, you would open a short position. Your profit or loss is determined by the extent to which your forecast is correct.
+What does it mean to buy index futures?
+To buy index futures means that you are opening a long position on an index because you think the price will increase. If you are correct in your forecast, you will profit, but if you are incorrect, you will incur a loss.
+Index futures are a financial derivative. Their price is based on the price in an underlying market, which is influenced by supply, demand and volatility. You can speculate on index futures with spread bets or CFDs, and they will be traded at the futures price – meaning that you won’t incur overnight funding charges.
+How can risk be hedged with stock index futures?
+You can hedge risk with index futures by taking a position that will turn to profit if one or more of your existing positions starts to lose money. For example, if you held long positions on a selection of US tech stocks, you could open a short position on the US Tech 100 to offset any losses you might incur from the shares declining in value.
+Alternatively, if you held short positions on a collection of large-cap UK shares, you could open a long position on a FTSE 100 index future to protect yourself against any possible increases in the price of the underlying shares.
+Can I sell futures before expiry?
+You can sell futures before expiry, and many traders will exit their positions before the expiry date arrives. To do so, you can sell your contract outright or purchase an opposing contract which cancels out your current position.
+Find out more about a range of markets and test yourself with IG Academy’s online courses.

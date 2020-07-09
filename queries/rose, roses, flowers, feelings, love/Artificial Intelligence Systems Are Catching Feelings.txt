@@ -1,0 +1,17 @@
+The implications are significant for interactions between people, brands and robots.
+Erin Cunningham is a writer and editor based in Maryland with experience writing about state and local government, education, technology and more.
+Artificial intelligence continues to evolve, changing the way people work and, increasingly, the way customers interact with businesses. Key to expanding AI is teaching these systems to recognize and respond to emotional nuances that are fundamental to communication.
+Emotion AI, also known as affective computing, enables systems to detect, analyze, process and respond to emotional cues and moods — including love, fear, anger and shame.
+“By 2022, your personal device will know more about your emotional state than your own family,” says Annette Zimmermann, research vice president at Gartner, in a blog post .
+That shift will have big implications, says Hayley Sutherland, a senior research analyst for AI software platforms at IDC .
+Consider that by 2024, AI-enabled human-computer interfaces will replace an estimated one-third of screen-based business-to-business and business-to-consumer applications.
+By 2022, IDC predicts , 30 percent of enterprises will use interactive conversational speech technologies to power customer engagement, and affective computing will see a 25 percent jump in real-world applications.
+“It’s not necessarily going to be everywhere,” Sutherland says. “But we do expect to see a pickup in terms of moving from experimentation to actual production.”
+As researchers and private companies teach machines to recognize differentiation in vocal inflection, facial expressions and other cues, experts say the field is ripe for applications in business.
+Companies are already using emotion AI for market research and political polling purposes. Brands want to know how their products make people feel, not just what they think.
+“We use deep learning networks that are able to identify about 20 different facial expressions,” said Rana el Kaliouby, CEO of emotion AI firm Affectiva , in an interview with AI research firm Emerj , explaining its process with advertisers. “And then all of these get combined into a number of key measures that advertisers are looking for. One is the level of attention: Are you even paying attention to this ad? Another is how positive or negative you are.”
+MORE FROM BIZTECH: How vendors are infusing AI into cybersecurity solutions.
+The South Korean company BPU Holdings , for example, says its emotion AI-driven election analytics product was a more accurate predictor of the most recent South Korean national election than more traditional polling services. It’s now offering the product to U.S. candidates.
+Another application: Chatbots, now in regular use by banks, retailers and utilities, will soon be able to interpret emotion, not just language. When the system detects a user to be angry, for example, he or she can be routed straight to a human.
+Aleix Martinez, a cognitive scientist and professor of electrical and computer engineering at The Ohio State University who has studied affective computing extensively, says researchers still have far to go to make artificial intelligence seem less artificial.
+“You want to make sure that technology can communicate the way humans communicate,” he says. “The technology has improved, but we are still lacking that human touch.”

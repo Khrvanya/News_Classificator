@@ -1,0 +1,21 @@
+This report contains Monero -related information related to updates, releases, partnerships, price factors, and upcoming or past events. Links to TA and more in-depth articles will be added if that’s the case.
+It is a private coin forked of Bytecoin in 2014. By private I mean that it hides the sender, receiver and the amount. XMR makes use of a PoW algorithm based on the CryptoNight PoW hash, which comes from the CryptoNode Protocol.
+The Monero team is currently working on a project named Kovri. This technology will provide IP anonymity to its transactions.
+For those interested, the coin’s supply is 17,066,158 Million coins currently.
+Some may say that privacy coins could be a bad thing in the hands of the criminals, however, providing anonymity is a safe place for everyone. We should not concern about criminals because they will always find a way to lose their tracks.
+Monero presence (booth and speakers) at World Crypto Con – The Cosmopolitan of Las Vegas, Las Vegas, NV (October 29-31, 2019)
+Community Workgroup Meeting – monero-community IRC channel (August 31, 2019 – 17:00 UTC)
+Research Lab Meeting – monero-research-lab IRC channel (September 2, 2019 – 17:00 UTC)
+Monero GUI Meeting – monero-gui IRC channel (September 3, 2019 – 17:00 UTC)
+Dev Meeting – monero-dev IRC channel (September 8, 2019 – 17:00 UTC)
+XMR has seen a price spike of around 13% in the last 30 hours (2 Sep. 2019). This move could be related to today’s Research Lab meeting. To keep in mind that the chart indicates the price being at its bottom. I believe that XMR is currently trading at a good price (not financial advice, just sharing my own opinion).
+Xmrig v3.1.1 has been released on the 30th of August and the patch notes are the following:
+#1138 Fixed multiple network bugs.
+#1141 Fixed log in background mode.
+#1142 RandomX hash rate improved by 0.5-1.5% depending on variant and CPU.
+#1146 Fixed race condition in RandomX thread init.
+#1148 Fixed, on Linux linker marking entire executable as having an executable stack.
+Fixed, for Argon2 algorithms, command-line options like –threads were ignored.
+Fixed command-line options for a single pool, free order allowed again.
+XMR is considering to use this protocol. It should provide even more privacy and will allow users to burn coins. Read more here .
+XMR has become the native payment option for a booking website named Travala on the 30th of October.

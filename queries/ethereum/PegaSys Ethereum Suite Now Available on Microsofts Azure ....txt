@@ -1,0 +1,7 @@
+The Microsoft Blockchain Development Kit for Ethereum ​will also now support Hyperledger Besu directly, ConsenSys said.
+​Hyperledger Besu is an open-source Ethereum client written in Java’s programming language. In 2019, it was gifted to Hyperledger, another open-source collaborative blockchain effort hosted by the Linux Foundation.
+​PegaSys Plus, the commercial subscription of Hyperledger Besu, offers additional capabilities and support guarantees, while ​PegaSys Orchestrate ​is an Ethereum transaction orchestration system.
+An orchestration system is designed to cut down the time and labor eaten up in manual coding by better aligning a business’ data and applications to others. In the case of PegaSys Orchestrate, it enables organizations to build on any Ethereum network by providing functionality to manage transactions, smart contracts and private keys.
+ConsenSys has held a strong partnership with Microsoft since the first Visual Studio plug-in for Solidity that the two software companies launched in early 2016.
+Both Microsoft and ConsenSys are founding members of the Enterprise Ethereum Alliance (EEA), a standards group where finance and other industries explore private versions utilizing Ethereum technology.
+The leader in blockchain news, CoinDesk is a media outlet that strives for the highest journalistic standards and abides by a strict set of editorial policies . CoinDesk is an independent operating subsidiary of Digital Currency Group, which invests in cryptocurrencies and blockchain startups.

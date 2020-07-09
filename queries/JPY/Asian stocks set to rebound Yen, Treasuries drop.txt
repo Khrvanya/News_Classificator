@@ -1,0 +1,44 @@
+Asian stocks set to rebound; Yen, Treasuries drop
+1 min read . Updated: 07 Jan 2020, 05:28 AM IST Bloomberg
+Futures gained in Tokyo and Hong Kong. Australian shares opened higher
+Asian stocks looked set to rebound as the risk-off mood sparked by geopolitical tensions in the Middle East ebbed. U.S. shares closed higher while Treasuries and the dollar dropped.
+Futures gained in Tokyo and Hong Kong. Australian shares opened higher. U.S. equity futures were flat. Earlier, the S&P 500 Index rose for the third time in four sessions, erasing early losses, as heavyweight technology companies led a recovery. Gold retreated from the highest in more than six years and the yen held losses. Ten-year Treasury yields rose to above 1.80%. Crude oil fell to trade below $63 a barrel, after reaching the highest since April.
+Investors turned their focus to improving trade relations with China planning to sign the first phase of its trade deal with the U.S. in Washington on Jan. 15, according to people familiar with the matter. Still, though the sudden escalation of tensions in the Middle East last week lost momentum, sentiment remains cautious.
+“It’s wait-and-see mode here," said Steve Chiavarone, a portfolio manager with Federated Investors. “How much, if at all, do things escalate with Iran and does it ultimately impact the global economic outlook? Right now, not so much. Could it change? Sure."
+Here are some events to watch for this week:
+Federal Reserve officials Richard Clarida, John Williams, James Bullard and Charles Evans speak on Thursday.
+The U.S. monthly employment report is due Friday.
+These are moves in major markets:
+Nikkei 225 futures rose 0.9% in Singapore.
+Hong Kong’s Hang Seng Index futures rose 0.6% earlier.
+S&P 500 futures were little changed. The S&P 500 Index rose 0.4% in New York.
+The Japanese yen traded at 108.40 per dollar.
+The offshore yuan traded at 6.9693 per dollar.
+The Bloomberg Dollar Spot Index declined 0.2% Monday.
+The euro was at $1.1196.
+West Texas Intermediate crude fell 0.5% to $62.96 a barrel.
+Gold was little changed at $1,564.46 an ounce.
+This story has been published from a wire agency feed without modifications to the text. Only the headline has been changed.
+* Thank you for subscribing to our newsletter.
+Click here to read the Mint ePaperLivemint.com is now on Telegram. Join Livemint channel in your Telegram and stay updated
+You are now subscribed to our newsletters. In case you can’t find any email from our side, please check the spam folder.
+lozad('.lozad', { load: function(el) { el.src = el.dataset.src; el.onload = function() { el.classList.add('fade')}}}).observe()
+.myAccount .planSec, .myAccount a.LinkCTA{padding:16px; margin:16px; box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.1); background-color: #fff;}
+	       		var userData = data;
+	       		var name = userData.name;
+	       		var email = userData.email;
+	       		var signupSource = userData.source;
+	       		var subscribedAtOnce = userData.subscribedAtOnce;
+	       		var plan  = userData.plan;
+	       		document.getElementById('uName').innerHTML = "<strong>"+name+"</strong>" + email;
+		       		var status = planData.status;
+		       		var purchaseSource = planData.source_device;
+			       		var nextActivationDate = planData.current_term_ends_at;
+			       		var planDescription = planData.plan.description;
+			       		var planName = planData.plan.name;
+			       		var planPrice = planData.amount;
+			       		//var planInterval = planData.shipping_interval;
+			       		var planInterval = planData.duration;
+			       		var planUnit = planData.interval_unit;
+			       		//var html = "<strong>Your Subscription Plan</strong>"+planName+" ₹"+planPrice+" / "+planInterval+" " + nextBillingHtml + cancelHtml; 
+			       		var html = "<strong>Your Subscription Plan</strong> "+planDescription + " "+ planName +": ₹"+planPrice + " "+ nextBillingHtml + cancelHtml;

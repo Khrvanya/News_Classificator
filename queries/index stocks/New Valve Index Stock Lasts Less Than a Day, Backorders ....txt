@@ -1,0 +1,40 @@
+I agree about the downside of LCD and your comments are validated by many.
+I found Titans of Space and Conscious Existence affected, and stopped using them on Index (they looked great on CV1 and Vive Pro).
+But for pure VR applications, for example Pistol Whip or Pavlov, it’s very impressive. Some experience like “The Crow” work great on index, it depends on colours and light. https://uploads.disquscdn.com/images/5d4ede6853e8b015bf5868ec674fd9a623f4060efa0b226dc11ef623fcd7d306.jpg
+Not to mention that beat saber looks amazing. While the blacks are grey, the rest of the color spectrum looks great. Running at 144Hz with all the settings turned up in beat saber really gave me that next gen feel.
+I was playing Beat Saber all afternoon on 144hz, 120% SS and display brightness at 160%. Absolutely breathtaking presence.
+Yeah, thats the only thing that makes my quest better than the index. The inky blacks are to die for and the washed out grey-black on the index is distracting. I noticed this heavily on the second half of BoneWorks when you are in the medieval tunnel system. The positives of an LCD are great, but the negatives are terrible lol.
+It’s a subjective thing I prefer no SDE to worrying about blacks looking greyish. But I’m one of those who gives up FPS on non-VR games for higher resolutions. I really can’t cope with aliasing. I have a problem!
+The wireless capabilities are what set the Quest apart from the Index, been loving Alyx wire free via Virtual Desktop.
+I can agree with Immersive Computing, I have an HTC vive, quest, and index. Index feels by far a gen 2.0 product. The audio, low persistence, controllers, high frame rate, and general comfort makes the experience 2.0.
+I run on an RTX2070 Super and Core I5 7700K and it still feels breathtaking.
+The Index is not a gen 2.0, it’s a 1.5.
+That all does sound very impressive. But you’re leaving out one tiny detail.
+I was as excited as you sound now when I decided to buy an Index. So many reviewers, etc, said it was the best consumer-grade VR system available, so it just had to be true. Right?
+And when I decided to demo one before buying–just to be sure–I thought it was a mere formality. Of course I would like it! It’s the best available.
+And I was impressed by the comfort, the clarity, etc. Much nicer than the CV1 I’d been using for years. Yep, just gotta go buy one now.
+And then I saw what black levels looked like on that TFT LCD screen.
+This was not at all something I was thinking about before actually trying an Index. I hadn’t bothered to consider what black levels might look like on an LCD screen, compared to the OLED screen of my CV1.
+And then I tried the first level of Arizona Sunshine, set in a dark cave, and I saw what a dark environment actually looked like on the Index. And I couldn’t believe it. Couldn’t believe that a thousand dollar HMD system, heralded by pretty much everyone in the VR press, was completely unable to convincingly render a dark environment.
+What I saw instead of darkness, was a murky gray fog that revealed a vaguely uneven pattern on the screen.
+I still find it hard to believe that so many people seem to find this completely acceptable, that they just accept this shift away from OLED to cheaper TFT LCDs.
+Not me. As long as there are OLED competitors to the Index (and there are), I’ll stick with an HMD that can render day *and* night, instead of just one side of the equation.
+Every one who has all the headsets, or produces VR content for a living have basically stated the Index is hands down the best VR setup available.  The Quest is best for portability.  Rift S is just there if you can’t afford the best.
+It’s not at all the best when it comes convincingly displaying a dark or even semi-dark environment. In fact it completely fails at this, because of its TFT LCD screen. Black levels on the Index are severely limited. We would never accept an HMD that couldn’t depict a bright environment in anything close to a believable way. It should be the same for dark environments, night, etc. You need both. Not just one half of the day/night cycle. I’m not a fan of Facebook at all but at least they went with an OLED screen for the Quest. I wouldn’t accept anything less.
+As much as I want non-Facebook alternatives in the VR hardware sector, Valve has been pretty poor with their job even before coronavirus. Why did they decide to manufacture head-tracking modules in US and cause it to be so expensive (decent open sourced OSVR camera head tracking and Oculus camera head tracking existed before Lighthouse 1.0)? Why did they go with a professional-grade expensive head tracking most users won’t appreciate anyway? Why did they go with such expensive default controllers which are still far from good finger tracking? Why did they add a “frunk” that just wastes spaces for most people and makes the device bulky? Why didn’t they handle hardware manufacturing better, why the constant delays, controller failures (it’s not like they are manufacturing millions of these)? Valve should step up their game, either hand over the hardware to a 3rd party hardware firm like they did with HTC or do it properly. Every hardware Valve has made to date before the Index including their Steam consoles and controllers have been a commercial failure and have been abandoned, do they not learn? The success of Steam gives them zero experience here.
+I swear it feels like every firm in this sector is goofing around and facebook is treated as the golden standard for merely making something just decent.
+Interesting comments. steamVR tracking is still best for active gaming and bow/gun games. Controllers yes I’d be happy with simpler CV1 Touch clone with steamVR tracking diodes.
+Thinking about the Frunk and dual cameras, the cameras still don’t work properly, the Frunk is….I plug in my Xbox controller receiver but that can be plugged into the PC no problem.
+Cost and weight /bulk reduction with cameras and Frunk missing would be a different headset = lighter, less bulk, lower cost?
+Valve gave away their patents royalty free, VR gear isn’t profitable.  FB has an advantage because their main goal is to scrape personal data so they can take a hit on sales of their hardware and pay devs to make games for their store.
+Valve was also the one who worked with Lucky early on before FB bought them.  Valve has done everything they could for the VR community short of giving away VR kits to everyone.
+Valve even installed a “Steam sight” VR room at Oculus? Which Zuckerberg tried…the results are well known.
+Care to explain for those who don’t know that which is well known?
+The story goes that Valve installed Steamsight room at Oculus HQ because they were assisting Oculus on the hardware side; Valve to provide store front and Oculus the hardware.
+After Zuckerberg visited January 2014 and used the Valve hardware he bought Oculus, the partnership ended, HTC came onboard with the Vive (originally called Re Vive). From my understanding Zuckerberg didn’t know Valve provided the hardware, which led to some accusations.
+You can try the Steamsight room in “The Lab” if you enter the secret demo rooms using the valve on the postcard experience.
+This is the only known image of his visit. https://uploads.disquscdn.com/images/6db90fd39b44322460ce4b185043fb7ad282f3918555ab329697e6c2ccdec99b.jpg
+They had the roomscale tracking working years before Oculus, that you said should have been an easier job with the existing solutions, but it wasn’t apparently.
+Maybe they valued accuracy more than ease, I think they valued the diminishing returns a bit too much.
+HL:A can be played with any VR headset. It’s not a $1000.00 fee
+Why do you behave like that?

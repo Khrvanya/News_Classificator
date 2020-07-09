@@ -1,0 +1,24 @@
+China’s surging ahead with its blockchain aspirations even as the world grapples with the basic regulation around distributed systems and digital currencies.
+A fund manager revealed Sunday the country will soon onboard Ethereum to its ambitious Blockchain Service Network (BSN) project, as part of a broader push to leverage blockchain technology within the country.
+Haseeb Qureshi, the managing partner of crypto-focused Dragonfly Capital, said local sources confirmed the BSN will feature Ethereum and Nervos Network, apart from other unannounced-as-of-yet public blockchains.
+1/ I’ve been informed by multiple sources that China's BSN is going to be integrating with public blockchains, the first of which are @ethereum and @NervosNetwork . This is kind of a big deal. Thread. 👇
+— Haseeb Qureshi (@hosseeb) June 28, 2020
+The development comes a week after Chainlink, the blockchain agnostic platform, was earmarked to be onboarded to the BSN in the coming weeks. The news sent LINK surging over 20 percent at the time.
+While no information on how Ethereum will be utilized exists at press time, reports confirm Chainlink will be used to secure the “blockchain middleware” that enables developers to create interconnected smart contracts.
+Qureshi believes the partnership marks a “big deal” for Ethereum and the broader cryptocurrency sector. The development is in step with China’s apparent “blockchain, not Bitcoin” narrative; which sees the country heavily censor the use of cryptocurrencies while pursuing rapid growth in the blockchain space.
+Supporting public blockchain would mean anyone on the planet can access data and confirm transactions on the BSN. This is contrary to China’s notorious image of being extremely private about its internal policies.
+6/ Regardless, BSN's push to open up with support for public blockchains will help China accelerate innovation within crypto. “Blockchain, not Bitcoin” is the gateway drug. Embracing true decentralization is the inevitable next step.
+— Haseeb Qureshi (@hosseeb) June 28, 2020
+Qureshi noted in a tweet:
+“We predicted that since Xi Jinping announced the “Blockchain+” initiative, it would start with permissioned blockchains.”
+Despite the claims, Matthew Graham of Sino Global Capital, a China-first investment firm, suggests being “super cautious” about the development until official reports on the matter:
+We suggested being super cautious about interpreting this until the exact details are known. I wouldn’t make assumptions.
+— Matthew Graham (@mattysino) June 29, 2020
+China’s blockchain efforts have not gone unnoticed among global governments. Ministries in South Korea and the U.S. have acknowledged Jinping’s push for a distributed system, and the so-called “digital yuan,” in the country.
+As reported by CryptoSlate last month, Korea is said to be “concerned” about China’s quick rise to the top blockchain developer in the world. ICON founder Ho Kim tweeted about this sentiment:
+2/ They are convinced that blockchain will be the main technology in the era of data economy. The article points out that there is a growing concern that China is ahead and Korea needs to act now or miss the boat.
+— Min (@minhokim) May 13, 2020
+Korea has even unveiled a $400 million fund to spearhead its own efforts towards blockchain regulation, development, and setting up a legal sandbox for cryptocurrencies.
+Meanwhile, in an interview last week , Ripple co-founder Chris Larsen said much of the U.S. discussion around cryptocurrencies centers around Bitcoin and Ethereum, which he defines as “dominated by miners based in China.”
+Markets in China could soon heavily feature blockchain systems. (Source: Peek )
+Larsen noted “China is so far ahead of us (the U.S.),” and not for bad reason. China is already modeling the island of Hainan as a “blockchain hub.” Local observers state President Xi Jinping aims to make the island fully-blockchain and AI-compliant; a glimpse into how the city of the future could look.

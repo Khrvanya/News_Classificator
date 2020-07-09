@@ -1,0 +1,12 @@
+Cryptographer and leading software engineer at a Ripple team, Nik Bougalis, offers advice on remote work management to firms amid the coronavirus pandemic.
+Cryptographer and leading C++ software engineer at Ripple Nik Bougalis offers advice on remote work management to firms amid the coronavirus pandemic.
+In a March 16 tweet , Bougalis offered his help to company managers looking to have their teams work remotely. His proposal comes as the ongoing epidemic resulted in a global push for remote work in an attempt to decrease the opportunities that the disease has to spread further.
+The Atlantic wrote on March 13 that people have anticipated the rise in remote work since the personal computer was invented. Still, the outlet points out that remote work adoption has been slow so far, “but the next few months will be a very strange test” of this kind of work.
+Bougalis explained that he has worked remotely for 20 years and is currently leading a team at Ripple that is both large and completely distributed. He wrote:
+“If you’re new to remote work — especially as a manager — and have questions, please ask! I’ll try my best to answer and share my insights to help you and your team.”
+One Twitter user asked how he can know if his employees are not taking more time than necessary to finish tasks when working remotely. Bougalis admitted that this is a common concern, but points to trust as the obvious solution and recommends :
+“Remember, you hired your team for a reason—they are good at what they do and you trust them. Don’t micromanage your team now or assume that just because they’re not in the office they aren’t working. [...] If productivity suffers when working remote, understand why. Employees not working hard is almost never the problem.”
+Furthermore, Bougalis recommended managers use text-based communication software such as Slack and IRC since it makes messages less ephemeral than VOIP and allows for information to be absorbed at a later time.
+XRPL Monitor , a Twitter profile dedicated to tracking large transfers of XRP, the crypto Ripple works with, reported that over 248 million XRP (worth over $35 million at press time) moved in large transactions over the last 24 hours. This is just one sign of panic in the cryptocurrency space that resurfaced amid the coronavirus pandemic.
+Bitcoin bull and Galaxy Digital CEO Mike Novogratz recently said that investors lost confidence in Bitcoin ( BTC ). He said:
+“[Bitcoin] was always a confidence game. All crypto is. And it appears global confidence in just about anything has evaporated.”

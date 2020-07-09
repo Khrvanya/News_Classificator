@@ -1,0 +1,10 @@
+Bitstamp partnered with the cryptocurrency-friendly Silvergate Bank to pilot Bitcoin leveraged trading.
+The twelfth-largest cryptocurrency exchange, Bitstamp, partnered with cryptocurrency-friendly Silvergate Bank to pilot Bitcoin ( BTC ) leveraged trading.
+According to an announcement on Jan. 14, the exchange will serve as the launch partner for the bank’s Silvergate Exchange Network (SEN) Leverage service.
+During the pilot stage, the exchange will only offer leveraged trading to select institutional customers. The only collateral currently supported by the service is Bitcoin, which will be custodied by Bitstamp as Silvergate Bank’s first exchange partner.
+Silvergate Bank’s friendliness towards cryptocurrency businesses is seemingly paying off as it has penned partnerships with major cryptocurrency firms.
+In late August, Gemini, the cryptocurrency exchange founded by the Winklevoss twins, announced that it joined Silvergate’s SEN network to offer 24/7 fiat transfers.
+According to a filing with the U.S. Securities and Exchange Commission in March 2019, Silvergate Bank served 542 digital currency-related clients including cryptocurrency exchanges and miners, custodians and global investors, among others.
+Leveraged trading allows traders to borrow funds in order to increase their potential profits. However, such trading also comes with substantial risks as it introduces the possibility of losses that exceed a trader's initial investment. As such, many exchanges suggest that amateur traders do not engage in leveraged trading.
+Leveraged cryptocurrency trading is seeing increasing attention from Japanese regulators. As Cointelegraph reported yesterday, the Japanese Financial Services Agency (FSA) proposed lowering the leverage rate limit of cryptocurrency margin trading from 4x to 2x. The regulator reportedly plans to put the order into practice in April.
+By lowering the maximum rate, the FSA hopes to protect investors from “an excessive amount of speculation and the risk of loss due to volatility".

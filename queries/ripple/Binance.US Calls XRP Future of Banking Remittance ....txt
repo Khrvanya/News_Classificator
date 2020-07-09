@@ -1,0 +1,16 @@
+Two interesting XRP-related developments have taken place in the last 24 hours: (1) the popular non-custodial cryptowallet wallet BRD is adding support for XRP; and (2) Binance.US has added support for XRP/USD trading to its mobile app.
+On 11 October 2019, BRD announced that it had formed a strategic partnership with Ripple.
+There were four reasons for BRD's enthusiasms about this partnership:
+BRD was "impressed with the adoption of XRP for real use cases around the remittance, payments and cross-border banking initiatives."
+As part of this partnership, Ripple said that Xpring would be investing $750,000 into BRD, and Ethan Beard, Senior Vce President of Xpring, called BRD “one of the oldest and most respected” crypto wallet providers:
+The BRD team has helped consumers on-ramp $6 [billion] worth of traditional currencies into digital currency, making them an ideal partner to continue the proliferation and adoption of cryptocurrencies like XRP to solve real-world problems.
+Then, on Wenesday (February 12), roughly four months after that announcement, Ripple had more to say about BRD.
+In a post published on Ripple's "Insights" blog, Ripple said that BRD -- "the fastest growing consumer crypto wallet in the world, with more than 3 million users in 170 countries" -- is "now adding support for XRP to its wallet" (first iOS and then Android).
+BRD Co-Founder Aaron Voisine stated that "XRP will be one of the first currencies in BRD’s new Blockset product, an enterprise-grade API and hosting solution for blockchain data."
+According to Ripple, Blockset is "envisioned as a high-uptime, high-availability SaaS-like service for banks and other crypto businesses that need access to Bitcoin, XRP and other blockchain data—but who find it cost-prohibitive or too difficult to maintain on their own."
+Also, on the same day, we found out via a tweet from Binance.US, Binance's trading platform for customers based in the U.S., that it was adding support for XRP -- which it called "the future of banking remittance services" -- to its mobile app. What made this tweet even more special was that it used the beloved hashtag "#XRPTheStandard":
+Access #XRP , the future of banking remittance services, on https://t.co/AZwoBOgsqS ! #XRPTheStandard
+Trade $XRP /USD and more with the https://t.co/AZwoBOgsqS App!
+— Binance.US 🇺🇸 (@BinanceAmerica) February 12, 2020
+Binance.US, which was launched in September 2019, is a digital asset exchange that is "powered by matching engine and wallet technologies" licensed from Binance but is operated by San Francisco-based BAM Trading Services.
+According to data from CryptoCompare , XRP, which is currently the top daily gainer (vs USD) among the top 30 cryptoassets (by reported market cap), is trading at $0.3142, up 8.61% in the past 24-hour period:

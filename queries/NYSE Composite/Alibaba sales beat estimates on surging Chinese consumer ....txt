@@ -1,0 +1,32 @@
+Pivot Or Perish Market Dashboard India-China Face-Off The Future Of Covid Tracker Lounge Coronavirus India2Global Emerging Tech Conclave #WFHLife Long Reads Money With Monika, Season 4 Mint 50 - Top Mutual Funds Plain Facts Mark To Market Podcasts Money With Monika, Season 3 Companies Markets Money Start-ups Mutual Funds Insurance Technology Industry Opinion Politics
+1 min read . Updated: 17 Aug 2017, 04:54 PM IST Lulu Yilun Chen
+Alibaba revenue rose 56% to $7.4 billion in the three months ended June, powered by Chinese consumers' thirst for cheaper, higher quality goods online
+Hong Kong: Alibaba Group Holding Ltd.’s quarterly revenue beat analysts’ estimates, powered by Chinese consumers’ thirst for cheaper and higher quality goods online.
+Revenue at China’s biggest e-commerce company rose 56% to ¥50.2 billion ($7.4 billion) in the three months ended June, the company said. That compares with the $7.2 billion average of estimates compiled by Bloomberg. It reported non-GAAP diluted earnings-per-share of $1.17, versus the $0.94 projected.
+Alibaba bolstered its dominance in e-commerce by improving the advertising algorithms it uses to generate revenue from brands trying to reach the 466 million active consumers on its online platforms. That is buying time for billionaire Chairman Jack Ma to venture into traditional retail, a sector he wants to revamp via experiments like HeMa Supermarket, a fresh foods store that comes with an additional cooking service and provides online grocery delivery.
+“The big data driven algorithm provides a good balance between merchants’ ad budget" and user preference, Barclays Capital Inc. analyst Gregory Zhao said in a report before the earnings. “While core commerce is the engine for Alibaba’s near-term growth, new retail is expected to shape Alibaba’s business model in the long run."
+Revenue from its core commerce operation climbed 58% to $6.3 billion, while cloud revenue almost doubled to $359 million as paying customers for the business surpassed 1 million for the first time.
+Shares of Alibaba rose 1.1% to in New York on Wednesday. The stock has gained 82% this year compared with a 7.3% gain for the NYSE Composite Index. Bloomberg
+* Thank you for subscribing to our newsletter.
+Click here to read the Mint ePaperLivemint.com is now on Telegram. Join Livemint channel in your Telegram and stay updated
+You are now subscribed to our newsletters. In case you can’t find any email from our side, please check the spam folder.
+lozad('.lozad', { load: function(el) { el.src = el.dataset.src; el.onload = function() { el.classList.add('fade')}}}).observe()
+.myAccount .planSec, .myAccount a.LinkCTA{padding:16px; margin:16px; box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.1); background-color: #fff;}
+	       		var userData = data;
+	       		var name = userData.name;
+	       		var email = userData.email;
+	       		var signupSource = userData.source;
+	       		var subscribedAtOnce = userData.subscribedAtOnce;
+	       		var plan  = userData.plan;
+	       		document.getElementById('uName').innerHTML = "<strong>"+name+"</strong>" + email;
+		       		var status = planData.status;
+		       		var purchaseSource = planData.source_device;
+			       		var nextActivationDate = planData.current_term_ends_at;
+			       		var planDescription = planData.plan.description;
+			       		var planName = planData.plan.name;
+			       		var planPrice = planData.amount;
+			       		//var planInterval = planData.shipping_interval;
+			       		var planInterval = planData.duration;
+			       		var planUnit = planData.interval_unit;
+			       		//var html = "<strong>Your Subscription Plan</strong>"+planName+" ₹"+planPrice+" / "+planInterval+" " + nextBillingHtml + cancelHtml; 
+			       		var html = "<strong>Your Subscription Plan</strong> "+planDescription + " "+ planName +": ₹"+planPrice + " "+ nextBillingHtml + cancelHtml;

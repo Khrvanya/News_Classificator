@@ -1,0 +1,18 @@
+Crypto traders hot on Eth Classic, cold on EOS reveals Stocktwits data
+Social trading platform Stocktwits provided us with exclusive data regarding trending cryptocurrencies this year among their community of crypto traders.
+Stocktwits allows users to subscribe to a live feed of comments for their chosen cryptocurrency.
+Ethereum Classic (ETC) has been a major topic of discussion this year, but Dogecoin (DOGE) is gaining popularity.
+Kyber Network (KNC) and Orchid (OXT) stand out as outliers among altcoins.
+Bitcoin is a form of digital currency, created by Satoshi Nakamoto in 2008.
+A blockchain project conceived by Vitalik Buterin that allows developers to build decentralized apps (dapps) using Smart Contracts.
+are the most talked-about cryptocurrency projects in 2020.
+We asked the platform, which has more than 400 million users, to share their insights into what projects investors, entrepreneurs, and market analysts were talking about the most this year. While many expected Bitcoin to be consistently high up the list, there were a number of surprises, both in terms of popularity, but also how little investors seemed to speak about certain projects.
+What is Stocktwits and how does it work?
+As a social media platform built for investors, Stocktwits allows its more than 400 million users to share their insights about the market and discuss their ideas with other investors, entrepreneurs and market analysts.
+Users can also watch different stocks and assets on the platform, including a wide variety of cryptocurrencies. Doing so will subscribe the user to a feed showing the latest messages discussing the stocks and cryptocurrencies they are watching. Because of this, the platform is commonly used by traders and investors looking to get a broad overview of the market without needing to put in the leg work.
+In order to get a rough grasp of how popular each different cryptocurrency is among the platform's users, Stocktwits shows the total number of current watchers for each cryptocurrency tracked by the platform. As you might expect, more popular cryptocurrencies typically have more watchers than less popular ones, but the numbers don't always align with the market capitalization rankings for each cryptocurrency.
+However, since Stocktwits users need to manually unwatch a cryptocurrency in order to stop seeing messages discussing it, the number of watchers can indicate a cryptocurrency is more popular than it actually is—since even cryptocurrencies that were only popular for a brief period may have a large number of watchers.
+As such, we asked Stocktwits to provide us with the engagement figures for 2020, to see exactly which cryptocurrencies are still popular to this day. For more market insights, don't forget to follow Decrypt on Stocktwits .
+As you can see from the above chart, the number of messages discussing each cryptocurrency in 2020 largely mirrors the ranking of each cryptocurrency in terms of market capitalization. As such, Bitcoin (BTC), the number one cryptocurrency by market capitalization was discussed more times than any other cryptocurrency—with 63,978 messages discussing Bitcoin in 2020 so far.
+Likewise, as the second-largest cryptocurrency, Ethereum (ETH) also has the second-largest number of messages in 2020—totaling 2,160 messages so far. However, that's where the trend ends.
+Here's the current ranking by the total number of messages in 2020 so far;

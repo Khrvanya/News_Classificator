@@ -1,0 +1,13 @@
+US-based multibillion investment manager Horizon Kinetics (HK) just doubled down on its Bitcoin (BTC) mining strategy.
+After tripling the number of miners it hosts with Core Scientific (CS), a US-based blockchain hosting provider, HK has now agreed to upgrade the miners to the Antminer S19 and S19 Pro models manufactured by Bitmain, CS said in a press release, without providing any numbers.
+However, last week, CS announced joining hands with Bitmain - a partnership that saw the host purchasing 17,595 units of the latest mining machine models, which are retailing for USD 1,785 (S19) and USD 2,407 (S19 Pro). At these prices, this deal would be worth up to USD 42m.
+These machines, said the company, are bought for its own operating needs and on behalf of its hosting clients. The units will be deployed over the next four months across Core Scientific’s 655,000 square feet (60,851 sqm) of data centers in the United States.
+The S19 and S19 Pro models are meant to help the company stay competitive following the Bitcoin halving event that occurred in May.
+Taras Kulyk, the newly-appointed Senior Vice President of Blockchain Business Development at Core Scientific, claims that more leading institutional investors like Horizon Kinetics are including digital assets, especially cryptocurrency mining, in their investment exposure.
+"Given the massive increase in attention the digital asset sector is experiencing, over the next few months I will be leading Core Scientific’s effort to onboard an increasing number of institutional players; in essence, providing a stable, North American-based mechanism for sophisticated investors to gain direct exposure to this rapidly maturing asset class," he was quoted as saying.
+In a separate interview, he also said that we'll see more financial institutions move their blockchain mining operations from overseas locations to North America.
+As previously reported by Cryptonews.com, Chinese BTC miners' share in Bitcoin's hashrate, or the computational power of the network, shrunk this year, while the US returned to second place.
+Meanwhile, in their recent report , HK said that "if bitcoin ever becomes sufficiently accepted, one should expect an absolutely enormous rate of return in a very brief period of time."
+"The idea that someone can observe bitcoin gradually moving higher and then buy some might prove to be an incorrect analysis; by then, it would be too late," they concluded.
+In March of 2019, Horizon Kinetics Asset Management had approximately USD 5.3 billion in assets under management.
+At pixel time (10:33 UTC), BTC trades at USD 9,112 and is down by 1% in a day and 1.5% in a week. BTC also lost 4% of its value in a month and 22% in a year.

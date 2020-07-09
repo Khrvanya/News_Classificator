@@ -1,0 +1,33 @@
+Gold prices today rise to another record high, silver rates drop
+1 min read . Updated: 24 Jun 2020, 12:34 PM IST Edited By Surajit Dasgupta
+Gold prices in India hit a new high today amid a strong global rally in the precious metal. On MCX, August gold futures rose about 0.4% to a new high of ₹48,420 per 10 gram, surpassing previous high of ₹48,289. Silver rates dropped with futures on MCX edging lower by 0.14% to ₹48,716 per kg. In global markets, gold prices jumped to its highest level in about eight years. Surging coronavirus cases across the world and hopes of more stimulus measures lifted the demand for gold.
+In global markets, spot gold was up 0.2% at $1,769.59 per ounce. Earlier in the session, it hit $1,773, its highest level since late 2012. US gold futures rose 0.4% to $1,789.20.
+Some profit-taking could be seen at higher levels, says Jigar Trivedi of Anand Rathi Shares. "Sentiments are positive. Gold has appreciated by 24% this year (25% in 2019). Hence we are cautiously optimistic," he added.
+Coronavirus cases in the US surged 25% in the week ended June 21 compared from the week before, according to estimates. Among other precious metals, platinum was steady at $828.92 and silver was mostly unchanged at $17.96.
+Meanwhile, US Treasury Secretary Steven Mnuchin on Tuesday said the next stimulus bill will be focused on getting people back to work quickly and that he would consider a further delay of the tax filing deadline.
+Gold tends to benefit from stimulus measures from central banks because it is widely viewed as a hedge against inflation and currency debasement.
+A weakness in US dollar also helped gold. The dollar index hovered near a more than one-week low hit in the previous session.
+Investment demand for gold continues to go up. SPDR Gold Trust, the world's largest gold-backed ETF or exchange-traded fund, said its holdings rose 0.28% to 1,169.25 tonnes on Tuesday. (With Agency Inputs)
+* Thank you for subscribing to our newsletter.
+Click here to read the Mint ePaperLivemint.com is now on Telegram. Join Livemint channel in your Telegram and stay updated
+You are now subscribed to our newsletters. In case you can’t find any email from our side, please check the spam folder.
+lozad('.lozad', { load: function(el) { el.src = el.dataset.src; el.onload = function() { el.classList.add('fade')}}}).observe()
+.myAccount .planSec, .myAccount a.LinkCTA{padding:16px; margin:16px; box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.1); background-color: #fff;}
+	       		var userData = data;
+	       		var name = userData.name;
+	       		var email = userData.email;
+	       		var signupSource = userData.source;
+	       		var subscribedAtOnce = userData.subscribedAtOnce;
+	       		var plan  = userData.plan;
+	       		document.getElementById('uName').innerHTML = "<strong>"+name+"</strong>" + email;
+		       		var status = planData.status;
+		       		var purchaseSource = planData.source_device;
+			       		var nextActivationDate = planData.current_term_ends_at;
+			       		var planDescription = planData.plan.description;
+			       		var planName = planData.plan.name;
+			       		var planPrice = planData.amount;
+			       		//var planInterval = planData.shipping_interval;
+			       		var planInterval = planData.duration;
+			       		var planUnit = planData.interval_unit;
+			       		//var html = "<strong>Your Subscription Plan</strong>"+planName+" ₹"+planPrice+" / "+planInterval+" " + nextBillingHtml + cancelHtml; 
+			       		var html = "<strong>Your Subscription Plan</strong> "+planDescription + " "+ planName +": ₹"+planPrice + " "+ nextBillingHtml + cancelHtml;

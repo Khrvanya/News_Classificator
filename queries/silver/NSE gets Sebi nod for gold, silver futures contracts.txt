@@ -1,0 +1,29 @@
+NSE gets Sebi nod for gold, silver futures contracts
+1 min read . Updated: 28 Sep 2018, 08:10 PM IST Nasrin Sultana
+Mumbai: National Stock Exchange of India Ltd . (NSE) has received approval from the Securities and Exchange Board of India (Sebi) for futures contracts in gold and silver on its commodity derivatives segment. NSE will launch its commodity derivative segment on Friday, 12 October, 2018.
+According to an NSE statement, it has received representations from several trading and clearing members suggesting that more time be given to market intermediaries to put in place appropriate systems for effective trading in commodity derivatives. “We have also received suggestions that the launch of a new segment should be done after the ‘Pitru-Paksha’ in the auspicious period of Navratri," it said in a statement.
+Earlier on 19 September, both NSE and BSE had received approval for launch of their commodity derivative segments from Sebi.
+Trading of futures contracts in gold for 1 kg and silver for 30 kg on the BSE will be launched on 1 October.
+* Thank you for subscribing to our newsletter.
+Click here to read the Mint ePaperLivemint.com is now on Telegram. Join Livemint channel in your Telegram and stay updated
+You are now subscribed to our newsletters. In case you can’t find any email from our side, please check the spam folder.
+lozad('.lozad', { load: function(el) { el.src = el.dataset.src; el.onload = function() { el.classList.add('fade')}}}).observe()
+.myAccount .planSec, .myAccount a.LinkCTA{padding:16px; margin:16px; box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.1); background-color: #fff;}
+	       		var userData = data;
+	       		var name = userData.name;
+	       		var email = userData.email;
+	       		var signupSource = userData.source;
+	       		var subscribedAtOnce = userData.subscribedAtOnce;
+	       		var plan  = userData.plan;
+	       		document.getElementById('uName').innerHTML = "<strong>"+name+"</strong>" + email;
+		       		var status = planData.status;
+		       		var purchaseSource = planData.source_device;
+			       		var nextActivationDate = planData.current_term_ends_at;
+			       		var planDescription = planData.plan.description;
+			       		var planName = planData.plan.name;
+			       		var planPrice = planData.amount;
+			       		//var planInterval = planData.shipping_interval;
+			       		var planInterval = planData.duration;
+			       		var planUnit = planData.interval_unit;
+			       		//var html = "<strong>Your Subscription Plan</strong>"+planName+" ₹"+planPrice+" / "+planInterval+" " + nextBillingHtml + cancelHtml; 
+			       		var html = "<strong>Your Subscription Plan</strong> "+planDescription + " "+ planName +": ₹"+planPrice + " "+ nextBillingHtml + cancelHtml;

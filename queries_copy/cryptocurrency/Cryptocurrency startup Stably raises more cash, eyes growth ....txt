@@ -1,0 +1,12 @@
+Seattle startup Stably has raised another $1 million to fuel growth of its asset-backed stablecoins, a form of cryptocurrency that is pegged to a fiat currency such as the U.S. dollar and allows prices to remain more stable compared to other options.
+Stably has developed its own stablecoin called Stably USD (USDS). When a user gives Stably $1 to buy its cryptocurrency, it mints one of its digital tokens. If someone gives Stably back that 1 USDS, it removes the coin from circulation and returns $1 from its cash reserve.
+It’s an alternative to more volatile cryptocurrencies such as bitcoin, which lost about half its value as the COVID-19 outbreak spread across the world, but has recovered over the past month-and-a-half.
+The idea is to provide benefits of cryptocurrency — fast transaction speed; anonymity; etc. — with less fluctuation in value.
+USDS is the 7th-largest USD-backed stablecoin and is featured on cryptocurrency exchanges Binance, Binance DEX, and Bittrex.
+Stably also offers Stably Prime, which lets users buy or redeem stablecoins with borderless accounts, and Stably Enterprise, a turnkey product that allows companies create their own stablecoins.
+While thousands of other startups are trimming headcount to help curb expenses as revenue dries up amid the pandemic, Stably CEO Kory Hoang said the company is growing its enterprise client pipeline and plans to double the size of its developer team.
+“We are now busy building stablecoins and asset-backed tokens for a handful of enterprise clients, with launches scheduled for the second half of 2020,” said Hoang, who got his finance career started with stints at Bank of America and Merryl Lynch.
+Stably plans to expand its product offerings and tokenize new asset classes such as precious metals, crude oil, and other fiat currencies.
+Venture capital firm Pay It Forward led the round, which included investors from around the globe. Stably previously raised a $1.2 million round in February 2019 led by Paul Stahura, co-founder of domain registrar companies such as Donuts and eNom.
+Stably is based in Seattle but a majority of its 16-person team is in Vietnam and India.
+Taylor Soper is GeekWire's managing editor, responsible for coordinating the newsroom, planning coverage, and editing stories. A native of Portland, Ore., and graduate of the University of Washington, he was previously a GeekWire staff reporter, covering beats including startups and sports technology. Follow him @taylor_soper and email taylor@geekwire.com .

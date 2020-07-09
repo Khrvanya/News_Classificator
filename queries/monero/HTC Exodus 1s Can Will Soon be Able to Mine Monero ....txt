@@ -1,0 +1,8 @@
+HTC, the manufacturer of phones, laptops, and other electronics, will soon allow owners of the HTC Exodus 1S smartphone to mine Monero.
+That’s right, they can mine the asset directly from their device. It is able to do so via partnering with Midas Labs. The group is developing an application called DeMiner, which is how users will be able to harness the phone’s power to mine.
+This app should be available in quarter 2 of this year.
+Speaking on the matter is Phil Chen, the Decentralized Chief Officer at HTC:
+“The crypto world is under threat from the domination of the hashrate by giant mining pools. The most effective way to eliminate this problem is to make mining accessible for the masses, and that is through mobile. This app makes smartphone mining cost-efficient, which gives incentives to individual miners and helps to decentralize the network. This is the first step and being able to mine Monero, a privacy-centric token, which fits very well within the EXODUS vision.”
+The goal here is to increase the number of people mining for the cryptocurrency. As of now, Monero miners are doing so at a loss. It uses too much power for how much the miner gets out of doing so.
+Of course, doing so on a mobile phone designed for the blockchain is a little different.
+As of now, the mining is set to adjust itself when a user is charging the phone or actively using it. Of course, there will be more customization settings upon the application’s release.

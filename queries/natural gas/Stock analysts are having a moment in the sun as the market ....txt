@@ -1,0 +1,98 @@
+Top-ranked Wall Street analysts covering all 11 S&P 500 sectors gave us their industry outlooks and offered stock picks.
+This story is available exclusively on Business Insider Prime. Join BI Prime and start reading now.
+The stock market has rebounded in stunning fashion since hitting multiyear lows in late March.
+But the outlooks for individual sectors remain fuzzy amid uncertainty surrounding new coronavirus cases, energy prices, consumer demand, and levels of unemployment.
+We spoke with 11 equity analysts — one for each S&P 500 sector. Everyone interviewed was ranked in the top five for their industry, according to TipRanks.
+Each top-ranked expert offered market outlooks and single-stock picks for their areas of expertise.
+For US-focused investors, the first half of the year was marked by the pandemic's explosion, a resulting severe drop-off in economic activity, plunging energy prices , and a devastating rise in unemployment .
+Since the multiyear depths of late March, the S&P 500 has rebounded roughly 40%, while the tech-heavy Nasdaq Composite hit a recent record high last week as investors bet businesses reopening across the US will fuel a pickup in economic activity.
+But plenty of concern lingers around a renewed spike in coronavirus infections and, in turn, the pace of the US  economic rebound.
+Those worries are informing increasingly bearish outlooks on the US equity market across Wall Street. As investors get more fearful of a second wave of COVID-19 and a longer-than-expected recovery, bullish views "are retreating" amongst institutional investors, according to a recent survey from Lori Calvasina of RBC Capital Markets.
+And under the market's hood, there are even more complex questions about where each sector is headed. Enter the equity analyst, a Wall Street profession that's having a moment in the sun.
+These analysts are providing crucial recommendations to traders as they try to capitalize on market dislocations driven by virus-related uncertainty. And their role is especially important as a wave of retail investors dip their toes into the market for the first time.
+To that end, we spoke with 11 equity analysts — one for each S&P 500 sector. Everyone interviewed was ranked in the top five for their industry, according to analyst-rating database TipRanks . They offered market outlooks and single-stock picks for their areas of expertise.
+Detailed below is what each of them had to say.
+Brent Bracelin covers cloud-computing companies that serve businesses. Think Shopify, rather than Zoom. But if those companies are less famous, what's happened to them in the last few months has been dramatic.
+"We're really talking about compressing the adoption of one or two of those applications from three, four, five years of adoption into two months," he said.
+Businesses are very conservative about how they change their software and practices, and the fact that so many businesses have had to make work from home policies work is bringing about some permanent changes.
+"Over the last decade, we've gone from one to 10% penetration of cloud or digital in the enterprise," he said. "By 2030, we think that that market could go to 50% penetration."
+So Bracelin sees companies like Shopify , MongoDB , and Twilio as investments with a ton of potential over the years, but warns that the stocks are bound to hit some speed bumps because of the huge gains they've made this spring.
+"We're pricing in a lot of optimism in the short run. I have some stocks that are up 50% to 150% this quarter," he said. "We're bound to get market pullbacks over the next 6, 9, 12 months."
+Everyone is highly attuned to the idea of "winners" and "losers" in the wake of the pandemic. And Colin Sebastian — who covers internet and digital media at Baird — has the equivalent of a front-row seat as e-commerce and video game companies surge and advertising-dependent companies struggle.
+Here's how dramatic the shift has been: When the pandemic is over and things go "back to normal," the proportion of shopping that's being done online will have grown about 50% from its pre-COVID starting point.
+"There are going to be three major (e-commerce) players: Amazon , probably Walmart, and Shopify ," he said. "We think of Shopify as one of the future internet platform companies that isn't yet quite viewed by investors in that way."
+He says huge numbers of smaller businesses will pay Shopify to provide technology and services they can't create on their own.
+Sebastian adds that he also sees a lot of potential in online used car retailer Carvana , which is starting to take share in a gigantic market.
+"A lot of investors, at least at the beginning, doubted that people would buy cars online," he said. "We heard that same pushback with people buying furniture online and Wayfair, of course, is now one of the high flying e-commerce stocks."
+He continued: "And before that, would people buy apparel online? And, all the way back, would they buy a big screen TVs or toaster ovens online?"
+The financials sector is feeling pressure in some areas and tailwinds in others, said Ken Usdin, an analyst at Jefferies focused on the space.
+The banks were under some pressure before the pandemic struck. For instance, ultra-low interest rates were already eating into firms' profitability before the pandemic took hold in the US — and then the Federal Reserve cut interest rates to near zero in March.
+"We've seen ongoing downside revisions to estimates on NII and a really tough growth outlook underneath that," Usdin said, referring to net interest income, an important driver for banks.
+On the other hand, deposit growth has been quite strong as a result of the US government's support like the Paycheck Protection Program , Usdin said. So has trading activity , Business Insider previously reported.
+"There was all the government stimulus that came through, but core organic loan demand is going to be softer for a while as we figure out what level of activity is going to settle out in the economy," he said. "So that's one of the things that we're going to be dealing with for a couple of years with the Fed distinctly on hold."
+Within that group, one name to which he's assigned a buy rating is Citi , which he calls his "best new money idea" in the group.
+"There's a lot of concern about the credit card business, which is a larger part of their loan portfolio than others. But again, recently we're seeing a real positive outlook so far from a credit delinquencies and loss perspective," Usdin said.
+That's opposed to big-bank rivals JPMorgan and Bank of America, which he rates as neutral for the negative impact they will feel from low rates in the short-term though sees as long-term "winners" within retail banking for their strides in digital capabilities.
+The consumer environment right now is nothing if not "dynamic," said Rupesh Parikh, an analyst at Oppenheimer tracking the food, grocery, and consumer segments.
+He's been monitoring the unemployment rate, consumer confidence, and retail sales for clues as to how demand is faring during the downturn. The data has been volatile, to say the least.
+Retail sales in May came in far better than economists estimated, a result of government stimulus boosting consumer spending, Parikh said.
+"It's hard to have a hundred-percent comfort in earnings forecasts when the environment is just that volatile," he said in a recent interview. "I think volatility is here to stay within my group, and I think investors need to just prepare for a wide variety of outcomes going forward, at least for this year. The virus is clearly a big part of that uncertainty."
+Within the grocery vertical, Costco — which he calls "the most attractive growth story" for its international appeal, including in markets like Shanghai and Australia — and the dollar store chain Dollar General are Parikh's top two stock picks.
+In the consumer discretionary vertical he prefers Ulta , Sally Beauty , and the consumer giant Helen of Troy , which owns brands like Hydro Flask.
+Within the dollar store space he prefers Dollar General and its management's recent innovation and retail location improvements over Dollar Tree, which he rates as "neutral" while he sees challenges with Dollar Tree's Family Dollar integration.
+The most accurate analyst covering utilities says that most people who watch the sector are simply doing it wrong.
+"Year after year economists and strategists have always been wrong on utilities," says Shar Pourezza. "Almost 75% of the movement in utility P/E (ratios) is explained by the triple B bond yield curve."
+The utility stocks that have done the best lately, he explains, are the companies that maintained their guidance and gave Wall Street a good look at the capital spending plans they put in place as the economy slowed.
+Pourezza says another key is watching the way state regulations. He splits the sector into traditional, fully-regulated utilities, riskier utilities that operate in deregulated markets, and hybrids that do both.
+He thinks the second and third groups have the most upside today, and is bullish on NRG , CenterPoint , Vistra , Sempra , Exelon , and Dominion .
+"They are undervalued, they have other businesses leveraged to there cyclical aspects of the value chain (such as) liquefied natural gas, pipelines, power plants."
+Among more traditional regulated utilities, he said Duke Energy , Evergy , and Entergy are trading at lower multiples than their peers.
+Over the longer term, Pourezza says the industry has passed a tipping point when it comes to green energy.
+"ESG (investing) and the green movement have pushed even the most apprehensive utilities to look at renewables," he said. "You're never going to built another coal plant. You're probably never going to build another nuclear plant."
+It's ancient history now, but 2020 got off to a great start for airlines, according to Helane Becker. Now she's trying to get a handle on a recovery nobody foresaw.
+"It will take 3 to 5 years for domestic traffic to come back and 5 to 7 years for international traffic to come back to 2018 levels," said Becker, who covers airlines and their suppliers. She estimates that about 1 million people will fly per day by the end of the year. That's half of the pre-pandemic clip.
+But even with a very slow recovery, that leaves room for these beaten-down stocks to outperform for the remainder of 2020.
+It all hinges on growth in leisure travel, Becker says. She notes that short-haul business travel never really recovered after the 2001 recession, and business travel overall never recovered from the Global Financial Crisis.
+Becker says a handful of airlines have more potential than the rest of the sector, naming American Airlines as a "sleeper."
+"If there's a vaccine, we think the stock can triple off the bottom," she said, a move that would take the stock to around $33 per share.
+She sees potential and better-than-average financial strength in Southwest Airlines as well.
+"It's got a fortress balance sheet," she said. "They're the largest US domestic carrier. … 97% of their capacity is domestic, and 80% of their passengers are leisure. And that's really where we see growth."
+Laurence Alexander writes that chemical stocks look expensive, and under normal circumstances, a year of underperformance would be likely.
+But things are far from normal, and the stocks might actually do very well. Alexander — who specializes in chemical companies — notes that earnings estimates for the companies have stabilized and leading economic indicators globally and for the US and European Union are improving.
+"The window for chemicals to participate in an "early cycle bounce" and outperform the S&P 500 typically extends through 4-6 quarters after the end of a recession," he wrote in June. He says that that's good news for the sector in general and for upstream companies in particular.
+Alexander says he favors Dow , Huntsman , and Methanex in particular. Methanex has more upside than any other stock in the sector based on his latest research, as his price target implies 97% upside.
+"The upstream chemical companies will likely extend their outperformance, given their operating leverage to higher volumes and the potential for fly-ups in margins if peers have unplanned outages, which are more common in the first surge in volumes."
+The outlook for real estate has shifted drastically in recent months as companies reevaluate how they're allocating space for employees and some people rethink their living situations.
+Stephen Manaker, whose coverage focuses on self-storage names within the space at Stifel Financial, called this time "confusing," to say the least.
+"We're all trying to figure it out, but the data points are coming in and it could change pretty dramatically, pretty quickly," Manaker said in a recent interview. "From my perspective, I would say I'm looking more for the steady returns right now."
+But he generally sees the self-storage space as a stable subsector at this juncture, since he doesn't see customers pulling their belongings out of the storage units where they're parked.
+In other words, he doesn't see the demand going away for people storing all their stuff elsewhere, even if the economic outlook is dim.
+To that end, Manaker's top pick right now is Life Storage , a Buffalo, New York-based self-storage company. He's encouraged by its growth prospects and the company's operating-system revamp.
+He views Public Storage , the Glendale, California-based self-storage name, positively.
+"They're going to have, probably, less growth near-term, but they have very little leverage and that makes it one of the safest bets going forward," he said.
+The biggest risk to his positive view on the sector is that his thesis is flat-out wrong: that storage usage turns out to weaken as a result of the current economic environment.
+"In an economic downturn, we assume that the kind of cyclical demand drivers that have historically worked, will come through again," he said. "If that changes, that that would be a risk."
+Catherine Ramsey Schulte covers life science tools and diagnostics companies, which run tests and sell equipment to all sorts of laboratories, researchers, and industrial companies.
+There's an unprecedented need for medical testing during the pandemic. That sounds helpful for the sector, but she says it's much more complicated because many of the companies' customers have lost funding or seen dramatic cutbacks in their business as a result of COVID-19.
+She says Thermo Fisher Scientific is one of the few companies that's getting a big enough bump in testing revenue to make up for the business it's losing elsewhere.
+"There are parts of their businesses that are pretty resilient even through COVID," she said. "Bio production, pharmacy services. So those are all pretty resilient, and they have this COVID related tailwinds"
+Ramsey Schulte is also bullish on PerkinElmer as a "contrarian" idea because it does a lot of business in China.
+"If we do see healthcare access and labs reopening in a timely fashion, some of those COVID related offsets in the second quarter and potentially in the back half could be nice tail(wind)," she said.
+Elsewhere, Ramsey Schulte says the most promising stocks in the sector are the ones with a wide variety of customers and geographic mixes and those with more recurring revenue.
+"Looking at the different exposures between each of those companies can give you a sense of what their underlying market growth may be," she said.
+Sam Margolin — who covers major integrated oil companies, refiners, and liquefied natural gas for Wolfe Research — says the landscape is "changing by the day."
+Energy prices have plunged this year as investors have anticipated that reduced consumption and travel demand would persist following the pandemic.
+Oil prices even plunged into negative territory back in April, rebounding since then. Still, some companies are ailing, with Chesapeake Energy recently filing for bankruptcy .
+Now, a second wave of the coronavirus is taking hold across some states, an element Margolin is watching closely as he evaluates the companies in his universe.
+"All the companies in the sector are in a weird headspace where they're trying to make it through the next six months with sales down and commodity prices down significantly," but also try and understand how behavior around travel is going to change more broadly, he said.
+"Demand is down a lot, and companies are trying to adjust to an environment that they'd never seen before," Margolin added.
+Air travel is "definitely" going to be down for some time, and less commuting is likely to weigh on energy prices, he said. That may be partially offset by a rise in modes of transportation used for delivery.
+The oil and gas company Royal Dutch Shell is one name he's viewing positively in the space, and rates it with an "outperform." Shell was one of the first oil majors to cut its dividend in April, which freed up some cash.
+"While it was painful to income investors, it was smart in the long-run," he said.
+Through the pandemic, cable and telecommunications have been relatively well-protected in their core businesses, said Michael McCormack, an analyst with Guggenheim.
+"We have been more focused on pure-play wireless," said McCormack, who recommends buying shares of wireless provider Verizon at this juncture.
+Some names with heavy entertainment exposure he sees as worse off. In May, McCormack downgraded shares of Comcast from "buy" to "neutral," as he sees challenges arising from the theater and theme park exposure to its NBCUniversal unit.
+McCormack also recommends shares of Altice , the cable company that owns popular brands like Optimum, i24 News, and video news network Cheddar.
+In May, after Altice reported first-quarter earnings, he wrote in a note to clients that even as management removed 2020 revenue and EBITDA guidance for investors, the company is still executing share buybacks as expected.
+Disclosure: TD Ameritrade is a partner of Insider, Inc.'s business development team, which is separate from its editorial department. We may receive a commission if you open an account.
+Get your daily markets analysis with our Markets newsletter. Sign up now.

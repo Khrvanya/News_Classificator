@@ -1,0 +1,19 @@
+The hope that Bakkt futures traders would seek out physical delivery settlement to become Bitcoin (BTC) holders may be unfounded. So far, futures traders prefer to roll over their contracts before expiration.
+The Bakkt platform physical settlement BTC product arrived with the hopes of turning institutional and professional traders into holders of coins. However, the desire to own actual BTC, even in Bakkt custody, was not as high as previously thought.
+14 BTC & 95,000 Free Spins for every player, only in mBitcasino’s Exotic Crypto Paradise! Play Now!
+Only 15 actual BTC were delivered in October, with most of the futures rolled over, shows recent analysis.
+Some believe Bakkt's volume is fully backed by bitcoins. This is not even remotely the case. Almost nobody takes physical delivery.
+This is not a problem. It is normal for futures traders to not take delivery, in all assets. But Bakkt is no panacea. https://t.co/GvY1mvmOvH
+— Alex Krüger (@krugermacro) December 1, 2019
+Bakkt shows peaking open interest with a series of records , but this only reflects the appetite for trading. Buying BTC has never been easier, yet Bakkt is not used for that purpose.
+This week's summary of Bakkt Bitcoin Monthly Futures:
+Max open interest: $4.3 million (+218%) @Bottlepay this bot a coffee: https://t.co/MJaZ58oPiu
+— Bakkt Volume Bot (@BakktBot) December 1, 2019
+This also means Bakkt is by no means a direct tool for physical adoption. The exchange launch was seen as a good alternative to allowing a Bitcoin exchange-traded fund (ETF), which by law must own some of the underlying asset. Even the private placements of Grayscale Capital initially sold about 4 BTC, and the shares of Grayscale Bitcoin Trust offer only limited BTC holdings.
+It is not unusual for futures markets not to take physical delivery, and instead choose cash settlement, even for gold futures. Bakkt itself will expand with more cash-settled futures through ICE Singapore.
+The coming days will also see the first launch of options on futures. This type of price speculation is removed even more from the original asset, and does not depend on ownership. The presence of options is much riskier, but also offers a hedge against price fluctuations.
+The Bakkt phenomenon was also seen as “creating false Bitcoin”, and in effect expanding the supply. Thus, BTC would see more speculation based on dollar inflows, but they would not reach actual BTC holders. The current spot trading of BTC with fiat is rather slim, and most of the spot market depends on the Tether (USDT) stablecoin.
+The presence of futures and options is nothing new in the BTC trading sphere. Initially, eToro trades exposed buyers to BTC price fluctuations, but did not deliver actual BTC. Later, eToro opened wallets to send and receive the coins.
+In the meantime, however, futures were all the rage, including both cash-settled and even USDT-settled futures. Most recently, OKEx launched EOS-based, USDT-settled futures, exposing traders to EOS without the need to hold the asset.
+#OKExUSDTFutures : $EOS /USDT Futures is NOW LIVE on OKEx! Enjoy low cost, stable-value margins, even during #crypto market swings
+More major currencies to be launched soon, stay tuned!

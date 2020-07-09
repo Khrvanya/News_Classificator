@@ -1,0 +1,36 @@
+Pivot Or Perish Market Dashboard India-China Face-Off The Future Of Covid Tracker Lounge Coronavirus India2Global Emerging Tech Conclave #WFHLife Long Reads Money With Monika, Season 4 Mint 50 - Top Mutual Funds Plain Facts Mark To Market Podcasts Money With Monika, Season 3 Companies Markets Money Start-ups Mutual Funds Insurance Technology Industry Opinion Politics
+Home > Markets > Commodities >Gold prices today surge to record high, silver rates jump
+Gold prices today surge to record high, silver rates jump
+1 min read . Updated: 22 Jun 2020, 09:21 AM IST Edited By Surajit Dasgupta
+Gold prices in India today extended gains, hitting a new high amid a global rally. On MCX, August gold futures rose 0.7% to ₹48,289 per 10 gram. Tracking gold, silver also posted strong gains. July silver futures on MCX rose 1.2% to ₹49,190 per kg. Gold and silver prices had surged 1.2% and 1.5% in the previous session.
+In global markets, gold prices today hit a one-month high as a surge in coronavirus cases dented investor sentiment towards riskier assets. Worries about a delay in global economic recovery prompted investors to seek the safe-haven metal. Spot gold was up 0.4% at $1,749.54 per ounce after earlier hitting $1,751 during the session. US gold futures jumped 0.6% to $1,763.80 per ounce.
+Among other precious metals, silver gained 1% to $17.78 and platinum climbed 0.7% to $811.10.
+Fears of uncertain virus situation which could dent the ongoing economic recovery pace and geopolitical tensions supported sentiments in gold, Geojit Financial Services said in a note.
+The World Health Organization or WHO on Sunday reported that global coronavirus cases rose a record 183,020 in a 24-hour period. Apple on Friday said it would temporarily shut some US stores as coronavirus cases continue to rise in southern and western states.
+Gold prices have also been lifted by a wall of cash from governments and central banks around the world as they continue to provide much-needed support to pandemic-hit economies.
+Gold is used as a safe investment during times of political and financial uncertainty. Indicative of the risk-averse sentiment, SPDR Gold Trust, the world's largest gold-backed exchange-traded fund (ETF), said its holdings rose 2.03% to 1,159.31 tonnes on Friday from 1,136.22 tonnes on Thursday.
+However, retail physical demand of gold across major Asian hubs remained subdued as prices surged though there are expectations that the market may start to recover.
+In India, dealers were offering a discount of up to $13 an ounce over official domestic prices last week, Reuters reported. This is down from last week's $20. Domestic gold prices include 12.5% import tax and 3% GST. (With Agency Inputs)
+* Thank you for subscribing to our newsletter.
+Click here to read the Mint ePaperLivemint.com is now on Telegram. Join Livemint channel in your Telegram and stay updated
+You are now subscribed to our newsletters. In case you can’t find any email from our side, please check the spam folder.
+lozad('.lozad', { load: function(el) { el.src = el.dataset.src; el.onload = function() { el.classList.add('fade')}}}).observe()
+.myAccount .planSec, .myAccount a.LinkCTA{padding:16px; margin:16px; box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.1); background-color: #fff;}
+	       		var userData = data;
+	       		var name = userData.name;
+	       		var email = userData.email;
+	       		var signupSource = userData.source;
+	       		var subscribedAtOnce = userData.subscribedAtOnce;
+	       		var plan  = userData.plan;
+	       		document.getElementById('uName').innerHTML = "<strong>"+name+"</strong>" + email;
+		       		var status = planData.status;
+		       		var purchaseSource = planData.source_device;
+			       		var nextActivationDate = planData.current_term_ends_at;
+			       		var planDescription = planData.plan.description;
+			       		var planName = planData.plan.name;
+			       		var planPrice = planData.amount;
+			       		//var planInterval = planData.shipping_interval;
+			       		var planInterval = planData.duration;
+			       		var planUnit = planData.interval_unit;
+			       		//var html = "<strong>Your Subscription Plan</strong>"+planName+" ₹"+planPrice+" / "+planInterval+" " + nextBillingHtml + cancelHtml; 
+			       		var html = "<strong>Your Subscription Plan</strong> "+planDescription + " "+ planName +": ₹"+planPrice + " "+ nextBillingHtml + cancelHtml;

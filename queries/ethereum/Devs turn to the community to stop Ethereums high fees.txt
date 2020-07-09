@@ -1,0 +1,16 @@
+An Ethereum update to streamline the protocol’s transaction fee model needs extra funding. Developers are turning to the community for help.
+Developers battling Ethereum's extortionate fees. Image: Shutterstock
+Ethereum devs turn to the community to help fund Ethereum improvement proposal (EIP) 1559.
+The EIP looks to check unwieldy transaction fees.
+Progress toward battling excessive Ethereum transaction fees has hit a snag. Now, developers are turning to the community to drum up extra funding.
+A community fund on open-source developer network Gitcoin will finance bug bounties and incentivization for testnet participation for Ethereum improvement proposal (EIP) 1559.
+EIP 1559 aims to solve issues with the current pay-what-you-want fee model, which leads users to paying more fees than necessary. EIP 1559’s fee structure, on the other hand, autonomously adapts to network demand, meaning that users only pay for what they need.
+While the bulk of development is covered by Ethereum powerhouse Consensys (which backs an editorially independent Decrypt), the funds only stretch so far.
+So far, the Gitcoin community fund, which appears to have started yesterday, over 36 Ether ($8,399) and $16,216 worth of the US dollar-pegged stablecoin, DAI, in the project’s funding pot . Gitcoin will match some of the donations.
+Under the current fee model, gas is adjusted by miners and typically rises when the network becomes congested. To speed things up, users can pay extra “gas” (i.e., money), for the network to prioritize their transactions. This is known as setting a gas premium.
+But users often overcharge themselves. If EIP 1559 goes into force, the protocol itself would determine the fee.
+EIP 1559 couldn't be coming at a better time. On June 10, one user incurred a monolithic fee of $2.6 million to send a transaction worth just $130. The next day, another $2.6 million was paid, this time for a transfer of $86,000 .
+The incidents were initially put down to a fat-fingering of the gas premium.
+"Definitely a mistake," said Ethereum co-founder Vitalik Buterin at the time. "I'm expecting EIP 1559 to greatly reduce the rate of things like this happening by reducing the need for users to try to set fees manually."
+The jury remains out on whether this was a genuine mistake or a more complex case of extortion. Either way, it only makes the argument for EIP 1559 stronger.
+Get the best of Decrypt where you want it most.

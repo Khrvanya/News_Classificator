@@ -1,0 +1,42 @@
+Home / Market Insight, Financial Articles / Has the Fed Backstopped Stocks?
+Has the Fed Backstopped Stocks?
+By Jeff Remsburg , Contributing Editor Jun 20, 2020, 4:49 pm EDT
+Despite all the uncertainties in the market today, can we count on stocks to continue rising thanks to the Fed?
+The trillions of dollars our central bank has thrown at the economy have helped stocks race 40% higher since late-March lows. And with the Fed’s promise to do whatever it takes to support the economy going forward, does this mean that stocks are a sure thing?
+Today, let’s answer this and related questions with the help of our resident quant experts, John Jagerson and Wade Hansen.
+In their newsletter, Strategic Trader , John and Wade combine fundamental and technical analysis, along with historical market data, to profitably trade options even during times of massive volatility.
+In their update to subscribers last week, John and Wade tackle the Fed’s support of the economy (and the stock market) through its balance sheet expansion … a specific indicator that tells us whether large traders are hedging their positions … what we should expect from the U.S. dollar, and more.
+As always, John and Wade provide timely, actionable takeaways that can make a difference in your portfolio.
+The S&P 500 declined 5.89% last Thursday, which was the worst drop since March 16.
+Understandably, it put traders on edge. Our tentative estimate was that stocks were likely to drop to the 2,900 range on the S&P 500 index. Our caution turned out to be too conservative, and the market has rallied for the last three sessions and looks moderately positive today as well.
+Our strategy of buying back our short calls on dips (as we did on June 12 and June 15) and then selling again on the highs (which we did on June 16 and June 17) should be very profitable if traders continue to buy the dips like they did this week.
+Underwriting that strategy is a Federal Reserve that has pulled out all the stops to buy corporate and government debt.
+Daily Chart of the S&P 500 (SPX) — Chart Source: TradingView
+As you can see in the following chart, the Fed has expanded its balance sheet to more than $7 trillion (with a “T”) in assets. Three trillion dollars of that were purchased after February.
+That means the Fed has “printed” $7 trillion in dollar supply to go on that spending spree, which doesn’t seem to be worrying any traders yet, but it could create some serious long-term risks of inflation.
+Federal Reserve’s Total Assets — Chart Source: St. Louis Federal Reserve
+Investors seem willing to buy stocks if the Fed is supporting the corporate debt market, and in the short term, that’s exactly what the central bank is doing.
+We are concerned about the long-term viability of this strategy, but for now, we don’t want to fight the Fed by betting against that strategy. Frankly, if investors do get a little more wary, it should increase short-term volatility, which we expect to increase option premiums and allow us to roll out our trades more often.
+Are we likely to see some profit-taking?
+While the Fed’s support and the recent rebound in retail spending have done a lot to bring prices back up, it’s reasonable to think about what happens if more traders start taking profits off the table at this point.
+While we can’t predict the timing for that with exact precision, there are a few helpful indicators that should give us some warning.
+As we have mentioned in previous updates, the CBOE SKEW Index (SKEW) helps us understand whether large traders are hedging their positions through long, out-of-the-money puts on the S&P 500 cash index.
+In our studies, this indicator is most accurate when it is rising in tandem with the market. A rising SKEW indicates rising fear, and in our view, this is the most worrisome short-term indicator right now.
+As you can see in the following chart, the SKEW is currently very elevated. Although not quite as high as it was on the last day the market rallied in February, it is well above its historical average.
+From a strategic perspective, this justifies a more aggressive approach to selling calls against long stock positions as a hedge and source of income, which has been our focus so far this week.
+Daily Chart of the CBOE SKEW Index (SKEW) — Chart Source: TradingView
+As the Fed has been flooding the market (or, at least, the banks) with dollars, the value of the greenback has come down off its March highs. However, last week, the dollar hit long-term support and has been moving higher once again.
+The dollar is used as a hedge against uncertainty by domestic and international investors. A change in capital flow — with investors taking profits and pushing back into safe asset classes — could push the dollar toward its March highs, and any more progress toward the March highs would indicate a negative shift in sentiment.
+From a technical perspective, we expect support for the dollar index near $96 to hold, but that doesn’t concern us as long as resistance at $98 isn’t broken. If we see more upside into the $99-$100 range, then we may want to adjust our strategy further and trade even more conservatively.
+Daily Chart of U.S. Dollar Index Futures — Chart Source: TradingView
+The strength of a bull market is often signaled by the relative performance of risky assets compared to more conservative assets. A classic example of this is large-cap stocks, as represented by the S&P 500, and small-cap stocks, as represented by the Russell 2000 stock index. If traders are bullish, small caps should perform relatively better than large caps.
+But sometimes the opposite is true. A warning sign for a weak rally and a sharp correction is when investors prefer the safer, more conservative large-cap stocks, even if the market is rising on average.
+As you can see in the following chart, as the S&P 500 was rising before the COVID-19 crisis, small caps were underperforming. The line below the price chart represents the relative performance of small caps versus large caps. When this line falls, it means investors are shifting away from small caps, which indicates a weak rally.
+Daily Chart of the S&P 500 (SPX) with RUT/SPX Comparison Chart — Chart Source: TradingView
+The relationship between the risky small caps and more conservative large caps has been erratic but much more positive since the market bottomed in April. This is a good sign, and watching this indicator should give us a leading signal of any further weakness or profit-taking.
+If the trend of the relative-performance line turns negative, we should consider that a trigger for a more cautious short-term outlook.
+There has been some good headline news for the market over the last few days. Retail sales for May were much better than anticipated because consumers spent more after quarantine measures were loosened.
+Earlier this week, the Empire State manufacturing report also showed a surprising rebound. And last Friday’s University of Michigan Consumer Sentiment Index showed that sentiment among consumers was much “less bad” than originally expected.
+So, although rising COVID-19 infection rates in the U.S. and China are certainly a concern, we still feel that most indicators are pointing towards a solid floor under the market that will slow any potential profit-taking or bearishness.
+The pace of the recovery after the crisis may not be quite as fast as everyone would have hoped, but our strategy right now is to continue opening new bullish positions at support levels and rolling our short calls when prices dip .
+Article printed from InvestorPlace Media, https://investorplace.com/2020/06/has-the-fed-backstopped-stocks/.

@@ -1,0 +1,15 @@
+Think There Is Only 21M Bitcoin? Think Again, Says Weiss Ratings
+Exchanges use leverage like banks with cryptocurrencies, the agency argues, appearing to support self-ownership of private keys.
+There is actually more than 21 million Bitcoin ( BTC ) in the world, ratings agency Weiss has claimed as it eyes major exchanges.
+In a tweet on May 25, Weiss — well known for its controversial cryptocurrency posts — argued that exchanges use leverage to give the impression of there being more Bitcoin than what actually exists.
+“Unpopular Opinion: The supply of #Bitcoin is higher than 21 million,” the post reads.
+Exchanges leverage the existing supply of any #crypto asset in much the same way banks leverage the supply of fiat money.
+Weiss appeared to critique the exchange model more broadly. Custodial exchanges, still overwhelmingly popular despite recent mass outflows, involve an element of trust that the firm considers undesirable.
+The only protection is to hold your own crypto. Not your keys, not your crypto.
+The actual verifiable number of mined Bitcoins is currently 18.3 million, but not all are in circulation. Estimates, for example, consider around 4 million to be lost irretrievably.
+As Cointelegraph reported , exchanges’ reserves of Bitcoin are now at their lowest since late 2018. The shift in sentiment came independently of efforts by Bitcoin users to raise awareness of the risks of third party custody.
+Bitcoin exchange reserves 1-year chart. Source: CryptoQuant
+Specifically, the Proof of Keys event, which occurred twice on January 3 of both this year and last, seemed to have little impact on exchange reserves.
+Weiss, meanwhile, has itself felt the heat from its cryptocurrency ratings, which routinely placed certain altcoins above Bitcoin .
+Objections stem from the idea that Bitcoin’s technology has yet to see a genuine competitor that improves upon its capabilities while convincing existing users to abandon the BTC network.
+At present , Bitcoin is top with an overall score of A-. Dragging it down, according to Weiss, is “market performance,” which scores a C-.

@@ -1,0 +1,5 @@
+"How many times do we have to say take your bitcoin off of Coinbase if you want to have access to it," Rachel Siegel, a bitcoin and cryptocurrency content creator, warned via Twitter , adding, "this is not the first time Coinbase has gone down and it surely will not be the last."
+"Coinbase acting like the NYSE circuit breaking," joked Jason Williams, cofounder and partner at bitcoin and crypto hedge fund Morgan Creek Digital, suggesting that Coinbase outages could dampen spikes and dips in the bitcoin price.
+Coinbase acknowledged the outage and said it was "investigating this issue" before declaring the incident resolved three hours later. Coinbase has been contacted for further comment.
+Intermittent Coinbase outages are becoming a predictable problem for users of the popular San Francisco-based bitcoin and crypto exchange.
+At the end of last month, just as bitcoin rallied some 15% to around $9,000 , Coinbase experienced a similar outage—despite data provider Skew finding Coinbase volume was not excessively high relative to other peaks in trading volume during the past two weeks.

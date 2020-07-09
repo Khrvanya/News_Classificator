@@ -1,0 +1,12 @@
+NEW YORK (Reuters) - The cost of raising U.S. dollar funds in the Japanese and European currency swaps market has surged this week, suggesting increased demand for the greenback and heightened funding stress related to the fast-spreading coronavirus.
+The cross-currency basis swap, or relative premium for swapping euro or yen LIBOR for dollar LIBOR, has widened across all maturities this week. For instance, the one-year yen cross rate had grown to nearly -50 basis points  on Friday, the highest since mid-December 2017.
+In the euro/dollar cross-currency market, the one-year cross rate was a little less elevated at -18 basis points on Friday, pulling back from -21 basis points hit on Monday, the widest since September 2019.
+"What this is suggesting is that it is more expensive for institutions to raise dollars in their own currencies and swap them back into dollars," said Gennadiy Goldberg, senior rates strategist, at TD Securities in New York.
+"Given the risk-off backdrop, there is more demand for dollars and that's creating more scarcity," he added.
+The number of people infected with coronavirus across the world surpassed 100,000 on Friday as the outbreak reached more countries and the economic damage intensified, with business districts beginning to empty and stock markets tumbling.
+Cross currency swaps and FX swaps allow investors to raise funds in a particular currency, such as the dollar, from other funding currencies such as the euro. For example, an institution which has dollar funding needs can raise euros in euro funding markets and convert the proceeds into dollar funding obligations via an FX swap.
+To be sure, these are nowhere near the levels seen during the global financial crisis in 2008, or the European sovereign debt crisis in 2011.
+Analysts said swap spreads between 30-40 basis points are a warning signal and would be problematic if they get into the 50s area.
+One-year swaps widened to record levels during the post-Lehman bankruptcy period in November 2008 when spreads surged to -102 basis points. That led to the introduction of currency swap lines between central banks, partly dampening the pressure on short-term dollar financing.
+Since cross-currency and FX swaps are subject to counterparty and credit risks, the pricing of these contracts is affected by perceptions of creditworthiness of the banking system, or external risks than can affect liquidity, analysts said.
+FX swaps market shows sign of U.S. dollar funding pressure

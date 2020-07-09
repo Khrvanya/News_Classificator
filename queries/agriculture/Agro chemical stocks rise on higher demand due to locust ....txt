@@ -1,0 +1,33 @@
+1 min read . Updated: 27 May 2020, 07:08 PM IST Nasrin Sultana
+Locust swarms seen parts of India is expected to create additional demand for agro-chemical companies in India. Stocks of leading manufacturers such as Bayer CropScience Ltd, UPL Ltd, Sumitomo Chemicals, Insecticides India, UPL Ltd, BASF, Rallies India have risen 1-8% in last three days on expectations of higher demand
+Bayer CropScience Ltd is working on identifying drone providers and conducting drone-based demonstrations for effective locust control in affected areas" a company spokesperson told Mint.
+According to analysts such disruptive events create awareness among farmers and provide stimulus to usage of agrochemicals. Though many insecticides or combinations are used to control locusts, Chlorpyrifos is one of the key insecticides. While most agrochemical companies generate some revenues from Chlorpyrifos, Gharda chemicals (unlisted) is one of the major players in India.
+Analysts at ICICI Securities believe most agrochemical companies in India are likely to benefit in FY21 due to additional demand while companies with strong balance sheets and moats like established brands and distribution will be likely winners.
+“We also expect such disruptive events to provide stimulus to usage of agrochemicals in India and expect structurally higher growth rates of agrochemicals in India. Companies which continue to innovate and launch new products are expected to emerge winner. The companies with strong moats such as brands and distribution network will continue to benefit," it said.
+However, shortage of agrochemicals in trade due to lockdown post covid-19 and logistics and transportation issues may not allow faster access of agrochemicals to the farmers.
+As India’s Rabi season gets over in March and Kharif season commences in June, there is negligible farming in India in this period. Hence, analysts believe that there is no immediate impact on Indian agriculture but if pest attack remains strong after June,there will be threat to Kharif agri season in 2020.
+So far states of Rajasthan, Gujarat, Maharashtra, Uttar Pradesh and Madhya Pradesh have
+Locusts are a collection of certain species of short-horned grasshoppers in the family Acrididae and oftejn leave a devastating impact on farm vegetations.. The Food and Agricultural Organization of the UN had also warned that the impact of the locust attack could be far more serious this year than last year due to erratic weather patterns in some parts of the world. Some countries in East Africa have already declared an emergency because of the loss caused by locusts.
+* Thank you for subscribing to our newsletter.
+Click here to read the Mint ePaperLivemint.com is now on Telegram. Join Livemint channel in your Telegram and stay updated
+You are now subscribed to our newsletters. In case you can’t find any email from our side, please check the spam folder.
+lozad('.lozad', { load: function(el) { el.src = el.dataset.src; el.onload = function() { el.classList.add('fade')}}}).observe()
+.myAccount .planSec, .myAccount a.LinkCTA{padding:16px; margin:16px; box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.1); background-color: #fff;}
+	       		var userData = data;
+	       		var name = userData.name;
+	       		var email = userData.email;
+	       		var signupSource = userData.source;
+	       		var subscribedAtOnce = userData.subscribedAtOnce;
+	       		var plan  = userData.plan;
+	       		document.getElementById('uName').innerHTML = "<strong>"+name+"</strong>" + email;
+		       		var status = planData.status;
+		       		var purchaseSource = planData.source_device;
+			       		var nextActivationDate = planData.current_term_ends_at;
+			       		var planDescription = planData.plan.description;
+			       		var planName = planData.plan.name;
+			       		var planPrice = planData.amount;
+			       		//var planInterval = planData.shipping_interval;
+			       		var planInterval = planData.duration;
+			       		var planUnit = planData.interval_unit;
+			       		//var html = "<strong>Your Subscription Plan</strong>"+planName+" ₹"+planPrice+" / "+planInterval+" " + nextBillingHtml + cancelHtml; 
+			       		var html = "<strong>Your Subscription Plan</strong> "+planDescription + " "+ planName +": ₹"+planPrice + " "+ nextBillingHtml + cancelHtml;

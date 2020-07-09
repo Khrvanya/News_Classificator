@@ -1,0 +1,11 @@
+Ethereum 2.0 has fueled a lot of curiosity in the crypto-community. Promising enhanced scalability and privacy, this upgrade is expected to revolutionize the way Ethereum’s ecosystem works.
+On a recent podcast , Ethereum co-founder Vitalik Buterin asserted that Ethereum 2.0 is going to address all the problems that the ETH ecosystem has been dealing with since its inception.
+That said, back in 2017, there was an incident where the application CryptoKitties had clogged the Ethereum network, putting transactions in a long-time limbo. Buterin was asked as to how the Ethereum 2.0 upgrade would help in situations such as this. In response to the question, Buterin replied,
+“Current Ethereum chain can do 36 transactions a second. If you do a roll-up – optimistic roll-up or a ZK roll up, it goes up to 2,500. If you do just Sharding, it goes up to maybe 2000 and 10,000 and a roll-up on top of sharding, it goes up to a hundred thousand to a million per second.”
+In another recent interview , Buterin had noted that Ethereum 2.0 would provide added capacity for users through sharding and scaling, privacy features, and more, alongside the new proof-of-stake system. He went on to add that the upgrade would allow users private transactions and contracts to be executed, without needing to demonstrate the content of those activities.
+Further commenting on ETH 2.0 facilitating enhanced privacy, Buterin addressed functions like Zk-Rollup and Optimistic Rollup, whereby a person runs the computations, generates the proof, and would keep the chain fraud-proof scheme. Buterin asserted that both these techniques would make “a huge difference over the next year or so.”
+He went on to say,
+“Loopring recently launched a ZK-Rollup exchange, which can theoretically accomplish 2,500 transactions per second (TPS) if all Ethereum users were to become their users[…..] These are not just scaling payments but are scaling something that is equivalent to the Ethereum virtual machine.”
+On the whole, Ethereum’s Buterin is of the opinion that “ETH 2 is radical and ETH 2 is great, and ETH 2 is potentially a 100 to 1000 factor scaling increase, and Eth 2 is the future. But at the same time, ETH 2 is not literally tomorrow.”
+Did you like this article?
+Your feedback is important to us!

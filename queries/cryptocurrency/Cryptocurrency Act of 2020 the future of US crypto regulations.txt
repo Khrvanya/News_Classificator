@@ -1,0 +1,20 @@
+According to Rep. Gosar, the bill “will make it easier for businesses, institutions, and everyday Americans to participate in the growing industry. No more murkiness, uncertainty, or confusion.”
+The bill aims to clarify the specific federal agencies that will participate in the regulation of digital assets and requires agencies to inform the public of its grant of federal licenses, certificates, and registrations.
+It also mandates that entities creating or trading digital assets seek government approval first.
+In regulating cryptocurrencies, they differentiated “crypto-commodity,” “crypto-currency,” and “crypto-security.” These digital assets fall within different regulatory ambits as well.
+For crypto-securities and “synthetic” stablecoins , the primary regulator will be the Securities and Exchange Commission (SEC). It includes stablecoins because they are defined as a “representation of a currency issued by the United States or a foreign government” and they are “collateralized on a one-to-one basis.” Essentially, stablecoins’ function is similar as securities.
+For crypto-currencies, the primary regulators will be the Financial Crimes Enforcement Network (FinCEN) and the Comptroller of the Currency.
+The bill sets out rules for cryptocurrencies requiring them to allow FinCEN to trace cryptocurrency transactions, including stablecoins, and the individuals involved in the corresponding transactions.
+This effectively places cryptocurrencies at the same regulatory treatment accorded to traditional financial institutions.
+Additionally, FinCEN is also empowered by the bill to conduct audits for each reserve-backed stablecoin as a means to ensure that each of them is fully backed by currencies issued by the local or foreign governments they represent.
+The bill echoes the thrust of CFTC, FinCEN, and SEC to deter money-laundering and terrorism financing perpetuated by criminals through cryptocurrencies.
+Support from the Bitcoin community, stakeholders
+The bill is not without support from the Bitcoin community as well.
+BTC millionaire Erik Finman also played a part in the drafting of the bill. It was an important aspect of the bill according to Ben Goldey, Gosar’s communication director.
+In a statement that Goldey gave, he said that “since this is such a niche issue, we worked with stakeholders and outside groups/experts to get a good sense of the kind of clarity that the industry needed. We chose to gather stakeholder support before working toward cosponsors.”
+As many would recall, the bill was not the first draft to be revealed to the public. The bill that was brought to the fore by Rep. Gosar was its updated version.
+What the first draft missed that the latest bill now has, are the increasingly popular blockchain models such as “decentralized cryptographic ledgers” and “smart contracts.” This can potentially help in easing the acceptance of US legislators of the emerging initiatives on decentralized finance.
+The future of cryptocurrencies in the US appears bright. And for blockchain enthusiasts and developers, the prospect of legislative approval and recognition through the bill can only be good news.
+If the bill gets passed into law, there is no doubt that we will witness increased adoption and continuous innovation in the blockchain industry in the months and years to come.
+Micky is a news site and does not provide trading, investing, or other financial advice. By using this website, you affirm that you have read and agree to abide by our Terms and Conditions .
+Micky readers - you can get a 10% discount on trading fees on FTX and Binance when you sign up using the links above.

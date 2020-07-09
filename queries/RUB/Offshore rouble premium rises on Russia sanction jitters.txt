@@ -1,0 +1,13 @@
+LONDON, March 17 (Reuters) - The premium to trade Russian roubles offshore has increased in foreign exchange derivative markets, traders and brokers said on Monday, as market participants worry that onshore rouble contracts might not be honoured.
+The United States and European Union slapped sanctions on Russian and Ukrainian officials after Crimea voted on Sunday to secede from Ukraine and join Russia. Among them are two top advisers to Russian President Vladimir Putin.
+Nine-month and 1-year dollar/rouble offshore non-deliverable forward (NDF) contracts were trading at a premium - indicating lower implied yield - to onshore deliverable forward contracts last week, before Crimea’s referendum. After the Crimean vote, traders say, the premium has extended to short-term contracts expiring after one or three months.
+An NDF is a contract to buy or sell a currency that generally is traded outside the country issuing that currency. The contracts are settled in some other currency, usually dollars. They protect people from the risk they will not be able to get delivery of the currency when the contract is due.
+Markets are assessing whether sanctions will hit Russian banks and disturb the orderly functioning of markets, creating a risk that roubles will not be delivered against onshore contracts.
+“There has been a premium in NDFs in comparison with the forwards, because the market has been so volatile,” said one broker in London. “I guess there is a worry about delivery.”
+While the rouble is currently trading at 36.24 to the dollar , NDFs price the Russian currency at 36.6 per dollar in one month’s time, at 37.98 in six months and 38.82 in nine months  .
+The contracts are now trading anywhere from 3 to 9 kopecks more expensively than the onshore forwards, depending on the size of the contract, traders said.
+“The market is trying to price in the convertibility risk,” said one trader in Moscow. “There is a premium even across one-month contracts.”
+Some traders say this phenomenon has not been seen since Russia’s short war with Georgia in 2008. Others say they have never come across it in 10 years or more of currency derivatives trading.
+If the situation continues, trading firms said they would need to adjust their pricing and risk-management structures to take it into account.
+But one London-based broker said his firm was continuing to quote the same prices for forwards and NDFs.
+“We have had a few calls from clients about this, but there has been no change - we have not seen any increase in NDF prices.”   (Additional reporting by Neal Kimberley in London and Jason Bush in Moscow; Editing by Larry King)

@@ -1,0 +1,14 @@
+The regulator recently found that two commodity futures brokers committed breaches of the liquid capital requirements due to failures to collect large amounts in margin calls amidst the volatility in overseas crude oil futures markets.
+Hong Kong’s Securities and Futures Commission (SFC) today issued a circular to commodity futures brokers reminding them to control their risk exposures and maintain sufficient resources to deal with the challenges posed by extreme market conditions.
+The regulator has recently found that two commodity futures brokers committed significant, though short-term, breaches of the liquid capital requirements under the Securities and Futures Financial Resources Rules (FRR) due to failures to collect large amounts in margin calls amidst the volatility in overseas crude oil futures markets. Although the breaches were resolved, they illustrate the importance of taking more prudent risk management measures to protect the firm’s operations and ensure compliance with regulatory requirements in extreme circumstances.
+Commodity futures brokers are advised to control their exposures to clients, including by taking the following measures:
+Monitor and address individual clients’ concentration risks in a timely manner;
+Prudently set clients’ trading limits and position limits to ensure that they are commensurate with the client’s financial strength and settlement history, as well as the firm’s financial resources;
+Prudently set margin requirements for clients;
+Only open new positions for clients after collecting sufficient margins;
+Promptly collect outstanding margin calls from clients.
+Commodity futures brokers are also required to closely monitor changes in market conditions and margin requirements set by clearing houses or clearing agents and rigorously assess their impact on the firm’s risk exposures, cash flow and liquid capital. Stress tests and liquid capital computations should be carried out regularly and at times of high market volatility.
+Failure to maintain sufficient liquidity to meet operating needs, including meeting payment obligations to clients, clearing houses and clearing agents, or maintain sufficient liquid capital in accordance with the FRR, may trigger serious regulatory consequences.
+Commodity futures brokers dealing through overseas counterparties should also establish and maintain policies and procedures to ensure the proper management of risks to which the firms and their clients are exposed.
+In light of the recent extreme price movements of crude oil futures, commodity futures brokers must reassess their clients’ financial capability to bear the potential losses arising from trading in these products and should not open new positions for those clients who are unable to bear them.
+Failure to properly carry out management duties or protect client interests may result in regulatory actions, the SFC warns.

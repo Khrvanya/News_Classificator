@@ -1,0 +1,18 @@
+Telos , one of the “most active” blockchain platforms (according to Blocktivity), has launched an Ethereum Virtual Machine on an EOSIO blockchain.
+As noted in a release shared with CI:
+“With the launch of Telos EVM now in testnet, developers can use Solidity (programming language) to run smart contracts on a platform that is more than 700 times faster than Ethereum with no network fees or gas.”
+Solidity is Ethereum’s most popular or widely-used programming language. There are reportedly thousands of developers globally that use Solidity for writing smart contracts. At present, the Telos network can handle 10,000 transactions per second (TPS) with zero transaction fees, which is significantly better than Ethereum’s (ETH) 14 TPS average and rising gas fees.
+Suvi Rinkinen , CEO at Telos Foundation, stated:
+“With Telos EVM, people can finally build and deploy decentralized applications the way they were meant to be, with high speeds, no middlemen, and no limit on users.”
+“Importantly, developers don’t have to use a new codebase to take advantage of Telos EVM. They can use Solidity to easily deploy Telos EVM smart contracts.”
+Syed Jafri , winner of the EOSIO Smart Contracts Challenge (which involved creating the Ethereum Virtual Machine) remarked:
+As mentioned in the announcement, Telos is the only large EOSIO-based network that didn’t raise funds via the controversial initial coin offering (ICO) model.
+As noted in the release:
+“Telos’ governance structure [aims to] give developers and community members control of the platform, rather than a centralized entity or small groups, and these governance functions are made available to any Telos developers to use in their own DApps via the Telos Decide governance engine.”
+The Telos EVM is compatible with all Web3-compatible digital wallets, including Brave and Metamask, the release noted.
+Douglas Horn , chief architect and whitepaper author.at Telos, remarked:
+“Blockchain technology is reaching a new level where it’s more economical and efficient to run legacy DApps on faster chains emulating older structures. Running any Ethereum-based smart contract on Telos EVM simultaneously speeds performance, eliminates transaction costs, and increases the computing capacity and rate of new transactions to half a second,”
+“This also means moving DApps from high energy-using Proof of Work platforms to the more ecologically defensible DPoS platform using a tiny fraction of the electricity. Once developers grasp the power of this, they’ll have a hard time justifying remaining on the legacy chains like Ethereum. This is a new macro trend you’ll see more of as high capacity chains like Telos offer emulation for additional legacy blockchains.”
+Social impact startup All_EBT has used Telos to bring its digital food stamps to the blockchain. Interoperability platform Transledger also uses the Telos blockchain to securely and efficiently conduct cross-chain transactions.
+Newlife, a platform for artists, fashion designers, and celebrities, is planning to use Telos for rewards, governance, and voting.
+Murmur, a privacy-focused social media DApp, is reportedly moving from EOS to Telos to “improve resource efficiency and network costs,” the release stated.

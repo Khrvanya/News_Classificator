@@ -1,0 +1,24 @@
+As Bitcoin’s price soared past the key $10K, the main factors driving the rally this time around are much different than they were in late 2017.
+As bitcoin’s price keeps setting new yearly highs , the question on everyone’s mind right now is whether it’s different this time. Let’s take a closer look at why this rally is nothing like the “bubble” in 2017.
+As many experts pointed out, BTC going above the key psychological $10,000 mark is likely to trigger FOMO (i.e., fear of missing out), according to Fundstrat’s Tom Lee, who adds that bitcoin can now easily take out its all-time highs.
+“I actually don’t think it’s important at all. The $10,000 benchmark did nothing to slow down price back in 2017. And it looks like it did nothing to slow down the prices here in 2019.”
+Bitcoin broke through into the mainstream in late 2017. At the time, its historic surge to nearly $20,000 was driven mainly by retail investors. This time, however, the public is still largely on the sidelines, according to Google Trends.
+In fact, the number of Google searches for “bitcoin” is only around 10% of what they were in 2017. In other words, retail investor FOMO has not even started yet, which may suggest that BTC price could go much higher than last time.
+On the other hand, institutional demand for bitcoin has soared . As of June 17, open interest at CME Group saw 5,311 contracts totalling 26,555 BTC, or approximately $246 million — dwarfing the volumes during the 2017 price peak.
+“CME Bitcoin futures (BTC) shows growing signs of institutional interest,” CME Group tweeted June 18.
+“BTC open interest rose by a record 643 contracts in a single day, establishing a new all-time high of 5,311 contracts on June 17 (26,555 equivalent bitcoin; ~$250M notional).”
+Other indicators, such as the GBTC price premium as well as record volume for bitcoin derivatives exchange BitMEX (on a Saturday!), also suggests that “smart money” is pouring in.
+As Cointelegraph reported on Friday, hash rate hit a new all-time high at over 65,000,000 TH/s. In other words, Bitcoin is more secure than ever and would require an unfathomable amount of computing power to affect the network.
+Meanwhile, other fundamentals have also grown in lockstep with hash rate. Daily on-chain transaction volume, block size and other metrics are also confirming that more people than ever are using bitcoin.
+Additionally, network transaction fees have remained relatively low compared to 2017, with optimizations like SegWit and off-chain scaling solutions like the Lightning network helping ease congestion.
+The latest rally to five figures is also happening way before the Bitcoin block reward halving set for May 2020. This is when mining block rewards will be cut from 12.5 to 6.25 BTC, thus reducing the bitcoins minted by miners who are naturally market sellers.
+Interestingly, the previous halving event occurred in the summer of 2016 — or more than a year before the price skyrocketed.This time, however, BTC/USD appears to be front-running the event, as the halving is still 333 days away.
+A popular bitcoin market analyst known as PlanB suggests that investors may not be waiting this time around for the expected reduction in supply. He added :
+“Front running would be in line with Efficient Market Hypothesis: if you believe S2F and that BTC will be $50k May 2020, why wait?”
+Of course, intraday BTC price moves are not as important for low time preference investors. These “hodlers” are confident that bitcoin — with its fixed supply — will outperform fiat currencies, whose supply is growing at an accelerating pace over the long term.
+On June 18, European Central Bank head Mario Draghi hinted that a monetary stimulus is on the way if the economy doesn’t improve. This is an increasingly dovish tone that was applauded by the financial sector.
+At the same time, Draghi was criticized by United States President Donald Trump, who said this would spark unfair European competition against the U.S., whose Federal Reserve bank is also suggesting it will hold off on raising interest rates.
+Morgan Creek co-founder Anthony Pompliano tweeted that this will make bitcoin even more scarce as interest rates go lower and more fiat currency is created:
+What’s more, investors are starting to not only realize that bitcoin’s supply is fixed and transparent, but it’s also the world’s first neutral, open-access money that no authority can control.
+In other words, what the internet did to information, bitcoin is starting to do to money.
+Historic BTC market cycles, rising institutional interest alongside an increasingly robust network fundamentals, as well as the confirmed depreciating value of fiat currencies, could all propel bitcoin’s price orders of magnitude higher than in 2017.

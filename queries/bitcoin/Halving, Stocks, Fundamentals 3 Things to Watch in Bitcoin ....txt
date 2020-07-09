@@ -1,0 +1,17 @@
+Bitcoin is approaching the most eagerly anticipated moment in its history, and markets are feeding the excitement after weeks of gains.
+Bitcoin ( BTC ) is just days away from a historic crossroads this week — what will the coming days have in store for traders and hodlers?
+Cointelegraph takes a look at the major factors influencing the market just over a week before the largest cryptocurrency’s third block reward halving.
+The next eight days will focus on one topic only for Bitcoin analysts — its third block reward halving. Technically known as the “block subsidy halving,” the event will drop the supply of “new” Bitcoins paid to miners by 50% to 6.25 BTC per block.
+This immediate 50% drop in supply should have considerable knock-on effects for demand, especially taken against the historical precedent of the previous two halvings.
+The impact is neatly summarized by Bitcoin’s stock-to-flow price model, which suggests that major price movements should come 1-2 years after the halving.
+Cointelegraph has reported extensively on stock-to-flow’s various iterations and their forecasts.
+Bitcoin stock-to-flow model as of May 4. Source: PlanB/ Digitalik
+Bitcoin continues to exhibit some copycat price behavior which tracks movements on major stock markets.
+As of Sunday, futures for the S&P 500 and Dow Jones among others were tanking 3%, which soon translated into a fresh price dip for BTC/USD.
+At press time, the pair traded at around $8,700, down 3.7% on the day, having bounced off support at $8,500.
+Coronavirus continues to weigh on sentiment, as the United States and China spar over the pandemic’s origins and handling, sparking trade fears.
+Bitcoin versus S&P 500 1-year chart. Source: Skew
+Bitcoin’s network fundamentals remain on an upward trajectory despite mixed price action. Hash rate and difficulty are hovering near all-time highs.
+Bitcoin hash rate 1-year chart. Source: Blockchain
+The difficulty is set to increase by a modest 1.4% on May 5 and will be the last such increase before the halving seven days later.
+The two aspects of Bitcoin go hand in hand for analysts, as Bitcoin’s automatic difficulty adjustment mechanism prevents manipulation of supply rate, regardless of how much BTC is worth in fiat terms.

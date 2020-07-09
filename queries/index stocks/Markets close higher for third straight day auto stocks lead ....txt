@@ -1,0 +1,39 @@
+Pivot Or Perish Market Dashboard India-China Face-Off The Future Of Covid Tracker Lounge Coronavirus India2Global Emerging Tech Conclave #WFHLife Long Reads Money With Monika, Season 4 Mint 50 - Top Mutual Funds Plain Facts Mark To Market Podcasts Money With Monika, Season 3 Companies Markets Money Start-ups Mutual Funds Insurance Technology Industry Opinion Politics
+Home > Markets > Stock Markets >Markets close higher for third straight day; auto stocks lead benchmark indices
+Markets close higher for third straight day; auto stocks lead benchmark indices
+2 min read . Updated: 15 Oct 2019, 05:27 PM IST Ashwin Ramarathinam
+Benchmark indices rose for the third consecutive day on Tuesday as gains in banking, auto and metal stocks due to optimism in the US-China trade deal and falling crude oil prices in the global market buoyed investor sentiment.
+The S&P BSE Sensex Index gained 0.76% or 291.62 points to close at 38,506.09 and NSE Nifty 50 Index was up 87.15 points or 0.77% to close at 11,428.30. The S&P BSE Mid-Cap index was up 0.72%. The S&P BSE Small-Cap index was down 0.11%.
+While shares of Eicher Motors Ltd, Vedanta Ltd and Zee Entertainment Ltd were among the top gainers in the NSE Nifty 50 Index, stocks of Bharti Airtel Ltd and Infosys Ltd lost the most in today’s session.
+Shares of IT major Wipro Ltd ended down 0.14% while that of ACC Ltd closed 2.06% higher ahead of their September quarter results.
+Yes Bank gained 1.50% to close at ₹40.60 after the bank on Monday sold 6.6% stake in leading hospital chain Fortis Healthcare (FHL) for a little over ₹645 crore through an open market transaction. After the sale, the private lender holds just 1,850 shares in Fortis Healthcare, latest data available with BSE Ltd showed.
+Infosys extended its recent losses and ended down 2.3% at ₹767.80 per share. The stock slumped 5.87% in two trading sessions despite the company’s September quarter earnings meeting the Street’s estimates. The firm increased lower end of FY2020 revenue guidance to 9%-10% in constant currency.
+Hindustan Unilever Ltd HUL) advanced 2.41% to close at ₹2,063.35 after the company announced strong second quarter results. HUL reported 22.7% rise in net profit to ₹1,814 crore.
+Among other stocks that were active in trade today, Shares of Lakshmi Vilas Bank Ltd (LVB) and Syndicate Bank Ltd touched a 52-week low after the Reserve Bank of India (RBI) on Monday slapped fines on both the lenders for violating asset classification and fraud detection norms.
+Shares of LVB were locked in the 5% lower circuit at ₹22.05, also an all-time low. The stock of Syndicate Bank recovered marginally from early losses and ended down 1.4%.
+The stock of Bandhan Bank was up in trade as it was added to the MSCI index due to the impending merger of Gruh Finance Ltd with the bank. The proposed merger has received all regulatory approvals and the process of amalgamation should be completed by the end of this month. Shares of Gruh Finance were also buzzing in today’s trade.
+On the domestic macro front, the headline consumer price index (CPI) inflation touched a 14-month high of 3.99% in September as against 3.28% in August. However, core CPI inflation eased to 3.99% in September compared with 4.20% in August.
+The Wholesale Price Index (WPI) inflation decelerated to a three-year low of 0.3% in September, as against 1.1% in August. The WPI-based inflation has been moderating consistently for last five straight months from 3.2% in April 2019.
+* Thank you for subscribing to our newsletter.
+Click here to read the Mint ePaperLivemint.com is now on Telegram. Join Livemint channel in your Telegram and stay updated
+You are now subscribed to our newsletters. In case you can’t find any email from our side, please check the spam folder.
+lozad('.lozad', { load: function(el) { el.src = el.dataset.src; el.onload = function() { el.classList.add('fade')}}}).observe()
+.myAccount .planSec, .myAccount a.LinkCTA{padding:16px; margin:16px; box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.1); background-color: #fff;}
+	       		var userData = data;
+	       		var name = userData.name;
+	       		var email = userData.email;
+	       		var signupSource = userData.source;
+	       		var subscribedAtOnce = userData.subscribedAtOnce;
+	       		var plan  = userData.plan;
+	       		document.getElementById('uName').innerHTML = "<strong>"+name+"</strong>" + email;
+		       		var status = planData.status;
+		       		var purchaseSource = planData.source_device;
+			       		var nextActivationDate = planData.current_term_ends_at;
+			       		var planDescription = planData.plan.description;
+			       		var planName = planData.plan.name;
+			       		var planPrice = planData.amount;
+			       		//var planInterval = planData.shipping_interval;
+			       		var planInterval = planData.duration;
+			       		var planUnit = planData.interval_unit;
+			       		//var html = "<strong>Your Subscription Plan</strong>"+planName+" ₹"+planPrice+" / "+planInterval+" " + nextBillingHtml + cancelHtml; 
+			       		var html = "<strong>Your Subscription Plan</strong> "+planDescription + " "+ planName +": ₹"+planPrice + " "+ nextBillingHtml + cancelHtml;

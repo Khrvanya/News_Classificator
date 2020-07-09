@@ -1,0 +1,22 @@
+Brian Armstrong opposes McAfee; Says privacy coins will become mainstream.
+Governments can only cripple the Monero ecosystem, not ban it outrightly.
+John McAfee had previously predicted that BTC will hit £801,217 by the end of 2020.
+John McAfee, a cybersecurity expert has claimed that governments will soon ban privacy coins. He is notorious in the crypto space due to his wild predictions. McAfee took to Twitter on April 8 to share his most recent prediction, which involves privacy coins. According to him, governments across the globe will soon ban privacy coins such as monero (XMR), zcash (ZEC), and DASH among others.
+While he is adamant that governments will prohibit the use of privacy coins, McAfee noted that this attempt will have little success. He believes that laws implemented against privacy coins will be unsuccessful just like the laws against marijuana. He went on to urge his followers to exercise their right to financial privacy.
+“Privacy coins and distributed exchanges will soon be outlawed. But these laws will have no more teeth than the ineffective laws against Marijuana. Do not abdicate your rights! You have, absolutely, the right to financial privacy. Ignore unconstitutional laws.”
+Privacy coins and distributed exchanges will soon be outlawed.
+But these laws will have no more teeth than the ineffective laws against Marijuana.
+Do not abdicate your rights!
+You have, absolutely, the right to financial privacy.
+— John McAfee (@officialmcafee) April 7, 2020
+Contrary to what McAfee will be the inevitable future for privacy coins, Brian Armstrong, Coinbase ’s CEO said that privacy coins will eventually become mainstream. He shared this information through a tweet on April 8, noting that privacy-focused cryptocurrencies will achieve mass adoption just like private messaging apps.
+Privacy coins and non-custodial wallets will eventually go mainstream, just as private messaging apps have (Whatsapp, iMessage, Signal etc).
+Encryption is an important tool for everyone. Just as the internet moved from HTTP to HTTPS as the default, cryptocurrency will as well.
+— Brian Armstrong (@brian_armstrong) April 8, 2020
+According to ArticMine, a core team member of the Monero network, governments cannot ban XMR. However, they can seriously cripple the network. To achieve this feat, ArticMine explains that governments would have to collude with Microsoft.
+Per ArticMine, two software firms control more than 97 percent of the market. Therefore, governments can leverage its influence to make Microsoft use its End User License Agreement (EULA) to remove Monero software on all Windows devices. However, the government and Microsoft would have to team up to declare the Monero applications are malicious. In so doing, governments could cripple the coin’s ecosystem without legal complications.
+Alternatively, governments can use Digital Rights Management (DMR) in Windows to spread malware. This would aid in the stealing of XMR from the general public. The governments would then pump the stolen funds into the market causing XMR’s price to crash.
+McAfee’s most famous prediction was that bitcoin (BTC) would hit £801,217 by the end of this year. However, bears became predominant in the crypto market, forcing him to retract his statement. He noted that his prediction was just a trick to onboard more users on the crypto sector, before adding that it worked.
+Seeing as BTC failed to meet his absurd expectations, he turned on the leading coin and called it a sh*tcoin on multiple occasions. Striving a new coin to promote, he began touting Ethereum, alleging that it was the best smart contract solution. He also claimed that Monero (XMR) is the best privacy coin.
+— John McAfee (@officialmcafee) January 5, 2020
+Do you think McAfee’s prediction on the banning of privacy-focused crypto coins will come to pass? Share your thoughts in the comments below.

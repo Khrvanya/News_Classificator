@@ -1,0 +1,15 @@
+A number of textbook “bearish engulfing” reversal patterns have appeared in the stock charts of large-capitalization technology companies to suggest the momentum in the tech sector may have swung from bulls to bears.
+There are other technical warning signals that warn investors to beware buying on a dip, at least in the short term.
+For candlestick chart followers, a bearish engulfing is a two-day pattern that starts with a new closing high for a recent uptrend. The next day starts with a gap higher at the open to a new high, before an intraday reversal to close below the previous day’s open.
+to suggest a short-term reversal is likely.
+For example, the Nasdaq-100, which includes the most highly valued stocks listed on the Nasdaq exchange, and carries a 56.7% weighting for technology , reached an intraday high of 9,346.27 on Monday before closing at a near 3-month high of 9,298.92. The intraday low was 9,155.21.
+On Tuesday, the index opened at 9,326.06, then rose to a 3-month intraday high of 9,354.45 before pulling a sharp U-turn to close down 2.0% at 9,112.45. Basically, Tuesday’s trading completely engulfed Monday’s trading range, in a bearish way.
+The reversal pattern comes as large-cap tech outperformed the broader stock market’s bounce off the COVID-19-related lows in March. The Nasdaq-100 has soared 29% since closing at a 9-month low of 6,994.29 on March 20, while the S&P 500 index SPX,
+And there are other technical indicators that suggest investors may consider pausing before committing new money to big tech.
+For one, there is a bearish technical divergence pattern, in which the Nasdaq-100’s momentum indicator has been trending lower since mid-April even though prices kept going up. Basically prices are rising at a much slower pace--the curve has turned lower--to suggest each gain is taking more and more out of the bulls.
+On top of that, the Nasdaq-100 is starting to edge below an upward sloping trendline that has defined the rally off the March low. Sustaining a close below that line would be another warning of a change in trend.
+The index pulled another U-turn on Wednesday, as it closed down 1.2%, after rallying as much as 1.1% early in the session.
+Keep in mind that these indicators are appearing in the daily charts, which means the signals are shorter-term in nature. But the more reversal signals that appear in the shorter-term charts, the more conviction technical analysts will have in their medium-term message.
+Microsoft is the biggest tech stock with a market capitalization of $1.36 trillion, so investors should take note of what the software and cloud company’s chart is showing.
+Google parent Alphabet is the fourth largest U.S. company with a market value of $920.4 billion.
+Facebook, the fifth-largest U.S. company with a market cap of $584.4 billion, has also produced a textbook bearish engulfing pattern.

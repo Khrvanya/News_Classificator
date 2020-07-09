@@ -13,7 +13,7 @@ from sklearn.linear_model import LogisticRegression
 from sklearn.feature_extraction.text import TfidfVectorizer, CountVectorizer
 from sklearn.pipeline import Pipeline
 
-from scrape_queries import process_text
+from scrape_dataset import process_text
 
 CURR_PATH = os.path.abspath(os.curdir)
 MODELS_PATH = os.path.join(CURR_PATH, 'models')

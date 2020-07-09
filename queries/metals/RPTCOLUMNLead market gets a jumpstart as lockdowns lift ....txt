@@ -1,0 +1,40 @@
+RPT-COLUMN-Lead market gets a jump-start as lockdowns lift: Andy Home
+(Repeats Tuesday’s story with no changes to the text. The opinions expressed here are those of the author, a columnist for Reuters.)
+* Exchange stocks of lead: tmsnrt.rs/38cJEwA
+LONDON,  June 30 (Reuters) - The easing of COVID-19 restrictions around the world is generating a short-term demand boost for the lead market.
+Many drivers, including this columnist, have got back into their cars after weeks of lockdown only to be faced with a dead lead-acid battery.
+As analysts at Macquarie Bank point out, “idled vehicles are more prone to experience battery failure when they begin driving again”. Or indeed, in my case, before they even start driving again.
+This global round of battery failures has caused “a bounce in replacement demand lately that is running ahead of scrap availability” from the same failed batteries, according to the bank. (“Commodities Compendium: Troubled Revival”, June 29, 2020)
+Lead-acid batteries for passenger vehicles account for around 55% the world’s lead demand.
+That leaves the lead market exposed to the fortunes of the automotive sector - undeniably bearish at the moment - but also to the circular rhythms of the battery recycling sector, a currently bullish counterweight.
+At a current $1,800 per tonne, LME three-month metal is down 6% since the start of January. Tin and copper have fared better, but lead’s sister metal zinc is down by over 10%.
+LME warehouse stocks of lead have failed to build over the last few months despite an almost total collapse in demand for new batteries from a locked-down automotive sector.
+Total stocks stand at 67,425 tonnes, up just 1,225 tonnes on the start of January. Open tonnage, which excludes metal earmarked for physical load-out, sits at just 45,975 tonnes, close to one-year lows.
+Low inventory has seen the LME curve tighten. The benchmark cash-to-three-months period CMPB0-3 was trading in a loose contango of up to $27 per tonne in April and May. It closed Monday valued at $9 contango.
+Supply tightness is even more apparent on the Shanghai Futures Exchange (ShFE), where the contract curve is in backwardation through the end of 2020.
+The Chinese premium for nearby months also reflects low exchange inventory. ShFE lead stocks have rebuilt from a super-low 6,444 tonnes at the start of May to a current 23,333 tonnes, but they are still down by 21,229 tonnes on the start of January.
+Such lean inventory might seem anomalous given lead’s primary usage sector, automotive, has been one of the industries hit hardest by COVID-19 lockdowns.
+Indeed, the International Lead and Zinc Study Group (ILZSG) estimates that lead demand plunged by 7.3% in the first four months of the year.
+It would have been worse but for a surge in demand for back-up batteries from hospitals, technology providers and food processing companies as the coronavirus upended operational requirements.
+Robust industrial battery orders have mitigated but not fully compensated for the shutdown of large parts of the automotive industry.
+However, while lead demand has contracted, so too has supply.
+Mined lead output fell by 5% in January-April, according to the ILZSG, as mines in key producer countries such as Peru curtailed operations under national quarantine measures.
+Refined lead production dropped by a sharper 6.8% with much of the damage occurring in the recycling segment as collection networks for dead batteries ground to a halt, leaving secondary smelters short of feed.
+Germany’s Weser-Metall refinery was caught in this simultaneous squeeze on raw materials and collapse in demand, forcing it to suspend operations in March and causing French owner Recylex to place its German lead business into insolvency administration.
+China’s massive lead battery recycling sector was similarly affected. National production of refined lead fell by 3.2% in the first four months of this year, according to the National Bureau of Statistics, as battery collection networks seized up.
+It’s noticeable that China’s exports of lead-acid batteries also tumbled over the same period. Shipments of passenger vehicle batteries were down by 14% and industrial batteries by 11% in January-April relative to last year.
+All the evidence points to massive disruption in the global battery-recycling part of the lead market.
+Scrap shortages have been seen across the metallic board as lower manufacturing activity means less new scrap and lockdowns mean no collection of old scrap.
+However, lead is particularly sensitive to such shifts in scrap flows since used batteries represent over half of all lead production.
+Stresses in the battery recycling part of the supply chain have so far minimised the impact of the demand slump.
+The global refined lead market generated a marginal supply surplus of just 12,000 tonnes in the first four months of the year, according to ILZSG.
+The current dead-battery boost to lead demand will inevitably be short-lived as revived cars get back on the road.
+A return to normality leaves lead beholden to the pace of recovery in new automotive production and, more importantly in such uncertain times, sales.
+The outlook is cloudy to say the least.
+Macquarie has trimmed its expected lead production surplus this year but it’s still significant at an estimated 257,000 tonnes, with oversupply extending to another 135,000 tonnes in 2021.
+Unsurprisingly, the bank’s analysts expect “prices to come off after this nearby battery boost is over” before stabilising around $1,700 per tonne over the second half of the year.
+However, as with every forecast right now, the big caveat is COVID-19.
+The general trend of lifting lockdowns is still subject to reverses with several U.S. states reimposing restrictions and China itself restricting movement in Beijing due to a secondary cluster of cases.
+Scrap collection networks are only just starting to recover from the first-round lockdowns and they will remain highly sensitive to further restrictions on movement.
+Lead’s vulnerability to scrap availability has become all too clear this year and until the coronavirus is definitively under control, supply stresses in the battery segment will persist.
+Just for the record, this columnist’s dead battery is still in the boot of his car, since the local recycling centre is still restricting visits. It’s a micro example of the lead market’s bigger battery problem.

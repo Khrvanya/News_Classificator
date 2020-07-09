@@ -1,0 +1,50 @@
+Familiarize yourself with core terms that every FX trader should know to help them to build their knowledge.
+The Forex industry is full of unusual terms, acronyms, and words that we can often be left in a little bit of a head spin.
+Getting used to trading can be challenging enough when being introduced to new platforms such as MT4, MT5 and so on.
+Coupled with alien terminology and not understanding such trading language can be a great hindrance to a trader’s journey and profitability.
+Read on for a guide on some of the core terms which every Forex Trader should know to help them to build their forex trading knowledge.
+There are 180 recognized currencies in circulation being used in 195 countries. As traders, we can speculate on the performance of a certain currency by using a range of analysis and research to determine how that currency will perform in the marketplace.
+How we trade these currencies is based on one currency’s performance against another – Forex Trading.
+When selecting a currency to trade, you will notice that these come in pairs. Let us use EUR/USD as a case study.
+If you were to ‘buy’ EUR against USD, you would be betting that the Euro is going to perform more strongly than the US Dollar.
+Pairs are categorized into 3 core groups:
+Major Pairs – The 8 common pairs all of which contain USD as the base currency or counter currency and one of the following – EUR, CAD, GBP, CHF, JPY, AUD, NZD.
+Cross Pairs – These are any 2 major currencies which do not contain the US Dollar as the base or counter currency. These are deemed more volatile than Major Pairs.
+Examples include GBP/AUD, EUR/CAD, and NZD/CAD to name a few.
+Exotics – These are quite literally exotic currencies, lesser well-known currencies which can be extremely volatile in the market. These include South African Rand, Hungarian Forint and Polish Zloty.
+Trade your favorite Majors, FX crosses and exotics at EagleFX where you will find over 55 Currency Pairs available to trade on the MetaTrader 4 platform.
+Leverage is, in essence, borrowed money from within a trading account. Trading with leverage allows a trader to open a position with a high contract size with less expenditure.
+High leveraged trading is an effective way to trade your favorite Forex pairs, cryptocurrencies and much more without investing vast amounts of capital.
+Based on a contract size of 100,000 per lot a trader without using leverage would need around $130,000.00.
+Using 1:500 leverage, a trader can open a position with just $260.00.
+The bid price is the price a trader is willing to sell a currency pair.
+The ask price is the price a trader will buy a currency pair.
+These prices are displayed on the left-hand side of MT4 in the ‘Market Watch’ section.
+The difference between the bid and ask price is known as The Spread.
+When a trader is going long on a currency pair the first part of the pair is bought while the second is sold. Going long or buying a currency means that you expect the price to rise.
+Buying the Australian Dollar against the US Dollar – expecting the price of AUD to rise.
+When a trader is going short the first currency is sold while the second currency is bought.
+Going short is ‘selling’ one half of a currency pair in the hopes that the price will decrease.
+Margin is the initial capital that a trader needs to put up in order to open a position. Margin also gives a trader the opportunity to open a larger position size.
+When trading with margin, the trader only needs to put forward a percentage of the full value of a position in order to open the trade.
+Margin opens the door to leveraged trading but, be wary, margin magnifies both profits as well as losses.
+The acronym PIP stands for Percentage In Point.
+PIP is the smallest movement reflected in an exchange rate on a currency pair. The PIP is the 4th decimal on a price quote for a currency pair. It is used to measure value.
+This means that 1 Australian Dollar will enable you to buy about 0.6876 US Dollars. If the PIP increased by 0.0001 to 0.6877 this would mean that you can acquire slightly more US Dollars for every 1 Australian Dollar.
+A Lot in Forex trading is the size of trade/position that you will open.
+1 Lot in standard Forex trading on a currency pair is the equivalent of 100,000 units of the base currency of the pair.
+If we look at EUR / USD, this means that opening a trade in USD would mean the trade size is $100,000.
+EUR being the base currency.
+This means a 10 PIP incremental movement in a buy trade, this would represent a $100 gain.
+New STP ECN broker EagleFX allows micro lot trading starting from 0.01 Lots up to a maximum of 1,000 Lots – catering for beginners, new to Forex trading as well as more experienced traders who have the freedom to trade as much as 1,000 Lots.
+Market sentiment gives a view of the performance of a particular market or the stock market overall.
+When Market sentiment is Bullish, this means the price is going up.
+When Market sentiment is Bearish, this means the price is going down.
+An easy way to distinguish the difference is that bulls have horns and toss things in the air when provoked.  Prices rising.
+When bears are provoked, they get on their hind legs and tear things down.  Prices decreasing.
+As you have read, there are many technical terms and acronyms in the world of Forex trading.
+As traders, we should always be reading, learning and building on our existing knowledge to make us more of a well-rounded trader with a view to becoming more profitable.
+The stupidest question is the one that is never asked. So the next time you log onto a trading forum and see some terms you are not aware of, ask, research, find out!
+Forex trading can be a complex beast to tame but with the right tools and education, we can continue to grow as traders.
+For the best market conditions and over 200 tradable assets, look to EagleFX for rapid, execution speeds, the tightest spreads, and leverage up to 1:500.
+Disclaimer: The content of this article is sponsored and does not represent the opinions of Finance Magnates.

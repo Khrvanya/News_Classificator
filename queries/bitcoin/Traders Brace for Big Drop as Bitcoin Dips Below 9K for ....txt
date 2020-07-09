@@ -1,0 +1,17 @@
+The price of Bitcoin briefly dropped below $9,000. The weakening of a key support level may lead to a bigger drop.
+The price of Bitcoin ( BTC ) dropped below $9,000 in a rapid pullback, falling by 5% in 48 hours. It marked the seventh drop to the $8,000s for the top-ranked cryptocurrency by market capitalization within a span of two months, since early May. Thus, traders have been concerned that repeated drops below $9,000 may weaken a critical support level.
+Meanwhile, only $30 million worth of futures contracts were liquidated on the recent drop on BitMEX. The futures data indicates there exists a possibility of a bigger drop.
+Why did Bitcoin fall to the $8,000s and what do traders think?
+Bitcoin was due for a major price movement following nearly two months of low volatility. The direction of BTC’s next move was uncertain because BTC/USD was at a pivotal point.
+Technically, if Bitcoin stayed above $9,200, a potential retest of $9,500 and the $10,000 resistance levels were plausible. But the continuous retests of the $9,000 support level may leave BTC vulnerable to a deep pullback.
+“Breaking down through 9k, this latest drop invalidates a potential inverse head and shoulders reversal with a breach of the right shoulder. Same thing happened on June 25th.”
+A 4-hour chart of Bitcoin with a Bollinger Band. Source: Cheds
+On June 25, the price of Bitcoin dropped to as low as $8,827 in a rapid fall, primarily triggered by a sell-off of several miners. Data from ByteTree suggests some miners have started to sell more Bitcoin than usual once again this time around.
+In the past week, 6,619 BTC were mined and 6,809 were sold . Miners sold more Bitcoin than they mined, leaving a negative net inventory of 190 BTC.
+The selling pressure that caused BTC to drop from $9,250 to $8,932 likely came from miners and the spot market. The futures market had a relatively weak impact on the large price drop of Bitcoin given the low amount of shorts liquidation on BitMEX.
+Still, for the price of Bitcoin to drop to major multi-month support levels like $6,000, some traders believe that BTC would have to drop below $8,000. For example, Bitcoin trader Pentarhudi wrote in early June :
+“Triple top on daily… bearish pattern. Will trigger at close below $8000 with a target to $6000. Either triple top or range lock.”
+If the Bitcoin price continues to fall in the next several days to the low $8,000s, it would signify a triple top at a larger time frame. The two previous tops were achieved in October 2019 and February 2020, when BTC hit $10,500.
+A potential triple top in play for Bitcoin. Source: TradingView.com
+In the past several days, the price of Bitcoin has portrayed little correlation with the U.S. stock market. Throughout the past three months, however, BTC and equities moved in tandem for most of the time.
+The breakdown in the correlation between Bitcoin and stocks indicates that markets are moving based on their respective dynamics. It may cause BTC to see sudden bursts of volatility once again, following a shift in the trend of recent weeks.

@@ -1,0 +1,37 @@
+Despite an uneventful November so far, Bitcoin is still outperforming traditional markets in 2019 for several reasons including fundamentals and rising institutional interest.
+Analytics company Blockforce Capital published the October edition of its in-depth crypto markets overview on Nov. 11. Packed with information, the report provides a surplus of data on the overall state of the cryptocurrency markets, noting that Bitcoin ( BTC ) still outpacing traditional markets.
+Bitcoin gets boring in November but...
+November has thus far been rather uneventful if not boring with regards to price action. However, Bitcoin has had an eventful October. Last month started off slow but ended with Bitcoin skyrocketing from $7,300 to $10,500.
+Shortly after, the asset quickly fell back down just below $9,000 before the end of the month. Now almost halfway through November, Bitcoin is holding around the $8,500 mark.
+Crypto market data daily view. Source: Coin360
+But even at current prices, Bitcoin’s gains have still far outpaced traditional markets, which are having a record year. Several data points also reveal increased mainstream Bitcoin trading as well as increased overall transaction activity in the latter part of the month.
+Let’s take a closer look at some striking stats demonstrating how Bitcoin is still outperforming the red-hot U.S. stock market despite the bearish sentiment that has been prevalent since June.
+Before its dramatic rise to $13,800 in June, Bitcoin sat at $3,400 in February of this year.
+Currently, in the $8,000 to $9,000 range, Bitcoin has fallen significantly from its yearly high, although crypto’s leading asset has still outperformed traditional financial benchmarks even at current prices — and traditional markets have had an excellent year.
+Blockforce CIO David Martin said the report:
+“Bitcoin returned 11.5% for October, compared to mid-2% returns for gold, the S&P 500, and the MSCI All-World Index. The S&P hit new highs to close the month, returning 23% YTD — a favorable return for traditional assets, but one that is dwarfed by bitcoin’s 150% YTD return.”
+As demonstrated by Bitcoin’s volatility this year, buying into the digital asset at the wrong time likely led some traders or investors to buy BTC near its yearly highs of almost $14,000. Bitcoin currently sits almost 40% lower than that yearly high.
+The coin’s current price, however, is more than double its 2019 low, outpacing traditional markets by a long shot.
+Taking the aforementioned into consideration, one might consider dollar-cost averaging into Bitcoin exposure as a potential opportunity, in addition to traditional market exposure.
+Dollar-cost averaging involves buying a predetermined amount of an asset at a recurring set point, regardless of that asset’s price, over a period of time. This strategy has the potential to provide investors with long-term profits while decreasing the risk associated with volatility.
+Throughout most of October, Bitcoin futures posted little volume on the Chicago Mercantile Exchange (CME), Martin said, adding:
+“CME Bitcoin futures volume was non-existent for the first three weeks of the month but increased during the last week of October given the dominant news cycle regarding Facebook and China. CME contract volume was under $200M for the month, the lowest since Jan 2018, but open interest remained relatively healthy.”
+After Bitcoin’s significant price tumble below $8,000 near the end of September, the asset consolidated with overall rangebound activity and limited action for most of October. Bitcoin dropped to $7,300 on Oct. 23 before bouncing all the way up to $10,500 three days later — a historic rally of more than 40% in one day.
+During this time, speculations arose regarding various causes for such a pump, including China’s President Xi Jinping speaking positively on Bitcoin’s underlying blockchain technology. Facebook also headlined numerous articles due to numerous governments’ backlash against its Libra asset concept.
+As Martin noted, CME Bitcoin futures volume rose near the end of October. Naturally, this occurred around the same time Bitcoin’s market price rose significantly.
+Bitcoin trading activity on the Intercontinental Exchange’s Bakkt platform revealed the same conclusion — that mainstream Bitcoin trading activity increases significantly when Bitcoin’s market price makes major moves.
+“Bakkt Bitcoin futures got off to a slow start last month, but both volume and open interest continue to grow. Open interest closed the month at a high of $900k on October 31.”
+Additionally, citing a Grayscale report , Martin added that Grayscale’s mainstream cryptocurrency products have seen increased interest, with $255 million invested in its offerings.
+“Grayscale has been a dominant force in with their ‘not an ETF’ trust, and saw record quarterly inflows during the third quarter,” Martin noted.
+Prices for the overall crypto market surged back in May and June 2019, so naturally, the blockchain networks associated with those assets also saw significant traffic.
+Daily Ethereum ( ETH ) transactions hit the seven-figure mark in June, which the market had not seen in more than a year, according to a Cointelegraph report . Since June, however, Bitcoin and Ethereum tallied decreasing transaction numbers until October posted a slight turnaround, Martin reported.
+“Network transactions continue to be a healthy barometer of interest in cryptocurrency, and both Bitcoin and Ethereum saw an uptick in October, increasing 1.3% and 2.5%, respectively.”
+As Cointelegraph also reported earlier this month, some key on-chain metrics are also suggesting that investors are currently accumulating BTC in anticipation of the halving taking place next May.
+October saw a 7.5% rally in Bitcoin’s hash rate. Essentially, this means increasing computing power and security of the Bitcoin network.
+Increased network hash rate (net hash) sometimes means more miners are mining Bitcoin, although it more broadly states that Bitcoin’s network is receiving more mining power in general.
+This means new miners, as well as existing miners, are directing more computing power toward Bitcoin’s network, crypto trader, miner and Twitter personality Socal Crypto explained to Cointelegraph.
+Either way, a higher network hash rate for Bitcoin means more miners are investing capital into the network, which suggests that they anticipate the value of BTC to continue rising in the future.
+Over the past year, Bitcoin’s rising network hash rate trend appears to have coincided with its upward price trend, according to data from a recent Cointelegraph article .
+In the Blockforce report, Martin adds that Bitcoin has posted rising hash rate figures every month since May 2019, “although the month-over-month change is slowing down after posting double-digit growth over the six months.”
+In any case, Bitcoin’s hash rate when the price hit nearly $20,000 in late 2017 was around 14,000,000 TH/s. Today, this figure has climbed to over 100,000,000 TH/s, suggesting that the price is yet to catch up, as some analysts believe.
+The views and opinions expressed here are solely those of ( @benjaminpirus ) and do not necessarily reflect the views of Cointelegraph. Every investment and trading move involves risk. You should conduct your own research when making a decision.

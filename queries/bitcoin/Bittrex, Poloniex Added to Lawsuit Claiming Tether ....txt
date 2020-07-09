@@ -1,0 +1,14 @@
+Please consider using a different web browser for better experience.
+Please enable JavaScript in your browser for a better site experience.
+A lawsuit alleging stablecoin issuer Tether and sister exchange Bitfinex manipulated the bitcoin market is getting bigger.
+On Wednesday, cryptocurrency exchanges Bittrex and Poloniex became the latest defendants accused of fraudulently toying with crypto asset prices in an ongoing class action whose plaintiffs have been pursuing Tether and Bitfinex on allegations of fraud, deception and market-manipulation since October 2019 .
+The 156-page amended suit filed Wednesday continues to allege that Tether and Bitfinex orchestrated a grand scheme to launder and circulate billions of allegedly unbacked USDT stablecoins through the market to the detriment of their customers – the crux of plaintiffs Matthew Script, Benjamin Leibowitz, Jason Leibowitz, Aaron Leibowitz and Pinchas Goldshtein’s case.
+Plaintiffs further claim that Poloniex and Bittrex were essentially backdoor conduits in that scheme. They claim the pair set up wallet addresses “specifically” to receive huge USDT transfers and “knew” that Bitfinex was the one sending it along.
+Plaintiffs compared the alleged USDT transfer arrangement to that between a casino and a high-level gambler.
+“Given the size and regularity of these transfers through a mechanism they created for that exact purpose and their perfect visibility into the transactions, Bittrex and Poloniex knew the manipulative effect of the transactions on their exchanges,” the plaintiffs allege.
+The plaintiffs point to USDT inflow patterns as evidence. On Feb. 6 2018, for example, they allege Bitfinex transferred $2 million of allegedly valueless USDT to Poloniex right when bitcoin was hitting a low for the day. A cross-crypto market rally and higher trading volumes ensued.
+“For otherwise peripheral exchanges, these large trades of purportedly fiat-backed USDT created an impression of legitimacy and consumer trust, leading to further trades and fees for the two exchanges,” the suit alleges.
+They also allege that the cabal coordinated USDT transfer patterns in response to the news of the day, including in the wake of the Tether Report .
+Stuart Hoegner, Bitfinex and Tether’s in-house counsel, called the amended lawsuit “untethered to either the facts or the law” in a statement emailed to CoinDesk. Plaintiffs “conflate perceived correlation with causation in an effort to prop up theories that are untrue and unsupportable,” he said.
+Poloniex did not immediately respond to requests for comment and Bittrex could not be immediately reached.
+The leader in blockchain news, CoinDesk is a media outlet that strives for the highest journalistic standards and abides by a strict set of editorial policies . CoinDesk is an independent operating subsidiary of Digital Currency Group, which invests in cryptocurrencies and blockchain startups.

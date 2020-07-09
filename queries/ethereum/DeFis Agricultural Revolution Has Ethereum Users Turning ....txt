@@ -1,0 +1,27 @@
+Please consider using a different web browser for better experience.
+Please enable JavaScript in your browser for a better site experience.
+Decentralized exchanges (DEXs) are seeing more action than ever thanks to a surge in decentralized finance (DeFi) activity.
+The chief benefit of DEXs compared to the Coinbases of the world? They allow users to hold their crypto until they make a trade, without trusting anyone besides the counterparty of each sale.
+“Most people don’t want self-custody,” pseudonymous DeFi gadfly Defione said this week in the DeFi Telegram channel. “For sure not in dollars, and even in crypto people don’t want self-custody. Isn’t that obvious?”
+In this context, DEX protocol maker 0x is launching Matcha today, a DEX aggregator that helps people find the best price for whatever Ethereum-based token they want.
+This isn’t a new use case in crypto, but 0x believes it can stand out on user experience, which is not always the industry’s strength.
+“DEXs are traditionally very unintuitive from a UX perspective and don’t include necessary info to make informed trades,” 0x marketing lead Matt Taylor told CoinDesk in an email. “We redesigned the DEX trading experience from the ground up with the goal of reaching feature-parity of centralized exchanges.”
+0x was one of the early initial coin offerings (ICOs). It raised $24 million in August 2017 , selling the ZRX token in order to build a protocol that would enable DEXs on Ethereum. Earlier this month 0x co-founder Will Warren announced 0x Labs on Medium , a new business to enter into the DEX industry.
+There’s already proof of demand for the DEX aggregator use case. 1inch.exchange has seen steady growth over the last year and sharp growth in June, according to data collated using Dune Analytics . In May, 1inch had about $75 million in trading volume. As June ends, it’s showing slightly over $300 million.
+The 1inch stats page also reports numbers for new versus old users, and this month has seen far more new users than old ones. Last month was roughly equal at about 1,400 returning and new users, whereas this month has seen 2,500 new ones as opposed to 1,900 returning ones.
+As the “yield farming” surge has taken hold of the crypto space, it has been easy to see its impact on automated market makers (AMMs), one particular kind of DEX, in which users provide the smart contract with liquidity in order to earn fees and traders make trades with those pools.
+Two of the leaders in this area, Curve and Uniswap , have had a dramatic uptick in volume.
+Compound Labs started distributing the COMP token to the credit protocol’s users on June 15. Every single day on Curve, an AMM specializing in stablecoins, since June 15 has had more volume than any other day prior.
+Its best day was June 21, when volume broke $54 million . Only as of June 28 has volume started to level off.
+Meanwhile, on the premier AMM, Uniswap, volume has been ticking up as well since the COMP debut. It has yet to top its best day ever, which was $40 million on March 13, but the general trading volumes are up.
+Uniswap is really two AMMs right now, version 1 (which routes all trades through ETH ) and version 2 (which supports direct trades between any two ERC-20 tokens that someone is willing to bootstrap liquidity for).
+Read more: Uniswap V2 Launches With More Token-Swap Pairs, Oracle Service, Flash Loans
+So far, the best day since the launch of version 2 has been June 19, which saw $25 million in volume across the two versions. Still, overall volume made a step change on June 15. Prior to the launch of COMP, version 2’s best day had been June 11, with $6 million in volume. Every day since June 15 has been better than that. In fact, from June 19 to June 28, every single day has seen more than twice as much volume.
+The most dramatic spike has occurred on Balancer, an app that lets users make self-rebalancing token portfolios that also happens to work as an AMM when needed.
+Balancer allowed users to yield farm its governance token last week and volume immediately went up.
+Before the distribution, volume had generally been under $2 million. Since the distribution, it has generally been around $4 million. But on Sunday, June 28, volume shot up to $14 million, though this aberrant growth likely relates to an unexpected attack on Balancer using non-standard ERC-20 tokens on Sunday.
+Nevertheless, usage on the new app is up sharply.
+It is easier to maximize interest spurred by Compound and Balancer by remaining in the DeFi ecosystem, rather than toggling back to centralized (or “CeFi”) options like custodial exchanges.
+Ben Forman of Parafi Capital, an alternative investment firm, argues DeFi products are just outperforming the centralized options in more ways all the time.
+“Compound sparked the beginning of a new agricultural revolution where so-called yield farmers are siphoning volume through AMMs instead of centralized exchanges. This isn’t ideological behavior – it’s the same CeFi users now shifting to DeFi because it’s more efficient and profit-maximizing,” Forman said via email.
+The leader in blockchain news, CoinDesk is a media outlet that strives for the highest journalistic standards and abides by a strict set of editorial policies . CoinDesk is an independent operating subsidiary of Digital Currency Group, which invests in cryptocurrencies and blockchain startups.

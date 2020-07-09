@@ -1,0 +1,11 @@
+CME Group Inc. (NASDAQ: CME ), a derivatives and options exchange operating in Chicago and New York, formally announced the launch of options on Bitcoin (BTC) futures Monday, delivering on the growing interest and demand for a cash-settled instrument that allows for more efficient exposure and hedging in the most heavily traded cryptocurrency.
+The following is a list of contract specifications:
+In anticipation of the launch, an increase in activity in the underlying CME BTC futures contract has been witnessed, with open interest rising 69% from year-end, Nikolaos Panigirtzoglou, managing director at JPMorgan Chase & Co. (NYSE: JPM ) said in a statement to Bloomberg.
+The development comes alongside the launch of Bakkt bitcoin options; Bakkt is a subsidiary of the Intercontinental Exchange Inc. (NYSE: ICE ), the parent of the New York Stock Exchange.
+ICE is a leader in exchange traded futures products, delivering the globally renowned ICE Brent Crude Oil Futures after its acquisition of the International Petroleum Exchange in 2001.
+Like CME, ICE expanded on its product portfolio, delivering options that settle into cash settled Bitcoin futures.
+It's important to note that -- at times -- cryptocurrency derivatives have appeared to place a drag on prices. In 2017, CME launched futures on bitcoin, prior to bitcoin’s massive tumble from $19,000. Similarly, after ICE launched Bitcoin futures, spot bitcoin prices fell $2,000.
+That said, despite the low volumes in Bakkt options on Bitcoin futures, JPMorgan strategists believe the tide may shift, noting CME’s dominance over the trading of Bitcoin futures on regulated exchanges.
+As more exchanges get involved, the crypto options market may grow 10 to 20 times, helping improve liquidity, lower spreads, and stabilize prices, according to a Bloomberg interview with Luuk Strijers, an executive at Deribit, a cryptocurrency derivatives trading platform.
+Photo: Historical price chart for CME's BTC futures contract.
+© 2020 Benzinga.com. Benzinga does not provide investment advice. All rights reserved.

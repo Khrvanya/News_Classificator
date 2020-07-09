@@ -1,0 +1,13 @@
+Upticks in Bitcoin ATMs, transaction volume and women in crypto all point positive for Bitcoin.
+Data published today from Cointelegraph Markets and Arcane Research found that despite investor concerns over the block reward halving disincentivizing miners and possibly compromising the security of the network, demand for Bitcoin ( BTC ) continues to rise globally.
+Proof of increasing adoption is supported by the total number of functioning Bitcoin ATMs rising to 8,000, a more than 90% increase since 2019. Bitcoin ATM operator Coinstar also reported a 40% increase in Bitcoin ATM use since February of this year.
+Real BTC daily volume vs. BTC Price. Source: Messari
+When compared against altcoins, Bitcoin also continues to lead in market capitalization and United States dollar transaction volume with a more than $10 billion daily transaction volume. This figure eclipses Ether ( ETH ) and Litecoin ( LTC ) which are both seeing daily transaction volumes below $500 million.
+Currently for the month of May, Bitcoin's price is up nearly 10%, whereas altcoins such as Ether, XRP and Monero ( XMR ) are hardly breaking even.
+Arcane Research also found that after the halving on May 11, miners are gradually shifting back to the Bitcoin Cash ( BCH ) and Bitcoin SV ( BSV ) network, but both networks have seen drastic drops in their share of total SHA-256 hash rate.
+BCH and BSV hash rate shares. Source: Cointelegraph Markets/Arcane Research
+Bitcoin Cash dropped from 3.4% to 2.07%, a startling 40% reduction. Meanwhile, Bitcoin SV fell from 2.39% to 1.55%, a sharp 35% decline.
+Bitcoin’s most recent price has occurred on strong volume, a bullish sign as signals investors sentiment is high among retail and institutional investors.
+Total BTC Options Open Interest. Source: Skew
+In addition to breaking above $10,000 on May 14, this week Cointelegraph reported that the total open interest on CME Bitcoin futures has risen by 1,000% since the start of the month. This is a healthy sign and noticeably different from the low volume recovery from the March 13 crash to $3,750.
+Arcane Research also found that significant growth in the peer-to-peer lending markets and an increasing percentage of women represented in crypto sector jobs further indicates that the Bitcoin network and ecosystem continue to make positive strides forward.

@@ -1,0 +1,33 @@
+1 min read . Updated: 18 Jun 2020, 04:43 PM IST Ravindra N. Sonavane
+In terms of market value, the Adani Group firm has surpassed ICICI Prudential Life, TechM, Cipla, HDFC AMC
+On 16 March, shares of Adani Green closed at ₹117.70 on the BSE, while in today’s session the stock ended at a fresh record high of ₹400.65 apiece
+With a market capitalization of ₹626.54 billion, Adani Green Energy Ltd on Thursday entered the club of top 50 most valued publicly traded firms in India, claiming 45th rank, according the BSE data.
+In terms of market value, the Adani Group firm has surpassed ICICI Prudential Life, Tech Mahindra Ltd, Cipla Ltd, HDFC Asset Management Ltd, Hero MotoCorp, JSW Steel Ltd, Gail India and Eicher Motors Ltd.
+The scrip surged nearly 240% in the last three months amid higher volumes. On 16 March, shares of Adani Green closed at ₹117.70 on the BSE, while in today’s session the stock ended at a fresh record high of ₹400.65 apiece, up 5% from its previous close. Since 17 March, the stock has fallen only in 11 sessions. Year to date, it rose 140.7%.
+Adani Green on 9 June announced that it bagged a manufacturing-linked solar contract from the Solar Energy Corporation of India (SECI) to develop 8 GW of projects. The transaction is valued at ₹45,000 crore, or $6 billion. With this win, Adani Green will have 15 GW capacity under operation, construction or under contract. The company targets achieving an installed generation capacity of 25 GW of renewable power by 2025 at an investment of ₹1.12 trillion, or $15 billion, in the renewable energy space in the next five years.
+In its annual report, the company said that it is seeking shareholders’ approval to raise nearly ₹2500 crore via equity shares or any other instruments in one or more tranches.
+Earlier in April, Total invested about ₹3,707 crore for 50% partnership with Adani Green Energy in a joint venture that will house 2.148 gigawatts (GW) of operating solar power projects across 11 States in India.
+* Thank you for subscribing to our newsletter.
+Click here to read the Mint ePaperLivemint.com is now on Telegram. Join Livemint channel in your Telegram and stay updated
+You are now subscribed to our newsletters. In case you can’t find any email from our side, please check the spam folder.
+lozad('.lozad', { load: function(el) { el.src = el.dataset.src; el.onload = function() { el.classList.add('fade')}}}).observe()
+										_sf_async_config.authors = 'Ravindra N. Sonavane';
+.myAccount .planSec, .myAccount a.LinkCTA{padding:16px; margin:16px; box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.1); background-color: #fff;}
+	       		var userData = data;
+	       		var name = userData.name;
+	       		var email = userData.email;
+	       		var signupSource = userData.source;
+	       		var subscribedAtOnce = userData.subscribedAtOnce;
+	       		var plan  = userData.plan;
+	       		document.getElementById('uName').innerHTML = "<strong>"+name+"</strong>" + email;
+		       		var status = planData.status;
+		       		var purchaseSource = planData.source_device;
+			       		var nextActivationDate = planData.current_term_ends_at;
+			       		var planDescription = planData.plan.description;
+			       		var planName = planData.plan.name;
+			       		var planPrice = planData.amount;
+			       		//var planInterval = planData.shipping_interval;
+			       		var planInterval = planData.duration;
+			       		var planUnit = planData.interval_unit;
+			       		//var html = "<strong>Your Subscription Plan</strong>"+planName+" ₹"+planPrice+" / "+planInterval+" " + nextBillingHtml + cancelHtml; 
+			       		var html = "<strong>Your Subscription Plan</strong> "+planDescription + " "+ planName +": ₹"+planPrice + " "+ nextBillingHtml + cancelHtml;

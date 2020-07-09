@@ -1,0 +1,53 @@
+Under the UK Government’s domestic Renewable Heat Incentive (RHI) scheme, you could receive quarterly cash payments over seven years if you install or have already installed an eligible renewable heating technology.
+The Renewable Heat Incentive (RHI) is a UK Government scheme aiming to encourage uptake of renewable heat technologies amongst householders, communities and businesses through financial incentives, and contribute towards the 2020 ambition of 12% of heating coming from renewable sources.
+The UK Government's Department for Business, Energy & Industrial Strategy (BEIS) makes key policy decisions and energy regulator Ofgem E-Serve administers the scheme.
+Policy documents are available on the UK Government website.
+There are two versions of RHI: domestic, and non-domestic. This page provides information on the domestic RHI, but for details on the non-domestic RHI, you can visit Ofgem .
+The domestic RHI launched on 9 April 2014 and provides financial support to the owner of the renewable heating system for seven years. The scheme covers England, Wales and Scotland.
+Ofgem have also published a document of case studies from the domestic RHI for further information.
+Further information about the domestic Renewable Heat Incentive is below. Please note that this is not an exhaustive list of criteria to apply for payments through the scheme.
+If you generate heat for your home via a renewable source, you may be eligible to apply. We have listed some of the key eligibility criteria below, but before applying, you should read the full requirements and rules of the scheme available Ofgem's website .
+No matter which renewable technology you have, your system must be listed on the Domestic Renewable Heat Incentive Product Eligibility List .
+Water source heat pumps can potentially be eligible for the Domestic RHI – they are included in the definition of a ground source heat pump.
+Certain cooker stoves and high temperature heat pumps may also be eligible.
+The domestic RHI does not support air to air heat pumps, log stoves, pellet stoves without back boilers and hybrid photovoltaic thermal hybrid solar collectors (PVT).
+* All biomass fuel used by RHI participants must be purchased from an approved sustainable wood fuel supplier. The list is maintained on the UK Government’s website: Biomass Suppliers List (BSL). It is advisable to check whether your fuel supplier is registered before entering into a long-term supply contract.
+Not all fuels from BSL suppliers are sustainable as they may supply more than one type of fuel. You should check with your supplier, or prospective supplier, which of their fuels are registered.
+Who can apply for RHI?
+Single domestic dwellings are covered.
+You must apply within one year of the commissioning date of your system.
+There are limits on the amount of space heating a house can receive payments for. The heat demand limits are set at 20,000kWh for ASHPs, 25,000kWh for biomass boilers and stoves and 30,000kWh for GSHPs. There is no limit for solar water heating systems.
+For heat pumps, if the deemed demand is more than the capped limit then you will be paid the unit tariff multiplied by the amount of renewable heat that contributes to the capped demand.
+Please see the following guidance from Ofgem for more information about these changes, and full criteria for your system.
+If you have questions about an existing Domestic RHI application or a system already approved for Domestic RHI payments please contact Ofgem e-Serve, the scheme administrators, at 0300 003 0744 between 9:00am-5:00pm Monday-Friday or at domesticrhi@ofgem.gov.uk .
+The introduction of "assignment of rights" (AoR) is an option to help householders and landlords access finance to overcome the barrier of the upfront cost of a renewable heating system.
+Assignment of rights (AoR) allows an “investor” to help fund the purchase, installation and maintenance, of a household or landlord’s renewable heating system. Households and landlords are then able to assign their RHI payments to the investor, who is referred to in the RHI Regulations as the “nominated” investor. This came into effect on 27 June 2018.
+What could I earn using RHI?
+You’ll receive RHI cash payments quarterly over seven years. The amount you receive will depend on a number of factors - including the technology you install, the latest tariffs available for each technology and - in some cases - metering.
+You can estimate how much money you could earn through RHI using the Department for Business, Energy and Industrial Strategy's (BEIS) RHI payment calculator .
+How do I apply for RHI?
+The scheme will remain open to applications until 31 March 2022 and you can apply via Ofgem’s website . Providing you have all the relevant information to hand and your application doesn't need to be manually reviewed, you should receive an immediate decision.
+If you are unable to apply online, contact Ofgem's Domestic RHI Applicant Support Centre on 0300 003 0744 Monday to Friday from 9am to 5pm or email: DomesticRHI@ofgem.gov.uk .
+To apply you will need:
+If you received a grant from Government or public funds you will also need to provide details of:
+If you are applying for RHI and your system requires metering, the Installer Metering Questions form will be to be submitted.
+The table below summarises the latest tariffs available for each technology:
+The table above is from information published from Ofgem. You can see the tariffs on their Domestic RHI tariffs and payments page. ​
+These tariffs are set by the UK Government at a level designed to compensate for the difference between costs of installing and operating renewable heating systems and fossil fuel systems, including non-financial costs such as disruption, based on 20 years of heat produced. Fossil fuel costs used are those for off-gas households.
+Ofgem will make payments on a quarterly basis for seven years. Normally the heat required to heat the property is deemed (estimated) and payments based on this amount.
+Solar thermal systems - renewable heat generated by solar thermal systems will be based on the estimate of system performance completed as part of a Microgeneration Certification Scheme (MCS) installation.
+Once you are receiving Domestic RHI payments, the rate you get will change annually. For new installations, the rates are adjusted every year in line with the Consumer Prices Index (CPI).
+The RHI scheme uses a 'degression' system designed to manage the scheme budget available for the domestic RHI. From time to time, the tariff for a technology will be reduced (for new applicants only) if the total amount being claimed in total for that technology reaches a certain level. Anyone who is already claiming domestic RHI will not have their tariffs reduced through degression.
+If you have already received a grant from Government or public funds (such as funding via the Energy Company Obligation (ECO) or through Warmer Homes Scotland (WHS)), then the amount received will be taken into account when calculating your domestic RHI payments.
+There are two types of metering that you may need on the Domestic RHI scheme: metering for payment and metering for performance .
+Most domestic systems payments will be based on an estimated heat output (’deeming’) but in some cases, Ofgem may base payments from metered output. The most common scenarios for this requirement are:
+There are other scenarios where metering for payment is a requirement though, and we suggest reviewing Ofgem’s Essential Guide to Metering for a full list.
+Changes to the domestic RHI mean that heat pumps registering for the scheme from 22 May 2018 must meter for performance. If you’re only required to have metering for performance, you will continue you receive payments based on ‘deemed’ heat demand, as determined by your Energy Performance Certificate (EPC) or heat demand limit.
+Further details can be found in Ofgem’s factsheets:
+Metering and Monitoring Service Packages are an optional form of monitoring you could choose to provide peace of mind that your renewable heating system is working as expected.
+The package works like a service contract between you and your installer, providing data and analysis to check the system is working efficiently.
+A limited number of MMSPs are available for air source heat pumps, ground source heat pumps and biomass pellet boilers only. Applicants that successfully register for an MMSP will be paid additional support to help cover the cost of installing and operating the package.
+You can register for MMSP when you apply to the domestic RHI scheme or afterwards. If you are successful, you will receive MMSP payments alongside your quarterly RHI payments.
+See Ofgem’s Essential Guide to Metering and Monitoring Service Packages (MMSP) for further details including information about eligibility, how to apply and expected payments.
+Our advisors at Home Energy Scotland can give you free, expert and impartial advice. 
+Call Home Energy Scotland on 0808 808 2282 - Monday to Friday 8am to 8pm and Saturday 9am to 5pm - or request a call back.

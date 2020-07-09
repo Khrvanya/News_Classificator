@@ -1,0 +1,16 @@
+Following the footsteps of China, while the Indian government is working towards the development of blockchain, it is equally focussed on banning cryptocurrencies in the country as well. The existing draft cryptocurrency bill says so.
+Responding to a question in Lok Sabha, Ministry of Electronics and Information Technology (MeitY) stated,
+Considering the potential of Blockchain Technology and the need for shared infrastructure for different use cases, an approach paper on national level blockchain framework is being prepared, for scaling up and wider deployment of blockchain-based use cases.
+Meanwhile, Bitcoin, after registering a 6-month low price at $6.63K on November 25, has gained over $1K since then. The cryptocurrency is currently trading at $7,780.
+Let’s take a look at this week’s news!
+Leading cryptocurrency exchange Binance has launched Ethereum futures contracts with up to 50x leverage on its Binance Futures trading platform. The platform had earlier launched BTC contracts and claims to have already reached an all-time high  daily trading volume of more than 370,000 BTC (approximately $2.7 Bn USD) in recent market spikes.
+Commenting on the launch, CZ (Changpeng Zhao), CEO of Binance said,
+“Binance Futures is a relatively new product, so is the crypto derivatives industry. We are committed to driving product innovations and growing our industry.”
+The company, which last week had acquired Indian cryptocurrency exchange WazirX , has also announced a partnership with Australian crypto entity TravelbyBit. The duo has created a cryptocurrency-backed travel rewards card to facilitate crypto payments on major travel websites.
+After Youbit, another South Korean exchange Upbit exchange has now been hacked. According to various reports, this year alone, over cryptocurrencies worth $205 Mn have been stolen from eight crypto exchanges world over, including the latest Upbit.
+According to Upbit’s website, on November 27, hackers had stolen $49 Mn worth of Ethereum from its hot wallet.
+In a statement, Lee Seok-woo, CEO of Doo-myeon which operates Upbit disclosed, “At 1:06 PM on November 27, 2019, 342,000 ETH were transferred from the Upbeat Ethereum Hot Wallet to an unknown wallet.”
+The cryptocurrency exchange has suspended its operations till further notice.
+Coincover, BitGo Launch Bitcoin Insurance Plan, Cryptocurrency Wills
+UK-based startup Coincover and BitGo have launched Cryptocurrency Wills, a crypto insurance product. Out of 18 Mn Bitcoins mined so far, as over 4 Mn Bitcoins are reported to be lost, the Cryptocurrency Wills is being presented as a wholesome assurance to cryptocurrency asset planning for the future.
+The Cryptocurrency Will Kit will have a Unique ID Card, two Cryptocurrency Will notifications cards, and an instructional booklet, said reports. ‍The customers need to store their cryptocurrencies in a multi-signature wallet of BitGo, which will provide an end to end double authentication security solution to the customer. The customer will possess at least two keys with ID numbers for transactions.

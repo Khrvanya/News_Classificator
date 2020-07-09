@@ -1,0 +1,20 @@
+The growing popularity of cryptocurrencies has led to a lot of heated debates about how they should be defined and regulated.
+The argument centres on whether cryptocurrencies should be classified as securities – and the answer could have major ramifications for the way the world of digital assets operates going forward.
+Many people argue this goes against the very nature of cryptocurrencies, which are anonymous by design, are not governed by any single authority, and aim to be free of centralised regulation.
+To understand whether cryptocurrency is a security, it’s important to understand what a security actually is.
+A security is a tradable financial asset that has monetary value. It represents an ownership position in a publicly-traded corporation (via owning shares), a creditor relationship with a government body or a corporation (via owning bonds), or rights to ownership as represented by an option.
+The legal definition of a security varies by jurisdiction. In the US, a security is a tradable financial asset of any kind.
+In the UK, the FCA’s definition of a security applies only to equities, debentures, alternative debentures, government and public securities, warrants, certificates representing certain securities, units, stakeholder pension schemes, personal pension schemes, and rights to or interests in investments.
+The SEC has been fairly open in its ponderings about whether cryptocurrency is a security.
+Under US law, a security includes an “investment contract” – which is defined as an investment of money in a common enterprise with a reasonable expectation of profits to be derived from the entrepreneurial or managerial efforts of others.
+This is known as the Howey Test , and it essentially asks whether the value of a transaction for one of its participants is dependent upon the other’s work.
+SEC chairman Jay Clayton has clarified that Bitcoin is not a security . In an interview with CNBC in June, he stated: “Cryptocurrencies are replacements for sovereign currencies… [they] replace the yen, the dollar, the euro with Bitcoin. That type of currency is not a security.”
+Former CFTC chairman Gary Gensler has also stated that Bitcoin cannot be classified as a security. He pointed out that Bitcoin came into existence as mining began as an incentive in validating a distributed platform, with no initial token offering, no pre-mined coins, and no kind of common enterprise.
+Bitcoin has never sought public funds to develop its technology and it does not pass the Howey Test.
+However, Gensler has warned that more than 1,000 cryptocurrencies are probably operating outside of US law and will have to come into regulatory compliance. He said that although Bitcoin is not a security, Ripple “sure seems like a common enterprise”.
+A council created by some of the major cryptocurrency exchanges – Crypto Ratings Council – seems to agree as it awarded XRP a four out of five in matching the criteria considered to be a security. It pointed out that Ripple sold XRP before the token had any utility and used a securities-like language when promoting XRP.
+Ripple CEO Brad Garlinghouse has since hit back at critics who have been “spreading fear, uncertainty, and doubt” about XRP, stating that the company’s token “ is not a security ”.
+Speaking at the MIT Business of Blockchain conference last year, Gensler highlighted the key distinctions that could determine whether tokens are securities. In a nutshell, if a coin offering is designed to give investors an ownership stake, the token should be treated like a security and subject to regulation.
+The FCA, on the other hand, recently suggested XRP is not a security because, like Ethereum, it can be used as a means of payment (exchange token) and to run applications (utility token).
+Certain crypto tokens do appear to pass the Howey Test. However, their fundamental goal of being autonomous and distributed networks that are designed to be decentralised is at odds with the regulated nature of securities.
+What the regulators eventually decide will have a huge impact on the crypto world and its investors.

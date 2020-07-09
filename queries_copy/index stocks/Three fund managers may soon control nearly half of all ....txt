@@ -1,0 +1,13 @@
+Three fund managers may soon control nearly half of all corporate voting power, researchers warn
+Actively managed funds have had outflows for the past four years straight, while index funds have gained
+A decade after some of the nation’s largest U.S. banks helped to bring the financial system to its knees, a new kind of “too big to fail” risk may be emerging in a very different corner of the market: index funds.
+Three index fund managers currently dominate ownership of shares of publicly traded companies in the U.S., and their control is likely to tighten in coming years, according to a June research report.
+Concentrated ownership — what the authors refer to as the “Giant Three scenario” — means investors and policy makers need to keep a careful eye on the role of fund managers in upholding corporate governance, argue authors Lucian Bebchuk of Harvard Law School and Scott Hirst of Boston University in a working paper titled The Specter of the Giant Three .
+The rise of so-called passive exchange-traded funds into a multi-trillion-dollar segment of the global financial system is one of the most consequential economic developments of the past 30 years, but some critics fear that the fast-growing industry has gotten too big for its own good.
+Notably, Vanguard founder John C. Bogle, often credited with creating the first index fund in the mid 1970s, described the success of index funds as the perhaps the best innovation in modern financial history.  But the geometric growth of index funds — which track the performance of products like the S&P 500 index SPX,
+by holding the same securities and at the same proportion — has created unforeseen problems, conferring too much concentrated power among a select few.
+“It seems only a matter of time until index mutual funds cross the 50% mark” of corporate ownership, Bogle wrote in a November 2018 op-ed in the Wall Street Journal .
+Citing a September 2018 draft paper written by John C. Coates, Bogle said indexing may be reshaping corporate governance, tipping the power to a point where voting power will be “controlled by a small number of individuals.”
+Investors have helped to drive the success of index funds because they offer an easy, and often low-cost, way to gain exposure to a diversified pool of assets.
+The 50 largest stock ETFs together manage more than $1.8 trillion, the paper’s authors note, and only 7% of the assets in the 50 largest funds are managed by funds other than the Big Three.
+Over the last decade, more than 82% of assets flowing into investment funds, representing over $3 trillion in assets, have gone to the three largest index fund managers: BlackRock Inc. BLK,

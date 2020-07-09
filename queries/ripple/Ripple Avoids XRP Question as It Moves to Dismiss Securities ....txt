@@ -1,0 +1,10 @@
+Controversy is again mounting around the company as it tries to avoid explicit reference to XRP token’s classification.
+Blockchain network Ripple has filed a motion to dismiss a lawsuit accusing the firm of selling unregistered securities.
+In a court filing uploaded by Fortune on Sept. 20, lawyers representing the company against investor Bradley Sostack contested the claims.
+Part of an ongoing legal battle , Sostack says Ripple’s sales of XRP in 2013 constituted an unlawful securities offering.
+Ripple denies this, but the case has thrown up wider concerns over the legality of Ripple’s operations regarding XRP. As Cointelegraph reported , executives have refused to acknowledge the company’s relationship to the token, despite their substantial personal holdings and continuing sell-offs.
+That tension is now resurfacing after the lawyers’ motion to dismiss failed to address the securities aspect of XRP at all.
+“Because of the multiple, independent grounds for dismissing this action, the Court need not resolve whether XRP is a security or currency for purposes of this Motion, which assumes Plaintiff’s allegation that XRP is a security,” a section reads.
+The substance of the filing attracted attention from crypto-focused lawyer Jake Chervinsky.
+“They make twelve separate arguments for dismissal of the plaintiff's claims. Not a single one squarely addresses whether XRP is an unregistered security,” he summarized on Twitter on Friday.
+The latest developments appeared to have little impact on XRP markets — with the token continuing to trade flat over the past 24 hours at just under $0.30.

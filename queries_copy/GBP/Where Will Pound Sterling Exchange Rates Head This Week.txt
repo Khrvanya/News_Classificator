@@ -1,0 +1,29 @@
+Where Will Pound Sterling Exchange Rates Head This Week?
+Boris Johnson to announce easing of measures – Will this increase the value of pound sterling?
+Later on this afternoon Prime Minister Boris Johnson is expected to announce a number of relaxations of the current lockdown measures in place for the U.K which may give the green light to a number of areas of the hospitality industry to start bringing in revenue once again.
+The announcements are expected during the daily U.K press conference and should be seen as a positive for the U.K economy as it does start things moving forwards once again. The expectations of a 2 meter rule for social distancing being relaxed to ‘at least 1 meter’ should allow a number of shops, bars and restaurants to progress with plans to reopen on July 4th.
+Many of my clients have been asking if this will lead to a bounce in the value of Sterling after what has been another torrid run of form for the currency, but as these expectations are already widely expected, the impact on the strength of the pound could well be muted as is sometimes the case when expectations are already priced into the market.
+Currency markets tend to move on speculation as well as fact, and it is because of this that the news announced later would most likely have already been factored in, which doesn’t paint a great picture for the pound.
+Investors and speculators still appear extremely concerned about what may happen next with Brexit, and on top of this, Sterling still seems to not be reacting well when global sentiment drops off, I wouldn’t say that the pound is now classed as a riskier currency but it is certainly acting like one temporarily.
+Riskier currencies tend to lose value when global sentiment drops and investors seek safer haven currencies, this can happen in times of global political problems, economic crisis or in situations such as a global pandemic.
+With all three of these currently hanging over the world this does not paint a great picture for Sterling exchange rates in the coming weeks.
+Last night, comments by U.S Economic Advisor Peter Navarro suggested that the U.S/China trade deal was effectively over which immediately led to a further drop in sentiment for investors around the globe.
+A sharp sell off in stocks in the States, and market volatility for most major currencies was fairly swiftly halted by President Donald Trump who was quick to come out and dampen the comments, suggesting that the deal was well and truly still on track.
+This deal may not directly impact the U.K, but it can have an impact the strength of Sterling against a lot of major currencies. For example bad news for this particular trade deal generally leads to weakness for the Australian dollar, making it cheaper to buy. This impact is most likely seen due to the Australian dollar being deemed as a riskier currency coupled with the close ties Australia currently has to China.
+Due to the points mentioned earlier in this report, this could also have a negative effect on the value of the pound, due to the current riskier feel surrounding Sterling.
+Two interesting predictions and angles I have seen online in the past 24 hours were from Credit Agricole in France and Nomura in Japan.
+Credit Agricole have commented that they feel that EURGBP is overvalued and that a correction up to the level of 1.15 may be on the way, and Nomura feel that due to a muddled Bank of England overview, spiraling debt and dropping growth predictions they feel that GBPEUR may drop towards the 1.08 levels in the coming weeks.
+With two predictions from well know institutions almost totally opposite it really does go to show that this market is a tough one to predict at present.
+If you are in the process of buying or selling a property abroad, your business pay in or receives a foreign currency or indeed you have any other need to carry out a large currency exchange in the coming weeks and months then it is pivotal that you have an experienced and proactive currency exchange provider on your side.
+Not only do we offer competitive exchange rates, we’r on hand throughout the duration of all currency transfers, big or small for dedicated assistance. We keep you informed onthe latest currency market movements so you can make informed decisions about when to trade, that could make a considerable difference to the cost of your foreign exchange transfer.
+For more information or to speak to me directly then please fill in the form below and I will be happy to have a no obligation discussion about your specific situation.
+					var arr_length = arr_splits.length;
+						for (var i = 0; i < arr_length; i++) {
+							var formated_str = arr_splits[i].replace(/\surl\(\'(?!data\:)/gi, function regex_function(str) {
+								return ' url(\'' + dir_path + '/' + str.replace(/url\(\'/gi, '').replace(/^\s+|\s+$/gm,'');
+												$liveIframe.contents().find( 'body').append( '<textarea class="tdw-css-writer-editor" style="display: none"></textarea>' );
+													var regex = /el_class=\"([A-Za-z0-9_-]*\s*)+\"/g,
+													for (var i = 0; i < results.length; i++) {
+														for (var j = 0; j < currentClasses.length; j++) {
+									// We did it to reattach the existing compiled css to the new content received from server.
+												return "You have attempted to leave this page. Are you sure?";

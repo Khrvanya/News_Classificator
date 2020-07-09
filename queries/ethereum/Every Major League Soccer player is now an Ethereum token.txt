@@ -1,0 +1,13 @@
+Ahead of Major League Soccer’s return, its 700+ players have been tokenized as digital collectables.
+Blockchain-based fantasy soccer game Sorare has added Major League Soccer players.
+Some 700+ players have been tokenized as digital cards via a deal with the MLSPA.
+Sorare lets users collect pro player cards and build fantasy lineups for matchups.
+Sorare, the Ethereum-based fantasy soccer game that lets players own digital cards based on real professional players, announced today that it has added the 700+ players that compete in North America’s Major League Soccer.
+The deal is with the Major League Soccer Players Association (MLSPA) itself, bringing all of the players into the game as digital assets. However, the agreement is not with the league itself, so the players’ teams are not actually represented in the game.
+"We expect blockchain will have a significant role to play in the future of collectibles, and by bringing more than 700 MLS players to this really inventive fantasy game Sorare, we're excited fans worldwide now have the chance to collect, manage, and own licensed digital cards of their favorite players,” MLSPA COO Dan Jones told Decrypt via email.
+The news comes ahead of Major League Soccer’s return to action in July via a tournament held in Orlando, Florida. The “MLS is Back” tournament will feature all of the teams and take place without fans in attendance at Walt Disney World Resort, with players, coaches, and team and league officials frequently tested for COVID-19 all the while.
+Sorare allows players to purchase and collect cards based on players from a variety of professional soccer teams, and then form a five-player lineup to enter divisional matchups against other Sorare users. Players earn points based on the pros’ respective real-world performances, and then can net rewards and unlock achievements in the fantasy game.
+Blockchains are distributed ledgers, secured by cryptography. They are databases that multiple people can access and read, but can only be updated by the data owners. Instead of the data residing on a single centralised server, the data is copied and stored on multiple computers.
+technology is used to authenticate the individual digital assets as unique non-fungible tokens (NFTs), with rare versions of select player cards available in limited quantities. According to the company, a “Super Rare” version of Juventus star Cristiano Ronaldo recently sold for more than $3,000.
+Sorare already has deals with numerous European clubs, including the aforementioned Juventus and Atletico Madrid, plus it recently added the Korean Professional Football League.
+Get the best of Decrypt where you want it most.

@@ -1,0 +1,86 @@
+Please consider using a different web browser for better experience.
+Please enable JavaScript in your browser for a better site experience.
+Moving ETH from the Ethereum 2.0 blockchain to the old ethereum blockchain may be possible in the early months (or years) after launch, new research suggests.
+Due to changes in data storage structure, recalling data to applications will become more expensive on the new network.
+Ethereum will soon lose the ability to execute transactions atomically. This could change the way developers and traders manage their dapps.
+Ethereum 2.0 may possess only about half the transaction capacity as originally planned.
+Things are moving fast for the upcoming Ethereum 2.0 project.
+Aiming to get the broader public up to speed about changes being planned for 2.0, founder Vitalik Buterin wrote four blog posts about its launch during the platform’s annual developer conference, Devcon .
+Tentatively planned for launch sometime in the first quarter of 2020 , 2.0 is expected to move the world’s second-largest blockchain platform away from a proof-of-work (PoW) system of transaction validation to proof-of-stake.
+Proof-of-stake (PoS) is widely expected to be more scalable and energy-efficient than PoW blockchains like bitcoin.
+In preparation for the historic upgrade, Buterin is currently educating users and application developers about what’s in store come 2020 and beyond.
+Coupled with one additional post written shortly before the Devcon conference, Buterin’s five blog posts addressing concerns and long-held unknowns about the Ethereum 2.0 network have become highly popular reads in the cryptocurrency community.
+“This is incredible. When most of us are limping into the last day of the Devcon conference … Vitalik is cranking out analyses of some of the ecosystems [sic] largest obstacles. Forever impressed,” blockchain consultant Tyler Smith tweeted on Oct. 10. Others joked Buterin had entered “ beast mode. ”
+This is incredible. When most of us are limping into the last day of the Devcon conference (late nights with friends and colleagues), Vitalik is cranking out analyses of some of the ecosystems largest obstacles. Forever impressed @VitalikButerin !
+— Tyler.Smith.eth (@R_Tyler_Smith) October 11, 2019
+For those of us without time to dissect even one of Buterin’s blog posts, let alone five of them, here’s the TL;DR in layman’s terms.
+1. Moving ETH from the Ethereum 2.0 blockchain to the old ethereum blockchain may once again be possible in the short term.
+As the current Ethereum 2.0 design stands, it’s likely to be years before the old ethereum PoW chain is fully merged into the new PoS network (see below).
+Meanwhile, transfers of ETH between the two chains will be disabled.
+This is because the added complexity of creating a two-way bridge, according to Ethereum 2.0 developer Preston Van Loon, presents “a security risk” to both chains.
+“We could see a scenario where one blockchain gets messed up by another and we have to do a hard fork to recover funds or there’s a flaw where someone can print money,” said Van Loon, team lead at Prysmatic Labs.
+Enabling transfers requires a secure method of ensuring ethereum’s PoW network is synced about the veracity of claims on the PoS network.
+“The assumption is, in the first few months of the Ethereum 2.0 chain, it’s going to have a limited number of [transaction validators, also called “stakers”] and potentially will have lower security than the current Ethereum 1.0 chain,” said Ben Edgington, blockchain protocol engineer at ethereum venture studio Consensys.
+“That potentially provides an attack vector. If someone wants to generate free money on the Ethereum 1.0 chain, they could try to attack the ethereum 2.0 chain and then persuade the Ethereum 1.0 chain of their [fake] funds,” said Edgington.
+In a recent blog post , Buterin suggests two possible ways to create a “bridge” between the two blockchains. He admits that “both of these proposals would require emergency remedial action on the Ethereum 1.0 side if the Ethereum 2.0 side breaks.”
+To reduce such risks, Buterin suggests voting periods enabling “human intervention” to reverse transfers from the Ethereum 1.0 network.
+These suggestions are presently just proposals. Other Ethereum 2.0 researchers like Danny Ryan have presented similar solutions to creating a secure bridge between the two networks.
+For now, the group has not added a bridge to the roadmap design for Ethereum 2.0.
+Danny Ryan proposing adding a two way bridge between eth1 and eth2 sooner than planned before (new proposal: between phases 1 and 2) using ideas from https://t.co/bVjmRG3jpd pic.twitter.com/uTsBY7oslD
+— vitalik.eth (@VitalikButerin) October 19, 2019
+2. Ethereum 2.0 may function as its own separate blockchain from the original ethereum blockchain for years before the two are fully merged.
+The beacon chain is the “heartbeat” of the new PoS network. This blockchain will act as a central command center to receive data about confirmed transactions from all other mini-blockchains (also called shards) in the Ethereum 2.0 network.
+In Phase One, shards will be launched to link to the existing beacon chain. In Phase Two, developers will roll out execution environments for different types of decentralized applications (dapps) on each shard.
+Thereafter, the full infrastructure of Ethereum 2.0 will be configured such that the present ethereum mainnet can safely and securely be merged into the new network fully.
+Edgington suspects moving to phase two could take three to four years to complete.
+“Ethereum 1.0 and Ethereum 2.0 can run alongside each other and continue in that configuration for as long as we like. … It’s not time-critical.”
+What is critical is the security of assets on the current ethereum mainnet chain.
+Blockchain researcher Mihailo Bjelic says a complex system such as Ethereum 2.0 should not replace the present ethereum mainnet until developers are sure of its reliability.
+“It’s better never to launch Ethereum 2.0 if it’s not safe,” he said. “The responsible decision if you cannot ensure the security of the system is just to scrap it.”
+In a second blog post , Buterin says he expects the transition, if and when it happens, to be smooth.
+“If you are an application developer or a user … the changes and disruptions that you experience will actually be quite limited. Existing applications will keep running with no change,” Buterin wrote.
+3. Recalling data about the ethereum blockchain will become more expensive than before.
+Dapp developers recalling and accessing data from the new ethereum network will face increased transaction costs. But Buterin offers advice about limiting the pain of these increases.
+“If you are a developer, you can eliminate the largest part of disruption from gas cost changes by proactively making sure you don’t write apps with high witness sizes, ie. measure the total storage slots + contracts + contract code accessed in one transaction and make sure it’s not too high,” Buterin wrote .
+The cost increases are due to changes in how the ethereum state – that is, the full account of transactions and accounts on the blockchain – is stored in a PoS network.
+“The way that state is stored is completely changing in Ethereum 2.0. If I run a contract today [on ethereum], the state is on my hard disk or it’s on the hard disk of the node I’m talking to,” said Edgington, adding:
+“In Ethereum 2.0, everything is stateless. … I can store the bits of state I’m interested in locally or there will be providers like Infura who specialize in providing state. The idea is that a marketplace will spring up whereby people store the data on behalf of others.”
+4. Ethereum will lose the ability to execute transactions atomically.
+Perhaps most importantly for dapp developers: the next major iteration of the network will break the ability for transactions on ethereum to occur atomically, meaning all at once.
+Developers will no longer be able to execute transactions between different applications such that, if one transaction fails, the entire series of transactions can be recovered immediately. This is only possible on ethereum today because all dapps live on a single, shared blockchain network.
+Ethereum 2.0 will break up the transaction load into different shards. Theoretically, dapps creating new ethereum transactions will similarly be dispersed and hosted on differing shard networks. This introduces a new dynamic for transaction execution on the ethereum blockchain such that one shard network cannot know the full state of a different shard network instantly.
+“If I execute a transaction on Shard One and then I want to transact with something on Shard Two, it takes a whole block before Shard Two knows what happened on Shard One,” said Edgington.
+According to Edgington, this introduces “a layer of complexity” to dapp programming that is not entirely unfamiliar in the traditional computer science world.
+“Databases do this all the time. There are locking mechanisms so that I can temporarily lock the resources I am interested in and a release it later when I’m confident that everything has happened,” said Edgington.
+Mihailo Bjelic said this “asynchronous communication” is the industry standard in computer systems and networks in general.
+“It’s easier to reason about and envision any possible attack vectors or flaws in the code,” said Bjelic. But dapp developers will need time to adapt:
+Indeed, some in the ethereum community are concerned about the negative impact this change will pose to dapp composability, or as Buterin describes in his post, “the ability of different applications to easily talk to each other.”
+“[Losing] atomicity will discourage a lot of these activities, and make it harder to attract [cryptocurrency] traders,” Loi Luu, the CEO of ethereum-based token exchange platform Kyber Network, wrote in response to Buterin’s blog post .
+Couldn’t agree more. Our main and key concern regarding eth2.0/sharding is composibility breaking and fragmentation of dapp/ users. There is no easy solution for it, and every project should be prepared for the changes! https://t.co/N97QLggv8o
+— Loi Luu (@loi_luu) October 10, 2019
+Large-scale dapps requiring the capacity of multiple shards will become harder to manage, said Dieter Shirley, CTO of blockchain gaming startup (and CryptoKitties creator) Dapper Labs.
+“Moving tokens between shards is no problem. … But when we’re looking at something like CryptoKitties, it is much more than just some tokens,” he said.
+“Sharding doesn’t make anything impossible. It just makes it hard enough that certain things won’t get done.”
+5. Ethereum 2.0 will only possess about half the transaction capacity as was originally planned for launch.
+Buterin’s fifth post about Ethereum 2.0 suggests a stark reduction in the total number of shards at launch.
+The new network was originally envisaged as having an estimated 1,024 shards, but Buterin recently proposed a mere 64. The main benefit, he said, will be faster and simpler communication between shards in Ethereum 2.0.
+“This provides enough functionality to … allow users to hold coins on shards, use those coins to send transaction fees, and move those coins between shards as easily as they move them within a shard,” Buterin wrote.
+This would reduce the burden of cross-shard communication for dapp developers, according to Edgington.
+“In the previous Ethereum 2.0 design, if Shard One wanted to know the status of Shard Two, it had to wait like 64 slots, which is roughly six and a half minutes. Under this new design, shards can become aware of the other state of a shard within one slot, so around six seconds,” Edgington said.
+It will also reduce the number of complexities in the overall Ethereum 2.0 network, according to Bjelic.
+“You’re taking such an operational risk [launching 1,024 shards] which have not yet been battle-tested,” Bjelic said. “It’s easier intuitively [with 64] because there are less cross-shard messages to transfer across the network.”
+But the overall capacity of the Ethereum 2.0 network at its outset will be sizably reduced.
+“We’re targeting about half the transaction throughput of the former design,” said Edgington.
+Van Loon says that the benefit of increased cross-shard communication speeds is entirely worth it, though:
+“We don’t need 1,024 times the capacity of Ethereum right now. 64 times would be a huge increase and, if we could do faster cross-linking between shards, I think the tradeoff is really worth it. … We can grow this number later as time goes on.”
+All said, Ethereum 2.0 is still a work-in-progress and Buterin’s word is not law.
+“Just because Vitalik posts something doesn’t mean it’s set in stone. The whole reason this is put out there is to encourage discussion with the community,” said Zak Cole, founder and CEO of blockchain startup Whiteblock. His company is assisting in ethereum 2.0 protocol development. “It helps get everyone informed and understand[ing] exactly what is happening.”
+Cole has reservations about the proposals recently put out by Buterin, including the idea of creating an intermediary two-way bridge between the Ethereum PoW and PoS chains.
+“It seems pretty risky to me,” Cole said. “It’s going to require additional changes to the ETH 1.0 chain. … I don’t think we should mess with the ETH 1.0 chain.”
+Disagreements between researchers and constant changes in direction don’t worry Bjelic. The eternal state of any complex software is eternal evolution.
+“There is no final version of any software. You will always to keep improving,” he said.
+Still, Cole said having a rough understanding of “what the future is going to look like” is important.
+“You don’t start building a skyscraper without a blueprint. You don’t start building the first floor until you’re sure what the top floor is going to look like,” he said.
+Van Loon said successful public blockchain development requires good communication between researchers and dapp developers.
+“Uncertainty breeds fear,” he said, adding:
+The leader in blockchain news, CoinDesk is a media outlet that strives for the highest journalistic standards and abides by a strict set of editorial policies . CoinDesk is an independent operating subsidiary of Digital Currency Group, which invests in cryptocurrencies and blockchain startups.

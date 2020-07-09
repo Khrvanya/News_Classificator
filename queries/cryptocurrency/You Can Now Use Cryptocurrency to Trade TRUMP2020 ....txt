@@ -1,0 +1,14 @@
+Crypto derivatives exchange FTX has created a new, specialized futures contract for traders to bet on President Donal Trump’s reelection in 2020.
+Cryptocurrency derivatives exchange FTX has created a new, specialized futures contract for traders to bet on President Donal Trump’s reelection in 2020.
+Dubbed TRUMP-2020 (TRUMP), FTX announced on Feb. 5 that the contract expires to $1 if Donald Trump wins the 2020 US presidential general election, and $0 if otherwise.
+The launch of TRUMP coincides with a fresh poll from Gallup this week, suggesting that the President's job approval rating has risen to 49% — his highest in any Gallup polling since he took office in 2017.
+Among Republicans, moreover, his approval rating is up six percentage points since early January and is now three points higher than his previous best.
+The poll was conducted on Jan. 16-29 in the midst of the Senate impeachment trial — which has since resulted in the president’s acquittal .
+As FTX outlines, setting interest rates, fees, inefficiency, spread aside, the price of one TRUMP contract should equal the probability that Trump is reelected: i.e. a 52% likelihood would mean the contract should theoretically trade at $0.52.
+All risk calculations on the contract are based on a "risk price" of $5 per contract, with the following required margins for one TRUMP:
+Required margins on the FTX TRUMP-2020 futures contract. Source: ftx.com
+However, for those going long, the maximum initial and maintenance margin is the mark price, and $1-mark price for those going short.
+With the election scheduled for Nov. 3, 2020, FTX says it will settle the contract once all the major media outlets have unanimously projected a candidate as the winner — without necessarily waiting for the official vote tallies on a state-by-state basis to be fully concluded.
+Notably, trading on FTX is not open to U.S. residents, nor to those in the E.U., U.K, Hong Kong, Singapore and other barred jurisdictions.
+Aside from being subject to market speculation, Trump’s interactions with the crypto community have until now been fractious: he notoriously scathingly opposed both Bitcoin ( BTC ) and Libra via his favorite medium, Twitter, in summer 2019.
+Yet this too, provided some fuel for traders, with many in the industry thanking him for the “no news is bad news” publicity for cryptocurrency, or “Trump bump.”

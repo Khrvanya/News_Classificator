@@ -1,0 +1,37 @@
+Pivot Or Perish Market Dashboard India-China Face-Off The Future Of Covid Tracker Lounge Coronavirus India2Global Emerging Tech Conclave #WFHLife Long Reads Money With Monika, Season 4 Mint 50 - Top Mutual Funds Plain Facts Mark To Market Podcasts Money With Monika, Season 3 Companies Markets Money Start-ups Mutual Funds Insurance Technology Industry Opinion Politics
+2 min read . Updated: 03 Feb 2020, 08:24 PM IST Utpal Bhaskar
+NTPC will use loan to fund the installation of Flue Gas Desulphurization system, new hydro projects and projects using ultra supercritical technology
+Post the emission norms for sulphur oxides put in place by the govt, all thermal power projects need to install FGD systems
+State-owned NTPC Ltd has raised syndicated Japanese yen loan worth $750 million to help reduce air pollution from its power projects across the country.
+The largest ever syndicated JPY loan raised by any Asian corporate from offshore Samurai loan market and the highest ever single foreign currency loan raised by India’s largest power generation utility will fund the installation of Flue Gas Desulphurization (FGD) system, new hydro projects and projects using ultra supercritical technology.
+Post the emission norms for sulphur oxides (SOx) put in place by the ministry of environment and forests (MoEF), all thermal power projects need to install FGD systems. With air pollution becoming a major health issue, such a technology helps reduce SOx emissions.
+Air pollution has become a key election agenda in Delhi, which is faced by hazardous levels of pollution especially during winter.
+India is planning to set up a bulk of its capacity on supercritical and advanced ultra-supercritical equipment, which are more efficient. Such plants consume less coal and help in reduction of CO2 emission through better efficiency. With the country’s demand for electricity expected to go up, coal-powered generation will remain the mainstay in its energy mix.
+“In an endeavour towards sustainable and cleaner environment, NTPC would utilize these loan proceeds," NTPC said in a statement on Monday.
+India has been trying to leverage its relationship with Japan to access technology and funds. This comes in the backdrop of special arrangements for Japanese firms and banks under the Japan Plus initiative, which was started following Prime Minister Narendra Modi’s visit to Japan. At a time when multilateral funders such as the World Bank have stopped supporting coal-fuelled power projects, Japanese lending institutions and banks are willing to help India’s quest for providing power to people still living without electricity.
+Foreign loans are cheaper than those offered by local banks and financial institutions. However, even though the interest costs of foreign loans are lower, project developers have to hedge their foreign currency exposure.
+“Raised under automatic route of RBI ECB regulations, the loan has been fully underwritten by State Bank of India, Tokyo, Sumitomo Mitsui Banking Corporation, Singapore and Bank of India, Tokyo," the statement said and added, “The facility has a door to door maturity of 11 years under two tranches."
+NTPC has an installed capacity of 58,156 MW through its 55 power projects, 10 Joint Venture projects and 11 clean energy projects.
+* Thank you for subscribing to our newsletter.
+Click here to read the Mint ePaperLivemint.com is now on Telegram. Join Livemint channel in your Telegram and stay updated
+You are now subscribed to our newsletters. In case you can’t find any email from our side, please check the spam folder.
+lozad('.lozad', { load: function(el) { el.src = el.dataset.src; el.onload = function() { el.classList.add('fade')}}}).observe()
+.myAccount .planSec, .myAccount a.LinkCTA{padding:16px; margin:16px; box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.1); background-color: #fff;}
+	       		var userData = data;
+	       		var name = userData.name;
+	       		var email = userData.email;
+	       		var signupSource = userData.source;
+	       		var subscribedAtOnce = userData.subscribedAtOnce;
+	       		var plan  = userData.plan;
+	       		document.getElementById('uName').innerHTML = "<strong>"+name+"</strong>" + email;
+		       		var status = planData.status;
+		       		var purchaseSource = planData.source_device;
+			       		var nextActivationDate = planData.current_term_ends_at;
+			       		var planDescription = planData.plan.description;
+			       		var planName = planData.plan.name;
+			       		var planPrice = planData.amount;
+			       		//var planInterval = planData.shipping_interval;
+			       		var planInterval = planData.duration;
+			       		var planUnit = planData.interval_unit;
+			       		//var html = "<strong>Your Subscription Plan</strong>"+planName+" ₹"+planPrice+" / "+planInterval+" " + nextBillingHtml + cancelHtml; 
+			       		var html = "<strong>Your Subscription Plan</strong> "+planDescription + " "+ planName +": ₹"+planPrice + " "+ nextBillingHtml + cancelHtml;

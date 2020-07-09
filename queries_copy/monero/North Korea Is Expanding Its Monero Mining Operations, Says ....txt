@@ -1,0 +1,12 @@
+North Korea Is Expanding Its Monero Mining Operations, Says Report
+North Korea is stepping up mining of the privacy coin monero as the regime continues its efforts to circumvent sanctions.
+U.S. cybersecurity firm Recorded Future said in a report Sunday that network traffic for monero (XMR) mining that had originated from North Korean IP ranges had increased by “at least tenfold” since May 2019, making it the most popular digital asset to mine and surpassing the regime’s mining activity for bitcoin (BTC).
+The report attributes the changing preference for monero to the fact XMR mining can take place on non-specialized machines, such as conventional computers, which lowers operating costs and negates the need to import mining rigs from abroad.
+Monero transactions are also anonymous, making it easier for North Korea to “evade attempts to track funds” as well as circumvent sanctions imposed on the regime by the U.S. and the U.N. Security Council, according to Recorded Future.
+“We assess that cryptocurrencies are a valuable tool for North Korea as an independent, loosely regulated source of revenue generation, but also as a means for moving and using illicitly obtained funds,” its report reads.
+Recorded Future’s report said the regime’s mining activity had been obfuscated with proxy IP addresses, meaning analysts could not determine the share of the XMR hashrate for which North Korea was responsible.
+Although a U.N. study previously suggested a branch of the North Korean military was responsible for the regime’s crypto mining activity, Record Future’s study was not able to say which entity was responsible based on the data it collected.
+Related: Monero Hacker Group ‘Outlaw’ Is Back and Targeting American Business: Report
+Monero has been used by North Korea since at least August 2017 when operatives involved in the WannaCry attack exchanged extorted bitcoin into monero. The regime’s bitcoin mining activity has remained relatively static over the past two years, according to the report.
+Monero is the preferred cryptocurrency for many illicit and criminal organizations. A Japanese cybersecurity firm reported this week the mysterious hacking group Outlaw had developed a range of sophisticated crypto mining bots that can infiltrate enterprise computer systems to covertly mine monero.
+A year ago it was estimated that crypto malware had mined almost 5 percent of all monero.

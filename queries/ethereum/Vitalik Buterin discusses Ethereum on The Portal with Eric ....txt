@@ -1,0 +1,18 @@
+American mathematician and economist Eric Weinstein recently interviewed Ethereum co-founder Vitalik Buterin on his popular YouTube show The Portal.
+While I personally think Weinstein did not fully understand what Ethereum is about and how it works, Vitalik was smart enough to shift the conversation to more interesting topics .
+In this article, I’ll take a look at the good and the bad of the interview, available below, and discuss how I see Ethereum evolving.
+Even though some people might think I’m a Bitcoin maximalist due to my harsh stance on some of Ethereum’s promises and the foundation’s inability to keep them, my core belief is that Ethereum is a sleeping giant waiting to be woken up.
+Ethereum is an incredible network. Not only because of its Ethereum Virtual Machine (EVM) and Solidity compiler or its easy-to-use developer interfaces (Mist, MyEtherWallet, and MetaMask), but also because of the quantity of projects being developed on top of its protocol.
+That is Ethereum’s killer application.
+Still, I am a firm believer that for Ethereum to become a fully decentralised world computer, its main focus should be on decentralisation .
+I’m personally looking forward to both of the platform’s upcoming Proof-of-Stake (PoS) implementations, Casper FFG and Casper CBC, in the hope that one of them increases scalability and decentralisation – even though the trade-off is less long-term security.
+With the development of a scalable PoS system and the implementation of sharding and ZK-snarks , we could really see Ethereum making an attempt to rule decentralised computing.
+Not only that, but the Ethereum Foundation is forming new partnerships with major players like Microsoft and Google in order to increase corporate adoption. The truth is that corporations are the ones capable of financing large-scale developments and training large quantities of people.
+The Ethereum ecosystem is also making strides to enhance Ethereum’s censorship resistance and privacy. Two examples of projects getting traction in these areas are ChainLink and Enigma.
+My stance is that Ethereum ticks all of the boxes to win most of the smart contract market share. Bitcoin is clearly not interested in that (a pity in my opinion), since the only “altcoins” being built over Bitcoin apparently exist solely on Liquid – a centralised Bitcoin sidechain.
+Because Ethereum promotes open-source development and is capable of funding and assisting ERC projects, I see a great deal of developers looking to build DeFi dApps on the platform.
+One of the most interesting and controversial points of the interview above is the fact Vitalik openly admits to selling ETH tokens to cover the cost of operations during the platform’s early days.
+During the bull run of late 2017, Vitalik was apparently able to convince the Ethereum Foundation to sell a lump sum of about 70,000 ETH, over $80,000,000 at the time.
+Even though some people might not see a problem with that – I know I don’t – the truth is open-source projects like Ethereum should be straightforward with investors, especially when the message from the founding team at the time was “we’ll decentralise everything”.
+I believe the correct approach to be Litecoin founder Charlie Lee’s – one of openly stating how much LTC he sold during that time. If projects want to captivate investors, they should maintain high standards of openness.
+To conclude, I don’t think dumping coins on investors at the top to finance the project long term was a bad move, especially since the market was seriously overbought. However, since the project is open source, the amounts should have been disclosed much sooner.

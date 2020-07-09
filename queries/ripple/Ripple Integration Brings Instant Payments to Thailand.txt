@@ -1,0 +1,9 @@
+The partnership between Azimo and a Thai bank aims to deliver instant remittance payments with RippleNet.
+Digital money transfer service, Azimo, has partnered with Siam Commercial Bank (SCB), the oldest bank in Thailand, to launch an instant cross-border payments service from Europe to Thailand through Ripple’s global payments network, RippleNet.
+According to an announcement on April 9, the solution aims to solve the challenges of expensive and unreliable global payments. They state that through their platform, remittances from Europe to Thailand will take less than a minute to complete.
+Historically, remittances between Europe and Thailand often take more than one whole business day to settle. Azimo on the other hand can clear Sterling Pound and Euros into Thailand’s Baht almost instantly.
+Michael Kent, Azimo’s co-founder and executive chairman, highlighted that many countries are utilizing this type of instant payment solution. He added:
+“Thailand recently launched their instant payment network, and this partnership with the largest bank in the country allows us to get the time to settle payments down from around 24 hours to an average of 22 seconds. [It’s] faster to send money to Thailand than to someone else in Europe.”
+According to figures from the World Bank, Thailand is one of the main remittance destinations in the world, receiving nearly $6.7 billion a year each year. It is also one of the most expensive countries to send and receive money, however.
+The partnership comes shortly after Azimo launched RippleNet's On-Demand Liquidity service as part of its expansion into the Philippines. The service intends to launch in other countries over the coming months as well.
+Cointelegraph reported on January 8 that the SCB had partnered with Ripple to create a blockchain-based mobile app to allow low-cost cross-border payments.

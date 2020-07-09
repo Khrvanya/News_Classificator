@@ -1,0 +1,38 @@
+Written by Lauri Kasanen in Hardware on 31 July 2019 at 09:19 AM EDT. 5 Comments
+A Phoronix reader has talked about the efficiency of using Raptor Computing Systems' open-source Blackbird POWER9 desktop system for Monero cryptocurrency mining in 2019.
+My Blackbird from the Black Friday sale had finally arrived. How to best burn it in, if not 
+Back in 2017, when Monero was using the CryptoNightV7 algorithm, Phoronix reported that POWER9 had higher mining efficiency than the common x86 
+processors. There have been two algorithm changes since then, and a third one is coming this 
+October. How does POWER9 fare now?
+You're probably familiar with the Blackbird by now, with Phoronix having a 4-core unit for 
+benchmarks. Mine was bundled with the 8-core option, but is otherwise similar. Build specs:
+8-core POWER9, 3.45GHz base / 3.8GHz turbo, 160W TDP, SMT4
+the processor's), so I used a simple watt meter to take measurements. When off, with just the 
+it. It kept showing 0 W, so presumably it's under a Watt. At idle, 55 W.
+miner for POWER by nioroso-x3, xmrig. Git version fcf639e8274 was used for the tests. Huge 
+pages were enabled, spectre/etc protections at their defaults.
+For each SMT mode, I tried six thread options. The SMT scaling is as expected, 
+at SMT1 there are eight threads, and performance drops after; at SMT2 16 threads, and a 
+visible, with SMT1 having the highest result at eight mining threads.
+In SMT4, the efficiency scaling is quite nice, showing that a mere eight-core is not even 
+close to the bottleneck here.
+Efficiency per Watt continues to scale well, but it's far from the x86 options. Intel 
+processors get about 5 hashes/s/W, while AMD gets about 10. In its best config, this POWER9 
+cpu only got 2.86. Temps stayed quite reasonable, about 70 C at max.
+So, for the current algorithm, CryptoNight/R, POWER cannot match the x86 options. According 
+to the miner author, it is fully optimized already. What about profitability?
+According to whattomine.com 's calculator, 575 hashes/s 
+would result in 0.00003 BTC/day, 0.27 $ at the current prices. A day's electrity use would be 4.824 kWh, and at a cost of ten 
+cents per kWh, cost 48 cents. A loss of 21 cents a day, at current prices anyway; someone 
+mining to hold may have a different view.
+Would winter heating change the picture? For me with district heating, 
+one kWh of heat costs about 6 cents. The system output 4.824 kWh a day, which would save 
+28.9 cents of heating costs/day. That would tip the scales to 7.9 cents profit/day.
+Before wrapping things up, we do have to consider the October algorithm change. The RandomX 
+algorithm penalizes GPUs even more, and has the potential to change things in CPU rankings 
+I tested git version 5d815c57c086 of tevador's randomx-benchmark.
+acceleration, but it lacks the JIT support of x86 and arm64. The README states the JIT has 
+at least 10x of an effect on hash rates. It affects the startup costs too; on x86, the 
+memory initialization phase takes 5-10 s, here it took 192 s.
+Intel Core i9-9900K is reported to get 5770 hashes/s using eight threads, while AMD Ryzen 7 
+1700 at the same thread count gets 4100. Our 120 is quite far off, but should someone port 

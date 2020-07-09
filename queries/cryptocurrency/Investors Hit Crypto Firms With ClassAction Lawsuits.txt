@@ -1,0 +1,10 @@
+Seven cryptocurrency issuers and four crypto exchanges are facing federal class action lawsuits.
+Filed in U.S. District Court in Manhattan on Friday (April 3) by investors, the lawsuits allege that 11 defendants violated U.S. securities laws, when they sold billions of dollars in unregistered assets, according to a Reuters report .
+The 11 lawsuits allege that the tokens were unregistered securities, that their issuers failed to follow appropriate registration requirements and that the token exchanges violated exchange and broker-dealer registration rules.
+Named in the complaint are exchanges Binance, Bibox, BitMex and KuCoin, and issuers Tron, Block.one, Bancor, Civic, Kybercoin, Status, and Quantstamp, according to the report.
+In a statement on Monday, Philippe Selendy, a parter at Selendy & Gay in New York City and one of the lead attorneys for the investors, compared the suit to the mortgage crisis that led to the Great Recession.
+“The alleged pattern of misconduct by exchanges and issuers yielded billions in profits for wrongdoers through a basic betrayal of public trust,” he said.
+In addition to accusing the issuers and exchanges of selling unregistered digital assets, the lawsuits allege that the exchanges gained financially from the practice. In one case, the Binance lawsuit claimed the exchange took in fees from issuers that often exceeded $1 million.
+Block.one acknowledged the lawsuits in an emailed statement to Reuters, saying, “We are aware of the opportunistic complaints filed against several blockchain and cryptocurrency companies.” The firm added in its statement, “We have not been served with any claims but are well prepared to address anything that may arise.”
+BitMex said it had received the lawsuit and was reviewing it, but declined comment.
+The company agreed to settle the charges by paying a $24 million civil penalty.

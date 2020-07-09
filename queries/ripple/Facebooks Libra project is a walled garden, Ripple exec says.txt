@@ -1,0 +1,14 @@
+Ripple's Marcus Treacher says Facebook's Libra project is  a "walled garden" — in other words, a closed system.
+The proposed libra token will be managed by a Switzerland-based organization known as the Libra Association.
+Treacher adds that it is, however, still a "really good thing" that a Silicon Valley giant is playing a role in the  space.
+A Facebook cryptocurrency libra logo seen displayed on a smartphone.
+Facebook's plan to create a digital currency comes with one major flaw, according to an executive at blockchain start-up Ripple.
+Marcus Treacher, Ripple's senior vice president of customer success, told CNBC earlier this week that a big problem with the social network's Libra project is that it's a "walled garden" — in other words, a closed system.
+The term has in the past been applied to tech companies like Facebook and Apple in relation to the control they have over their software and apps.
+Facebook's proposed libra token will be managed by a Switzerland-based organization known as the Libra Association, whose members include Visa, PayPal and Uber . The coin would be tied to user deposits in currencies like the dollar and held in a digital vault known as the Libra Reserve.
+Ripple is known for its blockchain-based payments network that is used by some of the world's largest banks to move money across borders in real time. Blockchain, originally known as the network behind bitcoin, is a digital ledger that records data across a network of computers dispersed around the world.
+Treacher said that Ripple, by contrast with Facebook, has "no walled garden": "Yes it's a network, but it has no perimeter. It connects with all of the players that want to use the technology."
+The Ripple exec added that it was, however, still a "really good thing" that a Silicon Valley giant like Facebook was playing a role in the digital asset space.
+The social media giant's plans for a digital token have come under intense scrutiny from global regulators amid concerns it could heavily disrupt the financial system. The worry for many governments, Treacher said, is that libra is "threat to currencies."
+Ripple hit headlines in late 2017 and early 2018 amid a monster rally in cryptocurrencies which saw XRP — a token the firm uses — soar to a record high of more than $3.
+Prices saw a massive retracement the following year, and XRP was last trading at about 24 cents, according to CoinDesk data.

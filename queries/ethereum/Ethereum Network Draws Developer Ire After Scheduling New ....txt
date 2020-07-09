@@ -1,0 +1,14 @@
+The organization behind ether, the world’s second-largest cryptocurrency, is drawing criticism from developers after scheduling an upgrade on New Year’s Day – a work holiday in most countries.
+The Ethereum Foundation on Monday announced the plan to implement the “Muir Glacier” upgrade on Jan. 1. The upgrade will take place when the ethereum network hits its 9.2-millionth block, said a blog post on the organization’s website.
+The upgrade would come just less than a month after the network’s last upgrade in early December, known as “Istanbul.”
+According to the blog post, node operators and cryptocurrency miners have to download the latest version of client software to comply with the new terms, rules and procedures stipulated under the upgrade.
+The main purpose of the Muir Glacier upgrade is to delay a planned increase in the difficulty of mining new units of cryptocurrency by an estimated 611 days, according to a Dec. 16 post on the blog Ethereum Cat Herders, which is dedicated to community-led project management on the blockchain.
+The delay comes amid concerns that the so-called “difficulty bomb” would essentially increase the time needed to confirm new blocks of data on the network, resulting in a “degradation in the usability of ethereum due to waiting for confirmation for transactions.”
+The upgrade was expected, but the move to schedule it for New Year’s Day sparked a negative reaction among some network users who had planned to take the day off along with colleagues.
+Jorge Izquierdo, CEO of Aragon One, which allows groups of people to form organizations using the ethereum blockchain, tweeted that he’s “trying hard not to be negative about ethereum lately.”
+“Now someone from my team has to work on a day that they were free,” he wrote.
+In a subsequent tweet, Izquierdo wrote that Aragon wouldn’t implement the upgrade on his platform’s infrastructure until Jan. 2.
+According to Ethereum Cat Herders, the latest upgrade was needed “so soon after the last one” because prior estimates of the timing of the difficulty increase proved wrong.
+“In order to avoid a delay with the Istanbul upgrade, it has been decided to address the difficulty bomb aka Muir Glacier upgrade as a separate one,” according to the post.
+Ether, the main cryptocurrency for the ethereum network, was changing hands at $129 on Monday as of 5:26 p.m. universal coordinated time (12:25 p.m. in New York), down 0.7 percent over the prior 24 hours. That was the worst performance among digital assets with a market capitalization of at least $1 billion, according to the data provider Messari.
+By contrast, bitcoin, the largest cryptocurrency, was up 2.3 percent to $7,455.

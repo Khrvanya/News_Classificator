@@ -1,0 +1,5 @@
+The Litecoin Foundation announced on May 7 that it would migrate from the multi-sig Electrum-LTC wallet to BitGo’s multi-sig wallet.
+The Litecoin Foundation announced that it will migrate from the multi-sig Electrum-LTC wallet to BitGo’s multi-sig wallet.
+According to a May 7 post on the company’s website , the move is due to BitGo’s wallet providing “greater convenience and nearly the same level of security.” The old Electrum-LTC addresses will be available online for one month, with the new BitGo wallets addressed to be published soon.
+The price of Litecoin ( LTC ) rose 5% following the announcement, but experienced a similar downturn as Bitcoin ( BTC ) during the halving dump on May 9.
+Litecoin recently posted a progress update on the cryptocurrency codebase’s Mimblewimble integration , claiming that a testing framework had been built and codebase integration had started. According to developers, Mimblewimble should be running on the Litecoin testnet by the end of the summer.

@@ -1,0 +1,35 @@
+2 min read . Updated: 01 Jul 2020, 06:51 PM IST Pallavi Pengonda
+The fall in gas production was sharper at about 8% in Mar quarter, compared to the 1.4% drop in crude oil production
+In 2020 so far, shares of Oil and Natural Gas Corp. Ltd (ONGC) have declined about 37% from their highs in January. As it turns out, the state-run oil and gas producer’s March quarter results announced late Wednesday don’t inspire much confidence.
+True, standalone revenues at ₹21,456 crore, representing a 20% year-on-year decline, were ahead of Street estimates. Net crude oil price realizations declined by almost 21% to $49.01 a barrel, in line with lower crude prices globally. Oil and gas volumes declined by 7.3% and 10.6%, respectively.
+An increase of 11% in other expenses weighed on profits, especially when other components of operating costs have declined. Earnings before interest, taxes, depreciation and amortization (Ebitda) fell 30.6% to ₹8,588 crore. Further, other income declined sharply and there was also an impairment loss of about ₹4,900 crore pertaining to the implications of covid-19 on business conditions. The upshot: ONGC reported a net loss of ₹3,098 crore.
+Analysts from Edelweiss Securities Ltd said in a report on 30 June, “Impairment is now a global phenomenon with majors Shell and BP Plc too planning to take hit thereof."
+After a disappointing end to FY20, prospects for the ONGC stock are not turning brighter. Brent crude prices had dropped to a low of $19 a barrel in April, weighed down by demand concerns due to covid-19 .
+While prices have since recovered to about $42 per barrel, triggers for a meaningful jump in oil prices are few and far between as the pandemic is likely to keep a check on demand in the near to medium term. This won’t augur well for ONGC as higher oil prices translate into better realizations for the company.
+Production is another area of concern. For the March quarter, the fall in gas production was sharper at about 8% compared to the 1.4% drop in crude oil production. Of course, investors will watch for visible improvements on this front.
+Here, the outlook on oil production growth remains subdued whereas gas production is expected to be relatively better.
+Edelweiss expects ONGC’s ₹80,000 crore worth of projects under implementation to revive gas production from FY20-23E.
+Still, sentiments for the stock are not running high. Kotak Institutional Equities reiterates its “sell" rating on the stock, given expected sharp decline in domestic gas prices, recurring disappointment on volumes, elevated operating/ capex costs and policy apathy amid weak oil cycle.
+* Thank you for subscribing to our newsletter.
+Click here to read the Mint ePaperLivemint.com is now on Telegram. Join Livemint channel in your Telegram and stay updated
+You are now subscribed to our newsletters. In case you can’t find any email from our side, please check the spam folder.
+lozad('.lozad', { load: function(el) { el.src = el.dataset.src; el.onload = function() { el.classList.add('fade')}}}).observe()
+.myAccount .planSec, .myAccount a.LinkCTA{padding:16px; margin:16px; box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.1); background-color: #fff;}
+	       		var userData = data;
+	       		var name = userData.name;
+	       		var email = userData.email;
+	       		var signupSource = userData.source;
+	       		var subscribedAtOnce = userData.subscribedAtOnce;
+	       		var plan  = userData.plan;
+	       		document.getElementById('uName').innerHTML = "<strong>"+name+"</strong>" + email;
+		       		var status = planData.status;
+		       		var purchaseSource = planData.source_device;
+			       		var nextActivationDate = planData.current_term_ends_at;
+			       		var planDescription = planData.plan.description;
+			       		var planName = planData.plan.name;
+			       		var planPrice = planData.amount;
+			       		//var planInterval = planData.shipping_interval;
+			       		var planInterval = planData.duration;
+			       		var planUnit = planData.interval_unit;
+			       		//var html = "<strong>Your Subscription Plan</strong>"+planName+" ₹"+planPrice+" / "+planInterval+" " + nextBillingHtml + cancelHtml; 
+			       		var html = "<strong>Your Subscription Plan</strong> "+planDescription + " "+ planName +": ₹"+planPrice + " "+ nextBillingHtml + cancelHtml;

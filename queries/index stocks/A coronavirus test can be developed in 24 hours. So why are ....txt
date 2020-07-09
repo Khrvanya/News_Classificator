@@ -1,0 +1,93 @@
+A coronavirus test can be developed  in 24 hours. So why are some countries still struggling to diagnose?
+Updated 0813 GMT (1613 HKT) March 25, 2020
+Chat with us in Facebook Messenger. Find out what's happening in the world as it unfolds.
+In the first week of January, reports emerged that a mysterious new form of pneumonia had affected dozens of people in China. Some were in a critical condition, and a number had invasive lesions on both lungs.
+Thousands of miles away in Berlin, German scientist Olfert Landt was already on alert. For 30 years, he had worked on diagnosing emerging diseases, including Severe acute respiratory syndrome (SARS). He wanted to make a test kit to help doctors diagnose the disease -- and he wanted to do it fast.
+Virologists usually wait until the genetic material of a new virus is sequenced to start working on a test. This time, Landt and his 30-strong company TIB Molbiol got started early. By January 9 they had designed their first test kit using SARS and other known coronaviruses as references. Along with scientists from a local university hospital, he designed three kits, meaning once the sequence was published, they could pick the one that worked best.
+Olfert Landt with his coronavirus diagnostic test kit at his production facility in Berlin, Germany, on March 6, 2020.
+On January 11, Landt sent his kit to Taiwan's Centers for Disease Control and diagnostic company Roche in Hong Kong. He didn't know for certain that it would work, and he hadn't even prepared instructions.
+Over the weekend, he worked up a manual and emailed it over. "We said, listen, you have six tubes without any instructions," he recalls. "Give them to the test laboratory, you can test patients with this."
+In the end, the test he sent over was perfect, he said. On January 17, the World Health Organization (WHO) published Landt's protocol online, making it the first test to be shared by the organization.
+Landt estimates he has manufactured four million tests by the end of February, and another 1.5 million each week since then. Each kit -- which includes 100 tests -- has sold for at least 160 euro ($173) each to clients in Saudi Arabia, South Africa, Australia, Europe, with his two adult children helping label and pack the kits. His wife, who has worked for the company for 15 years, is also involved.
+"I'm not working for money. I take the money, yes, it's fair, we do good work," he said. "But in the end, we don't need money."
+The test kit Olfert Landt designed, displayed at his production facility in Berlin, Germany, on March 6, 2020.
+When it comes to stopping the spread of a pandemic, testing is key. If a person is diagnosed, they can be isolated from others and treated appropriately. As WHO Director-General Tedros Adhanom Ghebreyesus said earlier this month : "We have a simple message for all countries: test, test, test."
+But nearly three months after Landt first noticed reports of a mysterious disease, countries around the world are still struggling to test for Covid-19, the infectious disease caused by a new novel coronavirus. Some tests are inaccurate, others took a long time to create, and now testing companies are warning they are running dangerously low on materials.
+That raises an important question: if a test can be developed so quickly, why are some countries still struggling?
+In Hong Kong, virologist Leo Poon was also watching the developments unfold in January.
+Like Landt, he had worked on emerging diseases for years. In 2003, it was his team of scientists at Hong Kong University (HKU) who identified that SARS, which had emerged the year before in mainland China, was a coronavirus.
+"Because we have gone through all these events in the past, we know how important it is to have a working diagnostic test," he said. "That's why we basically tried to get the work done as soon as possible."
+But unlike Landt, Poon waited for the sequence.
+Dr Leo Poon Lit-man on the University of Hong Kong campus in Pok Fu Lam.
+All forms of life have a type of molecule that carries their genetic instructions. In humans, and most life forms, that's DNA -- the genetic material that tells us to grow two legs and walk upright. Instead of DNA, many viruses -- including hepatitis, Ebola, and rabies -- have RNA, or ribonucleic acid, which, like DNA, is a nucleic acid that carries genetic information.
+Across the border from Hong Kong in mainland China, scientists were working to identify the RNA of the new virus. According to a report in Chinese news magazine Caixin, the new virus now known as SARS-CoV-2 may have been mostly sequenced as early as December 27.
+But it wasn't until January 11, that the sequenced genome was posted on open-source site virological.org on behalf of Zhang Yongzhen, a professor from Shanghai's Fudan University. Chinese authorities shared the sequence on January 12.
+Once Zhang shared the sequence, Poon's team started work.
+First, they looked at the RNA of the new coronavirus, and decided their test would target parts of the code that were similar to the RNA of the SARS coronavirus -- parts that would be less likely to mutate, as they were essential to the virus.
+The standard way to detect a virus is using a technique called polymerase chain reaction (PCR). Invented in the 1980s, PCR is used for a range of things, from identifying the DNA of a suspect at a crime scene, to testing whether a crop of fruit is infected with a virus.
+PCR tests are made up of ingredients called reagents, which include primers and probes.
+Before running a PCR test, the RNA in a virus has to be turned into a DNA copy. Then, the primers look for the target regions within a gene. If they find the gene targets, then these regions are copied over and over, explained Maureen Ferran, an associate professor of biology at Rochester Institute of Technology.
+Each time a copy is made of the DNA, light will be emitted. If there's a lot of light, that indicates the presence of the genetic material that identifies the virus -- meaning that a person has tested positive for the virus.
+Most kits have at least two genetic targets, to improve the reliability of the result.
+December 31: Cases of pneumonia detected in Wuhan, China, are first reported to the WHO.
+January 5: China announces that the unknown pneumonia cases in Wuhan are not SARS or MERS.
+January 7: Chinese authorities confirm that they have identified the virus as a novel coronavirus, initially named 2019-nCoV by the WHO.
+The Wuhan Municipal Health Commission announces the first death caused by the coronavirus.
+Berlin scientist Olfert Landt and his team send their test kit to Hong Kong and Taiwan.
+January 12: Chinese authorities share the sequence on January 12.
+January 16: Hong Kong University scientists submit their kit to the World Health Organization.
+January 17: A top health official says the US Centers for Disease Control and Prevention has made its own test, without using the protocols published by the WHO.
+February 11: The WHO names the coronavirus Covid-19.
+All this is taking place on a tiny scale -- in test tubes, within a diagnostic machine. The diagnostic machine measures the level of light, and compares it with the positive control -- usually a sample of the virus. If the positive control doesn't test positive, then scientists will know that the test isn't working.
+Developing a test is not difficult, according to Nathan Grubaugh, an assistant professor of epidemiology at Yale School of Medicine. The trick is making sure it doesn't pick up other viruses, too.
+Within six days of getting the sequence, Poon had a working test.
+Like Landt's kit, Poon's test can pick up SARS and Covid-19. Poon says that isn't an issue, as there isn't currently a SARS outbreak.
+In the months since, Poon has sent tests for free to more than 40 countries all over the world, including Egypt and Cambodia. Each country only gets one kit, which costs between 4,000 to 5,000 Hong Kong dollars ($515 to $644) and can be used to test 100 samples. Some countries, like Nepal, have sent their samples to Hong Kong University to test. The idea is to "buy some time" for countries, so they have a test while mobilizing resources to create their own.
+But while companies like TIB Molbiol are making money from their kits, Poon and his team have reallocated funding from other projects to their Covid-19 test kits, and are essentially working for free.
+"We don't have money, we have zero resources," said Poon. "We are just distributing it from our good will."
+Others, too, having been giving away vital information for free. The WHO lists seven protocols on its website -- they are essentially how-to guides for scientists hoping to make their own test kit. Both Landt and Poon's tests are laid out in detail.
+"The (intellectual property) issue is not what we care about in this public health crisis," Poon said. "What drives us to do this work is to try to react to these emerging infections so we can save more lives."
+In mid-January, in Gisborne, a sunny city on the coast of New Zealand, John Mackay got a request from the government's National Reference Laboratory -- he needed to buy materials to detect the coronavirus.
+Mackay, the technical director of diagnostics lab Dnature, emailed Landt. "Olfret, if this is playing out like SARS, I'm guessing you have the kits sitting on the shelf ready to go immediately," he recalls writing that afternoon.
+Within half an hour, there was a reply from Landt, despite it being early morning, Berlin time. "Yes, do you want some?"
+"The guy is a complete workaholic," Mackay said of Landt. "He's a phenomenal guy."
+The kits were sent to New Zealand, and around a month before the country would have its first case, the authorities were ready to test.
+It was a similar situation in Australia. Like New Zealand, they had no samples of the virus, so they referred to tests developed overseas, according to William Rawlinson, the director of Serology, Virology and OTDS Laboratories, which leads much of the testing in the Australian state of New South Wales. Even before Australia had its first case, it had kits.
+Other countries decided to go it alone.
+One of the earliest tests was developed in mainland China by the country's Center for Disease Control. By January 24 , its protocol had been posted on the WHO website.
+Health workers dressed in personal protective equipment await new patients at a drive-thru coronavirus testing station in Stamford, Connecticut, on March 23, 2020.
+But as the outbreak raged in mainland China in early February, a number of people tested negative , only to later test positive. In a report in Chinese state newspaper China Daily, Gao Zhancheng, head of the respiratory and critical care department at Peking University's People's Hospital, said a number of factors could have impacted testing besides the test itself, including the way doctors took the sample, and the circumstances at laboratories.
+Initially, China also appeared to struggle with a shortage of PCR test kits -- so much so that China's Ministry of Science and Technology called for research into other types of tests, according to state media Xinhua . Some people were forced to wait to be tested as China's health care system was stretched by the outbreak.
+On January 17 -- the same day that the WHO published Landt's protocol -- a top health official said the US Centers for Disease Control and Prevention had made its own test, without using the protocols published by the WHO.
+The agency announced on February 5 that it would begin shipping kits. Soon after, some labs reported that the tests were not working, meaning some had to be re-manufactured. It's not clear how the defect happened.
+It's easy to see how Landt and Poon's early work helped other countries buy time and prepare for an outbreak. But neither Landt nor Poon have the capacity to make enough tests for the whole world.
+And there are other also reasons why the world needs multiple test kits.
+For one, scientists don't know for sure at first that their test will work. In the US, for instance, the manufacturing defect created a lag in testing -- if everyone in the world had been reliant on that one test, that would have created an even bigger problem.
+Another issue is that the virus could potentially mutate in such a way that one kit no longer works. If a test targets Covid-19's "N" gene, for instance, and the virus mutates so that gene no longer exists, then the kit will not pick up the virus.
+Another consideration is that a test that works in one country might not work in another, said Rawlinson. If, hypothetically, the presence of dengue fever caused a test not to work, and a country had a large rate of dengue fever, then there might be a high rate of false negative, he said.
+Having a range of tests also puts less pressure on one manufacturer or supply chain, as different suppliers may use different materials.
+In the US, for instance, medical officials have said they are short of test supplies, including swaps, reagents, and pipettes -- the tools for transporting liquids. The shortage forced Minnesota and Ohio to limit testing to the most vulnerable patients. Japanese test distributor Kurabo, which makes a different type of test that looks for antibodies, claims its test only takes 15 minutes to give a result -- and use blood samples rather than swabbed specimens.
+A test kit designed by the US Centers for Disease Control and Prevention.
+Test supplier Roche Diagnostics Corporation says it is distributing 400,000 tests per week to labs in the United States, but that isn't enough to keep pace with demand. "At the height of any global health emergency, demand will outweigh supply," said company spokesman Michael Weist.
+Ferran said testing could have changed the US's infection rate.
+"If we had better testing early on, we could have really changed the rate of infection. But we can't go back," she said. "We just have to go forward and learn from this and have this not happen again."
+Put bluntly, some countries have squandered the opportunity to prepare that Poon and Landt's early work gave them.
+Both the United States and the United Kingdom have been criticized for being slow to test, and for not testing enough people.
+US Centers for Disease Control and public health labs have tested more than 71,000 specimens, according to CDC's website , although Vice President Mike Pence said Sunday that 254,000 Americans have been tested so far. As of March 22, the United Kingdom had tested 72,818 people.
+That's in stark contrast with the approach of other countries.
+In the tiny island nation of Iceland, health authorities have undertaken comprehensive screening . As of March 21, more than 9,700 of the country's 350,000 population had been tested.
+In South Korea, the government has made testing incredibly accessible, including at drive-through labs. That has seen the country test over 300,000 people out of its 52 million population .
+And in New Zealand, where there are 102 confirmed cases, about 1% to 2% of tests are coming back positive, compared with 5% in the UK and 13% in the US, according to the Ministry of Health's Director-General of Health, Ashley Bloomfield.
+"We're doing a lot of testing comparatively," he said. "We want to find the cases which is why we're testing where there's suspicion."
+Poon says there are a number of reasons why some countries have been slow to test -- some are practical, others administrative.
+Testing requires trained staff, the right equipment, and the right materials -- a lack of any of those could hold up testing.
+In the US, there has been an additional bureaucratic hoop. In some countries, tests can be used almost immediately due to different rules around emerging diseases.
+A medical professional is seen at a preliminary testing facility at the National Medical Center where patients suspected of contracting coronavirus are assessed on February 21, 2020 in Seoul, South Korea.
+At first, in the US, all tests required  authorization from the Food and Drug Administration (FDA). More than 100 virologists and other specialists wrote a letter to Congress on February 28 which said many labs had validated tests for coronavirus but they could not use them due to the FDA's protocol for allowing tests during outbreaks.
+The FDA has now allowed companies to manufacture and ship tests before receiving permission.
+Thanks to the loosened rules, private companies have been able to speed up their response. US company Quest Diagnostics, for instance, launched its new test on March 9 and expects to be able to perform 280,000 tests per week by the start of April.
+To people like Landt, inaction from politicians is frustrating.
+He recalls being at the opera at the start of February, when very few people had been infected in Munich, and approaching the German Minister of Health, who he saw there by chance. "You should tell the public this is a bad disease," he recalls telling him. "Don't tell them it's only something in China."
+But the German government was slow to take vital action, such as reducing social contact. It now has more than 29,000 confirmed cases.
+"The virus must travel," Landt said, explaining whether the virus kills the host, or the host's immune system kill the virus, either way, the virus will need to find another person to infect to stay alive. "If you reduce your contact to other people, the virus can no longer travel ... One infected will infect one or two other people, so it's like an atomic bomb, it's an exponential curve," he said.
+CNN's Yoko Wakatsuki and Rebecca Wright contributed additional reporting from Tokyo.

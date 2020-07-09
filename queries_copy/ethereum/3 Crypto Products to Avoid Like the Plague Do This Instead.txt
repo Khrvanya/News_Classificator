@@ -1,0 +1,44 @@
+The crypto market has risen 37% this year … and it’s moving higher.
+Three crypto products are overpriced. Stay away!
+There’s a much better way to buy bitcoin and other cryptos.
+Bitcoin is back in the news.
+In this process, the payments crypto miners receive for securing the underlying blockchain get cut in half.
+A week ago, miners were getting 12.5 BTC for every new block added to the chain. After the halving, the payout is only 6.25 BTC.
+It’s as if a gold mine suddenly yielded half the amount of the gilded metal for the same amount of work.
+The halving cycle has piqued interest in “digital gold” like we haven’t seen in a few years.
+After all, increased scarcity tends to attract investors. The previous halving in 2012 and 2016 precipitated massive rallies in bitcoin.
+Last month, Barron’s mentioned the halving in its weekly editorial.
+Google searches for “buy bitcoin” are the highest they’ve been in over a year.
+And Wall Street research firm Jeffries even went so far as to tell clients to go ahead and buy ahead of the halving.
+Since January, bitcoin is up around 40%, outpacing every major asset class.
+Other crypto assets have climbed as well. The total market cap has risen 37% this year to $261 billion.
+There’s clearly an opportunity here. But investing in crypto can be tricky.
+Even though popular online brokerages such as E*Trade and Robinhood are now allowing investors to buy a few cryptocurrencies, there are still limitations to putting them in retirement accounts.
+Plus, they’ve only listed a few of the 2,000-plus tradable cryptos.
+Today, I’m going to go over the three exchange-traded notes (ETNs) that provide exposure to the crypto markets … and why you shouldn’t buy them.
+For years, bitcoin enthusiasts have tried to list exchange-traded funds (ETFs) on major stock exchanges. So far, the U.S. Securities and Exchange Commission has prevented this.
+However, there are exchange-traded notes that track the price of bitcoin, Ethereum and Ethereum Classic.
+ETNs are listed on major stock exchanges and trade like stocks.
+They differ from ETFs in that ETNs don’t allow investors to own the underlying securities. Instead, investors are paid the return that the underlying index produces.
+In the crypto ETN world, there are significant premiums to the underlying cryptocurrency, or net asset value (NAV). That means the underlying value could increase, but your ETN could decrease as the spread narrows.
+The largest ETN provider is Grayscale , which offers an assortment of single-asset and diversified ETNs.
+Here are its three biggest ETNs, and why you should avoid them.
+Grayscale’s largest product is its Bitcoin Trust (OTC: GBTC), an ETN that tracks the price of bitcoin. Grayscale charges a 2% annual fee and manages over $3 billion in assets.
+Each share of GBTC is equivalent to 1/1000 of a bitcoin.
+Currently, GBTC is trading at $11.77, while the price of bitcoin on Coinbase is $9,708. That’s about a 20% premium to NAV.
+Imagine paying a 20% brokerage fee to own shares of Apple.
+Historically, this is cheaper than GBTC’s 39.9% average premium to NAV but is still a significant premium to the underlying asset.
+The second-largest ETN is the Grayscale Ethereum Trust (OTC: ETHE), which tracks Ethereum.
+ETHE holds assets of $255 million and charges a 2.5% fee. One share of ETHE is equivalent to 0.094 Ethereum.
+Investors in ETHE are paying a significant premium for the underlying Ethereum.
+ETHE is priced at $110, equal to an underlying Ethereum price of $1,170. However, Ethereum is only trading at $202.
+That’s a 494% premium to NAV. This is significantly higher than the 224% average premium.
+There’s also the Grayscale Ethereum Classic Trust (OTC: ETCG), which tracks the price of Ethereum Classic, an offshoot of Ethereum.
+Each share of ETCG is worth 0.912 shares of Ethereum Classic. ETCG holds $65 million in assets and charges a 3% annual fee.
+Again, investors in ETCG are paying a significant premium to the underlying Ethereum Classic.
+With ETCG priced at $15.88 and Ethereum Classic priced at $6.30 on Coinbase, investors in ETCG are paying 179% over NAV.
+That’s higher than the 139% average.
+If you want exposure to the crypto markets, buy the real thing on Coinbase, E*Trade or Robinhood.
+You’ll see how easy it is to transfer your digital money from one platform to another.
+It only takes a few steps to copy and paste wallet addresses to move digital assets anywhere in the world.
+And you won’t have to pay a fee for the ownership.

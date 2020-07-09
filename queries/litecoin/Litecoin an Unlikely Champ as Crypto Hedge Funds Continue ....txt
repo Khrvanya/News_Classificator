@@ -1,0 +1,12 @@
+Hedge funds are finding new uses for cryptoassets that do not involve investment, per a new report, with litecoin (LTC) earmarked as an unlikely altcoin champion for funds.
+These were the findings of a joint research paper released by PwC and Elwood Asset Management and shared with Cryptonews.com, entitled the Annual Crypto Hedge Fund Report. The authors estimate that assets under management of crypto hedge funds globally doubled in 2019, to over USD 2 billion.
+Meanwhile, hedge funds, per the report, are increasingly engaging in staking and lending, as well as crypto borrowing, with staking accounting for 42% of hedge funds’ non-investment activities.
+The report’s authors say that evidence gathered from studies of hedge funds in Q1 of the current financial year has found that other altcoin winners were also emerging.
+“Litecoin was mentioned by funds as one of their top traded altcoins despite its market cap being relatively smaller than the other mentioned altcoins. This also applies to zcash (ZEC) and ethereum classic (ETC) , but to a lesser extent.”
+Litecoin is ranked 7th by market capitalization (6th if the tether (USDT) stablecoin is excluded), but it shares the third place with XRP , ranked 3rd by market capitalization, as one of the most traded altcoins.
+The authors also say there have been changes in the way that crypto hedge funds – and their conventional counterparts, make use of crypto derivatives.
+“Over the past year, we have seen further developments in the crypto lending market. For instance, many centralized and decentralized crypto exchange platforms are now providing lending and margin trading features to their customers. Therefore, flash loans and interest rate arbitrage are becoming more common.”
+This has had some interesting knock-on effects, they noted, adding, that “it means that we are seeing a closer correlation between investment strategies at crypto hedge funds and traditional hedge funds.”
+Henri Arslanian, PwC’s Global Crypto Leader, added that investors are actually starting to take heart from regulators’ activities.
+“The changes the crypto hedge fund industry has seen in the past 12 months, from additional regulatory clarity to the accelerated implementation of best practices, are great examples of how fast the industry is becoming increasingly institutionalized,” he said.
+Other findings in the report:

@@ -1,0 +1,26 @@
+Home / Diseases-conditions / Cough-and-cold / Vapor rub is more than just a cold remedy: 6 lesser known uses you didn’t know about
+.button-e { width:50%; margin:0 auto; border:1px solid #484848; padding:10px;
+"headline": "Vapor rub is more than just a cold remedy: 6 lesser known uses you didn&#8217;t know about",
+"description": "A handful of over-the-counter medications from the time of our grandparents have managed to stand the test of time. One of them is vapor rub a spicy petroleum jelly popularly used to clear the sinuses and alleviate the symptoms of common cold. It is usually made of camphor menthol eucalyptus cedar leaf oil nutmeg oil petrolatum thymol and turpentine oil. These ingredients work together to loosen mucus and provide relief to a sore nose.
+But vapor rub is more than just a cough or cold treatment. Here are some lesser known uses of it that you also probably didn’t know about –
+Due to the presence of camphor and eucalyptus vapor rub has antibacterial and antimicrobial properties. If you have eczema or acne this vapor rub gel can help soothe your skin reduce inflammation and clear up your complexion.
+Apply vapor rub gel on your arms legs neck or other areas of exposed skin. The cedar leaf oil present in it will keep bugs including mosquitoes at bay. It can also cure insect bites. Its antibacterial and antimicrobial properties can help reduce swelling and the menthol will soothe itching.
+Some suggest vapor rub gel can diminish the appearance of stretch marks. While it is not proven yet there is no harm in trying it.
+This petroleum jelly is an easy remedy for dry skin on your feet. Not only applying this gel on your feet make them super soft it will also leave them smelling minty fresh. Apply a generous layer to your heels before bed and put your socks on. It is also a common home remedy for athlete’s foot.
+Do you suffer from frequent sinus headaches? Vapor rub is the best home remedy for it. Simply breathe in the scent to clear your head and alleviate cranial pain. For normal headaches dab vapor rub gel onto your temples. The menthol in it can activate the receptors that produce a cooling sensation and soothe an overactive nervous system.
+When you have aches or pains in your muscles joints and tendons take a bit of vapor rub gel and massage into the area. Then cover with a warm towel and you will feel relax.
+     _cc12383.add("int","pageTitle:Vapor rub is more than just a cold remedy: 6 lesser known uses you didn&#8217;t know about");
+ var url = window.location.href;
+ var isVideoPlayed = false;
+ var isAdSkippedCompleted = false;
+  gtag('event', 'pause', { 'event_category': videotype, 'event_label': url});
+  //gtag('event', 'play', { 'event_category': videotype, 'event_label': url});
+  gtag('event', 'complete', { 'event_category': videotype, 'event_label': url});
+  gtag('event', 'resume', { 'event_category': videotype, 'event_label': url});
+  gtag('event', 'resume', { 'event_category': videotype, 'event_label': url});
+  gtag('event', 'adRequest', { 'event_category': videotype, 'event_label': url});
+  gtag('event', 'play', { 'event_category': videotype, 'event_label': url});
+  gtag('event', 'adComplete', { 'event_category': videotype, 'event_label': url});
+  gtag('event', 'adSkipped', { 'event_category': videotype, 'event_label': url});
+  gtag('event', 'adClick', { 'event_category': videotype, 'event_label': url});
+    (function(d, s, id) {  var js, fjs = d.getElementsByTagName(s)[0];  if (d.getElementById(id)) return;  js = d.createElement(s); js.id = id;  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.3";  fjs.parentNode.insertBefore(js, fjs);}(document, 'script', 'facebook-jssdk'));

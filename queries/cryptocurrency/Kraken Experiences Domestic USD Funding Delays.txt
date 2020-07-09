@@ -1,0 +1,13 @@
+The exchange has delays with its wire processor for Domestic US deposits through Evolve Bank.
+Kraken, a US-based cryptocurrency exchange , is currently experiencing delays for domestic United States dollar (USD) funding, the company has revealed on its website earlier today.
+In particular, on Kraken’s status page , the crypto exchange said: “We are currently experiencing delays with our wire processor for Domestic US deposits through Evolve Bank. This is causing deposits to remain in a “Confirming” or pending state for a few business days longer than normal and delays in service requests.
+The message was posted on the 29th of June at 23:24 UTC (GMT+0). As of the time of publishing, the alert remains unchanged on the exchange’s website.
+Although the message was published within the past few hours, it appears that this is not the first time that the cryptocurrency exchange has had issues with Domestic US deposits in recent days. In fact, the situation alerted to today appears to be an ongoing issue.
+According to a tweet from Charles J Ryan (@cryanluxuryhome) posted on the 25th of June, in which Kraken replied to, the exchange was also experiencing delays in domestic US Dollar funding.
+Did COVID-19 Save the Forex Industry? Go to article >>
+I hate to keep doing this to my followers, but rather than doing this for attention I’m doing it so others don’t fall into the trap. Do not send USD Domestic Wires to Kraken through the Evolve Banking Partner.
+— bullshakalaka (@bullshakalaka) June 25, 2020
+In recent months a number of exchanges and trading providers, both from crypto and foreign exchange (forex) and other assets, have been experiencing system issues.
+One of the most notable of these was Robinhood. As Finance Magnates reported , in March, the commission-free stock trading app experienced a system-wide outage, leaving clients unable to access their accounts due to an unprecedented load on its system .
+Earlier this month, Robinhood again reported technical issues that kept clients from trading equities, options and also affected cryptocurrency trades. Although Robinhood provided few specifics, there were widespread complaints from customers who could not get into their accounts online.
+Complaints also included either slowness or lack of access to certain features, as well as problems trading some asset classes on the no-fee app. Others said they could not see their account balances.

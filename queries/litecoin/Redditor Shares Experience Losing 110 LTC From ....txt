@@ -1,0 +1,8 @@
+Reddit user Coinhorror relayed their experience of losing 110 LTC to an allegedly compromised version of the Electrum wallet.
+A Redditor has shared their experience of losing 110 LTC ($8,360) after allegedly downloading a compromised version of the Electrum wallet.
+According to a post made Tuesday, Reddit user Coinhorror had 110 LTC stolen after an elaborate hunt to recover previously missing funds. Coinhorror relayed the experience of locating litecoin that been in storage after a two-year hiatus from cryptocurrency.
+So 2 years passed and I've recovered enough psychologically to start looking at my crypto again and at least summon what is left. And I have hard time locating my LTCs.
+The Redditor was able to find their private keys to a wallet holding 110 LTC. However, the coins had been transferred to a new address, leading the user to question why the funds had disappeared.
+After a series of updates and edits, Coinhorror discovered they had been entering their seed passwords into a compromised version of the Electrum LTC wallet, thereby allowing an attacker access to the funds.
+EDIT2 Looks like I may have downloaded a compromized electrum wallet and got my Ltc stolen from me just now. The kicker is that I entered ALL my seeds there trying to find my ltcs. FML
+Fellow Redditors attempted to assist the user in locating the missing funds, in addition to gathering more information on the compromised version of the wallet.

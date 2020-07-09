@@ -1,0 +1,21 @@
+The maker of a rapid coronavirus test widely used across the United States and distributed by the federal government has warned that its device can produce false negatives if a special solution is used to move or store patients' samples.
+Abbott Laboratories instructed health care providers last week not to use solutions known as "viral transport media" for samples tested on its ID NOW device , which runs one test at a time and can detect positive coronavirus cases in as little as five minutes and spit out negative results in 13 minutes.
+The company says customers should instead only place swabs with patient samples directly in the device. When that method is used, the test performs as "expected," an Abbott spokesperson said, adding that when the company learned about the issue it immediately notified its customers and the US Food and Drug Administration.
+Abbott has promoted the ID NOW test as a "point-of-care" test, meaning doctor's offices or clinics can collect samples from patients using swabs and quickly test the samples without having to transport them to specialized labs.
+Because the machine processes only one test at a time, labs might have used the transport media to store the test samples until they can be processed. Abbott's information on the test initially filed with the FDA listed a number of transport media that could be used with the test.
+Clinical pathologists and lab scientists at the Cleveland Clinic said the Abbott system has produced higher false negatives than other devices they tested.
+They processed more than 200 samples of Covid-19 using five testing systems and found that ID NOW detected the virus in only 84.4% of the specimens, a spokesperson for the Ohio-based medical center told CNN.
+ID NOW and another test had higher false negative rates than the other devices assessed, the spokesperson said. NPR first reported about the assessment on Tuesday.
+The Cleveland Clinic spokesperson told CNN that a dilution effect can occur whenever a sample swab is placed into viral transport media, but she added that in the assessment, "all tests were performed from the same viral transport media, so it was a true head-to-head comparison."
+The guidance from Abbott Laboratories comes more than two weeks after President Donald Trump said in a Rose Garden news conference that the company's rapid coronavirus test would be "a whole new ballgame" in expanding testing for the disease.
+Many hospitals, clinics and CVS testing sites across the country have been able to use the rapid tests from Abbott.
+The federal government has purchased devices for every state and Assistant Secretary for Health Brett Giroir said last week that tens of thousands more tests would be distributed among the state labs most in need.
+New York's Northwell Health Labs, a private lab system serving hospitals in the state, has been using the Abbott test "in conjunction with" viral transport media.
+A spokesperson told CNN, "We work closely with all of our vendors to ensure the best possible clinical outcomes. We're constantly evaluating our process throughout this crisis, which as you know, is a dynamic and fluid situation."
+MedStar Health, a private hospital system with locations in Virginia, Maryland and Washington, DC, has avoided using viral transport media for the rapid tests.
+"Our lab teams have conducted extensive testing on the kits and we believe them to be accurate," said Marianne Worley, a MedStar Health spokeswoman.
+Nearly a month after Detroit Mayor Mike Duggan negotiated a deal to get five testing devices and 5,000 tests, a spokesperson for the mayor said local health officials have not been using viral transport media for samples tested on that system.
+"We put them directly into the Abbott machine and do not transport them in medium," the spokesperson said.
+Dave Koch, a professor of pathology and laboratory medicine at Emory University, said it's a "remarkable achievement" that Covid-19 tests have been delivered to the market very quickly but he said that means many of the typical validation experiments have not been completed.
+"Thus, the test results may be influenced by something as simple as the viral transport media. That problem seems to have been identified, but other problems may arise, so caution is advised," Koch said.
+CNN's Nicole Chavez contributed to this report.

@@ -1,0 +1,25 @@
+Medical supplies are limited. Can 3D-printed face shields help?
+IBM may be one of the most iconic American technology companies, but Wall Street no longer views Big Blue as an innovator in a tech landscape dominated by the likes of Amazon, Apple and Google owner Alphabet.
+Shares of IBM ( IBM ) have fallen 12% in the past five years, as stocks of software giants like Microsoft ( MSFT ) and Salesforce ( CRM ) have each soared more than 200%.
+Even Warren Buffett gave up on IBM, despite its dirt cheap valuation and gigantic dividend. His Berkshire Hathaway ( BRKB ) bought a stake in IBM in 2011 and sold it in 2018 at a loss. Apple ( AAPL ) is now the Oracle of Omaha's preferred tech stock, and Berkshire owns nearly 249 million shares of Apple, a 5.6% stake in the company.
+IBM's underperformance is particularly frustrating since the company has a growing presence in cloud computing, thanks largely due to its $34 billion acquisition of Red Hat in 2018.
+There has even been chatter over the past few years about the possibility of some activist investors looking to buy a stake in IBM in order to shake things up at the company.
+New vision needed at Big Blue?
+IBM had no comment about activist investor speculation.
+But the company pointed out in an email to CNN Business that "companies across industries trust IBM to help them with their journey to the cloud" and added that the company has emerged as a leader in blockchain technology, the decentralized ledger of transactions that is the backbone for bitcoin and other digital payments.
+IBM, which will report its fourth quarter and full-year results after the closing bell Tuesday, is likely to be asked about its cloud progress during a conference call with analysts.
+Analysts worry that IT departments of big businesses still don't view IBM as a top cloud company, even after its Red Hat deal. Many big corporate customers are focusing more on Amazon's ( AMZN ) AWS unit, Microsoft's Azure, Alphabet's ( GOOGL ) Google Cloud and offerings from Salesforce.
+"Despite significant investments, IBM remains challenged as workloads shift to cloud," wrote Morgan Stanley analyst Katy Huberty in a report last week, in which she cut her price target on IBM and downgraded it to an "equal weight" rating.
+When AlphaWise/Morgan Stanley asked CIOs which vendors they use, or which they were most likely to use, to manage their cloud needs, IBM was chosen less frequently than tech companies VMWare ( VMW ), Cisco ( CSCO ) and Dell ( DELL ) -- as well as Microsoft, AWS and Google.
+That's a key reason why analysts are predicting only a 3% sales increase for Big Blue in 2020 -- an improvement after years of revenue declines, but Wall Street wants to see an end to the company's sluggish growth.
+"IBM has had a long six-year journey of doing easy stuff -- cost cutting and benefiting from lower taxes. It now has to demonstrate momentum in cloud. Period," said Lisa Ellis, an analyst with MoffettNathanson, in an interview with CNN Business.
+IBM CEO Ginni Rometty has been in charge of Big Blue for 8 years. Some think she may soon announce her reitrement.
+Ellis, who has a "sell" rating on IBM, thinks IBM can placate investors by announcing a succession plan for CEO Virginia "Ginni" Rometty, who is 62 and has run IBM since 2012.
+The typical retirement age for an IBM CEO is 60. That's how old Rometty's predecessor Samuel Palmisano was when he announced his retirement in 2011. Lou Gerstner, who ran IBM from 1993 to 2002, also retired at 60.
+Ellis pointed to Red Hat CEO Jim Whitehurst, who was born in 1967 and has stayed at the company following the IBM acquisition, as a likely top choice.
+IBM just bought his company for $34 billion. But he says its unique work culture won't change
+"Cloud is a must win to fend off activist investors and Whitehurst is well-regarded," Ellis said. "Given that he is now with IBM and there is a broad-based expectation that he is the heir apparent, if IBM doesn't indicate a succession plan sooner rather than later then people may agitate for one."
+Ellis added that a change in the IBM C-suite could buy the company some more time with increasingly impatient investors.
+"IBM needs a significant shift in its cloud strategy that's credible and makes you believe the trajectory will change," she said. "At the same time, a new CEO will need to rethink the organizational structure of IBM."
+Whitehurst could provide IBM a much needed new perspective. But Ellis also thinks that he would be on a "relatively short leash" and would have to "announce something pretty significant very quickly."
+Still, there may be hope for IBM as it expands its presence in the cloud.

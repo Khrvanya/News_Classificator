@@ -1,0 +1,14 @@
+This might replace Reddit's Karma with points of real usage.
+Reddit, a content aggregator website, is working on a blockchain-based points system to reward its communities.
+Revealed by Reddit user “MagoCrypto,” the so-called “community points” will feature a new subreddit system, giving extra benefits to the users of the platform.
+According to the post on the “Cryptocurrency” subreddit, the new rewards system is based on Ethereum blockchain .
+My favorite proposal for a simple meaningful ethereum integration @reddit could do was one of @virgilgr ‘s ideas: they should allow subreddits to set an arbitrary smart contract address as their moderator
+This would allow unbounded experimentation in DAO-like moderation policies.
+Did COVID-19 Save the Forex Industry? Go to article >>
+Confirming the prospect, a Reddit spokesperson said: “We continuously experiment with ways to support communities on Reddit. In this instance, we’re working with one community to test a feature that represents a user’s involvement in a community. We value and seek out community feedback as we continue to explore features that engage our users and communities.”
+The spokesperson, however, did not say anything about the usage of Ethereum.
+Reddit is one of the favorite platforms for crypto users with many subreddits for discussion on specific topics.
+Now, the platform’s pilot for a new rewards system is not an abrupt decision as it was mulling for the same for a while.
+“Points are a measure of reputation and contribution within a community. To highlight the most important members of a community, points balances will be displayed next to usernames on posts and comments in the subreddit,” the FAQ section in the Reddit post detailed.
+Reddit already awards Karma to its users for engagement on the platform, but that only shows the reputation of the user on the platform, nothing else. With the new rewards system, Redditors will have points with real value.
+“Users can spend Points to buy Special Memberships in their community. A special membership unlocks exclusive features in the community,” the post detailed. “The points are destroyed (“burned”), making everyone else’s shares of Points go up. This ensures that buying memberships rewards the community as a whole.”

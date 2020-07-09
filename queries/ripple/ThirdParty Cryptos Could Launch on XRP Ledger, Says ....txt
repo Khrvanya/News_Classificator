@@ -1,0 +1,15 @@
+Please consider using a different web browser for better experience.
+Please enable JavaScript in your browser for a better site experience.
+Third-Party Cryptos Could Launch on XRP Ledger, Says Ripple’s David Schwartz
+Third-Party Cryptos Could Launch on XRP Ledger, Says Ripple’s David Schwartz
+Ripple is developing a feature that could allow users to mint asset-backed tokens directly on top of XRP Ledger, the firm’s tech chief has said.
+In a company video released Thursday, Chief Technology Officer David Schwartz said Ripple is working on “exciting” new features to broaden the ledger’s functionality and allow third-party users to introduce other cryptocurrencies into the XRP ecosystem.
+Although Schwartz did not go into detail on what exactly the new features are, he did say they could be used for launching fixed-value tokens on XRP Ledger. “Stablecoins is the obvious use case, but it’s not just stablecoins it’s essentially assets pegged to some external value,” he said.
+Similar features exist on other blockchains, most notably Tether, which runs stablecoin layers on multiple networks simultaneously. But Schwartz said asset-backed tokens on XRP would have “guaranteed” liquidity because of the ledger’s mechanics.
+Schwartz previously outlined how a fully collateralized XRP stablecoin could be liquid on his Youtube channel last October. Rather than creating separate markets for each and every digital asset, trades take place in XRP so the stablecoin remains liquid irrespective of its popularity, he explained.
+This wouldn’t be the first time Ripple has made forays outside of its core settlement business. The company’s investment arm, Xpring, acquired decentralized payments platform Logos Network in September. At the time Xpring’s senior vice president told CoinDesk the acquisition would help Ripple create financial products on XRP Ledger.
+During Thursday’s video, Schwartz said Ripple had explored additional use cases before, further suggesting the ledger already has some un-utilized functionalities built into it.
+In the “early days,” Schwartz said, the engineering team “started to realize the properties of the algorithms we’d developed allowed us to do things, like a decentralized exchange.”
+These had already been put into “a functional system” sometime in mid-2012 and included a feature allowing users to issue their own digital assets, he said.
+UPDATE (Jan. 30, 19:10 UTC): This article has been updated to include the fact Schwartz had previously outlined a plan for an XRP stablecoin on his YouTube channel in October.
+The leader in blockchain news, CoinDesk is a media outlet that strives for the highest journalistic standards and abides by a strict set of editorial policies . CoinDesk is an independent operating subsidiary of Digital Currency Group, which invests in cryptocurrencies and blockchain startups.

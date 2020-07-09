@@ -1,0 +1,17 @@
+In July 2014, Missouri began a one-year period under the Established Program to Stimulate Competitive Research.
+EPSCoR, a program under the National Science Foundation, “enhances research competitiveness of targeted jurisdictions by strengthening STEM capacity and capability,” according to the foundation’s website.
+The MU College of Agriculture, Food and Natural Resources created a research proposal for a project that would study the effect of climate on two major Missouri crops: corn and soybeans.
+The project is composed of three teams: climate, studying weather changes in the region; plant, studying how climate affects plants and the impact; and social, studying how the changes in weather and how plants are impacted by those changes affect people.
+Guielherme DeSouza is on the plant team, and his work on the project involves robots that analyze corn and soybean crops.
+DeSouza is an associate professor at the MU School of Engineering and has been working on this project since before Missouri’s stint as an EPSCoR state. He helped develop the robots used to evaluate the crops.
+“The whole idea was to develop robots that go in the field under [certain climate conditions], which at the time wasn’t so common,” DeSouza said. “Most studies were done in greenhouses under controlled environments. You could simulate those conditions, but it’s never the same thing.”
+The initial proposal intended to use drones to fly over crops to identify any issues from overhead. However, the Federal Aviation Administration has strict rules and regulations about the use of drones, so the project had to find a more efficient way to collect its data.
+Eventually, the team came up with the idea to build a robotic tower. Instead of flying a drone for a limited amount of time, the towers allowed for around-the-clock surveillance of crops. The robotic tower became known as the Vinoculer.
+Three cameras on the Vinoculer take photos that are used to make three-dimensional models of crops, including thermal maps of humidity and heat levels. If a problem area is found, a mobile robot, called the Vinobot, is sent to the area to collect data on the crop.
+The Vinobot is closer to the ground, and measures crops at their roots, midsection and high point. Depending on the density of crops, heat and humidity levels can affect different parts of the plant.
+Data collected is related to the phenotype, or observable characteristics, of the plant. These include the height of the plant, number of leaves, leaf angle, color of the leaves and area of the leaves.
+After the analysis of a crop’s characteristics, the plant team figures out the relationship between the phenotypes and the growth and yield of the plant. Relationships may be a characteristic of the plant as the result of a survival mechanism or something that benefits the yield of the crop.
+After defining the relationship, the team works to figure out what genotype, or the genetic construction of the plant.
+“Some genotypes are going to produce better (crops),” DeSouza said.
+Once beneficial or detrimental traits are found in crops, scientists work to eliminate or enhance the trait to create healthier crops that will produce a higher quality and yield.
+Even though Missouri was an EPSCoR state for about a year, the climate project has continued since NSF funding requirements were met.

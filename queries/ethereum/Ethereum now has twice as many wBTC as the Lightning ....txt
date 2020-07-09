@@ -1,0 +1,13 @@
+Ethereum now holds twice as many BTC in Wrapped Bitcoin that BTC's own Lightning Network.
+Since MakerDao brought wBTC to Ethereum, the amount in locked Bitcoins exceeded $22 million.
+Meanwhile, Bitcoin's Lightning Network currently only stores $9.2 million in BTC.
+Recently, we reported about Ethereum’s MakerDao making a move that will bring Bitcoin to Ethereum’s blockchain. The move was considered rather revolutionary, and it brought the coin to Ethereum in the form of Wrapped Bitcoin (wBTC).
+Now, only a short period later, the amount of wBTC on Ethereum managed to climb to as much as $22.5 million. In fact, the amount exceeded that of Bitcoin’s own Lightning Network by more than two times.
+As many likely know, DeFi (decentralized finance) has been one of the biggest trends in the crypto industry lately. It certainly was the most popular part of Ethereum’s ecosystem.
+The last several months were not the best representatives of the DeFi popularity, but even though the total number of locked funds has crashed, the sector remains rather promising.
+Especially since the early days of May, when wBTC came to be, and people started investing Bitcoin in order to get Ethereum’s version of the coin.
+The amount of wBTC on Ethereum blockchain has already surged to $22.5 million , as mentioned. In other words, Ethereum’s blockchain now stores more than twice as many Bitcoins as BTC’s own Lightning Network. According to recent data , the LN only has $9.2m BTC locked into it, This would mean that Ethereum is dominating over Bitcoin’s very own ecosystem.
+The new information certainly indicates that DeFi might be the future — or at least, the next big thing in crypto/blockchain industries.
+The arrival of wBTC to Ethereum indicates that DeFis will not quietly disappear and become another failed experiment of the crypto industry.
+Of course, the DeFi sector still has plenty of issues to take care of. Hacking attacks are hitting various apps and draining millions of dollars worth of crypto from their smart contracts. One hacker even decided to return the funds after originally stealing them. But, the sector’s supporters are comparing it to the early days of the internet, stating that errors do happen, but the sector will mature and stabilize, given time.
+A journalist, with experience in web journalism and marketing. Ali holds a master's degree in finance and enjoys writing about cryptocurrencies and fintech. Ali’s work has been published on a number of cryptocurrency publications. Raza is the co-founder of 5Gist.com, too, a site dedicated to educating people on 5G technology.

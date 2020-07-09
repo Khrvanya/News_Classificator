@@ -1,0 +1,3 @@
+A complete listing of the top 50 digital assets, ranked by our Bitcoin Market Journal Score. These have two parts:
+Qualitative: The star rating is calculated by our team of analysts using our industry-leading Blockchain Investor Scorecard (pictured at right) to determine the quality of each digital asset. Think of these like a stock rating, with our explanation in the Analyst Reports below.
+Quantitative: We are the only blockchain investing site to list three Token Ratios you can use to compare the relative value of different assets: NVM Ratio , NVT Ratio , and Token Velocity . Think of these like stock fundamentals.

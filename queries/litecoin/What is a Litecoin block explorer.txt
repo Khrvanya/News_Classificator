@@ -1,0 +1,28 @@
+What is a Litecoin block explorer?
+A Litecoin block explorer is an essential tool for people wishing to check the status of their Litecoin transactions or track recently mined Litecoin blocks.
+It’s possible to find a whole host of Litecoin block explorers online, all of which provide valuable information about the Litecoin blockchain.
+Before we get into the ins and outs of Litecoin block explorers, here’s a recap of what Litecoin is.
+Launched in 2011, the Litecoin blockchain is capable of handling higher transaction volumes than Bitcoin and also offers improved storage efficiency.
+The downside of this speed is so-called “orphaned blocks” – when two miners produce blocks at similar times. Nevertheless, merchants that need transactions confirmed only need to wait 2.5 minutes with Litecoin compared to 10 minutes with Bitcoin.
+Litecoin is one of the most popular altcoins out there, so it’s no surprise to see so many block explorers devoted to the cryptocurrency.
+What is a block explorer?
+A block explorer is essentially a search engine for a blockchain.
+Users can explore a wide variety of data, such as the state of a transaction, transaction histories, balances of addresses, the blockchain’s hash rate, and the rate of transaction growth.
+Block explorers exist for Bitcoin as well as specific altcoins such as Litecoin. It’s worth noting that you can’t use a block explorer for a blockchain it wasn’t created for. If you want to track Litecoin transactions, you need to use a specific Litecoin block explorer.
+Who are block explorers intended for?
+Traders who regularly buy and sell Litecoin (or any other type of cryptocurrency) use block explorers to check the status of their transactions, including details of the payments and whether they were successful.
+Miners also use block explorers to confirm whether they have successfully mined a block.
+Other people simply have a keen interest in the cryptocurrency market and want to find out details on the number of coins that have been mined, the market cap, and other market data.
+What information can I discover?
+A block explorer enables you to search through recently mined blocks and transactions in any block that has attached itself to the blockchain in question – in this case, Litecoin.
+Litecoin block explorers provide a live feed of all the blocks that are being added to the blockchain.
+You can check the history of public Litecoin addresses, for example how many transactions they have received and their balance, and view the addresses of senders and recipients (of which there may be many assigned to one transaction).
+Some block explorers show information on the biggest transactions of the day, including which mining pool found the block.
+They also show the blockchain’s first block – otherwise known as the genesis block – along with various charts and statistics and the Litecoin blockchain mining difficulty.
+When you visit the website of your chosen block explorer, you’ll see a table showing the latest blocks that have been mined on the Litecoin blockchain.
+Typically, the information will include the height of the block (the block count), the block age (how much time has passed since the block was mined), the number of transactions contained in a single block, who it was mined by, and its size.
+The site shows further information on the latest transactions, including the transaction hash and value out. If you click on the transaction hash, you can find additional data on its size, fee rate, the time it was received, and the mined time.
+To check a specific transaction from your own wallet or any other address, you can search for it on the block explorer by copying and pasting the transaction hash into the search bar.
+For anyone who trades or mines Litecoin, a block explorer is one of the most important tools to get to grips with. Block explorers are also an important way of ensuring cryptocurrencies remain transparent and accessible.
+To top it all off, they’re free to use and you don’t have to register in order to use the main features.
+As the market develops, it’s likely we’ll see additional features being added over time.

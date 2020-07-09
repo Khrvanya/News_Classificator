@@ -1,0 +1,30 @@
+Why Have Cryptocurrency Payments Failed to Take Off So Far?
+Cointelegraph interviewed merchants and executives from Crypto.com and Pundi X to learn about the current state of crypto payments for retail customers.
+Paying with crypto has long been at the center of the discussions of why cryptocurrencies exist and why they are useful.
+But despite promising growth and excitement during crypto’s bullish phases, payments with crypto still remain a fringe niche at best. Cointelegraph interviewed both merchants and industry leaders to find out why.
+As a general rule, crypto payments are used where they make sense. This remains the case for darknet markets, which according to a January 2020 Chainalysis report continue posting new volume highs.
+Despite their tiny share of the overall crypto activity, marketplaces selling primarily illegal goods simply cannot use traditional payment mechanisms. Nevertheless, these markets pale in comparison to the traditional cash-based drug trade, whose volume is estimated at approximately $400 billion yearly.
+In legal settings, Crypto.com’s CEO Kris Marszalek told Cointelegraph what kinds of products see meaningful usage of crypto:
+“It’s still mostly crypto stuff. So we've got Travala, which is the travel merchant that accepts crypto. Ledger.com [...] when we launched on day one we were doing similar volume to Mastercard.”
+Marszalek cited figures from “leading crypto payment providers” BitPay and Coinbase Commerce, which report yearly volumes of $1 billion and $200 million, respectively.
+“The numbers are very small,” Marszalek said bluntly.
+Indeed, compared to Visa’s figure of $2 trillion for a single quarter in 2018, crypto payments have a long way to go.
+Marszalek identified a series of issues that are preventing crypto payments adoption, with lack of trust one of them:
+“For the vast majority of the merchants out there, just like for the vast majority of retail banking users out there, crypto is still something unknown, something they still didn’t learn to trust.”
+Peko Wan, the chief ecosystem officer of crypto point of sale provider Pundi X, told Cointelegraph a similar story:
+This attitude is reflected by a U.K.-based business owner operating a recreational plane simulator, whom Cointelegraph interviewed. Despite adding the crypto payment option, they said that “no one has ever paid using crypto.” They further said to be “wary of all cryptos as there are so many scams out there.”
+Even among crypto enthusiasts, payments are a low priority use case. This is best exemplified by the issuance of WBTC for Ethereum decentralized finance, which is now more than double the size of the entire Lightning Network .
+Marszalek believes that part of it is the chicken and egg problem, which limits the amount of merchants accepting crypto:
+“Because if you only have 50 million people in crypto globally, merchants have very little incentive to deploy this, unless they are in a business that is covering a similar demographic as crypto.”
+One of the biggest problems of crypto payments is the volatility of even the most established assets. Marszalek believes that most people only know about crypto’s price swings, “which is not really conducive to merchant adoption,” he added.
+Furthermore, the premise of many crypto payment providers is that merchants can completely avoid exposure to crypto’s volatility.
+Marszalek believes that “stablecoins are super powerful” for e-commerce transactions, citing their speed and cost, and sees Crypto.com eventually creating its own stablecoin as part of its vision of a complete ecosystem.
+Claudio Barros, the Portugal-based owner of DBR Electronica and one of merchants using Pundi X’s solutions, believes that stablecoins would be a great addition to the ecosystem:
+“Any improvement in stability of coins will be a benefit, we need a range from pegged coins to super volatile coins to cater for different needs.”
+Will crypto payments become a reality after all?
+Crypto is competing both with established e-money systems like WeChat in China, and novel technologies like Calibra. Marszalek believes that it is better than either of those, both due to better performance and better privacy.
+Marszalek, who is based in Hong Kong, personally witnessed how the cashless transition in China left him unable to pay in a Beijing restaurant, as Hong Kong WeChat does not work in mainland China. Either way, WeChat’s extreme level of surveillance makes him feel uncomfortable.
+Wan also pointed to developing countries, noting:
+“For the past two years, we also observed that in the countries where the local currency has decreased over time [people] are more aware of crypto or interested in having cryptos.”
+For Crypto.com, payments are just at the “beginning of the beginning,” Marszalek said. But he strongly believes that it is the company’s most important product, which will “take our overall platform to a hundred million users in five years.”
+For crypto in general, the same statements could likely be made as well.

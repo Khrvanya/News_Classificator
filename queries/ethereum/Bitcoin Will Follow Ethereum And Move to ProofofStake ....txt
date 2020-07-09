@@ -1,0 +1,14 @@
+Bitcoin Will Follow Ethereum And Move to Proof-of-Stake, Says Bitcoin Suisse Founder
+The founder of Swiss crypto broker Bitcoin Suisse predicts that Bitcoin will move to Proof-of-Stake once Ether has proved the algorithm’s success.
+Niklas Nikolajsen , the founder of Swiss crypto broker Bitcoin Suisse, predicts that Bitcoin ( BTC ) will move to Proof-of-Stake ( PoS ) once the Ethereum ( ETH ) network has proved the algorithm’s success.
+Bitcoin’s current Proof-of-Work ( PoW ) consensus algorithm — the pioneering concept which in fact pre-existed Bitcoin, but has since come to be indissociable from the cryptocurrency — “will probably change in the future,” Nikolajsen argued.
+In outtakes from an interview conducted for a German TV documentary — recorded back in October 2019, but uploaded on April 6 — Nikolajsen said:
+“[Bitcoin’s move to Proof-of-Stake] is not planned, but the second-largest cryptocurrency, Ether, will move to a Proof-of-Stake concept that demands vastly less electricity, already in a few months. I’m sure, once the technology is proven, that Bitcoin will adapt to it as well.”
+“Once it’s proven that Proof-of-Stake works well, it’s a superior system to Proof-of-Work,” he said.
+In blockchains that use a PoS system, nodes in the network engage in validating blocks, rather than mining them, as in PoW.  For PoS, a deterministic algorithm selects block validators based on the number of tokens a given node has staked in their wallet — i.e. deposited as collateral in order to compete to add the next block to the chain.
+Nikolajsen's prediction that Bitcoin will eventually migrate to a PoS system was made in the context of a discussion of the notoriously high levels of electricity needed to sustain mining on the current network.
+He dismissed claims that mining Bitcoin consumes levels of electricity comparable to small nations and also emphasized that mining's energy-intensity is less of an issue than where that energy is produced and how sustainably it is generated.
+Moreover, the energy consumption of producing gold — Bitcoin’s proverbial predecessor — must be equally acknowledged, Nikolajsen states, as does that in the existing banking system and tech industry:
+“Which metropolis in the world doesn’t have 100-story-high banking towers, glowing in a million different colors all night, and their financial systems, their computers, server rooms. How much energy does Facebook consume? They have 21 huge data centers worldwide, I’d say probably more than Bitcoin. The banking system for sure consumes a lot more energy.”
+The common perception that high energy consumption is an “Achilles Heel” for Bitcoin has been critiqued by some proponents of clean energy, who, like Nikolajsen, place an emphasis on the sources of power, rather than levels of consumption.
+Beyond the energy problem, the PoS vs. PoW debate engages questions of economic fairness, barriers to entry, network security and decentralization.

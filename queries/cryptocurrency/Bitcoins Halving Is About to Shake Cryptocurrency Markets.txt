@@ -1,0 +1,25 @@
+FILE - People walk past a board with the logo of Bitcoin in a street in Yerevan, Armenia September 9, 2019. (REUTERS/Anton Vaganov)
+The code has been copied to your clipboard.
+If you are not someone following the ups and downs of bitcoin, you probably have not heard about a big event next year. It is called the “halving.” It will cut creation of the cryptocurrency by 50 percent.
+A cryptocurrency is any form of money that exists online and operates without a central bank. Bitcoin is one of several such currencies.
+No one person or group is in control of this halving process. It is a rule written into bitcoin’s computer program by its creator Satoshi Nakamoto more than 10 years ago.
+The event is expected in May of 2020. It would cut by 50 percent the number of new bitcoins given to bitcoin miners. These miners create the world’s supply of cryptocurrency by solving complex mathematical questions.
+The halving represents a big change in a market worth about $120 billion. Bitcoin worth several billion dollars are created every year.
+Bitcoin market players are predicting sharp price increases as well as sharp drops in the value of the cryptocurrency. Such moves have happened in earlier halvings, which take place about every four years. The point of a halving is to keep down the number of bitcoins and control inflation.
+There are likely to be winners and losers. So, those who buy and sell bitcoin are trying to predict the future of the cryptocurrency markets.
+“This is the biggest question right now for most of the industry,” said Eyal Avramovich. He is chief executive of MineBest, a Poland-based company that mines bitcoin.
+The drop in bitcoin’s production is one reason why the digital currency has not been accepted by established financial markets and organizations. Its future value is decided by technology and not, some say, by the rules of economics.
+The rules of economics say that if supply is cut and demand stays the same, prices rise. The Reuters news agency spoke with seven cryptocurrency traders who said that the halving will lead to greater price volatility. They added that since the cut in supply is expected, the price may slowly rise or fall before the cut is made.
+Bitcoin miners use modern, high-tech computers to compete against other computers in the cryptocurrency world. They are working to add new “blocks” to the blockchain ledger that supports the cryptocurrency.
+Blockchain is the name of the system that records cryptocurrency creation, buying or selling. The system rests with many computers that are linked in a peer-to-peer network. It is believed that the network protects cryptocurrencies from attack and other financial crimes.
+Bitcoin miners receive a set number of bitcoin, currently 12.5. The next halving will take place in May, when the number will drop to 6.25.
+The two past halvings took place in November 2012 and July 2016. In the one year periods that followed, bitcoin’s value rose close to 80 times in 2012 and four times in 2016.
+It is not clear how much of these price increases resulted from the halving. There may have been other influences.
+Jeff Dorman is with Arca, a U.S. investment company specializing in cryptocurrency. He says bitcoin markets look like they will rise and fall during and after the halving event.
+Such volatility in bitcoin markets is usually good for traders who work in the high-tech cryptocurrency industry because they can profit from a small change in price.
+“For us, the event will be positive because it will cause activity in the market,” said Ha Duong. He is a cryptocurrency investor in Berlin who works for a large trading company.
+Miners, however, hold large amounts of bitcoin. They do not want volatility. They want a leveling of prices, which enables them to invest in the newest computer technology to earn more bitcoin.
+The Reuters News Agency reported this story. Susan Shand adapted it for VOA Learning English. George Grow was the editor.
+Write to us in the Comments Section or on our Facebook page.
+digital – adj. using or relating to computer technology; showing information as electronic images
+peer-to-peer – adj. of or related to a computer network in which each computer can act as a server for the others, enabling the sharing of information without the need for a central server.

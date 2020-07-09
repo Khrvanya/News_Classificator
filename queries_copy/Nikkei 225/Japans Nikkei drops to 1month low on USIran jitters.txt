@@ -1,0 +1,37 @@
+Pivot Or Perish Market Dashboard India-China Face-Off The Future Of Covid Tracker Lounge Coronavirus India2Global Emerging Tech Conclave #WFHLife Long Reads Money With Monika, Season 4 Mint 50 - Top Mutual Funds Plain Facts Mark To Market Podcasts Money With Monika, Season 3 Companies Markets Money Start-ups Mutual Funds Insurance Technology Industry Opinion Politics
+1 min read . Updated: 06 Jan 2020, 10:42 AM IST Reuters
+Japan's Nikkei share average fell to a one-month low on Monday as selloff gripped the market on the first trading day of 2020 on fears of an impact to global economic growth from a flare up in tensions between the United States and Iran.
+U.S. President Donald Trump on Sunday threatened a "major retaliation" against Iran if Tehran were to hit back for the killing of one of its top military commanders.
+The Nikkei share average fell 2.09% to 23,161.16, breaking below two-major support levels - 25-day moving average around 23,600 and 50-day average around 23,350 - to its lowest level since Dec. 4.
+The broader Topix lost 1.75% to 1,691.20, falling to its lowest levels since late November. The Tokyo stock market was closed from Tuesday to Friday last week for New Year holidays.
+"The market will have to go through some correction. It was a bit overvalued to begin with, but the problems in the Middle East are the main drag now," said Nobuhiko Kuramochi, chief strategist at Mizuho Securities.
+Concerns about a further escalation in the Middle East tension hit shippers and airlines, which fell 4.0% and 2.5%, respectively.
+As the yen gained on safe-haven buying, a wide range of exporter shares took a hit. Honda Motor fell 2.8%, while Fanuc dropped 2.2% and Toyota Motor Corp 2.2%.
+Meanwhile, a spike in oil prices helped oil companies, with the Tokyo Stock Exchange's oil and coal producer index rising 2.9%.
+Nissan Motor fell 1.5%, in line with the overall market, to an eight-year low. Its former chairman Carlos Ghosn fled Japan while on bail during Japan's market holidays.
+Ghosn faced four charges - which he has denied - including hiding income and enriching himself through payments to dealerships in the Middle East.
+Nissan had sacked him as chairman saying internal investigations revealed misconduct including understating his salary while he was its chief executive, and transferring $5 million of Nissan funds to an account in which he had an interest.
+This story has been published from a wire agency feed without modifications to the text. Only the headline has been changed.
+* Thank you for subscribing to our newsletter.
+Click here to read the Mint ePaperLivemint.com is now on Telegram. Join Livemint channel in your Telegram and stay updated
+You are now subscribed to our newsletters. In case you can’t find any email from our side, please check the spam folder.
+lozad('.lozad', { load: function(el) { el.src = el.dataset.src; el.onload = function() { el.classList.add('fade')}}}).observe()
+.myAccount .planSec, .myAccount a.LinkCTA{padding:16px; margin:16px; box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.1); background-color: #fff;}
+	       		var userData = data;
+	       		var name = userData.name;
+	       		var email = userData.email;
+	       		var signupSource = userData.source;
+	       		var subscribedAtOnce = userData.subscribedAtOnce;
+	       		var plan  = userData.plan;
+	       		document.getElementById('uName').innerHTML = "<strong>"+name+"</strong>" + email;
+		       		var status = planData.status;
+		       		var purchaseSource = planData.source_device;
+			       		var nextActivationDate = planData.current_term_ends_at;
+			       		var planDescription = planData.plan.description;
+			       		var planName = planData.plan.name;
+			       		var planPrice = planData.amount;
+			       		//var planInterval = planData.shipping_interval;
+			       		var planInterval = planData.duration;
+			       		var planUnit = planData.interval_unit;
+			       		//var html = "<strong>Your Subscription Plan</strong>"+planName+" ₹"+planPrice+" / "+planInterval+" " + nextBillingHtml + cancelHtml; 
+			       		var html = "<strong>Your Subscription Plan</strong> "+planDescription + " "+ planName +": ₹"+planPrice + " "+ nextBillingHtml + cancelHtml;

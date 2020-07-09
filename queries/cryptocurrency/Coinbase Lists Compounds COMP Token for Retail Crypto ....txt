@@ -1,0 +1,17 @@
+Please consider using a different web browser for better experience.
+Please enable JavaScript in your browser for a better site experience.
+The COMP token may have been around for less than two weeks, but it’s already been listed on both Coinbase’s retail and Pro platforms.
+The San Francisco-based exchange said in a blog post Thursday the token had been made available on Coinbase.com and via the firm’s Android and iOS apps.
+“Coinbase customers can now buy, sell, convert, send, receive or store COMP. COMP will be available for customers in all Coinbase-supported regions, with the exception of New York state,” the exchange said.
+COMP was listed on Coinbase Pro, the exchange’s professional trading platform, on Monday, in what was one of the fastest Coinbase listings to date following the launch of a digital asset.
+Predictably, the COMP price, which had been meandering downwards since a sharp drop on Tuesday, got a 20% kick from the news.
+Just before the Coinbase announcement, the token was trading at just above $210 – down 40% from where it started the week at something like $350. At the time of writing, COMP was just under the $250 mark.
+COMP has been making headlines since its inauspicious launch less than two weeks ago metamorphosed into a triple-figure rally. After an initial listing price of $80 on Monday, June 15, COMP broke the $100 mark Thursday before its price doubled again in the space of 24 hours.
+So far, COMP’s all-time high has been the $372 it reached last Sunday.
+However, the launch hasn’t been without issues. COMP is a governance token, awarded freely to both lenders and borrowers to incentivize people to use the platform as much as possible. It didn’t take long for traders to realize they could just borrow against themselves to receive free tokens.
+Automated market maker Curv told CoinDesk at the time that users were lending one USD stablecoin against another, repeating the process up to 30 times to maximize their COMP allocation.
+Earlier this week, some analysts also highlighted that traders were buying COMP tokens from spot markets together with COMP perpetual swaps – futures without expiry – on derivatives exchange FTX, to accelerate price increases further.
+“The relatively large size of the COMP Perpetual Swap market, it would be profitable to buy the Perp and then buy spot in significant enough size to move the price, amplifying gains in the Perp and squeezing the shorts,” said Tony Sheng, angel investor and former principal at Multicoin Capital, in a blog post on Wednesday – the same day the COMP price tumbled to $200.
+Of course, 48 hours is a long time in crypto. With the news of the Coinbase listing, COMP has rebounded and its market cap now stands at $680 million, according to CoinGecko.
+EDIT (June 29, 09:00 UTC): A previous version of this article stated Tony Sheng was still a principal at Multicoin Capital. This has since been corrected.
+The leader in blockchain news, CoinDesk is a media outlet that strives for the highest journalistic standards and abides by a strict set of editorial policies . CoinDesk is an independent operating subsidiary of Digital Currency Group, which invests in cryptocurrencies and blockchain startups.

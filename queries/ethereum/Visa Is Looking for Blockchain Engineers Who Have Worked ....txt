@@ -1,0 +1,4 @@
+Payments giant Visa is on the lookout for blockchain engineers, according to its recent job posting .
+The job description states that Visa is specifically hiring someone with strong expertise in Ethereum and its blockchain architecture:
+Their ideal candidate has worked with Bitcoin, Ripple, and enterprise blockchain platform R3.
+The responsibilities of Visa’s new hire will include leading its ‘unique’ blockchain initiatives, writing code, and keeping track of new technologies in the space.

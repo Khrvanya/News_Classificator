@@ -1,0 +1,15 @@
+Traders work on the floor of the New York Stock Exchange (NYSE) on March 10, 2020 in New York City.
+U.S. stocks hit critical circuit breaker levels on Thursday minutes after the opening bell for the second time this week as global markets plunged amid investor fears about the coronavirus global pandemic.
+Just as they did on Monday, the S&P 500 hit exchanges' 7% threshold decline in morning trading, halting trade during regular market hours for 15 minutes to ensure order in the marketplace.
+Trading resumed at 9:50 a.m. ET, with both the S&P 500 and Dow Jones Industrial Average extending losses immediately after the restart. The S&P 500 was last seen down 8% and the Dow was down 9%.
+"Just like Monday, we're giving the market 15 minutes process the down movement," said New York Stock Exchange President Stacey Cunningham. "It's working as it's designed to function so that the market can absorb what news was out over night, how investors are reacting so they can make decisions and everyone gets a chance to see what's happening."
+According to the New York Stock Exchange, a market trading halt occurs at "three circuit breaker thresholds" on the S&P 500 due to large declines and volatility. The exchange classifies this at three levels based on the preceding session's close in the S&P 500.
+The rules, which apply to regular trading hours only, are as follows:
+Level 1: If the S&P 500 drops 7%, trading will pause for 15 minutes.
+Level 2: If the S&P 500 declines 13%, trading will again pause for 15 minutes if the drop occurs on or before 3:25 p.m. ET. There will be no halt if the drop happens after that.
+Level 3: If the S&P 500 falls 20%, trading would halt for the remainder of the day.
+The prior circuit breaker system was revamped after it failed to prevent the May 2010 flash crash when the Dow lost hundreds of points in just a few seconds. The current set of breakers were put into effect in February 2013.
+This comes as the S&P 500 joined the Dow Jones Industrial Average in bear market territory amid the coronavirus crisis.
+We had a warning overnight that this could happen Thursday.
+In non-U.S. trading hours — that is before the 9:30 a.m. ET open of regular trading — stock futures are halted if they hit a downside (or upside) limits of 5%. In effect, the futures get "pinned" at 'limit down' as no one is willing to make a trade below that level. Trading resumes at activity above that threshold.
+S&P 500 futures notched that 5% threshold in premarket trading ahead of the open on Thursday like they did on Monday. The rules are put in place to reduce panic and foster orderly market functioning.

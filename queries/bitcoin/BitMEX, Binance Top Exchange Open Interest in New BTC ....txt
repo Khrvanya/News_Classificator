@@ -1,0 +1,11 @@
+BitMEX firmly leads the market when it comes to Bitcoin futures OI, with Binance in second place, according to new data from Bybit.
+According to updated rankings from exchange Bybit , as of May 19, the two household names now top the list when it comes to the total OI on their derivatives contracts.
+Third place is Bybit itself, followed by Huobi and FTX. OI for BitMEX was in excess of $587 million at press time, with Binance somewhat lower at $314 million.
+The OI took a significant hit on BitMEX, in particular, in March — falling from over $1 billion to current levels of around half of that — when the Bitcoin price crashed to lows of $3,600, before beginning a recovery soon after.
+Figures for the other three in the top five exchanges were $217 million for Bybit, while Huobi and FTX were on an equal footing at $114 million.
+Top 10 Bitcoin exchanges by futures open interest. Source: Bybit
+Open interest refers to the total value of outstanding derivatives contracts on a platform, in this case, related to Bitcoin futures.
+High OI, when combined with high volume, can signal genuine interest from traders on both sides in BTC price performance. OI can also occur without volume support, however, which indicates more speculative market activity.
+As Cointelegraph reported , OI for non-exchange derivatives providers has increased significantly in recent weeks. CME Group’s contracts hit a record of $399 million earlier this month, while options volumes have grown 1,000% this month.
+This week, meanwhile, aggregator CoinMarketCap began ranking exchanges by web traffic as a default setting, reversing a decision from last year which criticized the metric’s validity.
+Under that scenario, Binance is currently number one, though CoinMarketCap has cautioned that the new metric is still a work in progress.

@@ -1,0 +1,26 @@
+The Bitcoin Stock to Flow (S2F) model created by the pseudonymous analyst “PlanB” has been a controversial subject over the past year. A majority of cryptocurrency investors on Twitter seemingly believe in the model, though it’s increasingly come under fire.
+Debate about PlanB’s work has come to a head over the past few days as prominent commentators have chimed in.
+What Is the Stock to Flow Model?
+The S2F model is an econometric formula released by PlanB in March of 2019. The pseudonymous analyst is a Dutch institutional investor that manages a multi-billion balance sheet, though he moonlights as a Bitcoin proponent.
+PlanB’s analysis suggests that the value of Bitcoin and other precious goods, namely gold and silver, can be valued by their scarcity. The image below is the model’s first iteration.
+The model predicts that after 2020’s block reward halving, BTC will rise to a market capitalization of $1 trillion. That corresponds with approximately $55,000 per coin.
+1xBit: anonymous betting, the best odds & a generous 7 BTC Welcome Bonus! NEWXBIT promo code to get a 125% 1st deposit bonus now!
+The predicted market value for bitcoin after May 2020 halving is $1trn, which translates in a bitcoin price of $55,000. [This money will come from] silver, gold, countries with negative interest rate, countries with predatory governments, billionaires and millionaires hedging against quantitative easing (QE), [and more].”
+It has since been updated with a new regression formula that suggests Bitcoin will reach $100,000 in 2020 or 2021.
+PlanB’s updated iteration of the model has a high R squared value of ~95% and is purportedly “cointegrated” with BTC’s price. Statistics lingo aside, the S2F model’s proponents say that this is a confirmation that the model has credence.
+Not everyone thinks that’s the case, unfortunately for BTC bulls.
+The S2F model has recently been supported by a number of Bitcoiners.
+Bitcoin educator/programmer Jimmy Song wrote the following message on July 2nd, arguing that it is well too soon to “dunk” on the model:
+“Why are people dunking on the s2f model just a few difficulty adjustments past the halving? The prediction was that BTC will be $100k before the end of 2021. Declaring victory now is like declaring victory 5 minutes into the game.”
+Why are people dunking on the s2f model just a few difficulty adjustments past the halving?
+The prediction was that BTC will be $100k before the end of 2021.
+Declaring victory now is like declaring victory 5 minutes into the game.
+— Jimmy Song (송재준) (@jimmysong) July 2, 2020
+The Keiser Report co-host Max Keiser, one of BTC’s earliest public bulls, agreed with the sentiment put forth by Song.
+He said that the arguments “‘debunking'” the S2F model “appear to be just random word-salads by attention seekers.” Keiser added that he thinks the model is a “valid and vital analysis” that gives “excellent insight” into Bitcoin.
+So far, the arguments “debunking” S2F for BTC appear to be just random word-salads by attention seekers.
+S2F is a valid and vital analysis of #Bitcoin price that provides excellent insight into the market. https://t.co/diqJfThIg3
+— Max Keiser (@maxkeiser) July 3, 2020
+Keiser’s and Song’s statements of support for the econometric model come as it has come under fire from a few angles.
+Namely, Nico Cordeiro, the CIO of Strix Levithan, released a report entitled “A Chameleon Model – Why Bitcoin’s Stock-to-flow Model is Fatally Flawed.”
+The investor said that gold hasn’t been correlated with its S2F ratio over the past decade. Cordeiro added that he thinks the model is illogical due to it predicting $200 million by 2045.

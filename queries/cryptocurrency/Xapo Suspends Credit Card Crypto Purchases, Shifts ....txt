@@ -1,0 +1,11 @@
+Please consider using a different web browser for better experience.
+Please enable JavaScript in your browser for a better site experience.
+Xapo Suspends Credit Card Crypto Purchases, Shifts Operations to Gibraltar
+Xapo Suspends Credit Card Crypto Purchases, Shifts Operations to Gibraltar
+Crypto wallet and bitcoin custodian, Xapo is discontinuing support for credit card payments for digital asset purchases.
+In an emailed announcement on Friday, Xapo said its users would not be able to add funds to their account through credit cards beginning June 11. Additionally, bank transfers will only be supported above a certain minimum amount, depending on the user’s location.
+“If you make a transfer, the app will detect your country of residence and specify the minimum amount,” the company email said.
+“Rest assured, these changes will not affect your Xapo BTC wallet services, and your BTC will remain safe and secure with us (as always). BTC transfer in and out will not be affected at all,” the email added.
+The changes come after Xapo announced on May 5 it would be transforming into a digital bank late in 2020. It will also move its operations from California to Gibraltar, which offers a regulatory framework for cryptocurrency firms but sets a high standard for approvals.
+Earlier this month, a lawsuit was brought against Xapo and crypto exchange Indodax for allegedly holding stolen bitcoin . The crypto trader behind the legal action is attempting to force the exchanges to hand over nearly 500 bitcoin (currently worth around $4.7 million ) he claims to have lost in a hack.
+The leader in blockchain news, CoinDesk is a media outlet that strives for the highest journalistic standards and abides by a strict set of editorial policies . CoinDesk is an independent operating subsidiary of Digital Currency Group, which invests in cryptocurrencies and blockchain startups.

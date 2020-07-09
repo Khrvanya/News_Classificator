@@ -1,0 +1,28 @@
+Forsage is the No.1 Dapp on Ethereum, a likely Ponzi, and responsible for rising ETH transaction fees.
+The most popular Ethereum Dapp in the world has been deemed an unregistered security by the Phillipines SEC.
+Operators of the Forsage Dapp are apparently refusing to comply with the commission.
+Forsage, a multi-level marketing scheme, hogged 13% of the Ethereum network over the past 24 hours, and is partially responsible for rising ETH transaction fees.
+A gas-guzzling Ethereum dapp that accounts for 25% of activity on Ethereum network has been denounced as a potential Ponzi scheme by the Philippines Securities and Exchange Commision.
+An announcement from its SEC on June 30 advised users of the dapp in question, Forsage, to stop using it immediately, and demanded that the owner officially register with the commission.
+Forsage describes itself as a “fully decentralized matrix marketing project,” and, “the most thought-out marketing of this type.” However, it features many of the typical hallmarks of a multi-level marketing scheme.
+The dapp is classified by popular ranking site DappStats as a “High-Risk” application, where users profit by attracting more users to invest in multi-level “slots”. Each slot is twice as expensive as the previous, and returns twice as much profit back to the original referrer.
+Forsage users profit by enticing more users to buy progressivley more expensive "slots". Image: DappRadar
+The SEC advisory notice stated: “Based on numerous reports and information gathered by the Commission, the entity operating under the name FORSAGE, headed by Lado Okhotnikov, is found to be engaging in investment-taking activities in the Philippines which is NOT AUTHORIZED by the Commission.”
+However, despite demands by the SEC that Forsage registers as a licensed security, the dapp’s operators do not appear willing to comply. The SEC states they have already been contacted by Forsage, and what they heard did not prove helpful to the commission’s efforts.
+The SEC notice stated: “Forsage claims that its program will continue to function even if its website “www.forsage.io” is closed for any reason. It even implied that the Government cannot shut it down because it is decentralized and thus free from any authority.”
+Decrypt spoke to Ethereum researcher and developer Philippe Castonguay, who examined the Forsage code and concluded that the smart contract “can’t be halted”. Even if the SEC dismantled the website, says Castonguay, the lack of a simple user interface would only slow the Dapp’s usage at best.
+When asked if the SEC had any power whatsoever to close down Forsage, Castonguay seemed doubtful—such is the nature of Ethereum’s permissionless blockchain technology.
+“Unless there is a currently unknown vulnerability, I don't think [they could], no, said Castonguay.
+“They could try to track down who the users are by asking information to exchanges they use and then reaching out to users directly,” he said, adding, “but that may well prove to be costly and inefficient.”
+In the days since the SEC’s announcement, usage of the Forsage app hasn’t halted. At time of writing, Forsage is the most popular Ethereum-based Dapp in existence, with 4,341 users over the past 24 hours, according to DappStats . Data shows that $2.86 million passed through the Dapp in the past day alone, equating to over 12,000 ETH.
+Forsage is the No.1 Ethereum Dapp by active users at time of writing. Image: DappStats
+Forsage has proven to be a major source of activity on the Ethereum network in recent times. As seen on Dune Analytics , the Forsage smart contract has been responsible for consuming 12.78%% of Ethereum’s gas over the past twenty-four hours.
+Gas is a unit of measurement on Ethereum which represents how much computational power is required to perform an operation. By hogging 25% of the Ethereum network, the Forsage contract has pushed up Ethereum transaction fees in the process.
+According to data from Bitinfocharts , Ethereum’s average and median transaction fees have been on the rise since January 2020. Average fees rose 915% in that time, from $0.06 to $0.67—with a brief spike to $4 early June. Meanwhile, median fees rose an incredible 2,564% in the same time frame, from $0.02 to $0.73.
+Ethereum's average and median transaction fees have exploded since the turn of the year. Image: Bitinfocharts
+Yet it’s not just Forsage that’s responsible for the current Ethereum stress-test. According to Eth Gas Station , the Ethereum-based Tether (USDT) contract accounts for 26% of the network’s gas usage.
+Interestingly, the third highest gas-guzzler on Ethereum is another multi-level marketing scheme known as MMM Global , which has accrued over $5 million in ill-gotten Paxos (PAX) stablecoins.
+Despite the presence of gas-guzzling Ponzi schemes on Ethereum, Castonguay, who works in blockchain gaming, doesn’t expect such scams to disappear any time soon. He said it was unfortunate that Ethereum was used in this way, but added:
+“It's inevitable due to the unstoppable and permissionless nature of the technology. I suspect that even with strong regulation, Ponzi schemes on Ethereum will still be common, especially as privacy tools available on Ethereum get better,” he said.
+So if you have money to lose, there’s no need to rush over to Forsage. It’s probably not going away any time soon.
+Get the best of Decrypt where you want it most.

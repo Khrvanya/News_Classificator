@@ -1,0 +1,37 @@
+Litecoin is one of the most popular altcoins on the cryptocurrency market. Here's how to buy it and what you'll need.
+Litecoin's price is down this month. Sound familiar? Probably because that's been said of every cryptocurrency every month this year.
+Litecoin started October 2018 at a value of over $60 and is finishing it struggling to get back to $50. It's certainly nowhere near its peak of December 2017, when one Litecoin was well over $300. These are things you absolutely need to understand if you're still planning on getting into the cryptocurrency game. Crypto has been in freefall for all of 2018, and whether you think it's going to rebound or stabilize, know that it's extremely risky.
+Litecoin has long been an intriguing option for people interested in altcoins. It still has one of the top 10 market caps in all of cryptocurrency, and was designed as an alternative to counter some of Bitcoin's flaws. So if you want to buy it, where should you start and how should you do it?
+Litecoin is purchased through cryptocurrency exchanges the way any other crypto would be bought. However, even though there's a larger circulating supply of LTC than BTC, you're not guaranteed that most exchanges will have Litecoins available for purchase or trade like you may be with Bitcoin.
+Like with any other cryptocurrency, you'll also need a digital wallet in which your LTC can be stored. So where are these exchanges and wallets you'll need in order to get your digital hands on Litecoin?
+Cryptocurrency exchanges allow you to buy and, if need be, sell your crypto online.
+The risk in exchanges can be severe; ones without great security are ripe for hacking. Do research not just into what crypto exchanges have Litecoin, but how they have fared with safety and security over the span of their existence.
+The cryptocurrency exchange that is arguably the largest and most notable, Coinbase , does have Litecoin. More recently, Gemini , the cryptocurrency exchange established by Cameron and Tyler Winklevoss, recently started trading Litecoin as well. It can be bought on Gemini in exchange for USD, BTC, or ETH (Ether, the cryptocurrency of Ethereum).
+Once you've looked into Litecoin exchanges and figured out which one is safest, available where you live and most convenient for you, you'll need a cryptocurrency wallet in which to store your LTC.
+Crypto wallets come in many different forms - hardware, software, desktop, mobile and paper chief among them. The type of wallet you pick is going to depend on what you want from it. Do you want one that offers you convenient and immediate access to your cryptocurrency, or are you looking to store it somewhere safely while holding onto it?
+Hardware wallets allow for cold, offline storage of your cryptocurrencies to keep it safe from hackers, a distinct security advantage over something like a desktop wallet. If this is what you're looking for, the Ledger Nano S from Ledger supports the storage of Litecoin amongst its more than 30 cryptocurrencies and allows for back-up and restoring. Another hardware wallet, Trezor , supports Litecoin in addition to over 500 cryptocurrencies.
+Desktop and mobile wallets offer the convenience of having your Litecoins available to you write on your computer or phone, but make sure that both the wallet and your device are secure. Jaxx is an exchange with both desktop and mobile interfaces available that promises extensive security. Exodus , in addition to being a wallet, has an exchange attached as well.
+In order to buy Litecoin, you'll also need to know how you plan on paying. The two most common ways of purchasing LTC are via a credit/debit card or exchanging Bitcoins for them.
+Whichever of these is your method will likely determine the exchange you choose to buy Litecoins from. For both of them, let's use a specific exchange as an example to illustrate it. In the case of a credit or debit card, we'll use Coinbase. For buying LTC with BTC, we'll use Binance.
+To use Coinbase for buying LTC, you'll need an account and your card information handy before you can do anything.
+Here are the steps required for buying Litecoin on Coinbase:
+Create your Coinbase account. You'll need to provide a valid email address for verification and create a strong password.
+Create your security measures. Upload a form of identification and input your phone number, and then using your phone set up two-factor authentication for logging in. This can be done via SMS or by using Google Authenticator.
+Put in the payment information you plan on using. This can be a checking account or your credit/debit card information.
+Logged in and verified, click Buy/Sell and on the next page specify that you intend to Buy.
+Specify Litecoin (LTC) as the crypto you wish to buy, and then the amount of USD you want to spend on it. Coinbase's calculator will tell you how much LTC that is worth.
+Specify your payment method, review that and all of your additional information, and confirm it.
+That's it! You now have Litecoins, stored in your Coinbase wallet.
+To buy LTC with BTC on Binance, you'll also need a Coinbase account with Bitcoins in it before anything else.
+Once you have that, here are the steps for buying Litecoins on Binance:
+Create a Binance account. Similar to Coinbase, you'll need verification measures and it is strongly recommended that you use two-factor authentication as well for added security.
+Once logged in, go to the "Funds" button at the top of the page and then, from the drop down, click "deposit withdrawals."
+Go to "BTC," click "Deposit," and the Binance wallet address will show up. Copy the address.
+Log into your Coinbase account, go to your Bitcoin wallet and click "Send."
+There will be a "Recipent" box. Input the Binance wallet address. Specify how much BTC you wish to transfer and send them.
+Back on Binance, confirm that the BTC have been successfully transferred.
+Go to the "Exchange" section and click "Basic" for simplicity. Search for LTC, and specify that you will be paying with Bitcoins, aka LTC/BTC.
+Specify how much of your BTC you wish to transfer into LTC.
+Litecoin was first rolled out in 2011 as an alternative to Bitcoin, and thus those who have been interested in it tend to like it for what it does differently from Bitcoin .
+The biggest selling point for Litecoin has been its transaction speed compared to Bitcoin - mining a Litecoin every 2.5 minutes as opposed to Bitcoin's 10. One of the most frequent complaints about Bitcoin over its history has been the speed at which it processes transactions. Litecoin also doesn't require costly ASIC miners to mine like Bitcoin often does.
+As of this writing, CoinMarketCap lists Litecoin as the cryptocurrency with the seventh largest market cap, at approximately $2.886 billion.

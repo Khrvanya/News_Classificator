@@ -1,0 +1,21 @@
+Please consider using a different web browser for better experience.
+Please enable JavaScript in your browser for a better site experience.
+Tether to Issue Stablecoin Backed by Yuan in Belgian Bank: Insider
+Tether to Issue Stablecoin Backed by Yuan in Belgian Bank: Insider
+Tether is planning to issue a stablecoin pegged to the Chinese renminbi, according to a trader with ties to the company.
+Zhao Dong, an over-the-counter (OTC) trader in China and a shareholder of crypto exchange Bitfinex – which shares managers and owners with Tether – revealed the move on WeChat on Wednesday, saying Tether plans call the stablecoin CNHT.
+His peer-to-peer crypto lending business, RenrenBit, will support trading and deposits for CNHT when it is launched, he said.
+He added in a later post:
+“Personally, I think the offshore yuan stablecoin could boost the circulation of offshore renminbi and internationalize it. Regulators may be happy to see it proceed and succeed.”
+Tether, best known for issuing the U.S. dollar-pegged USDT, did not respond to requests for comment.
+Zhao told CoinDesk that he believes the new stablecoin will be “launched very soon, possibly within weeks.” He said the stablecoin’s reserve is expected to be held in a bank in Belgium.
+In his view, the token would have two main benefits: it would make Tether less dependent on the U.S. dollar for its stablecoin business while boosting the circulation of renminbi held offshore.
+Zhao said he did not know if Tether has buyers lined up for the new stablecoin.
+It is unclear which blockchain the CNHT would be built on top of. Tether’s USDT has been issued on top of the bitcoin blockchain, as well as the ethereum and tron networks.
+The Chinese yuan has traditionally been just a domestic currency, but that changed in 2003 when the People’s Bank of China signed agreements allowing banks in Hong Kong to provide offshore renminbi deposit, remittance, exchange and other services, according to the South China Morning Post .
+The offshore trading market for renminbi took off. Hong Kong is now one of the largest hubs for offshore renminbi, holding as much as 604 billion yuan ($85 billion) in customer deposits as of June 2019, according to data from the Hong Kong Monetary Authority.
+However, China still imposes a cap on an individual citizen’s annual foreign exchange volume at $50,000 or an equivalent amount in other foreign currencies.
+The news of Tether’s plan for CNHT comes while Bitfinex and Tether are under investigation by the New York Attorney General (NYAG) for an alleged cover-up. According to the NYAG’s office, Bitfinex borrowed funds from Tether’s U.S. dollar reserve to fill a shortfall in funds after losing access to $850 million of its own funds held by a third-party payment processor.
+On Monday, the New York Supreme Court denied Bitfinex’s and Tether’s claim that the NYAG lacks jurisdiction to conduct the investigation, saying the companies must cooperate with the agency. Bitfinex and Tether have appealed the decision.
+Editor’s note: Statements in this article have been translated from Chinese.
+The leader in blockchain news, CoinDesk is a media outlet that strives for the highest journalistic standards and abides by a strict set of editorial policies . CoinDesk is an independent operating subsidiary of Digital Currency Group, which invests in cryptocurrencies and blockchain startups.

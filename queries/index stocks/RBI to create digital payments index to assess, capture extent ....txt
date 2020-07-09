@@ -1,0 +1,34 @@
+Pivot Or Perish Market Dashboard India-China Face-Off The Future Of Covid Tracker Lounge Coronavirus India2Global Emerging Tech Conclave #WFHLife Long Reads Money With Monika, Season 4 Mint 50 - Top Mutual Funds Plain Facts Mark To Market Podcasts Money With Monika, Season 3 Companies Markets Money Start-ups Mutual Funds Insurance Technology Industry Opinion Politics
+Home > News > world >RBI to create digital payments index to assess, capture extent of digitalisation
+RBI to create digital payments index to assess, capture extent of digitalisation
+1 min read . Updated: 06 Feb 2020, 12:30 PM IST Ishita Guha
+The Reserve Bank of India (RBI) on Thursday announced a Digital Payments Index (DPI) to assess and capture the extent of digitalisation of payments effectively.
+“The DPI would be based on multiple parameters and shall reflect accurately the penetration and deepening of various digital payment modes. The DPI will be made available from July 2020 onwards," the Reserve Bank said in its statement on developmental and regulatory policies.
+The banking regulator and the government have been working on facilitating adoption of cashless payment systems like digital wallets, internet banking, credit and debt cards. The government recently scrapped merchant discount rates (MDR) on payments made through Rupay debit cards and the Unified Payments Interface (UPI). There are reports of the government planning to scrap MDR on all debit cards.
+MDR is the cost paid by a merchant to a bank for accepting payment from their customers via digital means. The merchant discount rate is expressed in percentage of the transaction amount. It is also applicable for online transactions and QR-based transactions.
+The amount that the merchant pays for every transaction gets distributed among three stakeholders--the bank that enables the transaction, vendor that installs the point of sale (PoS) machine and the card network provider such as Visa, MasterCard, RuPay.
+Payments via digital modes are expected to make transactions more transparent and thereby prevent tax evasion.
+The announcement on the DPI was made along with the RBI’s monetary policy statement released on Thursday. The Monetary Policy Committee (MPC) unanimously decided to leave the key lending rate unchanged for the second consecutive bi-monthly policy at 5.15% and maintained its accommodative stance.
+* Thank you for subscribing to our newsletter.
+Click here to read the Mint ePaperLivemint.com is now on Telegram. Join Livemint channel in your Telegram and stay updated
+You are now subscribed to our newsletters. In case you can’t find any email from our side, please check the spam folder.
+lozad('.lozad', { load: function(el) { el.src = el.dataset.src; el.onload = function() { el.classList.add('fade')}}}).observe()
+.myAccount .planSec, .myAccount a.LinkCTA{padding:16px; margin:16px; box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.1); background-color: #fff;}
+	       		var userData = data;
+	       		var name = userData.name;
+	       		var email = userData.email;
+	       		var signupSource = userData.source;
+	       		var subscribedAtOnce = userData.subscribedAtOnce;
+	       		var plan  = userData.plan;
+	       		document.getElementById('uName').innerHTML = "<strong>"+name+"</strong>" + email;
+		       		var status = planData.status;
+		       		var purchaseSource = planData.source_device;
+			       		var nextActivationDate = planData.current_term_ends_at;
+			       		var planDescription = planData.plan.description;
+			       		var planName = planData.plan.name;
+			       		var planPrice = planData.amount;
+			       		//var planInterval = planData.shipping_interval;
+			       		var planInterval = planData.duration;
+			       		var planUnit = planData.interval_unit;
+			       		//var html = "<strong>Your Subscription Plan</strong>"+planName+" ₹"+planPrice+" / "+planInterval+" " + nextBillingHtml + cancelHtml; 
+			       		var html = "<strong>Your Subscription Plan</strong> "+planDescription + " "+ planName +": ₹"+planPrice + " "+ nextBillingHtml + cancelHtml;

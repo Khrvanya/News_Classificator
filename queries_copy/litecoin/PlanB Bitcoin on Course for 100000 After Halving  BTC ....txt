@@ -1,0 +1,20 @@
+From an update on one of the most closely-watched Bitcoin forecasts in existence to efforts to tokenize stocks on the XRP Ledger, here’s a look at some of the stories breaking in the world of crypto.
+The latest outlook from the crypto analyst PlanB is going viral.
+The anonymous analyst says despite Bitcoin’s wild ride in 2019, with highs approaching $14,000 and lows nearing $3,000, BTC remains on course to hit $100,000 – according to the much-hyped stock-to-flow ratio.
+He says Bitcoin’s halving, which is likely to happen in May of next year, remains one of the strongest catalysts for the future growth of the leading cryptocurrency.
+“In my opinion the run-up is not bearish at all, we are close to the S2F model value, like [the] last 2 halvings. The only thing that surprises me is why we don’t see front running.”
+— PlanB (@100trillionUSD) December 1, 2019
+As for the timeline, PlanB says the model indicates $100k will likely happen between 2020 and 2023.
+Stock-to-flow measures the existing supply of Bitcoin against the amount of BTC entering circulation. Analysts use it for commodities like gold to show how the scarcity or abundance of an asset is tied to its value.
+Despite its popularity, the ratio has its fair share of detractors. Analyst and economist Alex Krüger says stock-to-flow is far from reliable.
+“Amazing how so many bring up S2F these days whenever anyone mentions bitcoin supply… I don’t think it is very important, it is massively over-hyped.
+The Stock to Flow model is to bulls, what the Tether Manipulation paper is to bears. Both based on fancy looking statistical models (more so the latter). Both are flawed. Doubt whoever believes in these extremes will change their minds. The mind believes what it wants to believe.”
+Bob Ras, CEO of the Estonia-based crypto exchange CoinField, says the XRP Ledger is standing up to stress tests for the company’s new tokenized asset trading platform, Sologenic.
+CoinField recently fired up a Ripple-approved validator on the XRP Ledger as it gears up for launch.
+Sologenic is designed to let people trade thousands of tokenized versions of stocks and exchange-traded funds against both XRP and a new token called SOLO.
+Sologenic transaction handler is FAST! 200 #SOLO transactions are confirmed in less than 15 seconds on #XRP network! Gotta love #XRP ! @realSologenic pic.twitter.com/ZSsi5Wjown
+— Bob Ras (@bobrasX) November 30, 2019
+The lead developer working to bring privacy and fungibility features to Litecoin says early progress is going smoothly.
+In a new blog post and Twitter thread , David Burkett says step one was getting familiar with LTC’s code base, which is a fork of Bitcoin.
+It’s no secret that their dev process has long been to just merge the latest Bitcoin changes. Part of the challenge with the EB will be designing it in a way that this practice can continue, in case I get hit by a bus.”
+So far, there’s no launch date set for the upgrade.

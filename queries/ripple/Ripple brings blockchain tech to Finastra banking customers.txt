@@ -1,0 +1,7 @@
+Editorial | what does this mean?
+This content has been selected, created and edited by the Finextra editorial team based upon its relevance and interest to our community.
+Ripple has struck a deal to offer its blockchain technology for cross-border payments to Finastra's banking customers.
+Under the agreement, Finastra's hundreds of customers will have access to RippleNet, Ripple’s global blockchain payments network, to provide what the firm claims are faster, cheaper and more reliable payments.
+Customers will be hosted on Ripple’s cloud solution which promises to improve speed of integration with other network partners and allow for faster upgrades. They will also have the option to use On Demand Liquidity, which leverages the digital asset XRP for cross border payments.
+Meanwhile, Ripple’s more than 200 customers will get access to Finastra’s network of banks, allowing mutual customers to easily access and partner with each other, increasing overall volume on the network. Finastra's banking customers currently process millions of transactions each month.
+Marcus Treacher, SVP, customer success, Ripple, says: "This partnership will enable Ripple to expand the reach and solutions for our partners, and the footprint of RippleNet while allowing customers to transact directly with each other."

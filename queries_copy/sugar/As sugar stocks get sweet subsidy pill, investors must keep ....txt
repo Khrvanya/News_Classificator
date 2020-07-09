@@ -1,0 +1,35 @@
+As sugar stocks get sweet subsidy pill, investors must keep eye on inventories
+2 min read . Updated: 02 Sep 2019, 11:52 PM IST Clifford Alvares
+Sugar companies have received a breather from the government in the form of export subsidies, but that may not make the sugar story sweet any time soon.
+That’s because the sugar story has been beset with problems of excess production and inventory, both globally and domestically. Over the last two years, there has been bumper sugar production.
+India produced about 33 million tonnes (mt) of sugar in the 2018-19 sugar season. This year, it is expected to surpass Brazil, which has traditionally held the position of the largest producer.
+This has not only swelled domestic stocks to their highest levels in the last decade but also kept sugar prices weak. Analysts estimate domestic inventory to rise to an all-time high of 14.5 mt by October.
+As such, the Union cabinet’s approval of export subsidy for 6 mt of sugar is a good move that will help to bring down stocks. Besides, sugar cane arrears that have risen to about ₹30,000 crore during 2018-19 will also reduce. But, this may still not be enough for the sugar industry because inventory could still remain high at about 8 mt, even if exports are a success.
+High sugar production, both domestically and globally, has kept a lid on prices. Already, international sugar prices are quite close to decadal lows hovering at about 11.14 cents per pound (a pound equals 0.45kg). To top it, global supplies have risen and the domestic export subsidy may further increase global supplies. As a result, globally, prices may continue to remain under pressure.
+Note that domestic sugar prices are much higher than those prevailing in the international market. So the government’s export subsidy may help increase exports to an extent, although the benefits may be limited as international prices may come under further pressure.
+A lot will also depend on the diversion of sugar or sugar cane for ethanol production. The government’s decision to increase ethanol blending to 10% by 2020 is seen as being beneficial to sugar producers. Most sugar companies are expanding their ethanol production.
+“We believe increasing blending levels and sugarcane diversion towards B heavy ethanol would benefit integrated sugar companies. Moreover, in the long run, the industry would be able to balance sugar inventory levels during times of excess sugar production. This would drive earnings for sugar companies," said analysts at ICICI Direct Research in a client note.
+Nevertheless, stock prices of sugar companies have raced upwards on the subsidy news last week. Balrampur Chini Mills Ltd’s stock was up 9.5% last week, EID-Parry (India) Ltd 4.7%, Bannari Amman Sugars Ltd 4.9%, and Triveni Engineering and Industries Ltd 3.8%. Stocks of smaller sugar producers too posted gains following the buzz. This may make some of them a tad too expensive.
+* Thank you for subscribing to our newsletter.
+Click here to read the Mint ePaperLivemint.com is now on Telegram. Join Livemint channel in your Telegram and stay updated
+You are now subscribed to our newsletters. In case you can’t find any email from our side, please check the spam folder.
+lozad('.lozad', { load: function(el) { el.src = el.dataset.src; el.onload = function() { el.classList.add('fade')}}}).observe()
+.myAccount .planSec, .myAccount a.LinkCTA{padding:16px; margin:16px; box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.1); background-color: #fff;}
+	       		var userData = data;
+	       		var name = userData.name;
+	       		var email = userData.email;
+	       		var signupSource = userData.source;
+	       		var subscribedAtOnce = userData.subscribedAtOnce;
+	       		var plan  = userData.plan;
+	       		document.getElementById('uName').innerHTML = "<strong>"+name+"</strong>" + email;
+		       		var status = planData.status;
+		       		var purchaseSource = planData.source_device;
+			       		var nextActivationDate = planData.current_term_ends_at;
+			       		var planDescription = planData.plan.description;
+			       		var planName = planData.plan.name;
+			       		var planPrice = planData.amount;
+			       		//var planInterval = planData.shipping_interval;
+			       		var planInterval = planData.duration;
+			       		var planUnit = planData.interval_unit;
+			       		//var html = "<strong>Your Subscription Plan</strong>"+planName+" ₹"+planPrice+" / "+planInterval+" " + nextBillingHtml + cancelHtml; 
+			       		var html = "<strong>Your Subscription Plan</strong> "+planDescription + " "+ planName +": ₹"+planPrice + " "+ nextBillingHtml + cancelHtml;

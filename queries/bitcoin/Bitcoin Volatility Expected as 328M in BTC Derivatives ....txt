@@ -1,0 +1,26 @@
+On May 29, CME BTC contracts expire, meaning Bitcoin price could experience volatility before and after the expiry.
+CME Bitcoin ( BTC ) futures and options markets are set to mature this Friday and traders are closely watching to see how spot prices will react to this event. The contracts expire every two months and according to market analysts, they negatively influence BTC’s price in spot markets. In fact, recent data from Cointelegraph and Arcane Research found that there is a 2.3% drop ahead of CME expiry.
+Although some investors claim manipulation could have been behind the price drops preceding CME contracts expiration, the futures average daily volume has been around $380 million.
+More importantly, the instrument is cash-settled, meaning no Bitcoin is effectively changing hands. This brings forth the question of whether investors should be worried about Bitcoin’s price action on May 29. If so, what indicators can be used to predict eventual price swings?
+Open interest is actually a much better metric to understand professional investors' actual positions as it measures the total number of contracts held by market participants.
+An investor could have bought $50 million worth of futures and sell the entire position a couple of days later. This $100 million in traded volume does not currently represent any market exposure, therefore it should be disregarded.
+Bitcoin Futures Open Interest - USD. Source: Skew
+As per the above chart, CME Bitcoin Futures open interest soared from a mere $130 million in late March to $386 million this month. That’s far more significant than Bitmex and OKEx 50% growth.
+Also, it should be noted that there’s no way to know if an unregulated venue's figures are inflated, especially when there’s little to no KYC involved.
+Options markets are an entirely different derivatives contract. There are endless strategies traders employ, but in the most basic one the buyer of a call option can acquire Bitcoin for a fixed price on a predetermined date.
+As recently reported by Cointelegraph, institutional investors' growing appetite for CME Bitcoin Options saw a 1000% increase in open interest .
+Total open interest for the May 29 expiry options is currently sitting at 32,000 BTC, although only 19,000 BTC between $7,500 and $10,500 strikes which equates to a little over $170 million.
+Interestingly enough, at CME, open interest for this Friday is almost entirely composed of call (bullish) options. The same pattern can be seen at LedgerX, another regulated venue for institutional traders.
+Undoubtedly, such large open interest both from futures and options will almost certainly create a huge arm wrestle between buyers (long) and sellers (short). The problem is, there’s no way to know exactly how much of those derivatives are exclusively used for hedging.
+An investor holding 1,000 BTC may have recently been spooked about Bitcoin’s halving or the possibility of a price drop due to the decreasing hashrate. While selling their stake is  an option, another strategy would be to sell a $7,000 strike put option.
+Doing this allows the investor to be paid upfront, therefore acquiring more cash as long as BTC closes above $5,000 on May 29.
+The same problem occurs in the futures market. For every trade there must be a buyer (long) and a seller (short) of equal size no matter if the exchange is BitMEX, CME, OKEx, Binance or LedgerX.
+The once catch is there’s no way to know if the short seller holds an equally sized long position in the spot market or at another futures venue.
+To better gauge the potential impact of the upcoming expiry, traders should monitor CME open interest for the May contract. Investors typically roll over the position over the last few weeks.
+In order to carry a long position one needs to buy the June contract and sell the one from May, thereby reducing short-term contract open interest. This is unlike perpetual contracts that make up the lion’s share of BitMEX and OKEx volume.
+If these investors decide to not roll over their positions, this would likely increase the odds of additional volatility during expiry.
+Bitcoin Futures Open Interest - contracts (5 BTC each). Source: CME
+The latest data from CME shows an open interest of 3,473 ($158 million) contracts for May with each contract representing 5 BTC, so this amounts to $158 million.
+Investors should keep an eye on this figure as CME average daily volume seldomly surpasses $400 million in a single day.
+A significant change in open interest could lead to more intense movements by investors.
+The views and opinions expressed here are solely those of the author and do not necessarily reflect the views of Cointelegraph. Every investment and trading move involves risk. You should conduct your own research when making a decision.

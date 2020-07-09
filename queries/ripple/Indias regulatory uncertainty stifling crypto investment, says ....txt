@@ -1,0 +1,13 @@
+India's regulatory uncertainty stifling crypto investment, says Ripple
+A lack of regulatory clarity means that technical innovation in India's crypto market is being crippled, say Ripple execs
+Ripple is a blockchain-powered remittance network (Image: Shutterstock)
+Ripple executives say a concrete legislative framework for crypto in India is required to encourage institutional investment.
+Crypto in India has faced uncertainty as lawmakers and regulators have issued conflicting rulings on its status.
+The executives don't believe that a retail CBDC is likely in India, but a wholesale CBDC is feasible.
+India’s “grey zone” of digital asset regulation is preventing banks and institutional investors from entering the crypto space, stifling the industry. That's the verdict of two senior Ripple leaders based in the country.
+Speaking with Decrypt media partner Forkast , Ripple’s Navin Gupta, managing director of South Asia and EMEA, and Sagar Sarbhai, the company’s head of government and regulatory affairs for Asia Pacific, outlined what they see as a path forward for crypto in India in light of rumors that the government might push for an outright crypto ban once Parliament reconvenes. Ripple recently released a white paper proposing a framework for India to regulate digital assets.
+"Instead of saying 'blockchain good, crypto bad,' [regulators should] look at this picture more holistically and understand the positive use cases of digital assets and cryptocurrencies," said Sarbhai. "[Regulators should use] that to encourage more financial inclusion and lower barriers to commerce, push more digital payments, which has been a consistent theme in India, in Prime Minister Modi's regime."
+Gupta adds that this lack of clarity is a massive deterrent for the capital markets, which believe that there is money to be made investing in blockchain startups in the world’s fifth-largest economy, but are hesitant to take the first step.
+“We need to give clear signals to foreign investors. So if there are investors who are coming into India expecting that there is no law against trading cryptocurrencies or digital assets, then we owe it to these investors to give them a clear guideline of whether you can do this or not,” said Gupta. “It's very important for India to come out of this fog and essentially say, "Hey, you know what? This is a lead regulator. This is how the consultation process would work, and this is when and how we are going to make a decision.”
+Will India build a CBDC?
+One of the hottest topics in the crypto industry is the idea of a Central Bank Digital Currency, or CBDC, as nations around the world are exploring creating them to improve liquidity and potentially provide a credible alternative to the US dollar.

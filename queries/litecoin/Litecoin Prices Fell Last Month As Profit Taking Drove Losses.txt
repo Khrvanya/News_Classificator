@@ -1,0 +1,32 @@
+Following this event, the cryptocurrency failed to rally in price, which may have helped precipitate notable losses in the subsequent weeks.
+“After a meteoric rise in value this year, Litcoin has been consolidating in recent months due to profit-taking and the generally poor performance of crypto assets since July,” said Joe DiPasquale, CEO of cryptocurrency hedge fund manager BitBull Capital .
+In addition, the digital currency markets suffered a “huge sell off” toward the end of September, which “caused a lot of people to dump a lot of tokens at that exact time,” said Tim Enneking, managing director of Digital Capital Management .
+Litecoin was “crushed” in this sell-off, which “affected every major token in the space,” he stated.
+The sentiment surrounding litecoin fluctuated significantly during the month, according to data provided by cryptocurrency analytics platform TheTIE.io .
+“Litecoin daily sentiment had been extremely positive, peaking on September 10th and remaining positive throughout Litecoin’s recent run-up,” said Joshua Frank, cofounder of TheTIE.io.
+“Sentiment began to drop negative on the 22nd of September coinciding with the start of massive downwards price movement. Since the 25th sentiment has seen a slight rebound.”
+This chart helps illustrate these changes:
+Litecoin's daily sentiment plotted against its price.
+“We have also seen tweet volumes on Litecoin drop to the lowest levels that we had ever recorded at the end of September,” stated Frank.
+“Overall tweet volumes are down over 86% from their peak in January 2018,” he noted.
+The chart below helps depict this activity:
+However, Frank added that many major digital currencies are suffering similar problems, noting that for the most part, their long-term sentiment has been declining since August.
+“Among the largest cryptocurrencies by market cap, sentiment on Bitcoin and EOS remain the highest,” he noted.
+“Litecoin long-term sentiment has seen by far the biggest drop off,” Frank emphasized.
+The chart below helps show these developments:
+Many have voiced their doubts about litecoin development in recent months.
+“People are definitely concerned about the development,” said Marouane Garcon, managing director of crypto-to-crypto derivatives platform Amulet .
+“[Litecoin] doesn’t have the luster of an Ethereum which continues to update and improve at a much faster pace, and with the introduction of DeFi it is a lock-in at number two. Their development is the biggest question mark surrounding Litecoin.”
+Evan Kuo, CEO and cofounder of digital currency firm Ampleforth , also weighed in.
+“The project is perceived as abandoned,” he stated.
+However, Kuo emphasized that for litecoin, a “purely monetary instrument,” “only a small amount of maintenance is required.”
+Even so, that ongoing work is “still necessary,” he noted.
+“By comparison if aspirational platforms like Ethereum had ghost-town like repos that would be more concerning,” stressed Kuo.
+“Litecoin is essentially a lighter version of Bitcoin, with lower transaction fees and faster confirmation times,” noted DiPasquale.
+“Over the years, Litecoin’s utility was due to Bitcoin's shortcomings, and naturally, as Bitcoin improves, Litecoin becomes less relevant,” he asserted.
+“Add to this the fact that development has been slow and mining reward has been halved this year - people are losing interest in LTC,” claimed DiPasquale.
+Litecoin has suffered some perceived setbacks lately, but it is still one of the top digital currencies by market value, repeatedly ranking in the top 10 on CoinMarketCap.
+“Litecoin has certainly done better than most cryptocurrencies and is still in the elite class,” said Garcon.
+The altcoin, one of the original forks of bitcoin, has been in existence since 2011, giving it greater tenure than the majority of digital currencies.
+“Ultimately, Litecoin's future will depend on how fast the Litecoin Foundation manages to forge new, game-changing partnerships alongside showing development progress for MimbleWimble and Confidential Transactions,” said DiPasquale.
+Further, the altcoin will need to differentiate itself, he stated.

@@ -1,0 +1,11 @@
+Please consider using a different web browser for better experience.
+Please enable JavaScript in your browser for a better site experience.
+South Korean crypto exchange Upbit has lost cryptocurrency worth $49 million, the exchange has confirmed.
+Upbit’s CEO said in a blog post at 9:00 UTC on Wednesday that an abnormal transaction from its wallets had resulted in the outflow of 342,000 ether (ETH) earlier today.
+The exchange said the loss will be covered by its own assets. Meanwhile, withdrawals and deposits have already been suspended as a precaution. The firm estimated that it will take “at least two weeks” for services to be back to normal.
+According to transaction tracking site Whale Alert, the lost ether – worth $49 million at press time – was sent from Upbit’s wallet to an unknown ethereum address starting with 0xa09871 about 04:00 UTC on Wednesday.
+In fact, more than $100 million worth of multiple cryptocurrencies have been sent out from Upbit today. However, the exchange said all other transactions, apart from the abnormal ethereum outflow, were the exchange moving cryptos from hot wallets to cold wallets to prevent further losses.
+Starting from around 5:00 UTC, 10 transactions, each of $1.51 million-worth of tron (TRX), as well as $3.5 million in BitTorrent (BTT), were further sent to unknown blockchain addresses, according to Whale Alert.
+After that, transactions of $8.7 million-worth of stellar (XLM), $1.08 million in OmiseGo (OMG), $22 million in EOS, and $3.4 million in status (SNT) were further transacted from Upbit’s wallets to those of the Bittrex crypto exchange.
+Upbit was initially launched as a partnership between Bittrex and South Korean app maker Dunamu, which is backed messaging giant Kakao.
+The leader in blockchain news, CoinDesk is a media outlet that strives for the highest journalistic standards and abides by a strict set of editorial policies . CoinDesk is an independent operating subsidiary of Digital Currency Group, which invests in cryptocurrencies and blockchain startups.

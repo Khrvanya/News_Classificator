@@ -1,0 +1,32 @@
+1 min read . Updated: 21 Jun 2020, 12:10 PM IST Staff Writer , Edited By Surajit Dasgupta
+Subdued retail demand for gold in India forced dealers to offer discount on the precious metal over official domestic prices. Gold dealers in India were offering a discount of up to $13 an ounce over official domestic prices this week, Reuters reported, down from the last week's $20.
+Gold demand remained subdued in India even as most jewellery stores have opened. High prices and coronavirus crisis have been blamed for the muted demand. Domestic gold price in India includes a 12.5% import tax and 3% GST.
+In futures market, gold prices in India zoomed closer to record high, settling at ₹47,919 per 10 gram on Friday. Silver futures also finished up 1.5% higher at ₹48,598 per kg.
+Gold demand remained weak in other major Asian hubs though some analysts were hopeful that the market may be starting to recover.
+Globally, spot gold prices jumped 1% on Friday to close near $1,740 an ounce. Fears of a second wave of coronavirus as economies open and expectations of more stimulus have driven gold prices higher.
+Gold prices have rallied about 15% in global markets this year as concerns of economic slowdown, coronavirus crisis and unprecedented amounts of government and central bank stimulus have boosted its safe haven status.
+Meanwhile, stock exchange BSE has said it will introduce liquidity enhancement scheme (LES) in two options contracts - gold mini and silver kilo - from July 6, a move aimed at boosting trade in these products.
+Under the LES, brokers and other market intermediaries are given incentives for a specified period of time to bring in and generate investor interest in securities that have limited trading activity. (With Agency Inputs)
+* Thank you for subscribing to our newsletter.
+Click here to read the Mint ePaperLivemint.com is now on Telegram. Join Livemint channel in your Telegram and stay updated
+You are now subscribed to our newsletters. In case you can’t find any email from our side, please check the spam folder.
+lozad('.lozad', { load: function(el) { el.src = el.dataset.src; el.onload = function() { el.classList.add('fade')}}}).observe()
+.myAccount .planSec, .myAccount a.LinkCTA{padding:16px; margin:16px; box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.1); background-color: #fff;}
+	       		var userData = data;
+	       		var name = userData.name;
+	       		var email = userData.email;
+	       		var signupSource = userData.source;
+	       		var subscribedAtOnce = userData.subscribedAtOnce;
+	       		var plan  = userData.plan;
+	       		document.getElementById('uName').innerHTML = "<strong>"+name+"</strong>" + email;
+		       		var status = planData.status;
+		       		var purchaseSource = planData.source_device;
+			       		var nextActivationDate = planData.current_term_ends_at;
+			       		var planDescription = planData.plan.description;
+			       		var planName = planData.plan.name;
+			       		var planPrice = planData.amount;
+			       		//var planInterval = planData.shipping_interval;
+			       		var planInterval = planData.duration;
+			       		var planUnit = planData.interval_unit;
+			       		//var html = "<strong>Your Subscription Plan</strong>"+planName+" ₹"+planPrice+" / "+planInterval+" " + nextBillingHtml + cancelHtml; 
+			       		var html = "<strong>Your Subscription Plan</strong> "+planDescription + " "+ planName +": ₹"+planPrice + " "+ nextBillingHtml + cancelHtml;

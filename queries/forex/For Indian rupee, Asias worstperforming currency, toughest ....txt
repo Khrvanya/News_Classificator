@@ -1,0 +1,35 @@
+2 min read . Updated: 29 Jun 2020, 08:08 AM IST Kartik Goyal , Bloomberg
+India’s rupee, this year’s worst-performing currency in Asia, may finally be ready to join the recovery seen in emerging markets.
+The rupee may strengthen to 75 per dollar by the end of December, an advance of about 1% from Friday’s close of 75.6475, according to a Bloomberg survey. The currency has dropped 5.6% so far in 2020.
+The prospect of a rare current-account surplus following robust foreign inflows and the global oil-price collapse will help nudge the rupee higher, according to Barclays Plc and Scotiabank. A mild improvement in India’s dominant services sector and trade data in May after the gradual easing of the world’s strictest lockdown also bodes well for future flows into local assets.
+“The inflows picture has turned hugely positive for the rupee, with many companies attracting foreign interest," said Sajal Gupta, head of foreign exchange at Edelweiss Securities Pvt. in Mumbai. The rupee may climb to as high as 72 by end of the year, he said, implying a gain of about 5%.
+Global funds have piled $4.6 billion into Indian stocks this quarter, the highest in the region. A chunk of those flows is owing to a rights offering by Reliance Industries Ltd. and stake sales in Kotak Mahindra Bank Ltd. and Bharti Airtel Ltd. Another $15 billion is seen coming in by way of foreign direct investment inflows, thanks to a flurry of deals for Reliance’s digital unit, Jio Platforms Ltd.
+At the same time, the nation’s current account is set to turn into a surplus in the June quarter as imports have fallen faster than exports. Barclays Plc estimates the surplus -- the first since 2004 -- at about 1% of the gross domestic product.
+“The improvement in India’s external metrics has eased some of the impact from the dislocations caused by the pandemic," said Ashish Agrawal, FX analyst at Barclays in Singapore. “While low oil prices are supporting India’s terms of trade, we think a bigger impact on the current account will come from reduced demand for both oil and non-oil imports."
+Still, the ride until the year-end is unlikely to be smooth.
+As in other regions, the optimism driving flows into shares is yet to be backed by a meaningful improvement in economic data. And the Reserve Bank of India is likely to continue to buy dollars as it accumulates reserves and tries to boost exports, slowing the currency’s ascent.
+“The rupee is set to recover in the coming months," said Anindya Banerjee, currency strategist at Kotak Securities Ltd. “Had it not been for the central bank’s dollar purchases, the rupee would have gained in this quarter also."
+This story has been published from a wire agency feed without modifications to the text. Only the headline has been changed.
+* Thank you for subscribing to our newsletter.
+Click here to read the Mint ePaperLivemint.com is now on Telegram. Join Livemint channel in your Telegram and stay updated
+You are now subscribed to our newsletters. In case you can’t find any email from our side, please check the spam folder.
+lozad('.lozad', { load: function(el) { el.src = el.dataset.src; el.onload = function() { el.classList.add('fade')}}}).observe()
+.myAccount .planSec, .myAccount a.LinkCTA{padding:16px; margin:16px; box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.1); background-color: #fff;}
+	       		var userData = data;
+	       		var name = userData.name;
+	       		var email = userData.email;
+	       		var signupSource = userData.source;
+	       		var subscribedAtOnce = userData.subscribedAtOnce;
+	       		var plan  = userData.plan;
+	       		document.getElementById('uName').innerHTML = "<strong>"+name+"</strong>" + email;
+		       		var status = planData.status;
+		       		var purchaseSource = planData.source_device;
+			       		var nextActivationDate = planData.current_term_ends_at;
+			       		var planDescription = planData.plan.description;
+			       		var planName = planData.plan.name;
+			       		var planPrice = planData.amount;
+			       		//var planInterval = planData.shipping_interval;
+			       		var planInterval = planData.duration;
+			       		var planUnit = planData.interval_unit;
+			       		//var html = "<strong>Your Subscription Plan</strong>"+planName+" ₹"+planPrice+" / "+planInterval+" " + nextBillingHtml + cancelHtml; 
+			       		var html = "<strong>Your Subscription Plan</strong> "+planDescription + " "+ planName +": ₹"+planPrice + " "+ nextBillingHtml + cancelHtml;

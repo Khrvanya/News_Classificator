@@ -1,0 +1,7 @@
+The French central bank has announced the first successful test of a digital euro.
+Per a May 20 announcement from Banque de France, France has become the first country to successfully trial a digital euro, operational on a blockchain, following a call for new technology to back such a development at the end of March
+The bank says it tested a sale of securities for central bank digital currency (CBDC) on May 14, signalling the beginning of more robust testing.
+Though the bank’s announcement did not go into great detail, it did indicate that the current pilot program is focusing on wholesale rather than retail uses for a digital euro. Retail CBDCs would operate open to regular consumers à la Bitcoin or Apple Pay.
+A wholesale CBDC would be the province of banks and institutional players — as the French central bank says, “interbank regulations.”
+This recent pilot of a securities issuance in exchange for a digital euro was based on software received following the bank’s March 27 call for applications. Per today’s announcement, the bank will spend the coming weeks running similar tests on other files received as part of the same initiative.
+Banque de France has been known to be especially active in developing a digital euro. Pending the departure of the United Kingdom, France will become the second-largest economy in the Eurozone after Germany.

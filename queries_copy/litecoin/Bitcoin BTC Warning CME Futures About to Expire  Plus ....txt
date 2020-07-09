@@ -1,0 +1,17 @@
+From a notorious Bitcoin expiration date to a big investment at Ripple, here’s a look at some of the stories breaking in the world of crypto.
+CME’s Bitcoin futures contracts are cash-settled, which essentially allows people to place a side bet on the price of BTC.
+And as Luke Martin of Venture Coinist explains, the price of Bitcoin has often dropped in the days leading up to the event.
+“Next BTC CME expiration is on Friday 11/29.
+I charted out price returns before & after expiration since the contracts started trading.
+Historical $BTC CME futures expiration full data:
+•If negative return 1-week before expiration, 73% of the time returns are positive 1-week after pic.twitter.com/9SSrINaU1b
+— Luke Martin (@VentureCoinist) November 25, 2019
+Conspiracy theories about the manipulation of Bitcoin futures have persisted for months without concrete evidence.
+The Ethereum Foundation is advising the network’s node operators to update as soon as possible by downloading the latest version of their Ethereum client, ahead of the blockchain’s much-anticipated Istanbul upgrade.
+“The Ethereum network will be undergoing a scheduled upgrade at block number 9,069,000, which is predicted to occur on Saturday, December 7, 2019. The exact date is subject to change due to variable block times and timezones.
+Please upgrade your node before Sunday, December 1, 2019 to account for the variable block times.”
+The Istanbul hard fork is a system-wide update designed to improve the blockchain’s efficiency and security. It’s the eighth hard fork since Ethereum’s launch in July of 2015.
+Ethereum’s core developers are currently searching for any critical errors in the code, and if any are discovered the launch date will be pushed back to January.
+Ripple is investing a final $20 million in payments giant MoneyGram.
+Back in June of this year, Ripple invested an initial $30 million in MoneyGram. With the new round, Ripple now owns 9.95% of the company’s outstanding common stock.
+MoneyGram says it is now moving about 10% of its Mexican peso foreign exchange trading volume through ODL. It’s launching four new cross-border corridors using ODL, including Europe, Australia and the Philippines.

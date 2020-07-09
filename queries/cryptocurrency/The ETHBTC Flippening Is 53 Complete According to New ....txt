@@ -1,0 +1,12 @@
+The Ethereum/Bitcoin flippening is more than half complete, according to a new metric.
+A new metric from German site The Blockchain Center suggests that the long-awaited “flippening” —  where Ethereum overtakes Bitcoin — is more than halfway complete.
+The newly created Flippening Index currently stands at 53.3%. Backtested, it shows this is the first time the index has topped 50% in 18 months — the highest point since March 2019, when it was around 56.2%.
+Of course, this latest version of the “flippening” has completely altered the traditional definition. It originally referred to Ether’s market cap relative to Bitcoin, but given Ether is currently at just 14.9% of Bitcoin’s market cap, it still has quite the mountain to climb .
+The Flippening Index (which shares some features with the now-defunct Flippening Watch ) is designed to be a more thorough comparison, weighting the average of eight other indicators to hopefully provide a better overall metric of the use of, and interest in, the two blockchain networks. The site says:
+“The term Flippening refers to the possibility of Ethereum (ETH) overtaking Bitcoin (BTC) as the biggest cryptocurrency. Initially it described the hypothetical moment in the future when Ethereum overtakes Bitcoin by market cap. This tool takes that concept a step further and looks at the long term trend of eight different metrics, that show the status of both networks.”
+On Reddit, the Blockchain Center’s Holger Rohm who designed the metric, explained why he’d simply weighted all the metrics:
+"I thought about weighing market cap twice, since that's what it was all about initially, but how should I weigh without it being arbitrary?"
+Ethereum leads on just two of the eight indicators — transaction count and transaction fees. While it lags behind Bitcoin with 37.8% of BTC’s dollar-denominated transaction volume, the site notes that Ethereum would be “way ahead” if the metric included the value of ERC-20 tokens and stablecoins transferred on the network.
+Ethereum has 56.4% of Bitcoin’s active addresses, just under one third of the exchange trading volume, and only 10.4% as many Google searches as Bitcoin.
+Ethereum also has two thirds as many nodes as Bitcoin — which excited at least one member of the Ethereum subreddit, /u/SuddenMind, who said node count is something “we can flip today! Seriously we just need a couple thousand people more to run a node. Let’s get a campaign started!”
+The majority of the data for the site is sourced from CoinGecko and Coin Metrics.

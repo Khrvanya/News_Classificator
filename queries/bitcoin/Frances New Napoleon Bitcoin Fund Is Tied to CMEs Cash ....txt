@@ -1,0 +1,12 @@
+Please consider using a different web browser for better experience.
+Please enable JavaScript in your browser for a better site experience.
+French asset management firm Napoleon AM has launched a new fund tied to Chicago Mercantile Exchange’s (CME) cash-settled bitcoin futures.
+The “Napoleon Bitcoin Fund” began trading on Dec. 6 with a minimum €100,000 ($110,000) buy-in for professional investors, who must reside in France, according to the prospectus. It can not be traded cross-border.
+It is the first bitcoin fund released by Napoleon AM, the asset management wing of French financial services firm Napoleon Group. Napoleon AM became a licensed “Alternative Investment Fund Manager” in May 2019, the French financial regulator’s website shows .
+And it’s also one of the first French funds to make novel use of CME’s cash-settled Bitcoin futures. The fund seeks exposure to bitcoin price movements without holding any actual bitcoin, according to the prospectus.
+To that end, it trades CME bitcoin futures, the United States’ only regulated cash-settled bitcoin futures products (CME competitor Bakkt launched its own cash-settled bitcoin futures product in Singapore on Monday).
+Napoleon could conceivably tap into Bakkt’s new product; the prospectus and investor factsheet leave open the possibility of including “similar[ly] organized exchange listing cash-settled BTC futures” going forward.
+“We have opened the door for alternative use of futures in order to optimize replication and maintain access to the best sources in the future,” said Napoleon AM’s Communications Director Sergio Gonzalez.
+It remains to be seen how popular an investment vehicle tied to bitcoin futures will be with French investors.
+Their U.S. counterparts have shown some interest in regulated futures products, with the CME recently reporting a 61% year-over-year increase in its bitcoin futures’ open contracts.
+The leader in blockchain news, CoinDesk is a media outlet that strives for the highest journalistic standards and abides by a strict set of editorial policies . CoinDesk is an independent operating subsidiary of Digital Currency Group, which invests in cryptocurrencies and blockchain startups.

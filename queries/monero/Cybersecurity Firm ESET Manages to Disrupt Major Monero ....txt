@@ -1,0 +1,14 @@
+Slovakian cybersecurity firm ESET has reported some success in disrupting the workings of a previously undetected Monero-mining botnet in Latin America.
+Slovakian cybersecurity firm ESET has reported some success in disrupting the workings of a previously undetected Monero ( XMR )- mining botnet in Latin America.
+In an announcement on April 23, ESET said the malware had infected over 35,000 computers since May 2019, with 90% of compromised devices located in Peru.
+ESET researchers have dubbed the botnet VictoryGate, noting that its main activity has been illicit Monero mining — also known as cryptojacking.
+This is the industry term for stealth crypto-mining attacks that work by installing malware that uses a computer’s processing power to mine for cryptocurrencies without the owner’s consent or knowledge.
+The firm’s announcement notes that the malware results in extremely high resource usage on infected computers, resulting in a sustained 90–99% CPU load that can lead to overheating and potentially damage the device.
+The botnet’s propagation vector has been external USB drives, which appear to have files with names and icons that are identical to those contained originally.
+“However, the original files have been copied to a hidden directory in the root of the drive and Windows executables have been provided as apparent namesakes,” ESET writes.
+Having detected the botnet, ESET has had some success in disrupting its operations by taking down its command and control (C&C) server and setting up a “sinkhole.” This works to divert requests to an alternative domain name and has enabled ESET to monitor and control the infected hosts.
+ESET says it is working with the non-profit Shadowserver Foundation to share sinkhole logs and jointly try to mitigate the threat posed by VictoryGate. The researchers emphasized:
+“Despite our efforts, infected USB drives will continue to circulate and new infections will still occur. The main difference is that the bots will no longer receive commands from the C&C [...] However, those PCs that were infected prior to the disruption may continue to perform cryptomining on behalf of the botmaster.”
+Users can meanwhile use the firm’s free online scanner if they believe their device has been infected by the botnet.
+As recently reported , the attackers behind the so-dubbed “Sodinokibi” ransomware have recently switched from Bitcoin ( BTC ) to Monero to better protect their identities from law enforcement.
+Earlier this month, major United Kingdom-based firm Travelex was forced to fork out almost $2.3 million in Bitcoin after being infected by Sodinokibi on new year’s eve 2020.

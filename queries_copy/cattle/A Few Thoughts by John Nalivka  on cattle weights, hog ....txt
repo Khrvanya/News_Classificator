@@ -1,0 +1,29 @@
+I am a fly fisherman and obviously, the goal is landing big trout. So, what does this have to do with the beef industry? Did Nalivka just finally run out of topics concerning the beef industry and decide to write about fishing? No, I haven’t reached that point yet, but I did come across an article in the Wall Street Journal (Mike Cherney, June 14, 2020) this week that was related to an important current issue with the beef industry – weights.
+As it turns out, a fish farm in Australia which raises barramundi, a white fish, has had to deal with fish growing larger than the ideal size to fit the plate (1.8 lbs.) as the result of restaurant closures. According to the article, it takes 8 months to grow barramundi to that ideal weight and by mid-May, there were fish that were already over 2 lbs. Another fish farm in New York grows steelhead trout to a target weight of 7 pounds (well below our target weight for a fly rod!) and faced a similar problem. This probably all sounds familiar – coronavirus, plant closures, sharply reduced cattle slaughter, issues in managing gain, and market-ready cattle standing in the feedlot and reaching record carcass weights. While it may seem like a stretch to relate fish weights to cattle weights or hog weights, the core problems are the same, from the standpoint of both production and marketing.
+Weight is yield and price times quantity equals revenue. Economics and yield go hand in hand. But, as with the fish farms mentioned above, the beef industry must constantly keep the consumer in mind. We all know how quickly those heavier cattle add to the production of beef that must clear the market and historically at lower prices. The industry may face the same problem with the current backlog of cattle and hogs – however many cattle or hogs that may be.
+But, in addition, it is imperative to keep in mind that much like the barramundi and steelhead fitting the plate, beef cuts must continue to fit consumer demand, both in term of the size and quality of the cuts. Now is the time to not only sharpen the focus on consumer demand, but also assessing marketing programs that will create the greatest opportunity to capture the greatest value from your calf crop.
+Readers like you make the Tri-State Livestock News’ work possible. Your financial contribution supports our efforts to deliver quality, relevant coverage of the livestock industry.
+Now more than ever, your support is critical to help us keep our community informed about the evolving coronavirus pandemic and the impact it is having locally. Every contribution, however large or small, will make a difference.
+Each donation will be used exclusively for the development and creation of increased news coverage.
+Start a dialogue, stay on topic and be civil.
+If you don't follow the rules , your comment may be deleted.
+						var vf_adctr = 0;
+								if (++vf_adctr > 10) { return; }
+								var vf_slot_div_id = "ad-comment-" + vf_adctr;
+						var form = this;
+						// after 1/2 second, submit the form
+					return ( currentSubscriptions || [] ).filter( elem => elem.topic_id === node.dataset.topic ).length > 0;
+					topic.classList.toggle( 'vf-follow-toggle-on', getTopicSubscriptionStatus( topic, currentSubscriptions ) );
+						var node = evt.target;
+								console.log( 'failure to unsubscribe: ' + err );
+							var promise = window.viafoura.topics.subscribe( node.dataset.topic, node.dataset.topicname, node.dataset.topictype || 'topic' );
+								console.log( 'failure to subscribe: ' + err );
+					const vfUUID = document.querySelector('meta[name="vf:uuid"]').content,
+					      if (response.status !== 200) return;
+/* <![CDATA[ */ var tribe_l10n_datatables = {"aria":{"sort_ascending":": activate to sort column ascending","sort_descending":": activate to sort column descending"},"length_menu":"Show _MENU_ entries","empty_table":"No data available in table","info":"Showing _START_ to _END_ of _TOTAL_ entries","info_empty":"Showing 0 to 0 of 0 entries","info_filtered":"(filtered from _MAX_ total entries)","zero_records":"No matching records found","search":"Search:","all_selected_text":"All items on this page were selected. ","select_all_link":"Select all pages","clear_selection":"Clear Selection.","pagination":{"all":"All","next":"Next","previous":"Previous"},"select":{"rows":{"0":"","_":": Selected %d rows","1":": Selected 1 row"}},"datepicker":{"dayNames":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"dayNamesShort":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"],"dayNamesMin":["S","M","T","W","T","F","S"],"monthNames":["January","February","March","April","May","June","July","August","September","October","November","December"],"monthNamesShort":["January","February","March","April","May","June","July","August","September","October","November","December"],"monthNamesMin":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"nextText":"Next","prevText":"Prev","currentText":"Today","closeText":"Done","today":"Today","clear":"Clear"}}; /* ]]> */
+/* <![CDATA[ */ var pollsL10n = {"ajax_url":"https:\/\/www.tsln.com\/wp-admin\/admin-ajax.php","text_wait":"Your last request is still being processed. Please wait a while ...","text_valid":"Please choose a valid poll answer.","text_multiple":"Maximum number of choices allowed: ","show_loading":"1","show_fading":"1"}; /* ]]> */
+      var emailRegex = /([a-zA-Z0-9_\.-]+)@([\da-zA-Z\.-]+)\.([a-zA-Z\.]{2,6})/i;
+      var cleanPageLocation = currLocation.replace(emailRegex, "");
+	        _sf_async_config.uid = 57640; _sf_async_config.domain = 'swiftcom.com'; _sf_async_config.useCanonical = true; _sf_async_config.useCanonicalDomain = true;
+	        _sf_async_config.title = 'A Few Thoughts by John Nalivka – on cattle weights, hog weights, and fish weights | TSLN.com';
+	          var oldonload = window.onload;

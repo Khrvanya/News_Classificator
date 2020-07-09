@@ -1,0 +1,23 @@
+Crypto adoption is four times higher in the Fornite community than in Reddit’s own cryptocurrency community. But why?
+Reddit has launched test versions of Ethereum-based "Community Points" in Fortnite and cryptocurrency subreddits.
+It looks like gamers are interested in the tokens much more than crypto enthusiasts.
+Some users have already announced the launch of a Reddit DAO.
+Just a few days after Reddit rolled out trial versions of its Ethereum-based “Community Points” in its cryptocurrency and Fortnite subreddits, one forum has seen much higher takeup. And it wasn’t the cryptocurrency subreddit.
+According to DappRadar’s recently launched Reddit Points Tracker , while both communities have comparable numbers of users, Fortnite fans have registered 9,246 wallets for their “Bricks” coins. In contrast, cryptocurrency subscribers have only registered 2,205 wallets for their “Moons” coins.
+Adoption is four times higher in the Fornite community than in Reddit’s own cryptocurrency community. Image: DappRadar.
+While Reddit’s Community Points are tokens based on the Ethereum blockchain, they are not entirely a “cryptocurrency” in a traditional sense—rather a reward/loyalty system that aims to promote user engagement.
+Redditors can gift, tip and transfer their Community Points between users—or use them to gain access to exclusive community features such as badges, custom emojis and GIFs in comments, the announcement explained.
+Reddit’s Community Points are currently running on the Rinkeby testnet, so balances, transactions and memberships may be reset during that period, the developers warned. After this trial, the system—including points balances—will migrate to the Ethereum mainnet.
+Redditors can gift, tip and transfer their Community Points between users. Image: Reddit.
+But why the greater takeup in the Fortnite community? While the two subreddits have similar subscriber counts, the Fortnite community is much more active. At the time of writing, there’s twice as many Redditors online in the Fortnite subreddit. Further, if you look at Reddit statistics , Fortnite ranks 28th by the number of comments in the last day, while the cryptocurrency subreddit doesn’t even rank in the top 300.
+Some Reddit users have already announced the launch of a decentralized autonomous organization (DAO) dedicated to Reddit’s new cryptocurrencies. A DAO is a way of organizing a group of people with a shared goal, using the blockchain as a way of voting for what to do, and for moving money.
+DAOs are built across the Ethereum ecosystem. They are used to allocate funds for building new projects or to decide how a marketing budget should be spent.
+“A DAO is like a club with a shared bank account, where the power is shared amongst all members as shares which act as voting power. [...] We have summoned a DAO on the same network as MOONS & BRICKS, and you’re welcome to play around with us and figure out what we want to do ” the announcement explained.
+In this case, since the cryptocurrencies are built on an Ethereum testnet, the DAO is also built on the same testnet. A testnet is a practice version of a public blockchain—where the money has no value.
+To join the DAO, Redditors will have to submit a proposal and request a proportionate amount of shares.
+Some Reddit users have already announced the launch of a DAO dedicated to Reddit’s new cryptocurrencies. Image: "MOONS & BRICKS DAOs."
+“With MOONS and BRICKS now available to Reddit users, these tokens can be used elsewhere throughout the entire Ethereum ecosystem. In the Ethereum space, we’ve been using what are called DAOs to collaborate and coordinate as communities, and think it would be really powerful on Reddit,” the proposal stated.
+Although it’s not entirely clear what the goal of such a DAO could be. Its organizers just noted that it will allow Redditors to create a “bank of funds [that] can be collectively voted on to spend on whatever the community wants.”
+At the end of the day, those who join the DAO will decide what it’s used for. They won’t be able to control the cryptocurrencies—since they’re in the hands of Reddit—but the members may decide to allocate resources to different Redditors. If the cryptocurrencies move to the main Ethereum blockchain and become valuable, then the money could be used to fund projects involving the coins.
+Reddit may soon find the project taking control of itself.
+Get the best of Decrypt where you want it most.

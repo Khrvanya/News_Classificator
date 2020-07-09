@@ -1,0 +1,12 @@
+Please consider using a different web browser for better experience.
+Please enable JavaScript in your browser for a better site experience.
+Former employees of JPMorgan, Intel and TrustToken have unveiled a dollar-backed stablecoin with a twist: revenue sharing for the institutions that use it.
+Their new company, Global Currency Organization (GCO), developed the USD Digital (USDD) token. It aims to break through with exchanges, traders and OTC desks looking for a stablecoin product but unwilling to develop one themselves.
+A novel fifty-fifty revenue sharing model incentivizes that adoption, GCO says, and USDD’s placement on the ethereum blockchain provides users with transparency.
+“It’s the best of both worlds,” said CEO Joe Vellanikaran. “They get the stablecoin, and they get the revenue that GCO shares with them.”
+Vellanikaran began working on stablecoins at TrustToken as a general manager for the San Francisco firm’s TrueUSD token – also pegged to the dollar.
+He recognized the value stablecoins brought to institutional investors and individuals, especially in moving money across markets. Backing the tokens with USD brought more stability and trust.
+“Let’s say you’re a Japanese student living in the U.S. and you want your parents to send you funds,” Vellanikaran told CoinDesk. “With the current process, you’d either need a U.S. bank account or be subjected to long delays and conversion fees. With our stablecoin, you should be able to receive your funds in a matter of” minutes.
+Vellanikaran wants to expedite a worldwide adoption of blockchain-based currencies, which he said will come about “in the next 10 to 20 years.” But that global shift will only come with institutional support, he said.
+“For a company to emerge and help move all these dollars to the blockchain, we really have to open it up to the partners” who want to use stablecoins, he said, adding:
+The leader in blockchain news, CoinDesk is a media outlet that strives for the highest journalistic standards and abides by a strict set of editorial policies . CoinDesk is an independent operating subsidiary of Digital Currency Group, which invests in cryptocurrencies and blockchain startups.

@@ -1,0 +1,10 @@
+King County has unveiled a new dashboard for tracking coronavirus stats , including a chart for cases and deaths as well as trends by zip code, including individual communities in Seattle and other parts of the county.
+As of Wednesday, 1,359 people have tested positive for COVID-19 in King County, and 9,484 have tested negative. So far, 100 people have died from the illness. The first confirmed positive case in King County was reported on Feb. 28.
+Of the 6,355 women who have been tested, nearly 11% tested positive for coronavirus.
+Fourteen percent of the 4,396 men who have been tested came back with positive results.
+Of all the groups tested, those 80 and older came back with the most confirmed COVID-19 cases, or 364.6 cases per 100,000 residents.
+The zip code with the highest per capita rate of cases is 98034, the Kirkland area, where the Life Care Center retirement community has been an epicenter of the outbreak. More than 380 cases have been confirmed in that zip code, or 867.8 cases per 100,000 residents.
+Rates reflected may not be representative of illness trends in the general population, according to Public Health – Seattle & King County. The rate of positive tests will also change as more people get tested within each age group.
+Only positive or negative test results are reflected in the chart and excludes those that are still pending, inconclusive or not performed. Officials caution that the numbers are incomplete for the most recent dates.
+The dashboard was created using Seattle-based Tableau Software’s data visualization software.
+Karina Mazhukhina is a reporter passionate about the intersection of technology, health and life sciences. She worked for KOMO TV and was a science and news reporter for the UW Daily. Karina holds a BA in journalism and english from the University of Washington. Follow her @karina9m

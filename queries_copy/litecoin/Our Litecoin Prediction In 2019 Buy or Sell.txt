@@ -1,0 +1,57 @@
+By John Persinos • February 28, 2019 • Forecasts
+Unless you live in a cave, you know that cryptocurrencies are a digital means of monetary exchange that are secured by encryption, with no physical representation of the money.
+Cryptocurrencies are private peer-to-peer transactions and governments can’t mess with them. Theoretically, cryptocurrencies are safe havens in a crisis. Think “digital gold.”
+A cryptocurrency that’s gaining a higher profile these days is Litecoin (USD: LTC). Is Litecoin a compelling buy or a sucker’s bet?
+Below, I weigh the pros and cons of Litecoin and determine whether it’s a worthwhile investment or a latter-day manifestation of Dutch Tulip mania.
+Litecoin is a peer-to-peer cryptocurrency. Creation and transfer of coins are based on an open source cryptographic protocol. Litecoin is not managed by any central authority.
+Founded in October 2011, Litecoin was an early Bitcoin spinoff. Technically, Litecoin operates in a similar fashion to Bitcoin (more about Bitcoin, below).
+Every cryptocurrency is linked to a blockchain, which is a computer database of transactions in the currency. This database is distributed to its creators, called “miners.” These miners add transactions to the blockchain. These blockchains form the infrastructure of cryptocurrencies.
+Let’s be clear: Litecoin is a currency, not a stock or bond. Instead of buying shares of Litecoin, you are swapping your currency for Litecoin currency.
+To say Litecoin has been volatile is an understatement. The currency occasionally hits the stratosphere, as it did in December 2017, usually due to the “halo” effect of a sudden rise in cryptocurrencies as a whole.
+Triggers for a spike higher can include the introduction of new cryptocurrency technologies, wider acceptance of crypto-coins by retail establishments, or rumors of impending Initial Coin Offerings, which is the cryptocurrency sector’s rough equivalent to an Initial Public Offering. However, as the euphoria wears off, a fall back to earth invariably occurs.
+Over the past 12 months, Litecoin has lost 77.6% whereas the S&P 500 has gained 1.5%.
+Over the past two years, Litecoin has gained 1,065.1% whereas the S&P 500 has gained 16.9%.
+Over the past five years, Litecoin has gained 179% whereas the S&P 500 has gained 48.4%.
+How Has Litecoin Performed In 2017/2018?
+In 2017, Litecoin gained 4,889.4% compared to a gain of 19.4% for the S&P 500.
+Cryptocurrency exchanges are web sites on which you can buy, sell or exchange cryptocurrencies for other digital currency or traditional currencies such as U.S. dollars.
+The granddaddy of cryptocurrencies, Bitcoin deploys peer-to-peer tech to operate with no central financial authority. Handling transactions and the issuing of Bitcoins are facilitated collectively by the network.
+Bitcoin was founded in 2009 and it has spawned numerous imitators.
+Bitcoin’s market capitalization currently hovers at roughly $67.5 billion, versus a market cap of $2.7 billion for Litecoin.
+Ethereum is a blockchain-based, open-source distributed computing platform and operating system.
+Ethereum is a decentralized platform that runs according to “smart contracts,” which are scripted applications that are programmed to preclude any form of fraud or third-party interference.
+Ethereum is the number two most widely used cryptocurrency, behind Bitcoin.
+Peercoin’s distinct attribute is its use of a “proof-of-stake” system.
+In the proof-of-stake system, new coins are created based on the holdings of individuals. For example, someone holding 1% of the currency would generate 1% of all proof-of-stake coin blocks. This system essentially removes the risk of a monopoly because it would be too expensive.
+As with Bitcoin and other cryptocurrencies, Litecoin is a virtual, decentralized currency that gets around government regulation.
+Cryptocurrency is akin to gold. Like gold, the supply of Bitcoin, Litecoin and its peers can’t simply be boosted arbitrarily. Gold must be mined from the earth; cryptocurrencies must be mined digitally. Linked with this mining process is the stipulation set forth by the founders of these coins that, as with gold, there must be a finite supply.
+The Bitcoin network can never exceed 21 million coins; Litecoin is limited to 84 million coins.
+Litecoin’s adherents seek to make it a universal digital currency. Bitcoin is the best known cryptocurrency, but there are dozens of others generally defined as “altcoins.” Bitcoin, Litecoin, Ethereum, and Peercoin are notable altcoins.
+A proliferating number of U.S. merchants, from small to large, are beginning to accept cryptocurrency as payment. It’s part of the digital payments revolution, as reflected by the rise of PayPal (NSDQ: PYPL).
+A crucial Litecoin advantage is user anonymity, which allows a wide variety of secret transactions. A network keeps track of all transactions using Litecoins but it doesn’t know who is using them or for what, just the identification of the computer “wallet.”
+Litecoin’s volatile price gyrations undermine its credibility as a currency. Real currencies typically have relatively stable values, making them reliable units of exchange. Litecoin also has several competitors; it’s not unique.
+What’s worse, cryptocurrencies such as Litecoin aren’t as secure as they claim. Reports have surfaced of several thefts of Bitcoins and Litecoins from encrypted accounts. Incidents of theft will grow in frequency as these coins become more widespread.
+It’s highly likely that governments will eventually crack down on cryptocurrencies and regulate them. Issuing money is the purview of the state; central authorities are loath to relinquish that privilege.
+When it comes to Litecoin, I have two words for investors: stay away.
+I’ve been covering investments since Ronald Reagan sat in the Oval Office, and I’ve rarely seen a more dangerous investment than cryptocurrencies. Younger, inexperienced investors are enraptured by cryptocurrencies; so too are conspiracy theorists who foresee the end of civilization and seek a currency that governments can’t control.
+Cryptocurrencies seem more suitable for the needs of drug dealers and the black market than average retail investors. Moreover, there’s been an epidemic of cybercurrency scams in which the initiators of a new currency use fancy technical jargon to dazzle gullible investors and pick their pockets.
+Remember an important Wall Street adage: If you don’t fully understand the investment, don’t put your money into it. The cryptocurrency realm is simply too opaque.
+That’s especially true for Anoncoin (USD: ANC), a digital cryptocurrency that emphasizes privacy and anonymity for its users.
+Created in June 2013, Anoncoin was the first coin that provided built-in support for the Invisible Internet Project (I2P) — aka, the “dark net” — that makes it impossible to determine the IP address of the user.
+For those of us who don’t inhabit a fantasy (or criminal) world, there’s zero reason to put your hard-earned money in Litecoin or any of its peers.
+But don’t just take my word for it.
+JPMorgan Chase (NYSE: JPM) Chief Executive Officer Jamie Dimon has repeatedly bashed cryptocurrencies , calling them a “scam.” He has vowed to fire any employee for being “stupid” enough to trade cryptocurrencies.
+However, I want to end on a positive note, with an actual investment opportunity: blockchains.
+This video explains how blockchains work.
+Blockchains, the transactional foundation of cryptocurremcies, have other uses. They let businesses store encrypted data in a ledger. Blockchains are used in finance, supply chains, and data storage.
+Don’t directly invest in cryptocurrencies. They’re too risky. But the growing commercial popularity of blockchains is a boon for the technology companies that are developing and applying them.
+The point is that blockchains have a multitude of uses and likely represent a dynamic growth area. Blockchains have the potential to boost the growth of many fundamentally strong technology companies.
+Several established companies, such as software giant Microsoft (NSDQ: MSFT) and chipmaker NVIDIA (NSDQ: NVDA), are making substantial forays into blockchain technology.
+Blockchains require an incredibly large number of calculations. That in turn requires extremely sophisticated software and either supercomputers or a large network of computers. Microsoft, NVIDIA and others are providing the tools for these capabilities. Blockchains represent a “picks-and-shovels” play.
+Another opportunity is to focus on companies that have already committed to using or are considering using blockchains, because these companies will be able to leverage the advantages of blockchains for a competitive edge.
+Stick to those stable players. If blockchain tech takes off, they’ll benefit. If not, they’re large and diversified enough to withstand the hit.
+In the meantime, regard cryptocurrencies themselves as hokum. Cryptocurrency investors? As P.T. Barnum might have said, there’s one born every minute.
+John Persinos is the managing editor of Investing Daily.
+John Persinos is managing editor of Personal Finance, Utility Forecaster, and Radical Wealth Alliance. He also writes the Mind Over Markets daily stock market recap.
+John has decades of experience in the technology and political realms. He's spent decades following emerging business and technology developments. From his time at Inc. and Venture magazines, to sharing breaking market news to millions of readers across Kiplinger's, Street Authority, Investing Answers, and TheStreet.com, if it's impacted investors in the past 30 years, John was there analyzing the news and interpreting the meaning for his readers. John also has experience with the inner-workings of Capitol Hill, serving as a press secretary to U.S. Rep. Byron Dorgan.
+John holds undergraduate and graduate degrees from Boston University. He also completed the Davenport Fellowship in Business and Economics Reporting at the University of Missouri (Columbia).

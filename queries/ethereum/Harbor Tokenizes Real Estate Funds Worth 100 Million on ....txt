@@ -1,0 +1,28 @@
+Please consider using a different web browser for better experience.
+Please enable JavaScript in your browser for a better site experience.
+Harbor has pivoted from helping companies issue security tokens to helping them tokenize existing securities.
+Announced Monday, the startup has created tokens on the ethereum blockchain representing the shares of four real estate funds worth $100 million.
+The move is intended to make these private securities easier to trade for the 1,100 investors that hold them, along with 17 broker-dealers and placement agents that work with the funds’ manager, iCap Equity .
+“For years, we’ve been looking for ways to create the best investment experience we can and for us that means providing liquidity for them,” said Chris Christensen, CEO of Bellevue, Washington-based iCap.
+The news also represents a strategic shift for Harbor, from helping clients raise funds by selling security tokens to providing an infrastructure layer for such instruments.
+Harbor “evolved from crowdfunding and tokens to being the Salesforce.com” of the security token industry, said Josh Stein, CEO of San Francisco-based Harbor.
+Initially, the company tried to build tokens backed by real-world assets. It reckoned that if investors were interested in initial coin offerings (ICOs) issued by projects with only a promise, they would “be excited” for backed tokens, Stein said.
+“The overlap between investors demanding tokens and investors interested in security tokens was zero. People were buying tokens but they weren’t buying it to invest, they were buying it to speculate.”
+Last year, Harbor partnered with DRW Holdings’ real estate wing to facilitate the sale of nearly 1,000 tokenized shares in an apartment building. However, the deal fell apart earlier this year due to issues between the mortgage lender and issuer.
+Harbor is providing a user platform for the investors, broker-dealers and advisors, which includes a private marketplace they can use to trade the securities.
+Christensen said the funds are “high-yield, [which] usually requires a lockup” under which investors contractually cannot sell their shares for three to five years.
+“We just knew if we can provide measured liquidity for them and allow us to continue our business model [but] allow them to … exit as needed, that would be cutting-edge,” he said.
+Typically, iCap investors buy securities and commit to the multi-year lockup. However, investors could need their money back before that period ended, Christensen explained. Under its old system, these investors would have to find another investor who would be willing to purchase the securities and commit to the remainder of the lockup period.
+The process to find an investor interested in purchasing these securities and then transfer them was time-consuming and costly, but a market already exists: Christensen said his company has previously facilitated $2 million in trades for these funds.
+“What Harbor does is they automate this entire process,” he added. “Those who want to come in come in, those who want to exit can do that.”
+The 17 broker-dealers that now have access to the platform include Bradley Wealth , an investment advisor.
+“It’s never going to be like a public market, but we can take something that’s illiquid or semi-liquid and make it more liquid,” Stein said.
+iCap operates under Rule 144 of the Securities Act of 1933, which requires a one-year mandatory lockup period for securities sold, separate from the restrictions the firm imposes, Christensen said.
+“Once you’ve held a security for one year, it can be freely tradeable,” he said.
+What is interesting, Stein said, is that after this first year ends, non-accredited investors can trade the securities (though iCap approves the platform’s users, so it is not open to the general public).
+“I don’t think it’s a goal but what it says to these broker-dealers and RIAs [is] that they have this investment … they can get their non-accredited clients into it,” he said.
+He noted that unlike ICOs or other crowdfunding efforts, these fund shares, now represented by ERC-20 tokens on ethereum, are passive instruments.
+“It’s not like when you think of ICOs or crowdfunding where somebody’s pushing an investment,” he said. “It democratizes it but nobody’s out there marketing it.”
+Nevertheless, Stein said the new strategy is aligned with Harbor’s broader mission, concluding:
+“What we’re hoping to do is increase access … in real estate and other [areas], which was kind of the promise of security tokens to begin with. We’re just going about it a different way.”
+The leader in blockchain news, CoinDesk is a media outlet that strives for the highest journalistic standards and abides by a strict set of editorial policies . CoinDesk is an independent operating subsidiary of Digital Currency Group, which invests in cryptocurrencies and blockchain startups.

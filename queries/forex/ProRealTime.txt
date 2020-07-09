@@ -1,0 +1,15 @@
+Build algorithms using assisted creation tools, or code them from scratch
+Execute trades 24 hours a day, whether or not you’re at your desk
+Draw trend lines with automated software which updates every five minutes.
+Place orders directly from your charts with a simplified and personalised interface.
+Set customised criteria to alert you to market movements.
+Create and use your own indicators using the ProBuilder language.
+With ProRealTime you can completely customise your trading experience, setting up the platform in exactly the way you want it.
+From changing the colour of the charts and the platform, to customising your trading hours to be in line with the New York or London open or close – you’ll have access to an editable workspace that gives you what you need, when you need it.
+Sort options by expiration date or filter them by minimum and maximum strike price.
+The options chain window also gives you access to performance charts, and it enables you to place an order via the bid and ask columns.
+Compare scenarios across different prices. View each opportunity’s profit/loss profile, theoretical option prices and Greeks, based on your own parameters and real-time data.
+And when you’re ready, you can place the order directly from the price window.
+We’ll ask a few questions about your trading experience.
+We can usually verify your ID in just a few seconds.
+Or practise on a risk-free demo if you’d prefer.

@@ -1,0 +1,8 @@
+Malta-based digital asset exchange OKEx is introducing XRP and Ethereum Classic (ETC) futures contracts today.
+OKEx is currently the world’s largest cryptocurrency derivatives exchange by 24-hour trading volume, according to data from CoinGecko . Both the XRP and ETC futures are settled in the stablecoin Tether (USDT), and users can trade weekly, biweekly, and quarterly contracts.
+OKEx also offers Bitcoin (BTC), Ethereum (ETH), EOS, Litecoin (LTC) and Bitcoin Cash (BCH) futures contracts. These are available for trading on the exchange’s USDT-margined futures market, which went live on November 14, 2019.
+Following the launch, OKEx CEO Jay Hao said,
+“The simulation of our USDT Futures Contract was very successful, and we received positive feedback from traders in the OKEx community…
+We’ve developed a safe, reliable, and stable environment for cryptocurrency trading, and strive to offer new services based on our customers’ interests. We’re excited to add USDT linear contract to our Futures market and next on the Perpetual Swap market to meet the interests of our growing international user base.”
+OKEx plans to support futures trading for Tron (TRX) and Bitcoin SV (BSV) in the future. The exchange says its mobile USDT-margined futures marketplace will go live soon.
+OKEx futures lead in 24-hour trading volume with $3.66 billion, followed by Huobi, BitMEX and Binance.

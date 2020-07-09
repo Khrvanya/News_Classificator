@@ -1,0 +1,13 @@
+Total futures trading volume skyrocketed during the first quarter of 2020 in comparison to 2019 data.
+A study by TokenInsight indicates that the total futures trading volume in the crypto industry reached over $2.1 trillion in Q1 2020. This is an increase of 314% from the 2019 Q4 average.
+According to the “2020 Q1 Cryptocurrency Derivatives Exchange Industry Report”, except for a slight decline in Q4 2019, the trading volume of cryptocurrency futures grew in 2019. The total market turnover in Q1 2020 is roughly eight times than Q1 2019.
+For trading volume analysis, TokenInsight included BitMEX, OKEx, Huobi DM, Binance Futures, Deribit, Bitget, Binance JEX, FTX, Gate.io, BFX.NU, BitZ, and KuMEX, in addition to some emerging derivatives exchanges.
+The average daily trading volume of the whole market during the first quarter of 2020 hit $23.3 billion. This represents an increase of 274% from 2019.
+Researchers who were in charge of preparing the report commented on the following:
+“We believe the cryptocurrency futures have already possessed some attributes of market-leading indicators, and spot market participants can refer to futures trading volume for position management.”
+The study also highlights that the correlation coefficient between futures and spot trading volume fell to 0.31. This is compared to the 0.76 registered in the fourth quarter of 2019. Researchers concluded that this phenomenon explains that futures market participants “may have been relatively independent” from the spot.
+When the futures market is abnormally traded, the study highlights that the spot market is exposed to significant fluctuations.
+“At this time, investors need to adjust their positions. Besides, in the market downturn, only when the future volume finally shrinks, the market may experience a meaningful rebound.”
+A study quoted by Cointelegraph on April 21 reported that Binance Futures emerged as the biggest winner in the futures market, following the Black Thursday sell-off.
+At that time, Binance reached $2.8 billion in just 24 hours of Bitcoin futures volumes. Their results surpassed that of both BitMEX ($2.1B) and Huobi ($2.46b).
+According to data provided by Coin Metrics, Binance Futures’ Bitcoin ( BTC ) open interest share jumped from about 10% in mid-March to nearly 25% by April 12.

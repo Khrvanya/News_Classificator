@@ -1,0 +1,22 @@
+Home Archive Germany’s No.2 Stock Exchange Enables Investors to Buy Litecoin, XRP
+Germany’s No.2 Stock Exchange Enables Investors to Buy Litecoin, XRP
+Börse Stuttgart, Germany's second largest stock exchange, is keeping its promise of launching crypto trading in H1 2019. | Source: Shutterstock
+By CCN.com : Börse Stuttgart, the second biggest stock exchange in Germany and the ninth largest in Europe, has approved the listing of litecoin and XRP exchange-traded notes (ETNs).
+“For the first time in Germany, investors can now buy and sell exchange-traded notes (ETNs) based on the cryptocurrencies Litecoin and Ripple (XRP). The four securities issued by XBT Provider in Sweden track the price of the two cryptocurrencies in relation to the euro and the Swedish krona,” the Börse Stuttgart team said.
+Similar to exchange-traded funds (ETFs), ETNs operate as strictly regulated, transparent, and protected instruments that can be used by investors to invest in various assets.
+XRP ETNs are now a reality in Germany. | Source: Shutterstock
+The launch of cryptocurrency-backed ETNs on Börse Stuttgart is expected to increase the liquidity of litecoin and XRP, especially amongst accredited investors and potentially institutions.
+Cryptocurrency exchanges may be compelling for many individual users due to their liquidity and ease of access. But, for some, the lack of investor protection remains a roadblock.
+In late 2017, at the Vanity Fair New Establishment Summit in Los Angeles, billionaire investor Mark Cuban told Bloomberg that he invested in bitcoin through an ETN on a Swedish stock exchange.
+It is interesting because there are a lot of assets which their value is just based on supply and demand. Most stocks, there is no intrinsic value because you have no true ownership rights and no voting rights. You just have the ability to buy and sell those stocks. Bitcoin is the same thing. Its value is based on supply demand. I have bought some through an ETN based on a Swedish exchange.
+The same company behind the bitcoin ETN on the Swedish stock market is overseeing litecoin and XRP ETNs on Börse Stuttgart, which would provide accredited investors with an alternative platform other than cryptocurrency exchanges to invest in major crypto assets.
+Jürgen Dietrich, Director Blue Chips & Funds Trading at Boerse Stuttgart, said:
+There is a lot of interest in cryptocurrencies. These [litecoin and XRP] ETNs will allow investors in Germany to track future price developments of the two cryptocurrencies Litecoin und Ripple (XRP) through exchange-traded securities for the first time.
+Would This Further Fuel the Momentum of Litecoin and XRP?
+Year-to-date, the price of litecoin has surged by more than 183 percent against the U.S. dollar. The strong performance of the cryptocurrency has been mainly attributed to the focus of the open-source developer community of litecoin on privacy-related solutions.
+The price of litecoin has increased by 183 percent year-to-date (source: coinmarketcap.com)
+Fungibility is the only property of sound money that is missing from Bitcoin & Litecoin. Now that the scaling debate is behind us, the next battleground will be on fungibility and privacy. I am now focused on making Litecoin more fungible by adding Confidential Transactions.
+Litecoin dev team spent hours discussing how to add Confidential Transactions. The way to do a softfork CT is very similar to doing extension blocks and extension blk may be simpler and can do a lot more. We are now also exploring doing bulletproof MimbleWimble w/ extension blks.
+The potential demand for a litecoin ETN in Germany remains uncertain and whether it would have a major impact on the state of the litecoin exchange market at the current stage of the recovery of the cryptocurrency market is not clear.
+Amidst increasing developer activity and rising value, a noticeable improvement in the quality of liquidity of the asset would only add to its momentum.
+Samburaj Das edited this article for CCN.com . If you see a breach of our Code of Ethics or Rights and Duties of the Editor or find a factual, spelling, or grammar error, please contact us .

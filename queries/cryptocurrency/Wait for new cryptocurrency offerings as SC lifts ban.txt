@@ -1,0 +1,8 @@
+A number of startups are working on various innovative products for consumers.
+Cryptocurrency companies such as Bank of Hodlers and WazirX have started working on new offerings following a Supreme Court order that overturned a RBI notification restricting banking access for virtual currency trading.
+Darshan Bathija, cofounder of Bengaluru-based Bank of Hodlers, said the company was building multiple offerings for consumers.
+“To start with, we are integrating with RazorPay and Cashfree this week, which will be our payment gateway. After that, we will start focusing and enabling peer-topeer transactions,” he said.
+The company will also enable UPI transactions for cryptocurrency in the next few months, Bathija added.
+“With the banking ban lifted, we can now innovate around these offerings and also work with banks who were ready to integrate with our products two years back,” he said. A number of startups are working on various innovative products, said Akshay Aggarwal, CEO of Blocumen Studios, an enabler of the cryptocurrency ecosystem.
+“One is working on a wallet-based system which will enable users to transact on crypto in e-commerce sites. Another one is looking at enabling people to use the idle processing power of their mobile phones in exchange for earning crypto,” he said.
+Mumbai-based cryptocurrency exchange WazirX is also talking to fintech players to see how the wallet can be integrated with other platforms to drive transactions. It has now enabled users to deposit and withdraw in fiat currency to buy or sell crypto through the platform.

@@ -1,0 +1,30 @@
+The recent sell-off in stock markets worldwide have triggered trading halts in multiple stock exchanges — an occurrence that could become increasingly common as investors fear the impact of the coronavirus outbreak.
+In Asia, circuit breakers were also triggered in many exchanges, including India, Japan, South Korea, Indonesia, Thailand and the Philippines.
+Circuit breakers are measures implemented by exchanges when they consider price movements to be overly volatile.
+Jurisdictions and stock exchanges have their own rules for what circuit breakers entail, when do they kick in, and for how long they are in place.
+The Shanghai stock exchange in China.
+From Wall Street to Asia, the recent sell-off in global stock markets has triggered trading halts in multiple stock exchanges — an occurrence that could become increasingly common as investors fear the impact of the coronavirus outbreak.
+In the U.S. , trading was temporarily stopped twice this week after the S&P 500 Index fell 7% — triggering the first threshold for a "circuit breaker," aimed at preventing markets from wild swings.
+In Asia, circuit breakers were also triggered in many exchanges including India , Japan , South Korea , Indonesia , Thailand and the Philippines this week.
+Circuit breakers are measures implemented by exchanges when they consider price movements to be overly volatile. They can take the form of a trading suspension or limiting buying and selling of securities within a specific price range.
+Jurisdictions and stock exchanges have their own rules for what circuit breakers entail, when do they kick in, and for how long they are in place.
+Here are what circuit breakers at some of Asia's main stock exchanges are like.
+Both the Shanghai and Shenzhen stock exchanges will suspend trading for 15 minutes when the CSI 300 Index rises or falls by 5% or more from its previous close for the first time.
+If the index rises or falls by 7% or more from the previous close, trading will be halted for the day.
+Products that are subject to circuit breakers include stocks, mutual funds and certain bonds.
+Over at the Hong Kong stock exchange, the circuit breaker currently applies only to the constituent stocks of the Hang Seng Index and the Hang Seng China Enterprise Index.
+In Hong Kong, the circuit breaker is based on a "reference price" — or the last traded price 5 minutes ago. A cooling-off period is triggered if the price of a stock goes above or below 10% from the reference price. During the cooling-off period, which lasts for 5 minutes, trading is allowed only within a fixed price band of 10% above or below the reference price.
+Starting from May, the Hong Kong stock exchange will expand its circuit breaker to cover another 500 or so stocks, and the reference price that will trigger a cooling period will also be tiered according to market capitalization.
+The Japan Exchange Group , the company that manages the country's main exchanges, apply trading halts to all futures and options contracts, as well as derivative products relating to futures and options.
+Each product has its own "price limit range" that will trip the circuit breakers, some of which will be revised every few months using a formula that takes into account past price trends.
+Trading will be suspended for 10 minutes when that limit range is breached.
+In South Korean markets, trading of all listed securities (excluding debt securities) will be suspended for 20 minutes if the respective benchmark index — Kospi or Kosdaq — falls by more than 10% from the previous day's closing price.
+The triggering of circuit breakers is limited to once per day.
+Circuit breakers in India are triggered when the Nifty 50 or Sensex breaches a pre-determined limit. That limit is 10%, 15% and 20% above or below the indexes' respective previous day close.
+Depending on which limit is breached, a market-wide trading halt will last from 15 minutes to 1 hour 45 minutes, or even close for the day.
+The Singapore Exchange applies circuit breakers to component stocks of the Straits Times Index , MSCI Singapore Index and other products — including stocks and exchange-traded fund — that meet certain criteria.
+The circuit breaker in Singapore is triggered when a potential trading price falls outside the "price band," defined as 10% above or below its value within a 5-minute period. That value is called the "reference price."
+When the trading curbs are in place, a 5-minute cooling-off period will take place, where trading can only be done within 10% above or below that reference price.
+Indonesia revised rules on its circuit breaker this week. Under the new rules, trading will halt for 30 minutes if the main stock index — the Jakarta Composite Index — falls by 5% or more from the previous close.
+Before the latest change, the index had to drop by 10% or more before the circuit breaker kicks in.
+A 30-minute trading halt takes place on all listed securities when the benchmark SET Index falls by 10% from the previous day's close. If the SET Index falls by 20% from the previous close, trading will be halted for an hour.

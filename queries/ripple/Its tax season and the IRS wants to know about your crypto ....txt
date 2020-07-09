@@ -1,0 +1,28 @@
+It's tax season and the IRS wants to know about your crypto. How to prepare
+For your 2019 income tax returns, the IRS is asking whether filers sold or acquired a financial interest in any virtual currency.
+How your cryptocurrency holdings are taxed will depend on how you obtained it.
+Whether you earn virtual currency, buy it or receive it as a gift, keep track of your cost basis.
+If you were hoping to keep your bitcoin stash under wraps from the IRS, think again.
+As the 2019 tax season kicks off on Jan. 27, the taxman is expecting you to disclose whether you had any cryptocurrency transactions last year.
+The IRS asks the following question on the first page of Schedule 1 of the individual income tax return: "At any time during 2019, did you receive, sell, send, exchange or otherwise acquire any financial interest in any virtual currency?"
+"If the answer is yes, then say yes," said April Walker, CPA and lead manager for tax practice and ethics at the American Institute of CPAs.
+"But from a documentation standpoint, there are many different ways that you can interact with cryptocurrency," she said.
+"The overarching idea is, however you transact with it, you'll need to track your transactions," said Walker.
+This new question is only the latest salvo from the IRS, signaling the taxman's heightened interest in virtual currency.
+Last summer, the agency sent letters to more than 10,000 taxpayers with cryptocurrency transactions who may have failed to report income and pay taxes owed.
+Here's what you should be aware of when reporting your virtual currency to the IRS.
+Generally, the IRS treats virtual currency as property, much the same way they would regard stocks or other investments.
+That means that if you bought your Ethereum and then sold it — or if you exchange it for something else, you're logging either a capital gain or a loss. You'd be responsible  for taxes related to the gain.
+While cryptocurrency exchanges like Coinbase may provide you with a Form 1099-K detailing these transactions , there's no guarantee you'll get one.
+"The taxpayer has to have at least $20,000 in gross sales for the year and a minimum of 200 transactions to get a 1099-K," said Andy Phillips, director for The Tax Institute at H&R Block.
+Say you paid $10 for virtual currency, but then bought coffee for $8. You have a $2 loss you need to report.
+On the other hand, virtual currency that you get from an employer is treated like wages: You must have federal income taxes withheld from the payment, as well as FICA tax and unemployment taxes.
+All of this must be reported on your Form W-2 , which you should receive from your employer by the end of January.
+Finally, cryptocurrency that you mine must be included in your taxable income. That is, you're including the fair market value of your bitcoin as of the date of receipt.
+Don't try hiding your stash from the taxman.
+You're running the risk of an audit, as well as paying penalties and interest on the income you failed to report. In the most extreme cases, you could face prison time and a fine of up to $250,000 .
+A visual representation of the cryptocurrency Bitcoin on November 20, 2018 in London, England.
+Even the smallest transactions with virtual currency warrant reporting.
+"Say you paid $10 for virtual currency, but then bought coffee for $8," said Walker. "You have a $2 loss you need to report."
+This capital loss would have to be reported on Form 8949 — for sales and disposition of capital assets — when you file your taxes, she said.
+As you gather data to back up your cryptocurrency activities, keep a close eye on the original value of the asset.

@@ -1,0 +1,24 @@
+Please consider using a different web browser for better experience.
+Please enable JavaScript in your browser for a better site experience.
+Ethereum’s next system-wide upgrade, Istanbul, is scheduled to arrive on mainnet the week of Dec. 4.
+The decision was made during an ethereum core developer call on Oct. 25 . Later on Friday, Danno Ferrin, blockchain protocol engineer at ethereum venture studio ConsenSys, proposed activating Istanbul at block number 9,056,000 in accordance with the targeted date of Dec. 4.
+“From when I calculated … at 14-second block times its 245,544.5 blocks, which puts noon UTC at block 9,055,928.5. So I would propose 9,056,000 as the Istanbul mainnet block target. Please check my math,” Ferrin wrote after the meeting in an ethereum core developers chat room.
+@CoinDesk can you please add an addendum to your article stating the 9,056,000 was a preliminary proposal and 9,069,000 is the actual block number?
+— Danno "Please check my math" Ferrin (@shemnon) October 29, 2019
+During the call, devs also agreed that in the case of any unexpected issues with the upgrade software between now and the week of Dec. 4, Istanbul’s mainnet activation would be delayed one month to Jan. 8.
+“The thing about the [Jan.8] backstop date is that if we’re going to ship and change the time, we have to build a new client … and get everyone to install the client,” Ferrin said during the call. “At least four weeks for a re-spin is necessary.”
+During the last system-wide upgrade, Constantinople, ethereum developers did indeed need to delay mainnet activation of the upgrade for a month due to a critical code vulnerability discovered just 48 hours before Constantinople’s scheduled roll-out.
+This time, ethereum core developers are covering all their bases with pre-determined backstop dates in the event of any unforeseen circumstances.
+Said Ethereum Foundation developer Piper Merriam:
+“There’s nothing here that says [we can’t launch] the first week of December. We’re just setting some easy backstop dates now and we can always change our mind later if needed.”
+Come December, Istanbul is expected to introduce six backwards-incompatible code changes to the world’s second-largest blockchain network.
+The most controversial among them, known as Ethereum Improvement Proposal (EIP) 1884 , will increase the computational costs of recalling data about the ethereum blockchain for application developers. At the same time, the increased fees will better safeguard the $18 billion platform from potential denial-of-service, or spam, attacks.
+The other code changes introduce more pricing adjustments to the ethereum platform, as well as new code operations that application developers can leverage to verify and authenticate blockchain data more quickly.
+Last month, Istanbul was activated on ethereum test network Ropsten. Due to its premature timing , however, miners on the network initially faced difficulty rolling out the upgrade.
+To prevent further confusion over which version of ethereum software to run for miners (the users who validate transactions and process new blocks on the network), ethereum core developers approved today a new code change called EIP 2124.
+Originally proposed in May by ethereum core developers Péter Szilágyi and Felix Lange, EIP 2124 introduces a mechanism for users to easily identify what version of software a computer server, also called a node, in the ethereum network is running.
+“Generally, clients have a hard time following a non-majority chain so usually you have to tweak the clients [manually] … to make sure they’re on the right chain.” said Szilágyi, adding:
+Called the “fork identifier,” Szilágyi explained on the call that EIP 2124 is a “tiny and beyond trivial change.” It can be rolled out by any ethereum software client without the need for coordination with other actors.
+Outside of this, James Hancock, project lead at ethereum startup ETHSignals who most notably tried to initiate a fork of the ethereum blockchain in June, announced that he was joining the Ethereum Foundation to help coordinate ethereum system-wide upgrades, also called hard forks.
+“I’m joining the [Ethereum Foundation] to help with hard fork coordination,” said Hancock. “For me, I want to focus on getting EIPs ready rather than focus on when are we going to release [an upgrade]. … It’s about changing the attitude from how many forks are we going to have this year to getting EIPs ready [for a fork].”
+The leader in blockchain news, CoinDesk is a media outlet that strives for the highest journalistic standards and abides by a strict set of editorial policies . CoinDesk is an independent operating subsidiary of Digital Currency Group, which invests in cryptocurrencies and blockchain startups.

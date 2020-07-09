@@ -1,0 +1,16 @@
+With the rolling into the new quarter on Thursday, July 1 '20, the standard bump in the "forward 4-quarter estimate" occurred.
+The new forward 4-quarter estimate is $142.66 vs. last week's forward 4-quarter estimate of $127.44.
+One metric being watched closely is the 4-week rate of change on the various forward curves for S&P 500 EPS.
+With the rolling into the new quarter on Thursday, July 1 '20, the standard bump in the "forward 4-quarter estimate" occurred with the publication of Refinitiv's "This Week in Earnings," as the forward 4-quarter estimate now covers Q3 '20 through Q2 '21. (Determining the S&P 500 EPS forward earnings curve isn't rocket science: IBES data by Refinitiv provides the bottom-up quarterly estimates, thus any reader can build the forward earnings curve, as long as the core data is available).
+The new forward 4-quarter estimate is $142.66 (again, covering Q3 '20-Q2 '21) vs. last week's forward 4-quarter estimate of $127.44 (covering Q2 '20 through Q1 '21).
+Readers may wonder how this happens, but the Q2 '20 S&P 500 estimate of $23.16 has now fallen off the queue, and the new forward estimate will include the period of US economic recovery however subdued you might think that will be.
+Q1 '20's actual S&P 500 EPS was $33.13.
+Q2 '20's current S&P 500 EPS estimate as of July 2 '20 is $23.16.
+Q2 '20 S&P 500 EPS and revenue are expected to decline 43% and 11.7%, respectively, as they stand today, according to IBES by Refinitiv data.
+In this post from last week, this blog took a look at Q1 and Q2 S&P 500 revenue estimates. It's no mystery there will be a sharp deceleration into Q2 '20 results, but that's been well known by the market for over 12 weeks.
+One metric being watched closely is the 4-week rate of change on the various forward curves for S&P 500 EPS, and while these rates of change improved dramatically up until early June, the improvement is much smaller since, but I suspect that will change once we start seeing actual Q2 '20 S&P 500 earnings and revenue, and the guidance therein.
+Summary/conclusion: Delta (NYSE: DAL ) and Walgreens (NASDAQ: WBA ) are due out with earnings on Thursday morning, and having never been an airline investor, I don't follow Delta that closely, but the IBES by Refinitiv consensus estimate is for a loss of $4.24 per share for Q2 '20 versus a profit of $2.35 per share in the year-ago quarter. That's a HUGE swing in EPS (a lot of delta in Delta EPS - sorry). Walgreens might be more interesting given the stability of the retail pharma business, but WBA has not performed well the last 10 years, per this chart from YCharts.
+The week after next, the floodgates open for Financial stocks like the big banks and some brokers, and that will be interesting.
+More to come this weekend and next week.
+Please take any opinion issued on this site with substantial skepticism and a healthy dose of salt. The world changes quickly these days, and when it does, opinions can change frequently and not be updated.
+Editor's Note: The summary bullets for this article were chosen by Seeking Alpha editors.

@@ -1,0 +1,11 @@
+KUALA LUMPUR (July 6): Cryptocurrency exchange platform operator Luno has added Litecoin (LTC), which it says is the fourth digital asset approved by the Securities Commission Malaysia, to its trading platform.
+In a statement, Luno said its Malaysian customers will be able to buy, sell, store and learn more about this digital asset from Tuesday (July 7).
+"Litecoin, often referred to as the silver to Bitcoin's (BTC) gold, is a top-10 cryptocurrency with a market cap of US$2.7 billion," the exchange platform said.
+The cryptocurrency, initially created in 2011, was developed to provide a faster and cheaper alternative to Bitcoin, with the aim of offering a better option for day-to-day digital currency commerce.
+"These are uncertain times but LTC's instant and near-zero cost transactions are certainly characteristics which have contributed to the increase in interest for this digital asset," said Luno's general manager for Southeast Asia, David Low.
+"We only list digital assets that are safe, secure and have the utility benefits our clients want, that is why we've introduced Litecoin after seeking approval from the Securities Commission Malaysia.
+"The turmoil caused by the pandemic has instigated a surge in the usage of digital money (as we're encouraged to avoid the handling of physical cash) and fintech apps. Times have changed, more and more people are turning to cryptocurrencies, and as soon as they do they understand the benefits they offer," added Low.
+Luno further explained that although LTC and Bitcoin share some similarities, there are key differences between the two: LTC has new blocks four times as often, meaning it has shorter confirmation times (2.5 minutes against 10 in the Bitcoin network).
+"Unlike Bitcoin, which will only ever have up to 21 million coins, Litecoin will ultimately have four times as many coins, meaning it is proportionately cheaper than Bitcoin. Finally, LTC's hashing algorithm is memory-based rather than CPU-based, making it easier for the average person to mine," it added.
+Luno is the first regulated digital asset exchange approved by the SC. To date, it has handled transactions worth an equivalent RM32 billion globally.
+Luno's customers can already access Bitcoin, Ethereum, and XRP in Malaysia.

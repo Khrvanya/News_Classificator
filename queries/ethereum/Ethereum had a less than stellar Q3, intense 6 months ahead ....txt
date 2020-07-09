@@ -1,0 +1,39 @@
+Ethereum had a less than stellar Q3, intense 6 months ahead as ETH 2.0 looms — here’s what happened
+By now, you should almost certainly know about Ethereum, ETH the second largest cryptocurrency by market cap. But if you needed a quick recap, here it is.
+Ethereum’s creators wanted to build a platform that would allow users all over the world to write decentralized applications, and use the Ethereum blockchain as a “world computer.”
+The decentralized platform made smart contracts a key part of the blockchain conversation, and demonstrated to the world how blockchain technology can be used for more than just cryptocurrency.
+It sounds great, but bringing the Ethereum vision to life is proving difficult for its  community of supporters and developers.
+One of the most contentious topics of the moment for the platform and one of its creators, Vitalik Buterin, is the transition to ETH 2.0. The series of updates and improvements designed to make the Ethereum platform faster and more reliable will not be implemented overnight. It’s going to be a long process, that’s due to commence next year, but won’t be complete for many more months.
+One of Ethereum’s founding members, Joseph Lubin, has said that the updates should make Ethereum far more scalable within the next 24 months. But of course, a lot has to fall into place for that fact to be realized.
+Before we take a look at how Ethereum has performed in the third quarter of the year, let’s remind ourselves how things went down in Q2.
+In terms of trading price, Ethereum had a solid second quarter.
+At the start of April, Ethereum experienced a rally which saw its price increase by 27 percent from $139 to $177. Unfortunately, this uptick in price was short-lived — by the end of April a market correction pulled Ethereum’s trading price down to $150.
+Thankfully, the correction didn’t have a lasting effect on Ethereum, and over the course of May the digital coin showed nothing but steady growth. Over the four weeks of May, ETH‘s price increased a whopping 95 percent, topping out at just over $271 per coin.
+Over the final month of Q2, Ethereum continued to grow. It didn’t show the same pace it had shown a month earlier, but by the end of June, Ethereum was up on where it was at the start of the month. As it happened, Ethereum reached its quarterly high trading price ($335) in June.
+Over the course of the quarter, Ethereum‘s trading price rose 114 percent. Not too shabby if you’re holding on to ETH tokens for the long run.
+Despite having a stellar Q2 and ending the previous quarter on a high, the same cannot be said for the digital coin‘s Q3 performance.
+From the first day of the quarter Ethereum‘s price has proceeded on a steady downward trajectory.
+Ethereum opened Q3 trading at around $285. The coin held steady around this price during the first week of the quarter. It even saw a 7.7 percent increase on July 8 as its
+price rose to $307 per token.
+Unfortunately, that would be as good as it got for Ethereum at the start of Q3. By the third week of July its price started tumbling, a trend seen across a host of other cryptocurrencies and digital tokens.
+By July 16, Ethereum hit $202, the lowest trading price for the whole month. This is a painful 34-percent drop over the high it saw in the first week of the month.
+The cryptocurrency showed no signs of rallying to better things as it progressed into the middle of Q3. Over the entire month of August, ETH continued to drop in value.
+There was a small uptick in trading price at the start of the month which saw Ethereum‘s price grow from $211 to around $231, a 9.5-percent increase.
+However, the decentralized token went into free fall for the rest of month.
+At the end of August, ETH was trading for $166 per coin, a 28-percent drop from the high it saw at the start of month. Thinking back to the $307 quarterly high seen in July, at the end of August the token had decreased by 46 percent in price.
+Despite a slow and steady price rally over the first two weeks of September, the last month of the quarter proved to be just as cruel a mistress as the first two.
+Ethereum opened September trading at a hair over $168. Over the next two and a half weeks, its price grew steadily eventually reaching $217, a 30 percent increase.
+Unfortunately, the coin‘s price didn’t continue to grow or make up for its poor performance at the start of the quarter. The 30 percent increase seen in the middle of the month was erased almost immediately as Ethereum‘s price dropped on September 20, it eventually settled at $162 a few days later.
+Perhaps Ethereum‘s sub-par performance in Q3 was a result of the lack of positive news for Buterin’s baby.
+In August, Vitalik Buterin warned the community that his blockchain was “ almost full ,” and that a lack of scalability is proving to be a consistent bottleneck. Ultimately, it seems that keeping organizations from joining the network, isn’t good for adoption.
+That’s incredibly shaky news for a platform that positions itself as “decentralized.” If that wasn’t bad enough, in early September Ethereum overtook Bitcoin in terms of daily fees . Perhaps a sign that Ethereum is struggling to deal with the volume of users.
+That said, it’s not all bad news for the so-called “world computer.” Dapp developers still love Ethereum, even if it is lagging behind in active users, according to Dapp Radar.
+There was also some good news for traders, as eToro announced the addition of five Ethereum-based tokens to its professional trading platform, eToro X. It also said it has plans to add a further 115 in the future.
+The start of Q4 is already looking more positive for Ethereum — within the first two weeks of October Ethereum’s price reached $195.
+A small market correction saw Ethereum‘s price drop back down to trade between $160 and $180 for the following week.
+The future of Buterin’s platform hangs in the balance, though. News that its blockchain is struggling to deal with demands on its resources means the future looks uncertain at best.
+According to a CoinDesk report published in Q3 , Ethereum is facing challenges on all fronts. It doesn’t just have to address its scalability woes, it also has to consider its future as money.
+However, investors don’t seem to be immediately worried about Ethereum‘s short term future. It seems Buterin and co have doing enough to keep traders interested, for now.
+With every passing week, we get closer to the planned launch of ETH 2.0. How that affects the long term functionality of the platform though, remains to be seen. But it might be time to grab the popcorn, because Q4 2019 and Q1 2020 are going to be interesting.
+This post is brought to you by eToro . eToro is a multi-asset platform which offers both investing in stocks and cryptocurrencies, as well as trading CFD assets. Please note that CFDs are complex instruments and come with a high risk of losing money rapidly due to leverage. 65% of retail investor accounts lose money when trading CFDs with this provider. You should consider whether you understand how CFDs work, and whether you can afford to take the high risk of losing your money. Cryptocurrencies can fluctuate widely in price and are, therefore, not appropriate for all investors. Trading cryptocurrencies is not supervised by any EU regulatory framework. Past performance is not an indication of future results. This is not investment advice. Your capital is at risk.
+Do you want to get the sassiest daily tech newsletter every day, in your inbox, for FREE? Of course you do: sign up for Big Spam here .

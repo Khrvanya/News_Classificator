@@ -1,0 +1,14 @@
+“ . . . intrinsic shortcomings around speed and scalability. Solving these problems, while maintaining decentralization of the protocol, is the core priority of Ethereum 2.0.”
+been, or can be, solved until quantum communications become practical. But
+takes. The first phase created some problems right away:
+“The previous Istanbul hard fork also faced a similar approach to readiness, as most nodes left it until the very last moment to update. Still, the fork passed successfully, unlike the testnet fork, which led to two chains splitting off. Still, the approach of the Ethereum project has caught the attention of Bitcoin maximalists, with renewed criticism of the network’s approach.”
+Now, it intends to roll out additional changes on New Year’s,
+which suggests any repairs required will be slow to arrive:
+“If anything goes wrong with the hard fork, it will be the worst day of the year for recovery. Apparently, January 1 would be relatively inactive for crypto markets, but updating a node may not be on everyone’s new year resolution list.
+According to Ethernodes, around 63.2% of nodes are ready with the changes. Another 40% may be slowly tweaking their protocols. During the past three months, the difficulty creep started to affect mining, leading to a drop of about 20%. Block discovery became more difficult for Ethereum miners, and many wrapped up operations to wait for more favorable conditions.
+ETHEREUM MINERS GIVE UP ON HIGH DIFFICULTY, SLIDING PRICES
+Along with more difficult mining, falling ETH prices are discouraging. Ether price fell from levels close to $200, down to $131.31, with fears the small recovery will not stave off a bigger sliding trend. A more optimistic take saw that exchanges had managed to run the upgrade, and would eventually sync and join the right version of the protocol.
+But the omission once again directed the spotlight to the fact that the Ethereum project did not have sufficient governance from its dev team. At the same time, Ethereum developers still plan multiple upgrades to arrive at the ETH 2.0 version.”
+Mercator identified these two problems related to reliable blockchain deployment in “A Strategic Framework Checklist For Evaluating Blockchain Solutions” published in 2016 (link available here ). So far, the only published governance model we have seen that appears to address our concerns is Sovrin , which is a model Facebook should have followed with Libra.
+Will Ethereum Updates on New Year’s Cause ETH Havoc?
+Ethereum has a problem and Ethereum 2.0 is supposed to be the fix. It intends to roll out additional changes on New Year’s, which suggests any repairs required will be slow to arrive:

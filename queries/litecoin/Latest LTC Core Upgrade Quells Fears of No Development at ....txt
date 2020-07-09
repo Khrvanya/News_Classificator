@@ -1,0 +1,14 @@
+Developers at the Litecoin project have released the latest core upgrade dubbed v0.18.1.
+News of the available upgrade comes months after investors feared there was no active development at the Litecoin project.
+This release quells any fears that development at the Litecoin project had hit a dead end.
+Earlier today, the Founder of Litecoin, Charlie Lee, informed the LTC community that developers at the project had released the final version of Litecoin Core Version 0.18.1 . Charlie Lee went on to point out that the release puts to rest the question as to whether there was any development going on at the Litecoin project.
+Additionally, he notified the crypto community that Litecoin Core 0.20 was already in the pipeline and its release would bring the LTC blockchain in line with the latest Bitcoin Core code. More on this can be found on Mr. Lee’s tweet below.
+Litecoin Core 0.18.1 final release is out! Who says Litecoin has no development? 😀
+Many thanks to all the developers that worked on this release! 👏
+We are already hard at work on the next release, Litecoin Core 0.20, which will bring us in line with the latest Bitcoin Core. https://t.co/JaMq9RcwtR
+— Charlie Lee [LTC⚡] (@SatoshiLite) June 11, 2020
+where conversations between Litecoin developers were leaked on the social media platform of Reddit. The information contained in the leaked conversations pointed to a lack of progress at the Litecoin Project. Below are some of the conversation’s excerpts with the full transcript available on Reddit .
+Franklyn: I was extremely disappointed to discover that no progress had been made on CT since the announcement, especially when I stand on stage telling everyone it’s happening and we are actively working on it.
+Charlie: The honest truth is that no one is interested in working on Litecoin protocol development work. At least no one technically competent. You can’t just throw money at this problem. This is true for Litecoin since the beginning. It has only been me, Warren, and Thrasher.
+Further checking the charts and using an earlier analysis of Litecoin , it is evident that LTC has lagged behind Ethereum and Bitcoin in recovering from the Coronavirus Crash witnessed in mid-March. From a macro point of view, LTC/USD has been oscillating between $38 and $50 since early April. Perhaps the launch of Litecoin Core 0.18.1 will provide the much needed bullish momentum to propel LTC higher in the days and weeks to come.
+Disclaimer: This article is not meant to give financial advice. Any additional opinion herein is purely the author’s and does not represent the opinion of EWN or any of its other writers. Please carry out your own research before investing in any of the numerous cryptocurrencies available. Thank you.

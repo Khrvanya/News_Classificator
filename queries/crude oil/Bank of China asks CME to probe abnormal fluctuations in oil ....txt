@@ -1,0 +1,19 @@
+BEIJING/SHANGHAI (Reuters) - Bank of China (BoC) said it had hired lawyers to formally send a letter to CME Group, urging the U.S. exchange operator to investigate reasons behind “abnormal fluctuations” in crude oil futures prices on April 21.
+FILE PHOTO: An exterior view of the Nanyou branch of the Bank of China in Shenzhen, China November 29, 2017.   REUTERS/Staff
+The bank is facing investor fury over heavy losses on an oil-related investment product after an unprecedented crash in energy markets.
+BoC said in a statement late on Wednesday that it would continue negotiating with investors, would shoulder responsibilities under the current legal framework and was seeking to respond to customers’ “reasonable requests” as early as possible.
+Prices for the May West Texas Intermediate (WTI) crude oil contract fell below zero for the first time on April 20, ending at minus $37.63 a barrel.
+Oil prices have tumbled this year due to a slump in global demand caused by the coronavirus, a price war triggered by Saudi Arabia and Russia, and a shortage of storage for excess oil, leading to steep falls in many oil-linked products.
+CME, which owns the New York Mercantile Exchange where WTI futures trade, had updated its systems in early April to be able to process negative prices.
+BoC said last week it would settle trades for its retail investor crude oil product, also known as crude oil “bao”, at negative prices, causing investor outrage as they felt BoC should have done more to protect their interests.
+The crude oil “bao”, which is linked to foreign crude oil futures contracts including WTI, allows investors to roll over their positions into coming months themselves. BoC, however, automatically settles them on the final trading day of an expiring contract if investors leave it to the bank. The collapse in WTI futures occurred on the May contract’s last trading day.
+Retail investors may have lost more than 9 billion yuan ($1.3 billion) from BoC’s crude oil product, financial news outlet Caixin reported on Sunday, citing unnamed sources.
+CME told Reuters in an emailed statement on Thursday that its markets worked as designed.
+“Our futures prices reflect fundamentals in the physical crude oil market driven by the unprecedented global impacts of the coronavirus, including decreased demand for crude, global oversupply, and high levels of U.S. storage utilization,” it said.
+“After advance notice to our regulator and the marketplace in early April, CME Group accommodated negative futures prices on WTI on April 20 so that clients could manage their risk amid dramatic price moves, while also ensuring the convergence of futures and cash prices.”
+The China Banking and Insurance Regulatory Commission (CBIRC) said it had asked BoC to investigate the problem of its crude oil products.
+Banks were urged to tighten risk management regarding products linked to futures, the regulator said in response to Reuters questions.
+CBIRC has asked commercial banks to halt new sales of a wide range of wealth management products that might lead to unlimited losses for investors, two sources told Reuters.
+Industrial and Commercial Bank Of China (ICBC) and China Construction Bank (CCB) also offer similar crude oil-linked products, but had rolled over their investors’ positions days ahead of contract expiration,  local media reported.
+Bank of Communications Co Ltd (BoCom) said the fall in WTI crude oil futures prices to negative territory had no impact on customers of its oil futures trading products, as it had rolled over or closed its positions on April 14, according to local media The Paper.
+Reporting by Leng Cheng, Brenda Goh and Emily Chow; Writing by Tom Daly and Yilei Sun; Editing by Jacqueline Wong, Kim Coghill and Mark Potter

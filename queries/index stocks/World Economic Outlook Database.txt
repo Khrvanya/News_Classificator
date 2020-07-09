@@ -1,0 +1,12 @@
+	   analysis and projections of economic developments at the global level, in 
+	   major country groups and in many individual countries. The WEO is 
+	   released in April and September/October each year.
+Use this database to find data on national accounts, inflation, 
+	  countries and country groups (aggregates), and commodity prices whose data are reported by the IMF.
+Data are available from 1980 to the present, and projections are 
+			given for the next two years. Additionally, medium-term projections 
+			are available for selected indicators. For some countries, data are 
+			incomplete or unavailable for certain years.
+The World Economic Outlook (WEO) database is now available in SDMX format from our Entire Dataset page . For more information about SDMX, please visit SDMX.org
+FYR Macedonia is now called North Macedonia.
+In February 2019, Zimbabwe adopted a new local currency unit, the RTGS dollar, which has become the official unit of account. Efforts are underway to revise and update all national accounts series to the new RTGS dollar. Current data are based on IMF staff estimates of price and exchange rate developments in US (and RTGS) dollars. Staff estimates of US dollar values may differ from authorities’ estimates.

@@ -1,0 +1,5 @@
+Bitcoin futures volume on two regulated platforms - CME Group and Bakkt - fell sharply last month.
+According to research conducted by The Block’s Larry Cermak, CME's daily average volume dropped by over 50% to $242 million in March, as compared to $493 million in February.
+Bakkt’s daily average volume, on the other hand, fell by 38.7% in March from $26.94 million to $16.51 million in February.
+Both the exchanges’ open interest, or the number of open futures contracts, also dropped month-on-month in March.
+CME’s open interest fell to $127 million in March since reaching an all-time high of $338 million on February 14. Bakkt’s open interest, on the other hand, plunged to $4.6 million since reaching an all-time high of $19 million on February 14.

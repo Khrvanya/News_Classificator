@@ -1,0 +1,6 @@
+Even worse, some of these computers had been dedicated to crunching numbers for research on COVID-19.
+The intrusions occured on supercomputer clusters in the UK, Germany, Switzerland, and probably Spain, according to a report by ZDnet.
+Some of the compromised universities include Stuttgart, Ulm, Karlsruhe Institute of Technology, Tübingen University, the Bavarian Academy of Sciences, the Technical University of Dresden, the Ludwig-Maximilians University of Munich, and the Swiss Center of Scientific Computations.
+The attackers likely gained access from compromised SSH login credentials given out to other universities in Canada, China and Poland, in order to access the supercomputing arrays. There is some evidence that the attacks were all carried out by the same group, although it is not conclusive.
+A look at the recent hashrate on the Monero network shows a healthy pair of spikes in May to about 1.4 gigahashes/second, although this jump does not seem outside the realm of normalcy.
+CryptoGlobe recently reported that the hashrate on the Monero network had been mostly static even as the network’s transaction rate was on the rise.

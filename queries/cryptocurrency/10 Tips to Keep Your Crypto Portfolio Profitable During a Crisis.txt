@@ -1,0 +1,40 @@
+Following a set of simple trading rules can be the difference between a growing portfolio and a liquidated account. Here’s 10 rules to consider.
+Dennis Gartman began his trading career in the 1970s and over the years he amassed a ton of experience trading Forex, treasuries, stocks, commodities, and derivatives . Those familiar with Gartman will know that he wrote a very prestigious daily newsletter for 30 years, and it is held in high regard by institutional investors.
+Known for his pragmatism and skepticism, Gartman crafted some of the most contrarian trading calls ever registered, often hitting the bullseye. Gartman eventually wrote down some “ rules of trading ,” and these have been revised and honed over time.
+Most of Gartman’s rules work for any market, but some adjustments were necessary since cryptocurrencies are known for their uncanny volatility and startling lack of liquidity compared to established markets such as gold, oil and S&P futures.
+Retail traders tend to make fundamental mistakes as conventional trading practices applied to cryptocurrency investing can sometimes produce unintended outcomes.
+For example, it might seem natural to take profits once a trade hits your target and the shift to buying cryptocurrencies that have been lagging the market but it is not a strategy that has proven successful for many investors.
+For this reason, we have reviewed Gartman top rules and adapted them for investors who trade cryptocurrencies.
+Sometimes it just makes sense to average down. After all, an investor could offset their losses faster as soon as prices recover. If an investor initially bought Ethereum ( ETH ) at $220 and it drops to $140, doubling down his position would result in an average price of $180.
+This strategy would reduce break-even to a mere 29% gain instead of the original 57%. Gartman advises investors this is the worst strategy ever, and it’s not just inexperienced retail traders that fall for this one.
+Losing positions should be terminated, not increased.
+2. Be willing to switch sides, promptly
+It doesn’t matter how bullish one is on a thesis. If the price of an asset continues to move down and reaches the stop loss, close the position. Do not immediately place another bid at a lower level. The only option that one should consider at this moment is selling even more.
+The best procedure is to cut losses early and often.
+3. A financial loss is terrible, but mental stress is even worse
+Keeping a position that is damaging portfolio value is not a good thing, although the mental stress caused by it is even more harmful. After taking a loss, try to take a few days to focus on something else like your family and personal well being.
+Every trader makes bad bets every once in a while, that’s part of the game. The important thing is to avoid emotional attachment to a position. There’s a vast difference between investing and trading.
+It will be much harder for an XRP fanboy to trade out of their losing position since their extremely optimistic long term view will make it much harder to stomach the loss. The same happened with Bitcoin ( BTC ) maximalists who became paralyzed as the price dropped down from $10,000 to $4,500 in March 2020.
+4. If the market is bullish, one can only be neutral or long
+If a trade has reached the stop-loss, most likely, the investor hasn’t read the market correctly. Too many traders go bankrupt while trying to guess the bottom. A good strategy is to reevaluate market trends after every loss. One will only know if the price was high or low a couple of months after the fact. Don’t fight the trend.
+Ethereum price chart Jan-Feb 2020. Source: TradingView
+For example, the above chart shows a perfect trend divergence on a smaller time frame. Although some traders could have benefited by shorting the market, the more extended uptrend prevailed.
+Such price movement is a perfect example of a bull market, where a trader should only be long or neutral. The opposite is valid during bear markets as traders should avoid building long positions, no matter on what timeframe. As traders used to say, "don't try to catch a falling knife". Wait for a clear trend change to start building a position.
+5. Be patient with winning trades, quickly exit from losing trades
+An investor can be very profitable even if they get only 30% of their picks right. The trick is having a tight stop loss of roughly 7% to 10%, while continuously adding position on winning trades.
+That’s right. If a position keeps going up and the market trend is positive, buy more. Learn how to use stop orders both for limiting losses and adding positions during bull runs. Another interesting strategy is manually entering trailing stops.
+Suppose one currently has a 10% gain, then locking profits for half the position with a 5% gain is a good idea. If the market continues to move up the following days, reaching 15% profit, move the stop order up to lock a 10% gain.
+It’s tough to pinpoint the author of this phrase. Nevertheless, it hits the mark in every sense. Sometimes investors are 100% confident of a price move, but it merely does not happen.
+Don’t try to argue with market sentiment. Do not expect everyone to align with your vision, no matter how “right” you are. Beware of confirmation bias, especially on social networks.
+Investors tend to seek similar mindset traders and block opposing ones. The problem with this approach is it’s impossible to know the true motivations of crypto-Twitter analysts. What if the crypto influencer you cherish is expecting a pump right after his buying recommendation to get rid of his bags?
+Respect the trend more than your gut or the opinions of others.
+If the market is slowly rising, and suddenly there’s a sizable negative candle it's best to revise this position immediately. A 4% reversal could quickly grow to a 12% or 20% loss in a few hours or days.
+On the other hand, after a prolonged bear market, a strong positive candle could be the trigger for a trend reversal.
+Waiting for more discernible market structure and trend shift often presents better opportunities to make incremental purchases. Trends that last for weeks or even months usually offer a more substantial and faster reversal.
+When investors correctly interpret market trends, even a lousy trade can produce a positive result. This is precisely the time an investor should be raising the stakes and adding to existing open positions. On the other hand, when the price goes south, slow down and make each position smaller.
+Keep in mind that short-term trends can differ from longer timeframe trends. What most inexperienced traders tend to miss is that more often than not, the market has no clear direction. When in doubt, sit tight. Wait for a trend confirmation and then start building a position.
+It is far better to be the master of a few successful trading tools than to simply sit in the rafters observing price action through the use of dozens of indicators. The fewer variables, the easier it is to make a decision.
+If the cryptocurrency you’ve been following jumped 15% and the following day another 20%, leave it. Even 300% bull runs present relevant drawdowns. Instead of FOMO’ing into a position, set bids at lower levels and wait.
+Usually, the most profitable trades take days or weeks to happen therefore there is no need to rush. Monitoring the price action constantly will undoubtedly cause an investor to overtrade as hype and fear are the enemies of every trader regardless of their experience or skill level.
+Anyone can draw a methodology. The hard part is sticking to it and following the plan. Work smarter, not harder.
+The views and opinions expressed here are solely those of the author and do not necessarily reflect the views of Cointelegraph. Every investment and trading move involves risk. You should conduct your own research when making a decision.

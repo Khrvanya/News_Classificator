@@ -1,0 +1,21 @@
+Ether has more than doubled in value so far this year. Here are five signs from this week alone that suggest it might finally be Ethereum’s time to shine.
+Ether ( ETH ) has more than doubled in value so far this year, with strong fundamentals and increasing numbers of projects being built on the network. Here are five signs from this week that Ethereum’s time may have finally come.
+The price of a single share in the Ethereum Trust is currently trading for $81.50 even though one share represents Ether worth just $25.46. Yesterday the premium was even higher, at 312%.
+The Grayscale Ethereum Trust has $154.5 million in assets under management and is aimed at institutional investors who are willing to pay a premium to avoid investing directly in cryptocurrency with its attendant custody and regulatory issues.
+Some retail investors are also paying over the odds. Coinbase, a major fiat gateway used by  retail investors, has seen Ether trading at a $1 to $1.50 premium over non-fiat exchanges recently, which may indicate additional fiat coming into the market.
+The first study to examine Ether’s potential as a "hedge, diversifier or a safe haven asset" on an intraday basis has been released by San Jose State University . It examined the data between December 2017 and December 2018 and concludes that:
+"Ethereum crypto-currency is a hedge against the U.S. stock and gold markets. Also, Ethereum tends to behave as a safe haven for gold markets. When currency markets are concerned, we document that Ethereum is a diversifier for the US Dollar."
+More research over longer time periods is needed to confirm the findings in other scenarios, but the news will be noticed by investors looking to diversify from stocks, gold or Bitcoin ( BTC ).
+JPMorgan, the largest bank in the United States, is in talks to merge its Quorum blockchain division with development studio ConsenSys — founded by Ethereum co-founder, Joe Lubin.
+The bank built its private Quorum blockchain using the Ethereum network. It is used for the Interbank Information Network of 365 banks, and was mooted as the backbone for the JPMorgan digital currency.
+If successful, the deal is likely to be announced within six months, with speculation it could see the bank investing further in the Ethereum ecosystem.
+The Ether price has risen for seven weeks in a row to peak around $274 yesterday — the highest price since July last year.
+The longest weekly winning streak for Ether was from January to March 2017. If the Ether price closes green this week and next, it’ll cap a record breaking run (even though it has risen far more sharply in the past).
+The price rise has been accompanied by increased network usage. According to Glassnode data, the total daily gas usage has just hit the highest point since September last year.
+The number of active Ethereum addresses has grown by 21.5% over the past week, and transactions have increased by 13.2%.
+The amount of funds staked in Decentralized Finance applications has just topped $1 billion for the first time (and is currently at $1.15 billion). Ether accounts for about 70% of the total, and Bitcoin's Lightning Network is the only project in the top 20 not built on the Ethereum blockchain
+Kain Warwick, founder of the third largest DeFi project, Synthetix told Cointelegraph that DeFi’s success has helped people understand Ethereum’s potential and the large number projects being built on the blockchain, which helped combat “mispricing in the market.”
+“The idea that Ethereum is replicating these traditional financial applications on a decentralized platform has finally crossed the chasm and got to the point where people understand it,” he said.
+“Once you start looking it becomes obvious just how much stuff is happening on Ethereum. When you compare it to something like Bitcoin it’s just orders of magnitude larger.”
+Warwick quickly added that he’s also bullish on Bitcoin and thinks it’s a very valuable asset.
+“But in terms of what is the thing facilitating all this activity that's getting people excited about crypto again? It's Ethereum. That’s where everything is happening. All of the cool projects and interesting applications are emerging out of Ethereum and it’s hard to see how that doesn’t drive awareness and this reassessment of the value proposition.”

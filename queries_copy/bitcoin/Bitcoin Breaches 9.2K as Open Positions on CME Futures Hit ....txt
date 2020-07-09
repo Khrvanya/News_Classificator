@@ -1,0 +1,18 @@
+Please consider using a different web browser for better experience.
+Please enable JavaScript in your browser for a better site experience.
+The top cryptocurrency by market value jumped to a high of $9,220 at 10:20 UTC on Wednesday, having settled (UTC) above $9,000 on Tuesday to register its first above-$9,000 daily close in two months.
+Meanwhile, open interest – or the number of futures contracts outstanding on the CME – rose to $351 million on Tuesday, the highest level since July 10, 2019, according to the data provided by crypto derivatives research firm Skew.
+Open interest hit a bottom of $107 million on March 12, when bitcoin’s price fell by over 40% amid the coronavirus-led crash in the traditional markets. Since then, open positions have risen by 228%.
+“The uptick in the CME open interest is indicative of professional traders returning to the bitcoin market,” noted analytics resource Arcane Research in its monthly report. CME open interest is widely considered to be a proxy for institutional activity.
+While that may be the case, retail investors, too, could be trading CME futures through TD Ameritrade, an online broker.
+Further, the latest open interest figure may have been distorted due to the rumored entry of Renaissance Technologies’ into CME futures trading. In March, the quantitative analysis-heavy firm gave the green light for its Medallion fund to trade the CME’s cash-settled bitcoin futures market.
+Some observers argue that only U.S.-regulated institutions are required to trade on the CME while the rest may be trading on other major exchanges like BitMEX.
+See also: BitMEX Is Making Bitcoin Network More Expensive for Everyone, Researcher Finds
+Put simply, the uptick in the CME open interest does not necessarily represent institutional activity, more so as the exchange accounts for a small portion of the global futures open interest.
+“It’s still small relative to the rest of the market and the overall market open interest is still quite low,” said Darius Sit, co-founder and managing director at Singapore-based QCP Capital.
+Total open interest in futures listed on major exchanges across the globe stood at over $2.5 billion on Tuesday, the highest level since March 11, when the tally was around $3.8 billion. Meanwhile, CME’s contribution to the global tally was 14%.
+Nevertheless, the uptick in both the CME and global volume is likely to bring cheer to bulls as a rise in open interest alongside an upward move in prices is said to confirm an uptrend.
+At press time, bitcoin is trading near $9,220, representing a 2.5% gain on the day.
+The cryptocurrency has broken out of a six-day-long narrowing price range, signaling a continuation of the price rally from lows near $6,700 observed on April 20. The move strengthens the case for a rise to $10,000 ahead of next Tuesday’s mining reward halving.
+Disclosure: The author holds no cryptocurrency at the time of writing.
+The leader in blockchain news, CoinDesk is a media outlet that strives for the highest journalistic standards and abides by a strict set of editorial policies . CoinDesk is an independent operating subsidiary of Digital Currency Group, which invests in cryptocurrencies and blockchain startups.

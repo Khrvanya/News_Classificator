@@ -1,0 +1,11 @@
+New vacancies suggest the company is keen to explore emerging blockchain technologies.
+PayPal is seeking to hire blockchain and cryptocurrency engineers in what could hint at the future support of cryptocurrency exchanges.
+The global payments platform's job listings, posted on PayPal's own boards, include a request for a technical lead/cryptocurrency engineer set to join a team in Chennai, India.
+A successful applicant would become part of PayPal's Crypto Engineering Team in the region, which the company says is "responsible for new initiatives for PayPal global with focus on agility, time to market and innovation." This includes the development of crypto-related products and features that are suitable for the PayPal platform.
+The listing emphasizes the need for someone able to build and maintain Internet applications and services, with a focus on expertise in security, symmetric and asymmetric cryptography, crypto libraries, and software development.
+The second listing of note, as reported by Coin Telegraph , asks for a blockchain research engineer to work with the company in exploring emerging technologies and their potential applications within PayPal.
+Earlier this year, PayPal published job openings for engineers willing to join the firm's Blockchain Research group.
+PayPal's global customer base accounts for over 305 million active account holders and the platform facilitates the receipt of money in over 100 currencies, as well as the withdrawal of funds in 56 currencies.
+The job listings have emerged at a time when rumors are circling over PayPal's potential plans in the cryptocurrency realm. Reports have previously suggested that the payments giant may launch a crypto offering within the next few months that facilitates both the purchase and sale of digital currencies.
+If cryptocurrencies are brought to the table, this could, in turn, dissolve cross-border payment issues that can be a challenge in the global marketplace -- due to local regulatory requirements and different financial infrastructures -- and allow PayPal to take advantage of what has become a lucrative, alternative market to traditional banking.
+While some cryptocurrencies are volatile in pricing due to decentralized trading structures, variants such as Bitcoin (BTC) and Ethereum (ETH) are popular and are actively traded worldwide.

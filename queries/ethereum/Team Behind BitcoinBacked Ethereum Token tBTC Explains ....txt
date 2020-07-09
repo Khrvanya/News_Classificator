@@ -1,0 +1,15 @@
+Please consider using a different web browser for better experience.
+Please enable JavaScript in your browser for a better site experience.
+Keep Network says a flawed code addition forced the shutdown of its bitcoin-backed Ethereum token, tBTC, just two days after it launched.
+On May 18, deposits of bitcoin into tBTC were paused for 10 days – a move prompted by a bug that was supposedly missed by a security audit and was later found by two of the network’s contributors.
+That bug, Keep Network revealed in a Medium blog post Wednesday, related to a flaw in the processing of deposit redemptions (when users try and pull bitcoin back out of the system), essentially due to the code’s inability to tell different types of bitcoin addresses apart.
+“The team triggered this pause after finding a significant issue in the redemption flow of deposit contracts that put signer bonds for open deposits at risk of liquidation when certain types of bitcoin addresses were used in redemption,” Keep Network, which is behind the Thesis project that launched the token , said in the post.
+The team noted that redemptions had originally been restricted to p2wpkh address outputs, but were later widened to include “any other output scripts.” The issue arose if a user tried to redeem pay-to-scripthash (p2sh) addresses. This changed code had not been specifically tested, bar more generally on testnets at a later stage, the post concedes.
+“[D]ue to a bug in the redemption dApp in use at the time, the proof step of the redemption flow never occurred,” Keep Network wrote. “These p2sh addresses would have failed validation had the proof step occurred, but reliance on the dApp’s display of a completed state meant the team assumed the redemption had completed successfully, when it in fact had not.”
+A second bug was also found meaning that, even if the proof code had been free of issues, a “malicious redeemer” could have specified an output script that resulted in an invalid bitcoin transaction.
+Community manager at Blockstream, Daniel Williams, who has an interest in bitcoin and goes by the handle, @Grubles , critically summed up the primary bug in a May 20 tweet , saying:
+While the bug and subsequent pause have been a setback for the Thesis team, a new call out has been made to solicit help from code auditors to help track down any further issues.
+“We’re also in the market for BTC-focused auditors for round 3,” the team said a Tweet on Wednesday.
+In addition to technical and process changes, the Thesis team will be announcing how it plans on approaching a “redeploy of the tBTC system” and how that will impact existing plans around the KEEP token distribution.
+“We’re looking forward to showing the world a stronger, more secure Bitcoin on Ethereum,” the team said
+The leader in blockchain news, CoinDesk is a media outlet that strives for the highest journalistic standards and abides by a strict set of editorial policies . CoinDesk is an independent operating subsidiary of Digital Currency Group, which invests in cryptocurrencies and blockchain startups.

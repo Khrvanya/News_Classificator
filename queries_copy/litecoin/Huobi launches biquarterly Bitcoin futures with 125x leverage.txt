@@ -1,0 +1,11 @@
+Huobi is one of the biggest cryptocurrency exchanges (Image: Shutterstock)
+Crypto exchange Huobi today introduced bi-quarterly futures.
+Huobi’s bi-quarterly futures product supports nine cryptocurrencies, among them Bitcoin, Ethereum and Litecoin.
+People can also leverage trades by up to 125 times.
+Just a week after crypto exchange Binance started offering quarterly futures , rival exchange Huobi today introduced bi-quarterly futures . Touché!
+A futures contract is a bet on whether the price of a cryptocurrency will rise or fall by a certain point, in Huobi’s case every six weeks. If the bet is correct, the person who made it wins. If not, they lose, and the money goes to the person they signed the contract with.
+Huobi’s bi-quarterly futures product supports nine cryptocurrencies, among them Bitcoin, Ethereum and Litecoin, along with 36 trading pairs. Huobi’s futures platform already supports weekly, bi-weekly and quarterly futures contracts.
+Huobi’s offering goes live the day after Huobi Futures launched version 4.2.0 of its platform. It also adds a feature called “locked margin optimization,” which lets users make the most of their money by lowering trading costs and reducing lag.
+People can also leverage trades by up to 125 times—an extremely high number that comes with a considerable amount of risk. Huobi wants to “provide users with wider choices and lower principal cost to open a position.”
+“The higher the leverage multiples they apply, the less principal cost is required to open the position, so as to potentially earn greater profits,” it wrote.
+Huobi is one of the stalwarts in the crypto-derivatives industry. Last quarter, it traded $438 billion, according to coin metrics firm TokenInsight. In March, April and May, Huobi had the largest volumes for derivatives trading among top exchanges, followed by OKEx and Binance, according to crypto analytics firm CryptoCompare.

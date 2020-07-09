@@ -1,0 +1,13 @@
+The contract takes price cues from WTI crude oil futures contract offered on Nymex.
+The top commodity contract that’s traded on commodity bourse MCX , crude oil futures allow an array of participants to hedge themselves or simply to speculate on the movement of crude oil. The contract takes price cues from West Texas Intermediate crude oil futures contract offered on New York Mercantile Exchange (Nymex).
+1. What is a crude oil contract?
+A contract that allows you to buy or sell crude at a preset price for delivery on a future date. It allows a participant to lock in a price at which to buy or sell crude for a future date. There is no delivery only exchange of price takes place.
+2. When does the contract expire?
+The front month contract is the most active among three concurrent contracts. Expiry is on the 19th or the 21st of the month.
+3. What is the maximum allowable open position limit?
+For clients 4.8 lakh barrels or 5 per cent of marketwide open interest (outstanding buy or sell), whichever is higher.
+4. What is the maximum order size?
+5. What is the margin to trade?
+Around 5 per cent. During excessive volatility it becomes higher.
+6. What was the turnover of crude oil derivatives in FY19?
+According to Sebi, crude futures and options’ turnover was Rs 21.38 lakh crore, ahead of gold, zinc, silver and copper. Crude accounted for almost 32 per cent of MCX turnover of Rs 65.91 lakh crore. This was against that of gold (15.3 per cent), zinc (13.6 per cent) and silver and copper 9 per cent each.

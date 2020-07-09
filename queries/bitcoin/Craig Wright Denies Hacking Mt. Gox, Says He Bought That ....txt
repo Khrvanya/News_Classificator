@@ -1,0 +1,14 @@
+Craig Wright Denies Hacking Mt. Gox, Says He Bought That Bitcoin
+The controversial Satoshi Nakamoto candidate says he bought Bitcoin stored in the 1Feex address.
+Craig Wright, the self-proclaimed Satoshi Nakamoto candidate and chief scientist at NChain, has addressed the recent allegations about him hacking the now-defunct exchange Mt. Gox.
+Last week, a lead maintainer of Monero ( XMR ) privacy coin Ricardo Spagni tweeted out court documents suggesting Craig Wright’s affiliation with a Mt. Gox-related Bitcoin ( BTC ) wallet known as “1Feex”:
+Spagni’s tweet followed a string of letters sent by Wright’s lawyers on June 12, where they stressed that their client owns 80 BTC on the “1Feex” address, which has been associated with the Mt. Gox hack.
+Wright claims he bought the 1Feex Bitcoins, refutes evidence
+In a statement shared with Cointelegraph earlier today, Wright claims that he purchased the Bitcoin stored in the 1Feex wallet in late February 2011 and “it was transferred into that address on 1 March that year.”
+“The full amount of the Bitcoin, which is now owned by Tulip Trading Limited, remains in that address today,” the nChain chief scientist said.
+According to Wright, the only evidence presented as part of the allegations is “a purported Skype chat between Mark Karpeles and Jed McCaleb, but that document is only a text file rather than a validated Skype log.”
+“No other evidence or any credible evidence, such as internal/accounting records from Mt. Gox, has been put forward,” he continued. Wright also stressed that Mark Karpeles has been convicted of manipulating company records before.
+The new statement also mentions that the 1Feex Bitcoin transaction was not reported to the police between March 2011 and Mt. Gox’s breakdown in 2014, “nor did Mt. Gox make any attempt to recover that bitcoin.” Wright finds it suspicious, since the alleged Skype document suggests that Karpeles would have known that the missing cryptocurrency was stored in the 1Feex address.
+Wright closed his statement offering anyone “including the liquidators of Mt. Gox,” to contact his lawyers if they want to claim ownership of the said Bitcoin.
+As part of one of Wright’s ongoing legal battles, he claims to own the Tulip Trust — a number of Bitcoin wallet addresses holding a total of roughly 1.1 million BTC that he and his business partner, Dave Kleiman, had allegedly mined.
+Kleiman passed away in 2013, leaving Wright unable to retrieve the funds. Wright is now locked in a court battle with the estate of David Kleiman. As he recently told Cointelegraph, he is “ 99.9999 and a few more 9s percent certain ” that he will be taking control of the Tulip Trust addresses. A trial for this case is scheduled for July 6 in the Southern District of Florida.

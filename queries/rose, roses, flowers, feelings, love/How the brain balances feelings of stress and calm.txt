@@ -1,0 +1,29 @@
+Written by James Kingsland on June 9, 2020 — Fact checked by Rita Ponce, Ph.D.
+Two regions of the brain play pivotal roles in the experience of stress and the restoration of calm, an imaging study has discovered.
+A new study delves deeper into how the brain maintains a balance between feelings of stress and calm.
+The effects of stress on the mind and body, such as heightened alertness and a rapid heartbeat, are a mixed blessing for modern humans.
+In our distant evolutionary past, the stress of encountering a hungry predator or squaring up to a rival helped to keep us alive.
+In the modern world, however, the immediate psychological and physiological effects of stress in situations, such as an exam, a job interview, or a first date, can be counterproductive.
+Fortunately, unlike other animals, humans can develop cognitive strategies for reducing their subjective experiences of stress.
+Successful coping strategies that psychologists have identified include expressing stress-related feelings , either verbally or in writing, reappraising a stressful situation to see it in a more positive light, and mindful attention .
+By studying animals, biologists have learned a great deal about how the central nervous system regulates the physiological effects of stress.
+But investigating how the brain manages the subjective experience of stressful events has proved more challenging.
+“We can’t ask rats how they are feeling,” says Elizabeth Goldfarb, Ph.D., associate research scientist at the Yale Stress Center, part of Yale School of Medicine in New Haven, CT.
+To learn more about the neural correlates of feeling stressed, Goldfarb and her colleagues used functional magnetic resonance imaging (fMRI) to scan the brains of 60 volunteers as they looked at sets of stress-inducing and neutral or relaxing pictures.
+The researchers showed the participants stress-inducing images, such as a snarling dog, mutilated faces, and filthy toilets. In contrast, the neutral or relaxing images included people reading in a park and scenes from nature.
+After viewing each set of pictures, the researchers asked the participants to press buttons to rate how stressed they felt on a scale of 1 to 9 (1 for not stressed at all, 9 for extremely stressed). The volunteers also rated how calm or relaxed they felt.
+Does memory help regulate emotions?
+The scientists were interested to see how the connectivity of the hippocampus in the brain changed according to how stressed the participants felt.
+The hippocampus is a seahorse-shaped structure found deep in the temporal lobe within each hemisphere of the brain. It plays a crucial role in emotion and memory.
+The researchers discovered two distinct networks of brain regions centered on the hippocampus that became more or less connected, according to the participants’ stress levels.
+When they were feeling stressed, connectivity strengthened in a network that included a structure at the base of the brain called the hypothalamus . This triggers the release of several hormones, including the stress hormone cortisol .
+When subjects felt calmer, connectivity strengthened between the hippocampus and a network, including the dorsolateral prefrontal cortex (dlPFC), near the front of each hemisphere.
+The dlPFC has associations with cognitive or “executive” functions, including decision-making and the coping strategies people use to regulate emotions.
+Previous research suggests that this part of the frontal cortex plays a role in both mindfulness and emotional reappraisal. The latter can entail recalling more positive associations.
+In some of the participants, connections between the hippocampus and the dlPFC strengthened during exposure to the stressful images. This appeared to lessen their subsequent experience of stress.
+The researchers speculate that these participants were accessing memories that helped them dial down their stress response.
+“Similar to recent findings that remembering positive experiences can lower the body’s stress response, our work suggests that memory-related brain networks can be harnessed to create a more resilient emotional response to stress,” says Goldfarb.
+Other research indicates that the frontal cortex of people with mental health disorders, such as anxiety, may fail to regulate their emotions in times of stress.
+“These findings may help us tailor therapeutic intervention to multiple targets, such as increasing the strength of the connections from the hippocampus to the frontal cortex or decreasing the signaling to the physiological stress centers.”
+Medical News Today recently reported on a study that suggested that stimulating the left dlPFC in the frontal cortex with a magnetic field, known as repetitive transcranial magnetic stimulation, can relieve depression.
+The authors of the new study note that while their work reveals the importance of the hippocampus, other brain mechanisms likely come into play in other mental health contexts, too, for example, in addiction .

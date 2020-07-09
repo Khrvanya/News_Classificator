@@ -1,0 +1,27 @@
+The National Bank for Agriculture and Rural Development (NABARD) has sanctioned a loan of ₹2,500 crore to support the government’s programme to improve food production and reduce reliance on other States for rice and perishables.
+A top-level meeting chaired by Chief Minister Pinarayi Vijayan on Saturday decided to make full use of the amount in a time-bound manner to turn fallow land into high-yield farms. The money would go into paddy and vegetable cultivation, fisheries and inland and marine fish farming.
+Farmers could avail themselves of loans via the Kerala Bank and also the Kerala Grameen Bank. They will receive the loans through their accounts in primary agriculture cooperatives.
+Kerala Bank has earmarked ₹990 crore for paddy cultivation. It would also extend loans for developing fisheries and animal husbandry.
+Mr. Vijayan urged farmers to move away from traditional methods of cultivation and to adopt the latest precision high-tech farming methods. He encouraged youngsters to show a keen interest in farming and said the State’s egg and meat production should increase.
+Industries Minister E.P. Jayarajan, Minister for Cooperation Kadakampally Surendran, Minister for Forests K. Raju, vice chairman of the State Planning Board V.K. Ramachandran, and Chief General Manager, NABARD, R. Sreenivasan were present.
+You have reached your limit for free articles this month.
+Start your 14 days trial now. Sign Up
+Find mobile-friendly version of articles from the day's newspaper in one easy-to-read list.
+Move smoothly between articles as our pages load instantly.
+Enjoy reading as many articles as you wish without any limitations.
+A one-stop-shop for seeing the latest updates, and managing your preferences.
+A select list of articles that match your interests and tastes.
+We brief you on the latest and most important developments, three times a day.
+*Our Digital Subscription plans do not currently include the e-paper ,crossword, iPhone, iPad mobile applications and print. Our plans enhance your reading experience.
+We have been keeping you up-to-date with information on the developments in India and the world that have a bearing on our health and wellbeing, our lives and livelihoods, during these difficult times. To enable wide dissemination of news that is in public interest, we have increased the number of articles that can be read free, and extended free trial periods. However, we have a request for those who can afford to subscribe: please do. As we fight disinformation and misinformation, and keep apace with the happenings, we need to commit greater resources to news gathering operations. We promise to deliver quality journalism that stays away from vested interest and political propaganda.
+Your support for our journalism is invaluable. It’s a support for truth and fairness in journalism. It has helped us keep apace with events and happenings.
+The Hindu has always stood for journalism that is in the public interest. At this difficult time, it becomes even more important that we have access to information that has a bearing on our health and well-being, our lives, and livelihoods. As a subscriber, you are not only a beneficiary of our work but also its enabler.
+We also reiterate here the promise that our team of reporters, copy editors, fact-checkers, designers, and photographers will deliver quality journalism that stays away from vested interest and political propaganda.
+Please enter a valid email address.
+var data = {"email" : email, "category" : "mb"};
+@media ( max-width : 1023px) and (min-width: 768px) {
+@media ( max-width : 767px) and (min-width: 1px) {
+box-shadow: 0 0 4px 0 rgba(0, 0, 0, .328);
+@media ( max-width : 320px) and (min-width: 1px) {
+@media ( max-width : 1023px) and (min-width: 1px) {
+@media ( max-width : 767px) and (min-width: 1px) {

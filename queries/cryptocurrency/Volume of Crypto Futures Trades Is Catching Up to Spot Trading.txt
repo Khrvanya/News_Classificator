@@ -1,0 +1,7 @@
+Futures trading volumes creep up on spot trading in crypto, with futures now amounting to half of the value of more traditional buy-sell trades.
+Crypto futures trading volume now reportedly amounts to nearly 50% of the value of spot trading on crypto markets, according to Bloomberg.
+Citing volume data from 13 major global crypto exchanges, Bloomberg reported on a massive growth of cryptocurrency futures markets Oct. 31.
+The analyzed exchanges include institutional digital asset platform Bakkt , the Chicago Mercantile Exchange Group ( CME ), Binance , Bitfinex, the Huobi Derivative Market ( DM ), Kraken, FTX , Bitz, Deribit, CoinFlex, Bybit, OKEx and BitMEX .
+Spot trading is simply buying or selling a commodity or, in this case, a crypto asset at the moment of the trade. Prior to the launch of the first Bitcoin ( BTC ) futures platform back in 2017, spot trading was the principal option available for crypto trades. The Chicago Board Options Exchange (CBOE) launched the first trading of BTC-based futures contracts on Dec. 11, 2017, just a week before the launch of a similar product by the Chicago Mercantile Exchange (CME).
+The Bloomberg report follows a new Bitcoin futures volumes record on major digital asset platform Bakkt, which launched its service on Sept. 22. On Oct. 26, Bakkt traded 1,183 Bitcoin futures contracts worth of $11 million after hitting a previous all time record of 441 Bitcoin futures on Oct. 23.
+On Oct. 29, OKEx, the world’s 5th-largest crypto exchange by trading volume, announced plans to start trading Tether ( USDT ) futures.

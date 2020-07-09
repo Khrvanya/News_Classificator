@@ -1,0 +1,8 @@
+Bitcoin’s massive fall on 12 March ignited a string of losses across all altcoin markets. The second-largest cryptocurrency, Ethereum [ETH] lost 25.65% of its value within three hours and was close to its January 2020 price. Due to the strong fall that engulfed the entire crypto-market, the gains reported by Ethereum in 2020 have been wiped out and the coin was staring at a 6% loss, since the beginning of the year.
+The falling prices triggered liquidations of BitMEX’s Ethereum futures. According to data provider Skew, at 10 am, about $25 million worth longs were liquidated on the exchange, the highest since 2019. The cumulative contract expiration on BitMEX within a day was worth $36 million, out of which $35 million was longs liquidation.
+The highest long liquidation was worth $2.1 million.
+Additionally, a great difference was noted in the ETH spot price between BitMEX and Coinbase . According to Skew, this difference was nearly 4.5%.
+The 10.55 am candle on BitMEX opened at $143.20, whereas on BitMEX the price had not fallen as much as the price was marked at $149.92. However, the high point marked in the 5-minute chart on BitMEX was $148, whereas Coinbase noted the high at $152.05. With the information available, it can be noted that the price of ETH did not fall as low on Coinbase as on BitMEX. The lowest price on BitMEX was $130.90, while Coinbase’s was at $133.48.
+As the sentiment turns bearish, the ETH Futures’ annualized % basis reflected that the market expected the price of the coin to fall in the short-term by 20 March; however, traders on FTX, Kraken, Deribit, and OKEx expected to note at least an 8% rise by June.
+Did you like this article?
+Your feedback is important to us!

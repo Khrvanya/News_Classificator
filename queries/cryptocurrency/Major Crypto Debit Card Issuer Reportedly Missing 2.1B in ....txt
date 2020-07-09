@@ -1,0 +1,13 @@
+A German fintech company responsible for several crypto debit cards, including Crypto.com’s, allegedly misrepresented over $2 billion in cash reserves.
+Major fintech company Wirecard, which issues Crypto.com’s debit cards, has fallen into controversy as some of its employees appear to have defrauded the company.
+As reported by the Financial Times on June 18, auditors from Big Four accounting company EY “could not confirm the existence of €1.9bn in cash,” or about $2.1 billion.
+According to a statement from the company, a trustee of Wirecard’s bank accounts attempted to deceive the auditor and falsely indicate the existence of the cash balance.
+The company’s stock price plummeted by almost 50% on Thursday after the issue came to light.
+According to earlier reporting by the Financial Times, Wirecard staff in Dubai and Dublin appear to have conspired to falsely inflate sales and profits for almost a decade.
+Are crypto cards in jeopardy?
+Crypto.com’s popular debit cards are issued by WireCard , which could prove to be a problem for the company.
+While it is unlikely that user funds are directly threatened, the hole in the reserves could result in service disruptions on cards issued by WireCard. Cointelegraph reached out to Crypto.com for comment, but did not immediately receive a response.
+However, Crypto.com is not the only provider that could be affected by this. WireCard is currently the debit card issuer for Wirex , TenX and CryptoPay .
+A notable exception in this group is Coinbase Card, which is currently issued by PaySafe Financial Services. Furthermore, Coinbase became a principal Visa issuer in February, which would put it at the same level of WireCard and PaySafe. However, the company has not yet directly issued its own debit card.
+There are few providers willing to work with cryptocurrency companies, and the crypto debit card industry largely remains vulnerable to struggling principal issuers. In January 2018, the sudden collapse of WaveCrest left virtually all crypto debit card companies without a product.
+It is unclear whether WireCard’s issues will result in a similar phenomenon, though this is different from the WaveCrest example, which simply had its Visa license revoked.

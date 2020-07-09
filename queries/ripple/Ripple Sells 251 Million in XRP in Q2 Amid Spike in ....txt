@@ -1,0 +1,16 @@
+Please consider using a different web browser for better experience.
+Please enable JavaScript in your browser for a better site experience.
+Ripple’s second-quarter report released Wednesday came with a few surprises: a gain, a loss, and a new partner.
+The distributed ledger technology firm’s total sales of XRP increased by nearly 48 percent to $251 million in the quarter , outpacing the first quarter’s $169 million in sales.
+Direct institutional sales drove the uptick, increasing nearly 73 percent to $107.9 million from $61.9 million. Though programmatic sales still accounted for the majority of sales volumes with $144.6 million made in the second quarter up from $107 million in the first.
+Despite this growth, the company states in a forward-looking projection:
+The company plans to pull back from certain over-the-counter exchange markets to focus on where liquidity is most needed, which may negatively impact institutional direct sales. Likewise, Ripple will target programmatic sales at 10 basis points of their lowered trading volumes.
+According to the report, Ripple’s global trading volumes dropped 28 percent quarter over quarter, from $595 million to $429.5 million, though that’s the result of better accounting rather than failed business strategy. In June, mid-way through the second quarter, Ripple changed its benchmark for trading volumes. The firm announced it has worked with data and indices firm CryptoCompare to weed out previously inflated statistics.
+CryptoCompare CEO Charles Hayter said his firm uses “granular trade and order book data, rather than aggregate volumes.” Previously, Ripple reported publicly available data from CoinMarketCap. As a result, much of the information in the new report is difficult to compare to previous quarters, as the data were based on different – perhaps illegitimate – metrics.
+For instance, without filtering “a majority of unverified volumes,” Ripple’s global trading figures stand at nearly 1.8 billion, per CoinMarketCap, a 195 percent increase from the first quarter’s $595 million. It is unclear whether Ripple will update previous quarter’s reports reflecting its new data standards.
+Ripple did not respond to a request for clarification.
+The report also states the platform’s native currency saw a price increase of nearly 25 percent quarter over quarter, landing on $0.40, expanded to 12 new exchanges, and experienced an average of 5 percent volatility in daily returns.
+Ripple also released one billion XRP each month of the quarter out of escrow, and replaced 2.1 billion XRP in new contracts. The 900 million in outflow went to develop projects for Xpring and RippleNet’s partnership with MoneyGram.
+As previously reported, Ripple purchased $30 million in MoneyGram stock and will develop a solution for international payments for the struggling remittances firm.
+Miguel Vias, head of XRP Markets at Ripple, via CoinDesk archives
+The leader in blockchain news, CoinDesk is a media outlet that strives for the highest journalistic standards and abides by a strict set of editorial policies . CoinDesk is an independent operating subsidiary of Digital Currency Group, which invests in cryptocurrencies and blockchain startups.

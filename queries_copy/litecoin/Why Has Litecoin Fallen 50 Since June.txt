@@ -1,0 +1,29 @@
+The digital asset rallied from roughly $30 at the start of 2019 to nearly $150 in June, rising more than 375%.
+Litecoin outperformed the broader market, which climbed more than 200% in less than six months.
+The altcoin enjoyed these sharp gains ahead of the halving, which took place on August 5.
+"News of the halving pushed Litecoin prices" higher, said Joe DiPasquale, CEO of cryptocurrency hedge fund manager BitBull Capital , after which traders booked profits.
+As a result, litecoin "outperformed" at the start of the year, noted Mati Greenspan, senior market analyst for social trading platform eToro .
+"Now that the alt markets are sluggish, they're taking some profits off the table."
+Dave Hendricks, cofounder and CEO of digital asset management platform Vertalo , offered a similar point of view.
+"This is pure profit taking by people who are smart enough to know that LTC is neither bitcoin, nor is it ethereum," he stated.
+"Both of those currencies have large and devoted followings and developers, whereas LTC has...not much," claimed Hendricks.
+Litecoin, which has in the past been called the silver to bitcoin's gold, has been struggling with many difficulties.
+Dipasquale summed this up nicely, stating that:
+"Litecoin's price action has historically followed Bitcoin's, but currently LTC is facing negativity on multiple fronts."
+"In the absence of new capital flow, transaction volumes have remained tame and the August halving has failed to push the price higher," he added.
+"In fact, miners have begun to abandon the network after the reward-reduction, which is why the hash rate is falling and concerns are being raised about the network's security."
+Tim Enneking, managing director of Digital Capital Management , also painted a less-than-optimistic picture of the digital currency.
+"In a market where altcoins have consistently underperformed Bitcoin for about 18 months and given that we have been consolidating for some time, the move is probably more than just traders taking profits and rotating into assets with historically better yields, but rather due to investors cutting losses while they have the chance," he stated.
+"Of course, traders are taking profits from an asset with no mass appeal, an ever-expanding competitive landscape, no exciting developments to rally around and a founder with no skin in the game."
+Marouane Garcon, managing director of crypto-to-crypto derivatives platform Amulet , also weighed in, stating that litecoin's recent price decline "has more to due with the concerns about development and how they’re going to be funded going forward."
+After Lee disclosed this information, "people’s perspective of Litecoin changed," maintained Garcon.
+"Litecoin hasn’t been the same since that announcement," he stated.
+"It threw everyone into a panic. If no one is willing to work on Litecoin and develop it then why should anyone invest in it?"
+The sentiment surrounding litecoin has grown weak lately, according to data provided by TheTIE.io , which analyzes social media activity.
+"We have seen a very strong correlation between tweet volumes and market cap of Litecoin," said Joshua Frank, cofounder of TheTIE.io.
+The chart below helps illustrate the relationship between the digital currency's 30-day average tweet volume and its market capitalization:
+Litecoin's 30-day average tweet volume charted against its market cap.
+"LTC's tweet volume peaked in June alongside market cap and has since seen a decline of over 50% since June highs," he noted.
+"While price hasn’t quite declined yet to 2019 lows, 30 day average tweet volume on Litecoin is at its lowest level this year," said Frank.
+He also spoke to litecoin's long-term sentiment score, emphasizing that it was the lowest of the five major digital currencies.
+The chart below depicts the long-term sentiment of these cryptocurrencies:

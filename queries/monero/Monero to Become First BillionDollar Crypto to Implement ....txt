@@ -1,0 +1,34 @@
+Please consider using a different web browser for better experience.
+Please enable JavaScript in your browser for a better site experience.
+A highly anticipated technology designed to make blockchain privacy features more scalable will be tested in the wild soon.
+Named “ bulletproofs ,” the tech, which was invented by cryptographers Benedict Bunz and Jonathan Bootle, promises to dramatically decrease the weight of confidential transactions, and on Thursday, Oct. 18, privacy-oriented cryptocurrency monero will put that to the test.
+The first major cryptocurrency to deploy the technology, monero has been focused on how to implement bulletproofs for the past year – in an effort to cut the size of its confidential transactions by at least 80 percent.
+As well as dealing with the scaling setbacks inherent to most blockchains, monero comes with additional privacy layers, which are heavy to compute and unruly to store. The scalability of confidential transactions have been a significant hurdle for the $1 billion blockchain, with users long suffering high transaction fees as well as an ever-increasing cost of storage for running a full node.
+Speaking to this, pseudonymous monero cryptographer Sarang Noether, who assisted with the bulletproof integration, told CoinDesk:
+Bulletproofs will replace the current zero-knowledge range proofs that its confidential transactions rely on.
+As such, the cryptocurrency will activate the technology during its next system-wide upgrade, or hard fork. A kind of upgrade that requires all nodes to adopt a new software, hard forks are sometimes colored as a risky process, however, this upgrade is part of monero’s bi-annual cycle to introduce new features.
+“We’re excited about it,” Sarang continued. “Part of the reason we do the upgrades is so we can be safely on the cutting edge, and I think this is a really, really good move forward.”
+It’s worth noting that bulletproofs don’t actually contribute to privacy itself. Rather, they simply ensure that the information stored within a confidential transaction doesn’t contain any false information.
+“They’re not about anonymity; they are about assuring that the other stuff we do for anonymity works correctly,” Sarang told CoinDesk.
+Monero relies on three different mechanisms in combination with each other –stealth addresses, ring signatures and ring confidential transactions – in order to achieve anonymity. Bulletproofs target the latter, ring confidential transactions, or RingCT, which is how monero obscures the quantities that are being sent in a transaction.
+Because RingCT’s use ring signatures, a cryptographic operation that obscures data by mixing it up with different outputs, monero needs a way to ensure that transactions balance correctly – that is, to make it impossible for money to be printed in the process.
+Up until now, monero has relied a kind of zero-knowledge range proofs to fulfill this task, named a bitwise Borromean range proof.
+Trouble is, these range proofs are “a very slow and large operation,” Sarang said, to the point that “the vast bulk of our transactions, size wise, on the blockchain are these existing range proofs.”
+Instead, bulletproofs work by aggregating information into new data structures that scale logarithmically, rather than linearly – meaning that the scaling gets even more notable for large transactions that contain multiple outputs.
+“It does the same thing, this nice, black box, zero-knowledge proof idea, but is much, much, much smaller and much, much, much faster to do.”
+Thursday’s upgrade will be introducing other changes to monero’s codebase as well.
+Targeting the ring signatures that monero relies on to conceal sender identities, the upgrade will increase the mandatory ring size, which is heralded as a way to increase monero’s anonymity set and make it less vulnerable to linking attacks .
+The upgrade also implements a second tweak to monero’s mining algorithm – intended to dissuade the emergence of ASICs, a highly optimized mining hardware, from being used on the network. As detailed by CoinDesk, this is following an upgrade in March that disabled a line of ASIC hardware that had been developed for the cryptocurrency – a move that has since become regarded as the genesis of crypto’s “ war on miners .”
+Still, of all the upgrades, bulletproofs has been the most hotly anticipated, in part due to the simplicity of adding the tech to monero’s overarching privacy system.
+“It’s not often you can basically take a cryptographic instruction, yank it out and put a new one in, but this was one case where we could do that,” Sarang told CoinDesk.
+With the focus on bulletproofs then, the code also tweaks monero’s underlying fee structure so that it “more accurately reflects the fact that bulletproofs scales so well,” Sarang continued.
+As mentioned, the upgrade will begin on October 18 but will happen in two parts. On the 18th, bulletproofs will be enabled on monero, and by Friday, the tech will be made compulsory. Users who update their software shouldn’t notice this at all, Sarang said.
+Going forward, monero researchers, are looking for more experimental ways to scale monero – which might one day include moving away from ring signatures altogether.
+Alongside another cryptographer named “Surae Noether,” Sarang works under the Monero Research Lab, a section of monero development dedicated to analyzing academic innovations in cryptography and deciding whether they can be applied to monero.
+“We’re taking all this new stuff and saying what if anything can be feasible in the future for our community,” Sarang said, adding:
+“We’re always looking at new ways to move away from ring signatures in order to get better anonymity sets, or at the very least ring signatures that scale better.”
+And on top of that, Sarang said, cross chain atomic swaps, payment channels and networks, as well as “fundamentals like refund transactions” are being examined as part of the lab’s work.
+Still, the developer was quick to draw attention to what he calls the “mitigation horizon” – of the difficulty of implementing cutting-edge ideas that could have effects on the cryptocurrency’s community, assets and other features.
+“You have the new technology that you’re interested in investigating, but what happens at that transition point where you have to bring everyone over with you?” Sarang asked.
+According to the developer, bulletproofs was unique in this capacity.
+The leader in blockchain news, CoinDesk is a media outlet that strives for the highest journalistic standards and abides by a strict set of editorial policies . CoinDesk is an independent operating subsidiary of Digital Currency Group, which invests in cryptocurrencies and blockchain startups.

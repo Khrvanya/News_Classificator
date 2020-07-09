@@ -1,0 +1,17 @@
+MetaMask unveils new Ethereum wallet, updates privacy features
+The popular Ethereum wallet has an update—and privacy is its forte.
+Browser plugin MetaMask has updated its wallet.
+The Ethereum wallet now has a whole host of top-notch privacy features.
+Users also now have an improved UI and more security.
+Popular Ethereum wallet MetaMask has unveiled an update to its Web3 onramp, focusing heavily on privacy and encryption.
+The wallet, which works hand-in-hand with a browser extension, allows users to store Ethereum and other ERC-20 tokens . Today it announced the new features of its Version 8. And the changes not only include a new “slick” user interface (UI) but “unparalleled privacy control” for when a user connects to a website.
+To use MetaMask, users need to connect either to Chrome, Firefox, Opera or the Brave browser. Once installed, transactions can be made to any Ethereum address.
+But wallets that connect to browsers expose the user’s current account to all connected sites. The new version of wallet allows users to “decide what each site has access to.”
+“This new feature enables you to easily switch between accounts, so you can control which accounts interact with different sites across the decentralized web,” MetaMask developer Dan Finlay wrote in the announcement.
+As part of updated privacy features, a new encryption tool is included in the update—allowing websites to encrypt and decrypt messages intended for Web3 users. Those using MetaMask, who want to send “infrequent, important messages,” can encrypt them.
+MetaMask Version 8 also aims to help get more users onto Web3. Finlay noted in his post that his team has received feedback from app developers that on-boarding users when connecting through a MetaMask account has been a source of “friction.” In fact, it’s one that some developers have tried to address directly by creating new tools, such as Audius’s Hedgehog , that aim to simplify that process.
+MetaMask, which acts as a gateway to Ethereum's dapp ecosystem, now wants to help ease that headache as well. Its wallet update now contains an onboarding library “enabling applications to implement their own connect button”—so staying on a Web3 application is a seamless experience.
+And security on the platform has been updated, too.
+MetaMask, which is built on the coding language JavaScript, now has LavaMoat built into the new wallet. LavaMoat is a set of tools aimed at preventing cyber attacks. Projects built on the Ethereum blockchain are typically more prone to security issues and bugs.
+With a whole host of new features it is clear MetaMask is on a mission to make interactions with the Ethereum blockchain as easy as it possibly can.
+Get the best of Decrypt where you want it most.

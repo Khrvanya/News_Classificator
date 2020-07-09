@@ -1,0 +1,34 @@
+2 min read . Updated: 05 Mar 2020, 11:02 PM IST Pallavi Pengonda
+Dues sought from the utility are more than three times its current market cap; the stock has plunged 38.6% so far in FY20
+Lower valuations could keep downsides limited, unless the AGR issue throws a nasty surprise
+Investors of the country’s largest gas utility GAIL (India) Ltd are an unhappy lot. True, its shares have gained by 8.2% in the past three days from its 52-week trading low on NSE. Still, investors are sitting with a whopping 38.6% drop in share price so far in FY20.
+One positive aspect of the steep correction is that the downside may be limited. Still, lack of clarity on the impact of the telecom adjusted gross revenue (AGR) liability issue is a concern that looms large for the company’s investors. Dues sought from GAIL are more than three times its current market capitalization. “Near-term clarity on AGR liability, which is untenable in GAIL’s opinion, will be crucial for the stock," point outs a report by Kotak Institutional Equities on 2 March.
+Centrum Broking Ltd’s analysts said in a report on 2 March, “We maintain that in absence of AGR liability having to be paid, GAIL remains in good shape to deliver steady earnings growth over financial year 2020-2022 (8.5% CAGR in Ebitda/13.5% earnings per share CAGR over FY20-22E)." Ebitda is earnings before interest, tax, depreciation and amortization. CAGR is compound annual growth rate.
+On Wednesday, the government told Parliament that the Supreme Court has “detached" companies such as GAIL from its AGR judgement, and asked them to seek relief from an “appropriate forum".
+Meanwhile, the management updated analysts about the Jagdishpur-Haldia and Bokaro-Dhamra Pipeline (JHBDPL) project, which would connect the eastern part of the country to the national grid. Progress remains on track.
+“Phase I of the JHBDPL is complete (753Kms Phulpur to Dobhi) and gas flows are expected to start by end of March 20," wrote Centrum Broking analysts. Phase II and III are likely to be completed by December 2020. Investors will have to watch how demand pans out on the JHBDPL route, though GAIL is confident of decent utilization from a medium-term perspective.
+The management also allayed recurring concerns on placement of costly contracted liquefied natural gas (LNG) volumes, while spot prices are lower. “The company has already placed 90%+ of long-term LNG volumes for CY2020 and 70%+ for CY2021 through adequately priced or hedged contracts," said the Kotak report.
+Meanwhile, crude oil prices have fallen and that’s not comforting. “The recent sharp decline in crude prices amid rising concerns on demand due to Covid-19 outbreak has a negative bearing on GAIL’s LPG (liquefied petroleum gas) production segment profits," added the report. Lower valuations could keep downsides limited, unless the AGR issue throws a nasty surprise.
+* Thank you for subscribing to our newsletter.
+Click here to read the Mint ePaperLivemint.com is now on Telegram. Join Livemint channel in your Telegram and stay updated
+You are now subscribed to our newsletters. In case you can’t find any email from our side, please check the spam folder.
+lozad('.lozad', { load: function(el) { el.src = el.dataset.src; el.onload = function() { el.classList.add('fade')}}}).observe()
+.myAccount .planSec, .myAccount a.LinkCTA{padding:16px; margin:16px; box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.1); background-color: #fff;}
+	       		var userData = data;
+	       		var name = userData.name;
+	       		var email = userData.email;
+	       		var signupSource = userData.source;
+	       		var subscribedAtOnce = userData.subscribedAtOnce;
+	       		var plan  = userData.plan;
+	       		document.getElementById('uName').innerHTML = "<strong>"+name+"</strong>" + email;
+		       		var status = planData.status;
+		       		var purchaseSource = planData.source_device;
+			       		var nextActivationDate = planData.current_term_ends_at;
+			       		var planDescription = planData.plan.description;
+			       		var planName = planData.plan.name;
+			       		var planPrice = planData.amount;
+			       		//var planInterval = planData.shipping_interval;
+			       		var planInterval = planData.duration;
+			       		var planUnit = planData.interval_unit;
+			       		//var html = "<strong>Your Subscription Plan</strong>"+planName+" ₹"+planPrice+" / "+planInterval+" " + nextBillingHtml + cancelHtml; 
+			       		var html = "<strong>Your Subscription Plan</strong> "+planDescription + " "+ planName +": ₹"+planPrice + " "+ nextBillingHtml + cancelHtml;

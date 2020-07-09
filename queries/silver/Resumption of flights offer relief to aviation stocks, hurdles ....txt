@@ -1,0 +1,40 @@
+Resumption of flights offer relief to aviation stocks, hurdles remain
+2 min read . Updated: 21 May 2020, 09:49 PM IST Pallavi Pengonda
+Shares of aviation companies InterGlobe Aviation Ltd and SpiceJet Ltd took off on Thursday after the government said flights would resume in a calibrated manner from 25 May.
+This comes with many curbs but investors are relieved airlines can restart operations after two months of being grounded. To begin with, airlines are permitted to operate up to a third of their approved summer schedule capacities.
+While resuming operations is certainly far better than being grounded, the many curbs mean that available seat kilometres (ASKs) and revenues will take a beating this year.
+“This does not mean it (resumption of flights) will be able to stimulate the needed passenger traffic given how the virus is showing no signs of abating," pointed out a report by CARE Ratings Ltd on 20 May. “We still believe passenger traffic will decline by 30% during FY21 as there will be certain inhibitions and apprehensions of travelling," added CARE Ratings.
+Further, the government has set a cap on fares with a fare band of lower and upper limits for three months. This may curtail gains given that 40% of the seats have to be sold at a fare less than the mid-point of the band.
+“Additionally, no on-board sales would impact margins to some extent. And overall, unit costs would increase due to newly prescribed safety measures," said an analyst requesting anonymity.
+True, Brent crude prices have slumped over 40% so far this calendar year and that’s helpful. But also note that prices are now up 88% from their lows about a month ago.
+Another big cost investors need to monitor is aircraft lease rentals. SpiceJet has recently said lessor payments, which form the bulk of the fixed costs, have been deferred and waived.
+Restarting operations could well mean lessor payments would resume again.
+The aviation sector has been one of the worst hit in the current coronavirus crisis.
+Analysts from JM Financial Institutional Securities Ltd wrote in a report on 19 May, “The various initiatives by airline companies—reduction in staff cost, renegotiation of lease rentals seeking deferment and the government reforms announced so far—have yielded little in the face of complete freeze in revenues."
+The brokerage firm had estimated a monthly cash burn rate of ₹200-1,100 crore across airline names, adding considerable stress to balance sheets.
+For now, investors are just relieved that operations are resuming. On Thursday, shares of IndiGo soared 7.5% while those of SpiceJet rose 5%.
+But it hardly makes sense to throw caution to the wind, given concerns about low capacity utilization.
+“We lower the ascribed FY22E enterprise value/EBITDAR (Earnings before interest, tax, depreciation, amortization and lease rentals) multiple (for IndiGo) to 7x (vs 7.5x earlier), given the increased risk to earnings if the demand contraction for travel were to be structural in nature—spanning over multiple years," said JM Financial.
+* Thank you for subscribing to our newsletter.
+Click here to read the Mint ePaperLivemint.com is now on Telegram. Join Livemint channel in your Telegram and stay updated
+You are now subscribed to our newsletters. In case you can’t find any email from our side, please check the spam folder.
+lozad('.lozad', { load: function(el) { el.src = el.dataset.src; el.onload = function() { el.classList.add('fade')}}}).observe()
+.myAccount .planSec, .myAccount a.LinkCTA{padding:16px; margin:16px; box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.1); background-color: #fff;}
+	       		var userData = data;
+	       		var name = userData.name;
+	       		var email = userData.email;
+	       		var signupSource = userData.source;
+	       		var subscribedAtOnce = userData.subscribedAtOnce;
+	       		var plan  = userData.plan;
+	       		document.getElementById('uName').innerHTML = "<strong>"+name+"</strong>" + email;
+		       		var status = planData.status;
+		       		var purchaseSource = planData.source_device;
+			       		var nextActivationDate = planData.current_term_ends_at;
+			       		var planDescription = planData.plan.description;
+			       		var planName = planData.plan.name;
+			       		var planPrice = planData.amount;
+			       		//var planInterval = planData.shipping_interval;
+			       		var planInterval = planData.duration;
+			       		var planUnit = planData.interval_unit;
+			       		//var html = "<strong>Your Subscription Plan</strong>"+planName+" ₹"+planPrice+" / "+planInterval+" " + nextBillingHtml + cancelHtml; 
+			       		var html = "<strong>Your Subscription Plan</strong> "+planDescription + " "+ planName +": ₹"+planPrice + " "+ nextBillingHtml + cancelHtml;

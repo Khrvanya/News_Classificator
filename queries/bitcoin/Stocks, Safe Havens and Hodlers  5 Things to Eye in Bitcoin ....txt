@@ -1,0 +1,26 @@
+Wobbly stocks and oil contrast with booming gold to provide potential upside for Bitcoin, but fundamentals still need to pick up.
+Bitcoin ( BTC ) is going into the third week of its new halving cycle just $550 away from five figures — but what could really impact price this week?
+Cointelegraph takes a look at the main factors that could help — or hinder — the biggest cryptocurrency over the coming days.
+Traditional markets are off to a rocky start this week. Protests in the United States have coupled with President Donald Trump’s softer response to China over Hong Kong to worry already panicky stocks.
+As a result of this uncertainty, safe-haven assets are rallying. Gold is up around $50 since May 27, at press time trading at $1,743 — near its highs from 2011.
+Oil is also falling in the U.S., something which could benefit local cryptocurrency miners, Andreas Antonopoulos has argued.
+As Cointelegraph reported, Bitcoin has shown increased “decoupling” from macro movements in recent weeks, and the potential to follow gold remains.
+Data currently shows that Bitcoin has delivered returns of nearly 50% in Q2 alone.
+All things being equal, however, Bitcoin still faces a downward difficulty adjustment in three days’ time.
+One of the Bitcoin network’s most important features, automatic adjustments ensure miners remain incentivized to participate in transaction validation.
+As noted previously , Bitcoin has not had two back-to-back downward adjustments since the bottom of its bear market in December 2018.
+Bitcoin hash rate estimate 1-month chart. Source: Blockchain
+Unlike difficulty, the hash rate is slowly creeping up this week, reaching roughly 95 quintillion hashes per second on Monday. The adjustment should further this upward trend in the short term.
+Last month’s halving has cut miners’ BTC revenue by 50%, but outflows accelerated after the event. For a time, miners were selling more BTC than they earned.
+That trend has died down over the past ten days, and outflows have reduced dramatically.
+Bitcoin mining pool outflows 1-year chart. Source: CryptoQuant
+The reduced desire to sell BTC holdings coincides with consumer activity — hodlers have withdrawn more from exchanges than at any time since the December 2018 lows.
+In addition, 60% of the Bitcoin supply has now not moved in a year or more — something true for the past five months, despite considerable price fluctuations.
+Whether exchange withdrawals are an indication that investors expect a bull run is currently a topic of debate in analytic circles.
+CME Bitcoin futures look set to open just a short space away from where they closed on Friday.
+This reduced “gap” in the market leaves less chance of a sudden move up or down by Bitcoin to “fill” it.
+As Cointelegraph has often noted , BTC/USD tends to make up for gaps left in futures. The past two weeks were no exception, with large and small gaps getting filled within days of opening.
+CME Bitcoin futures with a gap at $9,510. Source: TradingView
+At the focal price point of $9,500, Bitcoin is behaving exactly as forecast, according to the creator of the historically very accurate stock-to-flow price model.
+As Cointelegraph reported , June 1 produced a crucial “red dot” on the model, which has previously signaled the start of a bullish phase.
+For the stock to flow, each bullish phase ups the price by an order of magnitude — this time around, highs by 2024 could reach $576,000 or more.

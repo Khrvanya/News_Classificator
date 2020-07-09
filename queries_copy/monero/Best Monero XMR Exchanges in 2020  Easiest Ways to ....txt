@@ -1,0 +1,14 @@
+The XMR/USD pair has a maker fee of 0.4%, and a taker fee of also 0.4%. The minimum amount that can be traded is of 0.01, while the maximum is of 10000. The minimum price is 0.001, while the maximum price is 1000. The minimum and maximum amounts are 0.1 and 500000, respectively.
+Withdrawals times depend on the payment method selected, with some methods taking days to execute, while others might take hours.
+BitFinex is among the most established cryptocurrency exchange companies on the market. The platform boasts one of the highest USD liquidity for Bitcoin and offers a diversity of trading and ordering options. Currently, Bitfinex has the highest XMR/USD volume, with $565.927 traded in the last 24 hours.
+The exchange has more than 72 market pairs that can be traded against USD, as well as EUR, BTC, and ETH. The XMR/ USD pair is also supported on the site.
+There are a number of ways in which deposits and withdrawals can be carried out on the platform. You can convert Monero to USD and then withdraw via debit or credit cards and bank wire.
+Bank wires can have a deposit and withdrawal fee of 0.1% that can go up to 1% if you want to reduce processing times.
+The maker is between 0.1% and 0.0%, while the taker fee ranges between 0.2% and 0.055% depending on your 30-day trading volume.
+Trading under USD 500,000 has higher rates, and to be able to get the lowest fees you would have to trade at least 30 million dollars in a month.
+While not exactly an exchange, LocalMonero is a P2P trading platform that allows the exchange of Monero for fiat currencies. The website has been active for several years now, having quite a developed user base of sellers and buyers.
+There are many ways people can convert Monero to USD by using the platform. The first option would be to meet in person with the buyer and receive cash for your XMR.
+Another method is to receive cash from the buyer via the USPS mail system. This method is rather risky for the buyer, but if they trust you, maybe they will go for this option.
+There are also several online payment methods, such as Western Union, MoneyGram, PayPal, etc. that can be used to receive USD to your account.
+If you are looking to cash out your Monero to USD, then these exchanges are the best options that you can find.
+Hi, I’m Anca. You might’ve stumbled upon my literary creations while searching for stuff on the internet. I write mostly on topics related to tech, crypto and such (although there was a period in my life when I wrote sarcastic descriptions for bizarre Amazon products). When my ADD kicks in I turn sticky notes into Pikachus or pop bubble wrap.

@@ -1,0 +1,28 @@
+Please consider using a different web browser for better experience.
+Please enable JavaScript in your browser for a better site experience.
+Brave Browser’s Affiliate Link Controversy, Explained
+Brave CEO Brendan Eich (Credit: Pantera Summit 2019)
+Brave Browser’s Affiliate Link Controversy, Explained
+No one is easier to criticize than a Boy Scout.
+The browser maker Brave, which launched around protecting online privacy, was called out this weekend when users noticed that typing in the name of the leading cryptocurrency exchange, Binance, resulted in an auto-complete that ended in a referral link.
+This replicates on an instance of Brave used here at CoinDesk. Automatically adding the tag to the URL creates the appearance that Brave is adding tracking to visits to the exchange’s website that were direct, rather than mediated through some kind of referral (such as Brave’s in-browser ads).
+Monero developer Riccardo Spagni, also known as Fluffypony, captured some of this unease when he tweeted , “Bro. I don’t want my browser touching the URL I type in the address bar.”
+First noticed by Yannick Eckl on June 6 and first reported by Decrypt , the browser was sending signals to Binance that a user had been referred by Brave when they had not been. Brave founder Brendan Eich has since acknowledged the mistake and told users the referral language should stop appearing soon.
+"We made a mistake, we're correcting: Brave default autocompletes verbatim 'http://binance.us' in address bar to add an affiliate code. We are a Binance affiliate, we refer users via the opt-in trading widget on the new tab page, but autocomplete should not add any code."
+A Brave spokesperson told CoinDesk the issue is being addressed.
+“We already updated the default for the ‘Show Brave suggested sites in autocomplete suggestions’ setting to ‘off’ in Brave’s Nightly release channel,” Brave’s Catherine Corre said via email. “We will uplift this change to our Dev/Beta and Stable channels (version 1.9.80 in Stable) today.”
+Eich’s tweet thread goes on to explain the mistake reflects the need for the company to run a profitable business. Brave recently reported it has reached 15 million monthly active users , which represents solid growth and one of the most popular pieces of technology in the cryptocurrency space, but it’s still minuscule compared to the overall browser market .
+Still, Brave’s growing share of online attention has enabled the company to negotiate more and more deals as a referral partner. Brave’s opening page has frequently been turned over to advertisements recently and it now has a Binance trading widget there. Use of that widget does count as a referral by Brave.
+Brave never intended to eliminate advertising completely, but rather to provide a model of advertising where users would receive ads without being followed around the web. In April 2019 it debuted Brave ads , which offered more of a pop-up ad experience where users receive most the Basic Attention Token (BAT) paid to publish ads. (To withdraw the BAT earned, however, a users has to go through an anti-money laundering identity check.)
+It would be good to get more clarity on the kind of mistake that was made, though this tweet from Eich seems to suggest Brave knew what it was doing at the time it added the referral code:
+"I never said it was accidental. We were treating it like a search query (which all big browsers do tag with an affiliate id to get paid from by the search provider). But a valid domain name is not a search query. Fixing."
+When asked for comment on the controversy, Binance’s communications team redirected CoinDesk to Brave.
+Brave does all of its development as open source and posts it on GitHub to be inspected, just like most projects in the crypto space.
+This enabled another person on Twitter, Harry Denley to find the autocomplete language in the codebase . What’s also noteworthy about Brave’s openness, though, is that it also permits others to fork their code. In fact, Brave now runs on a fork of Chromium (the software underlying Google’s Chrome, the most widely used browser in the world).
+A group going by the name of @BraverBrowser on Twitter is saying that it will release a fork of Brave that strips out BAT functionality and also strips out any advertising.
+The new project appears to be lead by Dean van Dugteren, the founder of a project called nOS , which sounds very similar to Brave. Its design includes a browser designed around the usage of crypto apps, with an app store, an exchange and even its own token, NOS.
+In the Braver Browser Discord channel , Dugteren says he is only able to work on it in some of his spare time, and he’s looking for more contributors.
+As Eich noted in his response to the many criticisms sent his way, running a browser and keeping it up to date costs money, and his company has been looking for ways to earn income while not violating the users’ right to opt-out of any of its strategies.
+Braver Browser (which does not plan to keep that name) appears to have adopted a development plan in which it will rely on Brave’s developers to maintain and update the browser, and they will merge in their updates after stripping out anything that relates to advertising or BAT. “Future Brave updates should be merged onto Braver (after reviewing/stripping off new adware),” van Dugteren wrote .
+Update (June 9, 0:08 UTC): Added comments from Brave spokesperson Catherine Corre.
+The leader in blockchain news, CoinDesk is a media outlet that strives for the highest journalistic standards and abides by a strict set of editorial policies . CoinDesk is an independent operating subsidiary of Digital Currency Group, which invests in cryptocurrencies and blockchain startups.

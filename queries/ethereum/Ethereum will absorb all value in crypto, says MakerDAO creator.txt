@@ -1,0 +1,21 @@
+Home » Cryptocurrency » Ethereum » Ethereum will absorb all value in crypto, says MakerDAO creator
+Ethereum will absorb all value in crypto, says MakerDAO creator
+Rune Christensen, recently said that DeFi could end up attracting all value in crypto to Ethereum.
+He based this assumption on a single transaction that saw millions in wBTC locked.
+Many were quick to find flaws with the prediction, citing growing gas prices.
+This past week has seen a very interesting development regarding MakerDAO. Millions of dollars worth of Wrapped Bitcoin (wBTC) got deposited into MakerDAO’s decentralized stablecoin protocol in a single transaction. As a result, around $4 million worth of DAI stablecoin was generated.
+4 million Dai was just minted with WBTC in a single transaction. This really showcases the latent demand for non-ETH assets, and it's the beginning of a broader trend of DeFi acting as an economic vacuum that will eventually attract almost all value to the Ethereum blockchain.
+— Rune Christensen (@RuneKek) May 20, 2020
+MakerDAO founder, Rune Christensen, commented on the new development by saying that this is extremely good for his protocol. However, he also stressed that the development is extremely bullish for Ethereum’s value proposition in the long-term.
+Christensen is one of the best-known individuals when it comes to decentralized finance (DeFi) movement. He claims that the $4 million mint signals that there is a massive total addressable market for DeFi. Of course, since this is also an Ethereum project, that also includes the world’s largest altcoin.
+A similar assertion was made by Digital Asset Risk Management Advisors’ managing partner, Andrew Keys. He wrote a blog post earlier this year, stating that Ethereum has a massive market opportunity. He even gave an estimate which exceeds $80 trillion.
+According to Keys, this potential comes from its blockchain, as it has pretty much infinite use cases. “We will be able to trustlesstly and digitally represent fiat, gold, software licenses, equity, debt, derivatives, loyalty points, reputation ratings, and much much more that we can’t even conceive of yet,” he said.
+Christensen seems certain that Ethereum will manage to capture billions, if not trillions of dollars over time. However, not everyone agrees with these expectations, and some have even listed why ETH might have trouble with doing so. One analyst, who calls himself Ceteris Paribus, recently tweeted that the cost of sending ETH is skyrocketing, currently up 4x since the end of April.
+Gas prices on Ethereum have been skyrocketing over the past month. Average gas price is now 41 Gwei, up 4x since end of April.
+It uses oscillates between 10-15 outside of high periods of stress (i.e. Black Thursday). pic.twitter.com/RJmdquQNdC
+— Ceteris Paribus (@ceterispar1bus) May 15, 2020
+Of course, the fees are still not so high that using ETH goes against reason. However, they do indicate that Ethereum might be facing scalability issues in the future.
+Sending and receiving value is not Ethereum’s primary function — its real purpose is to interact with smart contracts. In other words, high fees might make dApps unusable, if you have to pay $1-$5 for every move.
+Of course, Ethereum 2.0 could change all that, as its purpose is to completely overhaul the blockchain and implement sharding, Proof-of-Stake (PoS), while increasing speed, decentralization, and more.
+Ethereum 2.0 has yet to arrive, and its exact impact on the project remains unknown. However, if it ends up being successful, the project could reach the heights that many are predicting even now — and maybe even exceed them.
+A journalist, with experience in web journalism and marketing. Ali holds a master's degree in finance and enjoys writing about cryptocurrencies and fintech. Ali’s work has been published on a number of cryptocurrency publications. Raza is the co-founder of 5Gist.com, too, a site dedicated to educating people on 5G technology.

@@ -1,0 +1,11 @@
+Crypto exchange DeCurret is leading Japan’s three megabanks in a study group to look into developing a national digital settlement infrastructure.
+Digital asset exchange DeCurret is leading Japan’s three megabanks in a new study group to look into developing a national digital settlement infrastructure.
+The group will be chaired by the former head of the Payment and Settlement Systems Department at the Bank of Japan, Hiromi Yamaoka.
+Participants include Japan’s leading banks — MUFG Bank, Mizuho Bank and Sumitomo Mitsui Banking Corporation — as well as East Japan Railway and other non-financial enterprises.
+As background for the project, Decurret points to the growing expectations about the efficiency and potential of digital currency settlements and the interest in distributed ledger technologies by businesses and some international central banks.
+Nonetheless, the exchange identifies concerns about privacy protection, crime prevention, and technology risks that still require targeted solutions. The group’s core aims will therefore be to:
+“Discuss challenges and solutions concerning digital currencies and digital settlement infrastructure, to find a consensus toward their realization, and to present a direction for standardizing services and infrastructure.”
+The group is scheduled to meet once or twice a month between June and September 2020 and will deliver a report outlining its conclusions at the end of the period.
+Its research agenda will include case studies of existing digital settlements and digital currencies in Japan and abroad, as well as analyses of existing and future applications of blockchain in transactions and settlement infrastructures.
+Alongside the FSA and central bank, the group’s activities will be observed by Japan’s Ministry of Internal Affairs and Communications, Ministry of Finance, and Ministry of Economy, Trade and Industry.
+Nikkei Asian Review has further reported that the three megabanks involved in Decurret’s study group are seeking to link their digital currencies to East Japan Railway’s Suica smart transit card as part of Decurret’s digital payments initiative. To date, 80 million Suica have been issued but they cannot currently be linked to bank accounts.

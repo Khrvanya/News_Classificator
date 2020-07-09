@@ -1,0 +1,13 @@
+Siam Commercial Bank ( SCB ), Thailand’s oldest bank, is partnering with Ripple to upgrade their mobile banking app to include cross-border payments for the country’s 16,000 customers.
+Ripple helped them create SCB Easy, which will serve as a way for customers to deliver quick, no-cost, cross-border payments.
+SVP of Commercial Banking Arthit Sriumporn said that the new services will bring happiness to people’s lives by streamlining the process of sending and receiving money at the 112-year-old bank.
+He said that banking with cross-border transactions could sometimes be complicated due to filling out long and complicated forms in person at the bank, then waiting a long time for money to be sent.
+But with mobile banking, Sriumporn said most of those headaches would go away — with Ripple’s service, even money from abroad can be sent and received instantly.
+Sriumporn presented the app at Swell, in which he showed that money could be transferred into a recipient’s bank account within 40 seconds.
+SCB Easy, launched in 2017, had 9 million customers by the end of their second year.
+In 2018, SCB had 3,187 billion baht, the equivalent of $105 billion, and an operating income of 138.2 billion baht, or $4.6 billion.
+SCB is also working with Ripple to create another app to offer EMVCo QR payments. EMVCo , a global company, is working to make sure customers can make payments using QR codes.
+They’re working to make sure users can make payments throughout Southeast Asia even if they don’t have the country’s currency.
+SCB was also the first company to trial Ripple’s multi-hop feature, which allowed banks to receive and forward payments without a relationship between two institutions. That has the effect of reducing transaction times.
+SCB is also planning this year to expand into the countries of Cambodia, Laos, Myanmar and Vietnam.
+Siam is coming into a new age of connectivity with its banks and retail, especially as JD.com and Central Group launched financial app Dolfin to help banks connect with customers online, with services like e-wallets and digital transfers.

@@ -1,0 +1,30 @@
+Petrol, diesel price today: No cut for 6 days. Check latest rates
+1 min read . Updated: 05 Jul 2020, 10:07 AM IST Nikhil Agarwal
+Petrol and diesel prices were left unchanged for the sixth consecutive day today. Earlier for about three weeks beginning June 7, the price of petrol was increased by ₹9.17 a litre and that of diesel by ₹11.14 a litre. As petrol price remains on a 19-month high and diesel at lifetime high in Delhi, political protests against the hike continues in several parts of India.
+Latest petrol, diesel prices in top cities:
+Petrol and diesel prices are dependent on international benchmark rates of the two auto fuels, forex rates and the cost of Indian basket of crude oil. With the recovery of global energy demand as Covid related restrictions ease in several countries, Brent crude oil rates went up by around 4% last week but ended below the $43 a barrel mark.
+Signs of economic recovery, and a drop in supply after a record supply cut by the Organisation of the Petroleum Exporting Countries (OPEC) and allies, known as OPEC+, have helped Brent more than double from a 21-year low below $16 reached in April.
+In India, the demand for petroleum products, which had in April fallen to the lowest since 2007, due to the coronavirus-induced lockdown, has reached 88% of pre-COVID-19 levels.
+* Thank you for subscribing to our newsletter.
+Click here to read the Mint ePaperLivemint.com is now on Telegram. Join Livemint channel in your Telegram and stay updated
+You are now subscribed to our newsletters. In case you can’t find any email from our side, please check the spam folder.
+lozad('.lozad', { load: function(el) { el.src = el.dataset.src; el.onload = function() { el.classList.add('fade')}}}).observe()
+.myAccount .planSec, .myAccount a.LinkCTA{padding:16px; margin:16px; box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.1); background-color: #fff;}
+	       		var userData = data;
+	       		var name = userData.name;
+	       		var email = userData.email;
+	       		var signupSource = userData.source;
+	       		var subscribedAtOnce = userData.subscribedAtOnce;
+	       		var plan  = userData.plan;
+	       		document.getElementById('uName').innerHTML = "<strong>"+name+"</strong>" + email;
+		       		var status = planData.status;
+		       		var purchaseSource = planData.source_device;
+			       		var nextActivationDate = planData.current_term_ends_at;
+			       		var planDescription = planData.plan.description;
+			       		var planName = planData.plan.name;
+			       		var planPrice = planData.amount;
+			       		//var planInterval = planData.shipping_interval;
+			       		var planInterval = planData.duration;
+			       		var planUnit = planData.interval_unit;
+			       		//var html = "<strong>Your Subscription Plan</strong>"+planName+" ₹"+planPrice+" / "+planInterval+" " + nextBillingHtml + cancelHtml; 
+			       		var html = "<strong>Your Subscription Plan</strong> "+planDescription + " "+ planName +": ₹"+planPrice + " "+ nextBillingHtml + cancelHtml;

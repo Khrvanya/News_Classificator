@@ -1,0 +1,13 @@
+Please consider using a different web browser for better experience.
+Please enable JavaScript in your browser for a better site experience.
+Ripple has made its first move towards building decentralized finance (DeFi) products based on XRP.
+With its acquisition of decentralized payments platform Logos Network, Ripple’s investment arm, Xpring, will add nine New York-based engineers. Logos founder and CEO Michael Zochowski will become Xpring’s “Head of DeFi Products.” Xpring did not disclose the price of the deal.
+Before joining Xpring, Logos was working to build a payments network inspired by the bitcoin blockchain, with a focus on a scalable, rapid network that still maintains high levels of security.
+The Logos acqui-hires will now help Ripple build XRP derivatives, loans, futures and forwards, said Ethan Beard, senior vice president of Xpring.
+“We’re still at the early stage of figuring this out,” Beard said, adding:
+“We’ve made investments in DeFi companies in the past. We invested in Securitize and Dharma, but it’s now an area where we’re building.”
+Part of Xpring’s focus is to identify use-cases outside of the company’s payments network, RippleNet, to build a network of companies around XRP. So far, the company has committed $500 million to 20 companies, including both equity investments and XRP grants, like the $265 million deal brokered with content platform Coil.
+With the Logos acquisition, Xpring now has a team of 32 employees, having grown from a team of just two last May. Beard hopes the same financial institutions that take advantage of RippleNet to achieve real-time payments and real-time fiat settlements will be interested in XRP-based DeFi products.
+“In particular, I’m interested in debt and lending and what that looks like,” Beard said, adding:
+“It didn’t take long after the first creation of fiat for someone to go to a person who had some and say, ‘Hey, can I borrow that?’”
+The leader in blockchain news, CoinDesk is a media outlet that strives for the highest journalistic standards and abides by a strict set of editorial policies . CoinDesk is an independent operating subsidiary of Digital Currency Group, which invests in cryptocurrencies and blockchain startups.

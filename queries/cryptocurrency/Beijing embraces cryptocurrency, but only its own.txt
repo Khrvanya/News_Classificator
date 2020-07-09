@@ -1,0 +1,37 @@
+Expected 2020 launch to protect financial sovereignty, unlike 'fraud' bitcoin
+Beijing is forging ahead with plans to develop a digital currency in a bid to secure financial sovereignty and enhance the global role of the yuan. (Nikkei montage/source photo by Reuters)
+HONG KONG -- Late last month, Xi Jinping became the darling of cryptocurrency enthusiasts around the world -- if only briefly.
+A speech by China's supreme leader extolling the importance of blockchain saw the price of Bitcoin leap by more than a third in a few hours -- one of its biggest speculative moves ever.
+That Xi spoke the day after Mark Zuckerberg was grilled by Washington lawmakers about Facebook's plans to launch its own Libra e-currency only seemed to confirm that Beijing was getting serious about digital currencies.
+But this week Beijing set the record straight. China may be serious about cryptocurrencies, but only its own regulated version and not independent ones.
+China Central Television, the mouthpiece of the Communist Party, even called other cryptocurrencies "financial fraud" on Monday. The central bank and Shanghai's financial regulator also advised local government agencies to cease doing business with cryptocurrency companies. Bitcoin's price has since slumped.
+It was always unlikely that the world's largest communist party would ever endorse an autonomous and decentralized system of e-currencies. After all, Beijing banned cryptocurrency exchanges and initial coin offerings in 2017.
+Instead, the world's second-biggest economy is forging ahead with plans to develop its own version in a bid to secure financial sovereignty and enhance the global role of the yuan.
+If, or rather when, Beijing does launch its own digital currency, finance will change -- almost certainly in China, if not the world.
+Here are five things you need to know about what it might mean.
+What is China's digital currency and when will it be launched?
+China is not the only country to consider moving into digital money. Sweden's central bank has started to develop e-krona, Uruguay has piloted an e-peso and Bank of England Gov. Mark Carney has proposed a new digital currency, too. But China would be the largest economy to do so.
+Called the digital currency electronic payment (DCEP), it will be issued by the People's Bank of China and is meant to replace the existing money supply in the system, as well as notes and coins in circulation.
+Full details are not available, but based on recent comments by Mu Changchun, head of the People's Bank of China's digital currency research institute, the model to be adapted could be akin to a digital wallet.
+Mu said in August that the technology is all but ready, although the central bank says it is still researching and testing prototypes. Many analysts and observers believe it will launch early next year.
+That would culminate efforts to introduce e-currency in China, which began in 2014 as Bitcoin gained in popularity. It will also be integral to China's desire to boost, and boast about, its own technology prowess.
+Why does China want to launch a digital currency?
+The long-term desire is to widen the yuan's global acceptance by using the digital currency as a payment mechanism for China-funded projects across the world, such as those under the Belt and Road Initiative.
+However another more immediate catalyst, according to analysts, is the possible launch of Facebook's Libra. Fearful that Libra or another e-currency like it could dissolve the traditional authority of central banks, China accelerated efforts to launch its own digital currency in a desire "to protect financial sovereignty."
+Introduction of a Chinese digital currency would see Beijing steal a march on the U.S., and perhaps even begin to undermine the dollar's global dominance. But China also fears that if Libra is widely accepted for cross-border payments, it could upset international financial stability. So it is trying to build a bulwark against that.
+Should Facebook's Libra enter the market, "it would pose a threat to China's financial sovereignty," said Cao Yin, the Shanghai-based co-founder of crypto-focused consultancy Digital Renaissance Foundation. "Beijing's attempt to internationalize the renminbi [yuan] might be challenged."
+Domestically, the central bank also wants to safeguard against overreliance on alternative electronic payment systems. Two companies, Alibaba Group Holding affiliate Ant Financial's Alipay and Tencent Holdings ' WeChat pay, currently control 96% of China's mobile payments market.
+The PBOC digital currency could help prevent technical gremlins or financial trouble at these operators, and so help keep China's payments systems running smoothly.
+How would it fit in China's monetary system, and what model is the central bank using?
+The PBOC has chosen a two-tier model, whereby it will issue the digital currency to commercial banks and institutions. These organizations will then distribute it to the general public. By doing that, the PBOC expects to maintain the monetary status quo.
+For example, the digital currency would not be new money. Instead, it would substitute for notes and coins already in supply. That way, the PBOC will not have to pay interest to the public for holding the currency on their behalf. Nor would it affect inflation, Mu has said. As a result, there would be no implications for monetary policy or financial stability.
+But there is a catch. As it will replace existing notes and coins, the digital currency will also have to adhere to all existing rules that cover cash management, foreign exchange management and anti-money laundering systems.
+What technology will China's digital currency use?
+Though the prototype was tested on a digital ledger technology, the PBOC realized that was not suitable, as it lacked the capacity to handle such a large number of transactions. Mu also said the PBOC would prefer a centralized system rather than the decentralized model of blockchain-type technologies.
+That has led to reports that Beijing wants control over its cash economy, as the digital currency may have features that allows the central bank to track transactions. Beijing has denied that. Mu has also said the aim is to strike a balance between anonymity and battling money laundering and electronic criminality.
+For example, user information will not be available to banks. Instead, individual identities would be tied to their e-wallets, as now.
+What will be the impact on banks and payments system providers?
+Banks will remain part of the monetary supply chain, as they would distribute the digital currency to the public. However, they will have to keep digital cash separate from savings deposits. As such, they will also have to park reserves at the PBOC in exchange for the digital currency.
+The central bank expects the impact on the likes of Alipay and WeChat pay to be minimal as they are only payment platforms for end-users.
+"Now they are using renminbi as the instrument to make payments," Mu has said. "We will just change the payment instrument from commercial bank deposit money to central bank money. So the services will remain the same. ... I only see synergies rather than competition."
+Sign up to our newsletters to get our best stories delivered straight to your inbox.

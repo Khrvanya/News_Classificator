@@ -1,0 +1,35 @@
+Zomato Gold is now Zomato Pro: Here are the extra benefits for customers
+1 min read . Updated: 30 Jun 2020, 12:46 PM IST Tamal Nandi
+Online food ordering and restaurant guide Zomato today launched an upgraded  subscription package for its  popular Zomato Gold programme.
+Termed as 'Zomato Pro' , the  membership programme will have                         privileges and discounts on the best restaurants across dining out and delivery, according to a statement by Zomato.
+This is in addition to exclusive privileges on the Zomato app and a unique money-back guarantee for all Pro members.
+All  the users of Zomato  Gold programme  will be automatically get upgraded to Zomato Pro starting 1 August.
+The release said that Zomato Pro members will continue to enjoy existing offers (on Zomato Gold) across a wide selection of restaurants — from dining hotspots to legendary restaurants, cafes, bars as well as quick-service restaurants.
+Zomato Pro has been designed to be much more friendly for a much wider variety of restaurant businesses. Zomato has signed up 50% more partner restaurants on Zomato Pro than what it had on Zomato Gold – across dining out and delivery.
+Zomato Pro members will also get priority delivery on Zomato. It means that any order placed by a Pro member will jump to the front of the real-time queue when it looks for a Zomato Valet to deliver the  order. It will lead to the  orders getting delivered 15-20% faster (on an average)  during peak dinner times.
+The Zomato Pro subscription will also  come with a  money-back guarantee scheme.
+Zomato  claimed that  if a subscriber  don’t save 2x the subscription fee of Zomato Pro within the subscription period, Zomato  will auto-refund the subscription fee at the end of the year.
+This money back guarantee will be applicable to all Zomato Pro/Gold memberships bought or renewed today onwards.
+* Thank you for subscribing to our newsletter.
+Click here to read the Mint ePaperLivemint.com is now on Telegram. Join Livemint channel in your Telegram and stay updated
+You are now subscribed to our newsletters. In case you can’t find any email from our side, please check the spam folder.
+lozad('.lozad', { load: function(el) { el.src = el.dataset.src; el.onload = function() { el.classList.add('fade')}}}).observe()
+.myAccount .planSec, .myAccount a.LinkCTA{padding:16px; margin:16px; box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.1); background-color: #fff;}
+	       		var userData = data;
+	       		var name = userData.name;
+	       		var email = userData.email;
+	       		var signupSource = userData.source;
+	       		var subscribedAtOnce = userData.subscribedAtOnce;
+	       		var plan  = userData.plan;
+	       		document.getElementById('uName').innerHTML = "<strong>"+name+"</strong>" + email;
+		       		var status = planData.status;
+		       		var purchaseSource = planData.source_device;
+			       		var nextActivationDate = planData.current_term_ends_at;
+			       		var planDescription = planData.plan.description;
+			       		var planName = planData.plan.name;
+			       		var planPrice = planData.amount;
+			       		//var planInterval = planData.shipping_interval;
+			       		var planInterval = planData.duration;
+			       		var planUnit = planData.interval_unit;
+			       		//var html = "<strong>Your Subscription Plan</strong>"+planName+" ₹"+planPrice+" / "+planInterval+" " + nextBillingHtml + cancelHtml; 
+			       		var html = "<strong>Your Subscription Plan</strong> "+planDescription + " "+ planName +": ₹"+planPrice + " "+ nextBillingHtml + cancelHtml;

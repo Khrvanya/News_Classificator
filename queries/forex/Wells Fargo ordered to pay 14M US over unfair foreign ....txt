@@ -1,0 +1,10 @@
+The U.S. Commodity Futures Trading Commission ordered Wells Fargo & Co to pay more than $14 million US to settle charges it provided "misinformation" when conducting a large foreign exchange trade with a counterparty, the agency said in a statement on Friday.
+Posted: Nov 08, 2019 3:38 PM ET | Last Updated: November 8, 2019
+U.S. Commodity Futures Trading Commission ordered Wells Fargo & Co to pay $14 million US to settle charges it provided 'misinformation' when conducting a large foreign exchange trade with a counterparty. (Rick Wilking/Reuters)
+The U.S. Commodity Futures Trading Commission (CFTC) ordered Wells Fargo & Co to pay more than $14 million US to settle charges it provided "misinformation" when conducting a large foreign exchange trade with a counterparty, the agency said in a statement on Friday.
+The CFTC said it ordered Wells Fargo Bank NA to pay a civil monetary penalty of $10 million and restitution of $4.475 million, and required the bank to cease and desist violating the CFTC's business conduct standards.
+In a statement, Wells Fargo said it cooperated with the CFTC and was pleased to have resolved the matter.
+Specifically, the CFTC said that Wells Fargo failed to properly price a $4 billion foreign exchange forward contract with an unnamed counterparty from 2014.
+Rather than calculate an agreed upon weighted average price for the deal, the bank simply picked a rate it thought would be in the average range and acceptable to the counterparty, according to the regulator.
+The CFTC said the bank provided a spreadsheet to the counterparty that supposedly showed how that average was calculated, even though the bank lacked the ability to track the trades that would provide the basis for the calculation.
+The CFTC said the bank lacked adequate supervisory policies to ensure counterparties did not receive inaccurate information regarding such trades, and those shortcomings were not fixed until 2018.

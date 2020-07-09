@@ -1,0 +1,19 @@
+Please consider using a different web browser for better experience.
+Please enable JavaScript in your browser for a better site experience.
+Month-to-date bitcoin price chart (Credit: CoinDesk BPI)
+Bitcoin looks to have decoupled from traditional markets as investors refocus on the network’s imminent mining reward halving.
+While the top cryptocurrency by market value has gained nearly 5.9% so far this month, gold, a haven asset, has declined by 1%. Meanwhile, as of Wednesday, the S&P 500, Wall Street’s equity index, was down 2.2% on a month-to-date basis, according to data source Skew.
+Bitcoin is also the best performing asset of 2020 to date, with a 28% year-to-date gain. Oil (WTI) is down 66% – flashing red due to the massive destruction of demand brought on by the coronavirus pandemic.
+The cryptocurrency has moved largely in tandem with the stock markets over the past two months. Prices fell from $10,000 to $3,867 in the first two weeks of March because the coronavirus-led sell-off in global equities triggered a global dash for cash. The cryptocurrency rose back above $7,000 in the following four weeks, tracking the recovery in stocks.
+The positive correlation, however, weakened last week with bitcoin posting double-digit gains despite moderate losses in equities. The cryptocurrency is now trading near $9,300 , representing a 4.4% gain on a week-to-date basis, according to CoinDesk’s Bitcoin Price Index.
+The crypto market’s focus seems to have shifted away from the coronavirus to the reward halving , expected to take effect on May 12 (though it may happen sooner ). The supply-altering process has been hailed as a price-bullish event by many analysts for over a year now, and the recent rally from $7,600 to $9,400 may have been fueled by a fear of missing out (FOMO) on the expected gains.
+Bitcoin’s network is also experiencing its busiest period in over two years. For instance, the seven-day average of the number of unique addresses active on the network jumped to 947,088 on Wednesday to hit the highest level since January 2018, according to the data from Glassnode . The spike suggests increased investor interest in the cryptocurrency, as noted earlier this week.
+Further, the cryptocurrency’s hash rate – the computing power dedicated to mining blocks – recently rose to an all-time high of 140 exahashes per second.
+Most observers expect bitcoin’s price to rise into five figures ahead of the halving. From a technical analysis standpoint, the case for a rally to $10,000 would strengthen following an acceptance above a major resistance level.
+Bitcoin is currently trading just above the resistance of the trendline connecting the July 2019 and February 2020 highs (currently at $9,280). If prices hold above that level for a few more hours, stronger chart-driven buying will likely emerge, lifting prices toward $10,000.
+However, bitcoin has failed a couple of times in the last six days to keep gains above the long-term trendline hurdle.
+While the cryptocurrency is gaining altitude, investors seem to be buying put options (bearish bets, in effect), possibly to hedge against a potential post-halving price drop . This is evident from the rise in the one-month put-call skew from -3% on May 1 to 9.1% on Wednesday.
+The positive reading indicates that put options are more expensive than calls (bullish bets) as a result of drawing higher demand.
+Similar sentiments are being echoed by the put-call open interest ratio , which rose to a three-month high of 0.75 on Wednesday, according to data provided Skew.
+Disclosure: The author holds no cryptocurrency at the time of writing.
+The leader in blockchain news, CoinDesk is a media outlet that strives for the highest journalistic standards and abides by a strict set of editorial policies . CoinDesk is an independent operating subsidiary of Digital Currency Group, which invests in cryptocurrencies and blockchain startups.

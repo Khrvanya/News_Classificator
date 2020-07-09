@@ -1,0 +1,33 @@
+2 min read . Updated: 03 Mar 2020, 10:49 PM IST Pallavi Pengonda
+Crude oil prices are game changers for aviation companies’ fortunes. That’s because fuel forms a big chunk of an airline’s operating costs. However, the recent drop in crude prices has not helped SpiceJet Ltd’s shares take off. So far in 2020, Brent Crude prices have declined by 19%. At the same time, the SpiceJet stock has fallen by 34%.
+For one, the coronavirus outbreak is expected to hit travel demand, resulting in lower passenger loads on international flights. Airlines across the board are expected to suffer owing to the outbreak and as such SpiceJet is not an exception.
+According to analysts at JM Financial Institutional Securities Ltd, the international air route mix is 25% in SpiceJet, making it susceptible to the coronavirus outbreak.
+Sure, the international portfolio of bigger rival, InterGlobe Aviation Ltd, which runs IndiGo, too is at risk. But the InterGlobe stock has declined at a relatively smaller pace of about 8% so far in 2020.
+Analysts attribute the sharp drop in SpiceJet’s shares to its comparatively weaker financial health. “Sentiments for the stock have not been great after the worse than expected financial performance for the nine month ended December (9MFY20)," said an analyst, requesting anonymity.
+For 9M FY20, SpiceJet reported a loss of ₹128 crore at a time when overall revenues increased by 44% year-on-year to ₹9,494 crore. On the contrary, InterGlobe has eked out a profit in the same period. What’s more, SpiceJet has recognized nearly ₹540 crore as compensation receivable from Boeing Co. during 9M FY20 for its 13 grounded Boeing 737 MAX planes. The airline is now looking at a mid-2020 timeline for the likely return of the 737 MAX into service.
+Needless to say, any delay in receiving compensation from Boeing remains a risk. “The uncertainty over the timeline for resumption of MAX operations is clouding profitability at a time when the sector is facing demand headwinds due to the slowing economy—pricing shows no signs of improvement despite the consolidation in the sector," said analysts at SBICAP Securities Ltd in a 14 February report.
+In the December quarter, SpiceJet’s yields, a pricing measure for airlines, had fallen by 7% year-on-year. Analysts expect yields to remain under pressure from a near-term perspective. Additionally, demand outlook is not rosy. According to the Directorate General of Civil Aviation, passengers carried by domestic airlines grew just 2.2% in January from a year ago.
+As such, lower crude oil prices can only help to an extent when demand is muted. In this backdrop, the drop in the SpiceJet stock suggests investors are factoring the headwinds adequately.
+* Thank you for subscribing to our newsletter.
+Click here to read the Mint ePaperLivemint.com is now on Telegram. Join Livemint channel in your Telegram and stay updated
+You are now subscribed to our newsletters. In case you can’t find any email from our side, please check the spam folder.
+lozad('.lozad', { load: function(el) { el.src = el.dataset.src; el.onload = function() { el.classList.add('fade')}}}).observe()
+.myAccount .planSec, .myAccount a.LinkCTA{padding:16px; margin:16px; box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.1); background-color: #fff;}
+	       		var userData = data;
+	       		var name = userData.name;
+	       		var email = userData.email;
+	       		var signupSource = userData.source;
+	       		var subscribedAtOnce = userData.subscribedAtOnce;
+	       		var plan  = userData.plan;
+	       		document.getElementById('uName').innerHTML = "<strong>"+name+"</strong>" + email;
+		       		var status = planData.status;
+		       		var purchaseSource = planData.source_device;
+			       		var nextActivationDate = planData.current_term_ends_at;
+			       		var planDescription = planData.plan.description;
+			       		var planName = planData.plan.name;
+			       		var planPrice = planData.amount;
+			       		//var planInterval = planData.shipping_interval;
+			       		var planInterval = planData.duration;
+			       		var planUnit = planData.interval_unit;
+			       		//var html = "<strong>Your Subscription Plan</strong>"+planName+" ₹"+planPrice+" / "+planInterval+" " + nextBillingHtml + cancelHtml; 
+			       		var html = "<strong>Your Subscription Plan</strong> "+planDescription + " "+ planName +": ₹"+planPrice + " "+ nextBillingHtml + cancelHtml;

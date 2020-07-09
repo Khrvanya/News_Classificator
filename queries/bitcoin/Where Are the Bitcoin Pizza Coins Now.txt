@@ -1,0 +1,11 @@
+Where Are the Bitcoin Pizza Coins Now?
+Approximately 10 years ago, someone paid 10,000 Bitcoin for two pizzas, but what happened to those coins after the purchase? Coinfirm has found out.
+Today marks the 10th anniversary of Bitcoin's first official commercial purchase. On May 22, 2010, programmer Laszlo Hanyecz completed the first documented commercial Bitcoin purchase, paying 10,000 for two Papa John's pizzas. Valued at $41 at the time, current market pricing today gives the purchase a $92.5 million price tag.
+One might logically wonder what happened to the 10,000 Bitcoin ( BTC ) used for the purchase of two pizzas.
+"Over the years the funds have moved across many addresses," Grant Blaisdell, co-founder and CMO of blockchain analytics company Coinfirm, told Cointelegraph in an email. Some BTC went to a now-defunct exchange, while some BTC remain in a highly-valued wallet.
+"Some of the funds were seemingly liquidated on BTC-e," Blaisdell said. Launched in 2011, the BTC-e crypto exchange fell in 2017 when authorities apprehended exchange brass on money laundering claims.
+In tracing the pizza Bitcoin, Coinfirm found 5.79% of the original 10,000 BTC found its way to one of the most sizeable Bitcoin wallets currently in existence. Totalling over $5 million, about 579 of the pizza BTC still occupy the 12th largest wallet in the Bitcoin space.
+Whoever owns that address also accumulated Bitcoin from elsewhere, as the wallet now totals close to $500 million in Bitcoin, Blaisdell explained. "It’s potentially someone known and active early on in the bitcoin space," he concluded, adding:
+"We don’t know who controls the address as it doesnt seem to be tied to or owned by a commercial entity such as an exchange or wallet. The fact that the person is unknown is kind of cool in a mysterious Satoshi kind of way."
+May 22, 2020 was an eventful affair as pizza day yielded a number of crypto headlines, including BitFlyer sending pizzas to folks in need, as well as Andreas Antonopoulos stirring up other early Bitcoin buying events .
+In-text images courtesy of Coinfirm.

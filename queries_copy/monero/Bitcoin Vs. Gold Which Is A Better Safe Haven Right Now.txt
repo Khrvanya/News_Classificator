@@ -1,0 +1,16 @@
+The recent market volatility and fears over a potential currency war between the U.S. and China have investors looking for a safe place to stash their cash while they wait out a period of uncertainty.
+Traditionally, gold has been a popular safe haven for investors, but some cryptocurrency traders point to Bitcoin’s recent gains as evidence that it is now the best alternative to stocks and the U.S. dollar.
+So far in 2019, the S&P 500, gold, the U.S. dollar and Bitcoin have all been performing relatively well.
+Even after the recent sell-off, the SPDR S&P 500 ETF Trust (NYSE: SPY ) is up 14.3% year-to-date.
+The Grayscale Bitcoin Trust (Btc) (OTC: GBTC ) is up 284.6%, the SPDR Gold Trust (NYSE: GLD ) is up 16.6% and the INVESCO DB USD /BULLISH FD (NYSE: UUP ) is up 3.8%.
+It’s not surprising to see these investments trending higher in 2019 given the relative health of the U.S. economy. Now that the market has hit a bump in the road, day traders are looking much more closely at short-term correlations.
+The Portfolio Visualizer daily return correlation matrix for the funds mentioned above gives traders a rough understanding of how stocks, gold, bitcoin and the U.S. dollar trade relative to each other on a daily basis dating back to 2015. The correlation ranges from 1.0 for perfect positive correlation to negative 1.0 for perfect negative correlation.
+The strongest correlation is the negative 0.48 correlation between the GLD and the UUP. That negative correlation makes perfect sense because the higher the price of gold goes, the less gold investors will be able to buy for a dollar.
+In that sense, gold remains a good hedge for investors who fear inflation and/or a currency war that would devalue the dollar.
+The GLD also has a slightly negative 0.15 correlation with the SPY as well. Gold tends to trade higher on days where the stock market is weak, but the correlation is small.
+In other words, gold is not a great hedge for falling stock prices, but it is a good safe haven for preserving value.
+The GBTC correlations also reveal some interesting trends. Bitcoin has almost no correlation to stocks, the U.S. dollar or even gold. The good news for bitcoin buyers is that no correlation means the cryptocurrency trades completely independently from other asset classes, including fiat currencies and stocks.
+The bad news is that Bitcoin is still extremely volatile, creating high risk for traders even in the short-term. The Bitcoin Volatility Index has averaged 5.3% over the past 60 days. Catching bitcoin on a bad day could easily result in a loss even bigger than the 4% drop in the SPY ETF over the past week.
+A lack of correlation with other assets suggests Bitcoin could have a powerful place in upping the diversification of a long-term investment portfolio.
+Until volatility in the cryptocurrency market drops dramatically, there is simply too much risk on a day-to-day basis for it to serve as a practical safe haven during periods of dollar or stock market weakness.
+In the meantime, gold will likely remain the best and most popular hedge against a currency war and a stock market sell-off.

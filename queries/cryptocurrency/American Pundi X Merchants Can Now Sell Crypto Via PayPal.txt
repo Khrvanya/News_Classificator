@@ -1,0 +1,12 @@
+As the crypto community’s anticipation for PayPal’s exploration into crypto grows, Pundi X has integrated the payments processor for its point-of-sale devices.
+PayPal is the first mobile payment gateway to be integrated onto Xpos, and users from more than 30 countries can now accept funds via the payments processor.
+The integration will take place over two stages, with U.S-based merchants who use Xpos able to apply for PayPay-based keyed transactions from July 1.
+A PayPal app is expected to be integrated onto all Xpos devices within two weeks — completing the roll-out.
+Pundi X decided to launch the integration after conducting a Twitter poll asking followers which mobile payment app they would like Xpos to support first.
+PayPal received almost 70% of votes, beating out WeChat Pay, Alipay, and GoPay, among others.
+The integration brings credit card payments to Pundi X’s point-of-sale system, and allows cryptocurrencies to be purchased via PayPal from supporting Xpos merchants.
+Pundi X chief executive and co-founder Zac Cheah emphasized that integrations with leading global firms such as PayPal will help drive adoption blockchain-based services and products outside of the crypto community:
+“To be able to support a leading online payment provider in our XPOS devices can give people more confidence in using them, and can move usage of blockchain technology closer to the mainstream."
+After shunning cryptocurrencies for a decade, recent job listings for blockchain engineers responsible for “ new initiatives ” at PayPal global appear to support rumours it will soon offer cryptocurrency sales to users.
+PayPal payments are only supported by a handful of crypto exchanges, such as peer-to-peer marketplaces Localbitcoins and Paxful.
+Last week, KuCoin’s P2P Fiat Market became the latest P2P platform to support PayPal, introducing the payment gateway alongside support for USD.

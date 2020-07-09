@@ -1,0 +1,2 @@
+The Real-Time Trend Trading Index from 40in20out is a signals-based hypothetical performance indicator designed to have a strong relationship with the returns of a classic trend trading strategy. Every minute of every trading day, trading signals are assessed on a portfolio of 30 futures markets and tracked with a very high level of transparency and accountability.
+There are 18 Long Positions and 4 Short Positions currently:

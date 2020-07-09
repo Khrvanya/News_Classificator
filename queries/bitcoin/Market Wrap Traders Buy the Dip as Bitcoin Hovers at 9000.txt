@@ -1,0 +1,22 @@
+Please consider using a different web browser for better experience.
+Please enable JavaScript in your browser for a better site experience.
+Bitcoin fell for a second day, extending a downdraft triggered by Wednesday’s revelation that a member of the cryptocurrency community from the blockchain’s earliest days in 2009 had moved a long-dormant cache of coins.
+As of 20:30 UTC (4:30 p.m. ET), bitcoin (BTC) was trading at $9,044, a loss of 5.6% over 24 hours.
+Bitcoin remains well below its 10-day and 50-day technical indicator moving averages — a signal of bearish sentiment.
+At 14:00 UTC (10 a.m. ET) the world’s oldest cryptocurrency began experiencing high selling volume on exchanges including Coinbase, dropping bitcoin below $9,000 for the first time since May 13.
+While the market appears to have turned bearish, Rupert Douglas, head of institutional sales at asset management firm Koine, said he planned to “‘buy the dip” — a popular phrase for accumulating an asset when prices drop in the belief that they’ll soon start going up again.
+“In a way I was hoping for this,” Douglas said in an email. “I’m a buyer at $9,000, as this is shaking out the weak longs before taking it higher.”
+Volatility in the notoriously fickle bitcoin market has declined since collapsing in March, when the devastating economic toll from the coronavirus started to become clear.
+“I wouldn’t call this a dump,” Darius Sit, managing partner at crypto quantitative fund QCP Capital, told CoinDesk via a Telegram message. “It’s nowhere near statistically significant.”
+The price drop could take a toll on the profitability of bitcoin miners, already hurting from a revenue cut following last week’s rewards halving. The miners have had to rely more on transaction fees to maintain revenue.
+Fortunately, fees are up post-halving, said Marc Fleury, CEO of digital asset brokerage Two Prime.
+“Transaction fees associated with moving bitcoin around have increased from 60 cents to upwards of $5, providing some income for the miners,” he said.
+Fleury said many bitcoin miners are counting on a price increase to stay profitable. “This has historically happened in the past two halvings, within a span of 18 months,“ said Fluery. “It will take some time for the market to adjust.”
+Digital assets on CoinDesk’s big board are in the red Thursday. The second-largest cryptocurrency by market capitalization, ether (ETH), lost 5.6% in 24 hours as of 20:30 UTC (4:30 p.m. ET).
+The biggest losers in 24-hour trading were cardano (ADA) slipping 7.6%, iota (IOTA) losing 6.5% and neo (NEO) down by 6.1%. All price changes were as of 20:30 UTC (4:30 p.m. ET) Thursday.
+In the commodities sector, oil is trading up 1.4%, with the price of a barrel of crude at $33 at press time. Oil has experienced a wild ride in 2020, up 101% the past month yet still down 44% for the year to date.
+Gold is in the red today, with the yellow metal falling 1.2% to $1,725 at the close of New York trading.
+In the U.S. the S&P 500 fell less than 1% on the day, but still up over 2% since Monday despite U.S. jobless claims coming in at over 2.4 million for the past week, the seventh weekly increase.
+U.S. Treasury bonds slipped Thursday. Yields, which move in the opposite direction as price, were down most on the two-year bond, falling 5.6%.
+In Asia, the Nikkei 225 index ended its trading day down less than a percentage point on losses in the real estate and transportation sectors . Trading of Europe’s largest public companies by market cap on the FTSE Eurotop 100 index was also down less than a percent, dragged down due to continued coronavirus uncertainty .
+The leader in blockchain news, CoinDesk is a media outlet that strives for the highest journalistic standards and abides by a strict set of editorial policies . CoinDesk is an independent operating subsidiary of Digital Currency Group, which invests in cryptocurrencies and blockchain startups.

@@ -1,0 +1,39 @@
+(The opinions expressed here are those of the author, a columnist for Reuters.)
+* CME Copper Money Manager Positioning: tmsnrt.rs/3dce8jE
+* CME Open Interest and May-July Spread: tmsnrt.rs/3fwH6wO
+LONDON, May 5 (Reuters) - Copper has staged a partial recovery from its initial COVID-19 price shock.
+London Metal Exchange (LME) copper plunged to a four-year low of $4,371 per tonne in March but has since clawed its way back up to $5,110.
+Doctor Copper appears to have priced in the first-stage demand shock caused by the spread of the coronavirus that causes the COVID-19 respiratory disease.
+His attention has turned to China, where manufacturing activity is resuming and the supply shock of multiple mine closures during lockdowns is unfolding.
+There has been a paring of speculative short positions on both the CME and the LME, but any sign of a buy-in to the recovery narrative is conspicuous by its absence.
+That may reflect fears of a COVID-19 relapse in the form of a second-wave hit to manufacturing demand, but there is also a suspicion that one particular type of investor is leaving the copper market.
+Copper’s 18% bounce off the March lows has understandably seen investor bears cover short positions.
+The “money manager” net short position on the CME’s HG copper contract fell further last week to 16,043 contracts from a February peak of 58,557.
+Outright bear bets have been trimmed to 48,310 contracts from a high of almost 101,000 over the same period.
+Copper’s recent price bounce alone would have forced a significant amount of covering among the systematic “black box” speculative community.
+What’s surprising, though, is the lack of enthusiasm about any price upside. Outright fund long positions have failed to build in any meaningful way from last month’s four-year lows.
+The pattern has been mirrored in the London market. The LME’s “investment funds” category has seen net short positioning contract to 6,704 contracts from 19,027 in early March. All of that action was short-covering with outright long positions falling slightly.
+As far as the money (wo)men are concerned, copper may look a bit perkier but there’s no rush to buy into a full recovery.
+Copper’s price recovery has been accompanied by two favourite copper bull memes, namely China and supply disruption.
+China is ahead of the global coronavirus curve with factories exiting lockdown and government stimulus taps turned on.
+The official purchasing managers index (PMI) for manufacturing came roaring back in March and remained in expansionary territory in April.
+Copper supply, meanwhile, has been massively disrupted by national lockdowns of mines, particularly in Peru, a major supplier of raw materials to China’s smelters.
+Analysts at Citi estimate “ongoing identified annualised losses of 12% of refined supply” in the copper supply chain, a figure that could go up to 19% factoring in “highly likely” further lost production from lockdown extensions. (“Metals Weekly”, May 5, 2020).
+Yet neither they nor anyone else expects even this sort of supply disruption to offset fully global demand weakness.
+The first COVID-19 metals demand shock was the almost total lockdown of manufacturing activity, first in China and then in the rest of the world. Automotive manufacturers in particular closed their plants, cutting offtake from a major metals user.
+The world may be easing itself out of lockdown but the broader economic hit is likely to generate a second-wave consumer demand shock.
+It’s all very good reopening car plants but not if no-one will buy cars. British new car sales last month collapsed by 97% year-on-year to the lowest level since February 1946.
+This is also a major headwind for China’s copper sector. Much of what the country apparently consumes goes into products that are then exported to consumers in the rest of the world.
+The big caveat in China’s robust official PMI was the weakness in export orders, which slid to 33.5 in April from 46.4 in March. The collapse was even steeper in the Caixin index, which captures activity in small and medium enterprises.
+In short, there are still plenty of dark clouds on the copper market horizon, which may help explain why investors are still so reluctant to commit to bull positioning.
+It’s possible, though, that some investors have been forced out of the market altogether.
+Most of the world hadn’t heard of a “bao” until Bank of China’s “wealth management product” played a starring role in WTI oil futures’ swoon into negative territory last month.
+The bank’s oil “bao”, a structured retail product linked to the WTI contract close, seems to have been at the heart of meltdown on the expiring WTI May contract.
+It has also generated a backlash in China, where up to 60,000 investors may have lost up to 9 billion yuan ($1.27 billion).
+Bank of China has suspended its oil “bao” and other Chinese banks have followed as the country’s regulator orders “self-investigation” of similar products.
+Which may well include copper, given the metal has been a long-time favourite with China’s army of retail investors.
+The Shanghai copper market has seen repeated investment surges in the past and it’s clear that major Chinese banks have been designing products to allow retail investors, indirectly, to play overseas markets as well.
+It’s worth noting there was a severe contraction in CME copper spreads in the hours that followed the WTI turbulence. The May-July spread briefly flexed out to a “super-contango” of 6.5 cents per pound in what looked like a scramble to avoid a repeat performance of the oil implosion in the copper market.
+There has also been a sharp reduction in CME copper open interest over the last couple of weeks. At 161,640 contracts, it has slumped by 20,000 contracts since the WTI oil blow-out and is the lowest since the first quarter of 2016.
+Both spreads’ reaction and the drop-off in open interest suggest that any copper “bao” may also be in the process of being sharply reduced in size, whether voluntarily or involuntarily.
+That may also help explain the absence of any buy-in to the copper recovery story. Those most likely to trade it, the Chinese, find themselves constrained from doing so as the “bao” scandal continues reverberating around China.

@@ -1,0 +1,15 @@
+Please consider using a different web browser for better experience.
+Please enable JavaScript in your browser for a better site experience.
+Cho Ju-bin revealed to reporters in Seoul. Credit: Joint coverage CoinDesk Korea/Hankyoreh
+Cryptocurrency accepted by the alleged ringleader of a Telegram chat group in exchange for abusive sexual material may never be retrieved.
+Cho Ju-bin, 25, is said to have charged users anywhere between 200,000 to 1.5 million Korean won (around $160 to $1,200) to access images and videos of women, many younger than 16, who were forced to perform sex acts on themselves.
+An investigation from CoinDesk Korea found Cho primarily dealt in the privacy-enhancing cryptocurrency monero (XMR) so he could cover his tracks.
+Korean authorities took the unusual step Wednesday of publicly naming Cho as the alleged ringleader of a Telegram chat group known as the Doctor’s Room, following a petition signed by more than five million South Koreans. He stands accused of violating the child protection, privacy and sexual abuse acts, as well as charges surrounding abuse, blackmail and threatening others.
+Following a Supreme Court case in 2018, cryptocurrencies are considered a form of property subject to forfeit after conviction in South Korea.
+But there are complications. Authorities have to find the wallets in which digital assets are stored, as well as the private key to access them. “We may say that Mr. Cho has forgotten his private key,” said Han Seo-hee, a Korean lawyer, to CoinDesk Korea. “If I refuse to submit it, there is no way to force it [from him].”
+Although CoinDesk Korea has been able to show Cho received more than 8,800 ether (ETH), currently worth around $1.2 million, from more than 500 wallets from around the world, the majority of his payments were in monero .
+Unlike other cryptocurrencies, where transactions can readily be viewed on a public blockchain, monero jumbles them together, making it next to impossible for third parties to trace payments. Even the amount he received may never be known without his cooperation.
+Cho is accused of blackmailing at least 58 women and 16 girls to send degrading and sexually exploitative images of themselves, forcing many to carve ‘slave’ into their bodies. He operated multiple rooms on Telegram, with users paying extra to view more graphic or extreme material. Korean authorities have also arrested 124 suspects and 18 operators linked to the case.
+“I apologize to those who were hurt by me,” Cho said following his public reveal Wednesday. “Thank you for ending the life of a demon that I couldn’t stop.”
+Cho did not respond to questions from reporters on whether he had admitted to the charges.
+The leader in blockchain news, CoinDesk is a media outlet that strives for the highest journalistic standards and abides by a strict set of editorial policies . CoinDesk is an independent operating subsidiary of Digital Currency Group, which invests in cryptocurrencies and blockchain startups.

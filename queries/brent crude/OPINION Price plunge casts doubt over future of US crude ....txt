@@ -1,0 +1,41 @@
+OPINION: Price plunge casts doubt over future of U.S. crude futures: Kemp
+The U.S. light sweet crude oil futures contract has already been relegated to a regional benchmark, with most pricing outside North America linked to Brent, which is more representative of prices in the seaborne global market
+LONDON: The plunge in U.S. crude futures prices for May delivery the day before the contract's expiry this week will revive questions about the contract's design and whether it can continue to serve as a useful benchmark.
+The U.S. light sweet crude oil futures contract has already been relegated to a regional benchmark, with most pricing outside North America linked to Brent , which is more representative of prices in the seaborne global market.
+But if contract expiries remain disorderly, there is a risk that the U.S. crude futures contract will lose its role as a regional benchmark and become merely a local price for the delivery location at Cushing.
+To maintain the contract's usefulness as a broader benchmark, the exchange needs to review both the physical delivery system and the process for trading in the run up to settlement.
+Previous dislocations in 2009 and between 2011 and 2013 prompted calls for a review of the contract but without forcing much change.
+The current dislocation, however, is by a much larger order of magnitude. To maintain users' confidence, both the delivery system and management of positions in the run up to expiry need to be assessed urgently.
+Futures contracts are highly standardised to concentrate trading liquidity and usually call for delivery of specific grades of the commodity at specific locations and times.
+But even a standardised contract can serve as a useful marker for the wider market, provided that the contract price maintains a reasonably stable relation with prices for off-specification grades at other locations and times.
+In this case, the U.S. crude futures contract calls for the delivery of light sweet crude into a pipeline or storage facility at Cushing, Oklahoma, during May.
+Cushing was chosen as the delivery location when light sweet crude futures were launched in the early 1980s because it was already an active trading hub for physical crude.
+It was at the centre of a pipeline system connecting oilfields in Texas, Oklahoma, Kansas and Missouri, with refineries in Indiana, Illinois and Ohio ("The role of WTI as a crude oil benchmark", Purvin and Gertz, 2010).
+Since then, Cushing's storage and pipeline infrastructure has expanded enormously, with a growing number of tank farms and new pipelines to the Texas oilfields, as well as the refineries and export terminals on the Gulf Coast.
+By September 2019 Cushing's tank farms had working storage capacity of about 76 million barrels of crude, according to the latest data from the U.S. Energy Information Administration. That represented about 44% of all working storage capacity in the Midwest, but only 12% across the whole country ("Working and net available shell storage capacity report", EIA, April 8).
+Futures prices for light sweet crude delivered to tank farms and pipelines at Cushing normally maintain a reasonably stable relationship with the price of other crudes at other locations across the United States and around the world.
+But the contract has occasionally diverged sharply from other physical and futures prices, especially when the market is heavily oversupplied and the accumulation of stocks threatens to overwhelm Cushing storage capacity.
+Futures prices for crude delivered to Cushing diverged sharply from cash prices elsewhere in the United States and Brent futures prices in 2009, 2011-2013 and 2015.
+Unlike Brent futures, which are settled financially based on an index of seaborne crudes with good access to international markets, U.S. futures are settled physically at an inland location, limiting their flexibility.
+Most U.S. crude contracts are offset financially before expiry. Less than 1% of contracts are taken to physical settlement in normal circumstances. But users have the option of physical settlement, at least in theory.
+U.S. crude futures are vulnerable to dislocation when tank farms and pipelines around Cushing become full (or threaten to become full) and buyers and sellers are unable to take or make physical delivery.
+Such congestion has been a periodic feature of U.S. crude futures for more than a decade, but it has produced an unprecedented dislocation for the May 2020 contract.
+U.S. crude futures prices for delivery in May plunged by a record $56 a barrel on Monday, against a decline of only $4.60 for the equivalent June contract.
+So the sharp drop in prices was concentrated in only one futures contract on the last trading day before expiry.
+U.S. crude futures prices for delivery in May have been consistently declining since the start of the year, but the decline accelerated sharply after 1600 GMT on Monday.
+Until this point, the fall for May was broadly in line with U.S. crude futures for other months as well as Brent futures.
+Most market participants had already shifted their positions from the May contract ahead of its imminent expiry, so prices tumbled on relatively limited volume.
+Daily turnover in the May contract was less than 250 million barrels on Monday, compared with 775 million barrels for the same contract a week earlier and almost 1.1 billion barrels at the start of the month.
+By contrast, the June U.S. futures contract reported turnover of 1.32 billion barrels on Monday and Brent's June contract registered turnover of 362 million barrels.
+U.S. oil storage capacity has been filling rapidly in recent weeks, but that cannot fully explain Monday's abrupt plunge in the May futures contract.
+Crude oil inventories in the United States have increased by almost 50 million barrels over the past four weeks, with more than 16 million barrels added at Cushing ("Weekly petroleum status report", EIA, April 15).
+Cushing stocks have risen to almost 55 million barrels - almost 70% of maximum capacity, up from less than 50% four weeks ago.
+But Cushing has been filling steadily for weeks, while the price plunge occurred in the space of a few hours. That looks like a flash crash triggered by the imminent contract expiry, exacerbated by very limited liquidity and concern over physical delivery.
+The situation at Cushing's tank farms is not fully representative of the United States as a whole.
+Cushing has less than 24 million barrels of unused storage, but there are still 166 million barrels unused in the main refining centre on the Gulf Coast and almost 280 million barrels across the country.
+Storage utilisation may have reached 70% at Cushing, but it is only 55% on the Gulf Coast and 57% across the entire United States.
+Cushing's role as a pricing benchmark for the United States depends on its crude supply, demand and inventory situation offering a reasonable proxy for the country as a whole.
+It also depends on the contract settlement process operating smoothly, including ensuring users are able to make and take physical delivery, if necessary.
+The fast-filling U.S. oil storage is applying intense downward pressure on prices for good fundamental reasons. But the wild gyration in May futures 24 hours before expiry strongly suggests the settlement process was not operating smoothly.
+It implies that capacity at Cushing is about to run out, making further deliveries impossible, or there was not enough trading liquidity in the run up to expiry.
+Either way, there is a risk the contract will be perceived as broken, putting its benchmark status in jeopardy.

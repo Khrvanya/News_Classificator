@@ -1,0 +1,16 @@
+Financial regulators in France have blacklisted 11 businesses that are promoting cryptocurrency and FX investments.
+The affected businesses do not have the legal authorization to offer their services within the country.
+France has a dual regulatory system that features the Autorité des Marchés Financiers (AMF) and the Autorité de Contrôle Prudentiel et de Résolution (ACPR). The two agencies have updated their blacklist with the following cryptocurrency and FX (foreign exchange markets) businesses.
+France has been pretty proactive in going after cryptocurrency , FX, and other financial companies that have not been authorized to offer their financial services.
+In October 2019, French financial regulators blacklisted a total of 10 companies, 7 FX and 3 cryptocurrency. In September 2018, the country blacklisted another group of websites that were promoting cryptocurrency investments in ICOs, mining, and crypto trading without legal authorization.
+France still does not have a comprehensive regulatory framework for dealing with cryptocurrency. However, the country did pass new licensing requirements for digital asset service providers (DASPs) earlier this year.
+The new regulations for DASPs are pretty stringent and are in-line with current European Union anti-money laundering requirements. To get a license in France, a DASP has to show:
+a cybersecurity program demonstrating measures that help mitigate risks, compliant with European data privacy laws,
+a list of the digital assets the firm intends to offer,
+a plan of its internal control systems,
+a procedure displaying how it handles insurance claims,
+details of its measures against money laundering and terrorist financing,
+at least one senior manager.
+Emilien Bernard-Alzias, a partner at the Simmons & Simmons Law Firm in Paris, notes , “The AMF is trying to take crypto firms by the hand to help them comply. For other financial service providers, there are requirements for a strong IT system, but the AMF guidance does not have many details for them as they do for crypto firms […] For this, the AMF is having crypto firms explain at the beginning what they are going to do, and this is new for us in France.”
+Micky is a news site and does not provide trading, investing, or other financial advice. By using this website, you affirm that you have read and agree to abide by our Terms and Conditions .
+Micky readers - you can get a 10% discount on trading fees on FTX and Binance when you sign up using the links above.

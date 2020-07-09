@@ -1,0 +1,7 @@
+A Baidu senior engineer has been jailed for three years for mining $14,000 worth of Monero on company servers.
+An engineer at Baidu, China’s equivalent to Google, has been jailed for mining Monero on around 200 of the company’s servers. According to a March 16 report by local media outlet, Abacus News, the employee eventually sold the Monero for around 100,000 yuan ($14,300).
+Senior engineer, An Bang, was employed by Baidu to maintain its search engine. However, between April and July 2018, he downloaded and installed scripts to mine the cryptocurrency, Monero onto around 200 of the company’s servers.
+Baidu contacted the police when it noticed unexpected activity levels across many of the servers. By the time An was caught, he had already mined and sold Monero for the equivalent of $14,300.
+An was sentenced to three years in jail and fined 11,000 yuan ($1,570) last month for illegally taking control of a computer system.
+As Cointelegraph reported last November, Chinese authorities removed Bitcoin mining from their list of undesirable industries, essentially scrapping a previously mooted plan to ban the activity.
+However, Bitcoin and cryptocurrency trading was banned in the country, with authorities vowing to crack down on the activity. China is believed to be one of the nations closest to launching its own central bank digital currency (CBDC), although the outbreak of coronavirus is likely to delay these plans.

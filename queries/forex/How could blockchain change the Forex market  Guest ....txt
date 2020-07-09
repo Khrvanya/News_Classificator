@@ -1,0 +1,20 @@
+How could blockchain change the Forex market? – Guest Editorial
+In this article, IG Group takes a close look at the future of trading, including the potential influence of blockchain on the forex market in the coming years.
+Callum Cliffe is a financial writer for IG Group , a FTSE 250 trading and investments provider. His work covers a range of asset classes and risk management strategies, as well as the effects of politics and economics on markets.
+Forex is the largest financial market in the world. But, it does not have a central exchange like stocks or commodities do. Could blockchain change this, and how would forex blockchain trading work?
+How is forex currently traded?
+Could forex benefit from blockchain?
+Blockchain is a public database of information, which is stored across multiple computers. The information stored in a blockchain cannot be updated or amended without the consensus of a majority of users, meaning that it is almost impossible to falsify information.
+Blockchain could revolutionise the way in which trades between buyers and sellers are recorded, and it might one day replace centralised exchanges. This means that stocks, commodities and bonds could all be traded on blockchain – but so could over-the-counter markets, including forex.
+Currently, the primary market that blockchain is used for is cryptocurrencies – most notably, bitcoin. However, the increasing interest in cryptocurrencies around the world has led many to speculate whether blockchain could be the next big thing for the financial markets, and whether it could make transactions easier, faster and more secure.
+How is forex currently traded?
+Forex is currently traded on an over-the-counter network of traders, banks, brokers and market makers. It is this international web that helps to make forex a 24-hour market, with different trading sessions opening and closing simultaneously around the world.
+However, there are some problems with the way that the forex market works. For example, there is no single centralised body that oversees the regulation of the forex market – something which it could certainly benefit from.
+Instead, the market is regulated by different organisations in different countries. These include the Financial Conduct Authority (FCA) for the UK market, or the Commodity Futures Trading Commission (CFTC) for the US market.
+Forex transactions could also benefit from increased transparency, because forex trading is not subject to the same level of scrutiny as on-exchange transactions. Blockchain could change this, because each transaction would be visible to other users on the blockchain platform.
+Could forex benefit from blockchain?
+The main benefit would be greater transparency. This is because blockchain records each transaction in a public ledger which can be accessed by anyone. This would also help to detangle the web of brokers and market makers around the world by recording all transactions within a single platform.
+Some companies such as Vanguard and Symbiont are already working on developing a blockchain platform for the forex market. But, developing blockchain for forex is not without its own set of unique difficulties.
+For example, it has proven difficult to create a blockchain system with easily-amendable rules and configurations that can be altered by regulators. This is because of the decentralised nature of such platforms.
+While the precise timeframe for pairing blockchain and forex is unclear, research into the future of trading by IG suggests that the use of blockchain will be widespread in the next 50 years. Their analysts also anticipate that the introduction of blockchain could well phase out the more traditional exchanges – as well as over-the-counter markets in the case of forex trading.
+The subject matter and the content of this article are solely the views of the author. FinanceFeeds does not bear any legal responsibility for the content of this article and they do not reflect the viewpoint of FinanceFeeds or its editorial staff.

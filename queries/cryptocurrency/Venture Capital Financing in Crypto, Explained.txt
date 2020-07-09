@@ -1,0 +1,69 @@
+Venture Capital Financing in Crypto, Explained
+What is venture capital financing?
+How does it work in the crypto space?
+How does crypto venture capital differ from ICO/IEO?
+What are the venture capital financing rounds?
+What are the advantages of VC financing for crypto startups?
+What motivates venture capitalists to invest in crypto startups?
+What are some examples of popular venture capitalists and crypto startups benefiting from VC?
+What is venture capital financing?
+Venture capital (VC) is a form of financing that institutional investors provide to entrepreneurs and startup businesses, usually at the expansion stage of their growth.&nbsp;
+However, VC funding can be provided at any stage of a company&rsquo;s evolution.
+As a rule, VC funding might come from VC firms, investment banks, high-net-worth individuals (HNWI) and other financial institutions.
+Sometimes, VC doesn&rsquo;t presume a monetary investment but rather a transfer of technical or managerial know-how.
+VC financing is provided to startups and small businesses that are expected to generate high returns due to an exceptional business idea, unique product or revolutionary technology, among others.
+Venture capitalists invest in early-stage businesses in exchange for equity or an ownership stake, sometimes having an influence on companies through their voting rights.
+Startups generally opt for VC financing, as they can&rsquo;t go public and seek investments from retail investors. Meanwhile, venture capitalists are happy to consider this highly risky investment form, hoping for a generous pay-off. Note that venture capitalists don&rsquo;t ignore diversification. Thus, they invest in multiple startups, expecting that at least some of them will boost their portfolio&rsquo;s aggregate return.
+How does it work in the crypto space?
+Venture capital financing in the crypto space is no different from typical VC, with the exception that startups benefiting from financing operate in the cryptocurrency market.&nbsp;
+Crypto or blockchain-related businesses are developing in a new realm, given that the industry has only been around for only a decade. Because of this, the risks for venture capitalists are much higher, especially considering the prevalence of failures and even scams.
+The blockchain revolution is often compared to the dot-com era, during which countless internet companies came out of nowhere to promise major advances. While the internet has been a disruptive technology indeed, only some of the dot-com firms managed to survive until this day. And, yes, some of them rule the world now.
+The same rhetoric is being used in the crypto industry. Venture capitalists are aware that some of today&rsquo;s blockchain startups might turn into mega-caps in the future. This is why investing in crypto-related businesses has become attractive . Some VC firms have been investing exclusively in crypto and blockchain startups.
+A unique aspect of the crypto VC is that some VC firms get exposure to crypto assets via so-called Simple Agreement for Future Tokens.
+How does crypto venture capital differ from ICO/IEO?
+Venture capital comes from institutional investors and HNWIs, while ICO funding comes mostly from retail investors.&nbsp;
+Initial coin offerings (ICO) and the more recent initial exchange offerings (IEO) are crowdfunding methods that allow startups to ignore any equity commitment, as investors buy issued digital tokens. Note that ICOs and IEOs are aimed at anyone who is willing to purchase the tokens, including retail investors. In fact, the latter represent the driving force behind the ICO/IEO space.
+Elsewhere, crypto-related venture capital financing comes from institutional or accredited investors who usually have high demands of the startups in which they invest.
+Besides the opposite backgrounds of investors, below are more differences between VC and ICO/IEO investments:
+Crypto startups seeking VC financing have to be ready to demonstrate a working product or at least an exceptional vision with a well-prepared pitch. The team should be experienced and motivated enough to achieve significant goals. Also, these businesses should give up significant stakes to venture capitalists.
+However, most ICO/IEO startups only need a well-designed white paper and a roadmap to win retail investors&rsquo; interest.
+Crypto startups that have secured VC funding are regarded as more reliable. Elsewhere, the increased number of scams has compromised the image of the ICO space. In fact, many crypto startups go for the IEO format because the ICO label is often associated with scams.
+VC financing is about several significant investments from institutions or HNWIs, while ICOs and IEOs involve multiple, sometimes millions of, small deposits from retail investors.
+What are the venture capital financing rounds?
+Crypto startups might go through four main VC financing rounds.&nbsp;
+However, very few of them manage to survive until later rounds. Each round represents the stage of a company&rsquo;s development:
+Seed round &ndash; during a seed financing round , the main sources of capital are the personal funds of the founders, their friends, family and angel investors. The latter are wealthy individuals who invest in startups. Those who invest at later stages are generally referred to as venture capitalists.
+Series A &ndash; this round usually represents a startup&rsquo;s first institutional funding. At this stage , companies must have a minimum viable product. VC firms that lead a Series A round generally buy a 50% ownership stake in the startup. The raised funds are used to continue the development of the product or service, hire talent and so on.
+Series B &ndash; this round is typically a larger financing than Series A. Companies at this stage seek funding to scale their business and carry on with the development. Technology risks are addressed completely, and the firm might have its first revenue streams.
+Series C &ndash; this financing might come at a later stage when a company is looking to improve its balance sheet, secure operating capital to boost profits, finance an acquisition or even go public by listing its shares on a stock exchange, which is less common among crypto firms right now.
+Besides the aforementioned financing rounds, companies might hold intermediate funding events, such as pre-seed financing or small follow-up rounds, like Series A, B, etc., which come after the main rounds.
+What are the advantages of VC financing for crypto startups?
+Securing funds from reputable VC firms is good for a startup&rsquo;s reputation.&nbsp;
+There are several benefits that make VC more suitable than ICOs:
+Raising funds from VC gives crypto firms an image of reliability and confidence.
+Venture capitalists are not so harsh when a project fails. In fact, there is no obligation to repay in the event of a startup shutting down. With ICOs, any failure might be labeled as a scam.
+Venture capital firms might provide their expertise and support crypto startups throughout their journey. Typically, venture capitalists have many relevant relationships that might be game-changing.
+Venture capitalists are generally trustworthy. In the United States and most European countries, VC firms are regulated.
+What motivates venture capitalists to invest in crypto startups?
+VC firms want high returns and the opportunity to be a part of the blockchain revolution.&nbsp;
+It is not a secret that cryptocurrencies can demonstrate astronomic returns. In fact, Bitcoin ( BTC ) has been the best performing major asset year-to-date, exceeding by far the United Kingdom stock market, gold, oil and other assets.
+The cryptocurrency industry is still in its infancy, and there is infinite room for growth. Many VC firms are aware that the future belongs to crypto, and they don&rsquo;t want to stay aloof from the transformation.
+Nevertheless, the market is still volatile, but VC firms that are confident in crypto startups are ready to take additional risks.
+What are some examples of popular venture capitalists and crypto startups benefiting from VC?
+From Andreeseen Horowitz to Sequoia Capital, some of the largest tech-oriented VC firms are turning their attention toward crypto startups.&nbsp;
+Institutional investors have also been hit by the fear of missing out on the next rally. As a result, many VC firms have begun investing exclusively in crypto and blockchain startups. Some of these VC funds have been created by reputable firms that have been around for many years. Here are the most active crypto VC funds:
+A16z Crypto &mdash; a subsidiary of VC firm Andreessen Horowitz.
+Pantera Capital &mdash; a U.S.-based Bitcoin investment firm and hedge fund.
+Galaxy Digital &mdash; a crypto merchant bank founded by former billionaire Michael Novogratz.
+Winklevoss Capital &mdash; a VC fund managed by Tyler and Cameron Winklevoss. The brothers have invested a lot in Bitcoin and in many crypto projects, becoming crypto billionaires.&nbsp;&nbsp;
+Digital Currency Group (DCG) &mdash; a VC firm led by Barry Silbert.
+Coinbase Ventures &mdash; the VC arm of crypto exchange Coinbase.
+ConsenSys Ventures &mdash; the VC arm of ConsenSys, the Ethereum development studio, based in New York.
+Fenbushi Capital &mdash; the first Chinese blockchain-oriented VC firm.
+Blockchain Capital &mdash; one of the oldest venture investors in the industry.
+Yeoman's Capital &mdash; one of the most active, early-stage investors in blockchain firms.&nbsp;
+These and dozens of other VC firms have invested in crypto and blockchain firms across various sectors, including trading &amp; investing, finance, payments, real estate, health care, supply management and so on.
+On a side note, the Crypto Finance Conference , a leading crypto finance and blockchain event, will gather some of the venture capitalists mentioned above, including the Winklevoss twins, David Johnston of Yeoman's Capital, Ken Seiff of Blockchange Ventures and Beanstalk Ventures, Michael Bucella of BlockTower Capital and many more. The event, aimed at crypto investors, is scheduled for mid-January of next year.&nbsp;
+Some of the startups that have benefited from VC are Securitize , Coinmine, Matic Network, Etherscan, BitPay, Bitwala , blockchain.com, BlockFi , Chainalysis, Layer1 Capital , Civic DCG, Wave Financial, Xapo and many more.
+Many well-established crypto firms have developed thanks to venture capital financing, including Circle and Coinbase itself.
+Disclaimer. Cointelegraph does not endorse any content or product on this page. While we aim at providing you all important information that we could obtain, readers should do their own research before taking any actions related to the company and carry full responsibility for their decisions, nor this article can be considered as an investment advice.

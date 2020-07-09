@@ -1,0 +1,6 @@
+Crypto asset manager 21Shares will use Coinbase Custody to secure the Bitcoin backing its ETP launch on Thursday.
+21Shares, an asset manager specialized in cryptocurrencies, has chosen the custody service offered by crypto exchange Coinbase for its Bitcoin ( BTC ) exchange-traded product.
+According to a Wednesday Coinbase announcement, 21Shares will use Coinbase Custody to secure the Bitcoin backing the ETP launching Thursday. The derivative will launch on Deutsche Borse’s Xetra — Germany’s second-largest stock exchange.
+The product is purportedly the first physically backed Bitcoin ETP in Europe.
+As Cointelegraph reported , cryptocurrency exchange OKEx launched Ether ( ETH ) and EOS options in early June.
+Still, the space recently saw its share of controversy when Qiao Wang —an investor, analyst and the head of product at a crypto market data firm — criticized how the Grayscale Bitcoin Trust is set up. According to him, Grayscale Bitcoin Trust’s system could allow for it to trade at a discount compared to the net asset value of the fund’s assets.

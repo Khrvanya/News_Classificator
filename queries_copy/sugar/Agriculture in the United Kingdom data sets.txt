@@ -1,0 +1,19 @@
+Data sets to accompany the Agriculture in the United Kingdom publication.
+These data sets accompany the tables and charts in each chapter of the Agriculture in the United Kingdom publication. There is no data set associated with chapter 1 of the publication which provides an overview of key events and is narrative only.
+Edited the landing page, removed references to specific year.
+Replaced all datasets; tables now include data to 2019.
+Updated the Chapter 2 dataset, "the structure of the industry", corrected error, 2018 land area for sugar beet in table 2.2.
+Updated Chapter 2, 7 and 11 following revised crop area estimates.
+Updated table 14.3 in chapter 14 due to minor error.
+Updated with amended Table 7.10  in chapter 7 - crops dataset.
+Chapter 3 dataset revised to correct error in table 3.2, agriculture share of GVA percentage.
+Updated chapter 8 and 13 datasets to correct minor errors.
+Updated with 2016 AUK data sets.
+Updated all datasets with 2015 data and included organics dataset.
+The reason for the update is: Chapter 4 dataset updated due to correction to item 10, other agricultural activities, in both real and current account tables.
+Published amended Chapter 8 Livestock dataset.
+Datasets for Agriculture in the United Kingdom 2014 published.
+Updated Chapter 2 Structure and Chapter 8 Livestock pig populations for 2013 only,
+Updated table 4.1 to correct errors in lines 30 to 34.
+Updated to include 2013 figures.
+Updated Table 8.6 Hen eggs following a methodological review.  For further information contact Leigh Riley, e-mail leigh.riley@defra.gsi.gov.uk.

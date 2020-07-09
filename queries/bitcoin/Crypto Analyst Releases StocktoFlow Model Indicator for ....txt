@@ -1,0 +1,10 @@
+Updating its popular BTC price model, crypto analyst PlanB predicts the cryptocurrency could see a rally to $100K by 2021.
+Crypto analyst PlanB released a key indicator for its stock-to-flow price prediction model which could signal a Bitcoin bull run to $100,000 by 2021 has just begun.
+PlanB confirmed on Twitter on May 31 that the red dot — indicating a price increase — was now present in its stock-to-flow (S2F) model, a price prediction model for Bitcoin ( BTC ).
+#Bitcoin S2F chart update .. RED DOT RELEASED!!! pic.twitter.com/iNTjbf9b9K
+— PlanB (@100trillionUSD) May 31, 2020
+The S2F model treats BTC as a commodity like gold or silver, evaluating the existing supply of the cryptocurrency against the amount mined.
+Though many have predicted BTC bullish behavior in the wake of the May 11 rewards halving , PlanB’s model marks when a run would occur with a red dot. Under this model, the chart shows a BTC price of $100,000 by the end of 2021.
+Cointelegraph reported in April that PlanB had used its new cross-asset S2F model — S2FX — to predict a BTC price of $288,000 by 2024. Crypto analyst Harold Christopher Burger used the same data to forecast a rally to $1 million by 2025.
+The S2F model does have its detractors. Ethereum co-founder Vitalik Buterin has expressed some reservations about stock-to-flow, calling it part of the 95% of crypto articles that are “post-hoc rationalized bullshit.”
+As of this writing, BTC is priced in the $9,400s, having fallen 2% in the last 24 hours.

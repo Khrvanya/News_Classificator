@@ -1,0 +1,49 @@
+Crypto investors have long believed that institutional investors would lead to the next Bitcoin moon event but this is a false narrative built on nothing more than hope.
+For the past two years, crypto-media outlets and Bitcoin ( BTC ) advocates have placed heavy emphasis on the need for institutional investors to embrace the cryptocurrency sector. The oft-stated belief was that institutional inflow would lead to mass adoption and an incredible spike in the value of crypto-assets as a whole.
+Fast forward to the present, and the total cryptocurrency market capitalization has yet to reach the $750 billion all-time high seen in late 2017.
+The slow recovery of crypto prices raises a few hard to answer questions. If institutional funds have been flowing into cryptocurrencies, why hasn’t there been a significant price increase over the last three years?
+Either there is an almost infinite sell pressure — which shouldn’t be a barrier considering the total crypto market cap is just $248 billion — or this theory that institutional investment will pump crypto prices does not hold. Here are three reasons why institutional investors have yet to join the crypto market.
+Investing in Bitcoin, the top listed crypto asset on CoinMarketCap , remains a significant hurdle for large mutual fund managers, especially when considering their perceived risk of Bitcoin.
+Add to this the additional purchasing steps necessary, compared to more traditional assets, and the process of just buying crypto is off-putting. Some funds’ internal regulation also does not allow investments of specific products, while others are ousted by the low liquidity in regulated and approved venues.
+The arrival or presence of institutional investors does necessarily translate into buying pressure. Renaissance Technologies Medallion Funds ’s recent entry into CME’s Bitcoin futures markets is a perfect example.
+Furthermore, it should be noted that since CME futures are cash-settled, they don’t necessarily involve any Bitcoin trading activity. More importantly, a hedge fund can also open short positions.
+Investors should wonder: Why should they celebrate a $10-billion fund potentially entering the space looking to bet against Bitcoin’s price?
+Yes, there has been significant growth in the crypto derivatives market, and these are preferred instruments among institutional-size investors, but they remain incredibly complex for the average retail investor.
+Building positions via futures might come in at a high cost, as contracts expire every two months. Furthermore, this would mean investors would take on the risk of trading at a negative premium to the spot market, as there is usually a cost involved in switching to the next expiry.
+Simply put, futures contracts are not designed for long-term holding.
+While Bitcoin does produce amazing returns, there are other reasons why a $94-trillion industry will not just blindly buy cryptocurrencies anytime soon.
+Cryptocurrency market cap in perspective. Source: BitcoinIRA
+No matter how many times one has seen the chart above, it remains pretty impressive. The crypto sector’s $248 billion market cap is just a speck among capital markets. Currently, Japanese yen banknotes in circulation amount to $1 trillion, and this does not include bank deposits nor treasuries.
+The world’s 20 largest asset managers combined oversee $42.3 trillion. A mere 0.5% investment in cryptocurrencies would end up at $211 billion — equivalent to 84% of the total market cap.
+Even though the past few years have shown that crypto can provide an infinite upside, one must concede cryptocurrencies are not even close to being at the same playing field as traditional markets. Grayscale Investments manages $3 billion, the largest available publicly-traded vehicle for institutional investment in cryptocurrencies.
+Despite such a significant amount, it remains insignificant in the eyes of the world’s largest money managers.
+Top 7 owners of JPMorgan & Bank Of America shares. Source: CNN Business
+Banks, credit cards, insurance and brokerage companies represent a significant portion of the portfolio for almost every large asset manager. BlackRock, State Street, Vanguard, Fidelity and Wellington consistently feature as the top 20 holders of financial stocks.
+Banks are a relevant player in this field as HSBC, JP Morgan, Goldman Sachs, Deutsche Bank, BNP Paribas, UBS and Wells Fargo figure among the world’s largest mutual funds managers.
+This relationship goes deeper as banks are relevant investors and distributors of such independent mutual funds. This entanglement goes even further as large financial industry players dominate equities and debt offerings, coordinating investment funds’ allocation in such deals.
+There’s not much room to be gained for any mutual fund manager to sit at the wrong side of the table when the subject is the traditional finance industry.
+At the moment, cryptocurrencies are in no way a threat to Visa, Wells Fargo, Chubb or Charles Schwab. It doesn’t matter how well decentralized finance is performing or how sizable Bitcoin transactions are right now.
+Therefore, the question investors should be asking is: What is preventing institutions from engaging, and what would it take to get them to invest in cryptocurrencies?
+Former Commodity Futures Trading Commission Chairman J. Christopher Giancarlo admitted in October 2019 that his agency deliberated with the Treasury, the United States Securities Exchange Commission and the National Economic Council to suppress Bitcoin’s incredible 2017 rally.
+This government-backed plan culminated in December 2017 as CME and CBOE both listed Bitcoin futures contracts — one day after Bitcoin’s famous $19,700 top.
+In May 2019, U.S. member of congress Brad Sherman called on colleagues to outlaw cryptocurrencies . President Donald Trump tweeted back in July 2019:
+“I am not a fan of Bitcoin and other Cryptocurrencies, which are not money, and whose value is highly volatile and based on thin air.”
+More recently, the U.S. Secretary of the Treasury Steven Mnuchin promised “significant new requirements” on cryptocurrencies.
+In October 2019, U.S. senators went as far as sending out a letter to three companies backing Facebook’s Libra cryptocurrency project, citing “risks the project poses to consumers, regulated financial institutions, and the global financial system.”
+Despite Bitcoin not being widely regarded as a competitor to fiat money, it is almost sure that it would be if the cryptocurrency achieved a trillion-dollar market cap.
+BAKKT has a product designed to ease mutual funds’ significant barrier to Bitcoin investment. Bitcoin futures contracts with physical delivery allow purchases throughout an entirely regulated venue, including the custody process.
+As reported by Cointelegraph , BAKKT is controlled by the Intercontinental Exchange, the owner of the New York Stock Exchange. Clients willing to trade such products must do it through the regular brokers used for stocks and futures.
+BAKKT’s Bitcoin Monthly Futures contracts volume. Source: Twitter @BakktBot
+For ages, retail investors awaited BAKKT’s launch, as its arrival was prophesied to be a signal that the crypto sector had received the blessing of institutional investors. Estimates of a new all-time high being reached in 2018 and 2019 were relentless and more often than not, wrong.
+After launch, what seemed like a perfect solution produced an average daily volume, which to this date, remains irrelevant. There are numerous reasons this could be taking place:
+Few brokers currently offer BAKKT’s products.
+Many funds’ internal regulations do not allow the ownership of physical Bitcoin-based investments.
+Additional bureaucracy (controls) is required for funds to be approved by BAKKT.
+Physical Bitcoin not accepted as margin for leverage trading.
+Limited Sunday to Friday 8:00 p.m. to 6:00 p.m. trading hours.
+Although internal fund regulations can be changed to accommodate Bitcoin investing, it might not make much sense right now for multi-billion-dollar investment funds.
+Analysts and portfolio managers proposing the addition of a new asset class in secular mutual fund managers would be taking an immense personal risk.
+The intention of this piece is not to turn away investors from Bitcoin and cryptocurrencies. Pundits and analysts with no real market experience have promised impossible scenarios for far too long. If the Bitcoin market cap is still under $1 trillion, rest assured you’ve arrived early to the party, and that’s not necessarily a good thing.
+There is possibly an unlimited upside for this asset class, and institutional investors’ entrance will almost certainly happen gradually, then suddenly. Right now, it is essential to realize that a multi-trillion-dollar mutual fund industry hasn’t got strong enough reasons to invest in such a nascent asset class.
+Crypto does not need the mutual funds industry; it is the other way around. Bitcoin is money for regular people and an investment by itself.
+The views and opinions expressed here are solely those of the author and do not necessarily reflect the views of Cointelegraph. Every investment and trading move involves risk. You should conduct your own research when making a decision.

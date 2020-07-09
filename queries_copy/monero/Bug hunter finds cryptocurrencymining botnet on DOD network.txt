@@ -1,0 +1,17 @@
+Monero-mining botnet infects one of the DOD's Jenkins servers.
+Initially, the bug report was filed in relation to a misconfigured Jenkins automation server running on an Amazon Web Services (AWS) server associated with a DOD domain.
+Surana discovered that anyone could access the Jenkins server without login credentials.
+Full access was apparently possible, including to the filesystem. Surana says the /script folder, part of the Jenkins installation, was also open to anyone.
+This folder is where users upload files which the Jenkins server reads and executes automatically at regular intervals.
+Surana informed the DOD that an attacker could upload malicious files inside this folder and install a permanent backdoor or take over the entire server.
+The DOD secured the vulnerable server, but when revisiting his findings, Surana also realized that the Jenkins server had already been compromised even before he found it.
+The researcher said he tracked down the clues he found to a malware operation specialized in hacking cloud servers and installing Monero-mining malware.
+ZDNet searched for the Monero wallet address that this botnet was using to collect funds. Google results show tens of mentions of this address going back as far as August 2018.
+Most mentions are from Chinese users, who reported finding a Monero miner on their cloud servers [ 1 , 2 , 3 , 4 , 5 , 6 ].
+Using the XMRHunter service, we found that the Monero address currently holds 35.4 Monero coins, worth just over $2.700. However, past funds could have been withdrawn to other accounts at regular intervals, so we can't accurately estimate this botnet's operation just on this address.
+Surana reported his findings through the DOD's official bug bounty program , hosted on the HackerOne platform.
+The DOD has been running a bug bounty program for years.
+The most recent DOD bug-hunting drive ended last month, during which the department paid $275,000 to security researchers for their work in finding bugs in US Army-related web servers.
+Due to the sensitive nature of the DOD infrastructure, Surana's report was redacted to remove the name and URL of the DOD server that was compromised by the coin-mining botnet. The researcher told ZDNet he was not awarded a bounty for his report, but this was one of the rare cases where a researcher's findings were made public.
+Happy Friday hackers! Nitesh @ideaengine007 found a critical RCE vulnerability in Jenkins that led us to discover a Bitcoin mining service running on a DoD website 😲. Head over to the disclosed report to see all the details! Thanks for being 🔥 Nitesh https://t.co/YywrVZu2Uc
+— DC3 VDP (@DC3VDP) January 31, 2020

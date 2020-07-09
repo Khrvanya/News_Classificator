@@ -1,0 +1,14 @@
+Reddit has partnered with the Ethereum Foundation to explore scaling solutions for its crypto-powered rewards system, asking the crypto community to submit and vet proposals.
+Social content platform Reddit is continuing to push forward with its Ethereum-powered ‘Community Points’ reward system, announcing that it is seeking developers to help it scale the tokens up for use by all of its 430 million monthly users.
+On June 19, Reddit revealed it was partnering with the Ethereum Foundation to call for projects building Ethereum ( ETH ) scaling solutions.
+“Our goal is to find a solution that will support hundreds of thousands of Community Points users on mainnet today, and can eventually scale to all of Reddit (430 million monthly users),” Reddit posted. Reddit will accept applications from interested developers until July 31, 2020.
+Reddit’s announcement emphasizes there are some unique requirements, noting that many existing Ethereum scaling solutions are aimed at exchanges and optimized for transactions.
+“Many of these designs don’t take into consideration the costs of obtaining tokens or entering the scaling system,” Reddit said. “Community Points distributions have cost an order of magnitude more gas than all other operations combined, primarily due to on-chain storage costs associated with onboarding new users.”
+Reddit emphasizes that it is currently “unclear how to determine the best solution”, noting that despite significant hype surrounding use-cases comparable to its points system, “there are very few objective real-world reviews or comparisons of various products/implementations.”
+Reddit invites “all scaling experts in the Ethereum community” to submit scaling demos in the comments section of its announcement, stressing that “all demos need to simulate Community Points usage for 100,000 users.”
+The platform also requests that scaling experts provide commentary on proposals submitted by other community members so it can better understand the trade-offs that result from various solutions.
+Demos should include “a live proof of concept showing hundreds of thousands of transactions,” source code, and detailed breakdown of cost estimates, APIs, and how to operate the proposed scaling architectures.
+Over a five-day period, proposals should be able to handle 100,000 point claims, 25,000 subscriptions, 75,000 one-off point burns, and 100,000 transfers.
+In May, Reddit announced that it plans to migrate its points system from the Rinkeby testnet onto the Ethereum mainnet before the end of the year.
+Rumors of Reddit’s crypto-powered rewards first surfaced during early April , with trials for Community Points being launched for the cryptocurrency and Fortnite subreddit communities last month.
+So far, 17,413 Fortnite-playing Redditors have signed up for the rewards system, while it's crypto community members have only created 3,646 wallets.

@@ -1,0 +1,18 @@
+A customer allegedly lost $1.9 million due to AT&T’s handling of a number transfer request.
+AT&T is being sued for the second time over the alleged theft of cryptocurrency belonging to a customer, facilitated by a SIM-swap attack.
+Seth Shapiro, an advisor in business and technology, claims that his "life savings" were stolen after an AT&T employee facilitated the transfer of a phone number to a hacker's control.
+SIM-swapping attacks involve the fraudulent transfer of a phone number from a victim's control to a criminal. This often includes the use of social engineering techniques, such as an attacker claiming to be the victim and using previously-stolen or leaked personal information to support their case, or the involvement of an insider party to make the change.
+Once a phone number has been hijacked, this gives attackers a short window of time -- before the victim notices that they are receiving no calls or have no service -- to compromise online accounts.
+Cryptocurrency wallets, stored online, are a top target as funds can be whisked away to other wallets quickly.
+As reported by The Register , Shapiro's claim involves the theft of $1.9 million in cryptocurrency, alongside "the compromise of highly sensitive personal and financial information" while he was in New York in 2018.
+After noticing his phone was no suddenly longer connected to the AT&T network, Shapiro says he visited a nearby AT&T store and purchased a new phone and SIM to stop the SIM-swap activity. However, the consultant alleges that while he was in the store, another attack occurred, wiping out his savings.
+Accounts tied to his phone number on cryptocurrency trading platforms including Coinbase, KuCoin, Bitfinex, and HitBTC were reportedly compromised.
+The allegations go further, with accusations of AT&T employees being involved in the SIM-swaps.
+"In Mr. Shapiro's case, not only did AT&T employees access his account and authorize changes to that account without Mr. Shapiro's consent, but its employees actively profited from this unauthorized access by knowingly giving control over his phone number to hackers for the purposes of robbing him," the original complaint claims (.PDF).
+Shapiro argues that AT&T should be held responsible due to negligence and the invasion of his privacy, whereas the carrier said in a recent filing (.PDF), urging for dismissal, that the consultant's claim was too vague to be heard in court.
+In addition, AT&T says the latest, amended complaint "does not come close to curing the inadequacies" of the original filing, which also cites the Consumer Legal Remedies Act (CLRA) while seeking damages.
+The last time AT&T wound up in court over cryptocurrency theft was in the case of Michael Terpin, who sued the carrier in 2018 after losing $24 million in cryptocurrency.
+AT&T allegedly was "both knowledgeable of, and responsible for, an ongoing sequence of cryptocurrency thefts due to SIM swaps dating back to well before Terpin's hack," according to the claim, in which an AT&T employee was "bribed by a criminal gang" to facilitate the phone number transfer.
+The carrier attempted to have the court case dismissed, but in February 2020, the courts ruled that Terpin can proceed . In total, the cryptocurrency investor is able to file for up to $200 million, including punitive damages.
+Terpin is also suing a teenager from New York for $71.4 million in damages for allegedly being involved in the theft.
+Earlier this year, an 18-year-old from Montreal, Canada, was charged for his alleged involvement in the theft of $50 million in cryptocurrency through SIM-swapping scams.

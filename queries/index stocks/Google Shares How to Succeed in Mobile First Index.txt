@@ -1,0 +1,35 @@
+Google’s John Mueller answered a technical question about serving content. During the course of answering that question he offered two tips on how to adapt to Google’s mobile first index.
+The person asking the question stated that they were serving content differently depending on whether the user was on mobile or desktop.
+What they described sounded somewhat over-engineered and Mueller addresses that in his answer.
+John Mueller shared two insights into how to adapt to Google’s mobile first indexing:
+First, that it’s important to keep your mobile/desktop rendering simple.
+The second insight is his statement about getting dropped from Google’s upcoming mobile first index if the content cannot be reached in the mobile version of the site.
+Third, Mueller provided an insight into how Google tests Web Vitals metrics when a site has a mobile and an AMP version of a site.
+This is John Mueller’s answer about serving content in complex ways:
+“I don’t know how much it makes sense to do such vastly different approaches on different devices.
+So that’s something where I would try to be a bit thoughtful on what it is that you’re trying to do there, rather than just doing whatever you can do with regards to the technology.
+It’s very easy to, kind of similar with word count, to focus on a technology and say, … I can do all of these crazy things therefore I will do them. And it looks really fancy.
+But is that really what works best for users?
+I don’t know… Maybe it is. Maybe it works well for your users.”
+Mueller moves on to discuss how it’s important to get the mobile version of the website right.
+His answer highlights the importance of crawling the mobile version of the site to make sure that the mobile version performs well and allows crawling of all the other pages.
+“With regards to the different versions on different pages, the thing to keep in mind is with mobile first indexing, we will be indexing the mobile version of the page.
+So if the mobile version of your page does not use normal URLs for navigation, then we will have trouble indexing your mobile site because we won’t be able to access those non-URLs to get to your content.
+So if the whole navigation on the mobile site is really purely JavaScript-based, you’re swapping out different layers on a page, it stays on the same URL, there are no actual links on this page, then we would probably have a lot of trouble being able to crawl and index that site.
+And probably we would not shift that site to mobile first indexing at the moment. But at some point we’re going to make the decision and say well, we need to shift everyone over.
+And that will mean we’ll shift your site over as well, even if it’s not ready yet for mobile first indexing.
+And if really all of the content on your mobile site is not accessible through normal URLs, then we will drop that from the index.
+So that content won’t be shown in the search results at all.
+And with mobile first indexing it doesn’t mean that it’ll be dropped for mobile users. It’ll be dropped for desktop users as well.
+So if that content is not accessible on mobile, we will not be able to index it.”
+That underlines the importance of getting the mobile version of a site done correctly.
+If you have Screaming Frog, run it as the mobile version of GoogleBot to see if there are any crawl issues.
+Mueller offered this recommendation of what to do:
+“So it gets really complicated.
+My recommendation for this kind of situation is to try to simplify things as much as possible for your website.
+And instead of having three different variations of the same page, find a way that you can use some kind of responsive design so that you either just have two versions, maybe kind of like desktop/mobile combined and the AMP version.
+Or maybe there is even a way to move to a pure AMP framework where you essentially use AMP for the whole website.
+Because AMP is a responsive web framework, so you could theoretically do that for a lot of things as well.”
+The mobile first index is going to be harsh for sites that do not adequately test the mobile versions of their websites.
+Google has instructions on how to simulate mobile devices with Chrome’s native Device Mode in DevTools.
+There are also more professional tools such as MobileMoxie that can help speed testing and development of mobile web pages.

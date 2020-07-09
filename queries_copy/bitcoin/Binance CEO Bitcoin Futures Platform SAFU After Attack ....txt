@@ -1,0 +1,10 @@
+Changpeng Zhao has U-turned on warnings Binance’s new product was under attack from a bad actor.
+The CEO of cryptocurrency exchange Binance has dispelled fears a bad actor had attacked its newly-launched Bitcoin (BTC) futures platform.
+In a series of tweets on Sept. 16, Changpeng Zhao , also known as CZ, initially warned that the exchange’s futures were under attack from one of its own market makers.
+The perpetrator allegedly crashed the BTC/USD order book from $10,324 to $10,024, in what Zhao said was the second such attempt at an attack.
+Binance launched its futures platform in invite-only mode following a user testing period earlier this month. Two platforms were originally available, with users voting for their preferred choice.
+As Cointelegraph previously reported, despite criticism of both options’ technical characteristics, uptake was brisk, with open interest reaching $150 million last week.
+In the event, the attack turned out to be a false alarm, originating from a technical error on the market marker side.
+The entity remains unknown, Zhao only revealing it was also an operator of Bitcoin futures. Due to Binance’s own settings, meanwhile, the $300 dip did not liquidate other traders’ positions; only the accidental attacker lost funds.
+“NO ONE was liquidated, as we use the index price (not futures prices) for liquidations (our innovation). Only the attacker lost a bunch of money, and that was that,” he confirmed.
+Binance forms one of two major Bitcoin futures offerings to hit the market this month. The other, due on Sept. 23 , comes from institutional trading platform Bakkt .

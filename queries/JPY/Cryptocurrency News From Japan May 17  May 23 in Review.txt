@@ -1,0 +1,14 @@
+Bitpoint exchange briefed fiscal year losses, Binance donated masks to Japanese nursing homes, and more headlined news from Japan this past week.
+This week’s headlines from Japan included BitBank exchange adding three trading pairs, Bitpoint exchange posting decreased fiscal year totals, Bitpoint adding information on its 2019 hack, and Binance donating masks to Japanese nursing homes through its charity arm.
+Check out some of this week’s crypto and blockchain headlines, originally reported by Cointelegraph Japan .
+Japan's BitBank exchange gave details this week on three upcoming additional trading pairs. The platform originally unveiled the fresh pairs in late April. On May 24, BitBank will complete a four-hour offline upgrade to put the pairs into play.
+After the upgrade, customers can trade Ethereum ( ETH ) against the Japanese yen (JPY), Ripple's XRP against Bitcoin ( BTC ), and Litecoin ( LTC ) against the yen.
+Bitpoin's fiscal year finished on March 20, 2020, showing sales totals 44.4% lower than the year prior. The company ended the year with operating losses in the red, although the outfit hosted less total loss than the prior year.
+Bitpoint suffered a hack in July 2019 , bleeding $2.3 million in the process. The hack resulted in temporary exchange closure, followed by a staged reopening, resuming full service in December 2019. In total, the ordeal proved expensive for the company, contributing to the overall fiscal year losses.
+The exchange also announced plans for new know-your-customer, or KYC, functions, new interfacing and additional asset capabilities. Additionally, Bitpoint plans on dialing back its international efforts, focusing on its domestic endeavors.
+Bitpoint released additional intel surrounding the hack it suffered in 2019. No evidence of unauthorized access was reported, meaning someone might have pilfered digital asset private keys  via the maintenance server.
+"It is highly possible that the maintenance server was hacked and intruded," a Bitpoint announcement said, as covered by Cointelegraph Japan. The announcement added:
+"Although it has been encrypted, it was compromised by the wallet server, the private key was leaked, and most of the crypto assets managed by the hot wallet were leaked."
+Authorities continue an ongoing investigation surrounding the hack. Bitpoint transitioned to a cold wallet-based operation following the breach.
+In light of the coronavirus pandemic, the Binance Charity Foundation donated face masks to a Japanese nursing home, via the Japan Federation of care Business Providers.
+Binance has donated crypto assets to fund various medical supply donations in multiple regions, including China and Italy.

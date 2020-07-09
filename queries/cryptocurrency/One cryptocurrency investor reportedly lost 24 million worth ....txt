@@ -1,0 +1,13 @@
+Crypto investor Michael Terpin lost roughly 1,5oo bitcoins on January 7, 2018, after falling victim to a SIM swap attack, The Wall Street Journal reported .
+The bitcoin stake was worth $24 million that day, roughly three weeks after the asset hit its record high price.
+The incredibly precise hack involves thieves taking control of a phone number and using it to access email accounts, bank reserves, and even crypto wallets.
+One crypto investor lost bitcoin worth as much as $24 million after falling victim to a new kind of hack known as SIM swapping, The Wall Street Journal reported .
+Michael Terpin was hit by the attack on January 7, 2018, days after bitcoin reached its record high price. Thieves stole roughly 1,500 bitcoins by taking control of his phone number and using Google's "Forgot password?" feature to gain access to his email. With possession of the two personal accounts, the thieves hacked Terpin's crypto wallet, stole the digital assets and quickly sold them, according to WSJ.
+Bitcoin traded between $16,969 and $15,790 per coin on January 7, 2018. The digital coin now trades at roughly $8,700.
+SIM swaps involve stealing an individual's phone number and using it to gain access to numerous other accounts. Once a hacker can breach a user's email account, they can scour for proof of asset holdings and subsequently target trading apps, bank accounts, and crypto wallets.
+Twitter CEO Jack Dorsey was hit with a SIM swap attack on August 30 , allowing hackers to post racist and anti-Semitic tweets to his account.
+The January SIM swap attack wasn't Terpin's first. He had been hacked in the same way seven months earlier, but didn't lose any assets then.
+Following the first hack, the crypto investor added additional security measures to his AT&T account, including a six-digit PIN required for any future changes, according to WSJ. He also switched out text-message authentication for Google's authentication service.
+"On a scale of 1 to 10, I'd say my security protections were a 9.8 or higher. But these hackers, all they do is sit around in a basement and figure out ways of hacking people," Terpin told WSJ, noting he thinks employees at an AT&T authorized store gave hackers control of his phone number.
+SIM swaps are incredibly precise, and the odds of randomly being hit by one are small compared to other hacks. Adding passcodes to a mobile account, using a password-management app, exploring "forgot my password" options, and using other forms of two-factor authentication can help protect phone numbers from SIM hackers, according to WSJ.
+Now read more markets coverage from Markets Insider and Business Insider:

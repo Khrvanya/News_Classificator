@@ -1,0 +1,33 @@
+Please consider using a different web browser for better experience.
+Please enable JavaScript in your browser for a better site experience.
+This post is part of CoinDesk’s 2019 Year in Review , a collection of 100 op-eds, interviews and takes on the state of blockchain and the world. Flex Yang is co-founder and CEO of Babel Finance.
+Babel Finance is one of China’s largest financial service providers.
+The firm works with crypto mining companies to fund the volatile industry and products including crypto-backed loans , deposit services, margin trading and derivatives. Since July 2018, Babel has issued $400 million in crypto-backed loans with a balance of more than $300 million outstanding.
+Before pivoting to crypto, Yang and his co-founder Del Wang worked in the world of microfinance. Yang’s first venture, Standard Financial Inclusion, provided financial services for the underbanked.
+Speaking via email, Yang shared his views on the past year in crypto, President Xi’s ambition to “seize” the blockchain opportunity and what China’s stablecoin (from its central bank, or PBoC) means for global finance. His responses have been lightly edited for clarity.
+What have been the biggest events in the crypto industry in 2019? How will these events affect the industry going forward?
+The two biggest events were connected: the Facebook-led Libra project and China’s pivot towards blockchain technology. These two events are connected in the sense of uncovering blockchain’s relationship to currency development.
+Libra drew the general public’s attention to crypto and blockchain technologies. President Xi’s address on the importance of blockchain technology pushed the government to speed up development of its fiat digital currency program, primarily due to the pressure of Libra on the renminbi (RMB). Both will have a long-term positive impact for the industry.
+Although Libra will face lots of obstacles and President Xi’s announcement has brought more regulatory attention to crypto in the short term, I believe these two events will help attract more resources and people to the industry and eventually boost the market in the long term.
+What were the most significant advances for crypto or blockchain technology in China in 2019?
+Unfortunately, in 2019 I didn’t observe any significant advances in blockchain technology. On the other hand, I observed the advance in the government’s attitude towards blockchain technology, although the most significant impact will be on the RMB rather than cryptocurrencies.
+China’s ambition is to bolster the RMB rather than blockchain technology itself.
+Why did China set blockchain as a national priority?
+In my opinion, China’s ambition is to bolster the RMB rather than blockchain technology itself. The key driver of setting this national priority is the unsuccessful RMB globalization strategy and the competitive pressure of Libra, which is regarded as a U.S. program by many in China. So the government is seeking a way to make the RMB stronger and more acceptable globally.
+Do you suppose crypto companies that left in 2017 or earlier will return to China?
+The regulation of crypto businesses in China after President Xi’s statements actually intensified. There is an old saying in China, “The bandit needs to be wiped out before the regular army gets in.” I think companies that left China won’t return until the regulatory environment becomes clearer. This is hardly possible in the short term. Instead, the government is promoting adoption and application of blockchain technology in industries such as in supply chain management, source tracking in the food industry and so on. It has nothing to do with cryptocurrency.
+What do you think of the PBoC’s digital replacement for cash? How do you envision the rollout happening?
+PBoC’s effort on creating a digital replacement for cash is the very first step in bringing the RMB to global trade, but its target is not to replace the current digital payment system in China. It will be rolled out under pressure from Libra and other governments’ fiat digital currencies. But I think it will take a pretty long time for real implementation in China.
+How has the crypto mining industry in China evolved over the past year?
+It was a dramatic year for miners in China, which can be divided into three periods:
+In Q1, we experienced a very inactive market. Most miners were very pessimistic, but some institutional players joined and brought new energy.
+From Q2 to Q3, the mining industry was growing very fast due to the surge in bitcoin’s price. But the good days didn’t last long after the big price drop at the end of Q3 and the crazy growth of the hash rate. Lots of miners who bought mining machine futures that were set to be delivered in Q4 and the first quarter of 2020 experienced major losses.
+Q4 was a bloody period for the mining industry. Manufacturers began selling at discounted prices. They also worked with crypto financial institutions (like Babel) to try to offload inventories in preparation for the new-generation miners in 2020, when I anticipate that more institutional players will come into the market.
+Overall, the field has changed a lot and some new pools grew quickly. Miners are quite divided in attitude towards the coming bitcoin reward halving and we need to wait for the halving before we can give a conclusion.
+Is there any effect on the crypto industry by the ongoing trade war?
+The China-U.S. trade war was one of the key drivers of BTC surge during May to June 2019, but since September bitcoin is no longer the “safe haven” assets for investors worrying about the trade war after market moving favor to other categories of assets.
+But when we dive deeper, it is noted that the fundamental conflict of the trade war between China and US is the currency competition. Therefore, I think the ongoing trade war has a long-term impact on the crypto industry by dragging China’s state-owned resources and corporations into this industry.
+Other thoughts on the industry?
+I’m still positive about bitcoin in the long term, and wish everyone would HODL. On the other hand, the crypto industry is at its very early stage, there will be lots of developments out of our expectations, just like the internet in 1980s. Let’s give it time and see.
+This post has been updated with fresh Babel loan numbers.
+The leader in blockchain news, CoinDesk is a media outlet that strives for the highest journalistic standards and abides by a strict set of editorial policies . CoinDesk is an independent operating subsidiary of Digital Currency Group, which invests in cryptocurrencies and blockchain startups.

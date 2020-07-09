@@ -1,0 +1,21 @@
+Ethereum must rely on current scaling methods for at least a couple of years before its next major upgrade will be ready, says creator Vitalik Buterin.
+Ethereum 2.0 will rely on temporary scaling measures for the next two years, says Vitalik Buterin. Image: Shutterstock
+Ethereum co-founder Vitalik Buterin said new scaling technology will help the network grow while the Ethereum network upgrades.
+ZK-rollups allow Ethereum to scale to thousands of transactions per second.
+But there are a few concerns with the technology.
+Ethereum co-founder Vitalik Buterin said, on June 30, that the next major Ethereum
+A blockchain project conceived by Vitalik Buterin that allows developers to build decentralized apps (dapps) using Smart Contracts.
+upgrade will have to lean on current scaling methods for at least a couple of years, until developers finish the multi-phase project.
+On Twitter, Vitalik Buterin said that ZK-rollups may become “the dominant scaling paradigm for at least a couple of years”—until the upgrade is complete.
+Vitalik Buterin speaking at Ethereal Tel Aviv in 2019. Image: Decrypt.
+Ethereum 2.0 is the much anticipated evolution of the now five-year-old Ethereum blockchain. The vision for Ethereum 2.0 introduces a proof-of-stake method of blockchain governance. Proof-of-stake blockchains allow users to lock up a bunch of their coins and get paid for helping to secure the network.
+When complete, Ethereum 2.0 is expected to expand the network’s transaction speed to 100,000 transactions per second (TPS). But there will be at least a two-year delay before the new blockchain will be able to hit those numbers.
+As Buterin explained on Twitter, Ethereum 2.0’s data capacity will be upgraded before its computational power. This means it will be able to store more data—but not process far more transactions.
+This is due to the outline of the Ethereum 2.0 roadmap, which will see the Ethereum you know eventually become one of 64 “shards” in Ethereum 2.0. These shards, which can be thought of as horizontal expansions, will initially be able to hold and move data. However, the process of harnessing their shared computing power to increase Ethereum 2.0’s transaction output will be a multi-year effort.
+This leaves a gap, which, in the meantime, will be filled by a novel scaling solution known as ZK-rollups.
+ZK-rollups can work with the current Ethereum network and allow it to process more transactions. They process the transactions off the actual blockchain, and then upload them every so often. It’s a way of rapidly increasing the number of Ethereum transactions—without causing a huge bloat on the network.
+The Loopring decentralized exchange (DEX) has successfully used this scaling method in recent months, enabling it to process far more transactions—at a lower cost. The DEX claims to be able to handle over 2,000 TPS thanks to the technology.
+But there is a potential flaw to using ZK-rollups, which centers around the notion of trust. According to the Ethereum 2.0 roadmap, setting up a ZK-rollup relies on a centralized party—usually a developer. The roadmap states, “This undermines decentralization and opens the risk of social engineering hacking attacks by convincing a developer to manipulate code or provide vulnerability information.” So it’s not a perfect solution, by all means.
+The roadmap also pinpoints another potential threat in the form of quantum computing. The increased computational power delivered by quantum computers would likely break the encryption used by ZK-rollups, meaning an attacker could potentially hack the blockchain. However, every blockchain shares that same weak point.
+ZK-rollups look like the best Ethereum scaling method in the short-term, and are already being used in Ethereum 2.0 test networks. However, over the next couple of years, any problems encountered by ZK-rollups will also be shared by Ethereum.
+Get the best of Decrypt where you want it most.

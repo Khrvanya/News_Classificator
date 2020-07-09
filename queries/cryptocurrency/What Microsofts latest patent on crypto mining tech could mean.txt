@@ -1,0 +1,15 @@
+Microsoft has filed for an innovate crypto mining system. Source: AFP
+With digital payments becoming more mainstream, seamless and convenient, the emerging concern for hygiene following the global COVID-19 pandemic and subsequent government-imposed physical distancing has made banknotes and coins less popular for payment. Cash payments go through many hands, digital ones do not.
+Will crypto crack the mainstream in 2020?
+We are progressing towards a post-cash economy, with blockchain, cryptocurrency, and e-wallets leading the way.
+Microsoft recently patented a system that uses the data gained individuals engaging in daily activities – like exercising or reading – to mine cryptocurrencies. Let’s explain…
+The idea is that the collected energy will be converted into computer-readable data which will then be used to solve computational problems. In this case, the computational task will be crypto mining processes that once relied on computer processes and graphic cards.
+Sensors will be attached to an individual’s body to “collect” energy from their physical or mental exertions . As a result, “a user can solve the computationally difficult problem unconsciously,” the patent application stated.
+Blockchain records require both accuracy and security, and each of these requires a massive amount of energy. Each element in the chain must have a unique code, correctly named, before it can be registered it in its digital records. The amount of processing power required to do this is gargantuan, where the distributed ledger technology (DLT) can be updated about 100 times a day .
+There is speculation that the American computer giant’s patent may be addressing a ‘future’ issue that cryptocurrency will face once the industry really takes off.
+Crypto vs cash – cash wins every time, for now
+If Microsoft is successful, one main theme it has tackled is reducing the cost for the specialized hardware that powers crypto mining.
+Bitcoin mining hardware has skyrocketed since its early days, as the number of miners increases and processing power requires more sophisticated hardware . This costly hardware is not accessible to a large portion of society and it means that the number of crypto miners remains relatively stable.
+Microsoft potentially opening up an completely different and innovative virtual mining method to help crypto miners optimize their costs, while also potentially attract new miners. Alongside the rising popularity of cloud mining , what could emerge is the elimination of having to deal with hardware issues.
+It may not be an overnight shift as the technicality and mechanics of disseminating human-powered cryptocurrency is still in the making, but the tech titan is well-positioned to come up with novel solution.
+Once successful, the technology will encourage more businesses to venture into the cryptocurrency realm and reap the benefits provided by the next-gen technology.

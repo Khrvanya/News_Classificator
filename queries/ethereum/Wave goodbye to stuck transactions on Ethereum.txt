@@ -1,0 +1,17 @@
+No more stuck transactions on Ethereum. Image: Shutterstock.
+Say goodbye to stuck transactions on the Ethereum blockchain.
+Rockside , a Parisian blockchain company founded in 2018, this week released a free version of software to get rid of stuck transactions.
+Stuck transactions are transactions that don’t get processed, usually because users haven’t paid enough money to get miners to prioritize their transaction.
+On decentralized finance (DeFi protocols), stuck transactions can cause a log jam and slow down the whole contract.
+Rockside’s “ transaction relay service ” algorithmically determines gas prices on behalf of users. Think of gas as the “fuel” that powers Ethereum smart contract. You buy gas with ETH.
+So, should a large number of expensive transactions suddenly be broadcast to the network, Rockside will make sure the contracts are funded with enough gas to ensure they’re processed quickly, at no extra cost to the sender.
+Through its API, Rockside also offers “gasless” transactions. These use gas provided by the developer of the DeFi protocol that cover users’ gas fees for simple interactions with the blockchain.
+Rockside’s transaction relay service comes at a crucial moment in the development of Ethereum as developers hunt for ways to reduce skyrocketing gas costs and accommodate unprecedented growth in users and transaction volumes.
+“Since the end of 2019, we see more and more startups and corporations developing blockchain applications with more and more traction,” Rockside CEO Corentin Denoeud told Decrypt.
+“Some of them manage millions of users and even sometimes millions of asset value. When that is the case, you cannot take the risk of having even one transaction that is not included in the blockchain,” he said.
+Rockside is the product of Blockchain Studio , created as a collaboration between French multinational electric utility ENGIE and the Maltem Consulting Group . Blockchain Studio secured more than $2.1 million in funding in a 2018 seed round.
+Rockside offers a free community plan for those processing less than 100 transactions per day as well as a paid enterprise plan with no transaction limit. Rockside is also offering to cover all gas costs for the first 100 transactions for new users.
+With growing DeFi usage already straining network infrastructure, Rockside’s service could serve as a vital bridge for developers waiting for Ethereum 2.0.
+But there’s competition: Biconomy in May released an infrastructure layer to provide a similar gasless option for end users, and Decrypt reported yesterday on Ethereum improvement proposal (EIP) 1559, which develops better gas management for Ethereum transactions.
+As daily Ethereum transactions continue to climb , infrastructure providers like Rockside are likely to become increasingly essential components of the crypto landscape.
+Get the best of Decrypt where you want it most.

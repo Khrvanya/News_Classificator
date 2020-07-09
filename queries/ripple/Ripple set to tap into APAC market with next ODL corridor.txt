@@ -1,0 +1,6 @@
+Cryptocurrency payments company Ripple looks set to expand its remittance service to Asia Pacific (APAC) region with Japan and South Korea being next on the cards.
+According to XRP’s On-Demand Liquidity (ODL) tracker, a transaction has been processed on Bithumb with Korean Won being displayed as the source of fiat currency.
+The recipient was Japanese exchange Bitbank, who received the funds in Japanese Yen to intensify speculation of potential development in APAC.
+On-Demand Liquidity is Ripple’s remittance service that allows users to transact across multiple corridors, with the US-Mexico corridor being reported on by Coin Rivet last week.
+In November it was reported that remittance firm RBI Remit had announced the launch of the first-ever blockchain-based money transfer service between Japan and Vietnam.
+RBI Remit is section of RBI Ripple Asia, which has been a collaborative project between Ripple Labs and SBI Holdings since May 2016.

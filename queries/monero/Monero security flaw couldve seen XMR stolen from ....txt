@@ -1,0 +1,14 @@
+Privacy-focused altcoin Monero has suddenly disclosed nine security vulnerabilities — including one that could have allowed hackers to steal XMR from cryptocurrency exchanges.
+Until March, rogue Monero miners were hypothetically able to create “specifically-crafted” blocks to force Monero wallets into accepting fake deposits for an XMR amount chosen by the attacker.
+“It is our belief that this can be exploited to steal money from exchanges,” said security researchers in their initial HackerOne report . They were eventually awarded 45 XMR ($4,100) for their efforts.
+Five DoS attack vectors were also disclosed, with one labeled “critical” severity.
+Another related specifically to CryptoNote, an application layer used by Monero to increase transactional privacy. This flaw could’ve seen bad actors take Monero nodes down by maliciously requesting large amounts of blockchain data from the network.
+Andrey Sabelnikov, who discovered the bug, told Hard Fork: “If you have quite a big blockchain (with long history like Monero […]), then you can push a protocol request that will call all of its blocks from another node, which could be hundreds of thousands of blocks.”
+“Preparing such a response can take a lot of resources. Eventually, the OS might kill it due to the huge memory consumptions, which is typical of Linux systems,” he added.
+Sabelnikov warned there could be other cryptocurrency projects relying on CryptoNote that are similarly susceptible to these attacks.
+Monero software was also found to have been leaking “uninitiated” memory to untrusted network peers. This kind of memory reportedly could have included sensitive material (such as cryptographic or other similarly private data).
+The bulk of these bugs was submitted roughly four months ago. Eight vulnerabilities have since been patched, while one remains almost entirely undisclosed. The reports appear to be timed to coincide with the release of Monero version 0.14.1.0 in June.
+It should be noted that most of these flaws were described as “proof of concepts.” At pixel time, there have been no reports of these bugs being exploited in the wild.
+Last year, a bug in Monero wallet software was found that would have allowed XMR to be drained from wallets (owned by cryptocurrency exchanges, for example) in targeted attacks.
+At the time, devs warned its discovery should remind the public that cryptocurrency (and related software) is still in its infancy, and that it’s very much prone to critical bugs — so I guess we should consider ourselves reminded, nine more times.
+Do you want to get the sassiest daily tech newsletter every day, in your inbox, for FREE? Of course you do: sign up for Big Spam here .

@@ -1,0 +1,13 @@
+Bitcoin (BTC) continues to outperform traditional investment assets this year.
+The digital asset, now worth $377bn, has gained 30 per cent year-to-date (YTD). It achieved this despite prices crashing in March due to the global economic crisis.
+Neither the S&P ASX200 (XJO) or the S&P ASX Small Ordinaries (XSO) have managed to recover their pre-pandemic positions.
+Gold has been the best performing traditional asset with a YTD gain of more than 16 per cent. In times of economic uncertainty, investors move their funds to safe havens such as gold.
+Of the assets listed above, oil has performed the worst. As the world ground to a halt, demand for oil plummeted. Consequently, WTI oil futures prices went negative for the first time in history in April .
+On the June 26, about $1.5bn worth of BTC options contracts expired.
+These contracts give traders the right to buy or sell an asset at a set price and time in the future. The below chart shows the sharp drop in funds in BTC options markets as the June contracts lapsed.
+As options are the right to buy or sell, not the obligation, traders can let contracts lapse. They use options as a hedge against markets moving in an unfavourable direction to their other investments.
+BTC’s market value was unaffected when the options expired on the June 26.
+Options account for 1 per cent of total BTC derivative volume, according to research from digital-asset exchange Luno. Therefore, activity on these markets don’t affect BTC’s price directly.
+BTC futures contracts are more significant. A contributing factor to BTC’s price crash in 2018 was short trades on the asset’s futures markets.
+CME’s current BTC futures contracts expire on August 3.
+Open interest on this market now sits at $US382m ($550.7m). How this will affect BTC’s price remains unclear for now. However, if open interest continues to mount, it could influence BTC’s spot market value.

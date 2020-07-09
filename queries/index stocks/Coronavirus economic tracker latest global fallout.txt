@@ -1,0 +1,16 @@
+After months of lockdowns restricting work and movement, many countries have begun to lift the drastic measures they put in place to slow the spread of coronavirus.
+European nations and some US states have embarked on the gradual process of reopening their economies, following in the footsteps of China, where the virus originated and which locked down earlier.
+But the economic fallout from the pandemic looks to be one of the biggest shocks in generations. Normal economic activity has been disrupted on a scale unprecedented in peacetime as the patterns of everyday life have been upended.
+Governments are intervening in an attempt to stave off the collapse of companies and livelihoods. Many economists believe the world has already entered a recession .
+The Financial Times will be tracking the impact here.
+By the beginning of May, more than 50m workers had been put on government-supported job retention schemes across Europe, according to research by the European Trade Union Institute, which analysed national support programmes in the EU, UK and Switzerland.
+The number accounts for a quarter of the total EU workforce — an all-time high, dwarfing the levels of furloughed workers after the financial crisis.
+The data from national employment agencies are not directly comparable across countries because each furlough scheme sets its own eligibility criteria and counts those who have accessed it differently.
+Countries such as France, Germany and Italy, for instance, provide figures on applications whereas the UK and Czech Republic only count workers enrolled in the schemes. However, the overall numbers give a sense of the scale of disruption in the labour market caused by the pandemic.
+China’s slowdown because of the coronavirus outbreak has been pronounced and consequential for the global economy. To track the disruption to its economy, the FT has constructed its own measure of the slowdown and nascent recovery.
+Official figures lag behind activity, since they are mostly monthly, and China’s data are sometimes viewed as open to political manipulation.
+Using Wind’s financial database, we have compiled a weighted index of six daily, industry-based data series.
+The measures of the domestic economy include real estate floor space sales, traffic congestion within cities and coal consumption in large power plants. Trade activity is represented by container freight.
+Two other indices, which have been given a lesser weighting, provide social and environmental context: box office numbers from Chinese cinemas — a good proxy on consumer activity — and air pollution in the 10 largest cities.
+The FT has collated Nasa satellite data showing concentrations of nitrogen dioxide before, during and since the lockdown in Wuhan on January 23.
+About 50 to 70 per cent of NO2 sources correspond to thermal power generation, heating and industrial boilers — all of which are concentrated in the hyper-polluted north China plain. About one-fifth derive from transport.

@@ -1,0 +1,11 @@
+Please consider using a different web browser for better experience.
+Please enable JavaScript in your browser for a better site experience.
+Bitcoin miners suffered a 23% drop in revenue during June, resulting from lower network fees and a reduced block subsidy after the halving in May.
+Down from $366 million in May, bitcoin miners generated an estimated $281 million in revenue in June, a three-month low according to Coin Metrics data analyzed by CoinDesk. Estimates assume miners sell bitcoins immediately.
+Mining is the process of adding confirmed transactions to the Bitcoin blockchain. For the resources required to mine, the network compensates miners via subsidies and transaction fees. Subsidies are paid per block at a current rate of 6.25 BTC. Fees are paid per transaction.
+Monthly aggregate bitcoin mining revenues separated by block subsidies and transaction fees.
+Compared to May, June subsidies and fees offer a better representation of mining revenue after the halving, said Austin Storms, founder of mining mobile infrastructure company BearBox. Even with an 11% decline in May, the month’s first 11 days of the month are weighted heavily from the 12.5 BTC per-block subsidy that later dropped to 6.25 BTC, Storms told CoinDesk.
+During the halving, the size of Bitcoin’s mempool grew substantially, which caused transaction fees to also increase. The mempool serves as a sort of holding depot for verified transactions that need to be included in new blocks by miners. As the mempool emptied through the end of May and into June, monthly miner revenue estimates reflect the subsequent decline in transaction fees.
+Bitcoin mempool size (bytes) and average transaction fees (dollars) since January 2020.
+Fees only generated $12 million in June, which accounts for 4.3% of monthly revenue, down from a 12-month high of 8.3% in May. Since the per-block subsidy remains constant until 2024, growth in mining revenue can only come from two sources: an increase in network fees or bitcoin’s price.
+The leader in blockchain news, CoinDesk is a media outlet that strives for the highest journalistic standards and abides by a strict set of editorial policies . CoinDesk is an independent operating subsidiary of Digital Currency Group, which invests in cryptocurrencies and blockchain startups.

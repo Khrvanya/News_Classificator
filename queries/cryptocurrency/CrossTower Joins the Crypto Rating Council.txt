@@ -1,0 +1,14 @@
+The Crypto Rating Council announced the addition of NY-based CrossTower as its newest member.
+Cryptocurrency exchange CrossTower is now part of the Crypto Rating Council, or CRC. They join as the council’s newest member, alongside 11 other industry companies.
+According to the announcement on June 10, the CRC were pleased to select the New York-based firm to join the group. Their existing membership includes Coinbase, Cumberland, Anchorage, and Genesis Global Trading.
+The CRC states that its mission is to provide a “more systematic” U.S. securities law analytical framework for crypto assets, promoting regulatory clarity in the industry.
+Offering a clear picture on the U.S. regulatory affairs in the crypto industry
+Rankings configured by the CRC attempt to rate crypto assets involved in legal framework compliance in the U.S.
+The lowest CRC score of 1 indicates an asset with few or no characteristics of a security. In contrast, a score of 5 indicates characteristics strongly consistent with treatment under U.S. securities law.
+Speaking with Cointelegraph, Kristin Boggiano, CrossTower’s co-founder, said the following after the announcement:
+“We are honored to have been selected to join the CRC and look forward to increasing visibility, promoting standards, and contributing to the safe and orderly growth of the digital asset industry.”
+The announcement also states that since the ranking scheme’s launch and the initial publication of 20 asset scores last fall, the crypto exchange has made ”steady progress engaging the developer community,” recruiting industry members, and producing additional asset scores.
+“We look forward to working with our industry peers to address some of the most complex issues that are stymieing continued growth of the crypto asset class – a range of issues, from what defines a digital security, to how custody and payment should be handled. Sharing our experience will help other exchanges, custodians, trading desks, investment firms, and financial services providers build confidence and traction as we embrace this new asset class.”
+CrossTower's co-founder and president also clarified that there is an application process, but "we were invited to join the CRC because we’ve worked with many of the members for years, for instance through my work as founder of the Digital Asset Legal Alliance (DARLA)."
+Aside from currently offering five of the most widely traded currencies like Bitcoin ( BTC ), Ether ( ETH ), Litecoin ( LTC ), USDC , Bitcoin Cash ( BCH ) and Zcash ( ZEC ), the NY-based crypto exchange claimed that it plans to introduce additional assets and services “later this year,” which will be part of CRC oversight as well.
+On April 2, the CRC published an introduction to ratings for three new cryptocurrencies, including Basic Attention Token ( BAT ), USDCoin ( USDC ), and Iota ( IOTA ).

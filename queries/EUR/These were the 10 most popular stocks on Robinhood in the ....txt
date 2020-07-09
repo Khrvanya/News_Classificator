@@ -1,0 +1,44 @@
+Robinhood, the zero-commission brokerage platform that    is popular with millenials, has seen a surge in trading volume    as the market entered a volatile period due to the coronavirus    pandemic.
+Robintrack is a platform that uses data from    Robinhood's API to track how many of its users own a particular    stock over time.
+The compiled data is put into a charting format that    helps show the relationship between the price of a stock and    popularity with Robinhood users.
+Here are the 10 most popular stocks on Robinhood in the    month of April.
+Robinhood, the zero-commission brokerage platform that's popular  with millenials, has seen a surge in trading volume as the stock  market entered a volatile period due to the coronavirus pandemic.
+Robintrack is a platform that utilizes data from Robinhood's API  to track how many Robinhood users own a particular stock over  time.
+The compiled data is put into a charting format that helps show  the relationship between the price of a stock and its popularity  with Robinhood users.
+The data helps identify stocks where investors are either:
+Buying the dip, which is apparent when the    number of Robinhood account users owning a particular stock    surges as the stock price falls.
+Taking profits, which is apparent when the    number of Robinhood account users owning a particular stock    falls as the stock price rises.
+Going full FOMO, which is apparent when the    number of Robinhood account users owning a particular stock    rises as the stock price rises.
+Jumping ship, which is apparent when the    number of Robinhood account users owning a particular stock    falls as the stock price falls.
+The data is also helpful for contrarian investors to go against  the herd and identify popular stocks to sell short or unpopular  stocks to buy long.
+Here are the 10 most popular stocks among Robinhood users in the  month of April.
+Apple was the 10th most popular stock on Robinhood in April.
+The iPhone maker was owned by 356,304 users at the end of the  month, compared to 311,472 users in the prior month.
+The 14% jump in Robinhood accounts that own the stock was  accompanied with a 15.5% jump in Apple's stock price in April,  signaling that investors continue to add shares as the stock  price moves higher.
+Carnival was the ninth most popular stock on Robinhood in April.
+The cruise line company was owned by 406,391 users at the end of  April, compared to 186,315 users in the prior month.
+The 118% jump in Robinhood accounts that own the stock was  accompanied with a 20% jump in Carnival's stock price in April,  signaling that investors continue to ride shares of Carnival  higher following its more than 80% decline due to the coronavirus  pandemic.
+Microsoft was the eighth most popular stock on Robinhood in April.
+The software company was owned by 425,189 users at the end of  April, compared to 389,770 users in the prior month.
+The 9% jump in Robinhood accounts that own the stock was  accompanied by a 13% jump in Microsoft's stock price in April,  signaling that investors continue to add shares as the stock  moves higher.
+Delta Air  Lines was the seventh most popular stock on Robinhood in  April.
+The airline operator was owned by 426,267 users at the end of  April, compared to 194,565 users in the prior month.
+The 119% jump in Robinhood accounts that own the stock was  accompanied with a 9% decline in Delta's stock price in April,  signaling that investors are buying the dip in Delta.
+American  Air Lines was the sixth most popular stock on Robinhood in  April.
+The airline operator was owned by 446,267 users at the end of  April, compared to 222,935 users in the prior month.
+The 100% jump in Robinhood accounts that own the stock was  accompanied with a 1% decline in American's stock price in April,  signaling that investors are buying the dip in American.
+GoPro was the 5th most popular stock on Robinhood in April.
+The camera company was owned by 451,662 users at the end of  April, compared to 389,087 users in the prior month.
+The 16% jump in Robinhood accounts that own the stock was  accompanied with a 34% jump in GoPro's stock price in April,  signaling that investors are sticking with and adding to their  GoPro position as the stock rises.
+Disney was the fourth most popular stock on Robinhood in April.
+The house of mouse was owned by 509,091 users at the end of  April, compared to 416,987 users in the prior month.
+The 22% jump in Robinhood accounts that own the stock was  accompanied with a 12% increase in Disney's stock price in April,  signaling that investors continue to add shares as the stock  price moves higher.
+General  Electric was the third most popular stock on Robinhood in  April.
+The industrial conglomerate was owned by 686,309 users at the end  of April, compared to 509,417 users in the prior month.
+The 35% jump in Robinhood accounts that own the stock was  accompanied with a 14% decline in General Electric's stock price  in April, signaling that investors are buying the dip in General  Electric.
+Ford was  the second most popular stock on Robinhood in April.
+The auto manufacturer was owned by 786,210 users at the end of  April, compared to 649,147 users in the prior month.
+The 21% jump in Robinhood accounts that own the stock was  accompanied with a 5% increase in Ford's stock price in April,  signaling that investors continue to add shares as the stock  moves higher.
+Aurora  Cannabis was the most popular stock on Robinhood in April.
+The cannabis company was owned by 969,595 users at the end of  April, compared to 854,685 users in the prior month.
+The 13% jump in Robinhood accounts that own the stock was  accompanied with a 18% decline in Aurora's stock price in April,  signaling that investors are buying the dip in Aurora Cannabis.

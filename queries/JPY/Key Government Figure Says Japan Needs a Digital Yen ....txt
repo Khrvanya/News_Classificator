@@ -1,0 +1,10 @@
+In an exclusive interview with CT, a senior member of the Japanese government discusses the urgent need to implement a digital yen.
+Even amid the financial turmoil caused by the coronavirus outbreak, countries are continuing to consider the adoption of a central bank digital currency (CBDC).
+In an exclusive interview with Cointelegraph Japan, Kozo Yamamoto, Liberal Democratic Party (LDP) Member of the House of Representatives and a former official at the Ministry of Finance, argued that Japan should implement a CBDC — and fast.
+A key figure behind ‘Abenomics’, Yamamoto referred to the three traditional roles of money — as a medium of exchange, store of value, and unit of account. In his view, large corporations like Facebook should be able to issue tokens and control the "medium of exchange and store of value."
+However, the LDP member said the “unit of account” must be controlled by the government. Otherwise, Yamamoto argued, average people would forget about traditional fiat currency.
+"We must protect it (the role of a unit of account) no matter what. If Japan doesn't issue a digital currency and people in the world use other digital currencies, the Japanese yen will be forgotten and lose its sovereignty."
+Yamamoto points out that a digital yen could act as a sort of bridge currency between other digital currencies. Even if Google, Apple, Facebook and Amazon (GAFA) issue their own tokens, he says, they will be used within their own walled gardens and not have interoperability between them. He thinks CBDCs can fill that gap.
+In an interview with Reuters last month, Yamamoto said Japan should create its own digital currency, hopefully “within two to three years”. Speaking to Cointelegraph Japan, he said that the ideal time frame for such a move should be as quickly as possible.
+Yamamoto thinks it is "meaningless" if blockchain is not used for a CBDC because it can track when money is stolen, with Know Your Customer checks implemented for transactions above a certain amount of money.
+The Cointelegraph Japan interview in this article was contributed by Yoshihisa Takahashi and Hisashi Oki.

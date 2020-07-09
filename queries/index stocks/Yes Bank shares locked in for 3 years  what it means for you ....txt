@@ -1,0 +1,34 @@
+Pivot Or Perish Market Dashboard India-China Face-Off The Future Of Covid Tracker Lounge Coronavirus India2Global Emerging Tech Conclave #WFHLife Long Reads Money With Monika, Season 4 Mint 50 - Top Mutual Funds Plain Facts Mark To Market Podcasts Money With Monika, Season 3 Companies Markets Money Start-ups Mutual Funds Insurance Technology Industry Opinion Politics
+2 min read . Updated: 14 Mar 2020, 04:52 PM IST Neil Borate
+Index Funds may also see a rise in their tracking error, since they will not be able to properly replicate the Index they are tracking.
+The final reconstruction scheme for Yes Bank notified by the government on 13 March has locked in existing shareholders for a period of three years up to 75% of their shareholding.
+Only those shareholders who have less than 100 shares in the bank, can sell their entire shareholding. The move is unprecedented in India's corporate history and will affect the 16.18 lakh retail shareholders in the Bank, many of whom may own more than 100 shares depending on when they entered the stock. Even at its peak in August 2018, 100 shares in Yes Bank cost just ₹39,320. A retail shareholder is defined as those with shareholding up to ₹2 lakh. Collectively, retail shareholders own 43.66% of Yes Bank. High Net Worth Individuals, those whose shareholding is more than ₹2 lakh, own another 4.30% of the stock.
+Index Funds may also see a rise in their tracking error, since they will not be able to properly replicate the Index they are tracking. Yes Bank has a 0.21% weight in the Nifty and will exit the Index on 27 March. According to data from Rupeevest as of 29 Feb, 72 funds held around 14 crore shares in Yes Bank. The highest shareholding as a percentage of scheme assets was in DSP Equal Nifty 50 at 1.53% of assets. Yes Bank is also present in the Bank Nifty which several index funds and ETFs track. It is not present in the Sensex. "Index funds and ETFs are obliged to follow the Index. Yes Bank is part of the Nifty 50 Index and Nifty Bank Index and hence held by many index funds and ETFs. If these entities are locked in for 3 years, they will not be able to honour their own mandates." said Anil Ghelani CFA - Head of Passive Investments, DSP Mutual Fund
+For retail investors who have directly bought Yes Bank stock, some portfolio rebalancing may be due. "If you have Yes Bank in your portfolio, you may need to sell other banking stocks to maintain your sector level asset allocation, for example," said Vinit Iyer, a Pune based SEBI Registered Investment Advisor (RIA).
+Yes Bank is present in the Futures and Options (F&O) segment of the market. "People who have deployed F&O strategies such as covered call may face issues squaring off their positions," Iyer said.
+A covered call is a strategy in which you hold underlying shares of a company and simultaneously sell a call option on those shares. This strategy allows you to gain from a modest rise in the stock price, up to the strike price of the call option.
+You also gain from pocketing the premium on the call option.
+Your risk is also limited because you hold the underlying shares. However, if you are unable to sell the underlying shares and the price rises, your risk becomes unlimited and can you can face severe losses. Brokers who have taken Yes Bank shares as collateral may also demand additional collateral from clients.
+* Thank you for subscribing to our newsletter.
+Click here to read the Mint ePaperLivemint.com is now on Telegram. Join Livemint channel in your Telegram and stay updated
+You are now subscribed to our newsletters. In case you can’t find any email from our side, please check the spam folder.
+lozad('.lozad', { load: function(el) { el.src = el.dataset.src; el.onload = function() { el.classList.add('fade')}}}).observe()
+.myAccount .planSec, .myAccount a.LinkCTA{padding:16px; margin:16px; box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.1); background-color: #fff;}
+	       		var userData = data;
+	       		var name = userData.name;
+	       		var email = userData.email;
+	       		var signupSource = userData.source;
+	       		var subscribedAtOnce = userData.subscribedAtOnce;
+	       		var plan  = userData.plan;
+	       		document.getElementById('uName').innerHTML = "<strong>"+name+"</strong>" + email;
+		       		var status = planData.status;
+		       		var purchaseSource = planData.source_device;
+			       		var nextActivationDate = planData.current_term_ends_at;
+			       		var planDescription = planData.plan.description;
+			       		var planName = planData.plan.name;
+			       		var planPrice = planData.amount;
+			       		//var planInterval = planData.shipping_interval;
+			       		var planInterval = planData.duration;
+			       		var planUnit = planData.interval_unit;
+			       		//var html = "<strong>Your Subscription Plan</strong>"+planName+" ₹"+planPrice+" / "+planInterval+" " + nextBillingHtml + cancelHtml; 
+			       		var html = "<strong>Your Subscription Plan</strong> "+planDescription + " "+ planName +": ₹"+planPrice + " "+ nextBillingHtml + cancelHtml;

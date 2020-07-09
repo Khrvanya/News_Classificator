@@ -1,0 +1,14 @@
+This milestone was achieved after MakerDao accepted wBTC as a collateral asset.
+wBTC will reportedly help boost liquidity to the Ethereum and DeFi ecosystems.
+Oasis Borrow, a DeFi platform will be responsible for wBTC vault management.
+MakerDao governance, a decentralized community comprising MKR token holders that govern the Maker Protocol has voted to add bitcoin (BTC) to the Ethereum blockchain.  Reportedly, this became possible by accepting wrapped Bitcoin (wBTC) as a new collateral asset in the Maker Protocol. MakerDao unveiled this news through an official announcement on May 3.
+In the official announcement , MakerDao said,
+“WBTC will help bring greater liquidity to the Ethereum and decentralized finance (DeFi) ecosystems, and to decentralized exchanges (DEXs).”
+This launch makes wBTC (the first ERC20 token backed 1:1 by BTC) the fourth collateral type that MakerDao governance has accepted. As a result, wBTC will be used alongside ETH, BAT, and USDC to open maker vaults and generate Dai.
+As aforementioned, pulling BTC to the Ethereum blockchain will let BTC holders trade their BTC to open a vault and generate Dai through wBTC. Reportedly, this process was not easy, both technically and policy-wise.
+Oasis Borrow, a decentralized finance (DeFi) platform will handle vault management.
+Outlining the steps for this process, an Oasis Borrow post noted that BTC holders should,
+Send wBTC to a compatible wallet. These include, but not limited to Metamask, Ledger, and Trezor
+Before this news, a report unveiled that crypto experts had doubts about whether BTC will ever join the DeFi revolution. In the report, experts had several questions. These include, what tradeoffs will prove most palatable (or rather, the least unpalatable) for investors? Will one protocol or solution corner the market, or will several viable tools peacefully coexist?
+However, MakerDao’s decision to pull BTC to the Ethereum blockchain has answered all the above questions.
+Do you think wBTC will help boost liquidity in the DeFi sector? Share your thoughts in the comment section below.

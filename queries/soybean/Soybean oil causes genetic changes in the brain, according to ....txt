@@ -1,0 +1,50 @@
+Soybean oil causes genetic changes in the brain, according to research
+Used for fast food frying, added to packaged foods, and fed to livestock, soybean oil is the most widely produced and consumed edible oil in the US, according to the US Department of Agriculture (USDA).
+New University of California, Riverside (UCR) research has shown that soybean oil not only leads to obesity and diabetes, but could also affect neurological conditions like autism, Alzheimer’s disease, anxiety and depression.
+The UCR research team found in 2015 that soybean oil induces obesity, diabetes, insulin resistance, and fatty liver in mice. Then in a 2017 study , the same group learned that if soybean oil is engineered to be low in linoleic acid, it induces less obesity and insulin resistance.
+Edible fats and oils consumed in the US, 2017/18. Credit: USDA
+However, in this new study, the researchers did not find any difference between the modified and unmodified soybean oil’s effects on the brain. Specifically, the scientists found pronounced effects of the oil on the hypothalamus, where a number of critical processes take place.
+The study compared mice fed three different diets high in fat: soybean oil, soybean oil modified to be low in linoleic acid, and coconut oil.
+“The hypothalamus regulates body weight via your metabolism, maintains body temperature, is critical for reproduction and physical growth as well as your response to stress,” said Margarita Curras-Collazo, a UCR associate professor of neuroscience and lead author on the study.
+The team determined a number of genes in mice fed soybean oil were not functioning correctly. One such gene produces the ‘love’ hormone, oxytocin. In soybean oil-fed mice, levels of oxytocin in the hypothalamus went down.
+The research team discovered approximately 100 other genes also affected by the soybean oil diet. They believe this discovery could have ramifications not just for energy metabolism, but also for proper brain function and diseases such as autism or Parkinson’s disease. However, the researchers noted that there is no proof the oil causes these diseases.
+“Do not throw out your tofu, soymilk, edamame, or soy sauce,” said Frances Sladek, a UCR toxicologist and professor of cell biology. “Many soy products only contain small amounts of the oil, and large amounts of healthful compounds such as essential fatty acids and proteins.”
+The study utilised male mice, and because oxytocin is important for maternal health and promotes mother-child bonding, similar studies need to be performed using female mice, the researchers explained.
+The team also noted that they have not yet isolated which chemicals in the oil are responsible for the changes they found in the hypothalamus. However, they have stated that it is not linoleic acid, since the modified oil also produced genetic disruptions; nor is it stigmasterol, a cholesterol-like chemical found naturally in soybean oil.
+Identifying the compounds responsible for the negative effects is said to be the focus for the team’s future research.
+“This could help design healthier dietary oils in the future,” said Poonamjot Deol, an assistant project scientist in Sladek’s laboratory and first author on the study.
+“The dogma is that saturated fat is bad and unsaturated fat is good. Soybean oil is a polyunsaturated fat, but the idea that it is good for you is just not proven,” Sladek said.
+Coconut oil, which contains saturated fats, produced very few changes in the hypothalamic genes.
+“If there is one message I want people to take away, it is this: reduce consumption of soybean oil,” Deol concluded.
+Your email address will not be published. Required fields are marked *
+This site uses Akismet to reduce spam. Learn how your comment data is processed .
+New Food is published by:
+This website uses cookies to enable, optimise and analyse site operations, as well as to provide personalised content and allow you to connect to social media. By clicking "I agree" you consent to the use of cookies for non-essential functions and the related processing of personal data. You can adjust your cookie and associated data processing preferences at any time via our "Cookie Settings". Please view our Cookie Policy to learn more about the use of cookies on our website.
+This website uses cookies to improve your experience while you navigate through the website. Out of these cookies, the cookies that are categorised as "Necessary" are stored on your browser as they are as essential for the working of basic functional...
+Necessary cookies are absolutely essential for the website to function properly. This category only includes cookies that ensures basic functionalities and security features of the website. These cookies do not store any personal information.
+This cookie is set by GDPR Cookie Consent WordPress Plugin. The cookie is used to remember the user consent for the cookies under the category "Analytics".
+This cookie is set by GDPR Cookie Consent plugin. The cookie is used to store the user consent for the cookies in the category "Necessary".
+This cookie is set by GDPR Cookie Consent WordPress Plugin. The cookie is used to remember the user consent for the cookies under the category "Performance".
+This cookie is native to PHP applications. The cookie is used to store and identify a users' unique session ID for the purpose of managing user session on the website. The cookie is a session cookies and is deleted when all the browser windows are closed.
+The cookie is set by the GDPR Cookie Consent plugin and is used to store whether or not user has consented to the use of cookies. It does not store any personal data.
+This session cookie is served by our membership/subscription system and controls whether you are able to see content which is only available to logged in users.
+The cookie is set by CloudFare. The cookie is used to identify individual clients behind a shared IP address and apply security settings on a per-client basis. It does not correspond to any user ID in the web application and does not store any personally identifiable information.
+Performance cookies are includes cookies that deliver enhanced functionalities of the website, such as caching. These cookies do not store any personal information.
+This cookie is set by Cloudflare content delivery network and, in conjunction with the cookie 'cf_use_ob', is used to determine whether it should continue serving “Always Online” until the cookie expires.
+This cookie is set by Cloudflare content delivery network and is used to determine whether it should continue serving “Always Online” until the cookie expires.
+This session cookie is served by our membership/subscription system and controls which types of content you are able to access.
+This cookie is set by Litespeed Server and allows the server to store settings to help improve performance of the site.
+This cookie is set by OneSignal push notifications and is used for storing user preferences in connection with their notification permission status.
+Analytics cookies collect information about your use of the content, and in combination with previously collected information, are used to measure, understand, and report on your usage of this website.
+This cookie is set by LinkedIn. The purpose of the cookie is to enable LinkedIn functionalities on the page.
+This cookie is set by LinkedIn and is used to store the language preferences of a user to serve up content in that stored language the next time user visit the website.
+This cookie is set by LinkedIn and used for routing.
+This cookie is set by LinkedIn share Buttons and ad tags.
+We embed videos from our official Vimeo channel. When you press play, Vimeo will drop third party cookies to enable the video to play and to see how long a viewer has watched the video. This cookie does not track individuals.
+This cookie is set by Spotler and tracks an anonymous visitor ID.
+This cookie is set by Spotler and enables it to track the Load Balance Session Queue.
+This cookie is set by Spotler to track the Internet Information Services (IIS) session state.
+This cookie is set by Spotler and stores the UTM values for the session. UTM values are specific text strings that are appended to URLs that allow Communigator to track the URLs and the UTM values when they get clicked on.
+This cookie is set by Google Analytics and is used to calculate visitor, session, campaign data and keep track of site usage for the site's analytics report. It stores information anonymously and assign a randomly generated number to identify unique visitors.
+This cookies is set by Google Universal Analytics to throttle the request rate to limit the collection of data on high traffic sites.
+This cookie is set by Google Analytics and is used to store information of how visitors use a website and helps in creating an analytics report of how the website is doing. The data collected including the number visitors, the source where they have come from, and the pages visited in an anonymous form.

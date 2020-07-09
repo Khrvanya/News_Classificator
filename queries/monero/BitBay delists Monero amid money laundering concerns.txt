@@ -1,0 +1,7 @@
+Cryptocurrency exchange BitBay has announced that it will no longer support the trading of Monero (XMR) from February 19 2020.
+Monero deposits will be shut off on November 29, while holders have been asked to withdraw all their tokens from the exchange by May 20 of next year.
+The exchange has cited money laundering and anonymity fears as reasons for its decision to delist Monero, which has a market cap of $895 million.
+“Monero (XMR) can selectively utilise anonymity features among projects. The decision was made to block the possibility of money laundering and inflow from external networks,” the statement read.
+“Monero (and other cryptocurrencies with this specification) has already been delisted on other fiat-crypto exchanges for the same reason. As a licenced exchange, BitBay has to follow the market standards.
+“Compliance with market standards and regulations allows us to provide our clients with legal security and convenience of using the exchange, with the participation of a friendly banking system and the availability of payment operators.”
+BitBay is not the first exchange to delist Monero over compliance concerns. OKEx Korea made a similar decision to delist privacy coins in November, while Coinbase UK decided to drop Zcash in August.

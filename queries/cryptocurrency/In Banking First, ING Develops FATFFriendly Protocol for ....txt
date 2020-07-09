@@ -1,0 +1,23 @@
+Please consider using a different web browser for better experience.
+Please enable JavaScript in your browser for a better site experience.
+ING Bank, the Netherlands-based lender with a penchant for blockchain, has developed a protocol to assist with the Financial Action Task Force’s Travel Rule requirement for crypto exchanges and firms dealing in digital assets.
+The solution initiated by ING – currently dubbed the Travel Rule Protocol or TRP – has also been backed by Standard Chartered Bank, Fidelity Digital Assets and BitGo, plus a gaggle of other familiar firms from the crypto space.
+The FATF’s recommendation in October 2018 to include virtual asset service providers (VASPs) within the scope of its anti-money laundering mandate has spawned a raft of technical solutions and a messaging standard.
+However, this is the first time any bank has been involved in a crypto Travel Rule solution.
+“ING, as an innovation leader on blockchain/DLT, sees increasing opportunities with regard to Digital Assets on both asset-backed and native security tokens,” Hervé Francois, Blockchain Initiative Lead on Digital Assets at ING, told CoinDesk in an email. “With a regulatory first approach, we are actively involved in different working groups to support standardization of this emerging ecosystem and ultimately pioneer mass adoption.”
+The institutional focused TRP was also partly backed by the InterVASP working group which released the IVMS-101 standard , a way VASPs can agree on the format of the message payloads their solutions will transfer.
+According to a TRP document seen by CoinDesk:
+“We are proposing a collaboratively-managed infrastructure that offers VASP members a way to query for the existence of address entries. An address entry is defined by, among others, an LEI [Legal Entity Identifier] and public key information.”
+Standard Chartered and Fidelity did not return a request for comment by press time.
+A source close to ING said the bank started looking at solutions to the FATF’s “Recommendation 16” for digital assets last year.
+The plan was to “get an understanding of where the industry is going and see what the opportunities would be for banks when they can play in that space,” said the source.
+“To be clear, ING is not looking at doing anything with crypto assets and payment tokens like bitcoin,” said the source. “The focus, for now, is more on security tokens and things like that.”
+The protocol features a RESTful (Representational State Transfer) API, which is basically a way of transferring data from one place to another on the internet. Participating VASPs must be able to publish address entries; by doing so they associate an identity and data linked with that address entry, the paper says.
+“You could compare it more to SWIFT,” said the banking source, referring to the interbank messaging system that’s been in place since the 1970s. “It could be used for private purposes or be open-sourced code and be adopted by people as a way to exchange that transaction information.”
+ING is known to be highly innovative when it comes to blockchain, getting deeply involved in privacy-enhancing tech like zero-knowledge proofs . But this has always been on the enterprise side of things.
+BitGo CTO Ben Chan said via email:
+"BitGo is committed to providing clients with a single solution for travel rule compliance and will be integrating multiple protocols in order to achieve this solution. We support the TRP solution because it is open, transparent and simple, allowing us to provide a solution to clients quickly and satisfy the FinCEN Travel Rule requirements."
+Other participants in the TRP working group include Crypto Broker AG, Metaco, 21 Analytics and OSL/BC Group, according to the paper.
+Pelle Braendgaard, CEO of recently launched FATF Travel Rule solution Notabene, said his team would be supporting ING’s TRP solution.
+“Judging by the members, the protocol will probably become important,” said Braendgaard.
+The leader in blockchain news, CoinDesk is a media outlet that strives for the highest journalistic standards and abides by a strict set of editorial policies . CoinDesk is an independent operating subsidiary of Digital Currency Group, which invests in cryptocurrencies and blockchain startups.

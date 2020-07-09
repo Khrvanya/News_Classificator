@@ -1,0 +1,7 @@
+BitMEX Launched New Ethereum Futures: Traders Can Now Short ETH Without Holding It
+Home » Crypto News » BitMEX Launched New Ethereum Futures: Traders Can Now Short ETH Without Holding It
+BitMEX Launched New Ethereum Futures: Traders Can Now Short ETH Without Holding It
+Popular cryptocurrency exchange and derivatives trading platform, BitMEX , announced today that it is launching an ETHUSD Quanto futures contract on May 5, 2020. The new product will be the first of its kind in the market. The ETHUSD futures are Quanto contracts, similar to the ETHUSD perpetual swap.
+According to the exchange, the ETHUSD Quanto futures come with a fixed Bitcoin multiplier regardless of the price of Ether (ETH) in USD. This gives traders the opportunity to long or short the ETHUSD market rate without touching the pair. In other words, the contract provides exposure to ETH/USD without holding either.
+The new product also allows traders to set their leverage from 1x to 50x. Traders will post margin in XBT, and changes in the ETH/USD rate will determine whether they will earn or lose Bitcoin.
+Other important details about the contracts are: -0.025% as maker fee, 0.075% as taker fee, Base Initial Margin at 2.00% and 0.90% will be charged as Base Maintenance Margin.

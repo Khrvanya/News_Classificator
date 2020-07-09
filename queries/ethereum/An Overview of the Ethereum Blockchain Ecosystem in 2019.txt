@@ -1,0 +1,9 @@
+2019 was a great year for the blockchain ecosystem, and more so for Ethereum as it underwent major upgrades and growth.
+In this post, we look at Ethereum ecosystem and network and its growth trajectories in 2019 and why you should consider building and investing on the ecosystem.
+Here is a quick breakdown of the Ethereum ecosystem growth in 2019:
+Gods Unchained, the most popular Ethereum Dapp, creates over 6.7 million items
+Smart contracts account for 40% of all developers with applications taking the second most. However, both of these groups have lost developers over the past year. Meanwhile, Defi and infrastructure developers have both increased significantly.
+There is no doubt that the Ethereum ecosystem influenced Decentralized Finance (DeFi) in a big way in 2019. As the amount of Ether locked in DeFi increased dramatically over the course of 2019, and eventually surpassing the $650 million-mark, Ether positioned itself as the go-to collateral asset for DeFi platforms and applications.
+For example, on January 1st, 2019, Uniswap , an automated token exchange protocol on Ethereum, had a total of 31 users with just over 30 ETH in daily volume. Nearly a year later, there are now hundreds of users with thousands of ETH in daily volume.
+Synthetix , a crypto-backed DeFi platform that creates synthetic assets on the Ethereum blockchain, recognized unprecedented growth with an increase in the total value locked in Synthix from $1.6 million to over $160 million in 2019 alone.
+With the launch of the 1 million developers on Ethereum initiative in 2019 , it is likely we are going to see more development on the Ethereum platform as additional fields like DeFi, DAOs, supply chains, and more, continue to evolve.

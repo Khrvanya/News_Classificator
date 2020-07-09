@@ -1,0 +1,14 @@
+Published 23:03 on April 22, 2020  /  Last updated at 23:10 on April 22, 2020  / Americas , Asia Pacific , Bavardage , Canada , EMEA , EU ETS , International , US / No Comments
+Exchange operator ICE on Wednesday announced the launch of a new carbon market index, joining a growing number of companies seeking to track allowance prices in the world’s major greenhouse gas emissions trading systems.
+Exchange operator ICE on Wednesday announced the launch of a new carbon market index, joining a growing number of companies seeking to track allowance prices in the world’s major greenhouse gas emissions trading systems.
+The new ICE Global Carbon Futures Index is made up of prices from the three most actively traded cap-and-trade schemes in the world: the EU ETS, and the California-Quebec and RGGI markets of North America.
+“Together these markets represent some of the largest regional economies in the world, and the secondary futures market for those programs, which trade on ICE’s futures markets, make up the majority of volume in all carbon-based futures contracts,” ICE said in a statement.
+The US-headquartered company called its effort “a first step in producing an accurate, transparent global price for carbon, and one that utilises a market-based mechanism for the evaluation of that price, as we move toward the longer-term shift to a net-zero carbon economy.”
+The index provides a volume-weighted average price and measures the performance of a long-only basket of futures contracts from those three markets.  It’s calculated in US Dollars and updated throughout the day.
+ICE has also created separate indices for each of the constituent markets, with the EU market to be denominated in euros and the other two in dollars.
+This follows information provider IHS Market last year launching its own global carbon index, which it said reflected the rise in investor interest in environmental commodities.
+That tracker is also based on the EU ETS and the two main North American carbon markets.
+However, it should be noted that the cap-and-trade schemes being included in these calculations cover differing segments of their regional economies, raising questions as to the indexes’ relevance.
+For example, RGGI covers only the power sector; the EU ETS regulates emissions from utilities, industrials, and aviation; while California and Quebec’s WCI system includes power, buildings, manufacturing, and road transport.
+As well, the three markets included in these indexes all feature different rules and supply-demand dynamics, which has resulted in spot prices in RGGI being the lowest currently at around $6.15 per metric tonne, followed by California at around $15.40, and the EU at some $22.40.
+As of 2019, some 46 nations and over 30 cities, states and regions have imposed a price on carbon emissions from various portions of their economies via a tax or ETS, covering just over 20% of annual global GHG emissions, according to World Bank data.

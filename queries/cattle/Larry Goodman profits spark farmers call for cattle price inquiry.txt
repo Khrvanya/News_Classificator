@@ -1,0 +1,16 @@
+Irish Farmers’ Association president Joe Healy: it is galling “to see Larry Goodman make such huge profits . . . with an intricate web of transactions designed to avoid tax”. Photograph: Laura Hutton
+The Irish Farmers’ Association has called for an investigation into the prices being paid to farmers for cattle following a report in The Irish Times about the profits being booked by companies in Luxembourg that form part of the Goodman Group.
+“At a time when the ABP group factories have cut beef prices to ridiculous levels for farmers, it is particularly galling for beef farmers to see Larry Goodman make such huge profits and routing them through Luxembourg and Liechtenstein with an intricate web of transactions designed to avoid tax,” he said. “It smacks of greed, greed and more greed.
+“It leaves a bitter taste for beef farmers who are on incredibly low incomes, are struggling to cover their bills and who face a very uncertain future.”
+The IFA has repeatedly asked the Competition and Consumer Protection Commission (CCPC) to investigate the margins in the beef industry.
+“This amount of untaxed profits offshore must prompt a rethink at Government level and within the CCPC. They cannot continue to ignore the facts in front of them,” Mr Healy said.
+/* Any CSS that needs to be patched put here with date and jira ref.
+  @media only screen and (max-width: 767px){.span2 .soa.feature_box .feature_text:before {top: 70px;}}
+    var minWidth = 1100;
+    var shouldShow = jq('body.isArticle.anonymous')[0] != undefined;
+  	var tab = '<div class="floating_tab slideFromLeft"><a class="gtm-event" data-evt-category="/digital-subscriptions" data-evt-action="Go to StoreFront" data-evt-label="Subscribe Now: Floating Tab" href="/digital-subscriptions"><b>Subscribe Now</b></a></div>';
+ -webkit-box-shadow: 5px 0px 20px 0px rgba(81, 81, 81, 0.7); -moz-box-shadow:    5px 0px 20px 0px rgba(81, 81, 81, 0.7); box-shadow: 5px 0px 20px 0px rgba(81, 81, 81, 0.7);}
+@media only screen and (max-width: 1101px) { .floating_tab{display:none !important;} }    
+            var lazyAds = adLazyloaded;
+            var active = false;
+                                    return ad !== lazyAd;

@@ -1,0 +1,19 @@
+Bitcoin (BTC) and S&P 500 markets are "re-coupled," says a digital asset manager, which he argues brings forth a new normal for the market.
+Despite bitcoin proponents often referring to the popular digital asset as an uncorrelated asset, the discussions about whether it really is uncorrelated with other traditionally risky assets like stocks continues in full force in the cryptoverse.
+The latest correlation claim this time around came from Charles Edwards, digital asset manager at Capriole Investments, who said on Twitter on Sunday that the two markets have “re-coupled” as of June 10.
+Bitcoin & stock correlation in 2020.
+We have (sadly) "re-coupled" as of 10 June. Correlations at all time highs.
+— Charles Edwards (@caprioleio) June 21, 2020
+In addition to sharing the chart that showed the bitcoin to S&P 500 correlation at an all-time high, however, Edwards also said in a separate tweet that this represents “the new world of Bitcoin we must get used to, driven by traditional fund managers.”
+Edwards explained to his followers:
+“In the last 6 months, traditional investors have absolutely & relentlessly flooded the Bitcoin market. Get used traditional risk-on and -off moves resulting in 1-1 correlation from Bitcoin.”
+Judging from Edwards’ tweet, it appears that the fund manager is expecting the currently high correlation between stocks and bitcoin to be a new normal for the market, given the inflow of traditional investors from the stock market and into bitcoin.
+Also backing the view that bitcoin has now become fully correlated with stocks is PlanB, the pseudonymous creator of the popular bitcoin stock-to-flow price model.
+Writing on Twitter, PlanB called it a “great thing” that bitcoin is now “fully aligned with FED [the Federal Reserve System] interests,” implying that such a correlation is not necessarily a bad thing for holders of the number one cryptocurrency.
+“Don’t Fight the FED” is old Wall Street wisdom.
+Great thing that #Bitcoin is fully aligned with FED interests (QE to save banks & companies). BTC is correlated (95% R2) and cointegrated with US equities (S&P500). So BTC is not an uncorrelated asset and supported by FED actions. pic.twitter.com/xYaFLS3Wl0
+— PlanB 🔴 (@100trillionUSD) June 21, 2020
+The latest correlation claim from Edwards, however, directly contradicts other claims made in the past by the likes of crypto market analysis firm Coin Metrics, which in April said that the bitcoin to stock correlation is likely to “return to levels of near zero” unless “fundamental” changes occur in either bitcoin or the S&P 500 index.
+Following Coin Metrics’ thinking was also the popular crypto trader Luke Martin, aka Venture Coinist, who last week argued that although the two are both considered risk-on assets, they can show little-to-no correlation , and that BTC is a proof of that.
+“Bitcoin has been uncorrelated almost its entire life,” represented for example by its correlation of 0 on average to the popular S&P 500 stock index over the past 3 years, Martin argued.
+Meanwhile, at pixel time, BTC is trading at 9,513. It appreciated 1.65% in a day and 4.55% in a week.

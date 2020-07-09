@@ -1,0 +1,31 @@
+Gold prices today drop sharply, silver rates fall
+1 min read . Updated: 17 Jun 2020, 06:25 PM IST Edited By Surajit Dasgupta
+Gold and silver prices in India today fell after a big jump in the previous session. On MCX, August gold futures were down 0.95% to ₹47,114 per 10 gram after surging about ₹600 in the previous session. Tracking gold, silver also weakened today, falling 0.4% to ₹48,125 per kg, following a gain of ₹900 in the previous session. Gold traders are also keeping a close eye on India-China border tensions. Gold is used as a safe investment during times of political and financial uncertainty.
+"Gold witnessed profit booking today. There is a fear of a second wave of coronavirus infections which offset optimism around a potential COVID-19 drug and a stronger US dollar," said Jigar Trivedi, Research Analyst- Commodities Fundamental, Anand Rathi Shares & Stock Brokers.
+Spot gold was down 0.7% at $1,715.27 per ounce. Among other precious metals, platinum lost 0.9% to $813.31 while silver was up 0.3% at $17.44.
+A widely used steroid called dexamethasone has become the first drug shown to be able to save the lives of COVID-19 patients in what scientists said is a "major breakthrough" in the coronavirus pandemic. The World Health Organization (WHO) has hailed dexamethasone as a "lifesaving scientific breakthrough" to treat severely ill coronavirus patients.
+Global risk sentiment improved after the US Federal Reserve on Monday outlined its corporate bond buying program but fresh coronavirus outbreaks in some parts of the world and geopolitical tensions have offset it, say analysts. Asian stock markets were lower today and US futures declined as investors weighed encouraging signs on policy stimulus against worrying increases in coronavirus cases.
+The US dollar has strengthened today after better-than-expected US economic data. US retail sales jumped a record 17.7% in May, blowing past the 8% increase analysts expected. The US dollar index, which measures the greenback against a basket of other major currencies, was up 0.22% at 97.13. Gold prices in India are influenced by global rates as well as US dollar-rupee exchange rates.
+* Thank you for subscribing to our newsletter.
+Click here to read the Mint ePaperLivemint.com is now on Telegram. Join Livemint channel in your Telegram and stay updated
+You are now subscribed to our newsletters. In case you can’t find any email from our side, please check the spam folder.
+lozad('.lozad', { load: function(el) { el.src = el.dataset.src; el.onload = function() { el.classList.add('fade')}}}).observe()
+.myAccount .planSec, .myAccount a.LinkCTA{padding:16px; margin:16px; box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.1); background-color: #fff;}
+	       		var userData = data;
+	       		var name = userData.name;
+	       		var email = userData.email;
+	       		var signupSource = userData.source;
+	       		var subscribedAtOnce = userData.subscribedAtOnce;
+	       		var plan  = userData.plan;
+	       		document.getElementById('uName').innerHTML = "<strong>"+name+"</strong>" + email;
+		       		var status = planData.status;
+		       		var purchaseSource = planData.source_device;
+			       		var nextActivationDate = planData.current_term_ends_at;
+			       		var planDescription = planData.plan.description;
+			       		var planName = planData.plan.name;
+			       		var planPrice = planData.amount;
+			       		//var planInterval = planData.shipping_interval;
+			       		var planInterval = planData.duration;
+			       		var planUnit = planData.interval_unit;
+			       		//var html = "<strong>Your Subscription Plan</strong>"+planName+" ₹"+planPrice+" / "+planInterval+" " + nextBillingHtml + cancelHtml; 
+			       		var html = "<strong>Your Subscription Plan</strong> "+planDescription + " "+ planName +": ₹"+planPrice + " "+ nextBillingHtml + cancelHtml;

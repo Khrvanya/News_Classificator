@@ -1,0 +1,26 @@
+Over the past few weeks Grayscale Investments — a crypto fund manager — has been in the news after experiencing a record quarter.
+Per their quarterly report, the firm saw over $500 million worth of investment from mostly institutional investors over the first quarter of this year, with 99% of that sum allocated to its Bitcoin Trust (GBTC) and Ethereum Trust (ETHE).
+It’s a stunning statistic that confirms that despite the uncertainty in global markets, investors are still turning to cryptocurrency.
+This was seemingly confirmed again just recently with the below tweet from Ryan Watkins, an analyst at crypto research and data firm Messari.
+He found that if you buy shares of ETHE on the secondary market right now, you will be paying ~$970 for each Ether locked in the Trust. That’s an over 500% premium, with the cryptocurrency now trading at $190 as of the time of this article’s writing.
+Grasyscale's ETHE: Where you can now buy ETH today at its January 2018 price levels – the peak of the 2017-2018 bull market.
+520% premium is equivalent to a ~$970 ETH price. pic.twitter.com/LaYq9cCIKu
+— Ryan Watkins (@RyanWatkins_) April 27, 2020
+According to Eric Ervin , CEO of asset-management firm Blockforce Capital, the absurdly high premiums being seen on Grayscale’s Ethereum fund is a sign that “public markets want access to cryptocurrencies like ETH.”
+In other words, there’s a strong demand for Ether.
+Indeed, it’s clear looking at the data that there is a growing demand from investors to accumulate ETH.
+Commenting on the Grayscale’s quarterly report, Spencer Noon, head of crypto investments at DTC Capital, said :
+Institutional investors are buying ETH. The cat is officially out of the bag. From the Grayscale report: Ethereum Trust saw $110M in Q1 inflows This is more than all of its previous inflows combined for the past 2 years ($95.8M)
+Adding to this, hedge fund manager Su Zhu observed that earlier this month, there was presumably one large trader scooping up tens of thousands of ETH on Bitfinex, pushing the price higher.
+Large $ETH buy wall on bfx here, 200k ether filled and another 50k remaining in the order book pic.twitter.com/gK701gg6ws
+— Su Zhu (@zhusu) April 10, 2020
+And data from Santiment suggests that the number of addresses holding 0.1 Ether to 1,000 coins has been increasing at a rapid clip ever since the market crash, suggesting strong retail accumulation of the cryptocurrency.
+While it’s hard to determine what the crypto investor diaspora is feeling, there have been a series of fundamental events that may be increasing investment demand for Ethereum due to the anticipation of price appreciation.
+For one, as reported by Blockonomi previously, Ethereum 2.0 is starting to draw near after months of development and years of speculation.
+Last week saw the release of the “Topaz” testnet for Ethereum 2.0’s Phase 0 spec. Etherscan data suggests that the testnet has already seen strong adoption with around 20,000 active validator nodes.
+Analysts expect the launch of Ethereum 2.0, which is on track for late-Q2 or Q3 of this year, to have an astounding effect on the price of its cryptocurrency, with many citing how the introduction of staking through the upgrade will:
+decrease the issuance of Ether, increasing its scarcity and dropping its inflation rate
+increase retail and institutional demand for the cryptocurrency by those looking to stake, contributing to the network and earning a returning on their ETH.
+The hype around staking may actually explain much of the recent increase in demand for Ethereum.
+Furthermore, the daily value of coins transferred on Ethereum recently matched that of Bitcoin , despite the former blockchain having less than 20% of the market capitalization of the latter.
+It’s a strong sign that many have said bodes well for the future of Ether.

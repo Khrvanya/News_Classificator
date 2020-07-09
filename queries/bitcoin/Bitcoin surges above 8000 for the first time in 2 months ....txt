@@ -1,0 +1,27 @@
+Bitcoin crossed the $8,000 mark for the first time on Wednesday since March ahead of "bitcoin halving" that will take place on May 12.
+Some analysts expect the bitcoin halving to increase prices.
+"After the two previous halvings, we've seen the price reach an all-time high within 3-9 months — which would be $20,000 in this case," one analyst said.
+Bitcoin surged 11% on Wednesday and crossed $8,000 the first time since early March as analysts said a key deadline that will reduce the amount of units is helping boost prices.
+Bitcoin is currently trading around $8,625 as of 12.55 p.m ET.
+The last time it was anywhere near this level was in March, before stock markets crashed and when the impact of coronavirus began to spread.
+Analysts attributed the rise to "bitcoin halving" that takes place on 12 May.
+Danny Scott, co-founder and chief executive of CoinCorner told Markets Insider: "Coming up in 12 days is the bitcoin halving — which in short cuts the supply of bitcoins coming into circulation in half and taking it from 12.5 bitcoins every 10 minutes to 6.25 bitcoins every 10 minutes."
+"People are looking at bitcoin's history and seeing how the supply and demand vector has played out for bitcoin in the past, with the price steadily rising after a halving to new all-time highs within 18 months," he added.
+Bitcoin miners are rewarded a specific amount of bitcoins whenever a block is produced.
+Initially when bitcoin was first launched, miners could get 50 bitcoins per block.
+After 210,000 blocks are mined, the block reduces by 50% and the process continues until a block becomes worth 0 bitcoins.
+The current block reward is 12.5 coins per block, which will fall to 6.25 on May 12.
+Dr Garrick Hileman, head of research at Blockchain.com, said: "Bitcoin's price has been climbing of late alongside other traditional hard assets like gold in part due to concerns over the size of the monetary and fiscal response to COVID-19."
+He added: "Anticipation of the 12 May bitcoin mining reward 'halving,' which will cut the supply of newly mined bitcoins in half, is also likely fuelling demand. Over time, if current bitcoin demand levels are maintained then this reduction in new supply may help boost bitcoin."
+Pavel Perelomov, chief executive officer and founder of blockchain platform Twigse, said he expects bitcoin prices to reach $10,000.
+"Market factors include the beginning of the removal of quarantine in the EU and the most powerful emission of the Central Bank of the EU and the Fed. I think that if the price fixes more than $ 8,000, the next barrier will be $10,000 taking this peak will open the road to long-term growth of Bitcoin.
+Scott said: "After the two previous halvings, we've seen the price reach an all-time high within 3-9 months — which would be $20,000 in this case."
+He added: "Looking at the stock-to-flow (S2F) model which assumes scarcity drives value (supply and demand), we can hope for the $100,000 region to hit within the next 12-18 months.
+Bitcoin surged in January when the world's biggest cryptocurrency has taken on the role of an unconventional safe-haven investment as fears amounted about how traditional assets would fare when coronavirus was beginning to spread.
+Some analysts expect bitcoin to rise because of its "deflationary" appeal during a time where monetary and fiscal policies are difficult to predict.
+Alex Mashinsky, chief executive of Celsius Network, said:  "With the halvening just two weeks away, we're seeing a return to bullish sentiment among Bitcoin traders, and recent data suggest there's been an uptick in new retail investors. Plus, the unprecedented combination of fiscal and monetary stimulus is reinforcing Bitcoin's appeal as a deflationary asset."
+Read more: Goldman Sachs recommends investors buy 'quality at a reasonable price.' Here are the firm's top 10 stock picks that fit the bill.
+But not all analysts are bullish on bitcoin.
+Jon Walsh, blockchain professional at Adtech struck a more cautious note and said bitcoin has never been tested in a tough environment until date.
+Walsh said: "The general outlook for Bitcoin is strong, but despite having been in existence now for 11 years, bitcoin is yet to be tested in a recession environment."
+"This is however, the perfect environment that bitcoin was essentially built for. Over the next 18 months, we will surely see whether the daddy of all crypto can live up to its promises of hard money with a disinflationary economic schedule," he added.

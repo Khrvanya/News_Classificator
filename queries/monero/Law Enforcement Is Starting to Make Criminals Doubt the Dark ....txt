@@ -1,0 +1,11 @@
+Trend Micro reveals dwindling confidence among darknet users in marketplaces due to security concerns.
+A new study revealed that dark web marketplace users are starting to lose trust due to authorities’ crackdowns and “current volatility” within the landscape, which results in instability for the darknet sites to establish a fixed presence.
+According to cybersecurity company Trend Micro on Sunday, crackdowns on marketplaces Dream Market, Wall Street Market, Valhalla and DeepDotweb have generated uncertainty among users regarding the unstable security infrastructure that dark web sites have been providing.
+The report detailed that after March 2019, when law enforcement shut down darknet sites, sales activity experienced a considerable slowdown.
+Doubts began to increase among users about their anonymity when making transactions along with as a surge in exit scams — sites that shut down suddenly and steal money from customers — and undercover actions by the authorities within the marketplaces.
+Lack of confidence in darknet marketplaces led to the creation of a site called DarkNet Trust, which was created to verify vendors’ reputations by searching through usernames and PGP fingerprints.
+Administrators of dark web marketplaces were also forced to add new security features such as walletless markets, multisignatures on Bitcoin ( BTC ) and Monero ( XMR ) and no-JavaScript policies.
+Trend Micro explained that a walletless market is a method where payment is directly made between the buyer to the vendor, with the marketplace getting a monthly commission as opposed to transaction fees.
+The report also noted that new encrypted email services such as Sonar and Elude “suddenly” emerged as users accused Protonmail of helping law enforcement.
+Recent months have, consequently, seen increased all-around user skepticism.
+Cointelegraph reported on May 31 that a hacker stole and leaked the database of Daniel’s Hosting, the largest free web-hosting provider on the darknet and the home of several crypto-related forums and stores.

@@ -1,0 +1,17 @@
+The analysis covered 7,000 projects across 47 countries. Credit: Pixabay.
+Sign up here for GlobalData's free bi-weekly Covid-19 report on the latest information your industry needs to know.
+Solar and onshore wind energy are the cheapest sources of new-build generation for two-thirds of the global population, according to an analysis conducted by Bloomberg NEF (BNEF).
+Solar photovoltaic panels and onshore wind energy are the cheapest options for this section of the population, who live in places that comprise 71% of the world’s GDP and 85% of energy generation.
+The analysis, which covered 7,000 projects across 25 technologies and 47 countries, was based on information from real projects under construction and proprietary pricing information gathered from suppliers.
+The data revealed that the levelised costs of electricity (LCOE) – how much it costs to produce one MWh of electricity for a new project – for onshore wind and photovoltaic panels (PV) fell to 9% and 4% respectively, compared with 2019.
+Globally, prices for wind and solar energy are around $44/MWh and $50/MWh – 50% less than in 2018.
+The biggest drop in prices over the last five years was registered in onshore wind energy and is mainly due to a scale-up in average turbine size to 4.1MW and a price of $0.7m/MW.
+Brazil has the lowest cost, with prices for onshore wind energy at $24/MWh, followed by the US, India and Spain with $26/MWh, $29/MWh and $29/MWh respectively.
+For solar PV, the global LCOE is estimated to be between $23/MWh and $29/MWh, with upcoming projects in Australia, China, Chile and the UAE. In China, the solar PV benchmark has dropped by 9%, with prices $38/MWh – almost the same as coal-fired energy.
+Report lead author Tifenn Brandily commented: “There have been dramatic improvements in the cost-competitiveness of solar and wind. Part of it is due to photovoltaic and wind technology getting better at extracting renewable resources.
+“Our analysis also suggests that since 2016, auctions are forcing developers to realize cost savings by scaling up project size and portfolios. Larger scale enables them to slash balance-of-plant, operations and maintenance expenses – and have a stronger negotiating position when ordering equipment.”
+Onshore wind capacity has doubled from 32MW in 2016 to 73MW, while solar farms, with an average of 27MW capacity, are a third more powerful than 2016.
+Brandily added: “A decade ago, solar generation costs were well above $300, while onshore wind power hovered above $100 per megawatt-hour. Today the best solar projects in Chile, the Middle-East and China, or wind projects in Brazil, the US and India, can achieve less than $30 per megawatt-hour. And there are plenty of innovations in the pipeline that will drive down costs further.”
+The ongoing Covid-19 coronavirus pandemic will likely have an impact of energy costs, not only impacting fossil fuels but also renewables, researchers said.
+BNEF chief economist Seb Henbest commented: “The coronavirus will have a range of impacts on the relative cost of fossil and renewable electricity.
+“One important question is what happens to the costs of finance over the short and medium term. Another concerns commodity prices – coal and gas prices have weakened on world markets. If sustained, this could help shield fossil fuel generation for a while from the cost onslaught from renewables.”

@@ -1,0 +1,9 @@
+Ether futures will begin trading in U.S. markets in the near future.
+Cryptocurrency ether is a commodity and thus falls under the jurisdiction the Commodity Futures Trading Commission (CFTC), said the commission’s chairman Heath Tarbert at a conference in New York. Tarbert also said ether futures will begin trading in U.S. markets in the near future.
+“We’ve been very clear on bitcoin: bitcoin is a commodity. We haven’t said anything about ether — until now,” Tarbert said. “It is my view as chairman of the CFTC that ether is a commodity.”
+The CFTC issued a call for comments on the “technology, mechanics, and markets for virtual currencies beyond Bitcoin, namely Ether and its use on the Ethereum Network” in December 2018. It said it viewed bitcoin and other virtual currencies commodities in 2015, but so far it had not decided on ether.
+Tarbert said the CFTC is working with the Securities and Exchange Commission and is in agreement on how to classify bitcoin and ether. He said regulators are looking at Libra, the stablecoin project led by Facebook, but have yet to make a decision.
+Tarbert said he thought it was possible for coins created through initial coin offerings to become commodities over time.
+“You can have a situation where something in an initial coin offering is a security initially, but over time, it gets more decentralized, and there’s a tangible value there, so you can have things that change back and forth,” he said.
+In a statement on Twitter, cryptography consultant Peter Todd said Etherium was worse than a “scam” because it tended to “corrode the morals” of people associated with it. “ETH makes neutral people turn bad,” he said.
+At the same conference, Tarbert also announced that Melissa Netram was named director of the CFTC’s financial innovation initiative, LabCFTC, after previous stints at the U.S. Department of the Treasury and the Office of the Comptroller of the Currency.

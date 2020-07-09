@@ -1,0 +1,14 @@
+An Ethereum 2.0 developer call reveals that the Schlesi testnet was successful enough to hope for a more official multi-client testnet in June based on 0.12 specs.
+Work on Ethereum 2.0 is now almost entirely directed toward fixing bugs, with the team trying to synchronize all existing clients into one single version of the blockchain.
+An after-action report of the Ethereum 2.0 implementers call, held on May 14, reveals that the majority of the work is devoted to fixing code bugs and improving ways of detecting them.
+For the latter, Mehdi Zerouali of Sigma Prime reported major progress in designing “fuzzing” techniques, which feed bogus data to the program in order to find where it breaks.
+Sigma Prime analysis already helped finding several low-level bugs in Ethereum 2.0 client software and the libraries they rely upon. Specifically, the analysts found an infinite loop bug in the Teku client and a memory segmentation fault in Nimbus.
+Since clients are responsible for holding and validating the blockchain, it is important that they are fully synchronized with each other. For Ethereum 2.0, seven separate clients are under development.
+Most of them are working on optimizations for the Schlesi testnet, the first multi-client Ethereum 2.0 testnet that simulates the mainnet environment.
+The initial Schlesi network was launched with the Prysm and Lighthouse clients, developed by Prysmatic Labs and Sigma Prime, respectively. The former was already running a well-known single-client testnet, as Cointelegraph reported recently .
+Following the launch of Schlesi, PegaSys’ Teku client also joined the testnet, while Nimbus and Lodestar are achieving only limited success so far.
+Afri Schoedon, the lead on the Schlesi testnet initiative, explained on the call that the network had a tough start. Bugs prevented the first launch, and once that was fixed, transaction finality “was terrible” due to the clients crashing often.
+But Schoedon commended the client developers for their responsiveness in fixing these issues, which allowed the network to stabilize. “I think we’re all surprised how stable it is,” he added.
+Given these successes, Schoedon proposed launching a new multi-client testnet that would be even closer to mainnet specification, targeting the yet unimplemented 0.12 spec, as opposed to the current 0.11.2.
+“I would carefully target June 2020 as the launch date,” Schoedon added, though he noted that this depends strongly on the release of 0.12 clients.
+He wished for the new testnet to start with three clients at genesis, while also enabling “dry runs” of the deposit contract that bridges Ethereum 1.0 and 2.0.

@@ -1,0 +1,15 @@
+Attackers behind a new malicious campaign are using WAV audio files to hide and drop backdoors and Monero cryptominers on their targets' systems as BlackBerry Cylance threat researchers discovered.
+While various other malware peddlers were previously observed injecting payloads in JPEG or PNG image files [ 1 , 2 , 3 ] with the help of steganography, a well-known technique used to evade anti-malware detection, this is only the second time threat actors were seen abusing audio files for their malicious purposes.
+More precisely, in June, Symantec researchers spotted the Russian-backed Turla threat group (aka Waterbug or Venomous Bear) while delivering the publicly available Metasploit Meterpreter backdoor embedded within a WAV track onto their victims' compromised computers.
+Recently, Cylance found that the same steganography method was employed to infect targeted devices with XMRig Monero cryptominers or Metasploit code designed to establish a reverse shell.
+"Each WAV file was coupled with a loader component for decoding and executing malicious content secretly woven throughout the file’s audio data," says the report. "When played, some of the WAV files produced music that had no discernible quality issues or glitches. Others simply generated static (white noise)."
+The Metasploit and XMRig payloads were discovered on the same machines hinting at a campaign designed to allow its operators to use their victims' devices for cryptojacking purposes, while also establishing a command and control reverse connection.
+Cylance also found that the WAV file loaders used three different methods to decode and execute the malicious code:
+• Loaders that employ Least Significant Bit (LSB) steganography to decode and execute a PE file.
+• Loaders that employ a rand()-based decoding algorithm to decode and execute a PE file.
+• Loaders that employ rand()-based decoding algorithm to decode and execute shellcode.
+Any of the three techniques could allow the attackers to theoretically conceal payloads within any file type explain the researchers, "provided the attacker does not corrupt the structure and processing of the container format."
+Furthermore, "adopting this strategy introduces an additional layer of obfuscation because the underlying code is only revealed in memory, making detection more challenging."
+While Turla used WAV audio files and this steganography loader before to drop Metasploit backdoors in their attacks, attributing the attacks Cylance spotted to the same threat group is challenging given that any other threat actor could use similar malicious tools and TTPs.
+"Also, our analysis focuses primarily on loaders, which are an initial stage of execution used to launch additional code," Cylance says. "Different threat actors may use the same publicly available loader to execute unrelated second-stage malware."
+"The similarities between these methods and known threat actor TTPs may indicate an association or willingness to emulate adversary activity, perhaps to avoid direct attribution," concludes Cylance.

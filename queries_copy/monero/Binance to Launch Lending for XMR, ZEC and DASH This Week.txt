@@ -1,0 +1,9 @@
+Binance to Launch Lending for XMR, ZEC and DASH This Week
+After starting up Binance Lending Service in late August, Binance expands its lending products this week, with support for Monero, Zcash and Dash.
+Binance exchange will feature three new coins within the fifth phase of its crypto lending product available for subscription starting from Sept. 20.
+After initially launching its Binance Lending Service on Aug. 28, Binance will now allow users to lend assets and earn interest with three major altcoins, including privacy-focused coin Monero ( XMR ), Zcash ( ZEC ) and Dash ( DASH ).
+Fifth phase of Binance Lending Service. Source: Binance
+Similarly to the initial phase, lending products on the fifth phase on the platform will have a 14-day fixed-term lending period after subscription from Sept. 20 to Sept 21. According to the announcement, all cryptocurrencies will have the same annualized interest rate of 3.5%.
+In the initial phase, Binance’s native crypto Binance Coin ( BNB ) had the highest annualized interest rate of 15%, while the fourth phase offered 10% and 6% interest rates for BNB. The phase also offered lending for Bitcoin ( BTC ), with 3% interest rate and a total subscription cap of 2,000 BTC as well as Ether ( ETH ), Ethereum Classic ( ETC ) and stablecoin Tether ( USDT ).
+The interest calculation period for the fifth phase will be from Sept. 20 to Oct. 4, while interest payout time will take place immediately after the loan term matures, Binance noted.
+Yesterday, Binance CEO Changpeng Zhao dispelled fears that a hacker had attacked its Bitcoin futures platform, launched on Sept. 2. Earlier today, the China-founded exchange was reported to have make its first strategic investment in a Chinese firm after leaving China amid the local crypto trading ban in 2017.

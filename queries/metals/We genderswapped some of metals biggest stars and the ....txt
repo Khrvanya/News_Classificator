@@ -1,0 +1,4 @@
+FaceApp can now transform the gender of your photographs... so how will it handle a bunch of metal’s most famous faces?
+FaceApp has come a long way since the Russian photo-manipulation software first struck the nation's smartphones in 2017. Features were limited to small tweaks such as adding smiles to photos of unsmiling people, and we did exactly that on a series of classic album sleeves . Big improvement, right there.
+In 2020 the software has come along in leaps and bounds. The app, which uses neural networks (a type of artificial intelligence) to make its transformations, can now manipulate the apparent gender of a person.
+So what better way to test the software than by turning a some of metal’s biggest names into members of the opposite sex?

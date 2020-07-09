@@ -1,0 +1,6 @@
+The development of a digital yuan, or DECP, has taken a great leap forward, according to the People’s Bank of China, the nation’s central bank.
+In a statement (in Chinese) Thursday, the bank said the “processes of top-level design, setting industry standards, developing potential functions and integration testing,” were “almost complete.”
+The bank said it has been working on the expected two-tiered system that would offer  “controllable” anonymity and the functionality to replace paper cash.
+The central bank, which assembled a special task force to conduct research on digital currencies  and established the Research Institute of Digital Currency, both in 2014, accelerated its digital yuan work after Facebook unveiled its digital currency project Libra in June.
+As far as the central bank is concerned, DCEP beats Libra in terms of major technical features such as the ability to process transactions offline on mobile phones. It also claims one of the goals for the digital yuan is to promote the internationalization of the renminbi since it can be used in cross-border payments without going through banking intermediaries that charge a fee and take more time to process these transactions.
+The bank statement did not say when the work on the digital yuan was expected to be completed.

@@ -1,0 +1,9 @@
+Please consider using a different web browser for better experience.
+Please enable JavaScript in your browser for a better site experience.
+U.K.-based cryptocurrency futures trading platform Crypto Facilities is launching a litecoin (LTC) derivative product.
+According to an announcement on Wednesday, the new U.S. dollar-denominated service will go live on Friday, June 22, and will allow investors to long or short futures contracts that have litecoin as the underlying collateral, with weekly, monthly and quarterly maturities.
+Timo Schlaefer, CEO of Crypto Facilities, said the decision is a result of having received “strong client demand” for litecoin contracts. “We believe our LTC-dollar futures contracts will increase price transparency, liquidity and efficiency in the cryptocurrency markets,” he said.
+Litecoin creator Charlie Lee commented in the announcement that, by opening up litecoin trading to more institutional investors, the new product would increase the cryptocurrency’s liquidity and “make it easier for people to get in and out of litecoin.”
+The move comes just a month after the firm launched ethereum-based futures contracts and marks a new addition to several crypto-based derivative products that are already being traded on the platform, including bitcoin and XRP , the native token of the Ripple protocol.
+In an email response, Crypto Facilities told CoinDesk that the firm is expecting the trading volume of its ethereum futures contracts to reach around $150 million in this quarter, accounting for around 10 percent of the platform’s total.
+The leader in blockchain news, CoinDesk is a media outlet that strives for the highest journalistic standards and abides by a strict set of editorial policies . CoinDesk is an independent operating subsidiary of Digital Currency Group, which invests in cryptocurrencies and blockchain startups.

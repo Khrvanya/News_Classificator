@@ -1,0 +1,30 @@
+(WASHINGTON) – On Wednesday, the United States Cattlemen’s Association (USCA), National Farmers Union (NFU), and eleven other organizations sent a letter to the Senate Agriculture Committee requesting a hearing on livestock mandatory price reporting reauthorization.
+The Livestock Mandatory Reporting rule, established in 1999, mandates price reporting for cattle, boxed beef swine, and lamb. It is reauthorized every five years, with the current program expiring on September 30, 2020. This year represents an opportunity to make meaningful change to the program to increase transparency and true price discovery.
+According to a 2019 Congressional Research Service report, “A common concern among stakeholders is the low volume of negotiated purchases and a parallel trend toward increased formula purchases or other marketing arrangements.
+“Other concerns are about confidentiality and a lack of clarity on how transactions are categorized in reports, with some stakeholders advocating for the inclusion of more details about transactions, such as premium levels—especially as the market changes—and reporting on the number of livestock committed to packers.”
+USCA and others strongly urge the Senate Agriculture Committee to examine all available solutions to the current market factors depressing livestock prices and the increasing consolidation facing the U.S. cattle industry. As stated in our letter, we are running out of time to work towards a tenable reauthorization of the program. The U.S. livestock industry requires bold leadership to realign the marketplace with its fundamentals, and that starts with modernizing the Livestock Mandatory Reporting program.
+Organizations signing-on to the letter include: Independent Beef Association of North Dakota, Independent Cattlemen’s Association of Nebraska, Independent Cattlemen’s Association of Texas, Kansas Cattlemen’s Association, Marias River Livestock Association, Montana Cattlemen’s Association, Montana Farmers Union, National Farmers Union, North Dakota Farmers Union, Rocky Mountain Farmers Union, South Dakota Farmers Union, and Women Involved in Farm Economics.
+Readers like you make the Tri-State Livestock News’ work possible. Your financial contribution supports our efforts to deliver quality, relevant coverage of the livestock industry.
+Now more than ever, your support is critical to help us keep our community informed about the evolving coronavirus pandemic and the impact it is having locally. Every contribution, however large or small, will make a difference.
+Each donation will be used exclusively for the development and creation of increased news coverage.
+Start a dialogue, stay on topic and be civil.
+If you don't follow the rules , your comment may be deleted.
+						var vf_adctr = 0;
+								if (++vf_adctr > 10) { return; }
+								var vf_slot_div_id = "ad-comment-" + vf_adctr;
+						var form = this;
+						// after 1/2 second, submit the form
+					return ( currentSubscriptions || [] ).filter( elem => elem.topic_id === node.dataset.topic ).length > 0;
+					topic.classList.toggle( 'vf-follow-toggle-on', getTopicSubscriptionStatus( topic, currentSubscriptions ) );
+						var node = evt.target;
+								console.log( 'failure to unsubscribe: ' + err );
+							var promise = window.viafoura.topics.subscribe( node.dataset.topic, node.dataset.topicname, node.dataset.topictype || 'topic' );
+								console.log( 'failure to subscribe: ' + err );
+					const vfUUID = document.querySelector('meta[name="vf:uuid"]').content,
+					      if (response.status !== 200) return;
+/* <![CDATA[ */ var tribe_l10n_datatables = {"aria":{"sort_ascending":": activate to sort column ascending","sort_descending":": activate to sort column descending"},"length_menu":"Show _MENU_ entries","empty_table":"No data available in table","info":"Showing _START_ to _END_ of _TOTAL_ entries","info_empty":"Showing 0 to 0 of 0 entries","info_filtered":"(filtered from _MAX_ total entries)","zero_records":"No matching records found","search":"Search:","all_selected_text":"All items on this page were selected. ","select_all_link":"Select all pages","clear_selection":"Clear Selection.","pagination":{"all":"All","next":"Next","previous":"Previous"},"select":{"rows":{"0":"","_":": Selected %d rows","1":": Selected 1 row"}},"datepicker":{"dayNames":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"dayNamesShort":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"],"dayNamesMin":["S","M","T","W","T","F","S"],"monthNames":["January","February","March","April","May","June","July","August","September","October","November","December"],"monthNamesShort":["January","February","March","April","May","June","July","August","September","October","November","December"],"monthNamesMin":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"nextText":"Next","prevText":"Prev","currentText":"Today","closeText":"Done","today":"Today","clear":"Clear"}}; /* ]]> */
+/* <![CDATA[ */ var pollsL10n = {"ajax_url":"https:\/\/www.tsln.com\/wp-admin\/admin-ajax.php","text_wait":"Your last request is still being processed. Please wait a while ...","text_valid":"Please choose a valid poll answer.","text_multiple":"Maximum number of choices allowed: ","show_loading":"1","show_fading":"1"}; /* ]]> */
+      var emailRegex = /([a-zA-Z0-9_\.-]+)@([\da-zA-Z\.-]+)\.([a-zA-Z\.]{2,6})/i;
+      var cleanPageLocation = currLocation.replace(emailRegex, "");
+	        _sf_async_config.uid = 57640; _sf_async_config.domain = 'swiftcom.com'; _sf_async_config.useCanonical = true; _sf_async_config.useCanonicalDomain = true;
+	          var oldonload = window.onload;

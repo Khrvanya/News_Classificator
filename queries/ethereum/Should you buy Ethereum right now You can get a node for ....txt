@@ -1,0 +1,32 @@
+Should you buy Ethereum right now? You can get a node for cheap
+Ethereum has tanked hard in the past week. Now’s your chance to scoop up a node for cheap while you still can.
+Last week Ethereum looked like it OWNED the future. There were all those lovely rumors about CME opening up Eth futures, which was seen as a bullish sign even though the introduction of Bitcoin futures happened coincided with the market crashing.
+Speaking of crashing, over the past week Ethereum has lost 26% in value and is now trading at its lowest price since May.
+ETH is the altcoin most correlated with Bitcoin, so the price plunge is probably to do with the conga-line of officials and the president taking aim at Bitcoin this week.
+Let’s be honest though, the real reason the shine has come off Ethereum is that doubts have set in.
+It has a low transaction rate, businesses find it difficult to use for commerce, and apps have failed to attract users.
+The ETH price has fallen from around half Bitcoin’s market cap in January 2018 to about 12% today.
+The good news for you, dear reader, is that you can now buy an Ethereum node for three-quarters of the price of a week ago.
+If you were clever you could have scooped up ETH for $190 for a brief period yesterday, but it is currently trading around $230.
+That still makes buying an Ethereum validating node a much more viable option than it was last week.
+As David Hoffman, the chief of operations at tokenized real estate platform RealT points out:
+“ETH for a validating Ethereum node, providing 5-12% more ETH yearly, costs $7,500 right now.
+There can only be a maximum of ~3.5M distinct validators in our lifetimes. Make sure you’re one of them.”
+32 ETH for a validating Ethereum node, providing 5-12% more ETH yearly, costs $7,500 right now.
+There can only be a maximum of ~3.5M distinct validators in our lifetimes.
+Make sure you're one of them.
+— David Hoffman (@TrustlessState) July 14, 2019
+What the hell is a validating Ethereum node?
+You’re probably wondering: what the hell is a validating Ethereum node?
+Let’s back up a step: Ethereum is gambling on an ambitious roadmap with an unproven technology that may never work.
+If it does manage to solve its scalability and performance issues by moving to Proof of Stake and sharding, it could leave Bitcoin in the shade.
+The whole thing is highly experimental and either the technology or the tokenomics could fail miserably.
+And when – or perhaps IF – the Ethereum 2.0 Serenity update comes through it will usher in a new consensus model requiring validator nodes.
+The ‘beacon chain’ will be at its core and it will store and manage the registry of validators. The only way to become a validator is to stake 32 ETH on Ethereum 1.0.
+As a validator, your computer will attest to correct blocks, approve block validity, and propose blocks.
+In return, you’ll get lots of lovely ETH from the transaction fees and a network-wide interest rate.
+Should I buy 32 Eth right now?
+Is it a good deal? Who the hell knows? Like everything in the wonderful world of blockchain, it could either be a marvelous opportunity or the equivalent of setting fire to your money and tweeting how brilliant you are, depending on how it all works out.
+Be warned though: If it does work out we’re totally going to claim we predicted it.
+Micky is a news site and does not provide trading, investing, or other financial advice. By using this website, you affirm that you have read and agree to abide by our Terms and Conditions .
+Micky readers - you can get a 10% discount on trading fees on FTX and Binance when you sign up using the links above.

@@ -1,0 +1,9 @@
+The open-source Baseline Protocol allowing private systems to be built on the public Ethereum blockchain has been made publicly available on GitHub.
+The open-source Baseline Protocol code allowing private systems to be built on the Ethereum public blockchain has now been published to GitHub, as of March 19. This means that the EY, Microsoft and ConsenSys-developed protocol is available to the public.
+With transactions on the Ethereum blockchain being public and available for all to see, businesses requiring data privacy have tended to deploy their own private blockchain or an enterprise version of Ethereum.
+However, using zero-knowledge proofs, off-chain data storage, and distributed identity systems, the Baseline Protocol allows businesses to utilize the public Ethereum chain while keeping sensitive data private. According to ConsenSys :
+“The protocol will support tokenization and decentralized financial services on the Mainnet in a way that doesn’t reveal corporate assets or activities to unauthorized parties, and it leaves enterprise data safely in traditional systems.”
+Announcements regarding the protocol have so far mainly focused on product procurement. Purchase orders can be tokenized and dealt with through smart contracts, while a demo included with the code performs real-time calculation of bulk discounts on purchases.
+However, according to the documentation supplied on GitHub, it is flexible enough to be used for other business activities, and has been, “designed such that it can be extended and applied to any database/workflow.”
+As Cointelegraph reported , the Baseline Protocol code was launched and released to selected parties by invitation at the start of the month. The code has now been donated to the public domain through non-profit standards organization OASIS.
+The work will be governed by the Ethereum-Oasis project, which is managed by OASIS and funded by the Ethereum Foundation and the Enterprise Ethereum Alliance.

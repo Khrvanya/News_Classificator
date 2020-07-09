@@ -1,0 +1,30 @@
+LONDON (Reuters) - More than five years since global foreign exchange (FX) trading was tainted by a rigging scandal, a handful of banks are more dominant than ever and show no sign of weakening their grip on the $5.1 trillion (4.1 trillion pounds)-a-day electronic market.
+FILE PHOTO: A board displaying buying and selling rates is seen outside of a currency exchange outlet in London, Britain, July 31, 2019. REUTERS/Toby Melville/File Photo
+But below the radar a new breed of start-ups is seeking to break their hegemony by pursuing the smaller but higher-margin customer-facing FX business used by asset managers, pension funds and insurance companies.
+Data analytics firm Coalition estimates the bulk of daily flows are between banks and the majority are likely to remain with the big lenders, notably Citi, JPMorgan, Bank of America Merrill Lynch, HSBC and UBS who together hold almost 45% of worldwide FX trading, up from around 35% in 2012.
+The upstarts say banks can read trading patterns to obtain higher prices from asset managers, who should instead save millions of dollars a year, as much as 50% in FX trading costs, by trading directly with each other.
+The cost of trading depends on size, currency, liquidity and the time of day. For a $25 million transaction in euro/dollar, a mid-sized asset manager can pay a spread of 1 to 2 “pips” for trading via a large bank, which equates to $5,000.
+Banks, who often use FX trading to win more lucrative business such as structured products, hedging solutions and treasury services, say that their dominance and creditworthiness allow them to offer clients the best prices in the safest way.
+“We can also match more liquidity internally, allowing us to secure better pricing for clients than if we always had to go out to the market as those smaller companies have to,” said  Richard Anthony, HSBC’s Global Head of FX eRisk.
+Nevertheless, there are now 80 or more venues trading FX, with one or two launching each year, Marketfactory, a firm that offers clients an interface to trade on them, says.
+This is largely because technology costs, previously a major barrier to entry, have dropped, with the Bank of International Settlements estimating that developing a trading platform costs $5-$10 million, versus $100-$150 million in the early 2000s.
+One preparing to go live this year is New York-based FX HedgePool whose founder Jay Moore said banks include costs such as credit and market risk transfer, capital, technology, platform fees and staff salaries in their quotes.
+“We seek to significantly reduce these costs by allowing institutions to source liquidity from each other,” said Moore, who will face competition from platforms like London-based 24 Exchange, which began operating in August.
+Investors betting on currencies or hedging stock and bond exposure do so mostly on bank platforms, where they choose from continuously streamed quotes.
+Alternatively, they use multi-dealer platforms such as those from Refinitiv or CME, where banks compete on price.
+Although a breakdown of bank market shares for serving buy-side customers is not easily available, in London, the world’s biggest forex trading hub, six dealers accounted for 74% of all spot transactions in October 2018, Bank of England data shows.
+And in New York four dealers corner three-quarters of spot trading, New York Federal Reserve data shows.
+The start-ups argue that while transaction “spreads” on currency trading have plummeted in recent years, investors often pay significantly for “market impact”, the degree to which large, staggered orders can skew market pricing.
+Claude Goulet, CEO of London-based Siege FX, another start-up set to launch in 2019, says his analysis shows the costs associated with market impact for a recent large euro/dollar transaction totalled 2.5 times the cost of the spread paid.
+Siege is building a matching system to check when one asset manager’s currency needs can be “netted” against another’s, which would eliminate the need to trade through banks.
+Goulet reckons large investors netting 20% of their forex flows through Siege would save millions of dollars a year.
+“If you are systematically trading with the same banks you can assume the bank knows what you are doing,” he said. “That doesn’t correspond with reducing your footprint.”
+The biggest challenges facing FX start ups are settlement risk and operational differences, where an asset manager’s system is not compatible in matters such as legal documentation.
+Because FX is traded bilaterally “over-the-counter” rather than on exchanges, there is a credit exposure for two days after the trade is executed before funds are exchanged.
+While this is not a concern for a major fund manager trading with a big bank as its counterparty, it puts them off dealing with start ups, said David Mercer, CEO of LMAX Exchange said.
+“The large banks still dominate FX trading for this reason (operational issues such as legal documentation). That might change in the next 10 years but for now, the new providers are very much niche providers,” Ugo Lancioni, managing director of currency management at Neuberger Berman, said.
+None of the half a dozen funds canvassed by Reuters appeared concerned yet about market concentration, saying they were open to trading with start ups but the credit issue needed solving.
+If anything, the squeeze on forex trading profitability since the 2008 financial crisis has made it difficult for smaller banks to compete with the giants on price.
+Andreas Anschperger, European head of FX trading at Allianz Global Investors said he had not observed an adverse impact. His company has opted to receive FX quotes from 10-15 banks, down from as many as 20 some years ago.
+“(The big banks) have the ability to support us, we can select a full suite of services,” he told Reuters.
+Reporting by Saikat Chatterjee and Tommy Wilkes; Editing by Sujata Rao and Alexander Smith

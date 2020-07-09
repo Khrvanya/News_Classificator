@@ -1,0 +1,18 @@
+Analysis of on-chain activity shows a “bullish reaccumulation,” says Willy Woo, as Bitcoin’s 200 week moving average stays positive.
+Bitcoin ( BTC ) never saw a bear market in 2019 — and the evidence is easy to find on the blockchain, according to some prominent figures.
+Data covering various metrics shows that despite recent price volatility, Bitcoin has held strong throughout its eleventh anniversary year.
+Investors echo that resolve — as the numbers confirm, so-called “hodlers” are more attached to their stash than ever before.
+BTC/USD has dipped significantly several times since September. The pair’s rapid rise and fall triggered predictable warnings from critics and concerns from traders.
+Zoom out, however, and the picture changes completely. As noted by PlanB , creator of the Bitcoin price forecasting tool Stock-to-Flow, Bitcoin’s 200-week moving average (200WMA) has never gone down.
+Uploading a chart to Twitter on Dec. 28, the analyst revealed that short-term price action has failed to turn the 200WMA negative at any point in Bitcoin’s existence. Current growth is 3% per month, or around $150, he added.
+Bitcoin price versus Bitcoin price 200WMA. Source: PlanB, Twitter
+Bitcoin’s recent trip to $6,400 has also failed to convince statistician Willy Woo that conditions are worse than they should be.
+In a tweet on Saturday, Woo likewise took recent events within the context of Bitcoin’s entire history. According to him, that places price movements now in an accumulation bracket, and not a bear market. He summarized:
+“Are we in a $BTC bear market? No, we are in the re-accumulation phase of a bull market.”
+Bitcoin investor activity in various price phases. Source: Willy Woo, Woobull.com, Twitter
+Woo also shed light on Bitcoin’s December 2018 lows of $3,100. That phase, which some have since compared to this month, was the result of “inorganic” behavior:
+“In 2018 $6k was held with buy walls inorganically, smart money exited, the walls were let go and we overshot to the low side.”
+As Cointelegraph previously reported , trends in investor behavior began changing even before Bitcoin’s April 2019 bull run took hold. Despite a run-up from $3,100 to almost $14,000, very little of the available BTC supply actually left the wallet it was in over that period.
+As entrepreneur Alistair Milne noted over the weekend, 70% of the supply has remained static over the past six months.
+The behavior, he says, mimics that leading up to Bitcoin’s previous block reward halving in 2016. Then, as with the next halving in May 2020, the event was considered a potential catalyst for Bitcoin price.
+The impact of the halving was felt only a year later, however, and opinions are mixed as to its potential market moving power this time around.

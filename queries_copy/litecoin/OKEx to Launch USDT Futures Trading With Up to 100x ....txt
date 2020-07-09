@@ -1,0 +1,13 @@
+The world’s 5th largest crypto exchange OKEx is planning to launch Tether futures trading, offering a linear futures contract with leverage of up to 100x.
+The world’s 5th largest crypto exchange OKEx is planning to launch Tether ( USDT ) futures trading, offering a linear futures contract with leverage of up to 100x.
+According to a press release shared with Cointelegraph on Oct. 29, the contract will have daily settlement and offers supported pairs with Bitcoin (BTC), EOS, Ether (ETH), Litecoin (LTC), Bitcoin Cash (BCH), XRP, Ethereum Classic (ETC), Bitcoin SV (BSV) and Tron (TRX).
+OKEx argues that offering stablecoin-based derivatives contracts will offer a simpler and more efficient means for traders to navigate the market and calculate risks.
+A USDT-based derivative, in particular, will purportedly reduce the hassle of needing to switch between cryptocurrencies for those who book their profits and losses in USD value.
+Lennix Lai, Financial Market Director at OKEx, has indicated that the exchange platform could roll out further USD-based stablecoin derivatives to provide similar, simplified hedging instruments.
+Lai also pointed to the reasons behind the exchange’s choice to offer linear — rather than inverse — futures contracts for USDT:
+“Most of the time, users are not willing to hold altcoins as margin, and they also see inverse contracts itself are complicated to understand. We see this linear contract would be an open door to many new retail traders.”
+USDT Futures Contracts will be launched on Nov. 14, and simulation will start on Nov. 5. USDT Perpetual Swap will be launched on Dec. 9, and simulation will start on Nov. 30.
+For USDT futures, the contracts will have a fixed delivery date, with the price set at the mean value of the index at the hour preceding delivery. OKEx has indicated that it will use a mark price to calculate users’ unrealized Profits and Losses (PnL) to mitigate unnecessary liquidation in volatile market conditions.
+A daily settlement process will move unrealized PnL into realized PnL to ensure higher flexibility of capital utilization. The platform is also offering hedging tools such as insurance to assist traders.
+OKEx had confirmed its intentions to launch USDT futures in late September — the same day as the exchange was once again prompted to refute fresh allegations of manipulative practices such as wash trading on its platform.
+Earlier this month, Binance’s newly-launched Bitcoin futures product was an outlier in the crypto spot and derivatives markets, hitting a $700 million record as other platforms saw lackluster activity.

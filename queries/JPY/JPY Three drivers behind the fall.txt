@@ -1,0 +1,14 @@
+USD/JPY has just hit the 112.00 mark, moving towards levels last seen in December 2018. Along with a generalised strong-dollar environment, the yen has been the target of markets selling interest in the last few days, triggered by three main drivers.
+Firstly, fears around the Covid-19 virus seem to have partly eased. Figure 1 shows the number of globally confirmed cases and deaths, which seem to have decreased their rate of growth, or if anything, have not accelerated further.
+Figure 1 - Is Covid-19 spread slowing?
+The feeling is that markets are shifting their worries from the short-term (i.e. an escalation of the outbreak to a fully-fledged pandemic) to the longer-term (i.e. the economic slowdown in China). This is likely why the two key China proxy-currencies, both AUD and NZD have fallen along with the yen.
+All three countries - Japan, Australia and New Zealand have high exposure to the Chinese economy, and as markets price out the immediate risks, they are pricing in the impact on these economies of a slowdown in Chinese activity.
+In contrast, the higher beta, commodity exposed CAD and NOK outperformed the three G10 Asian currencies. Particularly for NOK, such outperformance during risk-off days has not previously been the case, with the krone being one of the worst-hit in days like these.
+The impact of the virus is related to the second driver of JPY underperformance, which is the quickly deteriorating Japanese economic outlook.
+Latest data – as highlighted by our Asia n economist – showed a worse than expected -6.3% QoQ slump in GDP for 4Q19. Covid-19 is likely to weigh heavily on 1Q20 growth numbers, and at this point, a recession seems all but inevitable. We forecast full-year GDP growth for 2020 at -1.1%.
+Accordingly, markets are starting to speculate about the Bank of Japan's actions in terms of monetary stimulus, which is contributing to an even less attractive rate environment for the yen. We find it hard to foresee any policy response by the short-handed (in monetary ammunition terms) BoJ, but for now, the market dovish sentiment seems to be on the rise.
+Weekly data on foreign buying of bonds by Japanese investors suggest such a process may have started, as shown in Figure 2.
+With yields in Japan remaining highly unattractive it would not be surprising to see Japanese funds turning to higher-yielding options, and such a shift would prompt those funds to sell JPY and buy foreign currencies.
+The FX markets are inevitably sensing these dynamics, thus contributing to the yen decline.
+The question that comes naturally is whether this move in USD/JPY is sustainable. Our short-term financial fair value model highlights how the pair has moved into overvalued territory, breaking above the 1.5 s.d. band (Figure 3).
+This suggests the move may be somewhat overdone at this point and possibly makes a case for some stabilisation.

@@ -1,0 +1,25 @@
+Please consider using a different web browser for better experience.
+Please enable JavaScript in your browser for a better site experience.
+Bitcoin has plunged to two-month lows since Sunday, possibly due to an over-$100 million liquidation by PlusToken scammers, analysts say.
+The top cryptocurrency fell by nearly 10 percent from $8,900 to $8,000 on Sunday to register its single-biggest daily decline since September 2019, according to Bitstamp data. Then on Monday, bitcoin (BTC) slipped further to two-month lows below $7,700 during the Asian trading hours.
+At press time, the cryptocurrency’s global average price, as calculated by CoinDesk’s Bitcoin Price Index , has recovered somewhat to $7,925.
+While the sudden price drop has taken place alongside a bloody day in the traditional markets , there may be another factor driving down bitcoin’s value so severely.
+“The sudden drop in prices seems to arise out of the selling of BTC by PlusToken,” Ashish Singhal, CEO of the cryptocurrency exchange CoinSwitch.co told CoinDesk.
+On Saturday, scammers in control of the remaining wallets of the China-based Ponzi scheme moved 13,000 BTC (worth around $101 million currently, but close to $120 million at the time) to so-called “mixers” and may have offloaded their holdings, causing prices to fall sharply, according to Singhal. Mixers are used to obfuscate the source of a crypto transaction by outputting batches with different coins than are sent in.
+PlusToken had posed as a cryptocurrency wallet and swindled investors out of possibly as much as $2 billion in cryptocurrency by promising rewards. While six of its masterminds were arrested in June 2019, the authorities could not seize 180,000 BTC, 6,400,000 ether (ETH) and 111,000 tether (USDT), which were sent from scam victims to PlusToken wallets, according to Chainalysis .
+Trader Kevin Svenson has also associated the latest price drop with PlusToken holdings being dumped into the market.
+People in control of the PlusToken wallets have been liquidating their stolen bitcoins since August and likely played a big role in pushing bitcoin down from $12,000 to $6,500 in the four months to November. as noted by Ergo Research at the time.
+Back in December, the scammers still controlled 20,000 bitcoins, of which, 13,000 look to have been moved for liquidation over the weekend.
+The onchain activity on Saturday was again noted by Ergo Research:
+Some, of course, may argue that moving coins to mixers does not necessarily result in liquidation and the sell-off seen from Sunday was caused by the coronavirus-led crash in the global financial markets.
+Indeed, negative global macro factors – such as the equity market sell-off and record low in the U.S. government bond yield – may have also played a role in pushing bitcoin lower, as noted by popular analyst Jacob Canfield.
+Still, a major PlusToken liquidation could well have weighed heavy over bitcoin’s price if it did occur. The cryptocurrency was trading steadily above $9,000 on Saturday as the scammed coins were being moved to mixers and fell sharply the following day. Further, traditional markets were closed over the weekend.
+Canfield too listed a PlusToken dump as one of the factors possibly responsible for bitcoin’s price drop.
+So how did bitcoin’s price drop look from a technical perspective?
+“Bitcoin needed higher prices on the 4-hour chart to get itself into a neutral stance between $9,200-$9,600,” popular Twitter analyst Mr. Anderson told CoinDesk.
+“Once that battle was lost it left the 12-hour chart in an ugly position as well and things snowballed quickly,” Anderson said.
+In the aftermath, the head-and-shoulders breakdown, a bearish reversal pattern, seen on the daily chart suggests the rally from December lows near $6,400 has ended and the bears have regained control.
+The bias will remain bearish as long as prices are holding below the former support-turned-resistance of the neckline, currently placed at $8,450.
+A bullish reversal now requires a convincing UTC close above the March 7 high of $9,213. That would invalidate the lower-highs setup.
+Disclosure: The author holds no cryptocurrency at the time of writing.
+The leader in blockchain news, CoinDesk is a media outlet that strives for the highest journalistic standards and abides by a strict set of editorial policies . CoinDesk is an independent operating subsidiary of Digital Currency Group, which invests in cryptocurrencies and blockchain startups.

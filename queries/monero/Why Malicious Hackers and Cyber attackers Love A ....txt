@@ -1,0 +1,2 @@
+The main feature of Monero called Ring Signatures used in the network’s CryptoNote protocol mixes the spender’s input with a group of others. This makes it extremely difficult to create a connection between each subsequent transaction data.
+In the last few years, the ransomware boom seemed to have slowed down. Over the past 24 months, newer tactics in hacking have resulted in a resurgence crypto-jacking. Hacking groups have come up with new innovative tools to launch attacks and breaches in order to make more Monero currency.

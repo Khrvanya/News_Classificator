@@ -1,0 +1,5 @@
+This article depicts the best performing decile of S&P 500 stocks during the rebound for markets in the second quarter of 2020.
+The first quarter and second quarter both featured rapid sell-offs and rallies that were unprecedented outside of the Great Depression.
+By reviewing the tails of the return distribution, I believe we can glean insights that can inform future portfolio positioning.
+For those who see more volatility ahead, identifying stocks that did well in the different market environments could help investors form baskets of stocks for different envrionments.
+In the second quarter of 2020, the S&P 500 ( SPY ) produced its best quarterly return (+20.5%) since the fourth quarter of 1998, during the inflation of the tech bubble. Of course, this performance

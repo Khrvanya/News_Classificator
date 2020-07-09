@@ -1,0 +1,13 @@
+Please consider using a different web browser for better experience.
+Please enable JavaScript in your browser for a better site experience.
+Wilshire Phoenix, an asset manager which tried to launch a bitcoin exchange-traded fund (ETF) last year, has filed to launch a new Bitcoin Commodity Trust.
+According to a Securities and Exchange Commission (SEC) filing published Friday, the New York-based Wilshire Phoenix intends to offer bitcoin to certain investors through the new trust. While the filing suggests a maximum of 80,000 shares could be offered, a spokesperson said the total number of shares is yet to be determined and the figure only represents a number aimed to help calculate fees.
+“The Shares will provide investors with exposure to bitcoin in a manner that is accessible and cost-efficient without the uncertain and often complex requirements relating to acquiring or holding bitcoin,” the filing said.
+The trust may be looking to compete with Grayscale Investments’ $3.6 billion bitcoin trust, which the company launched in 2013. Grayscale (a subsidiary of Digital Currency Group, CoinDesk’s parent firm) filed to turn its bitcoin trust into an SEC reporting company last year (the move was approved earlier this year).
+According to the Wilshire Phoenix filing, Fidelity Digital Asset Services will serve as the trust’s bitcoin custodian, while UMB Bank will serve as the cash custodian.
+While the cash holdings will have FDIC insurance, the bitcoin held will only be insured against theft in excess of $100 million, according to the filing.
+The trust’s value will be calculated each business day at 4:00 p.m. Eastern time by its administrator, according to the document. The value will be derived by just multiplying bitcoin’s price (based on CME’s bitcoin index ) at that time with the number of coins held.
+Wilshire is perhaps best known in the crypto space for trying to launch a bitcoin ETF, hoping to succeed where several other companies have not. The SEC rejected the proposal earlier this year. The idea behind a crypto ETF is it could make bitcoin more accessible to a broader range of investors who might not be comfortable investing directly in bitcoin.
+A spokesperson for Wilshire Phoenix did not immediately return a request for comment.
+Update (June 1,4 2020, 22:40 UTC): This article has been updated to clarify the the proposed maximum offering.
+The leader in blockchain news, CoinDesk is a media outlet that strives for the highest journalistic standards and abides by a strict set of editorial policies . CoinDesk is an independent operating subsidiary of Digital Currency Group, which invests in cryptocurrencies and blockchain startups.

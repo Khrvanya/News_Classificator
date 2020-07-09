@@ -1,0 +1,21 @@
+Litcoin has long been considered Bitcoin’s little brother.
+FUD has been rife since Charlie Lee sold his LTC holdings.
+Last year, news broke that Litecoin did not have developers.
+MimbleWimble was officially proposed in early 2019 with a Testnet version expected in Q3 this year.
+Implementation of MimbleWimble on the Litecoin network might be the Hail Mary pass needed to boost confidence in the project and coin.
+In the heat of the 2017 Crypto Market bull-run, many traders were quick to liken Litecoin (LTC) to being Bitcoin’s little brother. One of the reasons behind this was the fact that LTC price movement mirrored BTC in terms of gains. As Bitcoin peaked at $20,000 that year, LTC would also experience its All-Time-High value of $420 around the same time. Additionally, Litecoin’s founder, Charlie Lee, has always maintained that Litecoin was created to complement Bitcoin.
+However, over the years, the Litecoin project has faced a lot of FUD (Fear, Uncertainty, and Doubt) due to the following events:
+Charlie Lee selling all his holdings immediately after LTC’s all-time high value in December of 2017.
+News in August last year indicating there has been no development for 9 months on the Litecoin project. (Charlie Lee would respond to this via this twitter thread .)
+LTC failing to exceed its ATH value before last year’s halving. (Perhaps this was a warning sign to Bitcoin.)
+However, LTC has weathered the aforementioned FUD and plans to implement confidential transactions on the Litecoin network through MimbleWimble by the end of the year. The idea of adding confidential transactions for Litecoin was first made public by Charlie Lee through the following tweet last year.
+Fungibility is the only property of sound money that is missing from Bitcoin & Litecoin. Now that the scaling debate is behind us, the next battleground will be on fungibility and privacy.
+I am now focused on making Litecoin more fungible by adding Confidential Transactions. 🚀
+— Charlie Lee [LTC⚡] (@SatoshiLite) January 28, 2019
+Confidential transactions obfuscate the amounts being transacted over the network but not where the coins are being sent. In a progress update on LitecoinTalk , a key developer hinted at Confidential transactions being available via a Testnet as early as the end of the Summer of this year. He stated:
+End of Summer: MW Testnet Launch – This will include all block & tx validation rules, basic p2p messaging, transaction pool, syncing, and the ability to mine blocks. This will NOT include a usable GUI wallet for casual users to test it out. Transactions will likely need to be created manually at first, or via a cli or automated tool.
+When MimbleWimble is finally implemented on the Litecoin network, confidential transactions will be an extra reason for frequent users of cryptocurrencies to use LTC for their day to day transactions. Benefits of Confidential transactions include and are not limited to:
+Privacy that comes with transaction amount not being visible on the blockchain.
+Added security for users of LTC.
+Although Confidential transactions do not provide 100% privacy, they will drive up demand for the LTC and possibly its value in the markets. Litecoin will once again be great in the crypto-verse.
+Disclaimer: This article is not meant to give financial advice. Any additional opinion herein is purely the author’s and does not represent the opinion of EWN or any of its other writers. Please carry out your own research before investing in any of the numerous cryptocurrencies available. Thank you.

@@ -1,0 +1,12 @@
+Please consider using a different web browser for better experience.
+Please enable JavaScript in your browser for a better site experience.
+The Financial Conduct Authority (FCA) has told crypto businesses it will need half a year to fully process applications before the hard deadline in January.
+The U.K.’s chief financial regulator announced Monday that any company carrying out “cryptoasset activity in the U.K.” must have submitted their completed applications – outlining how they aim to follow new money-laundering requirements – to the watchdog by June 30.  Although the hard deadline for applications is Jan. 10, 2021, the regulator says it wants more than six months to go through firms’ submissions.
+“The 30 June date allows the FCA to review submitted applications and raise any follow-up questions with firms, with enough time for that process to be completed before 10 January 2021,” the FCA said.
+Businesses that haven’t successfully registered with the FCA by Jan. 10, 2021, will have to cease all activity in the U.K.
+The FCA first told firms they would need to register in January; soon after, the U.K. transposed FATF’s “Travel Rule” recommendation into national law, which made the regulator responsible for ensuring all crypto businesses follow the new anti-money laundering (AML) and counter-terrorist financing (CTF) requirements.
+The FCA brought in guidance for cryptocurrencies last year, where it highlighted what types of tokens currently fall under its jurisdiction. In 2018, it started welcoming crypto startups into its regulatory sandbox, an initiative that allows businesses to set up and test new products and services with temporary and provisory authorization from the regulator.
+See also: UK Financial Service Provider to Coinbase, Bitstamp Awarded FCA Payments License
+The FCA also appointed its new chief executive, Nikhil Rathi, on Monday. Formerly a director at the London Stock Exchange, he had previously hinted blockchain technology could play a larger role in the infrastructure of the U.K.’s primary stock market.
+“You can certainly see distributed ledger technology having an application in the issuance process,” Rathi told CNBC in an interview last year. “I can see that technology being used in settlement too.”
+The leader in blockchain news, CoinDesk is a media outlet that strives for the highest journalistic standards and abides by a strict set of editorial policies . CoinDesk is an independent operating subsidiary of Digital Currency Group, which invests in cryptocurrencies and blockchain startups.

@@ -1,0 +1,25 @@
+Please consider using a different web browser for better experience.
+Please enable JavaScript in your browser for a better site experience.
+Seven-day rolling average of bitcoin hashrate (Credit: Blockchaininfo)
+The bitcoin network just fine-tuned a key parameter to coax back miners who quit after last week’s halving hammered their profits.
+More than 20 exahashes per second (EH/s) of computing power – the equivalent of around 1.5 million older-generation mining machines – has been switched off from Bitcoin since the network’s halving.
+The seven-day rolling average of bitcoin’s hashrate has dropped over 20% from around 122 EH/s just prior to the halving on May 11 to now 97 EH/s. The once-in-four-years event reduced miners’ block rewards from 12.5 to 6.25 bitcoin (BTC) per block.
+The hashrate drop after the halving has significantly outrun the hashing sprint prior to it. As such, bitcoin’s mining difficulty, which measures how hard it is to compete for block rewards, decreased 6% to 15.14 Trillion at 2:00 UTC on Wednesday in the network’s first biweekly difficulty adjustment since the halving.
+The amount of computing power connected to bitcoin has been on a roller-coaster ride over the past two weeks.
+Bitcoin’s mining difficulty adjusts itself every 2,016 blocks, roughly 14 days, to ensure the average interval between blocks remains at 10 minutes. If a large number of miners are switched off from the network, resulting in a longer-than-10-minute average block interval, the difficulty will decrease to encourage participation.
+And bitcoin’s third halving on May 11 happened exactly at the halfway mark of the previous 2,016-block difficulty cycle.
+“We believe that, as the halving drew closer, miners in China did a sprint run of mining, even with older generation machines, to make most of the last days of the higher block rewards,” said Kevin Zhang, director of blockchain strategies at Greenidge Generation, a New York-based natural gas power plant that mines bitcoin.
+Alejandro De La Torre, vice president of the mining pool PoolIn, agreed that miners were switching on to mine as much as possible before the halving.
+“That’s why we saw those sky-high hash rate figures,” he said. But as the halving kicked in midway, he said, miners that were marginally profitable had to switch off.
+According to miner profitability data tracked by PoolIn and F2Pool, at bitcoin’s current price and difficulty old generations of miners won’t be profitable with an electricity rate that’s above $0.05 per kilowatt-hour.
+That said, the drop in mining competition is helpful to those still in the game that have more efficient equipment and cheaper electricity since they can earn a bigger share of the 900 BTC minted every day.
+With the difficulty adjustment, De La Torre expects some, but not all, of these miners to switch back on.
+“Consider also, the wet season in China is bringing the cost of electricity even lower,” he said.
+In a report released May 1, PoolIn estimated that the computing power contributed by miners at the “lower quartile” – older models that compute 0-25 terahashes per second – accounted for 15% to 30% of the network’s total at the time.
+“While we expect most of these miners will shut down after the halving, it is likely that some of them have cheap enough electricity to survive in the near future,” the firm said in the report.
+As the summer rainy season approaches in China, mining farms in the country’s southwestern provinces have been trying to attract customers with electricity rates as low as $0.03 per kilowatt-hour.
+Following the halving, the total transaction fees paid to Bitcoin miners have also been on the rise, data shows . Apart from block rewards, miners earn fees that are attached to each transaction on the Bitcoin network.
+Read more: BitMEX Is Making Bitcoin Network More Expensive for Everyone, Researcher Finds
+Total daily network transaction fees have jumped from around 30 BTC at the end of April to over 160 BTC, and now account for roughly 17% of miners’ daily revenue.
+“Another interesting observation we made is the significant rise of the transaction fees as a percentage of the block rewards. Yesterday, transaction fees comprised nearly a quarter of Greenidge’s pool payouts,” said Zhang. “With this percentage currently in the range of 15-20%, it remains to be seen how this percentage may change and affect the incentive of miners.”
+The leader in blockchain news, CoinDesk is a media outlet that strives for the highest journalistic standards and abides by a strict set of editorial policies . CoinDesk is an independent operating subsidiary of Digital Currency Group, which invests in cryptocurrencies and blockchain startups.

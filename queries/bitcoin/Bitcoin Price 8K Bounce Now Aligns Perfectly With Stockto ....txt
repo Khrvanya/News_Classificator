@@ -1,0 +1,20 @@
+Commentators split between shock and welcome correction as Bitcoin struggles from $1,800 fall.
+Bitcoin ( BTC ) escaped a fresh dip to $7,500 on Sept. 25, avoiding the worst scenario analysts had warned about before its major crash.
+Data from Coin360 showed the largest cryptocurrency paring some losses between $8,000 and $8,500 on Wednesday.
+Previously, BTC/USD had bottomed out below $8,000 on some exchanges, capping a nightmarish 12 hours in which the pair shed almost 20% .
+Previously, one trader warned markets were set for a dive to $7K-levels.
+Various theories soon emerged about what caused the rout, including a $1.2 billion transaction on an exchange which could have sparked market panic.
+Proponents also dispelled rumors that a previously alleged drop in Bitcoin’s hash rate preempted the price decline. As Cointelegraph reported , hash rate charts displayed a 40% drop earlier in the week, but commentators subsequently said the readings were inherently inaccurate .
+Now, attention is turning to the run-up to Bitcoin’s 2020 block reward halving event.
+According to analyst PlanB’s stock-to-flow model for Bitcoin price, which has traditionally given accurate predictions, the mean Bitcoin price in the run-up to next May is  $8,285 .
+As such, under current conditions, BTC/USD is no longer trading higher than its planned levels in a year’s time.
+Other sources also considered the latest drop in price to be a welcome correction. Among them was Bakkt , the institutional trading platform which launched this week.
+Arguing its product was aiding Bitcoin price discovery, Bakkt claimed the timing for the event was no coincidence.
+“Price discovery unfolding before our eyes,” officials wrote on Twitter. They added:
+“On our second day of operations, totally transparent trading in monthly Bakkt Futures Contracts shows Bitcoin ending the day at $8,560 on 166 lots changing hands.”
+Bakkt had gained negative publicity due to the slow uptake upon launch, against much higher volumes for competitors’ futures products such as those from exchange Binance .
+In a predictable copycat move, altcoin markets followed Bitcoin downwards, with many major tokens hitting multi-month lows.
+Not all fared worse than Bitcoin, however. XRP managed to cap daily losses at 11.1%, while several managed around 12% compared to Bitcoin’s 13.5%.
+Others fell considerably, with Bitcoin Cash ( BCH ), Bitcoin SV ( BSV ) and EOS ( EOS ) all shedding more than 20%. BSV was the worst performer in the top twenty, down 25%.
+Ether ( ETH ), the largest altcoin by market cap, was down 14.3% on the day to hit $168.
+The overall cryptocurrency market cap also hemorrhaged value, falling to $221 billion, while the latest shifts boosted Bitcoin’s overall share to 68.9%.

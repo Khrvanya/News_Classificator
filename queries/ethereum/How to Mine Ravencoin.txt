@@ -1,0 +1,14 @@
+Before powering your RVN mining hardware, it’s essential first to choose a mining pool. While solo mining is still possible with RVN, it can take months before finding a block. A mining pool combines several GPUs’ power and rewards miners depending on the amount of power contributed. Although the payouts can be small, they’re frequent. Pool fees are also low.
+Popular RVN mining pools include, but not limited to, Nanopool, 2miners, Coinblockers, Bsod, Minermore, Cryptopool.party, Ravenminer, Suprnova.cc, Coinotron, Hash4life, Wattum, and ZPool.
+Examples in this post will make use of Hash4life.
+Pool-based Ravencoin mining, as with any other cryptocurrency pool mining activities, presents a unique challenge; rejected or stale shares.
+In crypto pool mining, a share is an accounting metric that represents how much power a miner has contributed to the pool. When the contributed power is used to discover a block, it said to have been a successful share.
+Rejected shares represent mining power contributed by an individual miner in a pool, but the power was not used to mine a new block. Consequently, the miner isn’t rewarded. In some cases, a miner’s computing power can be used in a pool, but the share is not registered on time. These shares are rejected, and the miner is not rewarded.
+Using accepted shares, miners are paid using methods such as:
+PPS (pay-per-share) – Payouts are instantly made from the pool’s balance.
+PROP (Proportional) – Payouts made proportionately to the miner’s shares after every mining round.
+SMPPS (Shared Maximum Pay Per Share) – Instantly payouts but puts a cap on the maximum pool earnings.
+ESMPPS (Equalized Shared Maximum Pay Per Share) – Can be compared to SMPPS, but payouts are equally distributed.
+Mostly, rejected shares emanate from latency in the network connection. Therefore, the best way to minimize latency is by using a stable internet connection and choosing the closest server. Also, if possible, try to reduce the intensity of the miner.
+By now, it’s not a question of how to mine Ravencoin but whether you’re ready to start. However, with RVN continually changing its algorithm, choosing a compatible mining software or pool should be dictated by whether it supports the new mining algorithm. Mining software that supports the KAPOW algorithm includes, KAWPOWMINER, TT-Miner, TREX, Bminer, and Gminer, among others.
+Although ASIC-resistant devices used for RVN are not power-hungry, the cost of power varies across countries affecting the profitability margin. The debate on which GPU is the best for RVN mining is yet to have an inclusive answer. Before embarking on this journey, it’s important to first understand what is cryptocurrency mining.

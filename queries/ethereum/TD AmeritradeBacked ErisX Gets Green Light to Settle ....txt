@@ -1,0 +1,18 @@
+Please consider using a different web browser for better experience.
+Please enable JavaScript in your browser for a better site experience.
+The U.S. Commodity Futures Trading Commission (CFTC) has cleared the way for crypto derivatives provider ErisX to offer futures contracts with a new license approval Monday.
+ErisX, which is backed by U.S. brokerage TD Ameritrade , announced that the CFTC granted it a derivatives clearing organization (DCO) license, acting as a secondary approval on top of an existing designated contract market (DCM) license that the exchange already held. The approvals mean the company can now launch crypto futures products under the auspices of the U.S. regulator.
+While no firm timeline was provided, ErisX’s announcement said it would launch its futures contracts – which would be physically-settled, meaning customers receive real bitcoin and not the cash equivalent – “later this year.”
+“Under the DCO order, Eris will be authorized to provide clearing services for fully-collateralized virtual currency futures. Eris’ indirect parent company, Eris Exchange, LLC, is registered with the CFTC as a designated contract market,” a CFTC press release read .
+ErisX’s approval comes a week after competitor LedgerX received its own DCM license . Like ErisX, LedgerX has yet to announce a firm timeline for the launch of its bitcoin futures contracts.
+Bakkt, the subsidiary of NYSE parent firm ICE, is also planning to launch its own physically-settled bitcoin futures, and is currently waiting on a trust company license from the New York Department of Financial Services.
+Seed CX, another crypto derivatives provider in the U.S., hopes to offer forwards contracts in the coming months as well.
+On top of its DCO approval, ErisX received no-action relief from the CFTC for certain aspects of its offering.
+Companies apply for no-action relief when they believe their product can fit the spirit of the law, but not necessarily the letter. It is up to regulators to determine whether the applicants can fulfill that promise. When no-action letters are granted, the applicants must adhere strictly to the list of requirements laid out within.
+The letter details how ErisX’s requirement that customers collateralize all transactions enable the CFTC to grant it relief from various provisions that seek to verify the clearinghouse can cover any losses.
+According to the letter, ErisX now has relief from regulations that would require it to: conduct stress testing on its financial resources; maintain liquidity to fulfill its obligations during a one-day settlement cycle; require periodic financial reports from all of its clearing members; conduct individual stress testing on large traders; produce daily reports on margin payments and end-of-day positions; and detail its margin methodology.
+Because ErisX does not allow for margin positions, the Division of Clearing and Risk has agreed to provide relief against these different sections of Part 39.
+ErisX will also certify its futures contract market participant rules prior to launch.
+In a statement, ErisX head of marketing Jessica Darmoni told CoinDesk that “Prior to onboarding FCMs, ErisX must first certify to the CFTC that its FCM rules comply with the CEA and commission rules and provide market participants and CFTC an opportunity to review the rules.”
+“We have already begun the work in this regard and look forward to working with the CFTC on these requirements,” she added.
+The leader in blockchain news, CoinDesk is a media outlet that strives for the highest journalistic standards and abides by a strict set of editorial policies . CoinDesk is an independent operating subsidiary of Digital Currency Group, which invests in cryptocurrencies and blockchain startups.

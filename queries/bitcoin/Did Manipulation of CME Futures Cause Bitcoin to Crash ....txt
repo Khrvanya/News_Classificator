@@ -1,0 +1,31 @@
+Home Opinion Did Manipulation of CME Futures Cause Bitcoin to Crash Below $8,000?
+Did Manipulation of CME Futures Cause Bitcoin to Crash Below $8,000?
+New research suggests that CME futures expiry have a direct hand in bitcoin's weak performance. | Image: AFP PHOTO / KAREN BLEIER
+Conspiracies concerning the manipulation of bitcoin futures may now have some grounds, as researchers claim to have found a “striking systematic trend” between BTC price action and futures expiry dates.
+Cries of foul play surrounding CME’s bitcoin futures contracts are almost as old as the derivatives themselves. For months, the expiration date of the cash-settled contracts has inconceivably lined up with adverse price movements in bitcoin. Though purportedly coincidental, this occurrence has become a trend within the crypto market, reaching an extent in which investors frequently use the expiry date in trading tactics .
+There has been no confirmed evidence of mischief besides conjectured theories and speculation – that is, until now.
+According to a research report from Arcane Crypto, there lies a clear trend between the proximity of contract settlement and negative intraday bitcoin returns. The reports remark that since January 2018, on average, bitcoin falls 2.27% as it approaches the CME expiration date.
+Bitcoin citing a negative intraday return before CME close. | Source: Arcane Crypto / Kryptografen
+Taking price data from a random day in the same period yields a hugely different result, with BTC citing only a 0.06% loss on average.
+Looking at the data closer, the researchers found that on 15 of 20 days, bitcoin cited a negative intraday return in the lead-up to CME expiration; that translated to BTC dropping a monumental 75% of the time when approaching CME settlement.
+Speaking to CCN.com, lead researcher and author of the report, Bendik Norheim Schei, noted that this was far from a coincidence:
+“With an average 2% below the rest of the days, there is a very little chance that this is just normal price fluctuation in BTC.”
+Strangely, when bitcoin is performing well, the negative effects of the settlement are felt harder. This was evidenced during bitcoin’s parabolic stint in May, a month in which BTC fell significantly prior to the close of the CME.
+Bitcoin experiences a worse result in the lead up to CME settlement when it’s performing well. | Source: Arcane Crypto / Kyrptografen
+As to why this occurs, Schei relayed that there may be a separate theory for this, adding that further research was needed. However, he opined that it might be due to the nature of BTC parabola:
+“One could point toward high volume and open interest, but also high volatility in a bull market, like the one we saw this spring. There is no good answer at this moment.”
+Did This Cause the Bitcoin Crash?
+Of course, with Friday’s expiration date fast upon us, the natural question is, was this supposed manipulation responsible for bitcoins dump on Tuesday?
+“Hard to tell,” says Schei:
+“We don’t want to rule out anything. We know that a large amount of bitcoin was moved just hours before the crash. We do not know who sent that amount, or who received it. We are looking into this.”
+$1.2 billion in BTC volume hours before Tuesday’s crash. | Source: Bytetree
+Regardless, Schei suggested that BTC’s slump below $8,000 on Thursday might be a direct cause of the upcoming CME expiration:
+“The fall we’re seeing right now (from 8400 to 8000) is more likely to be connected to this manipulation theory. The crash on [Tuesday] was outside of our estimation window, but this drop fit nicely within the window that we used in the analysis.”
+CME Manipulation or Hedging Tactic?
+As for whether or not this is indicative of actual manipulation, or simply a hedging tactic, remains to be seen. As noted, it’s highly unlikely this is just pure coincidence. However, as the report suggests this needn’t be “deliberate manipulation;” it could be, as Schei puts it, “a natural effect of hedging strategies.”
+Explaining this strategy further, the researcher communicated that an arbitrage opportunity presents itself as settlement approaches, allowing traders to be simultaneously long and short in varying markets:
+“Traders that hold both a short position on CME and a long position somewhere else, can sell their long position, and stay in the futures contract (that is a short position), and then get a profit from the drop they created when selling the bitcoin in the spot market. As there is a lot of algo trading in the market, traders might speculate that a dump of a relatively large long position might offset a ratchet effect, resulting in a larger price fall.”
+The work isn’t over yet. In order to reach a final thesis, Schei says that research will undoubtedly continue, adding that the next step is to talk to CME futures traders directly:
+“Hopefully we will get a better understanding by studying the micro-dynamics on different exchanges. We’re also trying to contact people that trade bitcoin futures on CME and see if we could get some information directly from them (who potentially could be the source of these movements)”
+So it seems the theory around the manipulation, or at least the potential to manipulate, CME futures contracts has a little more weight to it. It may only be a matter of time before the truth comes out.
+This article was edited by Sam Bourgi for CCN.com . If you see a breach of our Code of Ethics or Rights and Duties of the Editor , or find a factual, spelling, or grammar error, please contact us and we will look at it as soon as possible.

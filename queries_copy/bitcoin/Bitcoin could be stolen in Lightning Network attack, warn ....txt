@@ -1,0 +1,19 @@
+Bitcoin could be stolen in Lightning Network attack, warn researchers
+The Lightning Network is vulnerable to a "Flood & Loot" attack that could drain wallets of their Bitcoin, say researchers.
+The Lightning Network is a “second-layer solution” built on top of the Bitcoin network that allows for faster payments (Image: Shutterstock)
+Researchers have found a vulnerability in the Bitcoin Lightning Network that could enable an attacker to drain funds from wallets.
+The attack relies on flooding the network to extend the time frame in which Bitcoin can be stolen.
+The findings of the research have been shared with developers of the three main Lightning implementations.
+Two Bitcoin researchers claim to have found a way to steal funds on the Bitcoin Lightning Network.
+In a research paper, titled “Flood & Loot: A Systemic Attack On The Lightning Network,” researchers Jona Harris and Aviv Zohar, both of Israel’s Hebrew University, found that attackers can exploit a bottleneck in the system to drain wallets of funds.
+How does the Lightning Network attack work?
+The Bitcoin Lightning Network is a payment channel that sits atop the Bitcoin blockchain. It promises to make transactions quicker and cheaper by only partially confirming them; fully confirming transactions can take a long time.
+In the Lightning Network, users can send payments through intermediary nodes. These intermediary nodes can try to steal the Bitcoin, but would only have a short amount of time in which to do so. But the hackers can extend this time frame by flooding the network.
+In the attack detailed by Harris, a Master’s student, and Zohar, an Associate Professor, the “attacker forces many victims at once to flood the blockchain with claims for their funds. He is then able to leverage the congestion that they create to steal any funds that were not claimed before the deadline.”
+Can the attack be prevented?
+The researchers found that an attacker has to attack 85 channels simultaneously to make some money. They also show that it’s fairly easy for them to find unsuspecting victims. All vulnerable nodes must do is show a “willingness to open a channel” with an attacker.
+“We discover that a vast majority of active nodes (~95%) are willing to open a channel upon request, and are therefore susceptible to becoming victims in our attack,” wrote the researchers.
+So, how to solve it? Close the channels earlier, reduce the bottlenecks, make it more difficult for hackers to spam the networks, and work out a way to spot hackers before they attack.
+But it’s a huge ask. "We believe that in many ways the exploited vulnerabilities are inherent to the way [Lightning works], and thus the attack cannot be avoided completely without major modifications,” they wrote.
+The researchers have shared their work with developers of the three main Lightning implementations ahead of its publication; it remains to be seen whether a defense against the attack can be developed.
+Get the best of Decrypt where you want it most.

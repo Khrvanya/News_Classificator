@@ -1,0 +1,13 @@
+Please consider using a different web browser for better experience.
+Please enable JavaScript in your browser for a better site experience.
+ErisX CEO Thomas Chippas (Credit: CoinDesk archives)
+Crypto derivatives platform ErisX is launching ether futures contracts, it announced Monday in a blog post.
+The new contracts, the first futures contracts for the second-largest cryptocurrency by market cap in the U.S., will begin trading effective immediately, ErisX announced. The move comes a few days after ErisX announced it had received a virtual currency license from the New York Department of Financial Services, and would begin offering trading services in what is the nation’s most stringent regulatory regime.
+“Starting today individual and institutional investors can access physically delivered futures contracts based on ETH-USD with monthly and quarterly expirations. The ErisX futures exchange trades alongside the ErisX spot market on a unified and innovative platform enabling price transparency and collateral efficiencies,” the blog post said.
+Physically-settled futures contracts deliver actual tokens upon expiry, rather than the fiat equivalent.
+ErisX began offering bitcoin futures last year, though it sees little trading volume, according to its Futures Volume and Open Interest page.
+ErisX's volumes and open interest.
+Ether futures have long been under consideration by U.S. regulators. In May 2019, an official with the Commodity Futures Trading Commission (CFTC) told CoinDesk that it would be willing to approve ether futures provided the proposed contracts met the regulatory requirements.
+CFTC Chairman Heath Tarbert, who took office last summer, echoed these remarks later in 2019, going so far as to anticipate the launch of ether future contracts in 2020.
+“It is my view as chairman of the CFTC that ether is a commodity,” he said in October.
+The leader in blockchain news, CoinDesk is a media outlet that strives for the highest journalistic standards and abides by a strict set of editorial policies . CoinDesk is an independent operating subsidiary of Digital Currency Group, which invests in cryptocurrencies and blockchain startups.

@@ -1,0 +1,9 @@
+RippleNet, a distributed ledger tech (DLT)-enabled gross payments settlement network, allows banks and other financial institutions to securely perform cross-border transactions.
+Developed by San Francisco-based Fintech Ripple, the decentralized RippleNet platform has been used to perform international transactions since 2012. The platform’s users might soon have the option to create and issue stablecoins, which may be pegged with real world assets including major fiat currencies.
+A video shared by Ripple’s David Schwartz, the company’s chief technology officer,  shows that the American Fintech firm has been working on integrating new features to the firm’s distributed ledger.
+The video reveals that “core consensus improvements” will be made to RippleNet.
+Schwartz argued that Bitcoin’s (BTC) proof-of-work, or PoW, is “kind of a technological dead-end.”
+One new feature Ripple might introduce will allow third parties to issue crypto tokens on the XRP ledger. The details of this new feature have not been shared publicly, however, Schwartz said that RippleNet could be used to issue new stablecoins.
+“One of the features that I think is very exciting is a feature that would allow people to launch — well, stablecoins are the obvious use case, but it’s not just stablecoins — it’s essentially assets pegged to some external value.”
+Other DLT-powered payment networks have also allowed their users to issue stablecoins, but Schwartz said that Ripple’s new feature might be unique because “the liquidity is guaranteed by the ledger mechanics.”
+Ripple recently teamed up with European digital money transfer service, Azimo, in order to use the Fintech firm’s On-Demand Liquidity (ODL) service as part of its remittance capabilities in the Philippines.

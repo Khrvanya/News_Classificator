@@ -1,0 +1,42 @@
+Forex trading, also known as foreign exchange or FX trading, is the conversion of one currency into another. It is one of the most actively traded markets in the world, with individuals, companies and banks contributing to a daily average trading volume of $5 trillion.
+While a lot of foreign exchange is done for practical purposes, the vast majority of currency conversion is undertaken by forex traders with the aim of earning a profit. The amount of currency converted every day can make price movements of some currencies extremely volatile. It is this volatility that can make FX so attractive to forex traders: bringing about a greater chance of high profits, while also increasing the risk.
+There are two popular ways to trade forex markets; with derivative products and via a forex broker.
+Derivative products track an underlying currency market, so that traders can speculate on whether the price will rise or fall. The most popular forex derivatives are spread bets and CFDs.
+A forex spread bet enables you to speculate on the future price direction of a currency pair. Your profit or loss is dictated by how far the market moves in your favour before you close your position and how much money you have put up per point of movement.
+A forex CFD is an agreement to exchange the difference in price of a forex pair from when you open your position to when you close it. If the market price moves in your chosen direction, you would profit, and if it moves against you, you would make a loss.
+Ready to trade forex? Open a live account today, or create a demo account to practise trading in a risk-free environment.
+What is a forex broker?
+A forex broker is a firm that buys and sells currencies on behalf of retail traders, usually via a forex trading platform. Like stockbrokers, they charge a fee – though usually in the form of a spread instead of commission – in order to execute orders placed by their clients. However, a key difference is that forex brokers will place trades over-the-counter instead of on an exchange.
+Traditionally, a lot of forex transactions have been made via a forex broker, but with the rise of online trading you can take advantage of forex price movements using derivatives like spread betting or CFD trading .
+How do currency markets work?
+Regardless of whether you decide to trade via a broker or with derivative products, it is important to have an understanding of how the underlying forex market works.
+Unlike shares or commodities, forex trading does not take place on exchanges but directly between two parties, in an over-the-counter (OTC) market. The forex market is run by a global network of banks, spread across four major forex trading centres in different time zones: London, New York, Sydney and Tokyo. Because there is no central location, you can trade forex 24 hours a day.
+There are three different types of forex market:
+Spot forex market: the physical exchange of a currency pair, which takes place at the exact point the trade is settled – ie ‘on the spot’ – or within a short period of time
+Forward forex market: a contract is agreed to buy or sell a set amount of a currency at a specified price, to be settled at a set date in the future or within a range of future dates
+Future forex market: a contract is agreed to buy or sell a set amount of a given currency at a set price and date in the future. Unlike forwards, a futures contract is legally binding
+​Most traders speculating on forex prices will not plan to take delivery of the currency itself; instead they make exchange rate predictions to take advantage of price movements in the market.
+What is a base currency?
+A base currency is the first currency listed in a forex pair, while the second currency is called the quote currency. Forex trading always involves selling one currency in order to buy another, which is why it is quoted in pairs – the price of a forex pair is how much one unit of the base currency is worth in the quote currency.
+Each currency in the pair is listed as a three-letter code, which tends to be formed of two letters that stand for the region, and one standing for the currency itself. For example, GBP/USD is a currency pair that involves buying the Great British pound and selling the US dollar.
+To keep things ordered, most providers split pairs into the following categories:
+Major pairs. Seven currencies that make up 80% of global forex trading. Includes EUR/USD, USD/JPY, GBP/USD and USD/CHF
+Minor pairs. Less frequently traded, these often feature major currencies against each other instead of the US dollar. Includes: EUR/GBP, EUR/CHF, GBP/JPY
+Exotics. A major currency against one from a small or emerging economy. Includes: USD/PLN, GBP/MXN, EUR/CZK
+Regional pairs. Pairs classified by region – such as Scandinavia or Australasia. Includes: EUR/NOK, AUD/NZD, AUD/SGD
+What moves the forex market?
+The forex market is made up of currencies from all over the world, which can make exchange rate predictions difficult as there are many factors that could contribute to price movements. However, like most financial markets, forex is primarily driven by the forces of supply and demand, and it is important to gain an understanding of the influences that drives price fluctuations here.
+Supply is controlled by central banks, who can announce measures that will have a significant effect on their currency’s price. Quantitative easing, for instance, involves injecting more money into an economy, and can cause its currency’s price to drop.
+Commercial banks and other investors tend to want to put their capital into economies that have a strong outlook. So, if a positive piece of news hits the markets about a certain region, it will encourage investment and increase demand for that region’s currency.
+Unless there is a parallel increase in supply for the currency, the disparity between supply and demand will cause its price to increase. Similarly, a piece of negative news can cause investment to decrease and lower a currency’s price. This is why currencies tend to reflect the reported economic health of the region they represent.
+Market sentiment, which is often in reaction to the news, can also play a major role in driving currency prices. If traders believe that a currency is headed in a certain direction, they will trade accordingly and may convince others to follow suit, increasing or decreasing demand.
+How does forex trading work?
+Forex trading works like any other exchange where you are buying one asset using a currency. In the case of forex, the market price tells a trader how much of one currency is required to purchase another. For example, the GBP/USD currency exchange rate shows how many US dollars buy one pound.
+When you speculate on forex price movements with CFDs or spread bets, you will be trading on leverage, which enables you to open a position for a just a fraction of the full value of the trade. Unlike non-leveraged products, you don’t take ownership of the asset, but take a position on whether you think the market will rise or fall in value.
+Although leveraged products can magnify your profits, they can also magnify losses if the market moves against you.
+What is the spread in forex trading?
+The spread is the difference between the buy and sell prices quoted for a forex pair. Like many financial markets, when you open a forex position you’ll be presented with two prices. If you want to open a long position, you trade at the buy price, which is slightly above the market price. If you want to open a short position, you trade at the sell price – slightly below the market price.
+What is a lot in forex?
+Currencies are traded in lots – batches of currency used to standardise forex trades. As forex tends to move in small amounts, lots tend to be very large: a standard lot is 100,000 units of the base currency. So, because individual traders won’t necessarily have 100,000 pounds (or whichever currency they’re trading) to place on every trade, almost all forex trading is leveraged.
+What is leverage in forex?
+Leverage is the means of gaining exposure to large amounts of currency without having to pay the full value of your trade upfront. Instead, you put down a small deposit, known as margin . When you close a leveraged position, your profit or loss is based on the full size of the trade.

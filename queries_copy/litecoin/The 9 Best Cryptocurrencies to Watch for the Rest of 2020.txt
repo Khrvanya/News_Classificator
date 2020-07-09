@@ -1,0 +1,9 @@
+Copyright © 2020 InvestorPlace Media, LLC. All rights reserved. 9201 Corporate Blvd, Rockville, MD 20850.
+With all eyes on stocks, virtual currencies may offer contrarian growth opportunities
+By Josh Enomoto , InvestorPlace Contributor Jun 10, 2020, 8:55 am EDT
+What most people love about cryptocurrencies is that they represent a radical new vision of the global economy. Rather than stodgy institutions dictating the fiscal trajectory of a particular nation, the virtual currency market provides a viable alternative. However, what most people arguably can do without is the overwhelming “nerd talk” that permeates this investment sector.
+If you want to know the basic nuts and bolts of cryptocurrencies in human language, and more importantly, why you should care as we march toward the second half of 2020, you’ve come to the right place.
+At the heart of all cryptocurrencies is the blockchain. As the name suggests, this is quite literally a series of data blocks chained together. Technically, crypto proponents will refer to this concept as a decentralized, distributed public ledger.
+In a traditional business environment, ledgers may contain all kinds of information. But the process of inputting this information is private (say, a corporation’s financial ledger) and centralized (only authorized managers can input information).
+But what if data could be inputted in a fair, transparent manner that is open to all and yet has the security protocol of the wealthiest institutions? With the blockchain, anyone can participate in the data inputting process, called “mining.” For their troubles, miners receive cryptocurrencies, or blockchain reward tokens.
+Later, the free market comes in and determines the valuation of these tokens. Nine popular examples of which I’ll discuss in greater detail are below:

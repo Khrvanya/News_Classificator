@@ -1,0 +1,66 @@
+Can a Squamish liquefied natural gas terminal reduce global emissions?
+Woodfibre's LNG's new data suggests that's the case, but a scientist and a professor question the findings
+Woodfibre LNG says that replacing coal emissions with liquefied natural gas from its project will reduce greenhouse gas emissions by an amount equivalent to removing 700,000 cars from the road each year.
+It's one of several points the company is promoting after recently releasing a new dataset that has cast the proposed Squamish liquefied natural gas export facility in a favourable light.
+The information gathered was based on two reports. One was a study involving three universities, called Greenhouse-gas emissions of Canadian liquefied natural gas for use in China: Comparison and synthesis of three independent life cycle assessments, which was published this year in The Journal of Cleaner Production.
+The other was a study commissioned by Woodfibre and authored by consulting company called Mantle 314.
+The Chief asked two commentators to give their thoughts on the new data — David Hughes , an earth scientist from the Post Carbon Institute and Tom Gunton , an SFU professor, who among other things, served as a deputy minister of environment.
+Both experts said they found problems with Woodfibre's data, and, in some cases, went so far as to call it "misleading."
+What follows are several concerns they brought up with the company's claims, as well as responses from Woodfibre.
+Who paid for the study?
+Woodfibre already acknowledged that it paid for the Mantle 314 study, but Hughes pointed out that the other study has a problematic funding source.
+He noted the study published in The Journal of Cleaner Production appears to be funded by Seven Generations Energy, or 7G, which is a Calgary-based natural gas company.
+A spokesperson from 7G was unable to confirm if this was the case by press deadline, but the acknowledgements section of that paper states: "The authors would like to thank Seven Generations Energy Ltd. (7G), Mitacs Canada for funding this research and 7G for providing their verified emissions data and access to their operations."
+Hughes said this is a problem.
+"When somebody tells me that they've been funded by Seven Generations to develop a comparison study, I get suspicious right off the bat," he said.
+On the other hand, Woodfibre spokesperson Rebecca Scott said that the study in The Journal is peer-reviewed, and is therefore credible.
+Peer review is often quite rigorous and articles that pass through that process are generally considered to be trustworthy.
+"Our argument is that the research was peer-reviewed and published, which invalidates any argument that it was influenced by funding," said Scott.
+Hughes said that The Journal study chooses the wrong timeline in which to present its results.
+That report chooses a 100-year global warming potential timeline in which to present its findings.
+"Results are presented as CO2 equivalent (CO2-eq), using IPCC AR4 global warming potentials (GWP) with a time horizon of 100 years," the study reads.
+This isn't a measure of how long the project will be operational, but rather a calculation of how gases affect the planet over 100 years.
+Hughes said the issue is that gases like methane are much more potent in the short term, which is about 20 or years. That's the time period in which we need to start acting on global warming, he said.
+"You have to realize the timeframe that we need to make significant changes," said Hughes.
+The IPCC is calling for greenhouse gas emissions to decrease by approximately 45% from 2010 levels by 2030 and reach net-zero by 2050.
+"So saying that LNG is going to save the climate over the next three or four decades is completely false," Hughes continued. "It's going to make it worse. Basically, it's a self-serving advertisement for their business plan."
+Methane is the main component of natural gas and can leak out during production.
+"Extensive research led by [Environmental Defense Fund] from 2012 to 2018 shows methane leaks in the U.S. are a far greater threat than the government's estimate suggests," said the association in a post.
+"The Environmental Protection Agency says the oil and gas industry emits eight million metric tons of methane a year. Our first-of-its kind, five-year research series uncovered at least 13 million metric tons."
+Hughes said, based on his personal calculations, "if all emissions sources from LNG are considered, from production to delivery at a plant in China, B.C. LNG, even with a 'best-in- the-world' liquefaction terminal, is 18.9% worse than coal over 20 years and 9.8% better if you wait 100 years."
+This, however, is assuming state-of-the art coal plants are being used to burn the fuel. China has been rapidly improving its coal-burning technologies.
+On the other hand, Woodfibre said that Hughes' personal calculations have not been subject to peer review, and, therefore, it's unfair to accept his statement as fact.
+The company also pointed out that emissions include other contents.
+"The argument being made by your expert cherry-picks the type of emission in order to make the point. The argument ignores that emissions include more than just methane (not to mention the serious health implications of particulates that exist in coal emissions)," wrote Scott in an email.
+"Methane is more potent than CO2  – but his overall argument only works if you then ignore all the other emissions. Nitrous oxide, hydrofluorocarbons, sulphur hexafluoride and perfluorocarbons are significantly more potent than methane and last a lot longer in our atmosphere. Coal is a major emitter of nitrous oxide."
+Scott also noted that the study in The Journal used a time horizon from the United Nations' Intergovernmental Panel on Climate Change.
+"I want to emphasize that your expert seems to be saying the researchers should not have used IPCC modelling," she wrote.
+However, Hughes said that the IPCC also has an alternate time horizon for the short-term effects of methane.
+The IPCC AR5 report of 2014 shows a 20-year timeline for methane, which is assigned a global warming potential of 86. However, in this higher-impact methane scenario, nitrous oxide is still worse for the environment, with a value of 264.
+In the 100-year IPCC time horizon used by Woodfibre, methane is assigned a global warming potential of 25. In this case, nitrous oxide remains worse with a value of 298.
+Under the global warming potential model, the higher the number, the more a substance will warm the earth. Carbon dioxide is assigned the value of one regardless of the timeline, as it is the baseline for comparison to all other gases.
+The 100-year time horizon is a widely used metric across the world, and the United States' Environmental Protection Agency said it is the standard most used in that country.
+The Government of Canada's website lists global warming potentials with 100-year time horizons on its site, but does not explicitly say it's the preferred time horizon.
+However, the 2014 UN IPCC report says, "The weight assigned to non-CO2 climate forcing agents relative to CO2 depends strongly on the choice of metric and time horizon."
+Will LNG replace coal in China?
+SFU professor Tom Gunton said that Woodfibre's data seems to skew the data in favour of liquefied natural gas.
+"To some degree, it's somewhat misleading by making assumptions that are generally favourable to try to show that [the] project reduces greenhouse gas emissions," said Gunton.
+"What they don't acknowledge is the fact that a lot of the natural gas that's going to be exported is not going to be displacing coal, it's actually going to be displacing renewable energy sources, such as wind and solar."
+Essentially, as China's infrastructure expands, authorities will have a choice between powering their new grids with coal, liquefied natural gas or renewables. Gunton said that a lot of research suggests that gas outcompetes renewables in many cases.
+The data should've been derived from models that also accounted for a displacement in renewable energy, he said.
+"In the United States, coal has been displaced by natural gas, but the Asian situation is different and the studies show it's not going to be simply replacing coal. So that's a bit misleading for them to make that assumption."
+However, Woodfibre responded, saying some data seems to contradict what Gunton said.
+"[Gunton is]... correct that Asia's coal-fired plants are young and therefore difficult to replace," wrote Scott. "However, the economic modelling and analysis seems to disagree with him on the overall coal displacement opportunity in Asia."
+Scott cited an article from a McKinsey and Company, an American management consulting firm that read, "China will be a major driver of LNG-demand growth, as its domestic supply and pipeline flows will be insufficient to meet rising demand."
+Scott also pointed to data from the International Energy Agency as evidence that liquefied natural gas could be a solution.
+One report from the agency, titled The Role of Gas in Today's Energy Transitions , highlights that switching to gas can be used to reduce greenhouse gas emissions.
+"It is clear that switching between unabated consumption of fossil fuels, on its own, does not provide a long-term answer to climate change, but there can nonetheless be significant CO2 and air quality benefits, in specific countries, sectors and timeframes, from using less emissions-intensive fuels," it reads.
+However, it doesn't spell out exactly how or if gas will displace coal or renewables in China's electric grid.
+"In China, gas demand has risen very quickly in recent years because of a major policy push to improve air quality," the report says.
+"Gas has substituted for coal-fired industrial and residential boilers in many urban areas, but the case for switching in the power sector is less clear."
+Hughes said that the Mantle report, which was commissioned by Woodfibre, is not an accurate assessment of liquefied natural gas's impacts, as it does not account for upstream emissions.
+This refers to the emissions caused by liquefied natural gas before it reaches the Woodfibre terminal, such as the carbon footprint of extracting the material.
+Hughes calculates that the terminal will only account for 20% of the emissions.
+"Most emissions are from upstream production but some also from processing, pipelines, shipping and regasification," he wrote in an email.
+Woodfibre, however, said that this was the reason why it included academic research from The Journal study.
+"These pieces of research can be reviewed together for a full-picture perspective," wrote Scott. "Together, and with the additional research we cite on our website, the picture is pretty clear: Canadian LNG represents a significant offset of emissions that will help us meet Paris Agreement/IPCC recommended targets."

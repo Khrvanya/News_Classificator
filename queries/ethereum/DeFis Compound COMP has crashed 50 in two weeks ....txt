@@ -1,0 +1,24 @@
+When Ethereum-based finance protocol Compound launched its native token COMP in June, it traded at $30. But due to an influx of hype which was somewhat a byproduct of market illiquidity, the altcoin shot over 1,000 percent higher, reaching an all-time high price in excess of $350.
+Unfortunately for those who bought the COMP at the highs, the decentralized finance-centric ERC-20 token has since been subject to a steep retracement.
+According to CryptoSlate coin data , the cryptocurrency now trades for $185 as of this article’s writing. That is approximately 50 percent lower than COMP’s all-time high — and that loss has been realized just in two weeks.
+A large portion of these losses was incurred following the altcoin’s listing in Coinbase. Analysts have said that since Coinbase was one of the first “mainstream” crypto exchanges to list COMP, that was the first venue through which many holders could sell their coins.
+Investors in the cryptocurrency, unfortunately, may be subject to further losses as analysts have claimed that the DeFi token may be intrinsically overvalued.
+The Ethereum-based Compound (COMP) is poised to collapse, analysts say
+Even after its 50 percent decline from the highs, Compound is still a massive cryptocurrency. CryptoSlate’s crypto leaderboard shows that the asset is the 28th largest digital asset in circulation — despite it being established in March and publicly launched in June.
+According to a new analysis by trader “Theta Seek,” who has closely tracked the DeFi boom, COMP may have further to fall. He released an extensive thread on his thoughts about the altcoin on Jul. 2nd.
+The premise of the thread was that he’s publicly short on COMP , writing that the “fundamentals of [Compound’s] ‘governance’, given the public information, don’t make too much sense today.” Theta added that he wouldn’t be surprised to see another 50 percent decline to take the cryptocurrency below $100.
+1/ I'm short on $COMP , the fundamentals of the 'governance', given the public information, don't make too much sense today.
+Won't be surprised to see it fall below $100 unless a revenue model is proposed soon. – Read full thread..
+— Theta Seek (@thetaseek) July 2, 2020
+Theta’s basic thesis came down to the fact that businesses with assets under management (AUM) — like funds, financial service providers, and so on — are “normally valued at less than 1/3 or 1/4” of its AUM figure.
+His example of this was BlockFi, which is valued at “around $200 million” despite it holding $650 million in assets like Bitcoin and Ethereum.
+At a price of ~$200, the fully diluted market capitalization of COMP is around $2 billion when the underlying Compound protocol only holds $1 billion. This led him to the conclusion:
+“IMHO, the fair value of the token, (assuming similar long term profitability as other crypto AUM businesses) should be at around $50 today.”
+Data shared by venture capitalist Julien Thevenard has seemingly corroborated this. He shared data on Jun. 21 indicating that COMP was trading at a price-to-earnings ratio of 200 times.
+A price-to-earnings ratio is often used to value stocks. While COMP is not a stock, this method of valuation may suggest it is overvalued, as many companies trade in the 10-30 PE ratio range.
+While there is evidence showing that COMP is likely to drop, not the same can be said about other Ethereum-based DeFi tokens.
+Crypto venture investor and analyst Andrew Kang released a 25-part thread on why DeFi isn’t in a bubble. As reported by CryptoSlate previously , Kang’s argument boiled down to a few main points:
+Ethereum DeFi still has less than one percent of the daily active users of ETH.
+Asian money, which largely drove 2017 and 2018’s altcoin mania, is starting to flood back into crypto, especially into DeFi.
+And there have been strong technological developments in this segment of the blockchain space.
+Compound , currently ranked #26 by market cap, is up 15.65% over the past 24 hours. COMP has a market cap of $492.24M with a 24 hour volume of $143.61M.

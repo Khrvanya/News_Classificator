@@ -1,0 +1,32 @@
+The Copper Creek Golf Course is pictured during the fall season.
+COPPER MOUNTAIN RESORT — Copper Mountain Resort has announced a new transferable golf pass. The pass is a four-pack pass that costs $219 which can be used by multiple people.
+The pass applies to four 18-hole rounds of golf and includes use of a golf cart or bike. Other passes currently available include an adult season pass, which includes the use of a cart, for $499, an adult season pass that does not include the use of a cart for $359 and youth season passes, which are for children ages 15 and under and cost $119.
+The Copper Creek Golf Course has a scheduled opening on July 3 and will offer lessons and clinics throughout the summer.
+As a Summit Daily News reader, you make our work possible.
+Now more than ever, your financial support is critical to help us keep our communities informed about the evolving coronavirus pandemic and the impact it is having on our residents and businesses. Every contribution, no matter the size, will make a difference.
+Your donation will be used exclusively to support quality, local journalism.
+Start a dialogue, stay on topic and be civil.
+If you don't follow the rules , your comment may be deleted.
+						var vf_adctr = 0;
+								if (++vf_adctr > 10) { return; }
+								var vf_slot_div_id = "ad-comment-" + vf_adctr;
+						var form = this;
+						// after 1/2 second, submit the form
+					return ( currentSubscriptions || [] ).filter( elem => elem.topic_id === node.dataset.topic ).length > 0;
+					topic.classList.toggle( 'vf-follow-toggle-on', getTopicSubscriptionStatus( topic, currentSubscriptions ) );
+						var node = evt.target;
+								console.log( 'failure to unsubscribe: ' + err );
+							var promise = window.viafoura.topics.subscribe( node.dataset.topic, node.dataset.topicname, node.dataset.topictype || 'topic' );
+								console.log( 'failure to subscribe: ' + err );
+					const vfUUID = document.querySelector('meta[name="vf:uuid"]').content,
+					      if (response.status !== 200) return;
+          // Set language var based off cookie.
+          var swiftLanguageLoaded = false;
+          // If the library has been loaded already.
+          // If the spanish link is clicked.
+          // Load the translate script unless it has already been loaded.
+/* <![CDATA[ */ var pollsL10n = {"ajax_url":"https:\/\/www.summitdaily.com\/wp-admin\/admin-ajax.php","text_wait":"Your last request is still being processed. Please wait a while ...","text_valid":"Please choose a valid poll answer.","text_multiple":"Maximum number of choices allowed: ","show_loading":"1","show_fading":"1"}; /* ]]> */
+      var emailRegex = /([a-zA-Z0-9_\.-]+)@([\da-zA-Z\.-]+)\.([a-zA-Z\.]{2,6})/i;
+      var cleanPageLocation = currLocation.replace(emailRegex, "");
+	        _sf_async_config.uid = 57640; _sf_async_config.domain = 'swiftcom.com'; _sf_async_config.useCanonical = true; _sf_async_config.useCanonicalDomain = true;
+	          var oldonload = window.onload;

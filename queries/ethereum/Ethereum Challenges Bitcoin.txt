@@ -1,0 +1,24 @@
+Looking for the next Bitcoin (BTC, Rated "A-")?
+Some people have long thought it would be Ethereum (ETH, Rated "B+").
+Unlike Bitcoin, Ethereum is more than just a payment system. It’s a platform for running an infinite variety of applications, called “smart contracts” or “distributed applications” (dApps). In fact, Ethereum aspires to be a worldwide computer capable of doing anything that a single, standalone computer can do, with two key differences:  It’s everywhere, distributed all across the internet.  And nobody owns it.
+That was the Ethereum dream. But then began the Ethereum nightmare — a traffic jam of epic dimensions.
+You see, due to Ethereum’s low capacity and slow speed — plus huge demand — the door was flung wide open to a host of wannabe Ethereum killers, all aspiring to replace it and become the new smart contract queen.
+And we're referring to a new generation of Bitcoin developers that have appeared on the scene.
+They’re hell bent on harnessing Bitcoin's first-mover advantage to muscle in on Ethereum's smart contract turf.
+Their project is RSK ( RBTC ), and it has all the earmarks of becoming one of the toughest combatants in the smart contract war.
+To be clear, RSK isn’t a run-of-the-mill upgrade to the Bitcoin blockchain. It's a whole new blockchain, designed as a sidechain that’s entirely dedicated to running smart contracts.
+Think of a major highway strictly for moving (or storing) money. That’s Bitcoin. Then think of a parallel superhighway for doing everything else. That’s RSK. What about the miners? They’re the same as the Bitcoin miners. Plus, of course, it’s open to anyone with Internet access and a regular computer.
+RSK miners earn block rewards from fees earned from by RSK smart contract users.  And they’re paid in RSK Bitcoins (RBTC).
+A key reason it works: The RBTC and BTC are freely exchangeable one-to-one, anytime. In effect, RBTC is simply a form of Bitcoin used for running smart contracts.
+Let’s say you’re among the millions who own Bitcoin.
+Until now, all you could do is transfer it, spend it or hoard it.
+But with the advent of RSK, all that changes. For the first time since Bitcoin was born, you can run Distributed Applications.
+Or, let’s say you’re a Bitcoin developer. Without RSK, the things you could do were very narrowly confined. Now, you can use Bitcoin to build a myriad of applications.
+Given the sheer size and volume of the Bitcoin network, we have little doubt RSK is going to be a hit.
+And Decentralized Finance developers could be among the first to switch.
+First, because RSK and Ethereum code have a lot in common. Some might say they’re virtually the same. So with RSK, anything currently running on Ethereum should run equally well on Bitcoin. It’s a relatively easy move.
+Second, because of the collateral. Right now, DeFi apps that run on Ethereum use ETH for collateral. If they switch to Bitcoin, they will use BTC. Given the security, stability and size of Bitcoin, that’s a big advantage.
+Right now, for example, a major Ethereum-project is DAI, a stablecoin with the potential to disrupt the way money works . DAI is currently backed by ETH, which most people know much less about. Imagine if it’s backed by the widely known (and owned) Bitcoin instead!
+And think about what Bitcoin RSK could do for a peer-to-peer lending and borrowing platforms. If they switch to Bitcoin, they have the potential to gain almost instant credibility, greatly enhancing their chances for success.
+End result. Someday, Bitcoin could emerge from its current, limited-use cases (mostly a store of value), and become the fuel for running smart contracts in what’s bound to become a fuel-thirsty market.
+Check out Weiss Crypto Ratings and Indexes:

@@ -1,0 +1,20 @@
+Traders Say Binance Cut Their Bitcoin Shorts: Here's Why It Happened
+Traders claim that their Bitcoin shorts were unfairly cut on Binance Futures, but the process is called auto-deleveraging, and here is why it happens.
+As the Bitcoin ( BTC ) price abruptly dropped from $9,500 to $8,100 , some traders on Binance claimed that their winning short trades were unfairly cut short.
+A trader named AthenaBank wrote on May 10:
+Deleverage? Binance close my short after I make 7 times my investment. What's going on? Where is my short? The BTC dropped to $8,000. Who pays the difference?
+But, the closure of the shorts was systematic and the process is called auto-deleveraging.
+What is auto-deleveraging and how can winning Bitcoin trades get cut short?
+In the futures market, traders use debt or leverage to trade with larger capital. Binance, as an example, allows a trader to use 125x of their initial capital. If a user has $1,000, the user can trade with up to $125,000.
+The role of a cryptocurrency exchange is to match orders between buyers and sellers. Hence, if trader A wants to short Bitcoin at $9,500, the role of the exchange is to find trader B that wants to buy BTC at the same price.
+A problem occurs when the Bitcoin price sees an abrupt increase or decrease in price. More traders rush to short BTC, and as the price declines rapidly, it creates an imbalance in the orderbook.
+When there is a big orderbook disparity, it can potentially cause a cascade of liquidations and cause the price of Bitcoin to plunge to abnormal prices. Such a price trend was seen on March 12, when the price of BTC crashed to as low as $3,600 on BitMEX.
+Major Bitcoin futures exchanges like BitMEX and Binance Futures use a system called auto-deleveraging to ensure their orderbook remains balanced. When the insurance fund is not enough to cover for liquidations, then other trades are cut short to cover for the remaining liquidations.
+Example of an auto-deleverage Bitcoin trade. Source: AthenaBank
+When a trader’s account size goes below 0, the Insurance Fund is used to cover the losses. However, in some exceptionally volatile market environments, the Insurance Fund may be unable to handle the losses, and open positions have to be reduced to cover them.
+In such a case, highly leveraged trades are likely to have their trades sized down first. Traders that use 75 to 125x are often in the top percentile and are first to have their trades cut in abnormally volatile market conditions.
+There is a light for the auto deleverage queue on the trading page when you're in a position. Deleverage is used as insurance for long liquidation in this case to help sustain cascading liquidations and resulting in mega dumps. High leveraged trades are usually first.
+Can cases of auto-deleveraging be lessened?
+Auto-deleveraging happens quite frequently in the cryptocurrency market because Bitcoin is significantly more volatile than most traditional assets.
+The tendency of the price of Bitcoin to sway in a direction rapidly within a short period of time makes it challenging for exchanges to maintain balance in the market.
+Cointelegraph reached out to Binance for a comment but did not receive a response by press time.

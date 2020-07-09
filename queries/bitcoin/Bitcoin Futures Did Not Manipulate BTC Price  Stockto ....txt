@@ -1,0 +1,12 @@
+Analyst PlanB explains that Bitcoin’s price activity did not invalidate the stock-to-flow model after the first futures launched in December 2017.
+Bitcoin futures do not unfairly impact the price of Bitcoin (BTC), according to the creator of one of the cryptocurrency’s most accurate price models.
+In a series of tweets on April 7, PlanB, the pseudonymous analyst behind the stock-to-flow model, argued that futures have not caused the Bitcoin price to behave erratically.
+According to stock-to-flow, Bitcoin has performed as expected, even after the first futures hit the market in December 2017.
+Now an industry with hundreds of millions of dollars of volume daily, futures caused suspicion last year when some commentators noticed that settlement dates appeared to coincide with drops in BTC/USD.
+“IMO #bitcoin price is NOT manipulated by futures,” PlanB retaliated.
+“CME launched BTC futures Dec 2017. Many point to Dec 2017 ATH as proof futures have suppressed prices. But BTC prices stayed perfectly within S2F bands. I would have expected this to happen with or without futures. Nothing unusual.”
+Bitcoin stock-to-flow price chart as of April 7. Source: PlanB/ Twitter
+Stock-to-flow charts Bitcoin’s past and future price based on the interaction between “new” Bitcoins released to miners and the existing Bitcoins in circulation. The model has proven to be extremely efficient , despite facing continued criticism from industry figures.
+Last week, the Twitter user known as J0e007 , a large volume trader on exchange Bitfinex, described those who champion stock-to-flow as “thousands of muppets.”
+Continuing, PlanB suggested that even Bitcoin’s run to current all-time highs of $20,000 and the subsequent bear market was not made worse by futures.
+“Oct 2017 was at current $7k level. The introduction of futures sparked hope of massive institutional inflow ("the herd is coming"), and BTC jumped almost 3x to $20k in Dec 2017,” part of another post reads.

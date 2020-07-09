@@ -1,0 +1,9 @@
+Please consider using a different web browser for better experience.
+Please enable JavaScript in your browser for a better site experience.
+Bitpoint, a licensed cryptocurrency exchange based in Japan, has been hacked for $32 million in crypto assets.
+According to a CoinDesk Japan report on Friday, Bitpoint halted all services including trading, deposit and withdrawal of all crypto assets on Friday morning after it noticed irregular withdrawal from its hot wallet on Thursday.
+It is not yet clear at this stage which types of assets were lost, the exchange offered trading for five cryptocurrencies: bitcoin, bitcoin cash, ether, litecoin and XRP.
+The exchange’s parent company Remixpoint Inc. said in an announcement that $23 million of the illegal outflow belonged to its customers.
+The news marks the latest breach of a Japanese exchange. In September 2018, Zaif , also a licensed exchange under the Japanese Financial Services Agency, was hacked for $60 million worth of cryptocurrencies.
+Earlier last year, Coincheck was also breached, resulting in more than $520 million worth of cryptocurrencies being stolen.
+The leader in blockchain news, CoinDesk is a media outlet that strives for the highest journalistic standards and abides by a strict set of editorial policies . CoinDesk is an independent operating subsidiary of Digital Currency Group, which invests in cryptocurrencies and blockchain startups.

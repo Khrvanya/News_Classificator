@@ -1,0 +1,14 @@
+BTC Miners help in facilitating BTC transactions and the provision of security on the blockchain network.
+BTC miners, hard work seems to be paying off, with billions of dollars going to their coffers, Data obtained from Glasscode showed that BTC miner revenue (“Thermocap“) is now at $17.5 billion USD. This metric is used as a lower bound for the capital inflow into an asset.
+Cumulative #Bitcoin miner revenue ("Thermocap") is now at $17.5 billion USD.
+This metric is used as a lower bound for the capital inflow into an asset.
+Comparison of Thermocaps since 2018: $BTC : $12.6B $ETH : $4.9B $LTC : $932M $BCH : $810M
+— glassnode (@glassnode) July 3, 2020
+Mining is the process of adding confirmed transactions to the Bitcoin blockchain. For the resources required to mine, the blockchain network rewards BTC miners via transaction fees and subsidies. Subsidies are paid per block at a current rate of 6.25 BTC. Fees are paid per transaction.
+READ ALSO: QKC: fastest rising crypto asset in 30 days, gains 100%
+Aggregate security spends, or “Thermocap“, is the aggregated amount of coins paid to miners and serves as a proxy to mining resources spent. It serves as a measure of the true capital flow into Bitcoin and is computed as the aggregate Coinbase transactions multiplied by the price in USD at the time they were mined.
+Quick fact; BTC Miners help in facilitating BTC transactions and provision of security on the blockchain network. The importance of BTC miners can’t be underestimated as they perform these functions, by solving computational tasks which permit them to chain together blocks of transactions
+By mining BTC, you can earn a BTC without having to pay money for such. BTC miners collect BTC as a reward for completing “blocks” of confirmed transactions which are added to the blockchain network.
+Olumide Adesina a French-born Nigerian, an Investment Professional at Nairametrics Financial Advocates, owners of Nairametrics.com. 
+He is a Certified Investment Trader, with more than a decade working expertise in Investment Trading.
+A member of the Chartered Financial Analyst Society.

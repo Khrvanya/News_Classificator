@@ -1,0 +1,10 @@
+The oldest bank in Thailand launches a mobile app powered by Ripple to facilitate fast, low-cost cross-border payments.
+Thailand’s oldest bank Siam Commercial Bank (SCB) has partnered with Ripple to create a mobile application powered by blockchain to deliver instant, low-cost cross-border payments.
+Per a Jan. 8 blog post from Ripple, the app — known as SCB Easy —  was demoed in December during Ripple’s annual customer event, Swell. The demo reportedly demonstrated its ability to send cross-border payments in seconds.
+SCB’s senior vice president of commercial banking, Arthit Sriumporn, announced on-stage:
+“It is so difficult to send and receive money today. People must physically go to a bank branch, fill out long and complicated forms and wait for payments to be received—with no transparency. With our service, their loved ones from abroad can transfer payment and receive money immediately.”
+Following this, Sriumporn showed the app in action, sending a payment to a recipient's bank account within 40 seconds.
+SCB is also working with Ripple to offer cross-border EMVCo QR payments. QR payments are popular throughout Asia, and leveraging this capability will allow SCB to offer customers micro-payment services in addition to remittances.
+A recent survey conducted by PwC shows that 86% of China’s population use mobile payments apps, with 67% of that population being in Thailand. As tourism and overseas workforces continue to grow throughout the region, there is a need for faster, more cost-effective ways to receive payments.
+SCB is planning to expand its services to Cambodia, Laos, Myanmar and Vietnam — collectively known as the CLMV countries.
+“One connection equals many possibilities,” Sriumporn explained on stage at Swell.

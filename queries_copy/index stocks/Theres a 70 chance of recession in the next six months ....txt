@@ -1,0 +1,15 @@
+There's a 70% chance of recession in the next six months, new study from MIT and State Street finds
+A new study from the MIT Sloan School of Management and State Street Associate says there's a 70% chance that a recession will occur in the next six months.
+The researches  used a scientific approach initially developed to measure human skulls to determine how the relationship of four factors compares to prior recessions.
+The index currently stands at 76%. Looking at data back to 1916, the researchers found that once the index topped 70%, the likelihood of a recession rose to 70%.
+There's a 70% chance that a recession will hit in the next six months, according to new research from the MIT Sloan School of Management and State Street Associates.
+The researchers created an index comprised of four factors and then used the Mahalanobis distance — a measure initially used to analyze human skulls — to determine how current market conditions compare to prior recessions.
+"The Mahalanobis distance was originally conceived to measure the statistical similarity of the values of a set of dimensions for a given skull to the average values of those dimensions for a chosen group of skulls," the researchers explained.
+It measures the distance between a point and a certain distribution.
+Using this principle, the researchers analyzed four market factors — industrial production, nonfarm payrolls, stock market return and the slope of the yield curve — on a monthly basis. They then measured how the current relationship between the four metrics compares to historical readings.
+Looking at data back to 1916, the researchers said that the index was a reliable recession indicator since it rose leading up to every prior recession. They found that when the index topped 70%, the likelihood of a recession in the next six months rose to 70%.
+Of course, a number of economic indicators suggest that the economy is chugging along just fine.
+In January, private payrolls posted the highest monthly gain since May 2015, and December housing starts soared to a 13-year high. The U.S. economy grew 2.1% in the fourth quarter of 2019, and 2.3% for the entire year. The U.S. and China signed a "phase one" trade deal in January after months of geopolitical tensions rocking the market. All of these factors suggest continued economic expansion ahead.
+Even with recent market jitters, many Wall Street strategists are still forecasting gains for the year.
+"The fundamental backdrop is supportive, in our view, and the fallout from the outbreak is unlikely to hurt [economic] activity prints over the medium term," Mislav Matejka, JPMorgan's head of global and European equity strategy, said in a note Monday. "Our call remains that one should not expect a US recession ahead of presidential elections."
+- CNBC's Yun Li contributed to this report.

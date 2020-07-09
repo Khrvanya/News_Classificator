@@ -1,0 +1,73 @@
+Home Indiana Agriculture News Corn Left to Plant? Numbers Say You Should Opt Out
+The crop insurance final planting date for corn was Friday, June 5, and the numbers say that those with corn yet to plant should just opt out.
+For higher coverage levels of crop insurance, the University of Illinois farmdoc team says it is difficult to build situations in which planting corn has higher expected returns than taking prevent plant. This is directly related to COVID-19 says Professor Gary Schnitkey and, unlike last year where there was more profit in planting corn, that’s not the case this year.
+“Our parameters are 200 APH yield and 80 to 85 percent coverage level but those don’t matter much in the decision. If you get to June 5 and haven’t planted corn and can take a prevent plant payment, then you probably should.”
+That’s the case all the way down to 70 percent RP crop insurance. By the numbers Schnitkey says taking prevent plant on corn is the right decision even if herbicide and nitrogen have been applied and you throw in a fairly stout MFP payment.
+“On an 85 percent coverage level 200 APH yield, you are looking at returns from prevent plant exceeding that from planting corn by over $150 per acre. So, your MFP payment would have to be over $150 per acre, which probably isn’t likely. So, again, it is just the prices that we are looking at that cause prevent plant to look much more attractive this year than last year.”
+That cash price in Schnitkey’s corn budget is $3.10 a bushel. Again, at that price, even those that have applied herbicide and nitrogen are better off taking prevent plant and that remains the case if you throw in a hefty MFP payment.
+Copyright © 2018. All market data is provided by Barchart Solutions. Futures: at least a 10 minute delay. Information is provided ‘as is’ and solely for informational purposes, not for trading purposes or advice. To see all exchange delays and terms of use, please see disclaimer .
+var mejsL10n = {"language":"en","strings":{"mejs.download-file":"Download File","mejs.install-flash":"You are using a browser that does not have Flash player enabled or installed. Please turn on your Flash player plugin or download the latest version from https:\/\/get.adobe.com\/flashplayer\/","mejs.fullscreen":"Fullscreen","mejs.play":"Play","mejs.pause":"Pause","mejs.time-slider":"Time Slider","mejs.time-help-text":"Use Left\/Right Arrow keys to advance one second, Up\/Down arrows to advance ten seconds.","mejs.live-broadcast":"Live Broadcast","mejs.volume-help-text":"Use Up\/Down Arrow keys to increase or decrease volume.","mejs.unmute":"Unmute","mejs.mute":"Mute","mejs.volume-slider":"Volume Slider","mejs.video-player":"Video Player","mejs.audio-player":"Audio Player","mejs.captions-subtitles":"Captions\/Subtitles","mejs.captions-chapters":"Chapters","mejs.none":"None","mejs.afrikaans":"Afrikaans","mejs.albanian":"Albanian","mejs.arabic":"Arabic","mejs.belarusian":"Belarusian","mejs.bulgarian":"Bulgarian","mejs.catalan":"Catalan","mejs.chinese":"Chinese","mejs.chinese-simplified":"Chinese (Simplified)","mejs.chinese-traditional":"Chinese (Traditional)","mejs.croatian":"Croatian","mejs.czech":"Czech","mejs.danish":"Danish","mejs.dutch":"Dutch","mejs.english":"English","mejs.estonian":"Estonian","mejs.filipino":"Filipino","mejs.finnish":"Finnish","mejs.french":"French","mejs.galician":"Galician","mejs.german":"German","mejs.greek":"Greek","mejs.haitian-creole":"Haitian Creole","mejs.hebrew":"Hebrew","mejs.hindi":"Hindi","mejs.hungarian":"Hungarian","mejs.icelandic":"Icelandic","mejs.indonesian":"Indonesian","mejs.irish":"Irish","mejs.italian":"Italian","mejs.japanese":"Japanese","mejs.korean":"Korean","mejs.latvian":"Latvian","mejs.lithuanian":"Lithuanian","mejs.macedonian":"Macedonian","mejs.malay":"Malay","mejs.maltese":"Maltese","mejs.norwegian":"Norwegian","mejs.persian":"Persian","mejs.polish":"Polish","mejs.portuguese":"Portuguese","mejs.romanian":"Romanian","mejs.russian":"Russian","mejs.serbian":"Serbian","mejs.slovak":"Slovak","mejs.slovenian":"Slovenian","mejs.spanish":"Spanish","mejs.swahili":"Swahili","mejs.swedish":"Swedish","mejs.tagalog":"Tagalog","mejs.thai":"Thai","mejs.turkish":"Turkish","mejs.ukrainian":"Ukrainian","mejs.vietnamese":"Vietnamese","mejs.welsh":"Welsh","mejs.yiddish":"Yiddish"}};
+/* <![CDATA[ */if ( !!window.jQuery ) {(function($){$(document).ready(function(){if ( !!window.SLB ) { {$.extend(SLB, {"context":["public","user_guest"]});} }})})(jQuery);}/* ]]> */
+		for ( var i = 0; i < fields.length; i++ ) {
+					var arr_length = arr_splits.length;
+						for (var i = 0; i < arr_length; i++) {
+							var formated_str = arr_splits[i].replace(/\surl\(\'(?!data\:)/gi, function regex_function(str) {
+								return ' url(\'' + dir_path + '/' + str.replace(/url\(\'/gi, '').replace(/^\s+|\s+$/gm,'');
+    #buddypress div.item-list-tabs ul li > a span,
+    #buddypress div.item-list-tabs ul li > a:hover span,
+    #buddypress div.item-list-tabs ul li.selected a span,
+    #buddypress div.item-list-tabs ul li.current a span,
+    .td-grid-style-3 .td-big-grid-post .td-module-thumb a:last-child:before,
+    .td-grid-style-4 .td-big-grid-post .td-module-thumb a:last-child:before,
+    .td_category_template_2 .td-category-siblings .td-category a:hover,
+    .single-product .product .summary .cart .button:hover,
+    .woocommerce .woocommerce .product a.button:hover,
+    .woocommerce .product #respond input#submit:hover,
+    .td-header-sp-top-menu .top-header-menu > .current-menu-item > a,
+    .td-header-sp-top-menu .top-header-menu > .current-menu-ancestor > a,
+    .td-header-sp-top-menu .top-header-menu > .current-category-ancestor > a,
+    .td-header-sp-top-menu .top-header-menu > li > a:hover,
+    .td-header-sp-top-menu .top-header-menu > .sfHover > a,
+    .top-header-menu ul .current-menu-item > a,
+    .top-header-menu ul .current-menu-ancestor > a,
+    .top-header-menu ul .current-category-ancestor > a,
+    .top-header-menu ul li > a:hover,
+    .top-header-menu ul .sfHover > a,
+    .sf-menu ul .td-menu-item > a:hover,
+    .sf-menu ul .sfHover > a,
+    .sf-menu ul .current-menu-ancestor > a,
+    .sf-menu ul .current-category-ancestor > a,
+    .sf-menu ul .current-menu-item > a,
+    .header-search-wrap .td-drop-down-search .result-msg a:hover,
+    .td_top_authors .td-active .td-authors-name a,
+    .white-menu #td-header-menu .sf-menu > li > a:hover,
+    .white-menu #td-header-menu .sf-menu > .current-menu-ancestor > a,
+    .white-menu #td-header-menu .sf-menu > .current-menu-item > a,
+    #bbpress-forums .bbp-forums-list li a:hover,
+    #bbpress-forums .bbp-body .super-sticky li.bbp-topic-title .bbp-topic-permalink,
+    #bbpress-forums .bbp-body .sticky li.bbp-topic-title .bbp-topic-permalink,
+    .archive .widget_archive .current a,
+    .td-subcategory-header .td-category-siblings .td-subcat-dropdown a.td-current-sub-category,
+    .td-subcategory-header .td-category-siblings .td-subcat-dropdown a:hover,
+    .td_normal_slide .td-wrapper-pulldown-filter .td-pulldown-filter-list a:hover,
+    #buddypress ul.item-list li div.item-title a:hover,
+    .td_smart_list_8 .td-smart-list-dropdown-wrap .td-smart-list-button:hover i,
+    .td-mega-menu .wpb_content_element li a:hover,
+    .td_category_template_2 .td-category-siblings .td-category a:hover,
+    .page-template-page-title-sidebar-php .td-page-content > .wpb_row:first-child,
+    .page-template-page-pagebuilder-title-php .td-page-content > .wpb_row:first-child,
+    .td-header-sp-top-menu .top-header-menu > li > a,
+    .top-header-menu > .current-menu-item > a,
+    .top-header-menu > .current-menu-ancestor > a,
+    .top-header-menu > .current-category-ancestor > a,
+    .top-header-menu > li > a:hover,
+    .top-header-menu ul .current-menu-item > a,
+    .top-header-menu ul .current-menu-ancestor > a,
+    .top-header-menu ul .current-category-ancestor > a,
+    .top-header-menu ul li > a:hover,
+												$liveIframe.contents().find( 'body').append( '<textarea class="tdw-css-writer-editor" style="display: none"></textarea>' );
+													var regex = /el_class=\"([A-Za-z0-9_-]*\s*)+\"/g,
+													for (var i = 0; i < results.length; i++) {
+														for (var j = 0; j < currentClasses.length; j++) {
+									// We did it to reattach the existing compiled css to the new content received from server.
+												return "You have attempted to leave this page. Are you sure?";

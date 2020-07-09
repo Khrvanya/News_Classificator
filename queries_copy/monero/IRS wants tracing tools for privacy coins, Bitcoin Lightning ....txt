@@ -1,0 +1,15 @@
+IRS wants tracing tools for privacy coins, Bitcoin Lightning Network
+The US agency puts out a call for prototypes to trace Monero, Zcash, OmiseGo, and other cryptocurrency tokens and platforms.
+The IRS is on the hunt for new crypto tracing tools.
+The request is focused on privacy-centric coins, as well as off-chain/side-chain protocols.
+Interactive prototypes can be submitted until July 14.
+The United States Internal Revenue Service (IRS) is seeking tools that it can use to trace privacy-centric cryptocurrency tokens, as well as Layer 2 off-chain transaction protocols such as Bitcoin’s Lightning Network .
+The agency issued a Request for Information earlier this week for the pilot program initiated by the IRS Criminal Investigations Division. The IRS is seeking an interactive prototype with a graphical interface that will let it cluster together transactions from a user, as well as associate “user distributed addresses with distributed ledger addresses” of criminal suspects. The news was first reported by industry publication The Block.
+Additionally, the agency wants a prototype that can provide a library of suspects’ distributed ledger addresses, uses open-source intelligence data, and lets agents share data between investigations, as well as export data into various file formats.
+The request specifically calls out the cryptocurrencies Monero (XMR), Zcash (ZEC), Dash (DASH), Grin (GRIN), Komodo (KMD), Verge (XVG), and Horizon (ZEN). In addition to Lightning, it also mentions Layer 2 protocol networks Raiden Network and Celer Network, as well as side-chains such as Plasma and OmiseGo (OMG).
+The IRS admits that it doesn’t have a lot of options on those particular fronts.
+“Currently, there are few investigative resources for tracing transactions involving privacy cryptocurrency coins, Layer 2 network protocol transactions, side-chain ledger transactions, or transactions on distributed ledgers that are adopting signature algorithms that provide privacy to illicit actors,” reads the request document.
+The IRS request cites the recent decision by the Sodinokibi ransomware group to begin demanding ransom in the form of XRM rather than Bitcoin (via BleepingComputer ), due to the added difficulty in tracking it back to hackers. It also cites challenges with tracing Schnorr signatures, or aggregated signatures, with cryptocurrencies that have implemented them.
+“Acquiring applications to allow an investigation to more easily trace privacy coins and other protocols that provide anonymity to illicit actors would allow investigations to be more effective, as well as facilitate a higher level of deterrence by making it harder to conceal criminal activity,” reads the request. “It also provides an investigative efficiency that is currently limited.”
+The deadline for prototype submissions is July 14.
+Get the best of Decrypt where you want it most.

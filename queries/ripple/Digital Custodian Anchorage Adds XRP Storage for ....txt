@@ -1,0 +1,11 @@
+Please consider using a different web browser for better experience.
+Please enable JavaScript in your browser for a better site experience.
+Crypto custodians are increasingly mindful of how stored tokens should be used in governing DeFi protocols. (Credit: NYPL)
+Digital custody provider Anchorage has added custodial support for XRP, the company announced in a Thursday blog post.
+XRP (XRP) is the third-largest cryptocurrency by market capitalization, and is best known as the crypto used by Ripple for cross-border payments. Prior to Thursday, XRP was the only top-three cryptocurrency not supported by Anchorage, which specifically caters to institutional investors.
+Anchorage began supporting XRP on its website formally on Wednesday, its website showed.
+“As the third-largest digital asset by market cap, XRP appeals to a number of our institutional clients, which include VC funds, family offices, hedge funds, and other large-scale crypto investors,” Diogo Monica, president of Anchorage said.
+In a press release, Anchorage said that “an ecosystem of institutions” are already holding XRP.
+XRP joins 18 other digital assets already supported by Anchorage. Monica said that Anchorage is willing to add custodial service for any digital asset that meets the bar.
+“Anchorage has always aimed to support every asset that meets our standards of quality and security, and XRP does both. Particularly during these uncertain times, we’re proud to be growing our list of supported assets and improving operational efficiency for our institutional clients,” he said.
+The leader in blockchain news, CoinDesk is a media outlet that strives for the highest journalistic standards and abides by a strict set of editorial policies . CoinDesk is an independent operating subsidiary of Digital Currency Group, which invests in cryptocurrencies and blockchain startups.

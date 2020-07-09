@@ -1,0 +1,23 @@
+Crypto exchanges are offering more futures and options instruments for investors, but it's crucial to be aware of funding and other fees.
+Trading Bitcoin ( BTC ) futures might seem easy on the surface but there are a number of fees that investors seeking big returns from high leverage trades ignore.
+In addition to trading fees, investors should also be aware of the variable funding rate that many exchanges levy and even maker and taker fees should be taken into account.
+Let’s take a look at three things every crypto trader should know about trading Bitcoin futures.
+There are quite a few hidden costs when trading Bitcoin futures contracts. The most basic one is the funding rate charged to all perpetual futures. These instruments are also known as perpetual swaps and such fees are applied at every exchange.
+For a longer-term investor, this represents almost 20% per month, a significant cut of any expected profits. This fee varies as demand for leverage shifts from long buyers, to short sellers.
+Bitmex BTC perpetual funding rate. Source: Bitmex
+As shown on the chart above, positive figures indicate that buyers will be paying such a fee to sellers, and the opposite holds when the funding rate is negative.
+Trigger happy traders usually overlook trading fees as 0.075% seems like a pretty low figure but it's important to note that those costs are charged upfront based on the leveraged amount traded.
+An investor depositing 0.01 BTC will be paying the same taker fees for a $3,000 trade as another trader depositing 1 BTC. That adds to 0.075%*3,000 = $2.25, reducing one’s margin and potential gains.
+There are also other fees involved in trading, like maker orders which must enter the exchange's order book above or below market levels. There are also taker fees which are incurred on orders that face immediate execution.
+Exchanges will also deduct another $2.25 from a trader's margin to cover potential liquidation fees. Assuming Bitcoin is at the $10,000 level, the $100 initial deposit of 0.01 BTC now requires a 4.7% gain to break even after the $3,000 trade considering taker fees.
+It is possible to avoid such costs by using maker fees, meaning orders can't be executed at market price.
+In the above order book, placing an order to buy at 9,400 USDT would bring a maker fee order. On the other hand, selling at 9,460 USDT would incur 0.075% in taker fees.
+Most futures exchanges offer a negative maker fee, which seems like a pretty good deal as traders are then getting paid to trade. This strategy might work for extraordinarily conscious and cold-headed investors, although this illusion of free money will almost certainly be harmful for most.
+As soon as one places an order, the whole world will be aware of it. If there are enough buyers at a certain level, market makers will likely scalp it by placing orders a few cents ahead.
+Even though a single order might not trigger such activity, algorithmic trading strategies (bots) monitor herd-like activity. By market executing orders, one ends up paying more fees but avoids having to bid $10 or $100 higher for missing the price.
+For traders with timeframes more extended than a week, it makes much sense to avoid paying fees. Negative fees should be seen as an incentive to stick to one's targets and to place stop loss and take profit orders in advance, instead of using market orders.
+There are only positive consequences from this strategy, for example, one can avoid monitoring prices all day and it also helps a trader stick to their game plan .
+There are two ways one can manage margin, although the default setting is cross margin. This setting utilizes the entire amount deposited as collateral for every trade, moving balances to whatever one requires the most. This is the best strategy for almost every trader no matter how experienced one is.
+By selecting an isolated margin, one will be able to manually set the maximum leverage allowed for each contract.
+This setting will cause automated stop losses to be triggered earlier, moving the execution to an automated trading engine.
+The views and opinions expressed here are solely those of the author and do not necessarily reflect the views of Cointelegraph. Every investment and trading move involves risk. You should conduct your own research when making a decision.

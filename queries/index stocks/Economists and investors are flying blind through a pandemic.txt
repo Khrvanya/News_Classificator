@@ -1,0 +1,25 @@
+A version of this story first appeared in CNN Business' Before the Bell newsletter. Not a subscriber? You can sign up right here .
+Faced with an unprecedented crisis , economists and investors are racing to understand the depth of the coronavirus recession and its aftershocks. The problem is, the datasets they'd typically rely on are practically useless.
+Take the monthly US jobs report , which is due out for March this Friday. In normal times, it provides crucial information: How many jobs were added to the economy? What's the unemployment rate? Did wages go up?
+A vital snapshot of America's economic health, it's usually a must-read. But because the survey was conducted in the second week of March, before many of the shutdowns aimed at controlling the spread of the novel coronavirus came into effect, it's already outdated.
+"This is not a normal recession that builds and spreads through time," Justin Wolfers, an economist at the University of Michigan, told me. "Rather, it's an incredibly synchronized event with the government as a conductor."
+Recessions, Wolfers noted, generally unfold over a period of months or quarters. This time, the economic blow from the pandemic, and efforts to contain it, has been instant.
+What it means: The first instructive jobs report won't arrive until early May. The upcoming read of US GDP that covers January through March will be similarly unhelpful.
+"We had a lot of strength in January and February which is going to mask, to some degree, the carnage in March," Liz Ann Sonders, chief investment strategist at Charles Schwab, told me.
+Even the weekly readout of Americans who filed for their first week of unemployment benefits has limited utility.
+Last week, the US government reported that a shocking 3.3 million people filed initial claims, smashing records. The previous high was 695,000 claims filed in October 1982.
+But the number is so outside normal bounds that it's almost impossible to put into context, Wolfers said.
+If the current rate of initial unemployment claims continues for eight weeks, job losses will be on par with the Great Recession , he calculated. If it spikes for just two weeks, however, the coronavirus recession will be extremely sharp but ultimately less severe. It all comes down the path the virus and governments take, which remains uncertain.
+Torsten Slok, chief economist at Deutsche Bank Securities, told me that investors are relying on more unorthodox data as a result, such as the number of passengers traveling through security at US airports.
+He and Sonders both said they'd been keeping an eye on restaurant capacity via booking website Open Table. In the United States, it's been down 100% year-over-year for more than a week, with eateries closed in cities like New York and San Francisco.
+"We have to turn to indicators that we had not looked at before," Slok said. "We just don't have the luxury of waiting."
+US stocks staged a three-day rally last week in anticipation of the $2 trillion relief package just signed by President Donald Trump. Though the S&P 500 snapped the streak on Friday, it still finished the week up more than 10% — its strongest weekly gain since October 2008.
+But markets remain under strain.
+See here: Money market funds have experienced record inflows over the past two weeks, according to data from the Investment Company Institute. These funds are treated by investors like savings accounts.
+"This reflects a broader move toward liquidity and cash-like investments amid uncertainty caused by the Covid-19 pandemic," Shelly Antoniewicz, ICI's senior director of financial and industry analysis, told me.
+Both top-rated and riskier corporate bond funds were hit again last week as investors worried about a raft of downgrades and defaults. It was the fourth week of outflows in a row, according to Bank of America.
+"The pace has arguably decelerated, but outflows are still very sizable," the bank's credit strategists told clients on Friday.
+And it's worth remembering that the S&P 500 still hasn't left bear market territory. The index is down 25% from its high in mid-February.
+Tuesday: US and UK consumer confidence; China manufacturing and services data
+Wednesday: ADP private US employment report; China, Japan and US manufacturing data
+Friday: US jobs report; Constellation Brands ( STZ ) earnings; US services data

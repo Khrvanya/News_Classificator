@@ -1,0 +1,13 @@
+The use of blockchain will threaten the existence of many third-party services.
+The Australian Securities Exchange’s (ASX) ambitious blockchain-based clearing and settlement system is receiving push back from its stakeholders as many are worried about the roll-out, the Financial Times reported on Tuesday.
+Though many customers of the exchange are seeking the delay, Computershare, one of the main share registry companies in Australia, wants at least two years’ delay in the implementation of the project because of the lack of clarity.
+Per the company, the ASX did not provide any necessary technical, operational and regulatory information on how the new blockchain-based system would operate or the exchange’s plans to charge fees for existing and new services.
+Computershare is proposing a delay of the new infrastructure roll out till April 2023 and is seeking an evaluation of the risks of the project, particularly with the implications of COVID-19 on the market.
+The ASX is among the first stock exchanges to develop a blockchain-based infrastructure for its clearing and settlement system. The exchange, however, already delayed the project’s launch multiple times, which was initially set for public launch in April 2021.
+Did COVID-19 Save the Forex Industry? Go to article >>
+Most recently, the exchange issued a notice amid the impact of the COVID-19 outbreak on the markets and indefinitely delayed the launch.
+Ann Bowering, Computershare’s chief executive of issuer services in Australia and New Zealand, highlighted that the exchange should focus on its core systems rather than prioritizing the development of new commercial services.
+The Australian exchange currency executes an average of 2.5 billion share transactions a day. If the blockchain infrastructure is instated, it will threaten the revenues of share registrars.
+The monopoly of the ASX on clearing and settlement services with the replacement of CHESS has also alerted the competition regulator of the country.
+“In particular, the ACCC advocates for transparent and non-discriminatory pricing and access to clearing and settlement services,” a spokesperson of the ACCC told the Financial Times.
+The ASX already launched the testnet of its ambitious decentralized system to replace its decades-old CHESS system, which is now available to a handful of customers, but it has plans to open the industry test environment to all users by October.

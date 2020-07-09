@@ -1,0 +1,11 @@
+API stands for application programming interface. It is a program that connects two applications – for example, your IG trading account and your custom-built platform. Trading with APIs enables you to gain direct access to IG’s ecosystem, providing you with faster order execution and more control, which can enhance the experience of trading.
+Trading with our APIs is an easy way to get live market data, historical prices and execute trades from any of your IG trading accounts – without having to manually trawl various exchanges and dark pools for data and prices. Instead, you can get the information delivered directly to you, ensuring speed and efficiency.
+Who typically trades with APIs?
+Trading APIs are popular among hedge funds and registered trading firms as they enable access to more advanced programs, but they are also widely used among private traders and investors.
+If you want to focus on trading rather than coding, but would like to use an advanced platform that is capable of trading with algorithms, you can use our ProRealTime platform .
+Create bespoke trading solutions with our web-based APIs, either REST-based or streaming
+Use alongside third-party software such as Excel (VBA), .NET, and Java
+With 45 years of experience, we’re proud to offer a truly market-leading service
+We’ll ask a few questions about your trading experience.
+We can usually verify your ID in just a few seconds.
+Or practise on a risk-free demo if you’d prefer.

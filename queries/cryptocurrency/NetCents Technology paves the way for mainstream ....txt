@@ -1,0 +1,9 @@
+NetCents Technology Inc ( CSE:NC ) (OTCQB:NTTCF) announced Wednesday that it is now providing daily settlements for US-based merchants.
+The ability to offer daily settlements removes a major pain point for enterprises using cryptocurrency as a form of payment by speeding up the payment process and paving the way for mainstream adoption, the Vancouver-based company told shareholders.
+NetCents said it is “laser focused” on streamlining and enhancing the merchant experience to keep driving mass adoption of cryptocurrency as a payment method in a bid to overcome the perception that the digital payment system is less trustworthy, according to CEO Clayton Moore.
+"The ability to offer daily settlements to merchants is another feather in our cap in the eyes of our merchants, as they can get their money faster, which really increases the confidence level in our products,” Moore said in a statement.
+Earlier this year NetCents debuted daily settlements for enterprise merchants that process more than $100,000 per month in crypto transactions. After a successful trial period, and integration into the banking Automated Clearing House (ACH) that lets approved parties transfer money with no added costs, the firm launched the capability to all US-based merchants.
+Recent moves to improve the merchant experience include adding Lightning Network as a payment method, additional enterprise invoicing services for SaaS and B2B merchants, enhancing business intelligence reporting and expanding onboarding support.
+The company also expanded its refund functionality for merchants and enhanced the merchant gateway and terminal API’s for custom integrations.
+"(The) interest in using crypto as a payment mechanism, as well as touchless, and cashless payments has really put a spotlight on our platform both in the eyes of the end consumer, merchants, and financial intermediaries," Moore added.
+NetCents’ technology is deployable across millions of terminals worldwide.

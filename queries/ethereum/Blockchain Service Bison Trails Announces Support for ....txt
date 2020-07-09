@@ -1,0 +1,8 @@
+Libra Association member Bison Trails looks forward to moving from the Proof-of-Work consensus mechanism to Proof-of-Stake, launching Eth2 support.
+Blockchain infrastructure-as-a-service company, Bison Trails, has announced support for Ethereum 2.0 — an upgrade that will move the network from its proof-of-work consensus mechanism to proof-of-stake.
+Bison Trails offers a suite of enterprise products that allow users to interact with the Beacon Chain, stake Ether ( ETH ), and automatically manage validators, validator clients, and beacon nodes.
+Joe Lallouz, CEO of Bison Trails told Cointelegraph about the importance of adopting Eth2 within the crypto industry and which benefits could bring like new scalability options for the protocol:
+Lallouz mentions that a fully-featured Participation Cluster product is included, which allows their customers to manage their Beacon Chain and validators from within the Bison Trails platform.
+Bison Trails’ CEO said the network will reward validators early, with a reward rate of 23% on ETH, representing “a significantly higher potential return than most alternative uses of ETH.” He added:
+“Because stake and rewards are locked up for several years on Eth2, choosing an infrastructure provider you trust is an important consideration. It is risky to change providers because transferring a validator requires sharing the private key, risking slashing.”
+Recently, Bison Trails announced support for NEAR, which is designed to power open finance and the open web.

@@ -1,0 +1,17 @@
+The world’s most deadly terror syndicate is no longer accepting Bitcoin donations. ISIS has gone full Monero.
+An update to an ISIS website shows that the terrorist group no longer accepts Bitcoin donations.
+Instead, ISIS will now accept privacy coin Monero.
+Bitcoin transactions are easier to trace than Monero transactions.
+Bitcoin is a form of digital currency, created by Satoshi Nakamoto in 2008.
+, cry the staunchest naysayers. Well, not ISIS—not anymore.
+The infamous terrorist group has reportedly chucked Bitcoin in favor of its “privacy focused” cousin, Monero . According to Israeli blockchain
+Blockchains are distributed ledgers, secured by cryptography. They are databases that multiple people can access and read, but can only be updated by the data owners. Instead of the data residing on a single centralised server, the data is copied and stored on multiple computers.
+A catch-all term for tokens used by networks as either a store of value, resources or information.
+ISIS and other terrorist groups have accepted Bitcoin donations since at least 2014. But these fundraising options have lately come under heavier scrutiny from governments and law enforcement officials as, over time, Bitcoin’s popularity has increased while blockchain analytics software has made it easier to trace funds on Bitcoin’s public blockchain.
+This is presumably the reason for the switch to Monero, a so-called privacy coin that is meant to be more anonymous than the pseudonymous Bitcoin. Unlike Bitcoin, whose addresses are public on the blockchain for anyone to see, Monero transactions are “blinded,” meaning only the sender and receiver know the full amount that has been transacted. Monero wallets can also generate stealth addresses that obscure ownership of wallet addresses.
+Even as ISIS moves on from Bitcoin, cryptocurrency donations are a dwindling source of income for terrorist groups. Despite wild claims of a multi-million dollar “war chest” in Bitcoin held by ISIS from the Counter Extremism Project, blockchain analytics company Chainalysis says the figure is actually much, much smaller. Last month, it published a report finding that ISIS likely holds less than $100,000 in Bitcoin (and that other terrorist cells are in a similar boat).
+This may be in part because it would be difficult for ISIS to move or “cash out” of their Bitcoin stash if it got too large. But Monero might not solve this problem either.
+If ISIS is using so-called “light” clients (wallets that don’t require a copy of the entire blockchain’s history to operate), then it might compromise its privacy using the coin anyway. This is because it would be entrusting certain data to whomever is hosting the full node that its wallet uses to interact with the Monero network.
+Whoever runs this node could leak info that could compromise its users. Besides this, app developers for Monero light clients on app stores could also leak info on who downloaded their software, another avenue to compromise user privacy. And, finally, even if ISIS were using Monero perfectly, it could still have its Monero addresses traced back to an IP address if it is the only Monero user in, say, a 50-100 mile radius.
+Just like Bitcoin, Monero isn’t free from blockchain surveillance, and if it’s not used properly—as with any “privacy preserving” technology such as VPNs and Tor for web browsing or CoinJoins for Bitcoin mixing—then it won’t work as intended.
+Get the best of Decrypt where you want it most.

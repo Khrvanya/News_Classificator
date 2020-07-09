@@ -1,0 +1,15 @@
+All three metals are highly correlated.
+Price ratios indicate that silver and platinum are undervalued.
+The gold standard is still alive. Most of the uses for gold are for jewelry, bars/coins, and investing.
+If you've read my articles recently, you know that I've gone into precious metals. I'm not too positive on the world economy. This doesn't mean the world economy will do poorly, but it does mean there is a lot of uncertainty (trade war, high corporate debt, high federal debt, possible negative interest rates, etc).
+Precious metals are looking like a great alternative especially with bond yields being low or even negative. Please look at my previous article for more information.
+Ray Dalio (founder of Bridgewater Capital) also has an article addressing this point.
+This article is research into which metals to choose. The typical choices are gold, silver, and platinum. All are highly correlated, but one can outperform the others.
+Gold, Silver, and Platinum are all very similar investments. This can be seen from correlation coefficients.
+If you aren't familiar with correlation coefficients, 1 is the highest it can go. If the correlation coefficient is 1, it means that each metal perfectly matches relative price movements.
+These are all very high correlations. An investment in any of them will be fairly similar, although prices do fluctuate. The dates are slightly different due to information available on the web. Information was obtained from Macrotrends.
+Investors consistently look at the ratio between metal prices. Investors do this to get an idea if one metal is a better value than the other. The most common ratio is gold to silver. This ratio shows how much silver it would take to buy gold. If the ratio is higher than the average, it may mean silver is undervalued; if it's low, it may mean gold is undervalued. These ratios will only indicate value if you expect the ratio to revert back to the average at some point in the future. These ratios aren't exact evidence. It could mean that one metal could out-price another in the long term.
+As can be seen above from these numbers, silver looks like the better value compared to gold. There are even some indications of support and resistance around 50 and 90 respectively.
+Platinum looks to be the better value compared to gold by a lot. Notice the shape of this graph too and how gold has significantly outpaced platinum for many years. The current price ratio is now about double the historical average.
+Platinum looks to be the better value compared to silver. Silver has made recent price gains compared to platinum in the early 2000s.
+Let's examine these ratios several different ways.

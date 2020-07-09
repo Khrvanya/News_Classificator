@@ -1,0 +1,17 @@
+A surge higher to finally exit the $8,000 range was short-lived at press time as observers waited to see where support would appear.
+Bitcoin ( BTC ) hit $9,000 on Jan. 17 as technical metrics continued to break both local and all-time records.
+Data from Coin360 and Cointelegraph Markets showed BTC/USD finally rising to the significant $9,000 boundary on Friday, following a bullish run-up overnight.
+At press time, a slight retracement had sent the pair slightly lower to $8,900, with 24-hour returns still at 3% and weekly performance stronger at almost 16%. Bitcoin holders are currently sitting on monthly gains totaling almost 35%.
+Now, however, attention is turning to shorter time frames. For regular Cointelegraph contributor filbfilb , despite Bitcoin’s bullish overall movements, the next close would be crucial in determining short-term trajectory.
+Specifically, if BTC/USD were to close below the bullish candle, which took it to current highs, the chance of a bearish reversal would be on the table. The price under such circumstances would then paint a so-called swing failure pattern, or SFP, which in turn may keep the pair lower.
+“When price pierces above a key swing high but then closes back below that swing high, we have a potential bearish SFP,” he summarized in private comments to Cointelegraph.
+In addition, the 200-day moving average, which has served as major resistance for the past two years, is also hovering around the low $9Ks. Thus, it will likely present a critical barrier for the bulls if a run-up to $10,000 is to occur.
+Regardless, Bitcoin was exhibiting multiple trends to excite analysts as the week drew to a close.
+Hash rate, a measure of the computing power dedicated to validating the Bitcoin blockchain, hit a new all-time high on Thursday. While figures vary, monitoring resource Coin Dance put Bitcoin’s hash rate at 149 quintillion hashes per second.
+Also making fresh progress was overall interest in Bitcoin, with data from Google Trends showing worldwide searches for the term “Bitcoin” at their highest since late October.
+Cointelegraph regularly reports on both hash rate and public awareness on Google Trends.
+Altcoins continued their highly varied bullish price action as Bitcoin hit two-month highs.
+Out of the top twenty cryptocurrencies by market cap, it was Ethereum Classic ( ETC ) which led the charge on Friday, rising over 30% to $9.82.
+Ethereum ( ETH ), the largest altcoin, meanwhile managed 6.5% to trade at $172.
+Other solid performers were Chainlink ( LINK ) and Cosmos ( ATOM ), both of which delivered around 17% 24-hour gains.
+The overall cryptocurrency market cap was $245.6 billion, with Bitcoin’s share at 66%.

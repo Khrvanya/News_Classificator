@@ -1,0 +1,4 @@
+Your browser does not support HTML5 video.
+In an original WSJ documentary, markets reporter Steven Russolillo ventures to Japan and Hong Kong to explore the universe of cryptocurrencies. His mission: create WSJCoin, a virtual token for the newspaper industry. Image: Crystal Tai. Video: Clément Bürge
+Technology from the bitcoin world is coming to the trillion-dollar plumbing that underpins the U.S. stock market.
+Last week, the Securities and Exchange Commission gave the green light to a pilot project in which blockchain—the technology behind cryptocurrencies—will be used to settle trades in stocks like General Electric Co. and AT&T Inc. Paxos, the blockchain startup leading the project, hopes to construct a faster and cheaper way to process stock trades, ultimately reducing costs for Wall Street banks and investors...

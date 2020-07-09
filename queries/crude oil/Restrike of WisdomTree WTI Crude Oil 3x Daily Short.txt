@@ -1,0 +1,6 @@
+The Issuer announces that due to movements in oil prices, a Restrike Event has occurred with respect to the Impacted Products.
+The details of the restrike are as follows:
+Restrike Price per ETP Security: $3.8750511
+All other classes of ETP Securities issued by the Issuer will continue to be priced and will continue to trade in their normal manner.
+Terms used in this notice and not otherwise defined bear the same meanings as where used in the base prospectus of the Issuer dated 3 September 2019.
+Details of the Impacted Products are set out below:

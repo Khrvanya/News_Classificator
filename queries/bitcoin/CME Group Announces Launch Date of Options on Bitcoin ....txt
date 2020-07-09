@@ -1,0 +1,8 @@
+The Chicago Mercantile Exchange Group has announced the date it expects to launch options on Bitcoin futures.
+The Chicago Mercantile Exchange ( CME ) Group has announced the date it expects to launch options on Bitcoin ( BTC ) futures in a statement on Nov. 12.
+“In response to growing interest in cryptocurrencies and customer demand for tools to manage bitcoin exposure, CME Group will launch options on Bitcoin futures (BTC) on January 13, 2020,” the company revealed in the announcement. The CME Group said that the upcoming product is still pending regulatory approval.
+CME Group specified that one Bitcoin futures contract will represent 5 BTC quoted in U.S. dollars, with a block minimum of five contracts. The announcement reads:
+“Option exercise results in a position in the underlying cash-settled futures contract. In-the-money options are automatically exercised into expiring cash-settled futures, which settle to the CME CF Bitcoin Reference Rate (BRR) at 4:00 p.m. London time on the last Friday of the contract month.”
+In September, CME Group revealed plans to roll out options on BTC futures by Q1 2020. At the time, Tim McCourt — CME Group global head of equity index and alternative investment products — said that the new products are intended to help institutions and professional traders manage spot market BTC exposure, and enable them to hedge BTC futures positions in a regulated exchange environment.
+In October, the company said it expected to see high demand in Asia for its forthcoming BTC options product. McCourt noted that options would likely enable Bitcoin miners to more accurately hedge the costs of their production.
+At the same time, McCourt also stated that CME Group has no current plans to launch physically-settled Bitcoin contracts.

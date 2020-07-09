@@ -1,0 +1,16 @@
+Bitcoin educator Andreas Antonopoulos says that while futures markets may indeed place a damper on the coin’s price, the stakes are different to what you might think.
+Bitcoin ( BTC ) educator Andreas Antonopoulos says that while futures markets may indeed place a damper on the cryptocurrency’s price, the stakes are different to what you might think.
+In a Nov. 27 interview with YouTuber “Ivan on Tech,” Antonopoulos argued against the grain of commonplace fears about the adverse price impact that Bitcoin futures trading has on spot prices.
+He suggested it’s the speculators — not the HODLers — who truly have something to fear.
+Cash-settled Bitcoin futures — which have been trading since December 2017 on both the Chicago Mercantile Exchange (CME) and Chicago Board of Exchange (CBOE) —  have consistently drawn suspicion from traders and analysts, with many contending that Bitcoin’s price is vulnerable to manipulation in advance of contract settlements.
+Antonopolous started the discussion by conceding these fears are likely true, “We know for a fact that when the Bitcoin bubble started to go up really fast in 2017, the U.S. Treasury decided to fast-track the deployments of futures markets in order to stop that bubble.
+A lot of people see that as conspiracy, but if you look at the mandate of institutions like the Treasury, that’s actually their job.”
+Price suppression, he claimed, is not a matter of conspiracy, it’s a market-based approach to enable those who don’t believe in cryptocurrencies to take a contrarian position by shorting.
+This has, of course, put a damper on the price, he said — but it’s also reduced volatility.
+A market comprised purely of positive believers — or at least those willing to hold the coin itself — is going to be very “one-sided,” he noted. “It’s not really a market with full liquidity on both sides of the order board.”
+Ironically, naysayers who had once decried volatility are now decrying futures “manipulation,” he quipped.
+Importantly, Antonopoulos said, futures critics often overlook the real stakes of cash-settled cryptocurrency shorting.
+There’s something “really dangerous about doing cash-settled naked shorts against a cryptocurrency,” for when you borrow Bitcoin as part of a short, your liability — your potential risk — is unlimited:
+“If they [institutional investors] faced a situation of a renewed Bitcoin bubble and they continued to take a contrarian position against the market, they’d be throwing fiat into a black hole.”
+As reported , Intercontinental Exchange (ICE)’s Bakkt platform has recently confirmed its forthcoming launch of a cash-settled Bitcoin ( BTC ) futures contract.
+The new product will be settled against data from Bakkt’s existing physically-delivered Bakkt Bitcoin (USD) Monthly Futures contract — a pioneering product that was the first to give futures traders direct exposure to the underlying cryptocurrency.

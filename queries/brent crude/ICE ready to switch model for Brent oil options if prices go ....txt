@@ -1,0 +1,4 @@
+FILE PHOTO: The word oil is pictured on an oil bank at a recycling yard in London March 2, 2011.  REUTERS/Stefan Wermuth
+LONDON (Reuters) - Brent crude oil options are not currently set up to settle at negative prices but the Intercontinental Exchange (ICE) that operates the contract is ready to switch pricing models if necessary, ICE said.
+“We currently use Bachelier to settle Brent Calendar Spread Options and other options products where the underlier can trade at negative prices,” a spokeswoman for the ICE said in a statement.
+“If Brent prices become negative or we determine that the market wants to trade negative strikes for other oil contracts such as ICE Brent Options, we will look to expand the use of the Bachelier model as necessary.”

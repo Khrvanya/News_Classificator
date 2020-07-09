@@ -1,0 +1,13 @@
+ConsenSys has announced that six top crypto firms will receive early access to its ETH 2.0 staking platform.
+Six high-profile crypto firms will participate in an ETH 2.0 staking pilot project using the ConsenSys Codefi platform.
+On June 17, ConsenSys tweeted that cryptocurrency exchanges Binance and Crypto.com, digital asset custody providers Trustology, Matrixport and Huobi Wallet, and investment firm DARMA Capital would receive early access to an ETH 2.0 staking pilot thorough its decentralized finance Codefi platform.
+The move comes amid increasing excitement for the long-awaited ETH 2.0, which will integrate a proof-of-stake ( PoS ) consensus mechanism into Ethereum ( ETH ).
+The rollout will see a network of validators receive fees in exchange for securing the Ethereum network. Validators are required to lock up a minimum of 32 Ether.
+James Slazas, chief executive of DARMA Capital, described ETH’s PoS upgrade as “a pivotal moment for both Ethereum and the Web 3.0 ecosystem.”
+A number of third-party staking solutions are emerging as some prospective stakers are willing to give up a portion of their rewards in exchange for custody and management services. Others simply don’t have 32 ETH to stake.
+“Some of the risks associated with running your own validator include theft or loss of withdrawal keys, incorrect transfer of funds to the [ETH 2.0] deposit contract, and not to mention hardware or internet connectivity failures which result in a loss of validator rewards,” said Codefi Staking product lead, Tim Lowe.
+“With ConsenSys Codefi, validator keys are held in a secure vault with online signing capability, and there will be multiple layers of gatekeepers validating transactions preventing unauthorized usage,” he added.
+Enthusiasm for staking services has also manifested in the form of an explosive price rally for RPL , the token underpinning Rocket Pool — an ETH 2.0 staking pool targeting investors holding less than 32 Ether.
+From mid-March until mid-May, RPL gained over 950% from roughly $0.30 to all-time highs of $3.20. RPL has since retraced to $1.90.
+Despite the anticipation, ETH 2.0’s rollout has seen persistent delays . A year ago, the Ethereum Foundation’s Justin Drake was aiming for a genesis date of Jan. 3, 2020. That was then pushed to mid-2020.
+Speaking to Cointelegraph, Consensys developer John Wolpert stated that he was “very impressed with the maturity [...] of the Ethereum core dev guys” for standing their ground and refusing to “sell the soup until it’s soup” despite complaints from the community regarding the delays.

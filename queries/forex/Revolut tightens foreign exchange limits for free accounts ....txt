@@ -1,0 +1,14 @@
+Revolut tightens foreign exchange limits for free accounts, doubles fees for weekend transfers
+The digital banking challenger's new fees and limits will come into effect on 12 August.
+Revolut is tightening its foreign exchange offering for its free plan in a bid to reduce costs amid a coronavirus slowdown. It is reducing the amount users can exchange for another currency from £5,000 to £1,000 per month, with fees also doubling for weekend transfers.
+Last week saw the launch of Revolut’s ‘super app’ and revelations, shared via leaked messages from its CEO Nik Storonsky , that the firm is seeing lower revenues owing to COVID-19 as growth slows.
+Yesterday it sent an update to customers saying:
+"As you probably know, if you exchange more than our free exchange limit in a month, you pay a fee. This limit is decreasing to £1,000 each month (which, our research shows, most of you won’t hit anyway). Above that limit, our fee will stay the same at just 0.5%, and we’ll let you know if an exchange will be subject to a fee."
+Premium and Metal plans which have always had an unlimited exchange will continue to do so.
+Revolut said that users would also continue to see interbank exchange rates on weekdays but weekend transfers will become more expensive.
+It is increasing its weekend mark-up for major currencies from 0.5 per cent to 1 per cent, “to cover our risks when the market moves (as it has a bit recently)”.
+Domestic transfers and Euro transfers within the Single Euro Payments Area are remaining free.
+The first payment/transfer each month to an account outside of users’ own country will be free, but after that, there will be a fee of 50p per payment.
+If you make a transfer to a country that is not in its national currency, there will be a fee of £3 for USD transfers (like US Dollars to Brazil) or £5 for non-USD transfers (like GB Pounds to Brazil.)
+Revolut says it will always let users know beforehand if a transfer you are about to make will incur a fee.
+A spokesperson for Revolut said: "We've spoken to thousands of our customers to better understand how they are using Revolut. What we've learnt is that more of our customers are now using Revolut as their primary account, not just as a travel card. Less than 3 per cent of our 12 million customers come close to using the current free FX limit, so the vast majority of our customers will not see any increase in fees. Our Premium and Metal customers will continue to have unlimited FX, as they always have."

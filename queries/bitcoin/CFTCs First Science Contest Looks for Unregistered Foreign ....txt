@@ -1,0 +1,16 @@
+CFTC’s First Science Contest Looks for Unregistered Foreign Offerings, Including Bitcoin Futures
+U.S. CFTC launches its first science contest to find new technological tools to find unregistered derivatives offerings from foreign entities, including Bitcoin futures.
+A major United States financial regulator is holding its first science contest, asking devs for new tools to track foreign derivatives offerings that may be soliciting U.S. investors without proper registration.
+Per an April 21 announcement shared with Cointelegraph, the United States Commodities and Futures Trading Commission (CFTC) and its fintech office LabCFTC are launching Project Streetlamp, a contest to help find unregistered offerings. The contest aims:
+“To deploy technology, including artificial intelligence  (‘AI’), to help the CFTC identify foreign entities that may be engaged in conduct that requires registration, but which have not registered.”
+Included in the types of offerings listed as matters of concern for the project are Bitcoin ( BTC ) derivatives, and contracts for other CFTC-regulated cryptocurrencies.
+Speaking to Cointelegraph, LabCFTC Director Melissa Netram described Project Streetlamp as the first — but hopefully not the last — science contest that the regulator has taken part in:
+"We're excited to launch it because it's the first time that the commission has ever done something like this, and we're hoping it's the first of many.”
+Netram further commented on the importance of “the role innovators play to help government agencies, like ours, fulfill our mission of protecting investors.” In announcing the project, CFTC Chairman Heath Tarbert said:
+“To stay ahead of the curve, we need forward-thinking approaches like the tools that may arise from LabCFTC’s Project Streetlamp, especially as they enhance our ability to keep consumers informed and ultimately, protecting their investment funds.”
+The contest aims to widen the range of the CFTC’s registration deficient list, or “ RED List .” The list currently includes just over 150 entities that the commission has identified in the aims of providing a resource to investors.
+Regarding the current path for updating the RED List, Netram said it depends on consumers contacting the CFTC with potentially unauthorized foreign offerings. “We usually receive tips from consumers,” she explained, “and then we proceed with our own investigations."
+Project Streetlamp looks for new tools to streamline the search for such offerings.
+Winners will be named CFTC Innovator of the Year. There is no cash prize, but the contest does not grant the CFTC ownership over the projects. After the competition is finished, winners will have the opportunity to go through the CFTC’s usual procurement process to bring any tools that they want to have on board for future expansion of the RED List.
+The CFTC in general and LabCFTC in particular are highly active in crypto markets in the United States. At the end of March, the commission issued new rules governing the physical delivery of derivatives for crypto assets like Bitcoin.
+Around the same time, Netram’s predecessor at LabCFTC, Daniel Gorfine, along with former CFTC Chairman J. Christopher Giancarlo spoke with Cointelegraph about their new initiative to promote a digital dollar.

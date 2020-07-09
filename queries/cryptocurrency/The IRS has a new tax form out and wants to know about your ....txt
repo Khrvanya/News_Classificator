@@ -1,0 +1,20 @@
+The IRS released a new form you’ll need to complete your 2019 tax return. The agency is asking whether you’ve acquired, exchanged or sold a financial interest in virtual currency.
+Earlier this year, the IRS sent letters to taxpayers who’ve made virtual currency transactions, telling them to pay back taxes and file amended returns.
+Keep track of your transactions and your cost basis.
+Tax season is still months away, but the IRS will want to know about your cryptocurrency holdings.
+The IRS just released a new Schedule 1 for the 2019 tax season, spelling out the details on above-the-line deductions, including the tax break for student loan interest and health savings account contributions.
+Eagle-eyed taxpayers will notice that the IRS threw in an extra question on the form: "At any time during 2019, did you receive, sell, send, exchange or otherwise acquire any financial interest in any virtual currency?"
+This is the agency's latest effort to gather additional information on taxpayers' virtual currency holdings.
+"The biggest thing is that the IRS is asking this for a reason, and my question is how much have you increased your audit risk by checking 'Yes' in response?" asked Jeffrey Levine, CPA and director of financial planning at BluePrint Wealth Alliance in Garden City, New York.
+The inquiry itself is a vague one, experts said.
+"As a taxpayer myself, I find this question very frustrating because it isn't clear," said Sarah-Jane Morin, partner at Morgan Lewis in San Francisco.
+Moving your own virtual currency from one crypto wallet to another, for instance, could be considered "sending," she said
+"The most conservative approach that a taxpayer can take is to consider any interaction you've had with virtual currency and whether there's any way this can fall under this very broad list of what you could've engaged in during 2019," said Morin.
+Indeed, the IRS has signaled that it would be taking a closer look at cryptocurrency.
+Back in July, the agency announced it was sending letters to more than 10,000 taxpayers with virtual currency transactions who may have failed to report income and pay taxes owed.
+Here are the tax basics on cryptocurrency.
+The Internal Revenue Service (IRS) headquarters in Washington, D.C.
+If you sold your cryptocurrency, you need to report the transaction. If you wound up with a capital gain, you must pay the appropriate tax.
+Cryptocurrency you receive from an employer is subject to federal income tax withholding, FICA tax and federal unemployment taxes, just like wages. These should be reported on your Form W-2, the IRS said .
+Meanwhile, independent contractors who are paid in virtual currency must pay self-employment taxes.
+For those who mine cryptocurrency, the fair market value of it as of the day of receipt is included in your gross income, according to IRS guidance.

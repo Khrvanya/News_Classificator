@@ -1,0 +1,36 @@
+Metal stocks may be bottoming out, but 2020 could still test investors’ patience
+2 min read . Updated: 26 Dec 2019, 11:47 PM IST Clifford Alvares
+The worst may be over for metal stocks. This sector did not put up much of a show in the first half of 2019, but could well be turning a corner in 2020. Signs of improvement in the global market are beginning to drive metal prices higher. However, this does not portend a sharp recovery for the metal sector, only a gradual one.
+Thankfully, for the metal industry, global market conditions are improving. China’s metal consumption is expected to bounce back after the US and China seem to be moving towards a truce on trade. As a result, global metal prices have begun to inch up.
+Besides, China’s stimulus is expected to drive global steel demand higher, which will have a beneficial effect on domestic steel producers. “In early CY20, Chinese steel demand should reflect the success of the government’s massive economic stimulation efforts. Steel demand could rise again in 2020 to the extent of about 5% assuming that the government is strongly promoting gains in fixed-asset investment," said ICICI Securities in a note to clients.
+While that is a good sign, the hitch is domestic demand. In steel, for instance, the two big consumers, auto and infrastructure, have not seen much growth momentum yet. A pick up in gross domestic product (GDP) growth is clearly needed to revive the sector. This could happen in the latter part of 2020, once economic conditions improve.
+Domestic steel producers have countered the lacklustre demand with exports in the last quarter of 2019. That is expected to sustain at least in the first half of 2020. In the second half, automobiles and infrastructure are expected to add a gloss to steel demand.
+Meanwhile, as most metal stocks were beaten down in 2019, some of the recent uptick in metal stocks is understandable.
+Besides, metal companies have a significantly stronger balance sheet this time around, as most companies have slowed expansion and capped debt levels. Hence, even a small improvement in demand conditions could see the benefits of operating leverage kick in.
+Global demand for aluminium, though, has remained soft. Global inventory levels are not down significantly yet. But global aluminium prices have been inching up, which could help revive the sector in 2020.
+Supply disruption in iron ore mining could keep the sector buoyant towards the start of 2020, while a demand pickup is expected to see the momentum going for iron ore in the second half.
+Meanwhile, the Nifty Metal index, which lost 30% until August 2019, recovered and is now down 13% this year.
+The broad-based Nifty 500, however, is up 7% in the same period. Nevertheless, it shows investors are willing to wager that the revival may sustain.
+* Thank you for subscribing to our newsletter.
+Click here to read the Mint ePaperLivemint.com is now on Telegram. Join Livemint channel in your Telegram and stay updated
+You are now subscribed to our newsletters. In case you can’t find any email from our side, please check the spam folder.
+lozad('.lozad', { load: function(el) { el.src = el.dataset.src; el.onload = function() { el.classList.add('fade')}}}).observe()
+.myAccount .planSec, .myAccount a.LinkCTA{padding:16px; margin:16px; box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.1); background-color: #fff;}
+	       		var userData = data;
+	       		var name = userData.name;
+	       		var email = userData.email;
+	       		var signupSource = userData.source;
+	       		var subscribedAtOnce = userData.subscribedAtOnce;
+	       		var plan  = userData.plan;
+	       		document.getElementById('uName').innerHTML = "<strong>"+name+"</strong>" + email;
+		       		var status = planData.status;
+		       		var purchaseSource = planData.source_device;
+			       		var nextActivationDate = planData.current_term_ends_at;
+			       		var planDescription = planData.plan.description;
+			       		var planName = planData.plan.name;
+			       		var planPrice = planData.amount;
+			       		//var planInterval = planData.shipping_interval;
+			       		var planInterval = planData.duration;
+			       		var planUnit = planData.interval_unit;
+			       		//var html = "<strong>Your Subscription Plan</strong>"+planName+" ₹"+planPrice+" / "+planInterval+" " + nextBillingHtml + cancelHtml; 
+			       		var html = "<strong>Your Subscription Plan</strong> "+planDescription + " "+ planName +": ₹"+planPrice + " "+ nextBillingHtml + cancelHtml;

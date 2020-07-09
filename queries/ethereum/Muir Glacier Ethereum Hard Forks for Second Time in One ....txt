@@ -1,0 +1,11 @@
+Please consider using a different web browser for better experience.
+Please enable JavaScript in your browser for a better site experience.
+Ethereum has completed its second hard fork in less than 30 days.
+With the mining of block 9,200,000, the Muir Glacier upgrade has been implemented on the network. The block was mined Jan. 2 at 8:30 UTC.
+As of press time, 92 percent of ethereum clients were synced with the new upgrade, according to Ethernodes .
+First proposed by EthHub’s Eric Conner in November as Ethereum Improvement Proposal (EIP) 2384 , Muir Glacier delays the “difficulty bomb” by four million blocks. With the delay, the difficulty bomb is expected to not “go off” again for a few years, at least until the deployment of key Eth 2.0 features such as the finality gadget .
+A purposeful design since ethereum’s launch in 2015, the difficulty bomb slowly increases block time settlement so as to push the network toward proof-of-stake (PoS).
+If Muir Glacier was not implemented, the cost of transactions on the current ethereum network would skyrocket as block settlement times are projected to hit 20–30 seconds per block. As fewer blocks are minted every day, the cost of fitting transactions into blocks increases, Conner said.
+“Imagine we had 13-second block times (that means we can do about 6,500 blocks a day),” Conner explained. “Once we get to 20-second block times, we can only do 4,300 blocks a day. If we assume the network is generally fully utilized, we now have more fighting for block space every day. That’s going to drive the fee market up and make transactions more costly to dapp users.”
+Ethereum’s transition to PoS has been a slow-moving endeavor, however. Optimistic timelines place Eth 2.0 for some time in 2021 under the Serenity update. Muir Glacier, like ethereum’s 2019 Istanbul , Constantinople and St. Petersburg hard forks, fall under the Eth 1.x descriptor, understood as incremental moves toward the Eth 2.0 network overhaul.
+The leader in blockchain news, CoinDesk is a media outlet that strives for the highest journalistic standards and abides by a strict set of editorial policies . CoinDesk is an independent operating subsidiary of Digital Currency Group, which invests in cryptocurrencies and blockchain startups.

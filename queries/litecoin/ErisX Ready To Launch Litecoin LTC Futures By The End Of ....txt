@@ -1,0 +1,13 @@
+The crypto solutions provider ErisX is planning to launch Litecoin (LTC) futures contracts by the end of the current year.
+At the same time, the firm is expected to offer Bitcoin (BTC), Bitcoin Cash (BCH) and Ethereum (ETH) futures as well.
+In a recent blog post released by ErisX, they will be offering cryptocurrency futures for Bitcoin , Litecoin , Bitcoin Cash and Ethereum.
+In order to be able to ensure institutional members can process these futures contracts using their existing back-office workflows, ErisX worked with FIS to make sure the exchange and clearinghouse are supported by FIS services.
+At the moment, many futures market intermediaries are already working with FIS to gain data-driven insights and scale their businesses.
+It is worth mentioning that back-office operations that use FIS services will be receiving the same data they are used to receiving for other commodity trading venues through FIS services.
+Thomas Chippas, the CEO of ErisX considers that the current integration of ErisX’s digital asset futures products into FIS’ workflows is a necessary step in the evolution of their platform.
+In addition to it, he mentioned that working with an industry-leading firm like FIS underscores the importance they place on establishing the fundamental infrastructure to offer futures market intermediaries that provide services to institutional investors.
+Bob Fitzsimmons, the Executive Vice President at Wedbush Securities, explained that FIS’ support of ErisX’s products shows that their ‘intermediary-friendly’ vision is coming to fruition.
+According to the blog post released by ErisX, FIS completed integration and started testing ErisX’s products on Monday, September 23. At the moment, ErisX offers spot trading on the aforementioned cryptocurrencies.
+ErisX’s spot market was launched back in May. Moreover, the firm announced at that time that they were going to build their technology and raise funds to support it. Indeed, the firm was able to gather $20 million during a third round of Series B investments.
+Some of the firms that invested in ErisX include Bitmain, Fidelity Investments, Monex Group and TD Ameritrade, among others.
+Free report teaches how to structure your crypto portfolio, so you can maximize gains and minimize losses.

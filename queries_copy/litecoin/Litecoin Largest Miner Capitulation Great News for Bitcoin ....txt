@@ -1,0 +1,12 @@
+An about-turn in mining difficulty for Litecoin could foretell a bull run for Bitcoin price as well, the statistician says, as markets continue pushing $8,000.
+Bitcoin ( BTC ) could have its bull market induced by Litecoin ( LTC ) as the latter enters a bullish renaissance, noted statistician Willy Woo has forecast.
+In a series of tweets on Jan. 6, Woo, well known in crypto circles as the creator of data resource Woobull, highlighted an upturn in Litecoin’s fortunes in recent weeks.
+Specifically, it is the altcoin’s mining difficulty that has begun rising once more after more than six months of decline.
+The difficulty is a measure of how much computing effort is required to process transactions on a cryptocurrency’s blockchain. A drop in price can make miners retire due to low profitability, which triggers a drop in difficulty. This, in turn, has implications for network security.
+Woo said the second half of 2019 was “the largest miner capitulation LTC has ever faced.” Data from Woobull confirms difficulty dropping from over 16 million last July to just 4.7 million in mid-December.
+Since then, the difficulty has begun improving, currently standing at 5.1 million. This, Woo says, could not only produce a bull run for Litecoin but spill over to fuel the already bubbling Bitcoin market.
+“Litecoin Difficulty Ribbon now in recovery,” he wrote in further comments, adding:
+“Should set up a bullish breakout of the bearish channel. I wouldn't be surprised if LTC leads a bullish breakout of BTC.”
+Litecoin launched in 2011 as a hard fork of the Bitcoin Core client and is currently the sixth-largest cryptocurrency by market cap.
+Despite losing considerably in the altcoin collapse of 2018, the coin’s performance improved in 2019. As Cointelegraph reported , LTC/USD jumped from $32 to $141 in the first half of the year — frontrunning Bitcoin’s own leg-up that began on Apr. 1.
+In November, Cointelegraph contributor Keith Wareing forecast “significant” incoming gains for LTC holders. In the event, markets hit $61 before declining to $37 before Christmas. At press time, Litecoin traded at $45 on 1.3% daily gains, modest compared to Bitcoin’s 5.5% .

@@ -1,0 +1,52 @@
+Please consider using a different web browser for better experience.
+Please enable JavaScript in your browser for a better site experience.
+New analysis of the economic model behind Ethereum 2.0 suggests validators can expect to earn 4.6–10.3 percent in annualized rewards at the start.
+The hardware cost for running Ethereum 2.0 validator software may increase as a result of a new design proposal by founder Vitalik Buterin.
+Even so, the economic model of Ethereum 2.0 maintains inflation rates below 1 percent and a dynamically adjusting rewards scale for validators.
+As ethereum undergoes a major upgrade in 2020, how might the economics of the second-largest blockchain begin to shift?
+The next major iteration of ethereum, dubbed Ethereum 2.0, will be based on a proof-of-stake (PoS) consensus protocol. This means that transactions on the blockchain will be processed and validated by users who stake wealth as opposed to miners who expend energy.
+People who stake on ethereum’s PoS network – known as validators – are rewarded by earning annualized interest on their locked-in ether. At present, the minimum amount of ether required to become a validator is 32 ETH, which is equivalent to roughly $5,200.
+Collin Myers, head of global product strategy at ConsenSys, the Brooklyn-based ethereum venture studio, said validators with 32 ETH can expect to earn between 4.6 and 10.3 percent in annualized returns at the launch of the Ethereum 2.0 network.
+Myers announced during the recent ethereum developer conference Devcon that he was building a user application enabling validators to calculate annual gross and net returns given varying costs of hardware and electricity.
+“The ETH 2.0 Calculator [is being] developed for protocol researchers, validators and enthusiasts to increase transparency and education of the Ethereum 2.0 network economics,” Myers said in a Devcon presentation. He plans to launch the web tool in conjunction with the launch of Ethereum 2.0, which is tentatively planned for the first quarter of 2020.
+Of course, current figures on validator rewards for Ethereum 2.0 are by no means set in stone, as the community is still debating the design parameters of the upgrade.
+Kristy-Leigh Minehan, former CTO of blockchain and AI startup Core Scientific, who proposed the contentious ethereum mining algorithm change “ ProgPoW ,” said:
+“These are proposed suggestions by ethereum research but until we actually roll over to Ethereum 2.0, none of us will know for sure. They’re constantly tweaking it right now. It can be pretty fluid.”
+Myers said community input on the design of Ethereum 2.0 was imperative.
+“This is a topic that we will continue to jam on. It’s not completed or ended yet,” he said. “There’s been new things proposed by Vitalik [Buterin] that would [change things] if accepted by the community.”
+One of the most recent proposals by ethereum co-founder Vitalik Buterin suggests a sharp reduction in the number of mini-blockchains, or shards, in the initial phases of Ethereum 2.0 deployment.
+Instead of launching the full network with 1,024 shards, Buterin proposes launching just 64, thereby improving cross-shard communication on the network.
+This proposal has been well-received by researchers and protocol developers, who say lowering the number of shards will reduce the network’s complexity. But a reduction in shard count means a lower number of validators and total stake needed to secure the Ethereum 2.0 network.
+“By lowering the shard count, essentially you need to make some other trade-off,” said Myers, adding:
+“You’re going to have to increase the power of the independent [validators] running on the network. It’s a higher grade of hardware. It’s going to be a bit more expensive for me to participate as a validator.”
+With these caveats, Myers highlighted three important details about Ethereum 2.0’s economic model that he doesn’t see changing any time soon.
+According to Myers’ calculations , validators on Ethereum 2.0 who stake 32 ETH have the potential to earn 10.4 percent in annual interest given the assumption the network launches with 2 million ETH staked.
+This 10.4 percent target return for validators is unlikely to change even with only one-sixteenth of the shards originally envisioned for the network. However, “net issuance” (Myers’s term), which takes account of hardware costs, will likely have to be updated.
+At launch, validators can expect to receive 5.60 percent of their stake in rewards. If they require a higher grade of hardware to run Ethereum 2.0 software, and there are only 64 shards, returns are likely to fall in value.
+“Some say [net returns] will decrease by 20 percent but those numbers aren’t exact and I haven’t made my opinion on that yet,” Myers said.
+Validators on a proof-of-stake blockchain like Ethereum 2.0 have a similar responsibility to that of miners on a proof-of-work blockchain. These actors on a blockchain serve to process transactions and append new blocks.
+The new model changes the emphasis from computation to control. PoW networks have external costs, such as computational power. Ensuring the honesty of actors on a PoS network are internal mechanisms such as staked value.
+The more ETH people stake on Ethereum 2.0, the greater its level of security. The fewer shards there are in Ethereum 2.0, the fewer validators it needs to secure the overall network.
+Jack O’Holleran, CEO and founder of ethereum scalability startup Skale Labs, said of this dynamic rewards model:
+“On a high level, Ethereum 2.0 is trying to solve the elasticity, as well as, supply and demand, issues of ETH. One real innovative and impactful thing [about Ethereum 2.0] is its dynamic pricing.”
+Following the launch of Ethereum 2.0, a greater number of validators will be needed to secure the Ethereum 2.0 network and ensure the honesty of all actors.
+This is because the first stage of deployment, called Phase Zero, only introduces one PoS blockchain: the “ beacon chain .” In a subsequent deployment stage, Phase 1, developers plan to launch 1,024 (or 64) other PoS blockchains, known as shards. To secure all these additional PoS networks, Myers said a higher number of validators, and staked wealth, will be needed in the system.
+As the overall staked wealth of the Ethereum 2.0 ecosystem grows, the lower the annualized reward becomes for each individual validator. The dynamic rewards scheme for Ethereum 2.0 ensures that the network is never over- or under-paying for its security.
+Fredrik Harrysson, CTO of ethereum software client Parity, told CoinDesk in April:
+“There’s a sliding scale of rewards that depends on how much ETH is locked up in stake. In a system where you have very small amounts of stake locked up, you want to encourage more people to stake and lock up more ETH to increase the security of the chain.”
+The aim in Phase 1, according to Myers, will be to reduce reward issuance on 32 ETH for each validator to roughly 7.2 percent in interest and 2.39 percent in net profit.
+This is comparable to other staking networks, such as Dash and Tezos, which return upwards of 5 percent interest annually .
+Annualized rewards for validators on Ethereum 2.0 depend on the overall amount of wealth staked as well as the total percentage of validators online actively processing transactions.
+Should only 70 percent of validators be online at a given point in time on the Ethereum 2.0 network, interest rates drop from Myers’s estimate of 7.2 percent to 5.81 percent, at least according to his calculations assuming 1,024 shards.
+“[Ethereum 2.0] is a collective rewards scheme. The more people online, the more everyone earns. The less online, the less that people are earning,” Myers said, adding:
+“This is one of the design parameters of Ethereum 2.0 that is quite innovative and genius on the human level. It encourages getting people who don’t know each other to collectively come together and do something.”
+Even in the ideal scenario of all validators staking 32 ETH in a 1,024-shard universe, the overall network issuance of ether is designed to never exceed 1 percent supply growth annually. This is meant to guard against inflation, and devaluation of purchasing power for the coin over time.
+That said, controlling ether supply growth on the current ethereum mainnet has been a persistent source of contention for the ethereum community since launch in 2015.
+Unlike bitcoin, with a hard supply cap of 21 million bitcoins, ethereum’s supply of ether will continue to grow over time. Currently, inflation on ethereum is approximately 4.5 percent, according to ethereum information site ETHHub .
+Ethereum inflation rates have been as high as 18 percent, but have fallen significantly recently thanks to a series of system-wide upgrades, called hard forks, where developers reduced block rewards issuance in three increments from 5 ETH/block at launch to 2 ETH/block now.
+The latest reduction from 3 ETH to 2 ETH was a compromise among ethereum stakeholders who presented conflicting proposals for reducing block rewards.
+In Ethereum 2.0, new monetary policies are designed to ensure a consistent level of inflation below 1 percent and therefore a steady ETH in the long-run.
+Of course, all these metrics are subject to revision as developers execute hard forks.
+“In the early days of this system, we’re going to hard-fork a bunch. This is healthy because it means we’re squashing old ideas and innovating new ideas,” Myers said, adding:
+“The more we hard fork, the healthier it means we are.”
+The leader in blockchain news, CoinDesk is a media outlet that strives for the highest journalistic standards and abides by a strict set of editorial policies . CoinDesk is an independent operating subsidiary of Digital Currency Group, which invests in cryptocurrencies and blockchain startups.

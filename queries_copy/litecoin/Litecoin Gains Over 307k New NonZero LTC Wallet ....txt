@@ -1,0 +1,17 @@
+The Litecoin network has gained 307,603 new non-zero LTC wallet addresses in the past week.
+This equates to an average of 43,943 new addresses per day.
+No direct explanation can be found for the sudden increment in LTC addresses.
+One explanation could be DeFi.
+A second could be a new wave of Litecoin investors.
+In a recent tweet, the Litecoin foundation notified the crypto community that the LTC network had gained 307,603 new non-zero Litecoin wallet addresses in a period of one week. This translates to an average of 43,943 new addresses created per day.
+There have been 307,603 new non-zero #Litecoin wallet addresses created in the past 7 days.
+That is an average of 43,943 new addresses per day.
+— Litecoin Foundation (@LTCFoundation) June 26, 2020
+At the time of writing this, no explanation had been provided by the Litecoin Foundation regarding the origins of the new LTC addresses and why so many of them had been created in such a short time period. This leaves plenty of room for speculation as to the reason of the surge in new Litecoin Address.
+One explanation could be Decentralized Finance. Back in mid-February, the Litecoin Foundation announced a strategic partnership with Cred to enhance lending on the latter platform. The partnership would allow Holders of Litecoin to earn up to 10% interest on their LTC on MyCred.io.
+With Compound Finance and DeFi being a hot topic in the crypto-verse this past week, the new addresses might have been created in a bid to capitalize on the Decentralized Finance boom.
+Additionally, the new non-zero addresses could be as a result of hodlers stacking LTC in anticipation of a drive up by Litecoin in the crypto markets. Back in mid-June, the Litecoin development team released the LTC Core Upgrade 0.18.1. This release reassured investors that development was still going on at the Litecoin project.
+Furthermore, Litecoin has been experiencing serious sideways movement for close to three months. Since April 1st, Litecoin has been oscillating between the $39 support zone and the $50 resistance area. This oscillation could be viewed by investors as consolidation in preparation for a move up by Litecoin. In an earlier analysis , it had been concluded that LTC was in a wedge on the weekly chart and that the wedge might resolve with Litecoin breaking out to around $85.
+The Litecoin Foundation announced that the LTC network had experienced a surge of 307,603 new non-zero addresses in the past week. No explanation was provided by the Litecoin Foundation which leaves room to speculate two possible reasons. Firstly, DeFi has swept the crypto-verse like a storm in the past week and the new LTC addresses could be investors buying Litecoin to capitalize on decentralized lending. Secondly, investors could be buying Litecoin in anticipation of a major market move by LTC.
+As with all price-related discussions of Litecoin, investors and traders are advised to do their own research as well as use risk management techniques such as stop losses, when trading.
+Disclaimer: This article is not meant to give financial advice. Any additional opinion herein is purely the author’s and does not represent the opinion of EWN or any of its other writers. Please carry out your own research before investing in any of the numerous cryptocurrencies available. Thank you.

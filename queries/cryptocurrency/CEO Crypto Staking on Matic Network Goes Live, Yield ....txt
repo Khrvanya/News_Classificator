@@ -1,0 +1,20 @@
+Mainnet crypto staking on the Matic network went live on June 29, 2020. Delegators need a minimum of one Matic token to participate , and with a current price of just under two cents, the barrier to entry is low.
+Matic’s co-founder and CEO, Sandeep Nailwal took to Twitter to give an update on how the rollout is progressing. He Said that 7% of the circulating MATIC supply has already been staked during this period.
+What’s more, Nailwal also mentioned that crypto staking rewards are currently coming out at an impressive 150% per annum.
+In few hours @maticnetwork community has staked around 6.68% of circulating supply of Matic. The current annual yield stands at around ~150%
+— Sandeep Nailwal-Matic Network (@sandeepnailwal) June 29, 2020
+As more users come on board, this rate of return is expected to fall in line with the industry average of around 5-10% .
+In recent times, staking has been seen as a viable method of earning passive income from crypto. And with Matic’s initial rate of return being so high, it’s easy to see why sentiment is turning this way.
+1xBit: anonymous betting, the best odds & a generous 7 BTC Welcome Bonus! NEWXBIT promo code to get a 125% 1st deposit bonus now!
+When it comes to generating an income from crypto, staking stands out as an easy and low-risk solution. By simply holding tokens and delegating, investors can earn staking rewards.
+Just as important as earning, staking also provides the framework for community participation and cohesion.
+Through incentivization, as well as having a governance framework, Proof-of-Stake (PoS) consensus mechanisms solve many of the problems related to running a cryptocurrency.
+Ethereum’s scramble to implement PoS is a testament to the advantages of PoS. But Matic, and many others, are at a huge advantage in being built from the ground up as a PoS system.
+Matic’s staking solution will come in phases of release. Yesterday marked the launch of the first iteration of staking. This relates to delegators pledging their tokens to nodes controlled by the Matic Foundation.
+The second iteration will implement staking to external third-party validators. A number of big names have already been touted, including IT consultants Infosys .
+To run the staking program, Matic has set aside 1.2 billion tokens. This number represents 12% of the total supply. However, over time and with community engagement, Matic expects this to rise to as high as 80% in the coming year.
+A look at the top staking projects has Tezos ranked first in terms of total supply staked, with 80%. Part of the reason for this is custodial staking functionality via exchanges.
+Crypto exchanges account for 18% of the Tezos’ staked supply, with Coinbase being the most significant player in this respect.
+And while Matic did offer a custodial pre-staking service via Korean exchange Coinone, staking does not include crypto exchanges.
+Without collaboration from the likes of Coinbase, Binance, and Kraken, it’s difficult to imagine Matic being able to match Tezos’ staking participation rate.
+All the same, Nailwal, and his team, deserve credit for following through with their vision.

@@ -1,0 +1,41 @@
+Who’s Winning the Race for the Futures Market?
+Who’s Winning the Race for the Futures Market?
+Bitcoin may be over 10 years old now, but over that time, cryptocurrency markets have mostly remained far removed from the broader financial markets.
+This changed at the end of 2017 when the Chicago Mercantile Exchange (CME) and the Chicago Board Options Exchange (CBOE) launched the first regulated Bitcoin futures to institutional investors.
+Even despite the 2018 bear market in crypto, both exchanges reported growth in Bitcoin futures trading with the CME seeing increases of 41% between the second and third quarters. This level of investor interest has attracted many cryptocurrency exchanges to the market for derivatives.
+One that’s been stirring up a fuss recently is Digitex Futures , having just announced the public launch date of their zero-fee trading model across futures markets including Forex, indices, and commodities.
+As they step into the $30B marketplace, let’s see who they’re up against and if they really have what it takes to win the race in the futures industry. Here we compare Digitex to some of the other top futures exchanges.
+OKEx offers a variety of futures contracts for crypto tokens, including LTC, ETC, and EOS. It’s one of the longest-standing crypto exchanges overall, having launched in 2014.
+OKEx’s low fee model has kept it among the top exchanges by trading volume, with over $10 billion traded on a 30-day average. However, on futures trading, it’s currently outdone by BitMEX.
+While it remains one of the bigger exchanges, OKEx has previously been accused of falsifying trading volumes by as much as 95%.
+Bitfinex is also one of the more established exchanges, operating since 2012. It facilitates P2P trading, and users can lend their BTC or USD to other traders for margin on their own positions. However, leverage is limited to a measly 3.3x.
+Bitfinex is open to users from most locations, except the U.S. and a few other countries. The exchange lets itself down on the user interface, which may be off-putting for beginners or the less tech-savvy trader. On the other hand, it does have a strong reputation for customer support.
+Digitex Futures is the one exchange on this list offering a stellar combination of trading benefits with no apparent downsides. The exchange is exclusively open to token holders of its DGTX token, who get access to trading with zero fees.
+The concept is simple–traders will want access to zero-fee trading because it increases their profit margins. Therefore, demand for the DGTX token will drive its value. In turn, the value of the DGTX token funds the exchange operations and means that Digitex can continue offering zero-fee trading.
+Digitex is also implementing Ethereum’s Plasma protocol. This means it will be one of the only exchanges to offer decentralized, non-custodial account balances accessible only to the user with their private key.
+Other benefits include an easy-to-use one-click trading ladder interface, and access to a range of markets beyond crypto (BTC, LTC, and ETH), including Forex, indices, commodities, and metals.
+Add in up to 100x leverage and automated market makers for assured liquidity, and it’s clear that Digitex will soon be up there with the heavyweights. Public launch is April 30.
+CoinFLEX launched its exchange in January this year, meaning it’s one of the newer entrants looking to capitalize on futures markets. It’s implemented a user-friendly ladder trading interface due to a partnership with software company Trading Technologies.
+Most notable, though, is perhaps that CoinFLEX beat Bakkt to the market with physically settled futures.
+While the fee structure is low, both maker and taker fees are charged for trading on the CoinFLEX platform, in contrast with many exchanges which charge zero maker fees and Digitex which offers zero fees on all trades.
+BitMEX is the current market leader in Bitcoin futures, achieving $4.5 billion in trading volume on some days. Traders get access to 100x leveraged contracts with advanced trading options.
+BitMEX also charges maker and taker fees on a percentage basis. Furthermore, these fees are applied based on the full value of the leveraged position, making a 100x leverage significantly more costly.
+For example, a charge of 0.075% on a 100x leveraged trade worth $1,000 will amount to $150 by the time the position is sold! These kinds of fees can seriously compromise trading profits.
+Huobi is continually adding new features to its exchange platform. It’s one of the few that offers P2P trades. Huobi Derivatives also offers trading in BTC, ETH, and EOS futures contracts, with more expected to come during 2019.
+Leverage is capped at a maximum 20x, which is less than many other exchanges. Furthermore, Huobi was also accused of falsifying trading volumes by the same critic that implicated OKEx.
+Cryptofacilities is regulated by the Financial Conduct Authority (FCA) in the UK, and funds held on the exchange are covered by an A-rated insurer.
+This should offer some peace of mind to those who prefer playing by the rules.  However, it’s worth noting that users don’t benefit from the usual guarantees of compensation provided by the FCA’s Financial Services Compensation Scheme (FSCS). This is because cryptocurrencies aren’t classified as “money” under UK regulations.
+While the insurance provides an additional layer of protection, Cryptofacilities is nevertheless a centralized exchange. Whether you’re concerned about hackers or the authorities laying claim to your account funds, it’s a safer bet to keep your crypto protected by your own private keys.
+Netherlands-based Deribit now offers perpetual swaps with the benefit of continuous payouts on active positions. This makes it more competitive than many exchanges such as BitMEX, which only pays out every eight hours.
+If you know your code, you could get paid if you manage to find any flaws in the Deribit code as the exchange operates a bounty program for white hat hackers.
+Unfortunately for the more adventurous traders, Deribit only offers futures contracts against Bitcoin, unlike many others on this list which offer a variety of futures contracts backed by different assets.
+Overbit opened in February this year. Traders get access to a range of markets including Forex, indices, and metals. It also offers perpetual contracts against a variety of cryptocurrencies.
+The fee structure is likely to become complicated for the uninitiated as it’s calculated based on spread. Because spread is variable, users must check the exact profit calculation in each Overbit perpetual contract document.
+While fees may be low in many scenarios, this isn’t guaranteed depending on the specific product and market conditions at the time of the trade, adding a layer of complexity that many traders may prefer to do without.
+Both the CME and the CBOE offer cash-settled Bitcoin futures contracts which are fully regulated by the US Commodities Futures Trading Commission.
+However, trading may prove to be difficult for the average Joe trader. In addition to the usual account registration process, users have to show they’ve established a relationship with an approved clearing house–i.e., a bank.
+Therefore, unless you’re representing an investment bank or another institutional investor, one of the other exchanges is probably a better choice.
+Who’s Leading the Futures Market Race?
+It’s understandable that keeping fees low is a priority for traders who don’t want to erode their profit margins. Choosing an exchange can be a tricky business, as there are often trade-offs between different features.
+Digitex appears to offer the optimum combination of zero-fee trading without compromising on security, liquidity, or ease of use. There are over a million subscribers to the Digitex waitlist, showing there’s a clear appetite for exchanges that aim to tick all the boxes.
+As with any investment decision, make sure you do your homework and choose an exchange that offers the right combination of benefits for you.

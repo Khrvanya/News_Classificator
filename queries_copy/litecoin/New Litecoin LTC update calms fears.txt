@@ -1,0 +1,16 @@
+New Litecoin (LTC) update calms fears. An update for Litecoin (LTC) has been released which has provided momentary calm in the community. Will it be durable?
+On Wednesday June 10 , the release of Litecoin Core 0.18.1 was announced through Medium . Therefore, the recent LTC update quells fears about the possible deadlock for the cryptocurrency.
+LTC Founder Charlie Lee used his Twitter account to reveal that the project had just released Litecoin Core 0.18.1.
+Litecoin Core 0.18.1 final release is out! Who says Litecoin has no development?
+Many thanks to all the developers that worked on this release!
+We are already hard at work on the next release, Litecoin Core 0.20, which will bring us in line with the latest Bitcoin Core. https://t.co/JaMq9RcwtR
+Litecoin Core 0.18.1 has been released! Who says Litecoin has no development? Many thanks to all the developers who worked on this version! We are already working hard on the next release, Litecoin Core 0.20, which will bring us in line with the latest Bitcoin Core, ” Lee wrote on his Twitter account.
+The update brings refinements for transaction handling, optimizing network code and P2P protocol.
+Despite the fact that Litecoin assured that the new version has been extensively tested, it recommends making backups before the update since “it may still contain errors”. In fact, there is a section on GitHub for bug reporting.
+As we can see in his Tweet, Charlie Lee refers to the lack of development in the Litecoin Project. This has to do with an incident that took place in August 2019.
+At the time, conversations between Litecoin developers on Reddit were leaked, pointing to a lack of progress on the Litecoin Project. If you’re curious, you can still access the leaked conversations on the platform.
+Franklyn: I was very disappointed to find out that there had been no progress in CT since the announcement… Charlie: The truth is that nobody is interested in working on the development of the Litecoin protocol. At least nobody technically competent… ” , can be read in the transcript located on Reddit.
+However, this was not the only problem plaguing the LTC community.
+The truth is that there were also concerns regarding Litecoin’s lack of price recovery. In particular, after the terrifying price drop in mid-March caused by COVID-19, many cryptos managed to rise from the ashes.
+However, LTC lagged far behind if we compare its recovery to that of Bitcoin and Ethereum.
+There is no way to know for sure, but the community is confident that the Litecoin update will provide the necessary momentum for LTC to reach new levels above current levels in the coming days. Is it possible? What do you think?

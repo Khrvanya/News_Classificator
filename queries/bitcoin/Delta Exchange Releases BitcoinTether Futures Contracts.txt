@@ -1,0 +1,9 @@
+Singapore-based Delta Exchange is launching futures contracts on BTC/USDT amidst fears of a global recession.
+Singapore-based Delta Exchange has announced the launch of Bitcoin ( BTC )/Tether ( USDT ) futures contracts, allowing users to trade BTC futures with USDT collateral, starting on April 14 at 9:00 a.m. EDT.
+According to the company, the industry has seen surging demand for a stable digital currency amidst fears of an economic recession.
+Speaking to Cointelegraph, Delta Exchange CEO Pankaj Balani said that, in the last three months, the exchange saw an increase in demand for USDT settled BTC contracts, stating that “Black Thursday” was a major catalyst for increased demand:
+“Post Black Thursday market has become more risk averse and we have seen a shift in traders’ preferences to hold USDT instead of BTC. This becomes increasingly important in times when the market is not confident of the price direction in the short to medium term. Looking at the demand and market conditions we felt that the timing is apt to offer these USDT settled contracts.”
+The exchange had previously discontinued settled BTC futures trading due to lack of demand, but Balani said things have “changed a lot” in the past 15 months , adding:
+“In spot markets, we saw that USDT became the dominant pair, starting middle of 2017. We are seeing the same pattern emerge in the derivatives segment as well.”
+With this announcement, Balani expects BTC/USDT volumes to outperform BTC/USD volumes, as more traders are coming over to cryptocurrency derivatives markets from traditional markets.
+Looking ahead, Balani told Cointelegraph that the exchange is working to offer USDT-settled quarterly futures, thanks to the demand they have seen from institutional users.

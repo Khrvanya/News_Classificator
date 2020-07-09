@@ -1,0 +1,18 @@
+May 7, 2020 at 12:51 pm | Published in: Asia & Americas , Lebanon , Middle East , News , US
+Lebanon’s telecoms ministry has issued a decree blocking access to approximately 28 currency exchange applications which report local rates, claiming they share the “exchange rates illegally”, local media outlet Annahar reported.
+The Telecom’s Ministry’s decision, which was issued to all Lebanese internet service providers, instructs companies to block 28 applications across both Google’s Play Store and the Apple store.
+Currency exchange apps have experienced an upswing in use after anti-government protests erupted in October last year, and Lebanon’s currency, the lira, went into freefall , losing more than 50 per cent of its value.
+Banks have imposed stringent capital controls, severely restricting the amount of dollars deposit holders can withdraw, leading people to turn to money change houses in order to complete dollar transactions. Meanwhile, currency exchange apps have allowed them to track the volatile rates.
+Lebanon’s central bank last month attempted to stem the rapid devaluation and volatility of the currency, issuing a circular barring foreign currency exchange houses from selling US dollars for more than 3,200 lira to the dollar.
+Exchange houses, however, continued to trade at 4,000 lira to the dollar, before going on strike to protest the central bank circular. Officially, the lira remains pegged at 1,507.5 to the US dollar.
+After the Telecom’s Ministry’s decision was released, however, Ogero appeared to have mistakenly blocked Google’s Firebase Realtime database, which is used by a number of unrelated applications.
+The move sparked anger and confusion in one of “the last few industries still working in Lebanon”, according to user-to-user task management app, PetitioApp.
+In response to calls for answers, however, the state-run telecom provider apologised “for the service disruption that is independent of our will” but claimed the company cannot “do anything about it without a court order”.
+After a back and forth between Ogero, IT specialists, and PetitioApp, the mass blocking issue was resolved, Annahar reported, and the blocked currency exchange sites are accessible via VPN.
+Unless otherwise stated in the article above, this work by Middle East Monitor is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. If the image(s) bear our credit, this license also applies to them. What does that mean? For other permissions, please contact us .
+Spotted an error on this page? Let us know
+This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.
+In effort to collect dollars, Middle East Airlines stops over-the-counter ticket sales in Lebanon
+In effort to collect dollars, Middle East Airlines stops over-the-counter ticket sales in Lebanon Lebanon’s state-owned airline, Middle East Airlines (MEA), has stopped over-the-counter ticket sales at its offices across the country, effectively forcing customers to pay in foreign currency, Al Arabiya reported. Tickets can now only be purchased online…
+Former Energy Ministers Nada Boustani and Mohammad Fneish are set to appear in court today to testify in a case involving the import of tainted fuel to Lebanon. Boustani, who is a member of the Free Patriotic Movement (FPM) political party, and Fneish, a Hezbollah affiliate, will testify as witnesses…
+Dozens of demonstrators broke coronavirus lockdown orders last night to protest in front of the Lebanese Central Bank in Beirut, after the country’s currency, the Lira, went into freefall. Officially, the Lira-Dollar exchange rate is still pegged at 1,507.5 Lira to the US dollar. Yesterday, however, the exchange rate at some shops…

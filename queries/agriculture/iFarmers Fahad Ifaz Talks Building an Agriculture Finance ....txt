@@ -1,0 +1,60 @@
+Co-founder and CEO of iFarmer , Fahad Ifaz, talks about his path to entrepreneurship, the germination of iFarmer, how it has evolved over the years from an idea to build an uber for urban farming to an innovation agri-tech and fin-tech company, how they crafted the business model of iFarmer and iFarmer’s enduring edge as a platform as it expands, the state of iFarmer’s business today and its ambition going forward, how iFarmer is putting data at the center of farming and finance, explains the intricate operation of iFarmer, reflects on why it is critical to have a healthy disregard towards naysayers when you are building something innovative and of potentially high impact and much more.
+and elaborate your path to entrepreneurship?
+Fahad Ifaz: I have 10 years of experience in Agriculture market development, policy, financial inclusion and innovation across South Asia. Previously, I have worked at Swisscontact, World Bank, CARE Australia, and SPRING Accelerator.
+Join 15,000+ business and tech executives who read our weekly newsletter. Sign up.
+I founded my first company in 2012 called amarCV – it was a CV building tool and the vision was to develop a LinkedIn for Bangladesh. However, I gave up on the project too early, made an exit and eventually my partners took over the operation.
+My second company was EDGE Consulting – which was a boutique consulting company that helped donors, NGOs and private companies with project design, evaluation and management consulting. I still remain a director in the company but do not play an active role.
+My third company is Misfit Technologies – which I started in 2017 with 3 other co-founders. One of our projects has spun off into iFarmer. I am still on the board of Misfit Tech but am not involved in operations.
+Future Startup: When and how did you get started with iFarmer? What motivated you
+Fahad Ifaz: We started farmer as a project in 2018. The first business model was to create an Uber for Urban Farming. So we created a platform where people could lease their house or factory rooftops for farming. But after spending 6 months on this, we realized that it is not scalable and there are challenges with getting rooftops in Dhaka city, where more and more people are moving to apartments and it’s difficult to get consensus on how to manage those apartment rooftops.
+Then in August 2018, we pivoted to our current model. This was largely motivated by my 10 years of experience working at the Bottom of the Pyramid, particularly with the farmers and other agriculture value chain actors.
+Future Startup: What went into building the initial operation of iFarmer? How did you put together initial investment and other things to get started? Please walk us through what the first few months of your journey were like and the challenges you faced.
+Fahad Ifaz: We focused on getting the right team in place. We identified the skills that we require in the team, reached within our network to find people with the necessary skills. But we also needed people who would believe in the vision of the company.
+whole team to go through a very steep learning curve. We did not want to know
+everything about agriculture finance, or supply chain or investment in general.
+We just wanted to learn enough to get us going. Because we believed in evolving
+and iteration of the model as we learn, adjust and move forward.
+During our early days, we also had support from Startup incubators such as Toru, where Saif bhai from Toru helped us with strategic advice.
+Until recently iFarmer was mostly bootstrapped by the co-founding team.
+please give us an overview of iFarmer in terms of services you offer, how many
+users you have, the size of your business, etc?
+Fahad Ifaz: We are an agri-tech/fintech platform that offers farmers with access to finance, training and knowledge and then access to the market. On the other side, we enable any individual to invest their money in a farm (equity financing model), as we work closely with these farmers and enable them to sell to a large buyer (thus eliminating middlemen).
+We started with livestock farms of various types and cycles but will move into fruit farms, cash-crops, and agri-machineries soon.
+We are working with 1200 farmers at this point in time. We have facilitated more than 4 crore taka to these farmers in about 11 months from a few hundred investors.
+product perspective, how does iFarmer work as a platform? How do you work with
+your partners? How does the tech part work?
+Fahad Ifaz: iFarmer offers farm assets as an investment opportunity for retail middle-income investors. They can invest through our website and soon to be launched app, get a regular update on their investment, reinvest, cash out, etc.
+On the backend, we onboard farmers who can absorb these investments. We have field facilitators and iFarmer agents to conduct the onboarding. Initially, it was done through a manual process but now we are moving to a tech-enabled service where the farmers themselves or with the help of our iFarmer agents and field facilitators can create their profile, apply for finance and so on.
+At the core of iFarmer is data. We collect almost 40 data points from each farmer to understand the risk factors, their socio-economic behavior and most importantly farming outcomes. We intend to connect these data to offer more services to the farmers, such as farm input, insurance, banking products and so on. We are already connecting the farm outcome or harvesting data to work on an efficient b2b supply chain.
+We are also building the tech and business model to support the big players such as banks and NBFIs to be able to finance different actors in the agriculture value chain.
+business model? How do you generate revenue?
+Fahad Ifaz: We charge a commission from the retail investors and then also get a commission on the final sales of the farm produce.
+companies, input companies and so on, who can use our platform to reach out to
+your team? Could you tell us about your culture at iFarmer?
+Fahad Ifaz: We have a 12 member team that covers, business development, client services, operations and finance, and tech.
+mistakes, learn and keep pushing forward.
+Future Startup: On average how many customers you serve per month?
+through our platform for farms. We have been growing at 50% mom over the past 6
+lessons you’ve learned in terms of growing a business? What other entrepreneurs
+can learn from your growth journey?
+Fahad Ifaz: Execution is the key. We can have brilliant ideas, but if we have cold feet when it comes to execution, try to think and solve all the operational barriers before launching something then nothing works.
+The other thing is trying and doing something innovative is risky and people will say it will never work, but the key is to ignore everybody and execute.
+Future Startup: What are some mistakes you’ve made if any, that you want other entrepreneurs to avoid?
+Fahad Ifaz: We make mistakes every day, every week, from running after the wrong metrics, to setting absurd targets to doing a wrong marketing campaign. But the key is to not prioritize mistakes. It is part of the business, make mistakes, correct them or learn from them and move on.
+Future Startup: Have you raised investment? If yes, how much have you raised? What are the plans now? What does it take to raise investment? What should founders, who are trying to raise investment, be mindful of?
+Fahad Ifaz: We have just closed our seed round from a Singapore based VC, Angels from Singapore, Bangladesh, and Indonesia.
+Since we operate in a country that is not on the radar of almost every VC or investment organization, we should not only sell the business to them, we should also educate them about the country in itself. We have even taken people to meet our farmers and learn about the agriculture value chain in the country.
+Fahad Ifaz: Become a sustainable agriculture finance and supply chain company. While doing that, make the lives of our farmers a little better, encourage them to continue growing food for us.
+Maybe one day every profession will be replaced by robots and automation. But it will be difficult to replace farmers, so we should keep supporting them. The world needs to feed 10 billion people by 2050.
+particularly helpful or advantageous in the process of building iFarmer?
+Fahad Ifaz: We have had great support from incubators such as Toru, Startup Bangladesh and also we have seen, in general, everyone living in the city has a connection with farmers and farms. A lot of us dream about going back and get into farming someday. But the reality could be different and that’s where we come in.
+This deep-rooted connection people feel with farm and farming often plays out to our advantage.
+deal with challenges and stress that come with being a founder?
+game like football also helps.
+Future Startup: What advice would you give to founders who are just starting out?
+Fahad Ifaz: Always think about the big bet or the idea behind the company. While running after operations, growth, and salary and rent, we often forget why we even started this business.
+Find the right co-founders who will keep you in track and remind you about that, WHY. Find and build the right team, allow them to make mistakes and grow.
+A Message From Flight Expert!
+Flight Expert, being the most prominent Online Travel Agency (OTA) in Bangladesh, is making life easier for every traveler around the globe. From booking domestic and international flights to reserving hotel rooms for your trip, Flight Expert has it all in one place, within the reach of your fingertips.
+Flight Expert – all about your journey!
+Ruhul Kader is a technology business and technology policy analyst based in Dhaka, Bangladesh. He is also the co-founder and CEO of Future Startup and author of Rethinking Failure: A short guide to living an entrepreneurial life. He writes about internet business, strategy, technology, technology policy, and society. He can be reached at ruhul@futurestartup.com

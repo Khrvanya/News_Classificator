@@ -1,0 +1,24 @@
+Robert Whaley, director of the Financial Markets Research Center at Vanderbilt University, created the original VIX index in 1992.
+Known as the fear gauge, it can forecast wild swings in the market like those experienced in the coronavirus pandemic.
+The VIX is currently predicting high volatility to continue as the crisis appears to be worsening.
+"The S&P 500 option market is driven by the purchase of put options, which institutions are using as portfolio insurance," Whaley says.
+The Cboe Volatility Index (VIX), has become one of the most widely watched indicators of market sentiment in the world.
+In theory, it works on a simple principle: It is a measure of the stock market's expectation of volatility over the following 30 days based on near-term S&P 500 index options, both puts and calls.  The higher the number, the greater the expectation that market volatility will be higher over the next 30 days.
+This week, despite a massive rally that saw the S&P rise nearly 20% from its Monday low to its Thursday high, the VIX remained stubbornly high, in the 60s, all week. These are levels that have been rarely since its inception in 1993.
+Robert Whaley is often referred to as "the father of the fear index." He is the director of the Financial Markets Research Center at Vanderbilt University.  He spoke to me by phone from his home in Nashville.
+What is the VIX telling us now?
+"The VIX measures expectations of volatility 30 days out.  Right now, with the VIX near 70, the index is saying that the intraday swings on the S&P 500 will be 4% to 5% on a daily basis, which is an awful lot of volatility."
+What would it take to bring it down, let's say to the 30s?
+"We need to reduce the uncertainty level.  The S&P has been swinging in daily prices swings of 4%, 5%, 6% or more for several weeks.  The VIX is just an estimate of future volatility, so traders look at the actual volatility that is through the roof and they are naturally assuming some of this volatility will continue."
+If the intraday swings went down to something lower, say 2% or 3%, would that calm down the VIX?
+"Possibly, but the most important thing is to resolve the uncertainty, which may be determining a peak in coronavirus cases.  If you get any good news on that front, the VIX will drop very quickly."
+VIX futures are in backwardation — the near term prices, particularly the cash price, are far higher than contracts farther out.  What is this telling us?
+"It tells me the volatility will be lower several months out.  For example, the April contract expects the VIX to be below 55, in May it is 45, and in June it is below 40.  A week ago, the price of that insurance on the June contract was 50.  It's dropped 10 points.  It's come down very quickly. The VIX is saying it will be in the 30s by August."
+So this is not going to continue indefinitely?
+"No, it gets like this when you get crisis, like 1987 or 2008.  You said last week that people are not going to pay this high a price for insurance indefinitely, and you are right.  The VIX contracts are predicting the prices will drop."
+"Yes, that's all it is. The S&P 500 option market is driven by the purchase of put options, which institutions are using as portfolio insurance."
+But the VIX is also moved by call options as well?
+"Yes, but my research indicates that it is primarily driven by put options.  The volume of put option open interest is greater than call option open interest, and the formula that the VIX is derived from weights puts more than calls."
+What was your role in the creation of the VIX?
+"I created the original VIX in 1992.  The CBOE hired me to create a volatility index.  They wanted a product to differentiate them from an ordinary index like the S&P 500, and they wanted to create a new asset category that might be a long-term investment."
+It certainly seems like they succeeded.

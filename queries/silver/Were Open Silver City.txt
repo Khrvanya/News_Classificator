@@ -1,0 +1,39 @@
+Aspen Times: How have you gotten creative during this time? What have you done to keep your customers engaged?
+Silver City: We’ve tried to keep customers engaged through social media and remind them that we would be reopening as soon as we safely could. We sold merchandise and donated proceeds to the Restaurant Employee Relief Fund, which was very successful. Since we’ve been allowed to reopen, we’ve opened a patio right outside our front door for dining and enjoying drinks. We’ve also started doing Monday night karaoke, where we have tables available for reservation through our Facebook page. We’re hoping to learn enough from doing karaoke in a safe and responsible way to bring back live music in the coming weeks.
+AT: What’s the most important thing the community can do to support you?
+SC: We believe we’re more concerned with what we can do to support the community. People need great food, drinks and entertainment, and we’re doing everything we can to provide that within current environmental health guidelines.
+AT: Where can we find your most current offerings and updates?
+SC: Like us on Facebook and follow us on Instagram! We update our social media constantly.
+AT: What has been the best customer experience or comment you’ve had since the crisis started?
+SC: The best experience was our first Monday night karaoke. No one knew how well it would go and while it was certainly a different experience, we worked within our limitations and provided a great experience for our guests.
+AT: Is there anything else you’d like to add regarding your business during the pandemic?
+SC: We just want to express our gratitude to the city of Aspen for their hard work in creating the new outdoor dining spaces for businesses that are severely impacted by the reduction in indoor capacity.
+Readers around Aspen and Snowmass Village make the Aspen Times’ work possible. Your financial contribution supports our efforts to deliver quality, locally relevant journalism.
+Now more than ever, your support is critical to help us keep our community informed about the evolving coronavirus pandemic and the impact it is having locally. Every contribution, however large or small, will make a difference.
+Each donation will be used exclusively for the development and creation of increased news coverage.
+Start a dialogue, stay on topic and be civil.
+If you don't follow the rules , your comment may be deleted.
+						var vf_adctr = 0;
+								if (++vf_adctr > 10) { return; }
+								var vf_slot_div_id = "ad-comment-" + vf_adctr;
+						var form = this;
+						// after 1/2 second, submit the form
+					return ( currentSubscriptions || [] ).filter( elem => elem.topic_id === node.dataset.topic ).length > 0;
+					topic.classList.toggle( 'vf-follow-toggle-on', getTopicSubscriptionStatus( topic, currentSubscriptions ) );
+						var node = evt.target;
+								console.log( 'failure to unsubscribe: ' + err );
+							var promise = window.viafoura.topics.subscribe( node.dataset.topic, node.dataset.topicname, node.dataset.topictype || 'topic' );
+								console.log( 'failure to subscribe: ' + err );
+					const vfUUID = document.querySelector('meta[name="vf:uuid"]').content,
+					      if (response.status !== 200) return;
+          // Set language var based off cookie.
+          var swiftLanguageLoaded = false;
+          // If the library has been loaded already.
+          // If the spanish link is clicked.
+          // Load the translate script unless it has already been loaded.
+/* <![CDATA[ */ var pollsL10n = {"ajax_url":"https:\/\/www.aspentimes.com\/wp-admin\/admin-ajax.php","text_wait":"Your last request is still being processed. Please wait a while ...","text_valid":"Please choose a valid poll answer.","text_multiple":"Maximum number of choices allowed: ","show_loading":"1","show_fading":"1"}; /* ]]> */
+      var emailRegex = /([a-zA-Z0-9_\.-]+)@([\da-zA-Z\.-]+)\.([a-zA-Z\.]{2,6})/i;
+      var cleanPageLocation = currLocation.replace(emailRegex, "");
+	        _sf_async_config.uid = 57640; _sf_async_config.domain = 'swiftcom.com'; _sf_async_config.useCanonical = true; _sf_async_config.useCanonicalDomain = true;
+	        _sf_async_config.title = 'We’re Open: Silver City | AspenTimes.com';
+	          var oldonload = window.onload;

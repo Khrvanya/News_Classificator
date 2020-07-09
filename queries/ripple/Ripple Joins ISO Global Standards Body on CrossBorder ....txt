@@ -1,0 +1,10 @@
+Ripple claims to be the first DLT-focused member of the global ISO 20022 standards body, driving international standards for interoperability between financial institutions.
+Ripple has become a member of the ISO 20022 standards body, which is driving a new data standard for payments and data messaging between global financial institutions.
+The company claims to be the first distributed ledger technology (DLT) focused member of the group, which includes a number of international commercial and central banks along with payment processing entities like SWIFT and Visa.
+ISO 20022 proposes a single standardized approach in methodology, process and repository to enable communication and interoperability between all global financial organizations.
+While convergence into a single standard is the long-term objective, in the interim several existing legacy standards need to co-exist and share information. ISO takes common data points from the models of individual institutions and groups them into a standardized format, which can be shared between systems.
+The standard has already been adopted in 70 countries, and it is estimated that by 2023, 87% of global financial transactions will be supported by ISO 20022.
+Is Ripple crypto’s Jekyll and Hyde?
+Ripple’s membership of the standards body marks a further validation of cryptocurrency and DLT in the world of traditional finance. It also allows Ripple and its customers to have a say in the future direction of cross-border payments.
+Adherence to the ISO 20022 standard also simplifies counterparty connections and reduces associated costs.
+Ripple seems to be constantly walking a fine line between respectability and suspicion in the eyes of the public.

@@ -1,0 +1,21 @@
+After an encouraging rally, Ripple’s XRP angered traders by causing huge liquidations on BitMEX.
+XRP, which only a couple of weeks ago appeared on the BitMEX futures market, caused the ire of traders. After a rapid price move, which brought the asset down from $0.32 to $0.14 in one trading candle , market participants counted the losses from the trading glitch.
+Jacob Canfield, Bitcoin analyst, noted the XRP event had wide repercussions, and was not a harmless mistake.
+My mama told me that’s the devils coin and I’m starting to believe her. pic.twitter.com/RsMvavCS2o
+— Jacob Canfield (@JacobCanfield) February 13, 2020
+After the event, traders started to report the BitMEX platform also failed to trigger their stop losses, leading to immediate liquidations. Such a move was unexpected for XRP, which usually holds its price rather stagnant. One trader reportedly lost his all his funds in one move.
+WTF. FUCK YOU BITMEX. This is really not okay! My stop didn´t trigger and my entire bitmex account is fucking gone. Fuck you! pic.twitter.com/WHXbJoiTvL
+— Marc de Koning (@Koning_Marc) February 13, 2020
+But with the effect of futures, BitMEX is now even risker. The exchange triggers liquidations in cases of significant and rapid price moves, taking away traders’ collaterals. The potential for gains from liquidations has sparked speculations for deliberate triggering of events to cause liquidations.
+The trading glitch and liquidations happened at a time of great enthusiasm for the future of XRP. The asset has been expecting a bigger breakout, supported by its large community. The enthusiasm for XRP even brought down the Fiatleak website:
+🚨 SITE ALERT 🚨  The site is wobblying and staggering under the combined weight of many, many thousands of #XRP fanatics watching a technical breakout.
+We're working on it, but keep trying…you can't break the site any more than you already are!
+— fiatleak (@fiatleak) February 13, 2020
+The XRP market is coming out of months of low activity, suddenly seeing breakout volumes. But the BitMEX contract may undermine the reputation of XRP, and further underline the risk of one of the largest futures markets.
+XRP, which went as high as $0.33, was having one of the most successful days of the year, with trading volumes exceeding $6 billion in the past 24 hours. But the rally was unstable, and the losses on BitmEX were a mix of traders possibly misunderstanding the platform, as well as sudden illiquidity.
+Well there wasn't liquidity. Again, not Bitmex's fault. People should know the products/markets they're trading. Does it suck? Sure. Is it still their fault? Yes
+Not to mention Marc has a seriously long history of not managing risk properly and getting massively rekt.
+— Akado 'Bitcoin Halving in 88 days' Sang (@AkadoSang) February 13, 2020
+For now, BitMEX has not given any signs it would use its reserves to compensate the participants in the XRP market. The exchange recently caused significant liquidations on BTC, when the price moved down 4% in another trading anomaly.
+The price of XRP was also highly unstable this morning, as Binance also noted a trading glitch. The price anomalies for XRP were due to an orderbook delay, and not related to the event on BitMEX. Binance also caused confusion across all types of assets, fostering a brief BTC flash crash.
+What do you think about the XRP trading anomaly on BitMEX? Share your thoughts in the comments section below!

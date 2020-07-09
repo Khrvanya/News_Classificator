@@ -1,0 +1,35 @@
+2 min read . Updated: 30 Jun 2020, 08:03 AM IST Devansh Sharma
+Vodafone Idea lost 34.67 lakh mobile subscribers in February, even as Reliance Jio continued to be on a roll adding 62.57 lakh users
+Pharma Stocks: Gilead Sciences Inc has priced its covid-19 antiviral remdesivir at $2,340 per patient for wealthier nations. The US-based pharma company has linked up with generic drugmakers based in India and Pakistan, including Cipla Ltd and Hetero Labs Ltd, to make and supply remdesivir in 127 developing countries. Cipla's version is priced at less than ₹5,000 ($66.24), while Hetero Lab's version is priced at ₹5,400 ($71.54).
+Aditya Birla Fashion & Retail: The board of Aditya Birla Fashion & Retail on Monday approved ₹995-crore rights issue that will open on July 8. In an exchange filing, the company said it will issue 9.05 crore partly-paid up equity shares, having face value of ₹10 each, aggregating to ₹995 crore.
+PSU Banks: India’s five largest state-run banks – SBI, BoB, PNB, Bank of India and Canara Bank -- collectively have at least ₹7.9 trillion of loans under moratorium, according to a Mint report . This accounts for about 20% of local advances.
+Telecom companies: Vodafone Idea lost 34.67 lakh mobile subscribers in February, even as Reliance Jio continued to be on a roll adding 62.57 lakh users, according to latest data released by sector regulator Trai. Bharti Airtel added 9.2 lakh users during February, and its total mobile subscriber base stood at 32.90 crore.
+Tata Steel: Domestic steel major reported a net loss of ₹1,615.35 crore for the quarter ended March 31. Tata Steel’s total consolidated income fell to ₹35,085.86 crore in January-March 2020 from ₹42,913.73 crore in the same quarter of preceding fiscal.
+Axis Bank: The board of directors of the bank will meet on 2 July to consider fund raising via equity shares, depository receipts Qualified Institutions Placement (QIP), American Depository Receipts (ADRs), Global Depository Receipts (GDRs), preferential allotment or such other permissible mode or combinations thereof as may be decided.
+Raymond India: The company reported a net loss of ₹69 crore in the quarter ended 31 March 2020 against a profit of ₹68 crore in the quarter of the preceding fiscal. Raymond’s net profit for the FY20 jumped 20% to ₹202 crore from ₹168 crore in FY19.
+GAIL: Fitch Ratings has assigned 'BBB-' rating with a negative outlook to state-owned gas utility GAIL India. The ratings agency expects the pandemic, which would affect natural-gas consumption in India, and market volatility including lower crude oil prices to reduce GAIL's pre-tax profit in financial year 2020-21 by around 25%.
+IRB Infrastructure Developers: The company has allotted secured, redeemable, listed, rated non-convertible debentures of face value of ₹10 lakh each, for cash at par, aggregating to ₹200 crores on a private placement basis.
+Central Bank of India: The public sector lender reported narrowing of loss to ₹1,529.07 crore for March quarter 2019-20 as provisions for bad loans declined. Central Bank of India had reported a loss of ₹2,477.41 crore in January-March, 2018-19.
+* Thank you for subscribing to our newsletter.
+Click here to read the Mint ePaperLivemint.com is now on Telegram. Join Livemint channel in your Telegram and stay updated
+You are now subscribed to our newsletters. In case you can’t find any email from our side, please check the spam folder.
+lozad('.lozad', { load: function(el) { el.src = el.dataset.src; el.onload = function() { el.classList.add('fade')}}}).observe()
+.myAccount .planSec, .myAccount a.LinkCTA{padding:16px; margin:16px; box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.1); background-color: #fff;}
+	       		var userData = data;
+	       		var name = userData.name;
+	       		var email = userData.email;
+	       		var signupSource = userData.source;
+	       		var subscribedAtOnce = userData.subscribedAtOnce;
+	       		var plan  = userData.plan;
+	       		document.getElementById('uName').innerHTML = "<strong>"+name+"</strong>" + email;
+		       		var status = planData.status;
+		       		var purchaseSource = planData.source_device;
+			       		var nextActivationDate = planData.current_term_ends_at;
+			       		var planDescription = planData.plan.description;
+			       		var planName = planData.plan.name;
+			       		var planPrice = planData.amount;
+			       		//var planInterval = planData.shipping_interval;
+			       		var planInterval = planData.duration;
+			       		var planUnit = planData.interval_unit;
+			       		//var html = "<strong>Your Subscription Plan</strong>"+planName+" ₹"+planPrice+" / "+planInterval+" " + nextBillingHtml + cancelHtml; 
+			       		var html = "<strong>Your Subscription Plan</strong> "+planDescription + " "+ planName +": ₹"+planPrice + " "+ nextBillingHtml + cancelHtml;

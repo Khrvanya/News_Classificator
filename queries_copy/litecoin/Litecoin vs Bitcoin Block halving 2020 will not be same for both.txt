@@ -1,0 +1,14 @@
+A small portion of the crypto community has no verdict on the matter, and yet an even smaller portion believes in the opposite to be true. Given the numbers- the verdict that BTC will flourish with the upcoming halving event- wins.
+Most of the Skepticism surrounding Bitcoin came from the previous halving event of August 5 when Litecoin went from twenty-five (25) to twelve (12.5) LTC rewarded per block. Yet there was little to no impact on the coin’s price.
+PlanB (@100trillionUSD) ran some numbers and did a little homework on why things won’t be the same for BTC.
+Some people think that because litecoin didn't jump on ltc halving, btc halving will also be irrelevant for #bitcoin . That logic is flawed. LTC price doesn't have a significant relationship with stock to flow, so halvings are indeed irrelevant. BTC price-s2f relation is strong 🚀 https://t.co/5Wx7vHLvUd
+Stock-to-flow is the total amount of a commodity that is held in inventories, divided by the amount produced annually. With that being said, Litecoin will face trouble in the future because of its non-existent relationship with the law.
+The higher number of years it takes to mine a certain coin the scarcer it becomes before completely being depleted.
+This, in turn, should make the coin rise higher in value due to its increased rarity.
+Bitcoin also has a strong relationship with the predicted stock-to-flow value. We’ve seen a similar uptrend in BTC price during the 2012 halving, and the 2012 stock-to-flow ratio seems to be working fine is what the analysts have to say
+Bitcoin only needed 4 years of data to pick up and model the stock to flow signal. That 2012 model is still working fine (out of sample) until this very moment, and probably for some years to come. pic.twitter.com/xY6y9CYKcI
+— PlanB (@100trillionUSD) August 31, 2019
+If things were the same for Litecoin, we wouldn’t be having this conversation.
+Per request and despite the fact that I think that alts theoretically don't have 'unforgeable costliness' .. I decided to make a #Litecoin #LTC stock-to-flow model (data from Sep 2013). R2 is low .. 25%. Current S2F value is $27 (after 2019 halving $65). Can somebody pls verify?! pic.twitter.com/3RmjaELKv0
+Meanwhile, some analysts state that the buyers went away when the halving happened. Things wouldn’t have gone southwards if HODLers weren’t the only ones in the market when the event happened.
+One way or another, Litecoin doesn’t hold the same warmth as it once did in the hearts of crypto enthusiast. Time hasn’t been kind to Litecoin, and the future is as uncertain as to the volatility that governs it.

@@ -1,0 +1,25 @@
+Atomic Loans may have cracked the nut of Bitcoin DeFi as much as anyone can, as its users can use Bitcoin as direct collateral for a cross-chain loan disbursed on Ethereum.
+Atomic Loans is launching a decentralized finance (DeFi) product that is likely to be the closest to a direct implementation on Bitcoin’s ( BTC ) chain. It doesn’t quite avoid using an external smart contract platform, but it allows directly using Bitcoin for collateral.
+The startup announced on April 14 that it had raised $2.45 million in seed funding in a round led by Initialized Capital and with participation from ConsenSys, Morgan Creek Digital and Joe Lallouz and Aaron Henshaw from Bison Trails.
+Simultaneously, it is launching the Bitcoin side of its DeFi platform as a public mainnet beta.
+Atomic Loans works in a way similar to MakerDAO or Compound. A borrower must lock up his BTC collateral in a special multi-signature contract on the Bitcoin blockchain. Smart contracts on Ethereum then read that data and provide the loan through stablecoins on the other blockchain.
+The co-founder and CTO of Atomic Loans, Matthew Black, noted to Cointelegraph that the system does not mint its own stablecoins, making it closer to Compound than Maker.
+Like on other DeFi platforms, there is a minimum collateralization requirement below which the lender can trigger liquidation. For BTC, it was set at 140% — just 10% below what Maker requires for Ethereum, but 7% more than the same percentage on Compound.
+Motivating the decision, Black said that they looked at these competitors and “decided to go somewhere in the middle.” The team felt that Bitcoin “was a much more stable asset” and could withstand slightly lower parameters.
+For liquidators, the discount on Bitcoin market price amounts to 7%, which is higher than Compound’s 5% and Maker’s 3%. Black explained that this is due to the longer block times on Bitcoin, which could create additional uncertainty for arbitrage.
+Like many cross-chain solutions working on Bitcoin, there is an element of trust involved, as Black noted:
+“There's two main points of trust within the system. One is oracles and the other is an arbiter on the Bitcoin side. [...] Essentially [the arbiters] sign along with the lender in order to move Bitcoin from its current location to the atomic swap contract.”
+Trusted oracles are generally present in most DeFi platforms on Ethereum, though some may be more distributed than others. The need for an arbiter is specific to Bitcoin, due to its limited script functionality.
+The arbiter will be Atomic Loans itself, though the startup has a plan to solve this:
+“For V2 we're planning to remove that arbiter. So that's in the works to be removed using the discreet log contracts.”
+First introduced by MIT Digital Currency Initiative, discreet log contracts make it possible to use oracles when deciding how to spend a transaction. In essence, when entering the contract, the users create all possible transaction combinations based on expected output from the oracle.
+The oracle acts as the third party of the multi-signature contract, and when it finally submits the correct public key for a particular combination, that transaction is triggered.
+For Atomic Loans, these can be used in a liquidation scenario to split the funds between the liquidator and the borrower, Black explained.
+Black estimated a timeline of six months for the introduction of V2, though he noted that this will also depend on feedback from the first iteration.
+The lack of complex smart contract scripting has traditionally been a serious challenge to bringing any kind of lending or DeFi product to Bitcoin. Even bringing BTC as an asset to a different chain usually requires a trusted, or “federated,” bridge, where corporate entities hold custody of the Bitcoin.
+“I think there’s a couple of ERC-20 Bitcoin solutions that are working on coming to Ethereum,” noted Black. One of them is Wrapped BTC (wBTC) which is currently live on platforms like Compound.
+“But we've seen that there hasn't been that much adoption of it, to be honest, since it is a custodial solution,” added Black.
+Despite pointing to some bridging solutions that are more decentralized, Black criticized the concept of using these wrapped assets for collateral:
+“I think any time that you move an asset to another chain and it requires some type of  external validation or bonding, you will always run into liquidity issues.”
+In his view, this is better than wrapped Bitcoin on Ethereum — which he called “bringing Bitcoin to DeFi.” Atomic Loans, by contrast, would “bring DeFi to Bitcoin.”
+Nevertheless, Black conceded that most of the code for Atomic Loans is on Ethereum, as pure Bitcoin DeFi is likely impossible to implement. “It’s bringing DeFi to both [Ethereum and Bitcoin],” he summarized.

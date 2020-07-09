@@ -1,0 +1,54 @@
+Even among the best, key strengths are relative with room for improvement in the future. And all come with at least some weaknesses.
+So, today, I will give you a synopsis of four cryptos that have the best COMBINATION of long-term strengths.
+At Weiss Ratings, each crypto we rate gets an overall Weiss Crypto Rating. This grade represents the composite of four models (which get their own sub-grades):
+1. Our Technology Model evaluates each cryptocurrency’s potential to achieve a variety of goals: High transaction speeds and other scaling solutions, decentralization, energy efficiency, sophistication of monetary policy, governance capabilities, flexibility to upgrade and others.
+2. Our Adoption Model determines the degree to which each crypto has achieved those goals in the real world — in terms of network security, network capacity, speed, scalability, market penetration, decentralization, developer participation, public acceptance plus a host of other factors.
+3. Our Risk Model gauges the downside risk of investing in the crypto.
+4. Our Reward Model estimates the upside profit potential.
+How Should You Use Our Ratings?
+No matter what your goals may be, if you want the most comprehensive evaluation, use our overall Weiss Crypto Rating, which combines the output of all four models.
+If you’re strictly a short-term trader, pay especially close attention to risk and reward.
+If you’re primarily a long-term investor with plenty of time to let major trends play out, seriously consider a focus on technology and adoption.
+The Technology and Adoption combination, or Tech/Adoption score, is what will make or break crypto in the long run. Like any new invention, the underlying technology must be both innovative and sound.
+But that’s not enough. Unless it gets adoption — real people using it for practical purposes — it could fall by the wayside.
+Bitcoin was the world’s first cryptocurrency. Even though there are thousands of coins and tokens in existence today, it is still the biggest by far. All by itself, it accounts for roughly 68% of the entire crypto universe.
+By incorporating the benefits of both gold and digital currency, Bitcoin caused a wrenching paradigm shift in the world of money.
+And seeing Bitcoin’s potential to disrupt government-controlled (fiat) paper currencies, the world’s governments are in a quandary — with reactions ranging from skeptical to hostile.
+But it’s not just governments that are feeling the earth move under their feet.
+Bitcoin’s epic rise from 6 cents to $20,000 shocked the world of investments like the great San Francisco earthquake. As a consequence, doors are slowly opening that will one day allow hedge funds and other big-foot institutional investors to pour money into cryptocurrencies.
+Bitcoin will be an early beneficiary. Its status as the world’s most liquid crypto also makes it the most capable of absorbing and accommodating institutional-scale inflows of capital.
+Never forget, though: Since Bitcoin was the first, its technology is first-generation. So, it often lacks some of the innovations of second- and third-generation coins.
+How all of this eventually plays out, of course, remains to be seen. One thing, however, is certain: With a decade-long track-record behind it, Bitcoin has one of the best combined Tech/Adoption ratings overall.
+While Bitcoin was the world’s first public blockchain, Ethereum was the first major improvement. Famous for being the world’s first smart-contract platform, Ethereum allowed developers to create virtually any application using the same technology that made Bitcoin so successful.
+Because it can run just about anything any developer can dream up (and program), Ethereum can perhaps be best conceptualized as the world’s first globally distributed public computer.
+Ethereum proved its impact by re-igniting a wildfire of enthusiasm for all things crypto in the heart of the 2015 crypto bear market. From there, cryptocurrency prices blasted up to the speculative bubble heights of 2017. And that epic surge was largely fueled by Initial Coin Offerings (ICOs) that Ethereum made possible.
+But before very long, it became a victim of its own success.
+It became so popular so fast, developers only had time to implement a fraction of the features they envisioned. Processing bottlenecks emerged that sharply limited Ethereum’s ability to scale up to accommodate the surging demand for bandwidth, which degraded network performance.
+PoW blockchains are slow and consume alarming amounts of electricity. But they also come with a key benefit: Anybody, anywhere can join. All you need is a computer, an internet connection, et voilà, you’re a miner!
+Practically speaking, this means a lot of people get a fair chance to get their hands on some Ether without owning any previously.
+By contrast, PoS blockchains are faster and far more energy-efficient. Network decision-making lies in the hand of token-holders, voting their tokens. And since tokens are needed to create more tokens, there is a natural tendency — confirmed by experience — for the lion’s share of token ownership to become concentrated in the hands of a few big players.
+Result: It gets very difficult for newcomers to compete with the large stakeholders.
+For Ethereum, PoW made sense initially. It helped ensure a slow and fair distribution of Ether as more miners joined the new network. They figured they could switch to POS later, after a critical mass of tokens were created and distributed.
+That was the plan. But it’s much easier said than done. Ethereum has now grown so large that switching to PoS would be an experiment on a scale never attempted.
+Despite these challenges, Ethereum is the second-highest-rated crypto for adoption, surpassed only by Bitcoin itself. This extraordinary popularity among those who create Distributed Ledger Technology is a powerful indication of future potential.
+This third-generation cryptocurrency started out as a smart-contract platform seeking to replace Ethereum as the backbone of the new internet. And in recent months, it has enjoyed massive growth in user transaction volume.
+What does the new kind of internet that EOS and similar platforms want to help create look like? Well, it would be radically different from the one we know today. Most applications won’t be controlled by a single central authority that people need to trust. It will be decentralized and controlled by the broad community of users.
+But achieving that goal requires a formidable bundle of features, including ...
+The ability to constantly reformulate itself on the fly to accommodate the accelerating pace of ever-changing technology. And …
+Virtually zero costs for the average person to use.
+Unfortunately, Ethereum currently lacks these capabilities. And so Dan Larimer, the main architect of EOS, set out to create a new crypto in which ...
+The protocol and its applications can be upgraded much more easily than with Ethereum or Bitcoin. And ...
+Users can run distributed applications (dApps) without incurring any network fees.
+IOTA aspires to become what Bitcoin was originally intended to be: A permission-less ledger anyone can join, where no special groups have special access or control over the network.
+That’s a very lofty goal, one that even Bitcoin itself fails to fully measure up to in this respect. Indeed, a handful of crypto mining giants (half of them in China) control the lion’s share of the computing resources on the Bitcoin blockchain.
+So, IOTA developers went back to the drawing board.
+They asked themselves how to build a network where value can be transferred safely, each participant is equal, and transactions take only a few seconds to settle.
+In attempting to achieve these goals once and for all, they did something novel: They discarded the entire concept of blockchain itself.
+What do they use instead? A non-blockchain data architecture called “Tangle.”
+In theory at least, all of this has the potential to make IOTA one of the most decentralized cryptocurrencies in existence today.
+Bitcoin has the best adoption, but not the most advanced technology.
+IOTA’s technology is cutting-edge, but still highly experimental and not nearly as popular.
+Ethereum dominates the world of smart contracts but has some scaling problems.
+EOS has solved some of those problems but has some of its own while still lagging Ethereum in adoption.
+How this all pans out remains to be seen. But to stay up to speed, use our home page to check out our latest ratings, price indexes and commentary.
+Juan Villaverde is an econometrician and mathematician devoted to the analysis of cryptocurrencies since 2012. He is the editor of the Weiss Cryptocurrency Portfolio service and leads the Weiss Ratings team of analysts and computer programmers who created the first-of-their-kind Weiss Cryptocurrency Ratings.

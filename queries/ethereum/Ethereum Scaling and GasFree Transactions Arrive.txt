@@ -1,0 +1,15 @@
+ETH 2.0’s highly anticipated revamp is expected to begin rolling out in a matter of months, but scaling solutions and gas-free transactions have already arrived.
+Ethereum 2.0 is expected to launch within months, but new scaling solutions and gas-free transactions are already here. The network is also growing more popular, with the number of active wallets more than doubling since January to around half a million.
+The developers behind the second-largest DeFi protocol, Synthetix, have partnered with Ethereum layer-2 research team Optimism to launch a demo deployment of Synthetix Exchange on the Optimistic Virtual Machine (OVM).
+Optimism’s OVM is a layer-2 scaling solution designed to allow DeFi financial platforms to operate with comparable speeds to centralized systems.
+The use of scaling technology has reportedly seen significant gains in performance — including a reduction in oracle update latency of 37.5 times, a drop in transaction delay of 75 times, and significant contractions in gas prices for oracle and exchanges related transactions.
+Foreshadowing the move earlier in the year, founder Kain Warwick told Cointelegraph that the existing Ethereum network still had a lot of life left in it.
+“Even if ETH 2.0 was to not happen, there’s still a lot of upside in ETH 1,” he said, adding the Optimism scaling solution makes a couple of thousand transactions per second achievable. That’s an order of magnitude greater than the handful of transactions per second that was possible until now on Ethereum or Bitcoin.
+“There’s the potential for ETH to scale up significantly without moving to Proof of Stake,” he said.
+On May 4, Biconomy launched the beta mainnet for their relayer infrastructure.
+The platform is designed to facilitate gas-free interactions with DApp protocols, removing technical barriers to greater adoption and making it easier for DApp developers to onboard and manage users. While it’s of most help to Ethereum developers right now, it’s actually blockchain agnostic.
+DApps that integrate Biconomy will be able to access the applications through a familiar username and password interface — removing the need for technical interaction with smart contracts or gas fees.
+In a May 6 blog post, Biconomy asserts that its research has pointed to gas optimization, relayer development, and clunky user-experiences among the major pain points stifling innovation.
+The post announced Biconomy’s 10 launch partners — Matic Network, Torus, Daostack, Sapien Network, Dapp Pocket, Zefi, Alathea, Frontier Wallet, Fortmatic, and Idle Finance — signaling strong demand for the protocol’s promise of improved customer and developer experiences.
+Amid the increasing popularity of DeFi and the highly anticipated roll-out of ETH 2.0, the number of active users has doubled since January — recently bumping up against 500,000 for the first time since June 2019.
+The creation of unique ETH addresses has also accelerated in recent weeks, with the number of daily new wallets jumping from between 50,000 and 100,000 during the early months of 2020 to over 100,000 throughout March. The total number of unique addresses now exceeds 96 million.

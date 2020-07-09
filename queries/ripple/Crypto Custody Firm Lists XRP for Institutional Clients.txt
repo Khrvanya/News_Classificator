@@ -1,0 +1,8 @@
+The institutional digital asset custody provider and Libra association member, Anchorage, has added XRP to its list of supported assets.
+Qualified digital asset custodian, Anchorage Trust Company, has added XRP to the list of assets supported by its institutional custody solution. The company announced support for the third largest cryptocurrency by market cap in a blog post on April 2.
+Anchorage claims that its custodial solution is safer than cold storage, while allowing the benefits of asset usability, offering features such as staking, airdrops, and even trading from custody.
+According to Diogo Mónica, Anchorage co-founder and President, XRP support relies on resources including those developed and maintained by Ripple’s developer platform, Xpring. This most notably includes the rippled open-source server, which powers the XRP Ledger.
+The custodial solution for XRP is available to institutional investors today, with plans to add additional services in the future. The project noted:
+Anchorage was one of the original members of the Libra Association, and as Cointelegraph reported , like many Libra backers, has also joined forces with rival stablecoin, Celo, as part of its Celo Alliance for Prosperity.
+It is also a member of the Blockchain Alliance and the Crypto Rating Council, and is backed by big-names including Andreessen Horowitz, Blockchain Capital, and Visa.
+Cointelegraph reached out to Ripple for its comment on the addition of XRP to Anchorage’s custody solution, but had not received a response at time of publishing.

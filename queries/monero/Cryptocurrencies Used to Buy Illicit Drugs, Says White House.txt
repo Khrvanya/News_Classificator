@@ -1,0 +1,11 @@
+Cryptocurrencies Used to Buy Illicit Drugs, Says White House
+The White House named Bitcoin, Bitcoin Cash, Ethereum and Monero among the methods of buying illicit substances such as fentanyl in the United States.
+The White House has issued two advisories to warn that fentanyl and other synthetic opioids are being purchased using major cryptocurrencies.
+The advisories were addressed to financial institutions as well as digital payments platforms , and are designed to help them detect and report suspicious transactions.
+Warning that the United States “is in the midst of an unparalleled epidemic of addiction and death,” the documents said:
+“An analysis of sensitive financial data indicates that domestic illicit drug manufacturers, dealers, and consumers use online payment platforms or CVC to purchase precursor chemicals or completely synthesized narcotics primarily sourced from China.”
+In the context of the documents, CVC refers to “convertible virtual currencies” — particularly Bitcoin ( BTC ), Bitcoin Cash ( BCH ), Ethereum ( ETH ) and Monero ( XMR ). Explaining how the transactions work, the advisories add:
+“Individuals located in the United States search for fentanyl and identify potential websites that may provide the opportunity to purchase illicit drugs online. Foreign representatives will instruct the U.S.-based individual to send payments through CVC, such as bitcoin, bitcoin cash, ethereum, or monero.”
+Financial institutions are being urged to collect these details in case of any suspicion, including “virtual currency wallet addresses, account information, transaction details (including [...] hash), relevant transaction history, available login information (including IP addresses), information obtained from analysis of the customer’s public online profile and communications, mobile device information.”
+As Cointelegraph reported last month, Treasury Secretary Steven Mnuchin said his department wants to stop Bitcoin from becoming an “equivalent of Swiss-numbered bank accounts.”
+Previously, Mnuchin also stated that he shares President Donald Trump’s concerns that cryptocurrency is being used to finance illicit activity.

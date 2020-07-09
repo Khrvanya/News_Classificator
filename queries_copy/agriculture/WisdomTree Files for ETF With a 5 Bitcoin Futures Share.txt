@@ -1,0 +1,10 @@
+A New York-based asset manager has filed for an ETF that will invest up to 5% of its capital into Bitcoin futures contracts despite focusing on energy, agriculture and metals.
+WisdomTree Investments, a New York-based exchange-traded fund ( ETF ) provider, has filed for an ETF that would invest up to 5% of its portfolio in cash-settled Bitcoin ( BTC ) futures contracts offered by Chicago Mercantile Exchange ( CME ).
+The application , which was filed on June 16, asserts that the proposed fund will invest in the futures markets of four commodity sectors spanning agriculture, industrial metals, precious metals and energy.
+No direct investments will be made in the underlying physical assets.
+Despite regulators having thus far rejected applications for Bitcoin ETFs, WisdomTree hopes that its "WisdomTree Enhanced Commodity Strategy Fund' will be given the go-ahead due its small allocation toward a product that is regulated by the SEC.
+However, the fund’s preference for futures contracts over physical assets may not sit favorably with the regulator, following the spectacular crash in the U.S. oil markets that saw prices fall into the negative during April.
+Despite analysts expressing doubt regarding the likelihood that WisdomTree’s fund will be approved, the inclusion of Bitcoin futures alongside contracts for oil, cattle, coffee, and aluminum illustrates the growing interest in crypto on the part of many fund managers who are focused on mainstream asset classes.
+In May, Kingdom Trust, a regulated custodian managing more than $13 billion in assets, launched a retirement account supporting Bitcoin and traditional assets.
+Speaking to Cointelegraph, Kingdom Trust’s CEO, Ryan Radloff , predicted that an increasing share of the $28 trillion U.S. retirement market becomes opened up to crypto assets in the coming years:
+"By our estimates, there are 7.1 million Americans who own Bitcoin, have a retirement account, but currently don't have the option to hold Bitcoin in their retirement account with their other assets," he said.

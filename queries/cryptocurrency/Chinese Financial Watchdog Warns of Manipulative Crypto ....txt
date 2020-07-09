@@ -1,0 +1,13 @@
+Please consider using a different web browser for better experience.
+Please enable JavaScript in your browser for a better site experience.
+Chinese financial watchdog NIFA warned investors of fraudulent trading by crypto exchanges. (Credit: asiastock / Shutterstock)
+The National Internet Finance Association of China (NIFA), a major Chinese financial watchdog, warned investors of rising risks in crypto investments.
+While manipulation is a longstanding concern for crypto investors, NIFA’s warning is notable for also pushing back on the narrative of digital currency as a safe haven during a time of global turmoil .
+NIFA, a self-regulatory organization affiliated with China’s central bank, said Thursday that foreign-based crypto exchanges have faked trading volume, according to its own data analysis. It also noted some trading platforms compared digital currencies to safe haven assets like gold and silver, but a recent tumble in the crypto market caused significant losses for investors.
+“In our sampling analysis based on trading data from some of the exchanges, the daily trading turnover rate for more than 40 coins is over 100 percent, while more than 70 coins’ rate exceeds 50 percent,” NIFA said. “Despite the relatively low price and small market value, there have been massive trading volumes.”
+The trading platforms have created the “false prosperity” in the crypto trading market by tempering statistics and using robots to increase trading volume. Some platforms have completely made up trading volume by copying other exchanges’ data, NIFA claimed.
+The authority also accuses the trading platforms of misguiding investors by claiming virtual currencies are even safer than gold and silver to mitigate the volatility in the international financial market.
+“After tricking investors into investing in crypto, some exchanges will manipulate the market through a range of trading techniques to take the investors’ assets,” NIFA said.
+For example, exchanges can stop investors from trading by shutting off their systems, freezing assets or staging a system breakdown. Some investors would not be able to close a position and suffer a lot of losses, especially for those that trade with high leverage.
+According to NIFA, the vast majority of crypto exchanges are based outside China since the government banned trading activities in 2017. As a result, it has been difficult for regulators to track down such institutions and retrieve losses for investors.
+The leader in blockchain news, CoinDesk is a media outlet that strives for the highest journalistic standards and abides by a strict set of editorial policies . CoinDesk is an independent operating subsidiary of Digital Currency Group, which invests in cryptocurrencies and blockchain startups.

@@ -1,0 +1,18 @@
+SEM images of a) uncoated powder, b) coated powder, c) cross-section of coated powder of stainless steel 316L (Courtesy The Ricoh Company, Ltd.)
+Ricoh, based in Kanagawa, Japan, has developed a new resin-coated metal powder and cross-linking ‘ink’ for use in the Binder Jetting process. Said to increase the diversity of metals available for Binder Jetting and improve the quality of components, the new range is aimed at those adopting Binder Jetting as a manufacturing process.
+The metal powders are coated with a uniform layer of binder resin around 100 nm in thickness, in a process developed from coating technology acquired through electrophotography. A cross-linking material in the ink is said to work with the resin to form the green part.
+According to Ricoh, a key advantage of the new material is to remove the risk of dust explosions associated with fine powder particles and potentially explosive powders, such as aluminium and titanium. Fine powders tend to offer improved sinterability and can lead to higher achievable density and low surface roughness. However, fine powders can be more explosive than coarse powders.
+The new powders are coated with resin selected to improve both the minimum ignition energy and explosible concentration, important parameters in avoiding dust explosion. The resin-coating is said to prevent the propagation of fire between particles. This allows the use of fine powders and results in improved surface finish, reducing the need for additional
+A further advantage of Ricoh’s new process is the ability to control the permeability of the ink toward the powder bed. If permeation is less than expected, for example, it can cause increased porosity in the green part and if the ink permeates too far, it affects the dimensional accuracy of the parts produced.
+The control of ink permeability is a key factor for the achievement of the correct density and accuracy for a part. Using its new materials, Ricoh stated that it has achieved the adjustment of the contact angle between the ink and powder surface, and a level of control over permeability through a selected combination of surfactant and coating resin.
+VBN Components, Uppsala, Sweden, has appointed Johan Bäckström as its new CEO. Bäckström has been working in parallel with Martin Nilsson, the ... »
+Sino-Euro Materials Technologies of Xi’an Co., Ltd., Xi’an, China, a subsidiary company of the NIN Group, reports that its SS-PREP® SMT-Co25Cr... »
+CGTech, Irvine, California, USA, has announced the latest release of its Vericut software, Version 9.1. Vericut CNC machine simulation, verificatio... »
+Dyndrite Corporation, headquartered in Seattle, Washington, USA, has reported a successful first edition of its virtual Digital Manufacturing Inves... »
+Our latest issue is now available to view online or download in PDF format.
+As well as an extensive AM industry news section, this 184-page issue includes articles and reports on:
+Cheaper powders, faster build speeds and no thermal stresses? How AM is going supersonic at SPEE3D
+Current perspectives on metal AM: Hype, volume manufacturing and the geographies of production
+From lightweighting and material efficiency to energy consumption: Where are we on AM’s sustainability journey?
+The free to access Metal Additive Manufacturing magazine archive offers unparalleled insight into the world of metal Additive Manufacturing from a commercial and technological perspective through:
+All past issues are available to download in PDF format, in either single page format or as double-page “spreads” for viewing on large monitors. All downloads are free of charge. Go to archive...

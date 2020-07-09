@@ -1,0 +1,17 @@
+In just five years, Ethereum miners have produced 10 million blocks in its blockchain. That's 9,270,000 more blocks than Bitcoin.
+The Ethereum blockchain has reached 10 million blocks. Image: Shutterstock.
+The number of Ethereum blocks has reached 10 million.
+Ethereum blocks are mined every 20 seconds.
+Bitcoin blocks take longer, and there have only been 628,900 of them.
+Ethereum (ETH) mined its 10 millionth block today, marking a significant milestone for the world’s second largest cryptocurrency. Data from blockchain explorer Etherscan shows the 10 millionth block was successfully mined at exactly 01:22:13 PM (UTC).
+In contrast, just 628,900 Bitcoin blocks have been mined, since it launched on January 3, 2009. However, Bitcoin blocks take much longer to be produced, around 10 minutes on average.
+Launched in 2015, Ethereum was envisioned as a decentralized “world computer.” It soon rose to prominence in the market cap top 100, before exploding in value during the crypto market boom of 2017. It is currently the second-ranked coin by market cap.
+Back in the day, CPUs were used to mine the coin, before graphics cards took over. Since then, larger mining machines, known as ASICs, which are dedicated to mining cryptocurrency, have taken over. These machines have rapdily spread up the mining game.
+As noted by Luit Hollander in History of Ethereum Hardforks , it would take a consumer graphics card over 150 million years to compute the 15 zettahashes required to mine 10 million Ethereum blocks.
+Cryptocurrency enthusiasts celebrated the milestone on social media, looking forward to seeing Ethereum progress further—especially in terms of scaling.
+"Ethereum just reached 10M blocks! The progress from the genesis block in 2015 is incredible. There are many exciting layer 2 solutions launching this year (like keep_project, NuCypher, SkaleNetwork ) that will help ETH scale even further," tweeted Aaron Hensaw, founder of blockchain infrastructure provider Bison Trails.
+Ethereum’s whitepaper originally envisioned blocks to be processed every 12.6 seconds. In practice, the time between blocks has proven to be slightly higher. Data from Bitinfocharts shows ETH block times have arrived on average every 20 seconds or so—with occasional spikes as high as 50 seconds during periods of congestion.
+Yet such milestones will soon be a thing of the past as Ethereum shifts towards a proof-of-stake consensus model in the coming years.
+Update: The difference between the number of Ethereum blocks and Bitcoin blocks has been updated.
+Have a news tip or inside information on a crypto, blockchain, or Web3 project? Email us at: tips@decrypt.co .
+Get the best of Decrypt where you want it most.

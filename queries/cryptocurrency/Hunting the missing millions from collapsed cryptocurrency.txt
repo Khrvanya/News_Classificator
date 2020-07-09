@@ -1,0 +1,43 @@
+A Russian computer programmer involved in the collapse of a big cryptocurrency exchange says he was tricked into handing over its entire assets to fraudsters posing as FSB agents, according to documents obtained by BBC Russian.
+Alexei Bilyuchenko was a key player in Wex, which stopped trading in 2018, leaving customers unable to access investments totalling nearly half a billion US dollars.
+BBC Russian has spent months investigating the murky world of Russian cryptocurrency trading, trying to find out what happened to the money.
+It's a story worthy of the BBC TV drama McMafia , involving an unlikely cast of characters from computer geeks and FBI agents, to a billionaire oligarch with ties to the war in Ukraine.
+The story begins in the Russian city of Novosibirsk in August 2017 where Alexei Bilyuchenko, a former IT manager for a furniture shop chain, was lying low having narrowly escaped arrest on holiday in Greece.
+Six years earlier he and business partner Alexander Vinnik, an electronic cash transfer specialist, had met online and made a life-changing decision to get involved in cryptocurrency trading.
+Described by friends as shy men who preferred computers to people, Alexander Vinnik and Alexei Bilyuchenko set up an exchange called BTC-e which was to become notorious.
+Like similar exchanges around the world, BTC-e offered investors the chance to use real money to buy virtual currencies.
+Unlike other exchanges in Europe and the US, BTC-e did not ask customers for their ID, meaning that as well as appealing to legitimate investors, it also offered a potential way for organised criminals to launder money.
+Customers flocked to invest in BTC-e and, according to Global Witness, by 2016 it had become the third largest cryptocurrency exchange in the world.
+The two partners communicated online and they only met in person in 2014 when their daily bitcoin trading reached $2m. By the time it hit $10m in 2016 they held a family party in Moscow.
+In July 2017 they went on holiday to Greece, unaware US federal agents investigating international money laundering were on their trail.
+The FBI suspected BTC-e was involved in hiding funds stolen from the hack of another bitcoin exchange, Mt Gox. Cybercrime experts also thought it was being used by the mysterious Russian hacking group Fancy Bears .
+A warrant was issued for Alexander Vinnik's arrest and Greek police detained him on the beach, in front of his wife and children.
+His mother called Alexei Bilyuchenko, who was in a different resort. In a panic, he smashed his laptop, threw it into the sea and jumped on the next flight to Moscow.
+The FBI had seized BTC-e's website but he still had the back-up servers and, via Wex, he was able to return investments to some BTC-e clients .
+At this stage, according to the version of events he later told police, and which has been shared with the BBC, Alexei Bilyuchenko decided he needed a backer to offer some protection.
+He says he was introduced to Konstantin Malofeyev, a Moscow-based billionaire, with strong ties to both the Kremlin and the Russian Orthodox Church.
+Mr Malofeyev, who made his fortune in investment banking, is currently under US and EU sanctions for alleged links to rebel fighters in Eastern Ukraine.
+In his police statements Alexei Bilyuchenko says he was invited to Moscow several times to meet Mr Malofeyev in his offices in a high-end shopping plaza.
+The topic of how much money Wex was generating allegedly figured large in their conversations, as did the question of what might have happened to the funds held by BTC-e until the FBI swooped.
+"For several months Malofeyev demanded I show him the Wex cryptocurrency balances," Mr Bilyuchencko told police.
+Mr Malofeyev strongly denies any connection to either Mr Bilyuchenko or Wex.
+By summer 2018, trading on Wex was slowing down, and at the end of the year it stopped altogether.
+The $450m worth of cryptocurrency it was holding vanished without trace.
+Angry clients began demanding their money back and one filed a complaint with police in Russia's Chuvashiya region.
+Alexei Bilyuchenko was summoned as a witness, and he told the police an extraordinary story.
+He said he had actually lost control of Wex in the spring of 2018, several months before it officially collapsed.
+He said that at a meeting in Konstantin Malofeyev's Moscow office he had been introduced to some men he understood were agents from the security service, the FSB.
+They took him to a building used by the FSB, not far from the Bolshoi Theatre. They asked him about Wex and then took him to the luxury Lotte hotel near the Russian foreign ministry where he says he remained under guard all night.
+According to Mr Bilyuchenko, the next morning he was taken back to Mr Malofeyev's office, where it was strongly suggested he should move the funds held by Wex into "an FSB fund", which he agreed to, and, according to him, on his next visit to Moscow he transferred everything as requested.
+Back home in Novosibirsk, it began to dawn on him, he says. He had, he claims, been the victim of a scam and, rather than transferring the money into state coffers, he had actually been tricked into handing it over to Mr Malofeyev's associates.
+Since telling his story to the police Mr Bilyuchenko has gone into hiding. Private security guards now protect his home and he has declined to speak to the BBC or anyone else about Wex.
+So is Alexei Bilyuchenko telling the truth?
+Alexander Terentiev, who heads a campaign group for defrauded investors, told the BBC he was not convinced. But others seem less sceptical.
+Since the end of November, courts, public buildings, metro stations and shopping centres in Moscow and St Petersburg have been paralysed by almost daily hoax bomb threats.
+According to reports in Russian media, several of the emailed warnings have included references to Wex's missing millions and to Mr Malofeyev.
+A statement issued via Mr Malofeyev's Tsargrad TV channel described the bomb threats as part of "a campaign of discreditation" against him.
+"Neither Konstantin Malofeyev nor his companies have anything to do with the theft of Bitcoins, the Wex exchange, or its management," it said.
+Mr Malofeyev has declined to speak to the BBC about the case and the FSB has not responded to the BBC's request for comment.
+Meanwhile, in Greece, two years after his dramatic arrest on the beach, Alexei Bilyuchenko's former business partner Alexander Vinnik is still in jail.
+The US, Russia and France are all seeking his extradition. He has not seen his wife, now suffering from a brain tumour, for two years,
+His lawyer Timofei Musatov told the BBC the former bitcoin multi-millionaire had been on a long hunger strike and was now a shadow of his former self.

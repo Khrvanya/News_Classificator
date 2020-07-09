@@ -1,0 +1,12 @@
+By dan saada June 21, 2020 Off
+The Litecoin Foundation is a strong and vibrant community.  They help recognize the contributors and educators to further the community decision towards adoption cryptocurrency. A relentless push for adoption of cryptocurrency is already doing the rounds.
+Litecoin Foundation tweeted:  “#Litecoin’s blockchain has had 146,796,072 Outputs over 9 yrs. ~99% of all #LTC historical outputs have been monetary. Want to have your voice heard? Let your money talk for you. #PayWithLitecoin.”
+While some Litecoin onlookers opine that LTC would be worth nothing due to their lack of research and development.  A clarification in this regard reads thus: Charlie Lee Opens Up on Why he thinks and people think that Litecoin (LTC) Is Boring .
+It is very clear that the privacy of Mimble Wimble is on its way.
+Also, we can see that just like Justin Tron, Litecoin are also publishing their stats to let their investors know they are progressing in their own way.
+Those who want to know more about Lightning should get to know on What is a MultiSig Wallet? The open payment channel and the closed payment channel.
+Sydney Ifergan, the crypto expert tweeted:  “Litecoin (LTC) or any other crypto are here for a reasons.  Though they might not rocket they have a purpose to serve.  People should stop criticizing projects for not being too big.”
+The Lightning Network (LN) consists of several multisig addresses, which are the backbone of the Lightning Network.  The unique properties of Open and Closed Payment Channels ensure the transactions are not recorded on the blockchain immediately. This prevents the users from having to pay a transaction fee for every transaction.
+When the transaction has been broadcast to the Litecoin Network, the payment channels close.  This happens during two situations.  One is when everyone in the multisig signs for the transaction.  The other is when there is “Hash Time Locked Contracts.”   Thus, these contracts delay spending of the payment until a certain amount of time is passed.  This is the technology which is made use of the by the Lightning network.
+An interesting information from a Survey is that only 24% of Gen Z knew the difference between crypto blockchain.  Of note, the median transaction value of Litecoin has been reported to be ~$50. Median value = the most realistic ‘average’. In this case, Litecoin states it is for trx value.
+Litecoin are speaking up we will be able to get more of progress reports from them.  Probably, they are gearing up for something good.  Naysayers Alert!

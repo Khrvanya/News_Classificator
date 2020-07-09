@@ -1,0 +1,13 @@
+An investor in cryptocurrency hedge funds saw nearly 99% of a $250,000 investment wiped out after his chosen fund collapsed during the market meltdown.
+Matveev detailed Cryptolab Capital's explanation in a Medium blog post : the fund took a leveraged position in March, and a lack of liquidity and rejection of sell orders stopped it from pulling out when crypto prices tanked.
+Crypto hedge funds lost an average of 26% in March, while traditional hedge funds lost about 8%, the Financial Times said, citing HFR data.
+An investor handed $250,000 to a cryptocurrency hedge fund last summer. His investment shed almost 99% of its value during the coronavirus sell-off in March, he told the Financial Times .
+"I don't really know what happened," Vlad Matveev told the newspaper. "They said they had a diversified set of strategies."
+Matveev outlined Cryptolab Capital's explanation of what happened in a Medium blog post in late March.
+The fund's algorithm plowed an amount equal to three times its managed assets into XBTUSD, a leveraged trading product that allows investors to speculate on the bitcoin-dollar exchange rate, Matveev said, citing the fund's managers.
+When the market plunged, the managers tried to reduce their position but were thwarted by a lack of liquidity and their sell orders being rejected, Matveev continued. The crypto exchange ultimately auto-liquidated all positions on March 12, he added.
+Cryptolab Capital didn't immediately respond to a request for comment from Markets Insider.
+Many crypto funds were caught off guard when bitcoin and other cryptocurrencies tumbled by more than a third in mid-March. The funds lost an average of 26% that month, their second-worst monthly loss since at least 2015, the Financial Times said, citing data from hedge-fund researcher HFR.
+"It's an understatement to say it's a bloodbath across the board," Eduoard Hindi, partner at Tyr Capital, told the newspaper.
+Crypto funds trailed conventional hedge funds in March, as the latter lost an average of 8.4%, the Financial Times reported.
+However, bitcoin and other cryptocurrencies have rallied strongly since then. As a result, crypto funds are up more than 13% this year, the newspaper said, striking a sharp contrast to average losses of almost 7% for the broader hedge-fund industry.

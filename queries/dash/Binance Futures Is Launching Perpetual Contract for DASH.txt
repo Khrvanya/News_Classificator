@@ -1,0 +1,5 @@
+On Monday (February 3), digital asset exchange Binance announced that its futures trading platform, Binance Futures, which went live in September 2019, is launching a new perpetual contract product -- DASH/USDT -- at 08:00 (UTC) on 4 February 2020.
+According to Binance's announcement , "to prevent market manipulation, Binance will implement a pricing limit of ±1% on the mark price within the first 30 minutes after trading starts."
+Also, it is worth keeping in mind that, as with the ADA/USDT perpetual contract, which was announced on January 30, "perpetual contracts on Binance Futures are similar to the trading pairs on the spot market," and they are "priced and settled in the same manner."
+Binance Futures users will be able to choose between 1x and 50x leverage.
+Here are some of the main specifications for the contract:

@@ -1,0 +1,35 @@
+Some idiot bought Ethereum at $5,000 yesterday. Oops. I guess we probably should have seen the bitcoin price crash coming. | Source: Shutterstock. Image Edited by CCN.com.
+Ok, maybe we should have seen yesterday’s bitcoin price crash coming.
+Let me rephrase that: I should have seen yesterday’s bitcoin price crash coming.
+Here’s why: I watched some idiot buy ethereum at $5,000 in real-time.
+So I don’t know why I was so surprised when, just a few hours later, the bitcoin price began a vicious 20% plunge.
+Let me back up and explain exactly what happened.
+US retail investors can now purchase ethereum-backed shares on an OTC stock market. | Source: Shutterstock
+Actually, let me back up one step further.
+About a week ago, the Grayscale Ethereum Trust (ETHE) launched on over-the-counter market OTCQX, enabling US investors – including retail investors – to purchase the product’s shares, which are backed by “physical” ether tokens.
+Much like Grayscale Investments’ flagship product, the Bitcoin Investment Trust (GBTC), ETHE began as a privately-traded security, available only to accredited investors willing to front the large investment minimum.
+So what does this have to do with some idiot buying ethereum at $5,000? It’s a little complicated, but the short version is supply and demand.
+There’s plenty of ETH out there (more than $1.3 billion worth changed hands over the past 24 hours). However, there’s a very limited number of Grayscale Ethereum Trust shares. And even fewer are up for sale.
+Accredited investors can purchase shares in Grayscale products at their net asset value and then, following a vesting period, dump them on the illiquid public market at hefty premiums to their actual value.
+Often to retail investors, who are either too ignorant to recognize they’re paying insane premiums or have a semi-compelling reason to pay far above market value to purchase bitcoin (e.g., a desire to hold BTC in tax-advantaged retirement accounts).
+Here’s why this matters: These aren’t everyday premiums like the 5.75% sales charges your parents paid when they invested in mutual funds through their financial advisor before Fidelity’s zero-fee index funds existed. You know, back in the dark ages.
+Premiums on publicly-quoted Grayscale shares fluctuate wildly based on supply and demand. But during FOMO periods they get ridiculously out of hand, to the point where secondary market GBTC investors have unfortunately paid double what the shares are actually worth (today GBTC’s premium is ~31%).
+Led by the Bitcoin Investment Trust, Grayscale’s funds closed June 26 with $3 billion in assets. | Source: Grayscale
+The Grayscale Ethereum Trust just started trading on OTCQX, and to say it’s about as liquid as the Sahara Desert would only be a slight overstatement. That’s not Grayscale’s fault – that’s just the nature of the market.
+Since the marketplace is illiquid, sellers are offering ETHE shares at prices not even in the same hemisphere as their net asset value. And inexplicably, investors are buying them. And getting absolutely REKT.
+So there’s the boring background information. Now back to my story.
+I was monitoring ETHE’s price chart, contemplating whether to do a belated story on the launch.
+And then I saw a trade print at $499.
+The Grayscale Ethereum Trust printed a $499 trade on Wednesday, implying an ethereum price near $5,200. | Source: TradingView
+That’s right – someone bought at least one share for $499 (I didn’t take a screenshot, so I don’t know how many shares they purchased).
+At the time, the ethereum price was holding around $350. That means that ETHE shares spiked to a ~43% premium over the ethereum price.
+But here’s the thing: ETHE shares only represent a fraction of a full ether token. According to Grayscale, each ETHE share is backed by 0.09624748 ETH – less than one-tenth of a full coin.
+That means that some unfortunate soul invested in ethereum at a price within spitting distance of $5,200.
+To be clear, the composite ethereum price has never hit $5,000. It’s never even come close, peaking at $1,431.77 in the early days of 2018.
+Let me restate this – heck, I’ll make it bold for good measure: Someone bought ethereum at more than triple its record price.
+According to TradingView, it actually popped higher a few days ago, though I didn’t witness this one in real-time.
+Today, ETHE has cooled off to a far more pedestrian $125. Meaning that investors are now buying ETH below its all-time high. But only slightly.
+In case you were wondering, ETHE’s net asset value is currently about $27.
+Tell me this doesn’t sound like a story from December 2017.
+So yes, I should have seen yesterday’s bitcoin price crash coming.
+Disclaimer: The views expressed in the article are solely those of the author and do not represent those of, nor should they be attributed to, CCN.com.

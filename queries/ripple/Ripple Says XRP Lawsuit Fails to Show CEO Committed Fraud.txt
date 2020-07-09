@@ -1,0 +1,16 @@
+Please consider using a different web browser for better experience.
+Please enable JavaScript in your browser for a better site experience.
+Ripple CEO Brad Garlinghouse (Credit: Nikhilesh De for CoinDesk)
+Ripple and CEO Brad Garlinghouse say an ongoing lawsuit fails to show how Garlinghouse committed fraud when allegedly selling millions of dollars’ worth of XRP in 2017.
+Lawyers representing the San Francisco-based blockchain company said in a court motion Monday that lead plaintiff Bradley Sostack has not demonstrated how a series of supposedly fraudulent statements made by Garlinghouse and Ripple employees were anything of the kind.
+In the U.S., the threshold for what can be considered fraud is based on Federal Rule of Civil Procedure 9(b), which stipulates a plaintiff must show two things: first, how fraud was actually committed; second, that it was done so with scienter – i.e the defendants knew they were misleading others.
+Ripple’s lawyers argue the plaintiff’s amended complaint – which was filed in March – did not fulfill the first pre-requisite:
+“Plaintiff’s FAC [first amended complaint] identifies the allegations that purport to contain false statements,” reads the filing. But these “alleged misrepresentations” cannot be shown to be considered fraudulent and “Plaintiff does not (and cannot) explain how and why these statements are false.”
+In the case of Garlinghouse, the plaintiff circles around a statement he made on Dec. 14, 2017, when, after being asked if he held any XRP as an investment, he said he was “very, very long XRP as a percentage of my personal balance sheet.”
+In the amended complaint, the plaintiff alleges the XRP ledger shows Garlinghouse “sold any XRP he received from Ripple within days of such receipt” and that, rather than being long, “he was dumping XRP on retail investors in exchange for dollars and other cryptocurrency.”
+In total, Sostack claims Garlinghouse sold 67 million XRP tokens (worth roughly $58 million on Dec. 14) in 2017, which, he alleges, counts as a misrepresentation as it coincides with the time he was also publicly claiming to be “very, very long XRP.”
+But Ripple disputes the statement was fraudulent. The lawyers first contest Sostack’s claim that Garlinghouse sold a sizable share of his tokens: “Plaintiff fails to plead … what percentage of his personal balance sheet the alleged sales constitute.”
+They then argue that just because Garlinghouse sold XRP doesn’t mean he wasn’t still bullish on the token’s prospects: “Selling a portion of one’s XRP holdings does not mean that the seller cannot also be ‘very, very long’ in the same asset as a percentage of his or her own personal balance sheet.”
+Ripple’s lawyers are asking the court to dismiss all three counts of fraud without leave to amend and with prejudice. That would will forbid the plaintiff from re-accusing the company, or Garlinghouse, on similar allegations for the remainder of the lawsuit.
+See the full motion below:
+The leader in blockchain news, CoinDesk is a media outlet that strives for the highest journalistic standards and abides by a strict set of editorial policies . CoinDesk is an independent operating subsidiary of Digital Currency Group, which invests in cryptocurrencies and blockchain startups.

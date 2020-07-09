@@ -1,0 +1,11 @@
+— Liquidity Index Bot (@LiquidityB) June 1, 2020
+A new all-time high of 15,630,556 was also tracked on the Australian payment corridor XRP/AUD on 31 May. Since the beginning of April, the transaction volume has risen steadily and shows a continuing steep upward trend.
+The payment corridor between the United States and Europe, which has received little attention to date, is also currently on its way to reaching a new all-time high. Already a week ago, Ripple CTO David Schwartz confirmed that the transaction volume in this corridor has increased by more than $1.5 million. As the Liquidity Index Bot data shows, the volume for Bitstamp has risen strongly again in recent weeks.
+The Community asked Schwartz whether, for this payment corridor, it was possible for ODL to replace the Nostro/Vostro accounts for this corridor as well. Schwartz stated that this does not require too much effort, as it can be easily implemented:
+Yes. The benefit of having to keep only one pile of money in one place across multiple corridors is a factor as well. Also if we’re doing USD and EUR as source currencies, it’s not hard to add USD<->EUR — all you need is the last mile to get to the recipient.
+Only on the payment corridor to the Philippines for the XRP/PHP currency pair has the volume remained the same in the last 14 days. The all-time high was reached on 4 April 2020 with 11,508,219.
+It should be noted that the data shown here always shows the total liquidity of XRP and not the volume of ODL or any other payment solution offered by Ripple. The trend for the payment corridors under consideration continues to be strongly positive and shows the continued increase in demand for XRP as a bridge currency.
+A few hours ago, Ripple again released one billion XRP for sale to investors. In December 2017, Ripple has committed to release one billion XRP per month for sale from the company’s escrow account. However, recent quarterly reports have shown that sales have fallen sharply as Ripple has been able to raise capital through alternative means.
+Most recently, Ripple raised $200 million in a new round of financing through the participation of Tetragon, SBI Holdings and Route 66. Ripple also plans to raise new capital through an initial public offering this year.
+— Whale Alert (@whale_alert) June 1, 2020
+— Whale Alert (@whale_alert) June 1, 2020

@@ -1,0 +1,7 @@
+, allow for a pullback.
+The odds of a broader stock market pullback increase if: 1. Apple fails to move above resistance around 360; and: 2. Amazon falls below support around 2,620.
+On June 10, the 20-day simple moving average (SMA) of the CBOE Equity Put/Call Ratio fell below 0.50. This means that option traders bought more calls (bullish strategy) than puts (bearish strategy) for 20 days. This rarely happens.
+If we relax the parameters, we find seven other periods when the ratio dropped below 0.51. The various graphs below show the forward performance for the S&P 500 (starting when the ratio dropped below 0.51 for the first time).
+This is just one of over 300 studies I analyzed over the past six months. Many of the more recent studies suggest short-term weakness. (Additional studies along with the Risk/Reward Heat Map are available here .)
+In summary: As long as the S&P 500 stays below 3,235 and 3,180, the bearish “1, 2” pattern should not be ignored.
+The Nasdaq Composite just broke through record levels. Tesla hammered out a new high. So did Netflix. And Amazon reached $3,000 for the first time. Happy days, indeed, in the stock market. But will it last?

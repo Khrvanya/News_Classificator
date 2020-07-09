@@ -1,0 +1,11 @@
+A farmer harvests corn in Loami, Ill., in this AP file photo
+(The Center Square) – Researchers at the University of Illinois are looking at a type of artificial intelligence to see if it can help predict farm yields.
+Farmers may love the land, but they are increasingly relying on artificial intelligence to help them work it. From self-driving tractors to algorithms for determining which plants need more nitrogen, what is becoming known as “precision agriculture” is rapidly entering all aspects of crop and livestock production.
+Now, researchers at the University of Illinois are working to see if a novel form of AI can predict crop yields. While conventional methods feed data into existing patterns, convolutional neural networks organize data by creating their own patterns, much like the human brain.
+In this study, researchers are studying data from farms around the world, including nine corn farms in the Midwest, by digitally breaking them down into 16-foot-square parcels and analyzing variables such as seed rate and soil conditions. Then they are using convolutional neural networks to see what factors will most figure in to accurately predicting what those parcels yield.
+Bill Leigh, District Four president of the Illinois Corn Growers Association, said AI could eventually help farmers make predictions, but not yet
+Leigh, who grows corn and soybeans on a farm that has been in his family for generations, said that there is no substitute so far for a farmer knowing their own land.
+“There’s a lot of ways that technology helps us, but it’s not foolproof yet," he said. "...I don’t know if you could have all the sensors that you pick up with your eyeball – the things that don’t look quite right.
+“Computers can be an aid, but I don’t know if it’s the entire answer,” he said.
+On the other hand, he said, when methods are perfected, they will help large-scale farms.
+“On the bigger scale, they could probably do better than most, because not every acre can be looked at by an individual," he said. "Trying to go through all that 90 million acres of corn that are going to be harvested is virtually impossible.”

@@ -1,0 +1,19 @@
+Please consider using a different web browser for better experience.
+Please enable JavaScript in your browser for a better site experience.
+The polkadot-themed artwork of Yayoi Kusama. (ephst/Shutterstock)
+The latest blockchain to announce a token redeemable for bitcoin (BTC) is Polkadot.
+It’s only a proof-of-concept at this point and Polkadot is running but not usable yet , but a company called Interlay has designed a model under a Web3 Foundation grant for locking BTC on the Bitcoin blockchain and minting what it’s calling PolkaBTC on Polkadot.
+If Polkadot does prove to be a meeting place for different blockchains, then the interoperability project will have to touch the original crypto asset, and that’s bitcoin.
+“Bitcoin is the asset with the most liquidity and hence we believe there is a natural demand for BTC on platforms that offer DeFi products and other features that are not natively supported in Bitcoin,” Alexei Zamyatin, CEO of Interlay, told CoinDesk in an email. Interlay works to make decentralized finance (DeFi) products interoperable.
+The model deployed has similarities to the model Keep used in launching its tBTC system . A smart contract on Polkadot controls a key to a wallet on the Bitcoin blockchain and verifies its contents using simplified payment verification (SPV) . That wallet is collateralized with Polkadot’s native token, DOT, which the initial design sets at 200%, though this could change. Once it verifies that the BTC is present in the wallet it controls, it issues PolkaBTC equivalent to the amount deposited.
+It’s important to note here the proof-of-concept describes how it would be done, not who would do it. Different entities would be able to set up vaults to issue PolkaBTC, earning income as the tokens are issued and redeemed.
+This also makes it a marked contrast from, for example, wBTC on Ethereum, which is entirely under the centralized control of BitGo , as the sole custodian and issuer.
+Once a PolkaBTC is created, that new token can be used throughout the Polkadot network and any holder of PolkaBTC can redeem it for actual BTC at any time. The BTC locked on Polkadot is monitored by the BTC-Relay announced by Interlay in April.
+A key difference between BTC on Polkadot and on Ethereum is that Polkadot is building it ahead of the use cases. There are no DeFi products as yet ready to enlist PolkaBTC for uses such as lending or collateral.
+“While Etheruem is without question the market leader, there are quite a few projects on Polkadot that are preparing to offer DeFi products,” Zamyatin noted. He listed Katal , which will enable selling future cash flows, and Acala , a stablecoin platform that could use PolkaBTC as a form of collateral.
+Interlay is itself going to create a derivatives platform on which PolkaBTC could be useful.
+That said, using wBTC as the main example of the original cryptocurrency on another chain, without a real use case the market showed relatively little interest in bridging the two chains.
+Looking at BitGo’s record of supply verifications , the wBTC supply hovered between 100 and 600 before wBTC was accepted as a form of collateral on MakerDAO on May 3, 2020. Since then, it has consistently been over 1,000, with a current supply of 4,095 wBTC.
+If the Interlay model proves to work well, it can be extended beyond Polkadot.
+“Both the design and code underlying the BTC-Parachain can be reused to bridge other blockchains such as Zcash with only minor modifications,” Zamyatin said.
+The leader in blockchain news, CoinDesk is a media outlet that strives for the highest journalistic standards and abides by a strict set of editorial policies . CoinDesk is an independent operating subsidiary of Digital Currency Group, which invests in cryptocurrencies and blockchain startups.

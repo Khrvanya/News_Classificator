@@ -1,0 +1,14 @@
+Please consider using a different web browser for better experience.
+Please enable JavaScript in your browser for a better site experience.
+CME’s bitcoin futures product is continuing to show signs of increased popularity, with June setting a new record for open interest amid a surge of new account sign-ups.
+More than 2,960 accounts have traded CME Group’s bitcoin (BTC) futures across all client types and time zones since launch, according to new data from the derivatives marketplace. In 2019 alone, there has been more than 950 new accounts created, marking a 30 percent increase in total client sign-ups, CoinDesk has learned.
+In addition, the number of large open interest holders, entities that hold contracts worth at least 25 BTC (worth $280,000 at press time) grew to 49, up from an average of 46 during the last week of June, a new record.
+Also of note, open interest is up in all four expiries, meaning CME Group “is creating a forward curve for the crypto markets so that investors can better manage price,” according to a company spokesperson.
+As shown in the chart above, open interest in CME’s BTC futures has been steadily on the rise, up to a record-breaking 6,069 contracts toward the end of June and demonstrating a strong demand. (Open interest refers to the total number of outstanding derivative contracts that have not been settled, and thus, are open).
+It could be a sign that the traditional finance industry is taking a greater interest in crypto, says Gareth MacLeod, partner at Gryphon Labs, an open-source framework for algorithmic trading in cryptocurrency markets.
+Given traditional finance’s apprehension toward crypto, mainly due to its wild price swings, futures contracts offer stability, reliability, and reduce risk when it comes to operating large portfolios.
+Professional traders and larger financial institutions also prefer to operate through a familiar platform, rather than through a traditional crypto exchange due to interoperability and familiarity with their own Bloomberg terminals, says McCleod.
+The news is welcomed at a time when BTC’s wild price fluctuations are on full display, first rising to a peak of $13,888 on June 26 before falling sharply to $9,650 on July 2.
+BTC has since bounced back, up 15.85 percent over a 24-hour period and was last seen changing hands at $11,420.
+Disclosure: The author holds no cryptocurrency at the time of writing.
+The leader in blockchain news, CoinDesk is a media outlet that strives for the highest journalistic standards and abides by a strict set of editorial policies . CoinDesk is an independent operating subsidiary of Digital Currency Group, which invests in cryptocurrencies and blockchain startups.

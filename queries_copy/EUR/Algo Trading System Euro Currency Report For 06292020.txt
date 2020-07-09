@@ -1,0 +1,10 @@
+Based on ongoing analysis of the Euro Currency market, no single indicator, pattern or calculation accurately predicts the future market movement 100% of the time.However, when certain indicators and algorithmic strategies for the Euro Currency and Dollar Index are employed and measured cumulatively, a reliable overall market bias can be established.The net result of each of the indicators and algos specifically designed for Euro Currency are summarized below.
+Based on ongoing analysis of the Euro Currency market, no single indicator, pattern or calculation accurately predicts the future market movement 100% of the time.However, when certain indicators and algorithmic strategies for the Euro Currency and Dollar Index are employed and measured cumulatively, a reliable overall market bias can be established.The net result of each of the indicators and algos specifically designed for Euro Currency are summarized below.
+The reverse breakout indicator for Euro Currency is showing a bearish bias.
+Based on 3 algo trading strategies developed with the Strategy Factory methodology, the current aggregate strategy status score is -1.00, which indicates an overall bearish bias.
+The compiled RSI algo indicator is showing a bearish bias.
+The aggregate volatility/momentum indicator is showing a bearish bias.
+Overall, the current algo based bias for Euro Currency is BEARISH.
+The algorithms used to establish the bias use historical data, and do not anticipate any news related price shocks.The algos are all short term swing trading strategies, with trade duration of a few days to a few weeks. All strategies have a profitable hypothetical backtest over the past 8-10 years. Algo indicators are standard or modified indicators, computed over a wide range of input values.
+With the current coronavirus situation, be VERY careful with any trades. These algos can be wrong with rapid fluctuations due to news events.
+To get a free, fully disclosed algo strategy, along with algo trading system entries and exits, visit:

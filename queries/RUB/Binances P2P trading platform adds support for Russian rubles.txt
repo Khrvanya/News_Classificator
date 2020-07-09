@@ -1,0 +1,5 @@
+It allows users to buy and sell bitcoin (BTC), ether (ETH), Tether stablecoin (USDT) and Binance’s native coin (BNB) directly with rubles, according to an announcement Tuesday.
+Binance already supports rubles for direct fiat-to-crypto buying, but the P2P platform allows trading between people, even when crypto trading is banned in a certain country or jurisdiction.
+For instance, crypto-to-fiat trading is banned in China since 2017, but P2P platforms facilitate crypto trades. Binance’s P2P platform supports Chinese yuan (CNY), Vietnamese dong (VND), and now rubles.
+“P2P trading provides an open marketplace and more flexible access for users to trade multiple cryptocurrencies with other users or merchants in the payment methods they prefer,” said Binance CEO Changpeng “CZ” Zhao.
+Binance initially launched its P2P platform last October. Looking ahead, it plans to more fiat and cryptocurrencies trading options this year.

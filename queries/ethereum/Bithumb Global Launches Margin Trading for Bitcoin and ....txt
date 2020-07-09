@@ -1,0 +1,10 @@
+Bithumb Global, the international platform of South Korea’s top crypto exchange, has rolled out margin trading with 5x leverage for Bitcoin and Ether trading pairs with Tether.
+Bithumb Global, the international platform of South Korea’s top crypto exchange, has rolled out margin trading with 5x leverage for Bitcoin ( BTC ) and Ether ( ETH ) trading pairs with Tether ( USDT ).
+In an announcement published on April 2, the exchange revealed the service would be available on its website and app. It will, however, be restricted for traders living in jurisdictions where margin trading is prohibited or capped — as, for example, with Japan .
+Margin trading enables traders to use borrowed funds in order to increase their potential profits, yet it is a high-risk strategy, as it can equally compound losses where unsuccessful.
+Many platforms and regulators therefore advise, or intervene, against retail traders engaging in leveraged trading — often restricting the option to accredited or institutional investors.
+Briefly hinting at this, Bithumb Global urges traders to keep their strategies “appropriate” to their financial situation, in light of the “significant risks” they are courting.
+In late March, major crypto exchange Binance announced it was delisting FTX leveraged token pairs, just weeks after launching the products. In this case, the exchange reported that retail traders did not appear to understand the tokens and appeared to be holding rather than trading them, counter to their specific design.
+Binance — like OKEx and others — offers high leverage on derivatives such as futures, where complexity and liquidation risks need to be carefully navigated.
+In January, the 12th-largest crypto exchange Bitstamp partnered with crypto-friendly Silvergate Bank to trial leveraged Bitcoin trading, restricting the pilot to select institutional clients.
+Yesterday, the National Internet Finance Association of China accused overseas crypto exchanges of intentionally shutting off their systems or staging outages to trap and liquidate leverage traders during times of peak volatility.

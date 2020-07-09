@@ -1,0 +1,11 @@
+US CFTC Chairman Says Ether Is a Commodity, ETH Futures Coming Next
+New CFTC chairman Heath Tarbert said that Ether is a commodity, while similar digital assets should be treated similarly.
+The chairman of the United States Commodity Futures Trading Commission (CFTC) believes Ether ( ETH ) is a commodity — and that ETH futures trading is becoming a reality.
+Heath Tarbert, who overtook J. Christopher Giancarlo in July, revealed his stance toward cryptocurrencies and forked coins at the All Markets Summit on Oct. 10, Yahoo Finance reports .
+While the CFTC has been very clear that Bitcoin is a commodity, this is reportedly the first time that the authority has provided a vision for Ether, the second-biggest cryptocurrency by market cap. Tarbert said:
+“We've been very clear on bitcoin: bitcoin is a commodity. We haven't said anything about ether—until now [...] It is my view as chairman of the CFTC that ether is a commodity.”
+According to the report, Tarbert acknowledges the existing uncertainty about the status of altcoins. However, he claimed that similar digital assets should be treated similarly.
+Tarbert suggested that forked cryptocurrencies such as Bitcoin Cash (BCH) or Ethereum Classic (ETC) — those that derive from the original underlying blockchain — should be treated the same as the original asset. At the same time, the chairman noted that the status of a forked coin may alter if the “fork itself raises some securities law issues under that classic Howey Test.”
+“It stands to reason that similarly assets should be treated similarly. If the underlying asset, the original digital asset, hasn’t been determined to be a security and is therefore a commodity, most likely the forked asset will be the same.”
+In December 2018, the CFTC announced its intention to release a Request for Information in order to acquire public comments and guidance on the Ethereum blockchain. At the time, the authority was willing to better understand the differences and similarities between Ether and Bitcoin ( BTC ).
+In mid-September, the CFTC appointed former Coinbase vice president Dorothy D. DeWitt as new director of market oversight.

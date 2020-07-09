@@ -1,0 +1,36 @@
+Sugar stocks see a resurgence, but supply dynamics weigh
+1 min read . Updated: 17 Jan 2020, 12:33 AM IST Clifford Alvares
+Aside from a sentimental boost, rising global sugar prices do not have much of an impact on the domestic market
+Also, cultivation is expected to bounce back in the next season, which could mean higher sugar cane output
+In fact, raw sugar prices that had slipped to lows of around $0.11 per pound in September 2019, have gained about 22% in the international market in the past four months, shows Bloomberg data.
+Prices in the domestic market however gained only about 3-4% during the period due to the already high domestic minimum support price (MSP) offered by the government.
+Hence, aside from a sentimental boost, rising international sugar prices do not have much of an impact on the domestic market, save for an increase in export opportunities.
+“The recent rally in global prices should help improve the pace of exports, though we believe this is unlikely to lead to any increase in domestic prices as, a) these are dictated by the MSP and monthly release mechanism (government direct sugar mill-wise volumes), and, b) there are no imports into India, thus import parity is irrelevant," said analysts at JM Financial Institutional Equities Ltd in a note to clients. Also, note that demand for India’s grade of raw sugar is limited in the global markets.
+Apart from MSP for sugar cane farmers, lower power tariffs and the new ethanol blending programme, which envisages 10% ethanol blending with petroleum products, has helped sugar producers.
+“Sugar companies have not been able to meet demand. As many sugar companies are setting up new capacities, we envisage healthy growth in ethanol production over the next few years," said analysts at Edelweiss Broking Ltd.
+Still, a production boost in the last two years has led to high sugar stocks. That would take some time to clear.
+Also, cultivation is expected to bounce back in the next season, which could mean higher sugar cane output. “Given the robust monsoon, we estimate sugarcane acreage in Maharastra and Karnataka to jump back to almost earlier levels," said analysts at JM Financial.
+Still, given the way sugar stocks have run-up and the long-way in increasing ethanol blending, stocks may have run up much ahead of themselves. Further, any change in MSP also poses a risk.
+* Thank you for subscribing to our newsletter.
+Click here to read the Mint ePaperLivemint.com is now on Telegram. Join Livemint channel in your Telegram and stay updated
+You are now subscribed to our newsletters. In case you can’t find any email from our side, please check the spam folder.
+lozad('.lozad', { load: function(el) { el.src = el.dataset.src; el.onload = function() { el.classList.add('fade')}}}).observe()
+.myAccount .planSec, .myAccount a.LinkCTA{padding:16px; margin:16px; box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.1); background-color: #fff;}
+	       		var userData = data;
+	       		var name = userData.name;
+	       		var email = userData.email;
+	       		var signupSource = userData.source;
+	       		var subscribedAtOnce = userData.subscribedAtOnce;
+	       		var plan  = userData.plan;
+	       		document.getElementById('uName').innerHTML = "<strong>"+name+"</strong>" + email;
+		       		var status = planData.status;
+		       		var purchaseSource = planData.source_device;
+			       		var nextActivationDate = planData.current_term_ends_at;
+			       		var planDescription = planData.plan.description;
+			       		var planName = planData.plan.name;
+			       		var planPrice = planData.amount;
+			       		//var planInterval = planData.shipping_interval;
+			       		var planInterval = planData.duration;
+			       		var planUnit = planData.interval_unit;
+			       		//var html = "<strong>Your Subscription Plan</strong>"+planName+" ₹"+planPrice+" / "+planInterval+" " + nextBillingHtml + cancelHtml; 
+			       		var html = "<strong>Your Subscription Plan</strong> "+planDescription + " "+ planName +": ₹"+planPrice + " "+ nextBillingHtml + cancelHtml;

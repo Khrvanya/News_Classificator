@@ -1,0 +1,27 @@
+Did Ethereum Silently Give Up on Plasma?
+Previously touted as the holy grail of Ethereum scalability, Plasma’s significant weaknesses appear to have made the developers quietly drop the technology.
+In a Jan. 27 post, Dragonfly Research proclaimed Plasma to be dead, noting that the Ethereum ( ETH ) community is converging on Optimistic Rollup, despite initial enthusiasm. The news comes in stark contrast to earlier claims by Plasma Group arguing that the technology was moving into production phase.
+The original paper detailing the Plasma proposal was published in August 2017.
+In essence, Plasma was conceived as a network of sidechains attached to the main Ethereum blockchain. They would have allowed offloading of the majority of the transactional load, improving scalability by orders of magnitude. In theory.
+A common problem of sidechains is the requirement of trust in its operators. Plasma attempted to solve this by ensuring the security of users’ funds even when the majority of sidechain operators misbehaves.
+But there were significant practical issues to this approach, analysts explain. Users would have had to continuously verify the sidechain, which is a computationally intensive task. Furthermore, in the event that the sidechain needed to be “evacuated” due to a security compromise, its entire history would need to be posted on the main Ethereum blockchain. This would have overloaded the network to a degree it was unable to handle.
+A series of improvements such as Minimum Viable Plasma and Plasma Cash were developed later in 2018. But even if they solved some of the previous issues, they introduced others that were just as serious.
+The first solution, named zk-Rollups, uses zero-knowledge proofs to guarantee the correctness of all the transactions on the sidechain. However, the computationally intensive cryptography behind this solution and the impossibility of using smart contracts constituted serious drawbacks.
+The second iteration, named Optimistic Rollup, removes the need for zero-knowledge proofs by changing the principle behind the consensus rules. Instead of verifying each transaction, the system simply assumes that all of them are valid.
+The users, instead of proving the correctness of the entire sidechain, must intervene only when they see an invalid transaction by submitting a “fraud proof.”
+According to Dragonfly researchers, this is the solution that the Ethereum community is currently converging on.
+The alleged pessimism surrounding Plasma among Ethereum developers has been generally hidden from public view throughout 2019.
+As late as June 2019, when the transition into rollups was well underway according to Dragonfly, Vitalik Buterin wrote in a blog post that “both scalability solutions have a bright future ahead of them,” referring to Plasma and sharding.
+However, in an August 2019 Twitter thread, reported at the time by Trustnodes, Buterin let on as to his negativity towards Plasma. Acknowledging the same issues outlined by Dragonfly, he argued that the problem of exiting the sidechain makes it impractical for public usage:
+“Plasma exit games get harder when you can make changes to an account without the recipient’s consent, as you can’t assume honest users know their own latest states. Channels cannot support ‘objects of public interest’ (eg. Uniswap) at all.”
+The Twitter thread has since been deleted.
+As Cointelegraph reported on Jan. 10, the nonprofit Plasma Group had announced the end of their research into the technology.
+However, the group motivated the decision by saying that the research was simply unnecessary, as implementation was underway:
+“It is amazing to see the multitude of competent teams pushing production plasma into reality now. This shift from research to implementation means that our mission as a research organization must shift as well.”
+The original post stated that the team would focus on public goods funding, divesting its focus from scalability. However, on Jan. 15 the organization announced its transition into Optimistic Rollup implementation for this purpose. Research into the technology was indeed one of the latest efforts of Plasma Group.
+The OmiseGo ( OMG ) project is still pushing forward with Plasma. Its More Viable Plasma implements some of the general concepts of Optimistic Rollup, as it is also based on users reporting illicit behavior.
+However, the Ethereum development community at large appears to have indeed silently proclaimed Plasma dead, or at least not worth direct development.
+In a reply to Cointelegraph, representatives from Plasma Group (now known as Optimism) noted that there are a “multitude of competent teams pushing Plasma out,” referring to external organizations such as Matic, the MIT’s Cryptoeconomics Lab, Plasm and others. They added:
+When asked if Plasma is still viable, Optimism replied:
+“Absolutely, yes. Plasma scales payments massively - way more than Optimistic Rollup does. However, it's best suited for payments and atomic swaps but we are also interested in scaling smart contracts, which don't fare as well on Plasma in its current form.”
+Representatives from Ethereum Foundation did not answer Cointelegraph's requests for comment..

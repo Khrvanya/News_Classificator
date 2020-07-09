@@ -1,0 +1,33 @@
+Home » Cryptocurrency » Ethereum performs a hard fork, successfully delays the difficulty bomb
+Ethereum performs a hard fork, successfully delays the difficulty bomb
+Ethereum successfully performed a hard fork known as Muir Glacier and postponed the difficulty bomb for another 20 months.
+The difficulty bomb was created to increase mining difficulty and halt the network, which should have served as an incentive for developers to bring forth Ethereum 2.0.
+While it failed to do so until now, the Ethereum 2.0 upgrade is scheduled to happen in Q1 2020.
+successfully delayed the project’s difficulty bomb. The difficulty bomb, which
+threatened to freeze the network due to major difficulty increase, was now
+delayed by another 20 months, and it should not become a problem again for
+emerged several months earlier than expected. It surprised the developers by
+bringing the Ice Age that was not supposed to happen for quite some time.
+We thought we had months until it kicked in, but those numbers were wrong. The Ice Age is already being felt!
+There is now a proposal for a single-EIP upgrade after Istanbul to push it back: EIP-2387 a.k.a. Mountain Glacier?
+We'll see on the call if & how it goes through!
+— Tim Beiko | timbeiko.eth (@TimBeiko) November 29, 2019
+fork known as Muir Glacier, which was successfully pulled off earlier today.
+According to what is known, Muir Glacier has
+will activate the time bomb once again. This translates to approximately 611
+bomb is predicting how it will affect the network, due to its unpredictability
+— making the difficulty bomb more predictable, or removing it completely.
+The bomb was originally introduced back in August 2015, and its presence guaranteed a hard fork within 16 months from the moment of its introduction. It came as a new concept that doesn’t reduce the rewards that miners get (like Bitcoin halving does), but rather, it increases the time needed to mine the block.
+increased difficulty. This was its intended function, as it should have ‘encouraged’
+the upgrade to Ethereum 2.0, and force the community into an agreement, or risk
+the failure of the project.
+It has been over four years since then, and
+Ethereum 2.0 has yet to arrive, currently scheduled to occur in the Q1 2020.
+Meanwhile, the difficulty bomb saw several delays. the latest of which has just
+been implemented. This also led to a lot of criticism of the project, accusing
+it of over-promising and under-delivering. Even the developers agree that the
+difficulty bomb was a mistake.
+— Joseph Delong (@josephdelong) November 30, 2019
+Still, if all goes as planned, the bomb should
+not be a problem for much longer, and ETH might finally reach its second phase
+A journalist, with experience in web journalism and marketing. Ali holds a master's degree in finance and enjoys writing about cryptocurrencies and fintech. Ali’s work has been published on a number of cryptocurrency publications. Raza is the co-founder of 5Gist.com, too, a site dedicated to educating people on 5G technology.

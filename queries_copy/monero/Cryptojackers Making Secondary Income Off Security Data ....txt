@@ -1,0 +1,12 @@
+Please consider using a different web browser for better experience.
+Please enable JavaScript in your browser for a better site experience.
+Cryptojackers Making Secondary Income Off Security Data Seizures: Report
+Cryptojackers Making Secondary Income Off Security Data Seizures: Report
+In the wake of lower cryptocurrency prices, ghost mining hackers are turning to metadata seizures.
+In a report issued today, cybersecurity firm Carbon Black says a well-known 2018 monero crypto mining botnet contained a secondary component capable of seizing IP addresses, domain info, usernames, and passwords. Dubbed “Access Mining,” Carbon Black researchers Greg Foss and Marian Liang say the 2018 botnet campaign has been collecting secret data for the past two years, making millions in the process.
+According to reports at the time, 500,000 machines were trojanized with a monero cryotojacking mining protocol, XMRig, collecting 8,900 monero.  Most infected machines resided in Russia, Eastern Europe, and Asian Pacific.
+Unbeknownst at the time, the 500,000 computers were not only hacked with the ghost protocol but also data collection software. A patchwork of programs taken from open-source code on GitHub like Eternal Blue and Mimikatz implemented on XMRig helped the hackers innovate, the report states.
+The hackers turned the security data into a secondary source of income. With one infected machine selling for an average of $6.75 on dark web markets, the 500,000 haul is worth $1.69 million. Infected machines can even be rented for 24 to 48 hours as a source of passive income for hackers. Depending on the machine’s location and owner, machine values can skyrocket.
+At $90 per monero coin, the group’s assets sit near $3.29 million Carbon Black says.
+Foss and Liang say Access Mining is more than likely the result of dropping monero prices following the 2018 bear market. Following their report, the firm issued a series of tips for addressing possible concerns.
+The leader in blockchain news, CoinDesk is a media outlet that strives for the highest journalistic standards and abides by a strict set of editorial policies . CoinDesk is an independent operating subsidiary of Digital Currency Group, which invests in cryptocurrencies and blockchain startups.

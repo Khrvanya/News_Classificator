@@ -1,0 +1,5 @@
+        made us think you were a bot. There are a few reasons why this might happen:
+A third-party browser plugin, such as Ghostery or NoScript, is preventing JavaScript from running.
+          Additional information is available in this support article.
+After completing the CAPTCHA below, you will immediately regain access to the site.
+You reached this page when attempting to access https://www.architectmagazine.com/practice/dash-marshall-may-not-be-what-you-pictured_o from 93.74.103.103 on 2020-07-02 16:07:35 UTC.

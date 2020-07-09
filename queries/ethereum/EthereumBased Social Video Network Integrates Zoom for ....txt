@@ -1,0 +1,12 @@
+Ethereum-based video sharing platform Pepo has integrated Zoom to facilitate live streams amid the COVID-19 lockdown.
+The Ethereum-based social media app, Pepo, has integrated with video conferencing platform, Zoom, to facilitate live streaming.
+Pepo Live Events is currently exclusively available in beta on the platform’s website and has not given an estimate for when it plans to enable mobile functionality.
+Only Pepo community admins are able to stream live, however, anyone can participate in the live events. All events streamed on the platform are recorded, and are limited to a time limit of three hours.
+Pepo's decision to integrate Zoom suggests an increase in demand for live streaming services amid the coronavirus lockdown.
+The social app launched last October at DevCon 5. Pepo uses the OST platform to allow users to reward one another in its native Pepo token — an ERC-20 that is pegged 1:1 with OST tokens ( OST ).
+With so many people spending time at home amid the COVID-19 pandemic, video conferencing platforms have experienced booms in both users and share prices .
+However, many perhaps not-so-savvy pandemic investors have failed to do the basic research when seeking exposure to Zoom ($ZM) — with flocks of traders mistakenly placing bets on the unrelated gaming firm, Zoom Technologies ($ZOOM).
+The confusion drove Zoom Technologies’ up 700% in roughly one month before the New York Securities and Exchange Commission halted $ZOOM on March 27.
+In response to the SEC action, Twitter user ADPOY1 responded to the SEC’s action, stating: “When trading is resumed the dump is going to be epic.”
+The surge in Zoom’s use has been accompanied by increased scrutiny from security researchers — with nonprofit the Electronic Frontier Foundation (EFF) publishing a warning to users of the video conferencing platform on March 19.
+The EFF warns that Zoom administrators are able to access detailed information on the platform’s users, including full access to the video, audio, and chat transcripts of all calls made using the software that are recorded by its users.

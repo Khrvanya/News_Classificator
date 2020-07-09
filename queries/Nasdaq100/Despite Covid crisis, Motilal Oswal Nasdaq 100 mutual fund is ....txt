@@ -1,0 +1,33 @@
+1 min read . Updated: 10 May 2020, 05:51 PM IST Written By Surajit Dasgupta
+Nasdaq-100 index which has stocks like Microsoft, Apple, Amazon, Facebook, Alphabet (Google) and Netflix
+Indian investors can take exposure to top Nasdaq stocks through mutual fund route or direct route. For example, Motilal Oswal Nasdaq 100 Fund of Fund is a passive fund investing in units of Motilal Oswal Nasdaq 100 ETF (underlying scheme). The fund of fund route just enables to invest smaller amounts with higher liquidity. The Nasdaq 100 Index is an equity index with the top 100 domestic and international non-financial securities listed on the Nasdaq stock exchange in the US. The Nasdaq 100 index is up over 21% in the past one year.
+And add in rupee's depreciation against the US dollar, the one-year return of Motilal Oswal Nasdaq 100 Fund of Fund is about 30%.
+It is to be noted that fund of funds are taxed in India as debt funds.
+The Motilal Oswal Nasdaq 100 ETF invests in equity securities of Nasdaq-100 index which has stocks like Microsoft, Apple, Amazon, Facebook, Alphabet (Google) and Netflix.
+Investors are picking technology as a safe corner at a time when the coronavirus pandemic is causing so many uncertainties for global markets. Microsoft, Apple and Amazon are each worth more than $1 trillion as investors from piling into these companies that stand out for their strong balance sheets and ability to churn out profits in the stay-at-home world.
+Some Indian brokerages have tie-ups with foreign brokers to facilitate investment in foreign stocks. You can open an account for foreign stocks through them and directly invest in foreign stocks. Under Reserve Bank of India's rules, Indian investors are allowed to invest up to $250,000 per annum in international stocks under the Liberalised Remittance Scheme (LRS).
+Some mutual funds like PPFAS Long Term Equity Fund invest bulk of their assets in domestic stocks and the balance in foreign equities, offering some exposure to Indian investors to foreign stocks.
+The broader Nasdaq composite index is also up year to date after this week's gains.
+* Thank you for subscribing to our newsletter.
+Click here to read the Mint ePaperLivemint.com is now on Telegram. Join Livemint channel in your Telegram and stay updated
+You are now subscribed to our newsletters. In case you can’t find any email from our side, please check the spam folder.
+lozad('.lozad', { load: function(el) { el.src = el.dataset.src; el.onload = function() { el.classList.add('fade')}}}).observe()
+.myAccount .planSec, .myAccount a.LinkCTA{padding:16px; margin:16px; box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.1); background-color: #fff;}
+	       		var userData = data;
+	       		var name = userData.name;
+	       		var email = userData.email;
+	       		var signupSource = userData.source;
+	       		var subscribedAtOnce = userData.subscribedAtOnce;
+	       		var plan  = userData.plan;
+	       		document.getElementById('uName').innerHTML = "<strong>"+name+"</strong>" + email;
+		       		var status = planData.status;
+		       		var purchaseSource = planData.source_device;
+			       		var nextActivationDate = planData.current_term_ends_at;
+			       		var planDescription = planData.plan.description;
+			       		var planName = planData.plan.name;
+			       		var planPrice = planData.amount;
+			       		//var planInterval = planData.shipping_interval;
+			       		var planInterval = planData.duration;
+			       		var planUnit = planData.interval_unit;
+			       		//var html = "<strong>Your Subscription Plan</strong>"+planName+" ₹"+planPrice+" / "+planInterval+" " + nextBillingHtml + cancelHtml; 
+			       		var html = "<strong>Your Subscription Plan</strong> "+planDescription + " "+ planName +": ₹"+planPrice + " "+ nextBillingHtml + cancelHtml;

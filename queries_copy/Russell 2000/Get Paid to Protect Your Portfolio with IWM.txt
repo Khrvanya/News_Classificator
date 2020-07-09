@@ -1,0 +1,19 @@
+By Ken Trester , Editor, Power Options Weekly Jun 2, 2020, 9:35 am EDT
+The market continued to inch higher yesterday because investors have decided to focus on the benefits of a reopening economy. As I mentioned previously, I still think a short-term pullback is possible, and now I have a great trade to take advantage.
+In the past, I’ve found positions that offer downside protection for very low premiums, but now I’m recommending a position on the iShares Russell 2000 ETF (NYSEARCA: IWM ) where you can get paid to add protection.
+In a ratio put credit spread, you will buy one put option with a higher strike price — in this case $125 — and sell two put options with the same expiration and a lower strike price — in this case $120.
+The two short options you sell are worth more than the one long option you buy, so you collect a credit.
+All options lose value over time. So, as you hold the trade, the two short options will lose value to time decay faster than the one long option. This “time decay” means the long option could eventually be work more than the two short options.
+Then, if the underlying security falls gradually, the long options will gain value faster than the short options, letting traders collect additional income when they exit the trade.
+The beauty of this downside protection against a gradual reversal is that traders get paid to take it. If the underlying stock never falls, traders will still get to keep the full premium collected when they opened the trade.
+IWM is an exchange-traded fund (ETF) that tracks the small-cap stocks of the Russell 2000 index. Many of these companies aren’t profitable, and investing in them carries more risk. When investors are concerned about the market, they will often shift away from small-cap stocks to large-cap stocks. If we see a pullback in the short-term, the Russell 2000 is likely to drop more than the S&P 500.
+Daily Chart of iShares Russell 2000 ETF (IWM) — Chart Source: TradingView
+If you look at the chart above, you can see that IWM recently bounced off resistance at around $145 last week. Now it is starting to climb again.
+There is still a lot of volatility in this market, as I mentioned yesterday, and I don’t expect IWM to climb without interruption. The S&P 500 may not drop as far as a more vulnerable index like the Russell 2000, which is why I picked IWM for this insurance play.
+Using a spread order, buy to open 1 IWM June 19th $125 put and sell to open 2 IWM June 19th $120 puts for a net credit of about $0.10.
+Note: Be sure you are opening the monthly IWM options that expire on Friday, June 19, 2020.
+This is a high-risk trade that will require a lot of margin, so take a small position.
+This is similar to a ratio debit spread, which is a way to lower the cost of buying options, as the two options that you sell to open (short) help offset the cost of the option that you buy to open. Therefore, this ratio put credit spread is a way to earn a small profit while still establishing a bearish put option trade. Many brokers will require the use of margin and/or a set amount of reserved capital and/or a margin account to execute a ratio spread; contact your broker directly for specific requirements.
+InvestorPlace advisor Ken Trester also brings you Power Options Weekly, which delivers 5 new options trades and his latest trading advice to you each Friday. Trester has been trading options since the first exchanges opened in 1973 with a winning streak that goes back to 1984 with money-doubling average annual profits since 1990.
+Louis Navellier just issued a ‘Strong Buy’ on an under-the-radar 5G stock.
+You’ll want to pay attention because his track record features extraordinary winners that have exploded by 1,516%... 3,972%... 20,130%... or 24,221% over time. He has reason to believe this 5G stock could do the same.

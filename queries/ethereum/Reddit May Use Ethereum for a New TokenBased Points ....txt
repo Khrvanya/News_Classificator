@@ -1,0 +1,19 @@
+Please consider using a different web browser for better experience.
+Please enable JavaScript in your browser for a better site experience.
+Reddit is experimenting with recording points and perks on a blockchain.
+According to a user post on the social media platform and confirmed by a company spokesperson, Reddit is experimenting with “Community Points” – a new system for subreddits (communities) that gives power users extra benefits. These Community Points are apparently stored using Ethereum’s ERC-20 token standard.
+According to the video by Reddit user MagoCrypto, the site will publish a list of users and their karma every four weeks; allow the community’s users to propose any changes; and then sign off on the list, allowing users to claim Community Points.
+In a statement, a Reddit spokesperson said, “We continuously experiment with ways to support communities on Reddit. In this instance, we’re working with one community to test a feature that represents a user’s involvement in a community. We value and seek out community feedback as we continue to explore features that engage our users and communities.”
+The spokesperson declined to confirm whether the project was being tested on Ethereum or provide further details.
+These community points differ from karma – Reddit’s longstanding in-house points system – in a few ways, according to the video.
+Reddit controls all karma, while the community points are ERC-20 tokens and therefore exist outside of Reddit’s control. Points can also be used to buy “Special Memberships” granting the right to use emojis and GIFs in comments or weight polls, according to the video shared by MagoCrypto.
+Reddit users who don’t have enough points can also buy Special Memberships directly from Reddit.
+“Community points are fully controlled by the people who own them,” according to the video. “They live on the Ethereum blockchain, which is the same technology as Bitcoin to guarantee property rights and control. Even Reddit cannot take them away.”
+Polls conducted in a community with points will show both what the total votes are for vote-per-person, as well as the weighted total for vote-per-point, meaning users with more points will have an outsize impact on the poll.
+“This allows the community to see how core contributors feel,” the post said.
+Reddit users can access their Community Points through the Reddit mobile app, though comments from users indicate that it may only be rolled out to a small number so far. The app has a wallet function that lets users see their total balance.
+“Behind the scenes, your wallet is a way to access the Ethereum blockchain,” the post said. “When your wallet is created it generates a public address and a private key.”
+The private key is known only to the app’s user, and Reddit advises users to create a backup or write the keys down someplace safe.
+While Reddit has not formally acknowledged that it is testing this system on Ethereum, co-founder Alexis Ohanian has publicly been a crypto supporter since at least 2018, and the company has offered support for crypto as a payment tool for years.
+Ohanian’s venture firm, Initialized Capital, has also funded other crypto projects, including Horizon Games’ SkyWeaver , a video game powered by Ethereum.
+The leader in blockchain news, CoinDesk is a media outlet that strives for the highest journalistic standards and abides by a strict set of editorial policies . CoinDesk is an independent operating subsidiary of Digital Currency Group, which invests in cryptocurrencies and blockchain startups.

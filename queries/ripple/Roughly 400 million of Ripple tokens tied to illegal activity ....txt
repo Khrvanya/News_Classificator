@@ -1,0 +1,13 @@
+Roughly $400 million of Ripple tokens tied to illegal activity: Elliptic
+NEW YORK (Reuters) - About $400 million of XRP tokens, the currency for the Ripple payment network, is tied to illegal transactions, according to findings released on Wednesday by London-based Elliptic, a provider of risk management systems for the cryptocurrency industry.
+XRP, a token used for payments and settlement, currently has a market capitalization of about $10.98 billion, based on numbers from coinmarketcap.com.
+Tom Robinson, chief scientist and co-founder of Elliptic, told Reuters that the $400 million in illicit XRP transactions  the company identified represent less than 0.2% of all XRP transactions that occurred.
+Comparing that with bitcoin, a previous study from Elliptic showed that dark web purchases currently account for approximately 0.5% of all bitcoin transactions, Robinson said.
+Elliptic disclosed the XRP finding as it announced the launch of what it described as the world’s first XRP transaction monitoring system. The company supports more than 85% of all crypto-assets, by value.
+U.S. blockchain forensics company CipherTrace, in a report released in August, said cryptocurrency thefts, scams and fraud might exceed more than $4.3 billion this year.
+“We have a team in London that scout the dark web for any use of cryptocurrency. They began doing this for XRP as well,” Robinson said.
+“The type of activities they found were primarily scams, like Ponzi scams, thefts. A smaller category is the sale of credit card details.”
+As cryptocurrencies’ popularity and usage grew, crime in the sector soared to the billions of dollars. Global investigators have grappled with major money laundering hubs that are at the center of the virtual worlds.
+Elliptic’s research also showed that the firm did not see “much dark market activity” for XRP, which is because of the token’s image as a tool for payments and settlements.
+“XRP is being touted for use as a tool for financial institutions,” Robinson said. “Criminals probably do not want to be associated with any mechanism related to that use.”
+Criminals overall prefer to use bitcoin because of its liquidity, Robinson added.

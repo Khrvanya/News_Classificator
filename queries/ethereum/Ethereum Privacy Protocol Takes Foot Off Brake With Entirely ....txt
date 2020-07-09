@@ -1,0 +1,10 @@
+Tornado.cash has launched complete immutability for its smart contracts, despite the potential security risks.
+Fledgling Ethereum anonymization protocol Tornado.cash has launched completely immutable smart contracts — rendering the protocol “ unstoppable ” from May 21.
+While the project has extolled the virtues of immutability and declared that “code is law,” many within the Ethereum ( ETH ) community are advising against depositing funds into the protocol.
+Tornado notes that “[t]here are pros and cons” to its dedication to immutability, declaring heightened decentralization and the inability for smart contracts to be altered as positive virtues of the protocol.
+However, the developers concede that “the tornado.cash team is also not able to protect the users from bugs anymore.” In the post announcing the transition to full immutability, the firm also recommends that users consider seeking insurance coverage on their funds.
+Despite removing their hands from the version of the Tornado.cash protocol, its developers will turn their attention to building the next major version of the project, hoping to “replicate Zcash features onto Ethereum mainnet.”
+Crypto analyst David Gerard criticized Tornado.cash’s fixation on immutability, describing the protocol as “a sitting duck for attackers, where security holes literally can’t be fixed.”
+“[I]t seems Ethereum developers have already forgotten Ethereum’s first really huge disaster, The DAO ,” Gerard added.
+Tornado.cash has frequently garnered controversy since launching, receiving significant criticism from the Ethereum community after launching nine months ago.
+In response to comments on Reddit, the project’s homepage has since been donned with a warning alerting potential users that it is “an experimental software” that is to be “use[d] at your own risk.”

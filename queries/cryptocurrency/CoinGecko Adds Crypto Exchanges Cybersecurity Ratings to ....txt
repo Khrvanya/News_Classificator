@@ -1,0 +1,8 @@
+Crypto data platform CoinGecko has partnered with cybersecurity firm Hacken to incorporate the security of crypto exchanges into its Trust Score metric.
+Cryptocurrency market data aggregator CoinGecko has updated its Trust Score algorithm to consider the cybersecurity standards of the more than 400 cryptocurrency exchanges listed on its platform.
+From July 1, 20% of CoinGecko’s Trust Score will be determined according to a cybersecurity rating provided by security technology company Hacken.
+The score grades exchanges from one to 10 based on analysis of “server [and] user security, bug bounty of crowdsourced preventive measures, as well as historical hack cases.”
+Ong stated that the integration followed several months of discussions between the two firms, with the partnership also slated to see collaboration to “educate the crypto community on improving personal cybersecurity practices.”
+Ong noted that CoinGecko plans to further develop its Trust Score over 2020, stating, “There are several other metrics which we are researching for future Trust Score algorithm updates to make it more robust, holistic, and less prone to manipulation to give a better reflection of exchanges' overall health.”
+CoinGecko also plans to launch new metrics tracking the crypto derivatives market this year.
+“The crypto market is moving really fast and we are constantly on the ground observing trends in the market,” said Ong.

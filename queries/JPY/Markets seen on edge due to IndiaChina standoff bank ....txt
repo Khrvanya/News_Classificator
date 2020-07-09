@@ -1,0 +1,38 @@
+Markets seen on edge due to India-China standoff; bank, pharma stocks in focus
+2 min read . Updated: 17 Jun 2020, 08:33 AM IST Nasrin Sultana
+US retail sales jumped a record 17.7% in May, blowing past the 8% rise analysts expected and supporting views the US recession may be nearing end
+Indian stock markets on Wednesday are likely to be volatile as investors may remain on the edge due to clashes between India and China on the border. Trends in SGX Nifty indicate a weak opening for benchmark indices.
+In a major escalation of tension between India and China, as many as 20 Indian Army personnel were killed in a “violent face off" with Chinese troops in the Galwan area of Ladakh late on Monday, the Indian Army said.
+Asian stocks were mixed in early deals as the International Monetary Fund (IMF) said the global economy is set to witness a more significant contraction than it had previously forecast.
+At the beginning of his two-day testimony before Congress, US Federal Reserve Chairman Jerome Powell said a full recovery was unlikely until the public is confident the disease had been contained.
+US retail sales jumped a record 17.7% in May, blowing past the 8% increase analysts expected and supporting views the US recession might be drawing to an end. On Wall Street, the Dow Jones Industrial Average rose 2.0%, the S&P 500 gained 1.9% and the Nasdaq Composite added 1.8%. That followed a broad 3% rally in major European bourses. The MSCI's gauge of stocks across the globe gained 2.2%.
+Back home, pharma stocks are likely to be in focus as trial results showed dexamethasone, a cheap and widely used steroid, reduced death rate by about one-third among the most severely ill covid-19 patients.
+Investors may watch bank stocks as the Supreme Court (SC) will hear plea on interest waiver during the moratorium period. On 12 June, the SC had asked finance ministry and Reserve Bank of India (RBI) to meet within three days to decide on the matter and had deferred the hearing to 17 June. The SC said the scope of hearing is limited to the interest waiver, levied on accrued interest.
+Standard Life Investments Ltd, one of the promoters of HDFC Asset Management Co Ltd, will offload a 2.82% stake in the fund house through an offer for sale, it said in a stock exchange filing on Tuesday.
+Meanwhile, the dollar was mostly stronger, with the euro down 0.55% to $1.126 and the Japanese yen up 0.01% at 107.32. The British pound rose on unemployment numbers that were not as bad as feared and friendlier Brexit talks.
+The Bank of Japan increased its lending packages for cash-strapped firms to $1 trillion from about $700 billion, while keeping rates steady, sticking to its view that the Japanese economy will gradually recover from the pandemic.
+The yield on the benchmark US 10-year Treasury notes rose 4.7 basis points (bps) to 0.7495%. German, French, Dutch and other core yields also rose. Riskier Italian yields fell to their lowest level since the end of March, and the iTraxx European crossover index, which reflects the cost of insuring against junk-rated corporate bond defaults, fell to its lowest level in six days.
+Reuters contributed to the story.
+* Thank you for subscribing to our newsletter.
+Click here to read the Mint ePaperLivemint.com is now on Telegram. Join Livemint channel in your Telegram and stay updated
+You are now subscribed to our newsletters. In case you can’t find any email from our side, please check the spam folder.
+lozad('.lozad', { load: function(el) { el.src = el.dataset.src; el.onload = function() { el.classList.add('fade')}}}).observe()
+.myAccount .planSec, .myAccount a.LinkCTA{padding:16px; margin:16px; box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.1); background-color: #fff;}
+	       		var userData = data;
+	       		var name = userData.name;
+	       		var email = userData.email;
+	       		var signupSource = userData.source;
+	       		var subscribedAtOnce = userData.subscribedAtOnce;
+	       		var plan  = userData.plan;
+	       		document.getElementById('uName').innerHTML = "<strong>"+name+"</strong>" + email;
+		       		var status = planData.status;
+		       		var purchaseSource = planData.source_device;
+			       		var nextActivationDate = planData.current_term_ends_at;
+			       		var planDescription = planData.plan.description;
+			       		var planName = planData.plan.name;
+			       		var planPrice = planData.amount;
+			       		//var planInterval = planData.shipping_interval;
+			       		var planInterval = planData.duration;
+			       		var planUnit = planData.interval_unit;
+			       		//var html = "<strong>Your Subscription Plan</strong>"+planName+" ₹"+planPrice+" / "+planInterval+" " + nextBillingHtml + cancelHtml; 
+			       		var html = "<strong>Your Subscription Plan</strong> "+planDescription + " "+ planName +": ₹"+planPrice + " "+ nextBillingHtml + cancelHtml;

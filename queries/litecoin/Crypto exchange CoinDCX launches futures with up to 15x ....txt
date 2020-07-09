@@ -1,0 +1,3 @@
+CoinDCX, a cryptocurrency and bitcoin exchange company , announced today the launch of DCXfutures, it will maximize the potential of traders with leverage up to 15x.
+A Bitcoin futures contract is available to trade on DCXfutures along with futures trading on 8 leading altcoins; Ether (ETH), XRP (XRP), Bitcoin Cash (BCH), Litecoin (LTC), Eos (EOS), Cardano (ADA), and Tron (TRX). Users can also trade perpetual future contracts with Bitcoin and Ethereum.
+In March 2019, CoinDCX completed a seed round of financing led by Bain Capital Ventures.

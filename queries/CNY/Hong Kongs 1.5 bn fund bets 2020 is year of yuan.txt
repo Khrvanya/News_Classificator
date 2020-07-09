@@ -1,0 +1,39 @@
+1 min read . Updated: 19 Jan 2020, 11:50 PM IST Jonas Cho Walsgard , Bloomberg
+Gavekal Capital says China’s bonds will deliver a 10% return this year.
+Part of those returns will be driven by the strengthening yuan, which will be stoked by both the easing trade tensions and fallout from the unrest in Hong Kong
+The year of the rat, soon to be kicked off after China’s lunar New Year, is lining up to be a strong year for China’s currency and its government bonds.
+That’s the bet being put on at Gavekal Capital, a fund manager with about $1.5 billion in stocks and bonds, which says the bonds of the world’s second largest economy will deliver a 10% return this year, given both the strengthening yuan and the relatively high yields in China.
+“Where else in the world can you get 10% return on a fairly minimal risk government bond market?" Gavekal chief executive officer Louis-Vincent Gave said in an interview while on a visit to Oslo.
+Part of those returns will be driven by the strengthening yuan, which will be stoked by both the easing trade tensions and fallout from the unrest in Hong Kong.
+The Chinese currency has already climbed about 4% against the dollar after hitting a low in September.
+Part of the trade deal signed last week in Washington includes commitments by both nations to avoid competitive devaluations.
+While the two-page currency chapter was met with scepticism among some currency market watchers, Gave said that the signals out of China are that it’s content with a stronger currency.
+As the nation also opens up its $45 trillion market this year and Hong Kong unrest persists, China will take further steps to promote the mainland’s financial centres.
+This year will “be a very strong renminbi year," he said. “With the Chinese not only pushing up the renminbi but also opening up capital controls at the same time in a bid to promote Shanghai relative to Hong Kong."
+Gavekal China Fixed Income Fund returned 4.4% in 2019, according to data compiled by Bloomberg.
+In the past five years, the fund had an average annual return of 3.6%, beating 80% of its peers.
+Signs that inflation is moderating in China could also give the central bank scope to add stimulus this year to cushion a slowdown.
+In his stock portfolios, Gave is betting on casinos in Macau as capital controls are eased.
+* Thank you for subscribing to our newsletter.
+Click here to read the Mint ePaperLivemint.com is now on Telegram. Join Livemint channel in your Telegram and stay updated
+You are now subscribed to our newsletters. In case you can’t find any email from our side, please check the spam folder.
+lozad('.lozad', { load: function(el) { el.src = el.dataset.src; el.onload = function() { el.classList.add('fade')}}}).observe()
+.myAccount .planSec, .myAccount a.LinkCTA{padding:16px; margin:16px; box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.1); background-color: #fff;}
+	       		var userData = data;
+	       		var name = userData.name;
+	       		var email = userData.email;
+	       		var signupSource = userData.source;
+	       		var subscribedAtOnce = userData.subscribedAtOnce;
+	       		var plan  = userData.plan;
+	       		document.getElementById('uName').innerHTML = "<strong>"+name+"</strong>" + email;
+		       		var status = planData.status;
+		       		var purchaseSource = planData.source_device;
+			       		var nextActivationDate = planData.current_term_ends_at;
+			       		var planDescription = planData.plan.description;
+			       		var planName = planData.plan.name;
+			       		var planPrice = planData.amount;
+			       		//var planInterval = planData.shipping_interval;
+			       		var planInterval = planData.duration;
+			       		var planUnit = planData.interval_unit;
+			       		//var html = "<strong>Your Subscription Plan</strong>"+planName+" ₹"+planPrice+" / "+planInterval+" " + nextBillingHtml + cancelHtml; 
+			       		var html = "<strong>Your Subscription Plan</strong> "+planDescription + " "+ planName +": ₹"+planPrice + " "+ nextBillingHtml + cancelHtml;

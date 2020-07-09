@@ -1,0 +1,17 @@
+Dash teammates (L to R) Brian Meares, Nick Hebert, Brett Lieblich and Jacob Nemetz.
+Correction: The spelling of cofounder Brett Lieblich's last name has been updated. (1/10/20, 5:47 p.m.)
+So far in our coverage of early employees , our editorial calendar theme for the month, we’ve talked to founders who have scaled their startups to 20 or 30 employees, and heard advice about when it’s time to hire .
+But the dynamics can be a little different if you’re a three-year-old startup with a consistently tight ship.
+Dash Solutions , a HIPAA-compliant cloud solution platform, first caught our attention when it scooped up some CloudMine clients in 2018 when that company went bankrupt . The team launch a promo deal: Any CloudMine clients looking to switch providers won’t have to pay Dash’s installation fee, which normally runs a few thousand dollars.
+Now, heading into 2020, Dash has a few more accomplishments under its belt.
+It raised a $400,000 seed round from local backers including Ben Franklin Technology Partners and Contrarian Capital in summer 2018. The company now has five full-time employees, participated in the DreamIt SecureTech’s fall 2019 program and achieved its Amazon Web Services Healthcare Competency.
+Cofounder Jacob Nemetz also said the company is about to release a new offering for the AWS Marketplace< that will enable healthcare organizations to install Dash, streamline compliance management and promote cloud adoption in the industry.
+Nemetz and cofounder Brett Lieblich said their first hire was a lead engineer, and the rest of the team is filled out by another engineer and a salesperson. Some folks work remotely, though the team has a presence at 1776’s Rittenhouse location.
+The company is currently fundraising, and looking for a sixth full timer — another sales and marketing role.
+On a small team, Nemetz said, it can become clear where an extra role is needed.
+“For us, we’ve built a lot of product, and we hit a limit where we could do more sales this way, so why don’t we add that sales team member?” he said. “When you start to hit those limits where it’s visible that you could be doing more, it’s time to add someone.”
+And it’s important that everyone works together well but also has the independence and initiative to work on their own, Lieblich said.
+“Everyone is very independent and has their own objectives,” he said of the current team. “It’s not a lot of coming back to Jacob and I and asking if they should do something. We need to work quickly and stopping all the time to reconvene, I think, leads to stagnation.”
+Nemetz and Lieblich’s own experiences with startups has shaped the thinking about how to run Dash.
+If anything, Lieblich said, they’ve been overly methodical about hiring to avoid a situation of irrational projected growth where they’d have to eventually lay people off.
+“I’ve been there before, I’ve seen it, and people don’t ever trust you again,” he said. “It’s a problem if you’re hiring and you don’t know why you’re hiring.”

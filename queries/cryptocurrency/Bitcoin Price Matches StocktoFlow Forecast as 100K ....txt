@@ -1,0 +1,9 @@
+The trend which has correctly guessed Bitcoin’s price performance for years now looks set to continue its winning streak in 2020.
+Bitcoin ( BTC ) now almost perfectly aligns with the historically accurate price chart, which has charted its growth from pennies to digital gold.
+According to data from Digitalik , a resource that monitors Bitcoin's position relative to the Stock-to-Flow model, as of Jan. 20, BTC/USD is exactly where it should be.
+Stock-to-Flow measures the Bitcoin price using two factors: the stock — the number of Bitcoins in circulation — and the flow, which is the number of new Bitcoins entering circulation.
+The cryptocurrency's run-up to $9,000 last week took it slightly over where Stock-to-Flow pricing forecasts suggested it might trade.
+At press time, however, BTC/USD traded at $8,680 — just $150 above the forecasts.
+As Cointelegraph previously reported , Stock-to-Flow’s creator, the analyst known as PlanB , originally suggested that Bitcoin would hover at an average of in the year before its block reward halving in May 2020.
+At that point, a 50% reduction in the number of new Bitcoins released to miners each block would further limit the flow versus the existing stock. Thereafter, he has said, price performance should accelerate dramatically — by 2022, a single Bitcoin should be worth around $100,000 .
+In 2019, BTC/USD only temporarily diverged from Stock-to-Flow as it hit $13,800, only to fall below expectations for a similarly brief period in December.

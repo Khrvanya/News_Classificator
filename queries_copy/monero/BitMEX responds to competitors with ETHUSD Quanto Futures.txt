@@ -1,0 +1,9 @@
+BitMEX announced on Friday, the launch of a new product “ETHUSD Quanto Futures”. As the name suggests, the product will be a futures contract with a 50X leverage and will launch on May 05, 2020, a week before the scheduled Bitcoin halving.
+Borrowing the definition from Investment and Finance, quanto futures in a stock market is,
+“a cross-currency, cash-settled futures contract which has an underlying denominated in one currency and is settled in another currency at a fixed exchange rate. For example, a futures contract on a Japanese stock market index which is settled in US dollars.”
+Each ETHUSDM20 contract has a size of 0.01mBTC per 1 USD (0.00019496 XBT) and will expire on June 26, 2020. The contract price will be based on GDAX, Kraken, Bitstamp, and Gemini.
+BitMEX is the first derivative player in the crypto space and this launch might be BitMEX’s reply to the competition in the space. At press time, Binance has the most 24-hour trading volume for Bitcoin Futures while BitMEX ranks fourth.
+Six months ago, Binance was just entering the market , whereas BitMEX was already a huge player. Regardless of Binance being a recent entrant to the derivatives market, their already humungous userbase has put them at the forefront of this race.
+As of now, the contract can be traded on the testnet. Further, with Bitcoin halving 17 days away, it might be time for Bitcoin to pump, with ETHUSDM20 profits denominated in BTC attracting quite a few users.
+Did you like this article?
+Your feedback is important to us!

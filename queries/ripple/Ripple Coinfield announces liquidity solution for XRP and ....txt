@@ -1,0 +1,14 @@
+Sologenic CEO Bob Ras has announced that the XRP Ledger based platform, Coinfield, will provide liquidity for Ripple’s XRP and the SOLO token.
+The solution was announced after Xumm developer Wietse Wind declared problems with SOLO’s liquidity.
+Via his Twitter account, Sologenic CEO Bob Ras has announced that there will be liquidity for the SOLO and XRP tokens on the Coinfield exchange. Ras said his team has been working on developing the liquidity solution over the past few weeks.
+Over the past few weeks we’ve been working on a solution to provide some liquidity for both SOLO & XRP on the XRPL DEX. We’re glad to inform that all tests have been successfull & It’ll go live shortly today.
+As announced today, the SOLO token is now available on the XRPL decentralized exchange.
+$SOLO trading is now available on the #XRPL Decentralized Exchange! #XUMM offers you an easy access to DEX to trade $SOLO . https://t.co/AhuRrOh4AO pic.twitter.com/oaPPtmslHE
+— Sologenic (SOLO) (@realSologenic) April 18, 2020
+Ras also added that the XRP-based Xumm banking application provides easy access for decentralized XRPL exchange (DEX). Xumm, Ras said, provides users with a secure way to access the DEX and trade the Sologenic token. Ras’ comment was a direct response to Wietse Wind, the developer of Xumm . In early April Wind said that there was no liquidity for the SOLO token in the XRP ledger due to the lack of supply. This led to a high volatility of the token and an irregular movement of the price, Wind said:
+XUMM automatically hides IOU’s from the “Add currency” list if this is the case, to prevent users from losing funds on bad rates.
+At the time, Sologenic reacted to the statement and said that they were working on a solution to increase liquidity on the DEX. The announcement of Ras is this solution. The collaboration between Sologenic and Xumm was announced in early March this year to integrate the banking application into the SOLO wallet for signing transactions. When the collaboration was announced, Wind expressed his enthusiasm, saying that users could use SOLO along with Xumm to sign transactions without having to “enter a secret password”.
+The Xumm banking application was officially launched at the end of March with a total reported number of about 3,700 users, at that time. Developed by XRPL Labs, the application offers its users the possibility of accessing traditional banking services without the intervention of third parties.
+$SOLO trading is now available on the #XRPL Decentralized Exchange! #XUMM offers you an easy access to DEX to trade $SOLO . https://t.co/AhuRrOh4AO pic.twitter.com/oaPPtmslHE
+— Sologenic (SOLO) (@realSologenic) April 18, 2020
+Follow us on Facebook and Twitter and don’t miss any hot news anymore! Do you like our price indices ?

@@ -1,0 +1,12 @@
+Indian crypto sector grows after ban lift amid Covid-19 pandemic.
+Bitcoin and cryptocurrency exchange PayBito announced today its launch in India. The US-based firm is entering the newly liberated digital assets market post-ban-lift on cryptocurrency trading, which has shown significant growth.
+PayBito revealed it is commencing its activities in India with 70% market strength allowing traders to buy, sell, deposit, and withdraw crypto with the native fiat currency Indian Rupees (INR).
+“It is an exciting time for the Indian cryptocurrency industry, as it accelerates to make its mark in the global digital assets market. The enthusiasm showed by the traders and their rapid adoption of crypto prove that the country is ready for its crypto-boom moment. We felt this was the best time to open PayBito for the local users giving them options to diversify their trading experience and crypto portfolio,” said Raj Chowdhury, managing director at PayBito .
+Even amid the global COVID-19 pandemic and nationwide lockdown, the Indian crypto sector has shown significant growth post-ban lift. The industry continues to display trading volume surges across exchanges along with a rapid increase in the number of users.
+Did COVID-19 Save the Forex Industry? Go to article >>
+PayBito’s advent into India’s booming digital assets market comes at a time, when traders are eager to explore their options in exchanges and crypto coins, to expand their trading portfolio, the firm noted.
+PayBito is a multi-fiat currency and multi-signature enabled exchange that leverages enhanced security protocols to prevent any kind of cyber breaches. It is available in android, iOS, and web versions.
+1. Preventions cybersecurity infrastructure comprising of VPN, network access control, Unified Threat Management.
+2. Detection cybersecurity infrastructure comprising of intrusion management systems, email security, network package brokerage, and secure web gateways.
+3. Remedial cybersecurity infrastructure consisting of advanced malware protection, malware sandboxing, and network behavior analytics.
+It comes with a 4 layered architecture of web, application, blockchain, and primary database and prevents any kind of intrusion, maintains faster uptime, ensuring zero data loss in the unlikely event of hacking attempt.

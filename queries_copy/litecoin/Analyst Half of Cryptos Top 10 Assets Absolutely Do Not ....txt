@@ -1,0 +1,13 @@
+The co-founder of crypto research house Blockfyre suggested that five of the top ten cryptocurrencies by market cap did not deserve to be there.
+Simon Dedic has beef with crypto rankings. The co-founder of crypto research house Blockfyre specifically suggests that five of the top ten cryptocurrencies by market cap don’t deserve their high-profile spot.
+In an inflammatory June 21 tweet , Dedic called out XRP, Bitcoin Cash, Bitcoin Satoshi’s Vision, Litecoin and EOS and said he “can’t wait” until other assets replace them.
+Rather than simply kicking the hornet’s nest on Twitter and running away, Dedic instead stuck around to answer comments. Cointelegraph asked him to expand on his reasoning.
+Although  Bitcoin Cash ( BCH ), Bitcoin SV ( BSV ) and Litecoin ( LTC ) all try to replace Bitcoin ( BTC ), Dedic feels that Lightning Network and other scaling solutions will ultimately render them unsuccessful. “There is no need for ‘a better Bitcoin,” he said.
+Similarly, Dedic says that EOS ( EOS ) is unnecessary as a centralized version of Ethereum ( ETH ). He also feels that EOS has achieved “far from impressive” results after such a large ICO.
+While praising the adoption achieved by Ripple ( XRP ), Dedic feels its centralized nature goes against the purpose of the crypto space. He went on to criticize the regular dumping of billions of tokens onto the market as a main revenue stream.
+So which of the young upstart cryptocurrencies do deserve a place in the top ten according to Dedic and why?
+With an adoption rate that he calls “hardly surprising,” Dedic’s says VeChain leads the market in one of blockchain’s most important applications: supply chain. Dedic also feels that Chainlink’s level of adoption is well-deserved.
+“Trusted and unbiased third party data is becoming more and more important as this market grows, especially with DeFi rising so quickly. Chainlink does a stellar job of providing reliable market data.”
+While his main money is on Ethereum, Dedic says that Tezos is also a promising infrastructure project. In particular he believes that the governance structure is better designed than that of ETH.
+Interoperability will be a big step for mainstream adoption of blockchain. Dedic believes that Cosmos’s enabling of cross-chain transactions and Tendermint technology are promising developments for the future of the space.
+That leaves one more space in Dedic’s “deserving” top ten list, but maybe that’s for the best. At least this way everybody can believe that their own favorite altcoin could fill that gap.

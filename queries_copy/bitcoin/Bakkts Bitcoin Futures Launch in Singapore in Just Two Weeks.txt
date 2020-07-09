@@ -1,0 +1,10 @@
+Please consider using a different web browser for better experience.
+Please enable JavaScript in your browser for a better site experience.
+Bakkt is launching its Singapore-listed bitcoin futures contracts on Dec. 9, parent firm Intercontinental Exchange (ICE) has announced.
+In a blog post on Thursday, ICE said the Bakkt Bitcoin Cash Settled Monthly Futures contracts will be listed on ICE Futures Singapore and cleared by ICE Clear Singapore – both regulated by the island-state’s de facto central bank, the Monetary Authority of Singapore (MAS).
+The cash-settled contracts will be settled against prices of Bakkt’s physically delivered bitcoin futures contracts, launched in the U.S. in late September. The contracts are sized at one bitcoin and settled in U.S. dollars.
+“Our new cash settled futures contract will offer investors in Asia and around the world a convenient, capital efficient way to gain or hedge exposure in bitcoin markets,” said Lucas Schmeddes, president and COO of ICE Futures and Clear Singapore.
+Bakkt said as recently as CoinDesk’s Invest: NY event earlier this month that it planned to offer cash-settled futures in Singapore.
+The ICE subsidiary also revealed on Oct. 24 that it would “launch the first regulated options contract for bitcoin futures,” also on Dec. 9, and expanded its bitcoin custody offering beyond futures clients to wider institutional clients on Nov. 11. Galaxy Digital became one of the first clients this week, tapping Bakkt and Fidelity Digital Assets to store the bitcoin for two new funds.
+This week, MAS said it was seeking to green-light cryptocurrency derivatives on regulated platforms and was seeking feedback via a consultation paper. The authority said investor demand had prompted the decision.
+The leader in blockchain news, CoinDesk is a media outlet that strives for the highest journalistic standards and abides by a strict set of editorial policies . CoinDesk is an independent operating subsidiary of Digital Currency Group, which invests in cryptocurrencies and blockchain startups.

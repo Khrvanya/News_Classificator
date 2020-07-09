@@ -1,0 +1,25 @@
+Ethereum developers shared in a Reddit Ask Me Anything session the steps left before launch of Serenity’s beacon chain phase, expressing confidence in a 2020 launch.
+The development team behind Ethereum 2.0 held an Ask Me Anything (AMA) session on Feb. 5. The team answered some of the most pressing questions on Serenity, in addition to general themes such as Proof of Stake (PoS).
+There have been two other such sessions, six months and one year ago, respectively. While no groundbreaking changes occurred since the last AMA, the team is making concrete steps toward Ethereum ( ETH ) scalability.
+Answering questions on what has changed in Ethereum 2.0 since the last AMA in June, the team generally agreed that most features remained the same. Though they had committed to the earlier 0.8 Serenity specification, this later changed as 1.0 was revealed.
+Danny Ryan from Ethereum Foundation elaborated:
+“Feature-wise not a lot has changed since June, but it was a little too early to commit to the freeze fully. Since then the primary changes to the BeaconChain have been for the better; avoid invalid placeholder specs for phase1, move unnecessary complexity (e.g. some early optimizations for light clients) to phase1 when we actually need it, and polish what is there.”
+Most community members were concerned about the deadline for the first step in Ethereum 2.0 — Phase 0. This would introduce the beacon chain, the first to include Proof of Stake validation.
+Justin Drake explained that the majority of the steps remaining are audits of existing code. The deposit contract, which would handle the staking funds, is about to be deployed. The deposit user interface will still need to be completed and audited, which the devs estimated will take three months.
+Ethereum 2.0 clients are being developed in parallel and still need to “work on production quality.” The polishing and testing procedure is set to take about three months as well, though he noted that these are approximate estimates.
+“I'm hoping we can launch by July 30, 2020 (the 5th anniversary of Ethereum 1.0). I think it's unlikely we will launch in Q1 or Q2 2020 especially if we want three clients to be production ready for launch.”
+Answering a question on whether he would consider a 2021 launch a failure, he said:
+“Yes, it would be a failure. I have 95% confidence we will launch in 2020.”
+As the Ethereum community undergoes the transition to PoS, some people remain skeptical. One user voiced concerns about the increasing wealth disparity in a staking model, as it “rewards the wealthy for having more money.”
+Danny Ryan argued that PoS is in fact fairer than Proof of Work:
+“In both bases, the owning of an asset allows for seeking gains on that asset. The difference between the two is that in PoS, the mapping of capital to gains is much more direct and fair (i.e. buy token, lock token, perform duties, gain X).”
+Mining, he maintained, favors participants with special benefits such as early access to hardware and bulk discounts, which have little to do with the protocol itself.
+The discussion touched upon sidechain scaling, with some users expressing concerns as to Ethereum scalability in light of 2.0 delays. Vitalik Buterin pointed to Ethereum 1.x as an interim solution, while being confident in rollup technologies being released:
+“The Istanbul fork reducing gas costs of CALLDATA to 16 per byte is a huge boon to zkrollup and optimistic rollup, increasing the theoretical max throughput of both to ~2500 tx/sec.”
+“So I'm not too worried about scaling overall,” he concluded.
+The Ethereum community has recently transitioned to a new family of sidechain scaling solutions called “rollups.” Though Optimistic Rollup is considered the favorite, Justin Drake also shared his enthusiasm on zero-knowledge rollups:
+“I'm personally hugely bullish on zk-rollups, and more generally using SNARKs for scaling. With Eth2 we will have plenty of data availability so there's less of a need for data availability solutions such as Plasma and state channels. With the research for phases 0 and 1 essentially done I'm spending significant time on SNARKs.”
+One user also mentioned Plasma, asking if the technology is dead after several articles reported this may be the case.
+The team did not directly answer the question, noting that “Ethereum is agnostic to the layer 2 protocols that are built on it.” Though the team did not confirm the rumors, they did not deny them either — pointing to a likely disillusionment with the technology.
+Finally, when asked about how Ethereum 1.0 will transition into Serenity, the team revealed that it will initially be one of the shards:
+“The current plan is that Ethereum 1 will continue to run as a shard of Eth2. This might be phased out once all the technology exists to make it an Execution Environment.”

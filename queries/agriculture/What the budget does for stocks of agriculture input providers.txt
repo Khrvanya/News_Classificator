@@ -1,0 +1,32 @@
+2 min read . Updated: 07 Jul 2019, 11:09 PM IST R. Sree Ram
+Union budgets are tracked for both annual spends and policy direction. Investors in stocks of agricultural input providers will be somewhat disappointed on both counts. The government’s allocation for the distressed farm sector in the FY20 budget was the same as in the interim budget, although given the fiscal constraints, hardly anyone was expecting a major increase. Besides, the interim budget had already introduced the minimum income support scheme for certain farm households.
+But investors will be more disappointed by the limited strategic direction to boost crop diversification so as to enable farmers to earn more. “Steps related to reinvigorating agricultural extension services that are critical to higher agricultural productivity and educating farmers to adopt better agricultural practices/crop diversification in line with changing food consumption patterns of Indian households were conspicuous by their absence," Sunil Kumar Sinha, principal economist and director (public finance) at India Ratings and Research Pvt. Ltd, said in a note.
+A challenge for farmers has been excess production of foodgrains that tends to depress prices and earnings. Nudging farmers to diversify crop cultivation, hence, becomes important.
+To help farmers realize better prices, the government aims to push for farm-produce organizations and national agriculture markets. These budget proposals come following the recent hike in the minimum support prices (MSPs) for major crops.
+Even so, the government provided limited clarity on how it plans to achieve its objectives apart from saying it will “invest widely in agricultural infrastructure". Due to infrastructure constraints, the government’s price-support schemes have restricted influence on the ground. Even in food crops where government schemes have influence, procurement is confined to 29% of FY19 output (excluding pulses).
+Further, as a study by JM Financial Institutional Securities Ltd notes, the steep hike in MSPs last year yielded little or no additional benefits to farmers, as the procurement process did not see a material change. In fact, limited government presence and a mismatch in procurement timings mean small farmers who cannot afford storage facilities are selling their produce below the MSP, found a JM Financial study.
+Therefore, unless the government builds back-end infrastructure, earnings of farmers and, thereby, of agricultural input providers (notably agrochemicals, fertilizers) will continue to be determined by traditional variables such as the monsoon and mandi prices.
+Unfortunately, the scenario on this front is not encouraging. Monsoon rainfall has been deficient in most parts of the country, and kharif crop sowing is lagging. Combine this with contained crop prices and the situation is as worrisome as ever.
+* Thank you for subscribing to our newsletter.
+Click here to read the Mint ePaperLivemint.com is now on Telegram. Join Livemint channel in your Telegram and stay updated
+You are now subscribed to our newsletters. In case you can’t find any email from our side, please check the spam folder.
+lozad('.lozad', { load: function(el) { el.src = el.dataset.src; el.onload = function() { el.classList.add('fade')}}}).observe()
+.myAccount .planSec, .myAccount a.LinkCTA{padding:16px; margin:16px; box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.1); background-color: #fff;}
+	       		var userData = data;
+	       		var name = userData.name;
+	       		var email = userData.email;
+	       		var signupSource = userData.source;
+	       		var subscribedAtOnce = userData.subscribedAtOnce;
+	       		var plan  = userData.plan;
+	       		document.getElementById('uName').innerHTML = "<strong>"+name+"</strong>" + email;
+		       		var status = planData.status;
+		       		var purchaseSource = planData.source_device;
+			       		var nextActivationDate = planData.current_term_ends_at;
+			       		var planDescription = planData.plan.description;
+			       		var planName = planData.plan.name;
+			       		var planPrice = planData.amount;
+			       		//var planInterval = planData.shipping_interval;
+			       		var planInterval = planData.duration;
+			       		var planUnit = planData.interval_unit;
+			       		//var html = "<strong>Your Subscription Plan</strong>"+planName+" ₹"+planPrice+" / "+planInterval+" " + nextBillingHtml + cancelHtml; 
+			       		var html = "<strong>Your Subscription Plan</strong> "+planDescription + " "+ planName +": ₹"+planPrice + " "+ nextBillingHtml + cancelHtml;

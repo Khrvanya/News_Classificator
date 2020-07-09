@@ -1,0 +1,9 @@
+Facebook, Inc. (NASDAQ: FB )'s proposed cryptocurrency Libra is revamping its platform to make it more acceptable to financial regulators.
+Libra’s multicurrency stablecoin Libra will now be backed by new stablecoins, instead of by fiat currencies living in a bank account, according to Coin Telegraph.
+On Thursday, Libra co-creator David Marcus discussed the changes in a series of tweets.
+a) the creation of single currency stablecoins, e.g. ≋USD, ≋EUR, ≋GBP, in addition to Libra Coin (≋LBR), which will now be a Move smart contract “stitching” together fixed nominal weights of underlying stablecoins. 3/8
+— David Marcus (@davidmarcus) April 16, 2020
+Since its launch in June 2019, Libra has had a tough time gaining approval from politicians and the U.S. Securities and Exchange Commission.
+In Europe , both German and French government ministers have been vocal about the proposed cryptocurrency and agreed to block it last year.
+On Thursday, Switzerland's Financial Market Supervisor said it has received an application from Facebook's Libra Association for a payment system license, according to Reuters .
+Facebook shares were down 0.41% at $176.25 at the close Thursday. The stock has a 52-week range between $224.20 and $137.10.

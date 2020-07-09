@@ -1,0 +1,6 @@
+The Global X Russell 2000 Covered Call ETF ( RYLD ) is a new ETF based on the Russell 2000 BuyWrite Index, notes Robert Powell, editor of TheStreet's Retirement Daily .
+The fund returns are generated via a small-cap covered-call strategy, and the index maintains a relatively high correlation, or relationship, with the Russell 2000 Index. However, the index on which this ETF is based is less volatile than the Russell 2000 Index.
+For investors, RYLD may offer an alternative to pure Russell 2000 exposure in a well-diversified portfolio, but at lower volatility, says Marc Zabicki, president and chief investment officer of Bower Hill Capital Management.
+"Consequently, the fund may be a good choice for those seeking to manage down overall portfolio risk while maintaining some allocation to smaller capitalization areas of the market," he says.
+"For those not targeting exposure to small-capitalization stocks, there are other covered call ETF strategies from Global X and other ETF manufacturers based on larger capitalization S&P 500 and Nasdaq 100 listed companies," he says.
+Like RYLD, such strategies provide returns streams somewhat similar as their underlying indices, but at typically a lower volatility.

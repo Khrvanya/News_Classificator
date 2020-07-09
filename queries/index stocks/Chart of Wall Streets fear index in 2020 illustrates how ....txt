@@ -1,0 +1,21 @@
+How volatile and anxious is Wall Street amid this evolving worry about a potential global pandemic that could shake the global economy to its core?
+Perhaps, the best gauge of that deep-rooted concern is one of the market’s most closely watched measures of volatility.
+The Cboe Volatility Index VIX,
+But what’s arguably more impressive than the daily move for the gauge, that uses S&P 500 options to measure trader expectations for volatility in the coming 30-day period, is its year-to-date surge so far (see attached chart).
+Compared against the move for the VIX at the same point this year in 2008, the differential between the two is dizzying. The VIX so far this year is on pace for a 280% surge, compared against a 108% return for the fear index in 2008—a period marked by the global proliferation of esoteric mortgage bonds and derivatives that brought world-wide financial markets to their knees and ushered in the 2007-09 recession.
+“That spread is remarkable to see what’s going on out there in the [VIX],” Mark Longo CEO of The Options Insider, an options-focused analytics firm, told MarketWatch.
+The rise in the VIX usually correlates to a decline in stocks because traders and investors use it to hedge their equity positions.
+The surge in the VIX was at least partially sparked by an outbreak of COVID-19, the infectious disease that was first identified in Wuhan, China in December and has sickened roughly 117,000 people and claimed more than 4,260 lives, implying that fears of the deadly pathogen to this point by far outstrip those pegged to an implosion of the global financial markets.
+That may have been the inflection point, the coronavirus,” Longo said.
+Longo also said the surge in VIX this year may reflect that the markets, which have enjoyed a period of quiescence, even amid a few bursts higher, may be entering a paradigm shift.
+“We may be in a new volatility regime for the foreseeable future,” he said.
+The options expert said it is worth noting that this period for the VIX is demonstrably different than 12 years ago because there are so many more products that are pegged to the VIX, including the VelocityShares VIX Short Term ETN VIIX,
+Randy Warren, chief investment officer at Warren Financial, who focuses on VIX options, also said that on a year-to-date basis the peak for 2008 didn’t start to play out until August, September, and October as Fannie Mae and Freddie Mac went into conservatorship, Lehman Brothers went bankrupt, AIG required help from the government and investors wrestled with the fallout of all that. The VIX finished the full year 2008 up 130%, according to FactSet data.
+The VIX hit a historical peak at 80.86 on Nov. 20, 2008 and had not again approached such a lofty level until Monday.
+That said, Warren says his firm has made 10x its money on its VIX contract bets this year, but that those gains have only mitigated losses on its equity positions.
+As far as where VIX is headed, Warren says it is anyone’s guess.
+“It’s a really hard call at this point because [the VIX], it is really stretched. It’s like a rubber-band now,” he said, given its move from a recent low at around 13 or 14 in mid February. The VIX’s historical average usually is said to be about 19 or 20.
+Longo emphasized that he thinks professionals use VIX futures to better measure volatility in the market rather than the so-called cash VIX, which is most commonly used.
+He said the spread between the VIX and VIX contracts, the VIX is an index and the contracts are the tradable securities, have been stunning with unusual gaps of 12 points at some junctures in the market.
+It isn’t clear to those traders what’s underpinning those odd moves. “I’ve never really seen it like that before--they are somewhat disassociated from futures. They should be in lockstep,” Longo said.
+U.K. stocks fell on Tuesday, as Royal Dutch Shell’s warning that it could take a $22 billion write-down dragged the FTSE 100 lower.

@@ -1,0 +1,36 @@
+Demand concerns catch-up with UPL, but are investors overreacting?
+1 min read . Updated: 20 Jun 2019, 05:28 PM IST R. Sree Ram
+UPL the biggest loser among Nifty stocks on Thursday, slumps over 8%
+While investors have reasons to be worried, the steep fall in the stock price may be overdone
+When Chinese soybean buyers turned to Brazil amidst the trade war with the US last year, agrochemical major UPL Ltd was seen as a major beneficiary.
+Brazil and Latin America are the biggest markets (generating a third of the revenues) by geography for UPL , with a large portion of revenues coming from soybean. China is the world’s largest consumer and importer of soybean, while Brazil is a large producer and exporter of the protein source.
+But in an unexpected turn of events, the outbreak of African swine fever in China is threatening to strangulate soybean exports from Brazil. According to reports, soybean exports from Brazil dropped 2% last month.
+Outbreak of African swine fever depleted pig population in China, reducing soybean demand. According to S&P Global Platts, imports of soybean by China in the first half of the current marketing year (October-September) were significantly lower than the average imports in the earlier two years. Soybean is processed into soymeal and is used as animal feed.
+Not surprisingly, lower imports by the biggest customer are weighing on soybean prices. Investors are worried about these ramifications on UPL, which dragged the stock down 8% on Thursday, taking the losses in the last one month to about 13%. UPL was the biggest loser among Nifty stocks on Thursday.
+Brazil is not the only trouble spot. Unprecedented floods are impeding corn planting in the US. With acreage expanding at multi-year low, industry experts are worried agriculture inputs providers will be hit. A little less than a fifth (18%) of UPL’s revenues come from the US.
+While investors have reasons to be worried, the steep fall in the stock price may be overdone.
+One, the fluctuation in demand is not unusual for companies such as UPL which has presence across the globe. In fact such downturns helped generic product seller UPL garner greater share of the market in the past due to its cost competitive products. “Farmers usually down-trade in such a scenario", said one analyst. Second is the Arysta integration which can cushion the company from market vagaries to some extent, even as the acquisition is expected to drive up debt and finance costs.
+“We believe UPL and Arysta together would become a global major. With diversified products and increased geographic reach, the combined entity is better equipped to outperform the industry," said Investec Capital Services (India) Pvt. Ltd.
+* Thank you for subscribing to our newsletter.
+Click here to read the Mint ePaperLivemint.com is now on Telegram. Join Livemint channel in your Telegram and stay updated
+You are now subscribed to our newsletters. In case you can’t find any email from our side, please check the spam folder.
+lozad('.lozad', { load: function(el) { el.src = el.dataset.src; el.onload = function() { el.classList.add('fade')}}}).observe()
+.myAccount .planSec, .myAccount a.LinkCTA{padding:16px; margin:16px; box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.1); background-color: #fff;}
+	       		var userData = data;
+	       		var name = userData.name;
+	       		var email = userData.email;
+	       		var signupSource = userData.source;
+	       		var subscribedAtOnce = userData.subscribedAtOnce;
+	       		var plan  = userData.plan;
+	       		document.getElementById('uName').innerHTML = "<strong>"+name+"</strong>" + email;
+		       		var status = planData.status;
+		       		var purchaseSource = planData.source_device;
+			       		var nextActivationDate = planData.current_term_ends_at;
+			       		var planDescription = planData.plan.description;
+			       		var planName = planData.plan.name;
+			       		var planPrice = planData.amount;
+			       		//var planInterval = planData.shipping_interval;
+			       		var planInterval = planData.duration;
+			       		var planUnit = planData.interval_unit;
+			       		//var html = "<strong>Your Subscription Plan</strong>"+planName+" ₹"+planPrice+" / "+planInterval+" " + nextBillingHtml + cancelHtml; 
+			       		var html = "<strong>Your Subscription Plan</strong> "+planDescription + " "+ planName +": ₹"+planPrice + " "+ nextBillingHtml + cancelHtml;

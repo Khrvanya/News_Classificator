@@ -1,0 +1,12 @@
+Please consider using a different web browser for better experience.
+Please enable JavaScript in your browser for a better site experience.
+Mutual fund giant Vanguard has completed another blockchain pilot that aims to change the risk profile of foreign exchange (FX) transactions.
+The Valley Forge, Pa.-based investment firm ran the pilot on Symbiont’s Assembly blockchain with participation from State Street, BNY Mellon and investment firm Franklin Templeton. Vanguard and Franklin Templeton acted as dealer banks and State Street and BNY Mellon acted as counterparty banks as well as custodians, said Symbiont’s foreign exchange lead, Joe Ziccarelli.
+Symbiont believes the foreign exchange platform will go into production in the third quarter of 2020, Ziccarelli said.
+“The pilot has helped to prove out some of the capabilities that address areas of uncompensated risk in collateral-linked instruments like FX forward contracts,” Melissa Kennedy, a Vanguard spokeswoman, said in an emailed statement. “Over the next twelve months, we will continue to build out capabilities on the platform with our partners.”
+The FX announcement follows a digital asset-backed securities pilot Vanguard announced the completion of earlier this month. The FX pilot’s completion also shows that the Assembly blockchain could quickly become a viable option for many large enterprises engaged in FX, Ziccarelli said.
+According to Ziccarelli, the pilot proves a use case for Assembly that applies to all foreign exchange contracts including swaps and outrights , which is a FX transaction where two parties agree to buy or sell a certain amount of currency at a predetermined rate in the future.
+Buy-side and sell-side firms use foreign exchange for hedging and speculative purposes. The market is governed by contracts that serve as credit agreements which specify how the over-the-counter (OTC) market should exchange the collateral used for these transactions.
+The calculations and collateral movement often take two or three days to process.
+“[Currently] you are two or three days removed from being protected against the sort of underlying credit risk that’s associated with those transactions,” Ziccarelli said. “Now you can be protected in as soon as the last calculation period.”
+The leader in blockchain news, CoinDesk is a media outlet that strives for the highest journalistic standards and abides by a strict set of editorial policies . CoinDesk is an independent operating subsidiary of Digital Currency Group, which invests in cryptocurrencies and blockchain startups.

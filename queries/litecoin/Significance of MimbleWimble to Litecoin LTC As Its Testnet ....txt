@@ -1,0 +1,14 @@
+Tobi-Loba is a creative and an award-winning writer with over 5 million readers from all over the world. She has  B.A in English and Literature from a reputable University and currently studying for her M.A in the same field.
+She recently became a contributor at Herald Sheets in order to fulfill her thirst in reporting crypto and blockchain occurrences, the interest she built over the years.
+David Burkett, the Litecoin (LTC) Senior MimbleWimble Developer, has on 1st July 2020 provided an update on the progress of the protocol for the just concluded month.
+This update was shared with the Litecoin community by Mr. Burkett via his official Twitter handle, which was later captioned by Litecoin Foundation .
+In the tweet, he mentioned things that are needed to be put in place, such as the writing of mining logic, among others. He thereby stated that the plan to launch MimbleWimble testnet is still on track for mid-September 2020.
+David Burkett tweeted , “June Progress Update: Minimal implementation of the mempool coded. Mining logic has been written for including extension blocks. Mimblewimble transactions can now be broadcast to peers. Everything is still on track for a mid-September testnet.”
+Want to know the latest with Mimbelwimble implementation on #Litecoin ? Check out the below thread from David Burkett for June's update. https://t.co/9S8MQYWdnr
+— Litecoin Foundation (@LTCFoundation) July 1, 2020
+Adding to the update , David Burkett made the breakdown of the tasks planned for the Q3 of 2020, which are expected to prepare the way for MimbleWimble testnet launch in September.
+“The high-level plan for the rest of the summer remains the same:
+The significance of the project was shared in January 2019 by the founder of Litecoin ( LTC ), Charlie Lee . In the announcement back then, Lee stressed that the project MimbleWimble is targeted at making Litecoin more fungible by adding confidential transactions.
+The latter transactions is made to obfuscate the amounts transferred through the network but not the destination of the digital coins sent.
+Actually, the transactions will not be made totally private, but to a reasonable extent, the confidential transaction is liable to bring tons of new users into the Litecoin ecosystem, which will automatically increase demand and use of the digital token LTC.
+Additionally, it could aid the price growth of the cryptocurrency in the market. At the time of filing this report, Litecoin (LTC) is trading at $41.57, with a 0.16% price downtrend in the last 24 hours.

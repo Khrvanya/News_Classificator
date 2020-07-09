@@ -1,0 +1,7 @@
+MakerDAO governance token holders voted to accept wBTC as the fourth collateral asset in the Maker DeFi Protocol.
+MakerDao governance, a decentralized community of MKR token holders that govern the Maker Protocol, has voted to pull Bitcoin onto the Ethereum blockchain by accepting Wrapped Bitcoin as a new collateral asset in the Maker Protocol, according to the official announcement on May 3. For the uninitiated, wBTC is the first ERC20 token backed 1:1 with Bitcoin.
+WBTC marks the fourth collateral asset type to be added to the MakerDAO DeFi ecosystem. The former three included ETH, BAT, and USDC. wBTC will now be able to open Maker Vaults in order to generate Dai. The report added that:
+“WBTC will help bring greater liquidity to the Ethereum and decentralized finance (DeFi) ecosystems, and to decentralized exchanges (DEXs).”
+Bitcoin holders can trade their BTC to open a vault and generate Dai through wBTC.
+The process of opening a vault can be done on Oasis Borrow — a decentralized finance platform. The conversion takes 5 steps to complete. First users sign up to Coinlist, complete KYC, wrap BTC to wBTC, send wBTC to a compatible wallet, and then create a wBTC vault to generate new DAI, according to the report.
+As Cointelegraph reported in early February, more than $1 billion U.S. dollars worth of assets reside s in DeFi protocols. Crypto experts were reportedly sceptical about early adoption of Bitcoin within DeFi protocols, but also curious and interested to see how the future would evolve.

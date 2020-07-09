@@ -1,0 +1,23 @@
+By Ken Trester , Editor, Power Options Weekly Dec 27, 2019, 9:08 am EDT
+As we get closer to the beginning of 2020, I’ve been eyeing another bullish position on the iShares Russell 2000 ETF (NYSEARCA: IWM ).
+Both the large-cap and small-cap indexes have continued pushing higher this week — a sharp contrast to 2018’s holiday season where the market was turning higher after a massive drop.
+It looks like the bullishness will continue, though there may be a pullback here and there, and so, I would like to recommend collecting a little extra income from a put write before the year is over.
+As I mentioned in my previous IWM recommendation , the first two weeks of a new year tend to be bullish for small-cap stocks.
+All the fundamental market factors supporting small-cap stocks are still in place as well.
+Short-term interest rates are still low, and long-term rates are rising. Regular Trade of the Day readers know that this kind of environment benefits banks because it raises their profits from net interest margin.
+Why is that important for the Russell 2000 then?
+Because the financial sector is the most represented sector in the index. That means that if banks — particularly small banks — are doing well, the Russell 2000 is likely going to do well.
+Daily Chart of the Russell 2000 Index — Chart Source: TradingView
+The Russell 2000 has pushed well beyond its old resistance at the 1,600 level, and the next big challenge is overcoming resistance at around 1,710.
+We may see a pullback before then because the index is starting to lose a little momentum, but even a slight pullback before pushing higher wouldn’t hurt the IWM position I am recommending.
+IWM’s push higher has increased the premium of put writes because investors believe a pullback is possible. As a result, we can sell a put write that is far out of the money and still collect a decent premium.
+Daily Chart of iShares Russell 2000 ETF (IWM) — Chart Source: TradingView
+If you look at the chart above, you can see that IWM overcame resistance in the $158-$160 range, and I believe the stock will find support in that range going forward.
+The last trade I recommended on IWM was a call debit spread, which was meant to take advantage of its continued rise. Now, I want to take advantage of its strong potential support.  By selling an option with a strike price well below IWM’s old resistance levels, traders can lower the risk they take on with this put write.
+Sell to open the IWM Jan. 17th (2020) $154 put at about $0.29.
+Note: Be sure you are opening the monthly IWM options that expire on Friday, Jan. 17, 2020.
+This is a high-risk trade, so take a small position.
+A naked put write is a bullish position in which you expect the price of the underlying stock to increase.
+InvestorPlace advisor Ken Trester also brings you Power Options Weekly , which delivers 5 new options trades and his latest trading advice to you each Friday. Trester has been trading options since the first exchanges opened in 1973 with a winning streak that goes back to 1984 with money-doubling average annual profits since 1990.
+Louis Navellier just issued a ‘Strong Buy’ on an under-the-radar 5G stock.
+You’ll want to pay attention because his track record features extraordinary winners that have exploded by 1,516%... 3,972%... 20,130%... or 24,221% over time. He has reason to believe this 5G stock could do the same.

@@ -1,0 +1,10 @@
+There are several ETFs and mutual funds that are designed to track the major indexes, such as the SPDR Dow Jones Industrial Average ETF ( DIA ), which tracks the Dow, and the Invesco QQQ ETF ( QQQ ), which tracks the Nasdaq 100.﻿﻿﻿﻿
+Both Yahoo and Marketwatch offer free information on what components make a stock index, while sites like Morningstar and Zacks Investment Research may require a membership plan for certain information.
+First, head to the Yahoo Finance quote page. Next, you can either type in the name or symbol of an index into the quote box, such as the Dow Jones Industrial Average, or click one of the shortcut links in the bar at the top of the page.
+Once you're viewing the summary page of the selected index, click the link to "Components." That's where you'll find the list of stocks that are included in the particular index you are researching.
+If you go to the MarketWatch home page , you'll see a list of some of the most notable industry indexes. If you click on one, such as the S&P 500, you'll come to the overview page for that index. If you scroll down a bit, you'll see a list of the companies that are included in the index divided into top performers and bottom performers.
+The component stocks of indexes can change frequently. Getting the list of companies on an index directly from the index maker is always the ideal option for making sure you have the most up-to-date information.
+Investopedia requires writers to use primary sources to support their work. These include white papers, government data, original reporting, and interviews with industry experts. We also reference original research from other reputable publishers where appropriate. You can learn more about the standards we follow in producing accurate, unbiased content in our editorial policy.
+State Street Global Advisors. " SPDR Dow Jones Industrial Average ETF Trust ." Accessed May 10, 2020.
+Invesco. " Invesco QQQ ." Accessed May 10, 2020.
+The offers that appear in this table are from partnerships from which Investopedia receives compensation.

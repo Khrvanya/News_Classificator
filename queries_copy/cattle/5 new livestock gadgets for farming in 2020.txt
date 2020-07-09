@@ -1,0 +1,39 @@
+From innovation to slightly improved design, engineers and inventors are constantly striving to produce the next big gadget in livestock farming.
+Farmers Weekly has looked at the top products that have hit the market in the past few months or will be available in 2020.
+An individual cow feeding, weighing and footbathing station to aid with dry and youngstock animals is to be launched by Hoofcount at Dairy Tech.
+How it works A two-metre-long observation crate comes with a 15cm deep footbath that automatically fills and empties and an automatic feed trough dispensing pellet and liquid feed.
+A weight system and holding gate is optional. The system sends information through a web-based data package to the office or a smartphone app.
+Why it is important Monitoring feed intake and regular footbathing and weighing allows farms to manage precisely dry cows and in-calf heifers in the final weeks before calving.
+Transition cow management is sometimes overlooked, but this system promises to help with daily feed allocation programmes and footbathing to help prevent digital dermatitis.
+a rental fee of £350/month after a £2,000 installation cost.
+SiloMetric, made by Rotecna and supplied by ARM Buildings in the UK, is a device that continually monitors feed levels in bulk bins.
+How it works The system is based on a battery-powered, electronic sensor installed in the top of the bulk bin that monitors feed levels.
+The information is wirelessly transmitted to a farm office computer, tablet or mobile phone where a colour-coded image gives the user a visual check on the state of the bins. An alarm can be set to trigger when a predetermined level is reached.
+Why is it important? Farm managers can monitor numerous bulk bins, often on different sites, in real time. This cuts labour time spent visiting each bin and potentially cuts any associated safety risks of monitoring the bin in person.
+Continuous monitoring means more precise management of feed levels Because feed is monitored continually, a further advantage is a more precise management of feed levels while the alarm system reduces any chance of mistakenly allowing a bin to empty.
+If feed becomes stuck, a constant reading will highlight the problem.
+Each unit costs £500, plus a small monthly fee for data capture and storage.
+Despite the name, Beefie is a digital/optical weighing device that works for both dairy and beef cattle, via a smartphone app. It is distributed by MiracleTech in the UK.
+How it works The small optical device, about the size of a matchbox, attaches to the back of a smartphone via a magnetic plate plugging into the phone’s socket.
+A picture is taken of an animal by the operator who then draws lines over the image to match key measuring points, at which point the system starts estimating the animal’s weight.
+Age, breed, sex and condition score are added and the software calculates a weight. The results, which the manufacturer says are 95% accurate can be exported to an Excel spreadsheet.
+The product is available for Android devices with an iOS version due shortly.
+Why is it important? The system means weight estimates can be gathered without cattle having to be put through crushes, which brings time-saving and safety benefits. Images can be taken several metres away in housing or at grass.
+Beefie Lite – Limited functionality (two breeds covered) £254 + shipping and taxes.
+Beefie – Full weighing functionality (all breeds) £354 + £179 annual licence + shipping and taxes.
+Beefie Plus – Full weighing plus withers height measurement (£421 + £224 annual licence + shipping and taxes.
+A measuring apparatus to gauge pelvic dimensions in replacement heifers. Made exclusively for G Shepherd Animal Health .
+How it works Heifers should be measured before being bred, ideally at 13 months. The device is introduced per-rectum and positioned to measure the width and height of the birth canal. These two measurements are then multiplied to give an area.
+The new design consists of lightweight aluminium arms and a centimetre scale and comes with a table showing pelvic size to calf weight relationships and dystocia.
+Why is it important? With labour becoming more stretched and herd size increasing, it’s becoming more important to use pelvic area as a breeding selection tool.
+Pelvic size is a highly heritable trait and by measuring heifer pelvises at around 12-14 months, the heifers with small pelvises can be rejected, ensuring easier calving as long as birthweights are controlled.
+Cost Around £140 – less than half the cost of one caesarean.
+The Farm Medicines Tracker app that tracks antibiotics usage, withdrawal periods and individual animal health is expected to hit the market some time in 2020.
+How it works The tracker is an app that records and monitors all antibiotics, vaccines, medicines and NSAIDs (nonsteroidal anti-inflammatory drugs) used on a livestock farm.
+The vet will scan all prescribed medicines at the time of dispensing from the bar code, recording the batch number and date.
+The farmer is not required to scan anything as all supplied medicines will be logged in a ‘virtual medicine cabinet’ that can be accessed online anywhere.
+All drugs are logged on a central database server, remaining confidential between the vet and farmer.
+The system details dosage rates once animal weights are entered and the app reminds the farmer of any special requirements the medicines may require, such as precautions and withdrawal periods.
+Why is it important? Using antibiotics responsibly and monitoring animals health and drugs use is critical for livestock sectors future productivity, profitability and image, as well as having implications for human health.
+Information could be insightful for senior vets, pharmaceutical companies and food retailers. All information will remain anonymous.
+To be confirmed, but charges are not expected to be more than £10-£15 a month.

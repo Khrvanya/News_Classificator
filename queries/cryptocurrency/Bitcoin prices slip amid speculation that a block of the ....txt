@@ -1,0 +1,7 @@
+Bitcoin prices retreated Wednesday afternoon amid speculation that a long-dormant block of coins, with links to the presumptive creator of the virtual asset, just changed hands.
+A Twitter account set to issue tweet alerts when coins tied to certain addresses trade, indicated a trade of a batch of virtual currency that is “possibly” tied to Satoshi Nakamoto, the person or persons who wrote the software code for the digital currency back in 2009. The identity of Nakamoto has long been speculated on but the originator of bitcoin has never been verified.
+About 11 years ago, he created, or mined, the original batch of bitcoins that are widely known as the genesis block.
+The tweet suggests that the batch of some 40 or 50 bitcoins that changed hands on Wednesday were mined within the first month of the creation of bitcoin.
+To be sure, the anonymous nature of the bitcoin makes it impossible to know the owner of the coins but the technology that underpins bitcoin makes tracking addresses of the certain blocks of coins possible.
+Sleuthing for coins tied to the progenitor of the digital asset has become a regular pastime in the crypto community. Tracking big blocks of bitcoin also helps to understand the habits of those who hold substantial influence on bitcoin prices by dint of their holdings.
+Bitcoin futures, representing a single bitcoin, were off 1.3% in Wednesday afternoon, with the most-actively traded May US:BTCK20 BTC.1,

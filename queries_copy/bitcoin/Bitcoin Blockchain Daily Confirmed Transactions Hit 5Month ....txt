@@ -1,0 +1,9 @@
+Hot on the heels of surpassing the 500 million transaction milestone, Bitcoin daily confirmed transactions are soaring to levels not seen since September.
+Hot on the heels of surpassing the 500 million transaction milestone, Bitcoin ( BTC )’s daily confirmed transactions (txs) are soaring too.
+The latest available data on Blockchain.com, for Feb. 6, indicates 315,370 daily txs on the blockchain, and 368,604 on Feb. 5.
+These are levels not seen since early Sept. 2019 — though they still stop short of a 2019 peak in May, which saw the network breaking above 450,000 txs daily.
+Daily confirmed txs on the Bitcoin blockchain, Feb. 2019-Feb. 2020. Source: blockchain.com
+Meanwhile, markets are seeing a solid flush of green, with Bitcoin now tantalizingly close to reclaiming the $10,000 price point : 5% growth on the week has brought the cryptocurrency to $9,800 as of press time.
+The top coin’s strong stats contrast starkly with its hard-forked descendent, Bitcoin Cash ( BCH ), which last week saw not a single block confirmed for over five hours due to a mining anomaly — a hitch that was easily cleared due to the network’s relatively low usage.
+Beyond the spot markets, Bitcoin futures Open Interest at BitMEX exchange has risen to a new high at $1.5 billion, and fresh data from Skew Markets reveals Bitcoin futures with a May 2020 and June 2020 expiry date rising to $10,000+ on a handful of trading platforms.
+Earlier today, Cointelegraph reported on another major milestone in the industry, as the total value locked in the DeFi markets hit $1 billion .

@@ -1,0 +1,14 @@
+The crypto exchange Binance has announced the launch of a 12.5 BTC rewards program due to the imminent halving of Bitcoin.
+Binance has seen a huge increase in interest in Bitcoin before the halving.
+The crypto exchange Binance has announced the launch of a rewards program due to the Bitcoin halving . According to a publication , Binance has launched this program for its users. During the period May 11-18 at 4:00 UTC, Binance users will be able to earn rewards in Bitcoin . The largest of these rewards is 12.5 BTC or approximately $108,000.
+To receive the reward, users need to complete 4 tasks. First, users have to complete the purchase of a cryptocurrency at any given time using Binance’s fiat-to-crypto option. Second, users need to reach the equivalent of $500 USD in trading volume on one of the Bitcoin spot trading pairs.
+Furthermore, users are required to use Binance’s referral program. The referred user has to open an account on the Binance Futures platform. Finally, users who wish to earn the BTC rewards have to reach the equivalent of $1,000 USDT in trading volume using the Binance perpetual futures contract feature for the BTC/USDT pair. The rewards available for the program are as following:
+Complete any 2 out of 4 tasks to equally split a prize pool of 2.5 BTC.
+Complete any 3 out of 4 tasks to equally split a prize pool of 4 BTC.
+Complete all 4 tasks to equally split a prize pool of 6 BTC.
+However, users who wish to participate in the rewards program should read the terms and conditions carefully. In accordance with the terms and conditions of Binance, the exchange reserves the right to cancel or change activities or rules at any time at its discretion. In addition, the exchange reserves the right to final interpretation of the program tasks. This means that Binance can determine whether a user has completed a particular task without the right to reply. Other conditions of the exchange are the following:
+A valid Binance Futures trade is deemed as either the opening or closing of a position on the BTC/USDT perpetual contract.
+Binance reserves the right to disqualify trades that are deemed to be wash trades or from illegal bulk registered accounts, self-dealing or display attributes of market manipulation, etc.
+Rewards will be distributed to eligible participants within 2 weeks of the competition ending. Users will be able to confirm receipt of the rewards via the “Distribution History” page in the Wallet page.
+As reported by CNF, Bitcoin’s halving is just a few hours away from being implemented. According to Binance, there has been a huge increase in interest in Bitcoin before the halving. The exchange stated the following:
+In the past few weeks, the extensive coverage on Bitcoin’s halving has drawn more traders and investors into the market. The surge in interest from investors in the cryptocurrency has elevated its market value by over 150% since bottoming out at $3,782 on March 13.

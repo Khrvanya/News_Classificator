@@ -1,0 +1,15 @@
+S2F Bitcoin Price Prediction Model as Accurate as Astrology, Says Exec
+Before crypto analyst PlanB released another ‘red dot’ for its stock-to-flow chart, critics of the prediction model were voicing skepticism.
+Prominent members of the crypto community continue to express skepticism over the stock-to-flow, or S2F, chart, a Bitcoin ( BTC ) price prediction model recently revised by analyst PlanB.
+Nico Cordeiro, Chief Investment Officer (CIO) at crypto quant fund Strix Leviathan, called S2F a “chameleon,” a term from Stanford professor Paul Pleifderer describing models built upon dubious assumptions.
+“The model’s accuracy will likely be about as successful at forecasting Bitcoin’s future price as the astrological models of the past were at predicting financial outcomes,” Cordeiro said.
+Cointelegraph reported on June 1 that PlanB had updated its signature chart , making it seem as though Bitcoin was on the cusp of a massive bull run leading to a $100,000 BTC price before the end of 2021. This was far from the $9,000–$10,000 range in which the token has remained for weeks.
+On July 1, analyst PlanB released a new red dot, indicating that two months have passed since the BTC rewards halving.
+Despite its model failing to predict BTC price movements in June with significant accuracy, PlanB continues to update revised versions of the S2F model for its 114,900 Twitter followers.
+An S2F analysis treats BTC as a commodity comparable to gold, an asset with a fixed supply. This assumes new supplies — the amount mined — are insignificant when compared with the existing supply.
+PlanB applies this same logic to Bitcoin: more of the tokens available to be mined are diminished by halvings roughly every four years, with a total supply fixed at 21 million BTC.
+Cordeiro has refuted the basis of the S2F model, saying it relies on the assertion that the United States dollar market capitalization of a commodity like gold is derived directly from its rate of new supply. According to its chief information officer, PlanB has not provided any evidence to support this idea. He also used statistical analyses that result “in a high probability of a researcher finding spurious results.”
+PlanB has responded to Cordeiro’s accusations on Twitter, saying he used “old and refuted” arguments for his claims.
+Though Cordeiro admits the S2F chart has achieved “viral popularity,” he attributes its success to Bitcoin enthusiasts hopeful for bulls, even calling out PlanB directly, “I forgot the accuracy of a model is dependent on the number of Twitter followers a researcher has.”
+The CIO isn’t alone in his skepticism. Ethereum co-founder Vitalik Buterin has asserted that the idea that Bitcoin halvings are creating price rallies is “unfalsifiable.”
+“Investors should be highly skeptical of this model even if they believe Bitcoin is digital gold,” Cordeiro says. “The SF paper is not proper empirical analysis, but more akin to a marketing piece in which the author is trying to convince readers that Bitcoin is going to be worth a lot more tomorrow. This may or may not turn out true, but it has little to do with Bitcoin’s supply schedule.”

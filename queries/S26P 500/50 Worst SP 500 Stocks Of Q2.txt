@@ -1,0 +1,5 @@
+This article looks at the worst performing decile of stocks in the S&P 500 last quarter.
+Laggards in the second quarter were driven by defensive stocks, including Utilities and Consumer Staples.
+The article also looks at full-year laggards, which still heavily feature companies from COVID-19 impacted sectors.
+By examining the tails of the return distribution, we can gain improved insight into different portfolio return drivers.
+The S&P 500 ( SPY ) had its best quarterly performance (+20.5%) since the fourth quarter of 1998. That means that there were limited "losers" with only 6 companies (1.2% of the index) producing a

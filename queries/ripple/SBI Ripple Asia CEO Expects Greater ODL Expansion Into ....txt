@@ -1,0 +1,12 @@
+According to CEO Adam Traidman, SBI Ripple Asia is conducting trial and pilot projects in Asia for Ripple’s On-Demand Liquidity.
+Asia may be the next proving ground for crypto firm Ripple to reach with its cross-border payments corridor.
+In a June 18 interview on the YouTube channel Thinking Crypto, Adam Traidman, CEO of SBI Ripple Asia—a subsidiary of Japanese financial services giant SBI Holdings—said Ripple has started to roll out its On-Demand Liquidity (ODL) solution in Asia.
+According to Traidman, SBI Ripple Asia has started “limited trial and pilot projects” with various companies for Ripple’s payment corridor, with greater expansion forecast for 2021.
+“I expect that probably later this year, and into next year, things are going to move into wider spread production,” Traidman said. “I expect remittance companies that were restricted in growth because they have pre-funding requirements, they have a lot of capital—they’re going to have a lot more flexibility.”
+Ripple’s ODL solution—a payment corridor using Ripple’s native token, XRP , as a bridge currency—can effectively reduce the cost and delivery time for cross-border transfers, which often take more than one business day to settle. According to Traidman, this eliminates the possibility of currency fluctuations and pre-funding requirements in transfers.
+However, he says it isn’t the best solution for every country:
+“In Japan, sending money is very expensive. In the U.S., it’s not as expensive. That’s why you don’t see Ripple replacing ACH [Automated Clearing House] in the U.S. right now. The [ODL] technology is much more suited for cross-border payments where the costs are a lot higher [..] Ripple’s tech is great in Asia and very successful in South America.”
+The ODL network is rising in usage. Ripple’s ODL payments network tripled in transaction volume over Q1 2020, while the USD value transacted using ODL increased by more than 294%.
+Cointelegraph has reported many countries in Asia are already using Ripple’s blockchain-based financial services network RippleNet for cross-border payments, including South Korea and Bangladesh.
+However, other remittance services like London-based Azimo have also been employing ODL to countries in Asia. The company has been working on a payments corridor between Europe and the Philippines.
+“Asia happens to be a lot more progressive when it comes to all sorts of payment rails,” Traidman said.

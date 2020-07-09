@@ -1,0 +1,67 @@
+TD Ameritrade’s futures products include metals, currency, grains, stock index, energy, softs, forest and live stock.
+Futures traders will also benefit from the brokers futures news updates to help you stay current and informed at all times.
+TD Ameritrade’s Network hosts live daily TV programs through the day about futures education, market trends, trading ideas and insights.
+The brokers show, Futures with Ben Lichtenstein, analyzes the latest updates on the futures markets to help you make the next best move.
+TD Ameritrade now offers futures traders micro E-Mini Index futures to allow traders to enter at a lower cost, including lower margin requirements, and to offer customers more diverse portfolios.
+Future traders will gain access to comprehensive education including, videos, webcasts and in-person events, and articles on a selection of futures topics, including Maximize Efficiency with Futures? A Capital Idea and Fun with Futures: Basics of Futures Contracts, Futures Trading.
+TD Ameritrade has included a futures trading experience in their top class trading platform thinkorswim to help you manage your trades better. You can also access the mobile app, so you can trade wherever you are.
+Futures traders can also use futures in an IRA account and options on futures in a brokerage account.
+TD Ameritrade’s customer service is accessible on most social platforms, including Facebook, Twitter, Amazon’s Alexa and Apple Business chat.
+The firms Ask Ted feature is a virtual investment consultant and offers customers a more real experience. Ask Ted is helpful and directs you towards the relevant information on the site. The broker also offers live chat on their Mobile Trader app.
+A futures contract is an agreement to buy or sell an asset in the future, at a later date. It’s the opposite of the spot market which is when deals are settled immediately, or on the spot.
+Futures contracts are good for assets that regularly change in value, such as oil.
+If a company wants to protect itself against the unpredictability of changing oil prices, it will take out a futures contract to get oil delivered at a future date for an agreed price per barrel.
+The futures market is a popular market for both companies who want to buy or sell commodities, and for speculative traders who want to profit from changing prices.
+Let’s look at futures a bit closer. As mentioned, futures contracts allow you to buy or sell a commodity at a specific price per unit, on an agreed date.
+We can use fuel for planes as an example of this. Airline companies will generally want to agree to a set fuel price so that they don’t have to deal with the hassle of it changing in value.
+One way of doing this is through a futures contract, which states that they will get a specific amount delivered at a future date at a pre-agreed price.
+Companies selling oil will favor futures contracts because it means that they can have a steady flow of sales, it also protects them if it decreases in value.
+As a whole, this contract benefits and protects both parties from a price change in the wrong direction.
+The contractual terms for a buyer of futures trades may be: To buy 40,000 barrels of fuel, for delivery on May 31st 2020, at $85.5 per barrel. If you’re still lost, we recommend this future which explains how futures contracts work (using corn as an example, rather than oil):
+As you can see from the last section, commodities play a huge part of the futures market, but there’s more to it than just buying and selling goods.
+You can also agree to a futures trade of individual stocks, shares of ETFs, bonds and even bitcoin .
+Traders may choose to trade futures because it can give them a strong position without having to pay a lot of cash.
+Investors may either buy an asset with the hope that it increases in value in the future, or short-sell with the hope that the price decreases later.
+Futures are most commonly known for being used in the U.S stock market. If an investor speculates that a stock may rise in price in the future then they may buy a long contract, also known as a long position, or going long.
+On the other hand, a trader who wants to protect itself from falling prices may short-sell a futures contract so that it can buy it back at a lower price later.
+The trader will either make a profit, or a loss, based on the difference in price that they sold the futures contract for and bought it at again.
+Bitcoin was launched in 2009 with a steady value of under $4,000 up until February 22, 2017 where it climbed exponentially to almost $20,000 before a rapid decline later that same year.
+This 10 month peak has been notably connected to the introduction of bitcoin futures trading on the Chicago Mercantile Exchange (CME) and is consistent with trading behaviours.
+This peak in February occurred the same day futures bitcoins started trading on the CME.
+Let’s begin by defining the two key kinds of demand that influence the price of a currency such as bitcoin: transactional and speculative.
+Transactional demand occurs when bitcoin is used in transactions, such as buying goods or services, and speculative demand occurs when traders buy bitcoins in the hope that it will increase in price in the future.
+For most currencies and assets, investors speculate an increase or decline in its value through several financial instruments related to the assets or currency itself.
+Prior to December 2017, there was no market for bitcoin derivatives. This made it almost impossible to speculate on the changing value of bitcoin.
+Traders generally speculate by short-selling which means to sell an asset before buying it, forward or futures contracts, swaps, or a mixture.
+To bet on a price increase in bitcoin, investors just needed to buy it. As a sort of self-fulfilling prophecy, optimists who speculated that bitcoins price would increase were on the money up until December 17.
+This demand for bitcoin made it more valuable which resulted in more people buying it and increasing its price.
+Those who believed that bitcoin would collapse didn’t bet money to back this up, so it was a one sided game that ultimately resulted in a profound 10 month rise in the bitcoin price.
+Futures belong to the group of financial derivatives along with options.
+Futures options are a great way to start trading as they can be a low-risk introduction to the futures markets without going head first into futures contracts.
+Buying options are not as risky or volatile as futures contracts and many traders solely trade options, but before you consider this, you should know the basics.
+An option gives you the right, not the obligation, to buy or sell a futures contract at a strike price before a particular date.
+When you buy options you can take either a long or short position and speculate on whether its value will increase or decrease.
+While the contract gives the buyer the right, but not the obligation, to buy or sell the underlying asset, the seller of the option could become obligated to buy or sell the asset if the buyer exercises, or executes, the option.
+If a trader thinks that the price of oil futures will increase over the next couple of months, they could buy an oil call option.
+Call options are long positions, and are used when traders think the price will increase over a longer period of time, similar to an insurance policy.
+An oil put option on the other hand, is similar to buying insurance in the belief that the asset will decrease in value. When traders buy options they are taking out insurance.
+Buying options are low risk because when you buy one you can only lose the premium you pay. When you sell an option your earnings are limited to the premium you initially receive, but your losses are unlimited.
+Day trading is buying and selling a futures contract within the same day, so that all positions are closed before the market closes for that trading day.
+The time between a trade’s opening and closing can be anywhere from a few minutes to the entire trading session.
+This can be a very difficult trade to make successfully and should only be attempted by traders with a lot of experience who understand the market well.
+As day trading brokers close the same day they open, there is no risk at night. Price volatility, the value of an asset changing, is increased when positions are left open overnight.
+If you want to get some experience in the futures market you can day trade as day traders tend to make several trades per day, day trading will give you some great experience in the futures market over a short period of time.
+You need to be disciplined, calm, focused and strategic to win at day trading. The futures markets can suck some traders into a hole of either making small trades or too many trades.
+Although you need to accept losses on some days, big wins should be more of a focus on key days.
+You will need to have a lot of money to start with when day trading, be aware that commissions can add up fast and that most days may be a loss.
+However, the key to success is to do your research, create a plan and adapt it and learn as you go.
+Trading stocks and futures have some minor similarities but overall they’re quite different. You can also call a broker to buy or sell futures contracts, but the order is facilitated through a commodity exchange, such as the Chicago Merchantile Exchange.
+Buying a stock will give you ownership over something, relative to the amount you paid, for example, you can buy a stock that will give to 1% ownership of a company.
+When you buy a futures contract you’re entering into an agreement to receive a commodity at a certain price per on a date in the future.
+Futures traders may never intend to own the commodity, just to sell the contract a profit if its value increases.
+Futures contracts also imply that you will pay at a later date as stated on the contact, where as stocks are paid for immediately.
+Overall, IG is our top choice overall for futures brokers, with CMC coming in a close second.
+That doesn’t mean you should discount the others. Saxo provides superb customer service, and Oanda is a good all rounder.
+Both Forex.com and TD Ameritrade offers an exceptional trading platform, but Forex.com doesn’t trade cryptocurrency in the U.S.
+Futures trading is a complex market, even for the most experienced traders, so make sure to check out the customer service and guidance a broker has to offer before you make your decision.
+All reviews, research, news and assessments of any kind on The Tokenist are compiled using a strict editorial review process by our editorial team. Neither our writers nor our editors receive direct compensation of any kind to publish information on TheTokenist.io. Our company, Tokenist Media LLC, is community supported and may receive a small commission when you purchase products or services through links on our website. Click here for a full list of our partners and an in-depth explanation on how we get paid.

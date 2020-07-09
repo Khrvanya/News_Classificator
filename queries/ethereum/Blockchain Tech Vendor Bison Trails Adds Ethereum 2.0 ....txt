@@ -1,0 +1,8 @@
+Please consider using a different web browser for better experience.
+Please enable JavaScript in your browser for a better site experience.
+Bison Trails' Viktor Bunin speaks with CoinDesk's John Biggs at ETHDenver. (Image via CoinDesk video)
+Blockchain technology firm Bison Trails announced its support for features of Eth2 ahead of Ethereum’s planned upgrade.
+In an announcement on Monday , the firm said it would support features such as ETH staking and automatically managed validator notes on the upgraded blockchain. A founding member of the Facebook-led Libra Association, Bison Trails provides blockchain infrastructure services to firms.
+Ethereum’s transition this fall will move the network from a proof-of-work consensus mechanism to a proof-of-stake one in order to improve scaling and reduce power requirements. Bison Trails said helping Eth2 launch was also an opportunity to secure the chain and earn staking rewards.
+The firm noted its software would manage client infrastructure automatically, thereby removing the need to manually manage participation when network requirements change.
+Bison Trails recently signed a deal with NEAR Protocol, the claimed “Ethereum Killer,” to host its validator set.

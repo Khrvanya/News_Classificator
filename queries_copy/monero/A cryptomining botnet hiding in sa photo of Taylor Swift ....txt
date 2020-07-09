@@ -1,0 +1,15 @@
+The largest crypto-mining botnet, MyKingz, was recently spotted again by Sophos' security researchers.
+Researchers have noticed that the botnet is now using an image of Taylor Swift to hide its malicious payload.
+The botnet is typically targeting Windows OS, where it installs the crypto mining app and then uses the victims' devices to mine Monero (XMR).
+According to recent reports, online criminals have been using a photo of a pop singer Taylor Swift to hide malware payloads. The photo was used to infect victims’ computers with malware and allow hackers to include the infected device to their crypto -mining botnet.
+The botnet’s name is MyKingz, although it is known under other names, including Smominru, Hexmen, and DarkCloud. It first emerged around two years ago, in the second half of 2017. It became well-known in the last two years for being the largest crypto-mining malware operation in the wild.
+Hackers behind the malware were mostly attacking Windows OS, in order to deploy crypto-mining apps from which they generated profit while using the victim’s computing power and other resources. The botnet is also infamous for having extremely diversified scanning and infection mechanisms among its kind.
+Whenever there is a flaw or an unsecured port to be exploited, the botnet will almost certainly get involved. Extreme scanning and infection capabilities allowed it to spread and grow extremely quickly. When it initially emerged, it supposedly managed to infect over half a million Windows systems within only a few months. Meanwhile, hackers earned over $2.3 million in Monero (XMR) .
+withdrawn. However, in the summer of this year, a number of new reports from
+company Sophos, the hackers seem to be experimenting with steganography, which
+is the ability to hide malicious files inside seemingly legitimate ones, such
+into allowing the malware to pass its defenses as a safe file, which is
+actually infected beneath the surface. This is not exactly a new technique, nor
+is the use of celebrities’ photos. However, malware gangs have mostly moved
+away from using such techniques on images, and are now using them on WAV audio
+A journalist, with experience in web journalism and marketing. Ali holds a master's degree in finance and enjoys writing about cryptocurrencies and fintech. Ali’s work has been published on a number of cryptocurrency publications. Raza is the co-founder of 5Gist.com, too, a site dedicated to educating people on 5G technology.

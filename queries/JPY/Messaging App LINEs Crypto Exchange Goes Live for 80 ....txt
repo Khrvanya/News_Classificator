@@ -1,0 +1,12 @@
+Please consider using a different web browser for better experience.
+Please enable JavaScript in your browser for a better site experience.
+Messaging app LINE has officially launched a cryptocurrency exchange service for its 80 million users based in Japan, days after the platform received final regulatory approval.
+The Shinjuku-based messaging provider, which is 73.36-percent owned by South Korea’s Naver, said in a statement on Tuesday that the new exchange, dubbed Bitmax, is now live with trading of five crypto assets: bitcoin (BTC), ethereum (ETH), ripple (XRP), bitcoin cash (BCH) and litecoin (LTC).
+According to the statement, the service was introduced in stages from 3 p.m. Japan time on Tuesday and is available first on Android devices. It can be accessed via the wallet tab on the LINE mobile app and is also integrated with LINE Pay to provide an easier Japanese yen fiat on-ramp process.
+LINE said in the announcement it currently has 81 million monthly active users in Japan and 164 million globally. It operates the crypto exchange through LVC Corporation, a subsidiary, which was awarded a cryptocurrency exchange license by Japan’s Financial Services Agency on Sept. 6.
+BITMAX is available to residents of Japan with a LINE account. No fees are charged for trading, though a charge of 108 yen will be applied for deposits and withdrawals.
+In terms of security, LINE said it utilizes a wallet developed by Palo Alto-based BitGo to segregate customer assets and store assets in a cold wallet, which is itself managed by a dedicated team.
+A strict KYC process is in place for new customers. Applicants can register their account with the app using an ID card and photographic capture, with a registered bank account and an ID or by mail.
+The new service will run separately from the company’s Singapore-based Bitbox, which has been in operation since July 2018 but excludes residents of Japan and the U.S.
+Jinhee Lee, Chief Innovation & Product Officer, at LINE’s unblock corp via CoinDesk archives
+The leader in blockchain news, CoinDesk is a media outlet that strives for the highest journalistic standards and abides by a strict set of editorial policies . CoinDesk is an independent operating subsidiary of Digital Currency Group, which invests in cryptocurrencies and blockchain startups.

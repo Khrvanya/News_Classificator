@@ -1,0 +1,12 @@
+Dubai-based crypto futures exchange BTSE plans to host the first-ever native exchange token sale based on Blockstream’s Bitcoin sidechain, the Liquid Network.
+Multi-currency and spot/futures exchange BTSE plans to host the first-ever native exchange token sale based on a Bitcoin ( BTC ) sidechain.
+The exchange seeks to raise $50 million, Finance Magnates reports on Dec. 10, with minimum investments set at $150,000.
+BTSE’s choice to host its offering on a Bitcoin sidechain sets it apart from other exchange tokens, which largely use either the Ethereum network or an in-house blockchain.
+Specifically, BTSE will release its token on the Liquid Network: a federated sidechain on the Bitcoin blockchain that functions as a settlement and payments network for crypto exchanges, market makers, brokers and other financial institutions.
+BTSE’s pitch deck reveals that the exchange will launch the token sale in March 2020, selling tokens at a price of $1 each, with tiered discounts and vesting options.
+The exchange indicates it will use the funds raised to develop its platform and liquidity depth, expand into lending, over-the-counter (OTC) and mining markets, and to drive user growth in order to increase its overall revenue.
+At present, BTSE’s revenue model depends on platform and debit card fees, OTC margins, lending and mining — the latter of which generates an expected return of 30% per annum, the document reveals. To manage circulation and scarcity, BTSE will tie its token into a buyback scheme, whereby:
+The pitch deck indicates that, aside from its buyback system, token scarcity will be encouraged by offering token holders incentives such as interest-bearing accounts, lower fees, and higher rebates.
+The Liquid Network, developed by blockchain infrastructure firm Blockstream , supports privacy features such as Confidential Transactions as well as atomic swaps , which enable the exchange of one token for another without the need for a trusted third party or centralized exchange infrastructure.
+As reported earlier this fall, BTSE launched Monero ( XMR ) futures trading, making it one of the first and only exchanges offering futures contracts on the privacy-focused altcoin.
+The exchange is licensed by the Department of Economic Development, Government of Dubai and operates under the regulatory oversight of the Central Bank of United Arab Emirates, according to its website.

@@ -1,0 +1,10 @@
+Litecoin development is active and progressing despite recent allegations, according to Litecoin founder Charlie Lee.
+Litecoin ( LTC ) founder Charlie Lee has addressed recent project abandonment allegations.
+In a series of tweets published on Aug. 10, Litecoin founder Charlie Lee addressed allegations that Litecoin did not have further plans for the coming year:
+“Recently there's been a lot of FUD about Litecoin having no code commits in 2019. When you look at Litecoin GitHub , it would seem like we did no work in 2019. There are actually 2 reasons why this is the case even though we have been developing.”
+The first reason Lee provided for the apparent lack of work on Litecoin is that most of the updates applied to Litecoin were originally developed for Bitcoin ( BTC ) and as such, only the original development dates appear. He explained:
+“What this means in practice is that although we did work on and release the latest Litecoin Core in May of 2019, if you look at GitHub, most of the commits where [sic] done in 2018. So it would seem like Litecoin developers took the year off.”
+The second reason provided is that Litecoin developers do not work on the master branch of the project on GitHub. This decision is meant to ensure that building from sources obtained from this branch do not return broken builds. Indeed, leading Litecoin developer Adrian Gallagher has been actively working on the Litecoin Core release 0.18.1 on a personal branch, according to Lee. He also stated:
+“In the 8 years history of Litecoin, we've only had a handful of core developers working on Litecoin Core.”
+As Cointelegraph reported yesterday, major cryptocurrency exchange Binance claimed that a dusting attack occurred against Litecoin. Per Binance’s post:
+At press time, Litecoin is up 5.41% on the day to trade at $87.87, according to data from Coin360 .

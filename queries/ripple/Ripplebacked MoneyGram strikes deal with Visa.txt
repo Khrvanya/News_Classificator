@@ -1,0 +1,8 @@
+MoneyGram—the money transfer company that Ripple has a $30 million stake in— announced yesterday a new debit card deposit service with Visa. The service, which works with Visa’s real-time payments platform, Visa Direct, will make it possible for MoneyGram customers to transfer money to over a billion Visa cards using MoneyGram.
+MoneyGram users will be able to send money to debit cards via the MoneyGram app or on its website. The cost of the service starts at $1.99 per deposit.
+"Visa and MoneyGram share a common goal of providing customers with a fast and reliable way to pay and be paid," said Bill Sheley, Global Head of Visa Direct.
+As it happens, Ripple, a company focused on using the XRP cryptocurrency, and MoneyGram, which is the second-largest money transfer company worldwide, also share that common goal.
+Ripple bought a $30 million stake in MoneyGram back in June. At the same time, MoneyGram committed to using its xRapid service which utilizes its much-vaunted asset XRP. MoneyGram CEO Alex Holmes said, in a recent earnings call , that the money transfer giant was already using the cryptocurrency to make cross-border payments and that it was highly effective.
+But will the new service utilize XRP?
+Well, in the past, Visa has made partnerships with crypto debit card companies only to later leave them in the dustheap . This would suggest that it wants to steer clear of any money that has ties to cryptocurrency. But, its recent partnership with Coinbase—which now offers a Visa crypto debit card—suggests that it is becoming more open-minded. And on top of that, Visa is investigating its own blockchain-based offering .
+So, it looks like the barriers are coming down. But it will be up to MoneyGram to decide how quickly.

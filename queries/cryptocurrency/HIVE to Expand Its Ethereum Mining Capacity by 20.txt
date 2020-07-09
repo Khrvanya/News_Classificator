@@ -1,0 +1,11 @@
+The company will spend $200,000 for every additional MW in capacity.
+HIVE Blockchain Technologies has announced its plans to expand its Ethereum mining facility in Sweden by 20 percent over the next six months.
+The crypto mining company is operating its facility in northern Sweden and operates with GPU-based mining hardware leveraging the cheap hydroelectricity available in the region.
+The announcement detailed that the expansion plan will be implemented in two phases over the next six months as it is aiming to expand more than 20 percent of the existing facility.
+The company is optimistic that this will increase the gross mining margin profile by leveraging the existing fixed cost base at the facility.
+Commenting on the prospect, Frank Holmes, interim executive chairman at HIVE , said: “We strongly believe in the future of Ethereum mining and are therefore strengthening and maximizing our core operation with this project.”
+HIVE also estimated that the expansion, including capital expenditure and GPU hardware, would cost the company around $200,000 per additional megawatt (MW) of capacity, while during the original development of its facility, the company spent $3.2 million per MW.
+With this, HIVE’s Swedish mining facility will increase by 10 percent in size, and the company will leverage its existing relationships with local suppliers, including energy suppliers and facility operator Blockbase Mining Group.
+As the crypto market rebounded, the demand in the mining sector is also increasing. Ethereum last month touched $286, however, with the slumping market again, the digital currency is now trading at around $171 apiece, per Coinmarketcap.com.
+“It is anticipated the Ethereum network will implement Progressive Proof of Work this year, which would effectively eliminate ASIC mining on the network thereby increasing the relative efficiency of GPU mining facilities,” Holmes added.
+“Additionally, GPUs provide us with the flexibility to identify and focus these computing resources on other existing and new cryptocurrencies if they become more profitable to mine, or for other high-efficiency computing applications.”

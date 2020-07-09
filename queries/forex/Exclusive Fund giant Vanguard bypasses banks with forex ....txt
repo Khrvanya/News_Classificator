@@ -1,0 +1,25 @@
+LONDON (Reuters) - Vanguard, the $5.6 trillion asset manager, plans to start using computer-run algorithms this year to trade FX directly with other funds, depriving banks of some of the fees they earn as the middlemen in currency deals.
+FILE PHOTO: A currency dealer in front of electronic boards showing the Korea Composite Stock Price Index and various currency rates at a dealing room of a bank in Seoul, South Korea, August 25, 2015.   REUTERS/Kim Hong-Ji/File Photo
+The head of FX trading at U.S.-based Vanguard, which trades about $225 billion in currencies each month, told Reuters the fund giant was in talks with several forex platforms about launching specialist algorithms designed to seek out and trade with other asset managers.
+It plans to start trading with such “algos” later in the year, Andy Maack, Vanguard’s FX trading head, said.
+Vanguard is also one of three institutional investors that last week executed the first transactions on a new facility, FX HedgePool, that lets managers trade FX swaps directly with each other for their end-of-month currency hedging needs.
+“It is going to reduce some dependency on the banks. It’s not going to replace the banks, but give real money managers new sources of liquidity,” Maack said in an interview.
+FX HedgePool co-founder Jay Moore said that the new swaps facility went live on Friday - executing several euro/dollar trades - but declined to comment on the names of the first managers to transact.
+Banks play a central role in oiling the $6.6 trillion-a-day forex industry by using their balance sheets and technology to link buyers and sellers, earning a “spread” on transactions. The biggest banks, which hold nearly half of worldwide forex trading, earned a combined $16.3 billion in revenue from FX trading in 2018, data from Coalition showed.
+But many investors worry that putting all their orders through banks requires them to give out too much information. The fear is that banks can read trading patterns and use that knowledge to trade against them or offer them worse pricing.
+Fund managers therefore are keen to reduce their “market impact” by spreading their dealings among different counterparties. They can also lower transaction costs by slashing the spread paid to banks.
+Previous attempts to get managers trading directly have struggled because investors have been reluctant to join new venues until there was sufficient trading already happening.
+But Vanguard’s move is a sign that peer-to-peer trading is gaining more traction. Improvements in technology and the growing concentration of FX turnover among a handful of banks is encouraging players to test new models.
+New regulations such as Europe’s MiFID II also require managers to demonstrate deals were done at the best price.
+Industry executives say Vanguard’s model, which sees it make regular, predictable transactions to hedge its vast passively-managed stock and bond portfolios, is better suited to the peer-to-peer model. Investors that take directional bets on currencies will be likely to find it harder to match with other fund managers.
+Algorithms play a growing role in the forex spot market - fund managers have doubled the share of their trading using algos over the past six years to 27%, Greenwich Associates found.
+Maack said Vanguard already uses algorithms that search for other buyside players when trading on bank-run platforms but would now use them on multi-dealer platforms, which include EBS, 360T and Refinitiv’s FxAll, and where asset managers are active.
+He declined to provide data on the share of Vanguard’s forex trading transacted with other funds but added: “It’s definitely growing. It didn’t exist a couple of years ago.”
+Aside from funds’ own efforts, several start-ups are trying to break banks’ hegemony.
+London-based Siege FX, for example, is building a matching system to check when one manager’s currency needs can be “netted” against another’s.
+FX HedgePool focuses on low-margin swaps that investors use for hedging their passively-managed portfolios. The members-only facility was co-founded last year by New York-based Moore, an ex-Brown Brothers Harriman and State Street executive.
+Moore said that its focus on end-of-month swaps meant that attracting an array of asset managers to its facility before launching was not necessary.
+“We don’t need critical mass. We need a small number of the right users,” Moore said.
+But the banks’ ability to offer better liquidity and pricing will help them retain their dominance in the forex business.
+They will also keep a crucial function in peer-to-peer deals by acting as credit counterparty, given FX is traded bilaterally rather than on exchanges. Standard Chartered Bank is FX HedgePool’s initial credit provider.
+“Banks will always play a role,” Vanguard’s Maack said. “[But] We want to customise our liquidity sources,” so it can “toggle” between different groups of buyers and sellers and better disguise what it is doing.

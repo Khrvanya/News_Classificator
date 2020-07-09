@@ -1,0 +1,32 @@
+India can consider spending forex reserves on healthcare, says Deutsche Bank
+1 min read . Updated: 20 Jun 2020, 09:40 AM IST Bloomberg
+Foreign investments have picked up in the past few months, while imports have fallen, boosting overall reserves
+India’s record-high foreign exchange reserves can be used to ramp up public health infrastructure, according to Deutsche Bank.
+The country’s reserves are set to rise by $30 billion by the end of March next year and this money can be used to upgrade India’s medical facilities, Kaushik Das, Deutsche Bank’s chief India economist based in Mumbai wrote. That would result in total reserves and foreign currency assets remaining at the current level of $501.7 billion and $463.6 billion respectively by the end of the fiscal year.
+India recently announced that its foreign exchange reserves had crossed half a trillion dollars, as the country’s central bank mopped up dollars from the currency market. Foreign investments have picked up in the past few months, while imports have fallen, boosting overall reserves.
+Das said that the idea of using FX reserves to fund public infrastructure was not new, but has not been implemented in the past due to inflation concerns and fears of sudden stops in foreign capital flow. But the unprecedented challenges brought on by the coronavirus pandemic may change this, he added.
+The lack of medical funding and infrastructure has weakened Asia’s third-largest economy’s fight against the virus, with the number of infections continuing to mount as the economy restarts after one of the strictest lockdowns was imposed in late March.
+“We think the idea at least merits serious debate at this juncture," wrote Das, noting that traditional monetary and fiscal policy support are likely to fall short in addressing growth.
+* Thank you for subscribing to our newsletter.
+Click here to read the Mint ePaperLivemint.com is now on Telegram. Join Livemint channel in your Telegram and stay updated
+You are now subscribed to our newsletters. In case you can’t find any email from our side, please check the spam folder.
+lozad('.lozad', { load: function(el) { el.src = el.dataset.src; el.onload = function() { el.classList.add('fade')}}}).observe()
+.myAccount .planSec, .myAccount a.LinkCTA{padding:16px; margin:16px; box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.1); background-color: #fff;}
+	       		var userData = data;
+	       		var name = userData.name;
+	       		var email = userData.email;
+	       		var signupSource = userData.source;
+	       		var subscribedAtOnce = userData.subscribedAtOnce;
+	       		var plan  = userData.plan;
+	       		document.getElementById('uName').innerHTML = "<strong>"+name+"</strong>" + email;
+		       		var status = planData.status;
+		       		var purchaseSource = planData.source_device;
+			       		var nextActivationDate = planData.current_term_ends_at;
+			       		var planDescription = planData.plan.description;
+			       		var planName = planData.plan.name;
+			       		var planPrice = planData.amount;
+			       		//var planInterval = planData.shipping_interval;
+			       		var planInterval = planData.duration;
+			       		var planUnit = planData.interval_unit;
+			       		//var html = "<strong>Your Subscription Plan</strong>"+planName+" ₹"+planPrice+" / "+planInterval+" " + nextBillingHtml + cancelHtml; 
+			       		var html = "<strong>Your Subscription Plan</strong> "+planDescription + " "+ planName +": ₹"+planPrice + " "+ nextBillingHtml + cancelHtml;

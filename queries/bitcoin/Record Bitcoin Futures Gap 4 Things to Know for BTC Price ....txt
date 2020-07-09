@@ -1,0 +1,19 @@
+What’s in a $1,200 drop? Bitcoin is serving up considerable volatility, but all factors point to business as usual as the third halving hits.
+Bitcoin ( BTC ) has delivered awe-inspiring volatility in the days before its third block reward halving — but what should traders look out for as the event hits?
+Cointelegraph takes a look at what factors to consider for traders and hodlers in one of the top-ranked cryptocurrency’s most important weeks so far.
+Monday is on track to open with seemingly the largest Bitcoin futures gap in history — over $1,200.
+Futures gaps occur when the start of one weekly trading session on futures markets is substantially different from where they left off at the end of the previous week.
+On Friday, BTC/USD circled $9,800 on CME Group’s futures trading. Currently, it is closer to $8,600.
+CME Bitcoin futures daily chart showing the latest gap. Source: TradingView
+Looking back, Bitcoin has a history of rising or falling to fill these futures “gaps,” and in this case, that would come in the form of a rebound.
+Just one day before the halving, it appears that Bitcoin miners are increasing activity. Despite markets’ $1,200 slump over the weekend, the hash rate is still lingering at all-time highs, data suggests.
+Two days ago, this was 109 quintillion ― a 15% decrease to match price performance has yet to be registered.
+Bitcoin hash rate (raw values) 1-month chart. Source: Blockchain
+Monday marks the last day that block rewards deliver 12.5 BTC per block. From Tuesday or even earlier, the reward will be 6.25 BTC.
+Bitcoin’s “hardening” as money is occurring at a time when the outlook for fiat money looks increasingly uncertain.
+As a result of rampant money printing in response to coronavirus, new warnings claim, a major episode of inflation awaits the United States and other major economies.
+While the virus itself is ebbing, the true impact of the financial cost is only beginning to attract public attention. As Cointelegraph reported , U.S. debt alone hit $25 trillion for the first time in history last week.
+Regardless of volatility in Bitcoin this week, price-performance is still broadly in line with predictions made by one of the industry’s best-known models.
+According to stock-to-flow’s predictions, the current BTC/USD price of $8,800 is perfectly acceptable and does not suggest anything out of the ordinary.
+Bitcoin stock-to-flow chart as of May 11. Source: PlanB/ Digitalik
+Perhaps uniquely accurate at charting price, stock-to-flow even accommodated markets’ 60% drop in March.

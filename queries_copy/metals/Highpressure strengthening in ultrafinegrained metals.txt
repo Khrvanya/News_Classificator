@@ -1,0 +1,15 @@
+Zhou, X. et al. Reversal in the size dependence of grain rotation. Phys. Rev. Lett. 118, 096101 (2017).
+Chen, B., Zhu, L., Xin, Y. & Lei, J. Grain rotation in plastic deformation. Quantum Beam Sci. 3, 17 (2019).
+Singh, A. K., Balasingh, C., Mao, H.-k., Hemley, R. J. & Shu, J. Analysis of lattice strains measured under nonhydrostatic pressure. J. Appl. Phys. 83, 7567 (1998).
+Lutterotti, L., Vasin, R. & Wenk, H.-R. Rietveld texture analysis from synchrotron diffraction images. I. Calibration and basic analysis. Powder Diffr. 29, 76–84 (2014).
+Wang, H., Wu, P., Tomé, C. & Huang, Y. A finite strain elastic–viscoplastic self-consistent model for polycrystalline materials. J. Mech. Phys. Solids 58, 594–612 (2010).
+Ebrahimi, F., Bourne, G., Kelly, M. S. & Matthews, T. Mechanical properties of nanocrystalline nickel produced by electrodeposition. Nanostruct. Mater. 11, 343–350 (1999).
+Yamakov, V., Wolf, D., Phillpot, S., Mukherjee, A. & Gleiter, H. Deformation-mechanism map for nanocrystalline metals by molecular-dynamics simulation. Nat. Mater. 3, 43 (2004).
+Van Swygenhoven, H., Derlet, P. & Frøseth, A. Stacking fault energies and slip in nanocrystalline metals. Nat. Mater. 3, 399–403 (2004).
+Zhu, Y., Liao, X. & Wu, X. Deformation twinning in nanocrystalline materials. Prog. Mater. Sci. 57, 1–62 (2012).
+Zepeda-Ruiz, L. A., Stukowski, A., Oppelstrup, T. & Bulatov, V. V. Probing the limits of metal plasticity with molecular dynamics simulations. Nature 550, 492–495 (2017).
+Li, B., Li, B., Wang, Y., Sui, M. & Ma, E. Twinning mechanism via synchronized activation of partial dislocations in face-centered-cubic materials. Scr. Mater. 64, 852–855 (2011).
+Wang, J. & Huang, H. Shockley partial dislocations to twin: another formation mechanism and generic driving force. Appl. Phys. Lett. 85, 5983–5985 (2004).
+Zhang, Z., Huang, S., Chen, L., Zhu, Z. & Guo, D. Formation mechanism of fivefold deformation twins in a face-centered cubic alloy. Sci. Rep. 7, 45405 (2017).
+Thompson, A. A. W. Yielding in nickel as a function of grain or cell size. Acta Metall. 23, 1337–1342 (1975).
+Hughes, D. & Hansen, N. The microstructural origin of work hardening stages. Acta Mater. 148, 374–383 (2018).

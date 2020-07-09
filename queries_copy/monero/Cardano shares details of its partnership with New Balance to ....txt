@@ -1,0 +1,10 @@
+Priyeshu Garg · October 18, 2019 at 4:47 pm UTC · 2 min read
+IOHK, the company behind the decentralized blockchain platform Cardano, announced that it has partnered with sneaker giant New Balance. The two companies will work together to create NB Realchain, a blockchain for confirming the authenticity of New Balance’s retail products.
+Input-Output Hong Kong (IOHK), the company behind the ambitious blockchain project Cardano, is now focusing on real-life uses for blockchain technology. Charles Hoskinson , the CEO of IOHK, first announced the collaboration with New Balance during the Cardano Summit in Bulgaria in late September, but both companies have kept mostly silent on the matter until now.
+In an Oct. 17 blog post, IOHK finally shared more news about its partnership with the sneaker giant. According to the blog post, the two companies teamed up to create NB Realchain, a pilot authentication system aimed at protecting the authenticity of its collector’s edition shoes.
+The new system will enable users to enter their New Balance purchases on the Cardano blockchain. The immutable and transparent nature of blockchain technology will allow anyone to easily access the data and confirm whether a certain product is authentic.
+IOHK said it was excited about its “important” collaboration with New Balance.
+“Bringing blockchain technology to global brands and mainstream retailers is a big step for decentralized technologies,” the company said in its blog post.
+NB Realchain represents the first commercial deployment of IOHK’s Cardano blockchain, which is a huge step forward for a company that has been known for slow development and constant product delays.
+While it’s not the first time blockchain technology has been used to verify the authenticity of products, as companies such as LVMH have already employed a similar system, it’s a step in the right direction for Cardano.
+The company said it plans to look for more opportunities to partner with other industry leaders for authenticating goods and products, as well as use its existing partnership with New Balance to launch other services.

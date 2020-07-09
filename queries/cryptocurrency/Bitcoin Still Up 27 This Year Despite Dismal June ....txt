@@ -1,0 +1,18 @@
+Please consider using a different web browser for better experience.
+Please enable JavaScript in your browser for a better site experience.
+Bitcoin (BTC) is still outperforming the top traditional financial assets so far in 2020 – even after a dour performance this month.
+At time of writing (10:00 UTC), bitcoin is trading around $9,170, representing a 27.8% gain on a year-to-date (YTD) basis, according to CoinDesk’s Bitcoin Price Index .
+Meanwhile, gold and the U.S. Dollar Index, which tracks the value of the greenback against major currencies, are reporting 16% and 5.4% gains for 2020, respectively. The S&P 500 index and oil prices are in the red YTD at -5.5% and -34.22%, respectively, as per data source Skew .
+While bitcoin’s YTD performance looks impressive, on a monthly basis the cryptocurrency is being outshone by most of the other assets included in the chart.
+At press time, bitcoin is down over 3% from the opening price of $9,444 observed on June 1, having rallied by 34% and 9.5% in April and May, respectively.
+“We are in a post-halving price action lull, but investor and on-chain activity has been strong,” said Kyle Davies, co-founder and chairman at Three Arrows Capital.
+Bitcoin underwent its third mining reward halving on May 11. The event was expected by some to accelerate price gains; however, strong buying pressure has remained elusive so far, with the cryptocurrency restricted largely to the narrow range of $9,000 to $10,000 since mid May.
+“Grayscale saw record subscriptions of 19,000 bitcoin in the latest 2 week period ending 24-Jun,” said Davies, whose firm is the biggest public shareholder in GBTC. In May, the trust accumulated 1.5 times the total of coins mined since the May 11 halving.
+Grayscale is a fully owned subsidiary of Digital Currency Group, CoinDesk’s parent firm.
+Onchain metrics are also painting a long-term bullish picture. For instance, the percent of bitcoin’s circulating supply that has not moved in at least 12 months reached a record high of 61.59% on Monday. The figure surpasses the previous lifetime high of 61.13% seen in January 2016, according to data provided by the blockchain intelligence firm Glassnode .
+“The data shows that we are in a period of sustained HODLing. The last time the number of coins last active 1+ years ago exceeded 60% was in early 2016, just before the price started increasing ever-more-rapidly leading up to the bull run to $20K,” analysts at Glassnode said in a weekly analysis.
+Other on-chain activity is also picking up pace due to the recent explosive growth of decentralized finance (DeFi). “ Bitcoin tokenized on Ethereum has passed 11,000 (more than $100 million) and fees on Ethereum’s network have reached record highs due to increased tether and Defi transactions,” said Davies. “This will eventually impact market prices.”
+While investor flows and on-chain metrics are supportive of stronger gains in bitcoin, seasonal patterns favor a minor correction.
+As can be seen, bitcoin has posted losses in the third quarter in four out of the last six years. On most occasions, the negative third-quarter performance is preceded by stellar gains in the April to June period.
+Disclosure: The author holds no cryptocurrency assets at the time of writing.
+The leader in blockchain news, CoinDesk is a media outlet that strives for the highest journalistic standards and abides by a strict set of editorial policies . CoinDesk is an independent operating subsidiary of Digital Currency Group, which invests in cryptocurrencies and blockchain startups.

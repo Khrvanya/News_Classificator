@@ -1,0 +1,44 @@
+[Click here to read what’s moving markets heading into Tuesday, June 22]
+Monday’s market moves came on the heels of choppy equity trading sessions last week. The S&P 500 and Dow dipped at the end of last week but held onto weekly advances after Apple said it was closing retail stores in states where Covid-19 cases were spiking anew . Apple shares reversed Friday’s losses and rose more than 1% Monday morning.
+A number of states continued to struggle this weekend with rising coronavirus cases as businesses reopen, with states across the South, West and Midwest hit especially hard. California on Sunday reported a record 4,515 new cases in a 24-hour period, marking the highest so far in one day for the state during the pandemic. Cases in Florida rose by a single-day record of 4,049 based on Saturday’s tally. Cases reported Sunday increased by another 3,494 and on Monday by 2,926, bringing the state’s total to more than 100,000.
+States including Arizona, Nevada, Missouri, South Carolina, Montana and Utah also saw cases rise by one-day records this weekend, stoking concerns of a broad-based resurgence in the pandemic that could threaten to stunt the nation’s reopening process.
+Other regions that had been locked down longer, however, prepared to press ahead with easing stay-in-place orders this week. New York City is set to enter Phase Two of its reopening process on Monday, giving consumer access to hair salons, in-store shopping and outdoor seating at restaurants. An estimated up to 300,000 workers will return to their jobs with this phase of opening in one of the .
+New economic data reports have underscored an at least temporary firming of activity as states reopen and allow daily life to inch back toward some form of normalcy. The latest flare-ups in virus cases, however, threatened the pace at which economic activity would move in a more positive direction.
+“Our analysis identifies several states that are demonstrating worrying trends according to both the breadth and intensity of the Covid outbreak, including Arizona, Alabama, California, Florida and Georgia, among others,” Deutsche Bank economist led by Justin Weidner wrote in a note on Friday. “These trends continue to point to the presence of downside risks to the economic outlook from the pandemic.”
+“However, whether these risks materialize into softer economic activity depends on whether reopening is rolled back either officially, which is likely to be closely tied to possible strains on hospital capacity, or due to a change in behaviors that reasserts social distancing practices,” they added.
+4:03 p.m. ET: Stocks close choppy session higher, Apple hits record after announcing departure from Intel chips
+Here were the main moves in markets as of 4:03 p.m. ET:
+Apple ( AAPL ) shares surged to an all-time high of $359.22 after the company announced at its Worldwide Developers Conference that it would end its 15-year partnership with Intel and make its own chips for its MacBook and iMac products.
+Virgin Galactic ( SPCE ) shares jumped more than 14% in intraday trading Monday after the company said it had inked a deal with NASA to work on private trips to the International Space Station.
+Private experiences to the International Space Station “could range from private citizen expeditions to government-enabled scientific research missions,” the company said in a statement.
+Credit Suisse chief U.S. equity strategist Jonathan Golub on Monday raised the firm’s year-end price target for the S&P 500, following the stock market’s recent run-up since late March as governments stepped into to help buoy the virus-stricken economy.
+“In March, with the market at its 2020 lows, we lowered our price target to 2,700, calling for a 21% rebound from depressed levels. Given the size, speed and impact of the government’s response, stocks have jumped 38% over the past 3 months,” Golub said in a note.
+“With downside risks less ominous, and rates likely to remain suppressed, we believe multiples will remain elevated,” he added. “Our updated 2020 year-end price target of 3,200 best reflects the above views, and is based on a 20.6x P/E [price/earnings multiple] on our EPS [earnings per share] forecast of $155 for 2021.”
+Golub said he expects it will take about three years for stocks to return to pre-crisis EPS levels. However, he increased the firm’s 2021 and 2022 EPS estimates by $5 each to $155 and $170, respectively, while maintaining the firm’s 2020 estimate for $125.
+Here were the main moves in markets about two hours into the trading day:
+S&P 500 ( ^GSPC ): 3,101.01, +3.27 points (+0.11%)
+Dow ( ^DJI ): 25,867.73, -3.73 points (-0.01%)
+Nasdaq ( ^IXIC ): 9,989.33, +43.20 points (+0.43%)
+Gold ( GC=F ): $1,770.70, +$17.70 (+1.01%)
+10:19 a.m. ET: Stocks shake off earlier losses, three major indices rise
+The S&P 500, Dow and Nasdaq pushed into positive territory Monday morning after opening mostly lower.
+The utilities and information technologies sectors led gains in the S&P 500. Travel and leisure stocks fell anew, with each of American Airlines, United Airlines, Delta, Carnival Corp., Norwegian Cruise Line Holdings and Wynn Resorts lower.
+10:00 a.m. ET: Existing home sales fall more than expected in May, hitting the lowest level since 2010
+Existing home sales declined by 9.7% in May over April to a seasonally adjusted annual rate of 3.91 million, the National Association of Realtors said Monday. The result, which was below consensus expectations for a drop of 5.6% to 4.09 million, underscored protracted weakness for the housing market as the coronavirus pandemic kept potential buyers on the sidelines. The number of sales of previously owned homes was at the lowest since 2010 in May.
+In April, existing home sales declined by 17.8% month on month to a seasonally adjusted annual rate of 4.33 million. May’s decline marked the third straight month of month-on-month drops for sales of previously owned homes.
+“Sales completed in May reflect contract signings in March and April – during the strictest times of the pandemic lockdown and hence the cyclical low point,” said Lawrence Yun, NAR’s chief economist. “Home sales will surely rise in the upcoming months with the economy reopening, and could even surpass one-year-ago figures in the second half of the year.”
+Here were the main moves in markets, as of 9:34 a.m. ET:
+S&P 500 ( ^GSPC ): 3,084.12, -13.62 points (-0.44%)
+Dow ( ^DJI ): 25,715.21, -156.25 points (-0.6%)
+Nasdaq ( ^IXIC ): 9,932.09, -14.03 points (-0.14%)
+Gold ( GC=F ): $1,769.70, +$16.70 (+0.95%)
+Stock futures turned around during overnight trading and held onto gains heading into market open. Here were the main moves in markets, as of 7:27 a.m. ET:
+S&P 500 futures ( ES=F ): 3,075.5, up 16 points or 0.52%
+Dow futures ( YM=F ): 25,632.00, up 103 points, or 0.4%
+Nasdaq futures ( NQ=F ): 9,983.75, up 60.25 points, or 0.61%
+Gold ( GC=F ): $1,758.80, +$5.80 (+0.33%)
+Here were the main moves at the start of the overnight session for U.S. equity futures, as of 6:07 p.m. ET:
+S&P 500 futures ( ES=F ): 3,034.25, down 25.25 points or 0.83%
+Dow futures ( YM=F ): 25,260.00, down 269 points, or 1.05%
+Nasdaq futures ( NQ=F ): 9,852.25, down 71.25 points, or 0.72%
+Traders wearing masks work, on the first day of in person trading since the closure during the outbreak of the coronavirus disease (COVID-19) on the floor at the New York Stock Exchange (NYSE) in New York, U.S., May 26, 2020. REUTERS/Brendan McDermid

@@ -1,0 +1,41 @@
+According to data from Coinmarket cap, the digital coin has experienced growth exponentially.
+As global investors seek the next big thing in the crypto asset space, fast-growing cryptocurrency, USDC, a stablecoin project founded by Circle and Coinbase, just released a whopping 20 million digital coins to an unknown wallet. This is according to Whale Alert, an advanced blockchain tracker, and analytics system.
+— Whale Alert (@whale_alert) July 3, 2020
+Crypto lovers seem to be trooping to stablecoins lately, as USD Coin’s (USDC) market cap broke the $1 billion market capitalization threshold for the first time since the stablecoin was launched in October 2018.
+Quick Fact: USDC is a fully collateralized US dollar stablecoin. It is an Ethereum powered coin and is the brainchild of CENTRE, an open source project bootstrapped by contributions from Circle and Coinbase. USDCs are issued by regulated and licensed financial institutions that maintain full reserves of the equivalent fiat currency in a 1 USDC:1 USD ratio.
+Things you must know: Investors of stablecoins, such as USDC, make money by earning dividends from the newly created digital coins being given to them for holding such stablecoin stock.
+According to data from Coinmarket cap, the digital coin has experienced growth exponentially.
+USDC, the second-largest USD-pegged stablecoin after Tether (USDT), is ranked the 18th largest cryptocurrency by market cap, with a daily trading volume of $246 million.
+Olumide Adesina a French-born Nigerian, an Investment Professional at Nairametrics Financial Advocates, owners of Nairametrics.com. 
+He is a Certified Investment Trader, with more than a decade working expertise in Investment Trading.
+A member of the Chartered Financial Analyst Society.
+Your email address will not be published.
+BTC Miners help in facilitating BTC transactions and the provision of security on the blockchain network.
+BTC miners, hard work seems to be paying off, with billions of dollars going to their coffers, Data obtained from Glasscode showed that BTC miner revenue (“Thermocap“) is now at $17.5 billion USD. This metric is used as a lower bound for the capital inflow into an asset.
+Cumulative #Bitcoin miner revenue ("Thermocap") is now at $17.5 billion USD.
+This metric is used as a lower bound for the capital inflow into an asset.
+Comparison of Thermocaps since 2018: $BTC : $12.6B $ETH : $4.9B $LTC : $932M $BCH : $810M
+— glassnode (@glassnode) July 3, 2020
+Mining is the process of adding confirmed transactions to the Bitcoin blockchain. For the resources required to mine, the blockchain network rewards BTC miners via transaction fees and subsidies. Subsidies are paid per block at a current rate of 6.25 BTC. Fees are paid per transaction.
+READ ALSO: QKC: fastest rising crypto asset in 30 days, gains 100%
+Aggregate security spends, or “Thermocap“, is the aggregated amount of coins paid to miners and serves as a proxy to mining resources spent. It serves as a measure of the true capital flow into Bitcoin and is computed as the aggregate Coinbase transactions multiplied by the price in USD at the time they were mined.
+Quick fact; BTC Miners help in facilitating BTC transactions and provision of security on the blockchain network. The importance of BTC miners can’t be underestimated as they perform these functions, by solving computational tasks which permit them to chain together blocks of transactions
+By mining BTC, you can earn a BTC without having to pay money for such. BTC miners collect BTC as a reward for completing “blocks” of confirmed transactions which are added to the blockchain network.
+It shows that BTC is fast gaining the trust of Nigerians for payments and transfers.
+Nigerians increasing their use of BTC is no longer news, but what seems astonishing is the volume that Nigerians transacted with BTCs in Q2 2020, compared to other African countries. Data shows that the use of Bitcoin for peer to peer lending in Nigeria is on an astronomical run.
+Recent statistics obtained from usefultulips, a BTC analytic data provider, showed that Nigeria led the pack with more than $34.4 million, while the closest rival, South Africa, had a transactional value of just $15.2 million during the last 90 days.
+Among top countries in the last 90 days leading in peer to peer Bitcoin transactional trades on the African continent are:
+Quick Facts: In BTC’s case, peer to peer is the exchange of BTC between parties (such as individuals) without the involvement of a central authority. This means that peer to peer use of BTC takes a decentralized approach in the exchange of Bitcoins between individuals and groups.
+It shows that BTC’s long-running narrative as the “digital gold” for hedging against global economic turmoil is gaining the trust of Nigerians for payments and transfers.
+The financial market turmoil triggered by COVID-19 has definitely changed the way Nigerians view the whole financial system, as data also obtained from Google trend shows Nigeria leading the pack around the world in Bitcoin searches. This is a testament to the fact that Nigerians truly love their Bitcoins.
+Ripple (XRP) plays dual roles as a payment platform and a currency.
+Popular payment based crypto company, Ripple, which controls the fourth most valuable cryptocurrency by market capitalization, recently unlocked 1 billion XRP, worth about $177.6 million, from an escrow account.
+Whale Alert monitored this movement, which occurred in two different 500 million XRP transactions, in real-time.
+— Whale Alert (@whale_alert) July 1, 2020
+Ripple owns more than half of the total supply of XRP. In late 2017, the company vowed not to sell all of its tokens (XRP) at once, keeping up to 55 billion XRP in protected escrow accounts.
+READ MORE: AfDB board denies asking Adesina to step down, as Obasanjo says the bank risks being hijacked
+It then set up a plan to release about 1,000,000,000 XRP monthly for sale to be used as funding for its operations, and to invest in startups of interest, with the rest kept back in the escrow accounts.
+Quick fact: Ripple (XRP) plays dual roles as a payment platform and a currency. The platform is an open-source platform that is created to allow quick and cheap transactions.
+Unlike its crypto rival, Bitcoin, which was never intended to be a simple payment system, Ripple has gained the attention of major global banks, like Standard Chartered, and Barclays for international transactions worldwide.
+Recall that a few months ago, the U.S Consumer Financial Protection Bureau looked excited about Ripple as a tool for bringing simplicity and openness to the financial industry.  It said:
+“To the degree banks and credit unions increase their reliance on closed network payment systems for sending remittance transfers and other cross-border money transfers, the Bureau notes that this could result in greater standardization and ease by which sending institutions can know exact covered third-party fees and exchange rates.

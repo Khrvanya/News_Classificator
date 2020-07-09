@@ -1,0 +1,11 @@
+With 90 Percent of Monero Mined, Attention Turns to ‘Tail Emission’ From 2022
+Monero will feature tiny block rewards after the whole supply is mined, which will continue indefinitely.
+Miners have now extracted 90 percent of privacy-focused cryptocurrency Monero (XMR) and will net the remainder by May 2022, data from monitoring resource Monero Blocks confirmed Dec. 20.
+Monero — whose developers place anonymity and untethered usage of coins as a priorities — will have an ultimate supply of 18.4 million XMR.
+So far, a total of 16,659,407 XMR is available.
+Unlike Bitcoin (BTC) — which has a fixed supply once all coins are mined — Monero will continue generating tiny 0.6 XMR block rewards infinitely after 2022, a feature known as “tail emission.”
+This is to ensure miners have an incentive to keep the network secure, reference bank Moneropedia explains, stating:
+“Because of the dynamic blocksize, competition between miners will cause fees to decrease. If mining is not profitable due to a high cost and low reward, miners lose their incentive and will stop mining, reducing the security of the network. Tail emission ensures that a dynamic block size and fee market can develop.”
+Despite the feature, it is unlikely Monero will become an inflationary cryptocurrency, due to the technically unlimited issuance of 0.6 XMR per block. Lost or burned coins will likely equal more than the block reward within the same period.
+After controversy over tail emission during this year’s contentious hard fork , Monero has fought off negative publicity, despite its anonymity meanwhile making it a favorite of hackers and cybercriminals.
+As Cointelegraph reported this fall, ‘ cryptojacking ’ — the process by which hackers use a device to secretly and remotely mine cryptocurrency without the owner’s knowledge — has jumped in prevalence in 2018. Cryptojackers generally prefer to mine anonymity-focused coins, such as Monero, according to reports.

@@ -1,0 +1,13 @@
+Yes, for forex (for IG professional accountholders only) and share CFDs.
+Is CFD trading cheaper than share trading?
+CFD trading requires less capital upfront than share trading because it is a leveraged product. When you buy a physical share, you are paying the full cost of the asset upfront. When you trade CFDs, on the other hand, you will only be required to put up a percentage – known as a margin – which means you can access a position of equivalent size for less money. However, it is important to remember that your total exposure will be the same with both, so while leverage can magnify profits, it can also magnify losses.
+The charges for share trading and CFD trading also differ. When you trade share CFDs with IG, you trade at the real market price. This means that there’s no spread – instead, you’ll only pay commission, and the costs of any funding adjustments or overnight fees. When you buy shares, you’ll need to pay commission and may need to pay a custody fee (dependent on your trading activity), along with any applicable charges and taxes charged by the country where the share is listed. Our fees and charges are set out in full on the CFD charges and share trading charges pages.
+Can I use CFDs to hedge my share positions?
+Yes, you can use CFDs to hedge your share positions. CFDs give you the opportunity to go short on markets, so they can be a great way to hedge short-term volatility by taking a position in the opposite direction of your share position.
+If the market does fall in value, the loss to your share position would be offset by gains in your short CFD share trade. However, if the share price had increased instead, then you could close your CFD position and any losses would be offset by profits to your shareholding.
+Is there a settlement period when closing a CFD position?
+No, CFDs don’t have a settlement period. When you trade CFDs your profit or loss is calculated straight away when you close your position, which makes it much easier to enter and exit trades quickly.
+Are CFDs subject to the same settlement period as shares?
+Settlement is the point at which cash is paid, or received, in exchange for shares. For share trading it can take two or three business days after the transaction, before the money will enter or leave your account.
+With CFDs, as you will not be taking physical ownership of the shares, there is not the same period of payment and payment can be settled straight away.
+Learn about the benefits of CFD trading and see how you get started with IG.

@@ -1,0 +1,13 @@
+Researchers believe that the number of affected servers is significantly higher than the visible ones.
+A group of hackers has targeted thousands of enterprise computers to illegally mine cryptocurrencies , security firm Red Canary found out.
+First reported by ZDNet on Monday, the hacker group Blue Mockingbird has been pushing the malware since last December, which was discovered by the Colorado-based security firm earlier this month.
+The hackers are specifically targeting public-facing servers running ASP.NET apps using the Telerik framework for their user interface (UI) component. Exploiting the CVE-2019-18935 vulnerability, they plant a web shell on the attacked server and then use the so-called Juicy Potato technique to gain admin-level access.
+After gaining access to the servers, the hackers download and install XMRRig, a popular Monero mining application.
+If the public-facing server is connected to the company’s internal network, the hackers also try to push the malware miner to the entire network.
+Did COVID-19 Save the Forex Industry? Go to article >>
+“Like any security company, we have limited visibility into the threat landscape and no way of accurately knowing the full scope of this threat,” a spokesperson from the security company told ZDNet.
+“This threat, in particular, has affected a very small percentage of the organizations whose endpoints we monitor. However, we observed roughly 1,000 infections within those organizations, and over a short amount of time.”
+Illegal crypto-mining is nothing new, and even websites with massive traffic were using the shady technique to monetize their platform.
+Given Monero’s anonymity feature and the ability to mine the cryptocurrency with ideal CPU power, it is the favorite among hackers.
+Finance Magnates earlier reported that the hackers are using many techniques to conceal the mining process in the affected computers during any inspection.
+Recently, hackers also infiltrated the servers of blogging platform Ghost and tech firms LineageOS and Digicert to illegally mine Monero.

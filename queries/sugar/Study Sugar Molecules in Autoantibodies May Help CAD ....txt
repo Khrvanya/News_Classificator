@@ -1,0 +1,24 @@
+The autoantibodies found in people with cold agglutinin disease (CAD) carry high levels of sugar molecules, which may help distinguish them from those with related disorders, a study has found.
+The study, ““ Glycosylation of Immunoglobulin Light Chains is Highly Prevalent in Cold Agglutinin Disease ,” was published in the American Journal of Hematology.
+CAD is characterized by abnormal destruction of red blood cells, which is caused by autoantibodies — those that target a person’s own tissues and cells — upon exposure to cold temperatures. Such autoantibodies, known as cold agglutinins, are of the immunoglobulin M (IgM) type, typically the first type produced to fight a new infection.
+However, the mechanisms that link IgM antibodies to red blood cell destruction in CAD patients remain poorly understood. This is particularly important considering that such antibodies also are found in people with other monoclonal gammopathies (abnormal proteins in the blood), but who do not experience similar immune system activation.
+Researchers at Stanford University in California and the Mayo Clinic in Rochester, Minnesota, hypothesized that a process called glycosylation , through which glycans (sugar molecules) are added to IgM antibodies, might underlie the immune attack.
+They measured the amount of glycans by a mass spectrometry technique, called MASS-FIX, used routinely in clinical care.
+In total, the researchers analyzed 438 patients with detectable IgM, 14 of whom had CAD (3%). Among the remaining patients, the most common disorders were monoclonal gammopathy of undetermined significance (MGUS, 206 patients) and Waldenström macroglobulinemia (WM, 132 patients).
+Glycosylation was detected in 31 patients (7%). Its frequency was significantly higher in the CAD group, affecting nine patients (64%) compared to the remaining participants (5%).
+“In other words, CAD was present in 29% (9/31) of patients with glycosylation and in only 1% (5/407) of patients without glycosylation,” the researchers wrote.
+Agglutination (or clumping) of red blood cells was detected in all CAD patients, and red blood cell transfusions were needed in three (21%). Seven patients (50%) had associated MGUS, four (29%) had WM, and two had marginal zone lymphoma .
+Researchers saw no clinical differences between CAD patients with or without glycosylation. However, the small number of patients precludes definitive conclusions.
+Eleven CAD patients were treated with rituximab — marketed by Genentech and Biogen in the U.S. under the brand name Rituxan — with or without steroids. Three patients were maintained for observation only.
+Overall, these findings suggest that glycosylation is “enriched in patients with CAD and can provide diagnostic clues to suspect CAD in patients with IgM gammopathies,” the scientists wrote. “Validation in future studies is awaited.”
+Patricia holds her Ph.D. in Cell Biology from University Nova de Lisboa, and has served as an author on several research projects and fellowships, as well as major grant applications for European Agencies. She also served as a PhD student research assistant in the Laboratory of Doctor David A. Fidock, Department of Microbiology & Immunology, Columbia University, New York.
+Patricia holds her Ph.D. in Cell Biology from University Nova de Lisboa, and has served as an author on several research projects and fellowships, as well as major grant applications for European Agencies. She also served as a PhD student research assistant in the Laboratory of Doctor David A. Fidock, Department of Microbiology & Immunology, Columbia University, New York.
+How useful was this post?
+Click on a star to rate it!
+Average rating 2.5 / 5. Vote count: 2
+No votes so far! Be the first to rate this post.
+As you found this post useful...
+Follow us on social media!
+We are sorry that this post was not useful for you!
+Let us improve this post!
+Tell us how we can improve this post?

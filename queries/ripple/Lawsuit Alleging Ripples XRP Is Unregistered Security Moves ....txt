@@ -1,0 +1,11 @@
+A lawsuit alleged that XRP is an unregistered security has been allowed to move forward in a United States federal district court.
+A United States federal district court has decided to allow a lawsuit alleging that Ripple’s XRP crypto asset is an unregistered security.
+Court documents filed on Feb. 26 reveal that Judge Phyllis Hamilton of the Court of the Northern District of California ruled to only partially grant Ripple’s motion to dismiss the lawsuit against it.
+The lawsuit in question was initiated in August 2019 by XRP investor Bradley Sostack, who alleges that the firm misled investors and sold XRP as an unregistered security in violation of federal law.
+The lawsuit is looking for the recognition of XRP as a security and the awarding of damages to all investors as well as the cost of the legal actions.
+The judge dismissed claims of personal liability against Ripple CEO Brad Garlinghouse and claims of false advertising by the firm. A claim that the company violated California state law was also dismissed.
+Still, the court did not grant Ripple’s motion claiming that even if XRP was a security, a lawsuit would have to be dismissed since it was sold over three years ago. The reason this motion was not granted is that Ripple is still selling XRP.
+Ripple’s September motion to dismiss the lawsuit completely failed to address the securities aspect of XRP. Crypto-focused lawyer Jake Chervinsky pointed out at the time:
+“They make twelve separate arguments for dismissal of the plaintiff's claims. Not a single one squarely addresses whether XRP is an unregistered security.”
+The consequences of Ripple’s XRP being classified as a security could be catastrophic for the altcoin in question. The motion to dismiss reads:
+“Were Plaintiff allowed to belatedly challenge the classification of XRP, it would not only threaten to eliminate XRP’s utility as a currency, but it would upend and threaten to destroy the established XRP market more broadly [...] potentially wiping out the value held by the alleged thousands of individual XRP holders around the world.”

@@ -1,0 +1,17 @@
+While sharing the June progress , Grin developer David Burkett who is working on Mimblewimble implementation to the Litecoin network, said the testnet launch is coming by the end of Q3 , which is in September 2020.
+In June, Burkett wrote very minimal implementation supporting MW transactions as the existing LTC mempool logic ended up being quite a bit more complex than the developer initially thought. As such, it will be revisited after the testnet launch.
+Additionally, code was written to support mining extension blocks; however, they need a lot more testing, and a few “edge cases are still left to be handled.”
+Talking about his concerns on the way they were storing mimblewimble block data in a separate database, Burkett shared with the community that “It was originally designed this way to be a clean separation from the existing code, to facilitate merging future bitcoin commits.”
+Separated databases, however, are a “bad idea,” he said, because then they don’t have the ability to make atomic updates. This leads to problems, some that can be exploitable by remote attackers.
+As such, Burkett has decided to take more time to modify the code for serializing and deserializing MW blocks & transactions to disk. But he didn’t need to make any changes to the existing block storage format thanks to the groundwork laid down as part of the Segwit enhancement. He said,
+“As a result, upgraded nodes can successfully save extension block data to disk the same place they’ve always saved blocks, without having to introduce an additional database.”
+However, the side effect of the changes is that it was relatively straightforward to add support for sharing mimblewimble transactions over the p2p network — the first step toward July’s goal of handling MW data.
+Still, the big plan for the summer remains the same, and Initial Block Download will be happening in July, followed by Chain reorg logic in August. This means activation logic and testnet launch is coming in September.
+With the MW upgrade, the idea was to enhance the scalability and privacy of the Litecoin network, much better than the likes of Zcash and Monero , said Litecoin realtor Charlie Lee, in an interview last month.
+“It does privacy and scarcity very well compared to other implementations,” he had said at that time.
+The development part is making good progress, and Litecoin has also been recording an increase in wallets.
+#Litecoin will go over 55 million wallet addresses in the next 24-48 hours.
+— Litecoin Foundation (@LTCFoundation) June 29, 2020
+But this 7th largest cryptocurrency by market cap is not doing well price-wise.
+Currently trading at $41.42, the digital asset is down 2.57% YTD, the third biggest loser among the top twenty cryptocurrencies. LTC is also down 89% from its all-time high of $373.
+According to analyst Mati Greenspan, “the slow and dangerous decline resembles a slippery slope.”

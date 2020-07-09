@@ -1,0 +1,25 @@
+Weather forecast, alerts and UVB index for all South African provinces, 1 July 2020
+This forecast is designed to be a quick overview of what lies in store.
+Weather data provided by the South African Weather Service. For a detailed forecast of your province, click here.
+Temperature: Fine and cold to cool.
+The expected UVB Sunburn Index: High.
+Temperature: Morning fog patches on the Highveld, otherwise fine and cool but warm in places in the Lowveld where it will be partly cloudy.
+The expected UVB Sunburn Index: –
+Temperature: Cloudy in the east with morning fog patches along the escarpment and drizzle along the north-eastern escarpment, otherwise partly cloudy and cool but fine in the south-west.
+The expected UVB Sunburn Index: –
+The expected UVB Sunburn Index: –
+The expected UVB Sunburn Index: –
+Temperature: Fine and cool to warm.
+Wind: The wind along the coast will be light to moderate northerly to northeasterly becoming southerly to south-easterly from the afternoon.
+The expected UVB Sunburn Index: –
+Temperature: Fine and cool to warm becoming cloudy along the south coast by the evening.
+Wind: The wind along the coast will be moderate to fresh southerly to southwesterly.
+The expected UVB Sunburn Index: Low.
+The Western half – Temperature: Fine and warm, but cool in places in the north.
+The Western Half – Wind: The wind along the coast will be moderate north-westerly at first, otherwise moderate south-westerly.
+The Eastern half – Temperature: Fine and cool, but warm in places along the coast.
+The Eastern half – Wind: The wind along the coast will be light to moderate north-easterly, becoming light south-westerly west of East London from the afternoon.
+The expected UVB Sunburn Index: –
+Temperature: Morning fog patches over the interior, otherwise fine and cool.
+Wind: The wind along the coast will be moderate southerly to south-westerly north of Durban, otherwise moderate to fresh north-easterly to northerly.
+The expected UVB Sunburn Index: Moderate.

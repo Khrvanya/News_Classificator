@@ -1,0 +1,32 @@
+A growing number of voices are calling for the U.S. to issue a "digital dollar" as China continues to work on a digital version of its currency.
+Christopher Giancarlo, former chairman of the Commodity Futures Trading Commission (CFTC), set up an organization to look into the framework and potential of a digital dollar.
+China's central bank has said that it is working on a digital yuan.
+Calls for a digital dollar have been on the rise.
+DAVOS, Switzerland — A growing number of voices are calling for the U.S. to issue a "digital dollar" as China continues to work on a digital version of its own currency.
+Users of the U.S. dollar are "underserved by an analogue currency in a digital world," Christopher Giancarlo, former chairman of the Commodity Futures Trading Commission (CFTC), said during an event in Davos.
+"I think it's very much worth considering," Neha Narula, director of the Digital Currency Initiative at the Massachusetts Institute of Technology (MIT), told CNBC at Davos.
+It's unclear what form a central bank issued digital currency could take. It could be built on blockchain-like architecture. Blockchain is the underlying technology behind the cryptocurrency bitcoin . But it doesn't necessarily need to be.
+The promise of a central bank digital currency (CBDC) is that it could make cross-border movement of money easier and improve traceability to fight corruption or money laundering, according to Henri Arslanian, global crypto leader at PwC.
+"The potential traceability features of CBDCs could, for the first time, give us a good fighting change against corruption and money laundering. CBDCs also could allow policymakers to measure the impact of certain policies accurately and immediately," Arslanian told CNBC at Davos.
+Giancarlo, who has been dubbed by the media as "Crypto Dad" for his open views to blockchain technology while at the CFTC, advocated that the U.S. issue a digital dollar.
+He recently set up the Digital Dollar Foundation along with Accenture to work on the design and potential framework for a digital dollar.
+"If it (U.S. dollar) remains an analogue currency the challenges of using it in a digital world are very complex," he added.
+"What we are proposing is a digital form (of that dollar) that would be minted by the central bank ... And it would be made available to users through the traditional banking system and other banking enterprises," Giancarlo said.
+Explaining a bit more about his vision and privacy issues, Giancarlo said the digital dollar could be "set up in a way that ... (the) federal government doesn't have the ability to check if you're shopping at Target or Selfridges."
+MIT's Narula said the U.S. Federal Reserve needs to boost its knowledge of digital currencies.
+"I think the Fed needs to gain expertise in this space. They cannot rely on the private sector for expertise, they need to build their own in-house expertise," Narula said.
+Federal Reserve Chairman Jerome Powell acknowledged that the central bank is looking into the possibilities of a CBDC. While the Fed hasn't developed its own digital currency, it is continuing to "carefully analyze the costs and benefits of pursuing such an initiative in the U.S.," Powell said in a letter to lawmakers in November.
+The digital dollar could be 10 to 15 years away, according to Jeff Schumacher, CEO of 55 Foundry, a company incubator and investor.
+"The advantaged position of the dollar as the global reserve currency is very powerful and the Fed wants to protect that position. A digital dollar may introduce volatility to the dollar which is undesirable in the short term," Schumacher told CNBC.
+"The U.S. will likely not be the first mover on a centralized digital currency, but will want to have the tech ready once the kinks and pitfalls have been worked out by someone else," he added.
+Giancarlo echoed that view. "The U.S. will not be first nor does it need to be, but it does need to get it right," Giancarlo said.
+The People's Bank of China (PBOC) has said that it's working on a digital version of the yuan, but has not given a timeline about when it could be issued.
+Some experts say that a digital yuan could help China's currency internationalize and challenge the dominance of the U.S. dollar.
+"Ultimately I expect the digital yuan to play an important strategic role in China's ongoing efforts to become a global financial superpower and compete with the U.S. dollar as the world's number one reserve currency," Garrick Hileman, head of research at Blockchain and researcher at the London School of Economics, told CNBC in a recent interview.
+For example, the digital yuan could be used in trade and infrastructure deals along China's Belt and Road Initiative.
+China and the U.S. are not the only countries looking at issuing their own digital currencies.
+The central banks of Britain, Japan, the euro zone, Sweden and Switzerland have grouped up with the Bank for International Settlements (BIS) to assess potential use cases for such currencies.
+CBDC's have gained momentum recently as central banks look to innovate in the face of competition from China and Facebook's digital currency called libra.
+But the Facebook-led project has faced intense regulatory pushback, with central bankers from Powell to European Central Bank Board Member Benoit Coeure warning on the potential risks of libra to global financial stability.
+"The future of money is a big topic being discussed this week in Davos. And libra and China's DCEP (digital currency) have probably been the catalysts that have brought this topic on the top of the agenda," Arslanian said.
+—CNBC's Ryan Browne contributed to this report.

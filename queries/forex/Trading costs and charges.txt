@@ -1,0 +1,41 @@
+For CFDs, there are some extra services that we charge for.
+DMA for forex is only available to Professional clients. there is a monthly fee for using DMA to trade CFDs on shares.
+Obtaining live share prices from an exchange to trade share CFDs incurs a monthly fee.
+Subscribing to Pro Real Time charts costs $40 per month. This is refundable if you place four or more significantly sized deals a month. We reserve the right to charge you for the service if your qualifying trades are of an extremely low value.
+While there is normally no fee for IG accounts, we charge a $18 fee on the first of every month, if no dealing activity has occurred for two years or more. This fee is only charged if you still have funds in your account.
+We charge a $50 fee on accounts which have not supplied a mandatory W-8 or W-9 form prior to the dividend ex-date of a qualifying trade on a US-incorporated stock. We do not apply this fee to accounts with up-to-date documentation or accounts which have not entered into qualifying trades. We will notify you if you have entered into a qualifying trade and need to complete a form.
+CFDs traded in a currency other than your account’s base currency may incur a currency conversion charge. Our default setting is instant conversion, where foreign-currency profit is converted to your base currency and funding, commission and dividend charges are taken into account before your account is credited. We also offer daily, weekly and monthly conversion settings. Our standard charge is 0.5%.
+DMA for forex is only available to Professional clients. there is a monthly fee for using DMA to trade CFDs on shares.
+Obtaining live share prices from an exchange to trade share CFDs incurs a monthly fee.
+Subscribing to Pro Real Time charts costs $40 per month. This is refundable if you place four or more significantly sized deals a month. We reserve the right to charge you for the service if your qualifying trades are of an extremely low value.
+While there is normally no fee for IG accounts, we charge a $18 fee on the first of every month, if no dealing activity has occurred for two years or more. This fee is only charged if you still have funds in your account.
+We charge a $50 fee on accounts which have not supplied a mandatory W-8 or W-9 form prior to the dividend ex-date of a qualifying trade on a US-incorporated stock. We do not apply this fee to accounts with up-to-date documentation or accounts which have not entered into qualifying trades. We will notify you if you have entered into a qualifying trade and need to complete a form.
+CFDs traded in a currency other than your account’s base currency may incur a currency conversion charge. Our default setting is instant conversion, where foreign-currency profit is converted to your base currency and funding, commission and dividend charges are taken into account before your account is credited. We also offer daily, weekly and monthly conversion settings. Our standard charge is 0.5%.
+Your bank, card issuer, intermediary banks, merchants, or other parties may make additional charges to your trasnfers and we have no control over this.
+What are your dealing hours?
+Dealing hours vary between markets, but standard UK market hours are 08.00-16.30 (London time).
+How does overnight funding work?
+When you trade CFDs with us, you trade on margin. This means you provide only a deposit to open a position, and we in effect lend you the rest of the money required. If you close your position on the same day, there is no funding fee. If you keep it open overnight, we charge a small fee to cover the cost of the money you’ve effectively borrowed.
+For share and stock index trades, our funding fee is comprised of our admin fee plus or minus the relevant interbank rate for the currency in which the underlying instrument of your trade is denominated (depending on whether your position is long or short).
+For forex and spot metals trades, it is the tom-next rate plus a small admin fee.
+For futures markets there is no overnight funding fee because the cost of funding is built into the spread.
+Are charges fixed or do they vary?
+Share CFDs directly reflect the underlying market price, and are subject to commission. CFD traders should remember we offer our tightest spreads on our standard contracts, with wider spreads on some mini and micro contracts.
+Our forex spreads vary depending on underlying market liquidity. The more liquid the market, the narrower our spread – as low as 0.8 points. As the underlying market spread widens, so does ours – but only to our maximum cap.
+Our stock index spreads vary by the time of day. During the underlying market hours we offer our standard and tightest spreads eg 1 point on the FTSE 100. When we offer an out-of-hours market, so you can benefit from 24-hour dealing, we offer a wider spread.
+Our commission varies depending on the host country for your stock, and the account you are using
+All UK shares are subject to a flat 0.10% commission, while all US stocks are subject to a CFD commission of 2 cents per share, for example. See our product details for all our share CFD commissions.
+The overnight funding fee is calculated using the relevant interbank rate for stock index and share trades. The fee for forex trades is calculated using the tom-next rate. These rates change daily, varying the funding fee each day. Mini and micro CFD contracts are subject to a higher funding rate.
+Is there a currency conversion charge?
+CFDs traded in a currency other than your account’s base currency may incur a currency conversion charge. Our default setting is instant conversion, where foreign-currency profit is converted to your base currency and funding, commission and dividend charges are taken into account before your account is credited. We also offer daily, weekly and monthly conversion settings. Our standard charge is 0.5%.
+Do you offer guaranteed stops?
+When you have a guaranteed stop attached to your position, we apply a small fee if it's triggered. For shares, for example, this is 0.3% of the underlying transaction value.
+What are interbank and tom-next rates?
+The interbank rate is the interest rate charged between banks for short-term loans. It is a key indicator for other interest rate charges, which is why we use it as a basis for calculating our overnight funding fees for your share and stock index trades.
+Tom-next is the rate used to calculate the funding adjustment when a forex position is held overnight. It is an industry-standard rate, derived from the interest rate differentials of the pair’s currencies and market expectations of interest rate change.
+For CFDs, the spread is the difference between our Sell and Buy prices. We derive these prices based on the underlying market's value.
+Are there any account fees?
+Only if you haven’t placed any deals on your CFD account for two years or more, and there is still a balance on your account. We’ll then charge a $18 fee on the first day of every month.
+When should I use a forward contract?
+There is no overnight funding fee for forward trades, the funding cost is built into a wider spread. This makes forwards less attractive for short-term trading but more so for long-term trades because you know your real cost from the outset.
+For fixed-expiry deals on stock indices and commodities we offer futures for CFDs.

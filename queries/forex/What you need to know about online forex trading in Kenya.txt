@@ -1,0 +1,88 @@
+Scope Markets, registered as SCFM Ltd, is a globally recognised non-dealing online foreign exchange broker licensed and regulated by the Capital Markets Authority.
+What is the Online Foreign Exchange and Contract for Difference?
+The foreign exchange (FX) market is the largest, most liquid and most traded financial market in the world with a total volume of up to $5.3 trillion traded daily.
+Online trading and Contract for Difference (CFD) trading refers to an agreement to exchange the difference between the entry and the exit price of an underlying asset.
+Online Forex exchange entails the trading of different currency pairs. These currency pairs are classified as majors, minors and exotics. CFDs trading, on the other hand, include indices, commodities, shares and precious metals.
+With the unique and large size of the foreign exchange trading market, several governmental and independent bodies have established regulatory frameworks to govern and supervise online FX and CFD trading within their respective jurisdictions.
+How is the regulation of online foreign exchange trading in Kenya?
+According to a 2016 Capital Markets Authority (CMA) report, more than 50,000 traders were trading with offshore regulated and unregulated brokers.
+The CMA released the report at a time when there was a rise in instances of individuals being duped into depositing funds with unregulated entities and persons purporting to give ridiculous returns on Forex trading investments.
+It was for these reasons, that the National Treasury through the Finance Act 2016 authorised the CMA to regulate and supervise the online FX market in Kenya. Subsequently, the CMA enacted the Capital Markets Online Foreign Exchange Trading Regulations 2017.
+What is the scope of the regulations?
+The Online Foreign Exchange Trading Regulations were developed in line with best practice controls and procedures, heavily borrowing from developed markets such as the United Kingdom's Financial Conduct Authority (FCA) and the Australian Securities and Investment Commission (ASIC).
+The authority's primary objective was to sanitise the online FX trading market as many Kenyans were trading through unregulated or questionable foreign brokers which left them exposed.
+Who can conduct online foreign exchange business in Kenya?
+Regulation 3(1) of the Online Foreign Exchange Trading Regulations provides that a person shall not purport to carry on business as a foreign exchange broker or money manager unless licensed by the CMA.
+The regulations further provide that anyone found conducting the businesses in Kenya without licensing commits an offence under the Capital Markets Act and the Forex Regulations.
+There are three types of licences established under the regulations -- the dealing foreign exchange broker, the non-dealing foreign exchange trading broker, and a money manager licence.
+A dealing broker, also known as a market maker, is defined as an entity that engages in the business of online foreign exchange by trading on its proprietary account through which one is obliged to offer a selling price and a buying price on an asset to the market. The market maker takes the opposite side whenever their client trade.
+For example, if a client enters a buy trade on the EURUSD, the market maker will enter a sell on the same currency pair on their proprietary account.
+A non-dealing online foreign exchange broker also referred to as a straight-through-processing (STP) broker, is defined as an entity that acts as a link between the foreign exchange market (through the market maker) and the client in return for a spread. A spread is defined as the difference between the price offered by the market maker (dealing broker) to the non-dealing broker and the price offered by the non-dealing broker to the end client.
+Non-dealing brokers only provide trading platforms to their clients. Meta trader Four and Five are the most commonly offered trading platforms. Non-dealing brokers receive their prices from a market maker. Unlike market makers who trade on their account, non-dealing brokers always pass on client trades on to the market maker.
+A money manager is defined as an entity that engages in the business of managing the online foreign exchange portfolio of an individual or institutional investor in return for a fee based on a percentage of assets under management.
+The definitions described above are critical in enabling both existing and potential investors to understand the actors in the online forex trading environment and the respective roles they play.
+Anyone purporting to provide brokerage services to the Kenyan public must provide proof of licensing by the CMA as a dealing or a non-dealing broker while, anyone seeking to manage forex funds, or rather trade on a forex client's account must be a regulated money manager by the CMA.
+Does the CMA regulate online forex traders?
+Forex traders are also known as investors. As such, the CMA does not regulate forex traders. However, anyone who intends to collect funds from the public and trade the monies on behalf of other people must seek the relevant licence from the CMA.
+Are there any licensed brokers in Kenya?
+Since the enactment of the FX Regulations in 2017, the Capital Markets Authority has successfully issued two non-dealing online brokerage licenses to SCFM Limited and EGM Securities Limited and a money manager licence to Standard Investment Bank.
+Anyone seeking to engage in investing in foreign exchange and CFD trading should first conduct their due diligence on the Broker before depositing any funds with them.
+Always ensure that you seek independent investment advice from an authorised investment advisor before investing in FX and CFDs as trading carries risk.
+The Capital Markets Authority’s key objectives are geared towards investor protection.
+This is paramount to ensuring that investors gain confidence in their own financial system and subsequently boost economic growth. As such, the Regulator has put in place measures to ensure that online foreign exchange is traded in a safe environment.
+Trading with a CMA Regulated entity will protect investors’ funds, provide market conduct and transparency, and to ensure there is recourse in the event of a dispute and accessibility of the broker.
+The FX Regulations provide that every Broker shall hold all client funds in a client segregated bank account held with a local bank licensed in Kenya under the Banking Act.
+This means that all client funds are held locally and are easily accessible by the clients.
+Only a regulated Broker, whether dealing or non-dealing, can collect funds from clients for purposes of trading. A Money Manager does not have the authority to collect any funds from the client.
+Instead, a client individually opens their trading account with the Broker, deposits funds directly with the Broker and then provides the trading platform log ins to the authorised Money Manager for them to trade on their account.
+For retail traders, one of the biggest risks of trading with a non-regulated broker is that it exposes them to illegal activities and malpractices.
+For CMA regulated Brokers, the CMA online FX Regulations and the Conduct of Business Regulations provide a controlled environment in which these entities offer their products, focusing on investor protection.
+Any client dissatisfied with the way a Broker conducts themselves has the opportunity to file a complaint with the CMA. This is often impossible to have when dealing with offshore brokers, whether regulated or unregulated.
+All licensed Brokers and Money Managers are required to have a physical office in Kenya which is fully resourced in terms of human capital, office equipment and capital.
+This allows an investor or potential investor to directly interact with the entity should they have any complaints or queries.
+This also resonates with the traditional capital markets’ investors who prefer having physical contact with the investment company.
+Scope Markets, registered as SCFM Ltd, is a globally recognised non-dealing online foreign exchange broker licensed and regulated by the Capital Markets Authority.
+Scope Markets offers investors with a safer, smarter and faster way to trade in global markets with asset classes such as shares, forex, indices and commodities.
+In a pool of many brokers both globally and locally, Scope Markets has an edge with the latest user-centric trading technology.
+Being a non-dealing broker, Scope Markets does not have a proprietary dealing desk and operates as an Electronic Communication Network (ECN) brokerage.
+This means that all clients’ trades are passed directly to the liquidity provider who provides Scope Markets with real-time pricing.
+This eliminates the possibility of market manipulation. All applications for a trading account are done through the website www.scopemarkets.co.ke with the actual trading being carried out on a platform called MetaTrader 5.
+SCFM Ltd is a wholly owned subsidiary of SM Capital Markets Limited, which is part of the global entity Scope Markets Ltd that has over 50 years collective experience in the online forex trading.
+The Group currently operates in Kenya, parts of Africa, Europe, Asia and South America.
+The company’s vision is to enhance financial inclusion in Kenya through online foreign exchange and CFDs trading. In the long-term, the business intends to build a community of traders through the available global investment opportunities for both retail and institutional clients.
+The Scope Markets platform allows clients to have control of their investments unlike trading in local stocks and bonds which entails a long-winded process where clients must manually register for CDSC accounts and subsequently register with the broker before they are able to trade. Here, clients personally open an account, deposit, trade and withdraw funds within minutes from the comfort of their devices.
+The platform offers globally traded products, allowing clients to access global markets without having to go through the hassle of making offshore transfers.
+The Scope Markets platform is a 24-hour, five-day a week platform that gives our clients the opportunity to trade at any time and at any place, using their mobile phones, laptops, computers or tablets.
+The benefits of trading with Scope Markets are huge with the firm providing the best trading infrastructure to cater to the needs of all types of clients from the beginners to the very ultimate professional traders in Kenya.
+The CEO’s vision is to build a business that is customer centric. To achieve this, Scope Markets has invested in staff training, technology, working with globally recognised price providers, a local office as well as local and international payment options.
+To join the Scope Markets trading community, one needs to register for a live trading account on website www.scopemarkets.co.ke. The firm also has experienced sale representatives to guide through the process. Clients can choose to trade forex, shares, commodities, indices and metals.
+Scope Markets has set low barriers of entry for new entrants to learn the ropes, with $50 being the minimum deposit amount.
+Scope Markets CEO has over 17 years as a senior treasurer in banking. He was also the first CEO of a licensed online foreign exchange brokerage firm in Kenya.
+The top management team has a combined experience spanning 50 years in the foreign exchange and CFDs industry, having worked for regulated entities across Europe, US, Middle East and Asia.
+The Capital Markets Authority (CMA) introduced the Capital Markets Online Foreign Exchange Trading Regulations in 2017.
+Under these regulations a “money manager” is defined as an entity licensed by the Authority to engage in the business of managing the online foreign exchange portfolio of an individual or institutional investor in return for a fee based on a percentage of assets under management.
+“Online foreign exchange trading” means the Internet-based trading of foreign exchange and includes trading in contracts for difference based on a foreign underlying asset.
+According to a 2016 report released by the CMA, over 50,000 traders were trading with offshore regulated and unregulated entities.
+This posed a risk to local investors who had no recourse in case the said entities mismanaged their investments.
+It is this concern that led the National Treasury, through the Finance Act, 2016 to authorise the CMA to regulate and supervise the online FX market in Kenya.
+In December 2018, Standard Investment Bank (SIB) was licensed as the first online forex trading money manager in Kenya by the CMA. To date, it remains the only licensed money manager in this space of trading global markets on behalf of investors.
+SIB is one of Kenya’s largest indigenous investment banks, with shareholders’ funds above Sh750 million.
+SIB was founded in 1995 by James Wangunyu as a private company registered in Kenya.
+With a focus on high value customer relationship management and integrity, the company rapidly flourished and increased its volume of equity trading business by a significant multiplier to achieve the number one position in trade volume, well ahead of more established and older stockbrokers.
+Under the Online Forex Trading Money Manager licence, SIB launched the first ever online trading money manager fund called MansaX.
+The MansaX Fund is a global multi-asset strategy fund that invests in the global online foreign exchange markets whose primary objective is for the investor to achieve capital growth.
+The fund focuses on trading online foreign exchange in the currencies of the world’s major economies (G10 countries). It has exposure to price changes in precious metals, commodities, single stocks and stock indices.
+This strategy is informed by the fact that online foreign exchange is the largest traded and most liquid of the asset classes, has a low correlation with other markets, and is tradeable 24 hours a day across multiple time zones.
+Using proprietary in-house methods and processes, MansaX maximises opportunity, minimises drawdowns and identifies and capitalises on nascent trends. In addition to a robust operational and oversight framework, strong money management is used to optimise risk and return objectives of the Fund.
+MansaX seeks to offer Kenyans access to alternative asset classes to diversify their investment. The traditional investment options available are historically very limited which has led to investor fatigue amongst Kenyans. Participation by Kenyans in the local capital markets has fallen to historic lows as a result.
+With the MansaX, Kenyans have the unique opportunity to access global markets with a local investment bank holding their hand. In all aspects, MansaX powered by SIB is a global fund with a local presence.
+Since inception MansaX has delivered an annualised return of about 22 percent. This return is made possible primarily by the fund’s ability to invest in a wide array of assets which were not available to local investors before.
+This includes but is not limited to most of the world’s currencies, precious metals such as gold and silver, commodities such as oil and natural gas, global stock indices such as the S&P500 and the Japanese Nikkei as well as a majority of the global single stocks, including Facebook, Netflix and Amazon.
+Additionally, the fund utilises a unique tool called leveraging.
+This is the ability for the fund to trade with extra borrowed funds to increase the returns to clients.
+This means that the fund has the ability to trade with more funds than those contributed by clients which multiplies the returns made.
+This model has always been used by foreign hedge funds and MansaX is the first local fund to utilise this model of trading.
+The fund utilises a conservative trading model with a bias towards consistent returns whilst utilising long-term trade views.
+MansaX has invested in a state-of-the-art fund management software and risk management tool that adds extra protection to client funds.
+Additionally, the fund has implemented very high standards in risk management, including policies aligned to international best practice. This minimises the risk to client funds.
+MansaX is therefore, in all ways, a global fund with a local presence.

@@ -1,0 +1,31 @@
+GAS wallet does not need to stay open at all times during staking.
+The minimum staking requirement is just NEO 1.
+The staking yield is quite meager. If you stake the minimum required amount of 1 NEO, you might earn some $0.14 in a year. Multiplying both sides of that equation by 1,000, would still only land you $140.
+Ontology is an open-source, two-token smart contracts and dApps platform. In addition to the ONT token, the platform also uses ONG (Ontology Gas). Staking rewards are delivered in ONG.
+The minimum required amount for staking is just 1 ONT. Investors will need 500 ONT as collateral for staking authorization. To run a node, a minimum of 200,000 ONT is required.
+ROI-wise, ONT went against the grain of the ailing crypto markets in 2018. Having been first listed in March 2018, at a value of $2.62, it reached a little over $10 before dropping back down. It is now worth some $0.76, for a lifetime ROI of -71 percent.
+Under such circumstances, ONT’s one-year ROI is negative as well. Precisely a year ago, it was worth some $1.85. ONT’s one-year ROI comes to -59 percent.
+Year-to-date, however, the asset has registered a slight rebound, from $0.59. This might be a sign of a turn-around. The YTD 28.8 percent gain is in line with better performing altcoins this year.
+The advantages of ONT staking:
+With a 500 ONT minimum collateral, staking can be an attractive proposition for new investors.
+The yearly staking yield of ONT is 3.08 percent. It is not the best, but it is still attractive enough.
+The staking setup is intricate and requires some tech-specific knowledge.
+If you invest 500 ONT right now, in a year, you may have earned $11.71, assuming a constant staking yield and price.
+PIVX (PIVX) is a privacy-focused cryptocurrency that comes with an attractive staking yield. Unlike some of the detailed staking options, however, PIVX is not a large market cap/trading volume coin.
+The minimum staking amount is 100 PIVX. Those looking to run a masternode will have to provide a 10,000 PIVX collateral. At current prices, that is still affordable as well.
+In regards to ROI, from a September 2016 price of $0.004, the price of PIVX is now $0.29. Interestingly, it reached its highest ever price in January 2018. One PIVX was then worth $13.22. Even with today’s modest price, PIVX’s three-year ROI is a massive 7,150 percent.
+The one-year ROI paints a different picture. Last September, the price of PIVX was $0.91 and it later climbed to above $1, only to eventually drop to where it currently is. This one-year ROI of -68.1 does not look out-of-place, however, considering the presence of the bear market over the period.
+The YTD picture is equally dire. The price dropped from $0.85, feeling the full chill of the crypto winter, for a YTD ROI of -65.8 percent.
+PIVX staking is as simple as setting up and unlocking a wallet.
+Staking yield has held up well against the backdrop of a falling price.
+9.41 percent yearly staking yield. Staking PIVX 3,500 (approx. $1,000 at current prices) may earn $94.74 per year (assuming price stability).
+PIVX is one of the smaller privacy coin projects, and this is reflected in its price volatility.
+KuCoin Shares is the token of a centralized digital asset exchange. Through it, investors can potentially profit from the success of the exchange itself. They can buy and hold KuCoin Shares looking for its price to go up. They can also stake their coins and pick up dividends. The dividends originate from the trading fees.
+The minimum required staking amount is 6 KCS. Staking KuCoin Shares is extremely easy. All you need to do is to buy them on the exchange and leave them there. You can use bitcoin (BTC) to buy KCS.
+KCS only came online in October 2017. From a price of $0.69, it has since come to be worth some $1.74, for an increase of 152 percent. KCS’s all-time-high was reached in January 2018, at $20.33.
+KCS is one of a handful of coins where the 1-year ROI is positive. Its price last September was $1.11. That translates to a one-year ROI of 56.7 percent.
+The same goes for the YTD picture. In January, one KCS was worth $0.62. The YTD ROI of 180.6 percent looks impressive.
+At 16.93 percent, KCS’s yearly staking yield is substantial. It is one of the best options in this regard.
+Staking is as easy to set up as buying some KCS on KuCoin.
+Exchange coins may be securities, as they offer direct exposure to the performance of a company.
+The exchange-based model has been done better by others.

@@ -1,0 +1,11 @@
+Please consider using a different web browser for better experience.
+Please enable JavaScript in your browser for a better site experience.
+A multi-billion-dollar asset management company plans to use the Stellar blockchain for a new fund.
+Franklin Templeton Investments filed a preliminary prospectus with the U.S. Securities and Exchange Commission Tuesday for a money market fund whose shares would be recorded on the Stellar Network. The plan requires the SEC’s approval.
+To be clear: the fund would not invest in any cryptocurrencies or crypto projects. Rather, “the ownership of the Fund’s shares may be maintained and recorded solely on the Stellar network,” the prospectus says.
+According to the prospectus, the money fund would seek a $1 per share net asset value (NAV) with 99.5 percent of its investments in government securities, cash, and repurchase agreements further backed by government securities or cash.
+Shares would purchasable on the asset manager’s online app but not on the secondary market. Minimum purchases start at $20.
+The prospectus says Franklin Templeton believes blockchain-based shares provide transparency for shareholders but warns they come with their own risks, including hacking and loss of funds.
+As such, the firm cautioned that its Stellar project is a test and the fund is liable to liquidation if decided upon by Franklin Templeton.
+With over $700 billion in assets under management, Franklin Templeton, based in San Mateo, California, ranks among the top 35 mutual fund managers.
+The leader in blockchain news, CoinDesk is a media outlet that strives for the highest journalistic standards and abides by a strict set of editorial policies . CoinDesk is an independent operating subsidiary of Digital Currency Group, which invests in cryptocurrencies and blockchain startups.

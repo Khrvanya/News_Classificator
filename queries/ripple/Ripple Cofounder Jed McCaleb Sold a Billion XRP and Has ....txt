@@ -1,0 +1,21 @@
+Ripple co-founder Jed McCaleb has sold more than a billion XRP so far and has another 4.7 billion left to sell, according to a new analysis.
+Analysis by blockchain monitor Whale Alert suggests that Ripple co-founder Jed McCaleb sold off more than one billion XRP between 2014 and 2019.
+In a Medium post published on Feb. 6, Whale Alert estimated that McCaleb has another 4.7 billion XRP left to sell, equating to around 5% of the total supply. At today’s prices, the hoard is worth more than one billion U.S. dollars, dwarfing the $135 million Whale Alert estimates he has made via XRP sales to date.
+McCaleb sold another 19 million, or $4.13 million worth last month — and Whale Alert believes the rate may increase this year as the agreements limiting his XRP sales expire. Specifically:
+"At the current rate it would take him around 20 years to sell all of it, however, his activities have been limited by the settlement agreement with Ripple, which is likely to expire sometime in 2020."
+The news alarmed some XRP holders on Twitter.
+“We didn't want to alarm people, but I hope they now have a better view of what's going on,” Whale Alert told Cointelegraph.
+Whale Alert monitors blockchains and issues notifications on Twitter and Telegram about large movements of cryptocurrency.
+Whale Alert posted the addresses it had identified as belonging to McCaleb, which it traced via the information on his blog, forum posts and the public ledger.
+"By analyzing over 90,000 transactions we were able to track around 8 billion XRP to Ripple, a settlement account and his personal accounts from which he actively sells."
+It said he sold off the 1.05 billion XRP almost exclusively through Bitstamp.
+Whale Alert was unable to determine if McCaleb’s sales had affected the price of XRP but said: “because he is exclusively selling XRP, he is adding to the net amount available."
+The man behind Mt Gox, Ripple and Stellar
+McCaleb is a key figure in cryptocurrency’s history, having created the Mt Gox exchange and co-founded Stellar ( XLM ).
+He also co-founded OpenCoin in 2012, which later became Ripple, and was allocated 9.5 billion XRP when the 100 billion supply was pre-mined. This large share of the supply has proved to be controversial over the years.
+The XRP price plunged 40% in the 24 hours after he announced his intention to sell all his holdings in 2014 . He then negotiated a seven-year agreement with Ripple that limited monthly and annual sales. The agreement allows McCaleb to sell one billion XRP in the sixth year of the agreement and two billion XRP in the seventh.
+Whale Alert said by their count we are now in year seven. “The post is from 2014, so if you take that as year 1, then it should end in 2020 somewhere,” they explained.
+However, details are sketchy and others believe that it is year six into the deal.
+Following a lawsuit by Ripple in 2016 alleging he’d violated the deal, an amended agreement put a daily cap on sales, which is currently set at 1.5% of XRP’s daily volume.
+Whale Alert concluded its analysis by cautioning there are billions more XRP out there waiting to be sold.
+"Whether or not you believe the future is bright for blockchains like Ripple, the economic power and consequences of whales like Jed McCaleb cannot be ignored and he is not the only one; co-founder Arthur Britto also holds billions of XRP in escrow that will expire sometime in the future."

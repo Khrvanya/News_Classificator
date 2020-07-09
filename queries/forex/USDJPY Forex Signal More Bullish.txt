@@ -1,0 +1,16 @@
+Yesterday’s signals were not triggered, as there was insufficiently bearish price action when the price first reached 107.86.
+Trades may only be entered between 8am New York time Tuesday and 5pm Tokyo time Wednesday.
+Go short following a bearish price action reversal on the H1 time frame immediately upon the next touch of 107.86, 108.23, 108.54, or 108.61.
+Place the stop loss 1 pip above the local swing high.
+Move the stop loss to break even once the trade is 20 pips in profit.
+Take off 50% of the position as profit when the trade is 20 pips in profit and leave the remainder of the position to run.
+Go long following a bullish price action reversal on the H1 time frame immediately upon the next touch of 107.52 or 106.80.
+Place the stop loss 1 pip below the local swing low.
+Move the stop loss to break even once the trade is 20 pips in profit.
+Take off 50% of the position as profit when the trade is 20 pips in profit and leave the remainder of the position to run.
+The best method to identify a classic “price action reversal” is for an hourly candle to close, such as a pin bar, a doji, an outside or even just an engulfing candle with a higher close. You can exploit these levels or zones by watching the price action that occurs at the given levels.
+I wrote yesterday that the price had been slowly rising ever since it bounced off 106.15 last week but was now basically consolidating above support at 106.80 but struggling to get much higher. Nevertheless, I said that the technical picture was weakly bullish.
+This was a good call as the price has risen over the past day, creating a more bullish technical picture as it established new support confluent with the important psychological level at 107.50. We have also seen the price invalidate and break past a resistance level.
+This pair is still well within a long-term range, but we are seeing bullish momentum driven by improving risk sentiment which has weakened the Japanese Yen as a safe haven currency.
+Technically, the price looks likely to break above the nearest resistance level at 107.86 and then continue upwards to reach the next resistance level at 108.23. However, if the price fails convincingly at 107.86 that could create a bearish double top and push the price back down towards 107.52.
+There is nothing of high importance scheduled today regarding the JPY. Concerning the USD, the Chair of the Federal Reserve will be testifying before the House of Representatives at 5:30pm London time.

@@ -1,0 +1,61 @@
+Spell it Out Will Walter, a farm management instructor with the Mitchell Technical Institute recommends written agreements as well as an exit strategy for situations that go haywire. Some variables that should be considered and spelled out in a contract include 1. Feed/pasture 2. Machinery 3. Labor 4. Bulls 5. Veterinary 6. Replacement bred cattle 7. Injuries/disease/act of God…(Atlas) 8. Insurance; lightning, drowning, theft 9. Proof of ownership if co-mingled 10. Trucking to and fro Walter said with the current cattle market, a 70/30 arrangement with the producer receiving 70 percent and the owner receiving 30 percent of the income has seemed to serve producers well.
+But sometimes a person finds himself or herself in a pickle with grass but not cattle, or cattle but no grass.
+An individual in this situation could consider seeking a share agreement.
+Many in the cattle business have heard horror stories about share agreements gone wrong.
+Keeping an open mind when developing the agreement and covering as many details as possible in the contract are important to keeping both sides happy, said Wibaux, Mont., rancher Craig Helvik.
+When his grandfather died, Helvik had the opportunity to run the family ranch, but after buying some of his grandfather’s cows and equipment, he couldn’t borrow the money to buy enough cows to finish stocking the place. A share deal with a long-time friend seemed to make sense. He is working toward building up his own cow herd and after a few three-year leases, he will probably be done taking in share cows after the current lease expires.
+Helvik keeps his own cows and the share cows separate and calves them at separate facilities. He doesn’t retain any heifers from the share cows, and neither does the cow owner, so every calf from the share cows goes to town in the fall, and the check is split 70-30 with Helvik getting 70 percent.
+The cow owner replaces any sold cull cows with bred heifers, to keep the number of cows consistent with the contract.
+Helvik provides all of the inputs, including feed, labor, vaccine, medication, mineral, salt, etc. The cow owner buys the bulls. Helvik does winter the bulls but that is a separate arrangement.
+The number of pounds of hay that will be fed per day, free-choice mineral and salt being provided year round, the type of vaccines that will be administered – all of these are points covered in his share contract, said Helvik.
+He and his business partner have known each other for years and have always had a good working relationship, Helvik said. If there are questions that arise or items that need to be changed on the contract, the two of them meet and agree to new terms, although that is rare.
+Helvik puts his brand on the calves and then pays the cow owner when the calves are sold. All cows bear the cow owner’s brand.
+One year the grass was particularly good and Helvik told the cow owner he could bring another semi-load of cows in, so he did and those calves were sold with the original calves, with the check being split accordingly.
+The cow owner is available to help with cattle work when needed, but Helvik doesn’t take advantage of him. “He’ll come and help if we need him to, but he’s not required to. We’ve done business long enough that I trust him and he trusts me. If we’re short of labor, he’s here.”
+Helvik said he won’t take just any old cow – he wants healthy cows that are in good shape, and he culls any opens or those who develop chronic health problems.
+“Whoever you are getting into it with, make sure you can talk to them. Keep communication lines open,” he stressed.
+“The main point is if the two parties can agree to it, it should work. You need to be a little flexible and adjust when necessary.
+“It sure has helped me get rolling here the last few years,” he added.
+As with any business arrangement there is room for error, and honesty from both parties is priority number one, said Dustin LePlatt, Trinidad, Colorado.
+But LePlatt said a share arrangement can be the perfect way to turn a profit on pasture without borrowing money to buy cattle.
+“The reason I got in the share deal was to rebuild without borrowing a bunch of money,” he said. LePlatt had sold his own herd down due to drought and was down to just 50 cows, with pasture for a lot more, when the rain finally came.
+So he took in cows for an acquaintance and gradually built up his own cowherd again.
+LePlatt said the first share agreement ended amicably and then he then took in cattle for another individual and is now on his third share deal.
+He likes to make year-to-year agreements, and said a 60/40 split has worked well for him, with LePlatt getting 60 percent of the calf crop at weaning time. He splits the cost of bulls with the cow owner.
+The cow owner’s brand is on all of the cows as well as the calves.
+LePlatt and the cow owner both like to keep replacement heifers out of the cows, so after the two of them sort the replacement-quality heifers out, they gate cut 60 percent of them for LePlatt and 40 percent for the cow owner, then LePlatt re-brands his heifers.
+The rest of the calves are sold private treaty or at the salebarn, and LePlatt and the cow owner split the check 60-40.
+The cows all bear the brand of the owner, and the cow owner gets all the salvage value for the cows.
+“Thank God we’ve never had a bad wreck,” LePlatt said, adding that there are the usual calving issues of bad weather and such but that he grafts calves whenever possible and will even put one of his own calves on a share cow if the situation calls for it.
+A share agreement can work well for a young producer without the equity to borrow money to buy cows, or any producer who doesn’t want debt on cows, he said.
+Even with a one-year contract, though, LePlatt said the situation can become challenging because of unpredictable circumstances like weather. One year the weather turned dry and he had to drylot a bunch of cows in order to fulfill a contract. “I kept my end of the bargain but I didn’t make any money. There are pros and cons to the idea, just like with most things,” he said.
+Both Helvik and LePlatt said with today’s low cattle market and the continued increase in input costs, profitability for either party becomes more difficult.
+“It’s getting tougher and tougher. I’m thankful I’ve been able to grow my own herd,” said Helvik.
+Readers like you make the Tri-State Livestock News’ work possible. Your financial contribution supports our efforts to deliver quality, relevant coverage of the livestock industry.
+Now more than ever, your support is critical to help us keep our community informed about the evolving coronavirus pandemic and the impact it is having locally. Every contribution, however large or small, will make a difference.
+Each donation will be used exclusively for the development and creation of increased news coverage.
+Start a dialogue, stay on topic and be civil.
+If you don't follow the rules , your comment may be deleted.
+						var vf_adctr = 0;
+								if (++vf_adctr > 10) { return; }
+								var vf_slot_div_id = "ad-comment-" + vf_adctr;
+						var form = this;
+						// after 1/2 second, submit the form
+					return ( currentSubscriptions || [] ).filter( elem => elem.topic_id === node.dataset.topic ).length > 0;
+					topic.classList.toggle( 'vf-follow-toggle-on', getTopicSubscriptionStatus( topic, currentSubscriptions ) );
+						var node = evt.target;
+								console.log( 'failure to unsubscribe: ' + err );
+							var promise = window.viafoura.topics.subscribe( node.dataset.topic, node.dataset.topicname, node.dataset.topictype || 'topic' );
+								console.log( 'failure to subscribe: ' + err );
+					const vfUUID = document.querySelector('meta[name="vf:uuid"]').content,
+					      if (response.status !== 200) return;
+/* <![CDATA[ */ var tribe_l10n_datatables = {"aria":{"sort_ascending":": activate to sort column ascending","sort_descending":": activate to sort column descending"},"length_menu":"Show _MENU_ entries","empty_table":"No data available in table","info":"Showing _START_ to _END_ of _TOTAL_ entries","info_empty":"Showing 0 to 0 of 0 entries","info_filtered":"(filtered from _MAX_ total entries)","zero_records":"No matching records found","search":"Search:","all_selected_text":"All items on this page were selected. ","select_all_link":"Select all pages","clear_selection":"Clear Selection.","pagination":{"all":"All","next":"Next","previous":"Previous"},"select":{"rows":{"0":"","_":": Selected %d rows","1":": Selected 1 row"}},"datepicker":{"dayNames":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"dayNamesShort":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"],"dayNamesMin":["S","M","T","W","T","F","S"],"monthNames":["January","February","March","April","May","June","July","August","September","October","November","December"],"monthNamesShort":["January","February","March","April","May","June","July","August","September","October","November","December"],"monthNamesMin":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"nextText":"Next","prevText":"Prev","currentText":"Today","closeText":"Done","today":"Today","clear":"Clear"}}; /* ]]> */
+/* <![CDATA[ */ var pollsL10n = {"ajax_url":"https:\/\/www.tsln.com\/wp-admin\/admin-ajax.php","text_wait":"Your last request is still being processed. Please wait a while ...","text_valid":"Please choose a valid poll answer.","text_multiple":"Maximum number of choices allowed: ","show_loading":"1","show_fading":"1"}; /* ]]> */
+ga('set', {'dimension1': 'News','dimension2': 'Ranch Management','dimension3': 'News/Ranch Management','dimension5': loggedIn,'dimension6': 'by Carrie Stadheim, Editor','dimension7': '','dimension8': '2016-12-27','dimension9': 'wp-34402','dimension10': '','dimension12': '2016-12-27 17:23:07','dimension13': '30787','dimension14': 'article','dimension15': '1088','dimension16': '','dimension18': swiftLanguage});
+ga('newTracker.set', {'dimension1': 'News','dimension2': 'Ranch Management','dimension3': 'News/Ranch Management','dimension5': loggedIn,'dimension6': 'by Carrie Stadheim, Editor','dimension7': '','dimension8': '2016-12-27','dimension9': 'wp-34402','dimension10': '','dimension12': '2016-12-27 17:23:07','dimension13': '30787','dimension14': 'article','dimension15': '1088','dimension16': '','dimension18': swiftLanguage});
+      var emailRegex = /([a-zA-Z0-9_\.-]+)@([\da-zA-Z\.-]+)\.([a-zA-Z\.]{2,6})/i;
+      var cleanPageLocation = currLocation.replace(emailRegex, "");
+	        _sf_async_config.uid = 57640; _sf_async_config.domain = 'swiftcom.com'; _sf_async_config.useCanonical = true; _sf_async_config.useCanonicalDomain = true;
+	      	_sf_async_config.authors = 'by Carrie Stadheim, Editor';
+	        _sf_async_config.title = 'Fair Shares: Making a Share Agreement Work | TSLN.com';
+	          var oldonload = window.onload;

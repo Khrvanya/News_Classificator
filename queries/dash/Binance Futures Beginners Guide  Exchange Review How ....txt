@@ -1,0 +1,25 @@
+Limit orders are used when you want to buy at a specific price.
+To set a limit order, you’ll have to specify the price at which you want to buy or sell. On the Order Quantity tab, input the amount of BTC that you wish to buy. In this case, we’ve set a target price of $8,400 and a quantity of 1 BTC. So as soon as Bitcoin’s price reaches $8,400, we will have an order to buy/long. Note below that the margin required for this order is only 420 USDT because we’ve used a 20x leverage.
+As soon as you hit the “Buy/Long” button, your position will be opened. Below, we will show you where to monitor it and how to close it.
+The most basic order type, market orders are used to buy Bitcoin at a spot price.
+All that has to be entered is the order quantity. Again, note that the margin required is 20 times less than the actual value of the order.
+These are typically used as a stop-loss mechanism, but not always.
+The stop price is the price at which your order will become a regular limit order. The price tab indicates when you want to buy.
+Imagine that you expect Bitcoin to face significant resistance at $8,600, and if it breaks above it, that will give confirmation that the trend is bullish. You would want to set your stop price at $8,600, because as soon as it’s hit, your stop-limit order will be converted to a regular limit order to buy at $8,650. You can also use this as a stop-loss mechanism to reduce your level of risk.
+As the name suggests, this is mainly used to set the price at which you wish to collect your profits.
+Your trigger price establishes the price at which your order will be placed in the order book. The price tab shows the price at which you want to buy.
+As soon as your position is opened, you will be able to monitor its status. For the sake of this guide, we’ve opened a long Bitcoin position using a standard market order, as shown in the example above. Here’s where we can track it:
+As you can see, we’ve bought 0.1 BTC at an entry price of $8,273. In other words, we have opened a long position of 0.1 BTC. Since it is 20x leveraged, the required margin on this trade is only around 43 USDT.
+If you wish to close your position, you have two options. A market close is instant, and you close at the best available spot price. In contrast, a limit close lets you specify the price at which you would like to close the position.
+As you can see, the position tracker also contains a liquidation price. This is the price that, if reached, will see your position liquidated due to insufficient margin. Keep in mind that the entire amount in your futures wallet is used as collateral. Hence, if the price doesn’t go in the direction of your trade, the platform will use your remaining capital as collateral.
+As soon as you hit the “Market” button, your position will be closed and you will see the funds return to your margin account.
+What are Binance Futures’ Trading Fees?
+As a limited time offer, CryptoPotato and Binance offer new users 20% off on all trading fees using this link to register a new account. Afterward, use ‘cryptopotato’ as your referral code to get 10% on Binance Futures fees for the first 30 days of trading (limited offer).
+One of the more crucial things to consider when selecting a futures exchange is its trading fees. This is especially important if you are day trading, as the fees can pile up fairly quickly.
+As is almost always the case, Binance has done a great job of visualizing its fee structure.
+Long story short, the default level (VIP 0) carries 0.02% maker fees and 0.04% taker fees. In order to enjoy reduced fees, Binance requires you to both hold its native Binance Coin (BNB) and maintain a decent amount of turnover volume (in BTC).
+All of the VIP benefits of the spot market exchange apply to the futures market. What is more, the fees are generally lower than those on the spot market. However, the volume requirements for each of the VIP tiers are 5 times larger than those on the spot market because of the leverage.
+Needless to say, Binance is probably the most secure cryptocurrency exchange out there. Naturally, it’s not immune to hackers, but the company is doing a splendid job of keeping users’ funds protected.
+Even if the exchange were to get hacked, which it has in the past, Binance has introduced a so-called SAFU fund. Beginning last July 14th, the exchange has allocated 10% of all trading fees into its Secure Assets Fund for Users (SAFU) in order to offer additional protection to users in extreme cases. Those funds are stored in a separate cold wallet.
+Moreover, Binance has a very rigorous KYC process that applies to its futures exchange platform.
+Unsurprisingly, the Binance Futures exchange shares the primary spot exchange’s emphasis on support, and users can rely on a team of experienced and highly adequate international support staff.

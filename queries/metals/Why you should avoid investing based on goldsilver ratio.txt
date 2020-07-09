@@ -1,0 +1,33 @@
+Pivot Or Perish Market Dashboard India-China Face-Off The Future Of Covid Tracker Lounge Coronavirus India2Global Emerging Tech Conclave #WFHLife Long Reads Money With Monika, Season 4 Mint 50 - Top Mutual Funds Plain Facts Mark To Market Podcasts Money With Monika, Season 3 Companies Markets Money Start-ups Mutual Funds Insurance Technology Industry Opinion Politics
+2 min read . Updated: 30 Jun 2020, 03:47 PM IST Tinesh Bhasin
+While ratios do have historical significance, analysts believe that investors should not rely on them entirely either to stop investing in gold or take tactical exposure to silver.
+A sustained rally in gold prices is typically followed by a rise in prices of other precious metals such as silver. If you are signed up with a broker, which also offers clients to invest in commodities, you could have received a note that says investments in silver looks attractive right now.
+According to analysts, comparing prices of one metal with another could give investors an idea of which one to buy or sell. For this, they use a method called gold-silver ratio. It shows the amount of silver it takes to purchase a kilogram of gold. For example, on 29 June, gold with a purity of 999 ended at ₹48,534 per 10 grams or ₹48,53,400 for a kilogram. Silver prices on the same day ended at ₹48,556 a kilogram. The gold to silver ratio will be 48,53,400/48,556, which comes to 99.95.
+The historical ratio of the two metals is 62. “When the ratio is higher than the historical average, it means silver is undervalued and vice versa. The current ratio suggests (99.95) that silver is highly undervalued and the prices could rise from here on as the global economies slowly start their industrial activity," said Ajay Kedia, director, Kedia Commodities, a commodities research firm. He thinks that gold prices would not rise significantly from here on and the “undervalued" silver prices could rise.
+While these ratios do have historical significance, other analysts believe that investors should not rely on them entirely either to stop investing in gold or take tactical exposure to silver. “An investor should not rely on such ratios alone to take a call on investments. They work only when other conditions support the price movements," said Gnanasekar Thiagarajan, co-founder and CEO, Commtrendz, a commodities research firm. According to him, silver, which is primarily used for industrial purposes, would rise if there’s an increase in demand for it from manufacturers.
+While there are multiple ways in which an individual can take exposure to gold, the options to invest in silver are limited. For gold, an individual can buy sovereign gold bonds (SGB), gold bars, exchange-traded funds (ETFs) and even on payment apps such as Google Pay, Paytm and PhonePe. To invest in silver, a person would need to buy futures contracts on a commodity exchange.
+Some companies such as Augmont, which have partnered with payment apps for digital gold, also allow investors to buy silver in small quantities on their websites and even sell it back on the platform.
+While ratios may suggest one precious metal to be more attractive than others, retail investors should not time the prices of metals to make tactical bets. They should only use gold to diversify their portfolio through options like SGBs or ETFs that don’t have high costs involved.
+* Thank you for subscribing to our newsletter.
+Click here to read the Mint ePaperLivemint.com is now on Telegram. Join Livemint channel in your Telegram and stay updated
+You are now subscribed to our newsletters. In case you can’t find any email from our side, please check the spam folder.
+lozad('.lozad', { load: function(el) { el.src = el.dataset.src; el.onload = function() { el.classList.add('fade')}}}).observe()
+.myAccount .planSec, .myAccount a.LinkCTA{padding:16px; margin:16px; box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.1); background-color: #fff;}
+	       		var userData = data;
+	       		var name = userData.name;
+	       		var email = userData.email;
+	       		var signupSource = userData.source;
+	       		var subscribedAtOnce = userData.subscribedAtOnce;
+	       		var plan  = userData.plan;
+	       		document.getElementById('uName').innerHTML = "<strong>"+name+"</strong>" + email;
+		       		var status = planData.status;
+		       		var purchaseSource = planData.source_device;
+			       		var nextActivationDate = planData.current_term_ends_at;
+			       		var planDescription = planData.plan.description;
+			       		var planName = planData.plan.name;
+			       		var planPrice = planData.amount;
+			       		//var planInterval = planData.shipping_interval;
+			       		var planInterval = planData.duration;
+			       		var planUnit = planData.interval_unit;
+			       		//var html = "<strong>Your Subscription Plan</strong>"+planName+" ₹"+planPrice+" / "+planInterval+" " + nextBillingHtml + cancelHtml; 
+			       		var html = "<strong>Your Subscription Plan</strong> "+planDescription + " "+ planName +": ₹"+planPrice + " "+ nextBillingHtml + cancelHtml;

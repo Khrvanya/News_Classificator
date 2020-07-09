@@ -1,0 +1,29 @@
+Please consider using a different web browser for better experience.
+Please enable JavaScript in your browser for a better site experience.
+Foreign Exchange Giant CLS Admits: No, We Don’t Need a Blockchain for That
+Foreign Exchange Giant CLS Admits: No, We Don’t Need a Blockchain for That
+Blockchain technology is nice to have, but it’s hardly a must for rewiring the global financial markets.
+So says Alan Marquard, chief strategy and development officer at CLS Group, the global utility for settling foreign exchange trades, owned by the 71 largest banks active in that market.
+Nearly a year ago, it went live with CLSNet, touted as “the first global FX market enterprise application running on blockchain in production,” with megabanks Goldman Sachs, Morgan Stanley, and Bank of China (Hong Kong) on board.
+CLSNet was built on Hyperledger Fabric, the enterprise blockchain platform developed by IBM. But a blockchain was not the obvious solution for netting down high volumes of FX trades in 120 currencies, Marquard said recently.
+“I have been very clear from the first time we conceived of CLSNet, that it didn’t have to be run on blockchain,” he told CoinDesk. “Blockchain is not essential for that process to run – or even to run well.”
+CLS could have opted for “a centralized way of doing the calculations and pushing them back out,” but didn’t for a reason, Marquard said.
+“We are pro-blockchain, don’t get me wrong,” he said. “We wouldn’t have put all the investment into standing up a blockchain if we didn’t think that [it would have some benefit].”
+(Marquard wouldn’t say how big the investment was, but an industry source put it in the “millions of pounds.”)
+Specifically, the benefit is having the output of the netting calculation on a blockchain so that both participants are definitely getting the same version. This is valuable, particularly with emerging market currencies where there are inefficiencies and potential for trades to break, Marquard said.
+But blockchain was not the essential cost-saving element, he said.
+“The more we drive netting into those currencies, the more people will save. So the service will save people money,” Marquard said, adding:
+“Is that because of blockchain? No, I don’t think, hand on heart, I can say that.”
+Since launch, two more banks – Bank of America and Intesa Sanpaolo – have joined CLSNet. Marquard said there will be a total of nine banks live on the platform this year.
+“There are five [banks] live and there are four who have been through frustrating month by month … almost there, almost there,” he said. “They will go live before year-end; they are all in the final stage of testing.”
+All five participating banks declined to comment, as did IBM, which built the system.
+According to Marquard, volumes on CLSNet are growing but not in any way comparable with the main CLS settlement system, which acts as the middleman settling trades in 18 major currencies.
+“The volumes are amounts we are very happy with,” he said, declining to give a number. He pointed out that the big currency pairs like dollar/euro are already in the CLS settlement system and don’t require CLSNet, adding:
+“How do you compete with $12.8 trillion on the main system? It’s going to take years before we can get anywhere near that. I have no aspirations of CLSNet ever getting to the scale of the main settlement system.”
+In fairness, the fact that it is in production sets CLSNet apart from most other enterprise blockchain projects which are at various stages of testing.
+Meanwhile, CLS is doing analysis “in the background” to see if it could ultimately create some kind of settlement solution using blockchain, but Marquard said, “that’s way, way off.”
+He remains skeptical about the rhetoric from a few years ago about distributed ledger technology sweeping up and replacing large chunks of critical payments infrastructure.
+“The big thing blockchain was going to do was the transfer of value, of money and assets, and get rid of all the payment systems. It was just silly,” he said. “It was a technologist’s view of how markets function with very little understanding of those kinds of entities and how they operate.”
+A thorough-going understanding has informed the gradual approach being taken with CLSNet, Marquard said, concluding:
+“We knew that we couldn’t do a settlement application. We wanted to do something on blockchain to help bring the technology forward, to help participants acclimatize to it and frankly just to keep ourselves in the conversation – which it has done.”
+The leader in blockchain news, CoinDesk is a media outlet that strives for the highest journalistic standards and abides by a strict set of editorial policies . CoinDesk is an independent operating subsidiary of Digital Currency Group, which invests in cryptocurrencies and blockchain startups.

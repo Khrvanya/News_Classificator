@@ -1,0 +1,39 @@
+Indian stocks may rise further; RIL, pharma stocks in focus
+2 min read . Updated: 03 Jul 2020, 08:31 AM IST Nasrin Sultana
+Intel Capital will invest ₹1,894.50 crore in Jio Platforms, RIL said in a statement on Friday
+Indian markets may rise further on Friday tracking firm cues from global peers, while trends in SGX Nifty indicate a flat opening for the benchmark indices. On Thursday, the Sensex settled at 35,843.70, up 429.25 points or 1.21% while the Nifty closed at 10,551.70, up 121.65 points or 1.17%.
+Asian stocks were higher in the early deals tracking a firm Wall Street session after strong US jobs data although growing Sino-US tensions and a worrying surge in coronavirus cases is likely to cap gains.
+Wall Street ended higher on Thursday following a record increase in payrolls and a decline in unemployment. US markets are closed on Friday in observance of Independence Day.
+However, investor focus is shifting to worsening strains between China and the United States.
+Reliance Industries Limited and Jio Platforms Limited announced on Friday that Intel Capital will invest ₹1,894.50 crore in Jio Platforms at an equity value of ₹4.91 lakh crore and an enterprise value of ₹5.16 lakh crore.
+After Bharat Biotech's Covaxin, another potential covid-19 vaccine indigenously developed by Ahmedabad-based Zydus Cadila Healthcare Ltd got nod from the Drugs Controller General of India (DCGI) on Thursday for human clinical trials, news agencies reported.
+KKR will acquire shares from founding Mody family of JB Chemicals at a purchase price of ₹745 per share and make an open offer for an additional 26% of the company.
+HDFC Life Insurance Company Ltd will replace Vedanta Ltd in the Nifty 50 index starting 31 July. Consequently, Vedanta will be also removed from various indices due to its proposed voluntary delisting.
+Indian corporates raised over ₹2 trillion through issuance of rupee bonds in the first quarter of FY21 as companies made efforts to prepare their balance sheets to weather economic uncertainties in the coming quarters on account of the disruptions caused by the covid-19 pandemic.
+Brent crude futures settled at $43.14 a barrel, rising $1.11, or 2.6%. U.S. West Texas Intermediate (WTI) crude futures settled at $40.65 a barrel, up 83 cents, or 2.1%.
+Investors still embraced the safe-haven dollar and gold, which usually rise when risk appetite declines, as an acceleration in new covid-19 cases across the country prompted fresh restrictions.
+The dollar index rose 0.058%, with the euro up 0.01% to $1.1239. The Japanese yen weakened 0.02% versus the greenback at 107.53 per dollar, while sterling last traded at $1.2468, up 0.02% on the day.
+US Treasury yields ended the day lower ahead of the July 4 long weekend, with the benchmark 10-year yield fell 1.1 basis points at 0.6709%.
+* Thank you for subscribing to our newsletter.
+Click here to read the Mint ePaperLivemint.com is now on Telegram. Join Livemint channel in your Telegram and stay updated
+You are now subscribed to our newsletters. In case you can’t find any email from our side, please check the spam folder.
+lozad('.lozad', { load: function(el) { el.src = el.dataset.src; el.onload = function() { el.classList.add('fade')}}}).observe()
+.myAccount .planSec, .myAccount a.LinkCTA{padding:16px; margin:16px; box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.1); background-color: #fff;}
+	       		var userData = data;
+	       		var name = userData.name;
+	       		var email = userData.email;
+	       		var signupSource = userData.source;
+	       		var subscribedAtOnce = userData.subscribedAtOnce;
+	       		var plan  = userData.plan;
+	       		document.getElementById('uName').innerHTML = "<strong>"+name+"</strong>" + email;
+		       		var status = planData.status;
+		       		var purchaseSource = planData.source_device;
+			       		var nextActivationDate = planData.current_term_ends_at;
+			       		var planDescription = planData.plan.description;
+			       		var planName = planData.plan.name;
+			       		var planPrice = planData.amount;
+			       		//var planInterval = planData.shipping_interval;
+			       		var planInterval = planData.duration;
+			       		var planUnit = planData.interval_unit;
+			       		//var html = "<strong>Your Subscription Plan</strong>"+planName+" ₹"+planPrice+" / "+planInterval+" " + nextBillingHtml + cancelHtml; 
+			       		var html = "<strong>Your Subscription Plan</strong> "+planDescription + " "+ planName +": ₹"+planPrice + " "+ nextBillingHtml + cancelHtml;

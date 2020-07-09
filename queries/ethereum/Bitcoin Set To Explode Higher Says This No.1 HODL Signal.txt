@@ -1,0 +1,20 @@
+A key metric for where the bitcoin price might be headed is flashing a huge buy signal.
+In fact the last time it reached its current levels it preceded the rally to the $20,000 all-time high.
+Over the past week or so the price has held up relatively well given the return of Covid blues to the stock markets.
+If there is one factor that has been a sturdy predictor of pain to come for bulls, it has been precipitous slides in the S&P 500.
+The stock market matters so much because when it is falling it is a pretty good indicator that the appetite for risk is weakening.
+Given the crossover between tech stock investors – or to be precise investors in the FAANGs (Facebook, Apple, Amazon, Netflix and Google) – and those attracted to digital assets, it shouldn’t be too surprising that there are some correlations, if not causations.
+So on that outlook for bitcoin , anyone of a bullish disposition will need to tread extremely carefully over the coming days and weeks.
+But over the years there has been another more cons istently cited indicator of where the bitcoin price might be headed, and that’s the number of hodlers – those holding bitcoin for the long-term (depending on how you define long term of course).
+Losses in stocks can drive sales of easily liquidated assets such as bitcoin, while the number of investors hanging on to their bitcoin for the long term is taken as a sign of healthy bullish interest.
+Take a look at the chart below from the folks at Glassnode below:
+Percent supply last active 1+ years, Sunday 28 June 2020 (source: glassnode )
+The last time the percentage of ‘supply last active for 1 year plus’ was at current levels (61%) was on 14 January 2016 when the ride to $20k was just getting started.
+With the exceptions of the periods beginning October 2013 and May 2017, when the hodl ratio falls below the bitcoin price for extended periods, in others a rising hodl ratio presages a bull market for bitcoin, although the timings are not exact.
+One big caveat there though: the percentage of hodlers measured against total circulating supply is a good indicator, until it isn’t!
+So just to keep excited bulls on the straight and narrow, and to observe the rules that all good traders should, by being open to considering every sides of a set-up, let’s highlight the contrary view.
+As @josephcrypto (and others) point out, the glassnode tweet is accurate but only so far:
+Accurate tweet but misleading. Look at the last two times the previous supply last active peak was breached. In 2012 it *did* directly precede the #BTC bull run. In 2014, the bottom *wasn't in yet* (!) and there was an extended consolidation period remaining before the bull run. pic.twitter.com/8S7zU1f7GT
+— Joseph (@josephcrypto) June 28, 2020
+Disclaimer: This article is not meant to give financial advice. Any additional opinion herein is purely the author’s and does not represent the opinion of EWN or any of its other writers. Please carry out your own research before investing in any of the numerous cryptocurrencies available. Thank you.
+Gary is a cryptocurrency analyst at interactive investor, the UK’s second-largest stockbroker. He has been writing professionally about cryptocurrency since 2013, when he initiated bitcoin coverage at Money Observer, one of the UK’s most respected investment magazines. Gary writes for EWN in a personal capacity and his contributions should not be taken as investment advice.

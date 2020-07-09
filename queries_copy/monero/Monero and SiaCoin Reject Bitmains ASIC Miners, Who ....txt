@@ -1,0 +1,39 @@
+Monero and SiaCoin Reject Bitmain’s ASIC Miners, Who Could Be Next?
+ASIC cards threaten the network security, cryptocurrency developers concerned.
+On March 24 the creators of Monero made an unprecedented statement - the project devlead, Riccardo Spagni, warned that the coin’s protocol would be changed every six months to make the cryptocurrency less appealing to application-specific integrated circuit (ASIC) miners.
+The measure was initiated after Bitmain announced a new super powerful Antminer X3 ASIC miner designed specifically for calculations based on the CryptoNight algorithm, which is the basis for such cryptocurrencies as Monero (XMR), ByteCoin (BCN) and AeonCoin (AEON).
+The dominance of Bitmain shook the reputation of industry giants AMD and Nvidia, whose shares fell sharply after Wall Street firm Susquehanna reported that Bitmain’s new Ethereum miner would increase its competitiveness on March 26.
+Today, when the cryptocurrency market becomes stagnant, mining may be the only way to earn profit. This forces the largest manufacturers of video cards and specialized ASIC chips to bring new, more productive models of devices to the market. ASIC-based miners overtop competitors’ CPUs and GPUs, creating a real threat of mining concentration between the largest players provided with the most powerful equipment.
+Some in the Blockchain community are concerned about such kind of centralization that could damage network security. Actually decentralization based on the miners’ competition helps to defend the system and its participants, protecting the network from intruders. That's why the token developers are forced to create artificial obstacles to the use of ASIC equipment.
+Due to the present monopoly on the production of ASIC miners and the expansion of its positions in the mining equipment market as a whole, according to Bernstein analysts , Bitmain earned about $4 bln last year, the same amount as Nvidia. It is noteworthy that Bitmain achieved this level six times faster than Nvidia, who took 24 years to achieve these levels of profits.
+As stated by CryptoCompare, the new ASIC can give up to $4,500 in monthly profits to its owner, but its calculation process is based primarily on the involvement of devices in Monero network transactions, which may lead to disrupting XMR network functioning.
+The developers of Monero, in their turn, published defamatory posts about the insolvency of Antminer X3. Monero devlead Riccardo Spagni noted on his Twitter page that it “WILL NOT work” for Monero, since Monero's core development group (CDG) is going to perform regular updates of the hashing algorithm.
+Moreover, the upcoming hard fork will be aimed at making significant changes to the Proof-of-Work (PoW) protocol in order to prevent potential threats from ASICs.
+— Riccardo Spagni (@fluffypony) March 15, 2018
+To prevent the centralization of mining, changes would be regularly made in the protocol, making it impossible to calculate Monero using the new high-performance devices. The first update, preventing XMR mining on any types of ASIC chips, has already been released .
+Some experts expressed their support for the official devteam of Monero on the issue of updating the algorithm.
+Antonio Moratti, co-founder of the GoByte platform, which uses the NeoScrypt algorithm, said that he “would do the same". He told Cointelegraph:
+"GoByte was X11 in the testing phase. And some users have already started mining with ASICs. And we decided for NeoScrypt. Even that the GPU temps are not so good compared to other algos. I think XMR will have a new algo. I would do the same."
+"Bitmain has historically been very greedy, and very willing to sacrifice the well-being of the community, of their customers, and of the ecosystem, if that means they can make a couple of extra dollars."
+Monero’s steps to prevent potential threats from new Bitmain equipment could have been caused by the surge of hashrate up to 1,07 GH/s in their transactional network, which was observed in mid Feb. 2018, when the values of XMR tokens’ mining process soared.
+Some users linked the surge to the subsequent Bitmain announcement to sell used devices. A month ago one popular Reddit user made a post where he suggested that Bitmain might “calculate very thoroughly when to announce and sell them [ASICs] so their customers will be (or think they will be) able to make some pennies”.
+Earlier, Bitmain had already acquired an ambiguous reputation before the start of sales of a new model. In January, amid negative rumors about the chance of extremely high network values, which could be created by the mass launch of Antminer designed for SiaCoin, the latter refused to support the algorithm at all.
+Unexpectedly, Siacoin founder David Vorrick and his ASIC manufacturing company, Obelisk, fell into competition with Bitmain, which almost has a monopoly on Bitcoin mining equipment.
+In his Reddit post Vorick expressed dissatisfaction, saying that the developers of Siacoin feel "anxiety".
+After much consideration and discussion, we've decided to not invalidate A3 miners via soft-fork unless Bitmain takes direct action to harm the Sia project. We're incredibly excited about 2018 and will move forward stronger. Full response: https://t.co/I96X8Y6VMi
+— Sia Tech (@SiaTechHQ) January 25, 2018
+Although Antminer X3 can contribute to the production of cryptocurrencies based on CryptoNight technology (DarknetCoin, AeonCoin etc.), the previous equipment for mining XMR usually did not bring a profit comparable to the potential profit from Monero's trading circulation.
+According to the analysis made by Reinisfischer XMR mining is “profitable, but not as lucrative as mining ether”, moreover “it would break even after a year of operations”.
+For instance in December with $3,880 (the average price of 12 GPUs) one could earn about $1,940 in 10 days,
+while CryptoCompare says mining with GPUs for the same price would bring only $325 per month.
+Beyond the immediacy of security issues, in general, Bitmain's activity does not affect the state of individual cryptocurrencies.
+That's what co-founder of GoByte platform, which works on the principle of decentralized mining – a potential competitor of the current technology, Antonio Moratti, said to Cointelegraph:
+“I don’t think a privacy coin would want to gather a lot of attention. XMR can mature further on its own without any further PR scandal.”
+Will CryptoNight algorithm be used?
+The fundamental task of CryptoNight is to eliminate the gap in the production of tokens between users of standard PCs and owners of specialized ASIC devices. The algorithm technology is based on allocating a data block with an unpredictable sequence in the computer's RAM, with the data temporarily stored in RAM and not calculated at each access.
+Compared with the same Scrypt algorithm, the CryptoNight structure has a number of technical advantages:
+less central processing unit (CPU) and graphics card heating than when mining on other algorithms,
+use of CPU + GPU binding and thus achieving faster access to RAM, increasing the speed of transactions.
+Among other advantages of this hashing algorithm there are adequate conditions for its use on CPUs, where even passive income is possible (for example, on some Intel Xeon E3 users steadily receive up to $2 per month by using CryptoNight).
+Bitcoin, Litecoin, Dash, Decred and Sia - one by one these cryptocurrencies have become "victims" of ASIC-miners. The miners could consider the cryptocurrency becoming more centralized after the appearance of specialized devices, although the practice has not yet proven this.
+Monero can become the first of the leading cryptocurrencies that will launch a radical means of combating ASIC-miners through the update of CryptoNight hashing algorithm. The further events will show how much the algorithm will be modified and whether this will affect the sale of Antminer X3 models.

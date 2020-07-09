@@ -1,0 +1,21 @@
+Please consider using a different web browser for better experience.
+Please enable JavaScript in your browser for a better site experience.
+Bitcoin is up again Friday as losses are seen in U.S. stock futures.
+Following a rise of 23% over the last two days, though, the rally looks overstretched and the gains may be short-lived.
+At press time, the biggest cryptocurrency by market value is trading near $8,860, representing a 2.8 percent gain on the day, according to CoinDesk’s Bitcoin Price Index . Prices have risen from lows near $8,600 seen earlier today.
+Meanwhile, the futures tied to the S&P 500, Wall Street’s equity index, are down over 2 percent.
+Renewed growth concerns seem to be weighing on the futures market. Amazon, the world’s largest online retailer, warned of a possible second-quarter loss late Thursday, and Apple declined to give a financial forecast for the first time in a decade.
+Further, fears of fresh U.S.-China trade war gripped markets in Asia after President Trump threatened China with retaliatory tariffs over the coronavirus outbreak. Trump accused China of unleashing the virus into the world due to some awful mistake, and even suggested the release could have been intentional.
+All this economical gloom may, though, bodes well for bitcoin, as some analysts consider bitcoin a safe haven like gold. That belief has been reinforced by the cryptocurrency’s stellar recovery rally from the March 13 low of $3,867.
+Bitcoin is also widely expected to maintain its upward trajectory in the days leading up to the mining reward halving , due on May 12.
+Key on-chain metrics also suggest investor confidence in the ongoing rally. Both small and large investors, popularly known as “whales,” seem to be accumulating coins ahead of the halving.
+Exchange balances declined to 2,357,741 BTC on Thursday to hit the lowest level since May 27, according to data provided by blockchain intelligence firm Glassnode . The metric, which suggests a holding mentality among investors, has dropped by over 10 percent since March 13.
+“Overall, on-chain fundamentals are recovering to pre-crash levels,” noted Glassnode in its weekly report.
+While the odds appear stacked in favor of stronger gains toward $10,000 in the short term, the technical charts are signaling overbought conditions and scope for price pullback.
+Bitcoin formed a bearish “pin bar” candle on Thursday, which comprises a long upper shadow and small red body with little or no lower shadow. The pattern is indicative of rejection, or bull failure, at higher prices.
+The pin bar is also considered an early sign of bearish trend reversal if it appears after a notable price rally, as is the case here.
+Alongside that, the 14-day relative strength index (RSI) is reporting overbought conditions with an above-70 reading.
+As a result, a drop to the 200-day average at $8,000 may be seen before a potential rally into five figures. “People must be careful of the price pullback. Bitcoin may revisit the $8,000-$8,500 for a while, before making another attempt at $10,000 in the run-up to the halving,” said Chris Thomas, head of digital assets at Swissquote Bank.
+Thursday’s high of $9,485 is the level to beat for the bulls. Chart analysts consider a failed pin bar as a powerful bullish signal. So, if prices find acceptance above $9,485 on Friday, a stronger rally to levels above $10,000 may be seen.
+Disclosure: The author holds no cryptocurrency at the time of writing.
+The leader in blockchain news, CoinDesk is a media outlet that strives for the highest journalistic standards and abides by a strict set of editorial policies . CoinDesk is an independent operating subsidiary of Digital Currency Group, which invests in cryptocurrencies and blockchain startups.

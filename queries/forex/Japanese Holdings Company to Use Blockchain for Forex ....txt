@@ -1,0 +1,12 @@
+SBI Holdings will start implementing R3 blockchain-consortium technology in their Foreign Exchange services.
+Japan-based SBI Holdings announced on April 16 that it will begin using R3 blockchain-consortium technology for Forex Trading. This will be the first practical application of the Corda blockchain in the country.
+According to the announcement published in Nikkei Japan, the technology will be implemented in conjunction with a Tokyo-based systems management services firm called CAC.
+The use of Corda, which will be restricted within the company, will be used to share transaction history among involved traders. It will additionally be implemented between SBI Securities and SBI’s Forex platform Liquidity Market, or SBILM.
+According to the company, blockchain technology will allow SBILM to automate confirmation processes in foreign exchange transactions, instead of using email and telephone confirmations.
+Regarding the announcement, SBI Holdings issued the following statement:
+“We have reduced the operational risk in the confirmation business and ensured high privacy protection and tamper resistance. Also, the blockchain guarantees the identity of transaction data between the parties and improves the reliability of collation work.”
+David Rutter, CEO of R3, called SBI one of “Corda’s biggest champions,”. He also praised the announcement, noting its aim to strengthen the growth of the Corda platform in Asia.
+SBI has been promoting new technologies, such as blockchain integrations, among other banks in Southeast Asia.
+Both R3 and SBI have claimed that blockchain technology is going to help guarantee the identity of transactions on the SBILM.
+On the other hand, CAC assured that it would continue to support the use of blockchain in a wide range of industries.
+In early 2019, Cointelegraph reported that SBI Holdings announced a joint agreement with US-based R3 to develop local use of its Corda blockchain platform.

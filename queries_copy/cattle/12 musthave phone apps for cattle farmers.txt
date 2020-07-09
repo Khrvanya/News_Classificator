@@ -1,0 +1,32 @@
+Availability: The app is available to download on Android and Apple devices.
+App function: Allows individual farms to compare prices and receive quotes from multiple suppliers for feed, fuel, fertiliser, seed, chemicals and equipment.
+Suppliers respond with competitive quotes within minutes and any transactions are carried out through the app.
+The app logs transactions and displays them graphically, showing expenditure and savings made.
+Availability: The app is available to download on Android and Apple devices.
+App function: Registers calf births, manages breeding-cycle information, stores animal movements and holds individual health records.
+Uses the smartphone camera to scan barcodes or QR codes to capture information such as medicine use, batch numbers and expiry dates for compliance purposes.
+It includes optical character recognition technology, which enables the smartphone to read numbers and text, making it easier and safer to log livestock tag details at a distance.
+The smartphone’s Bluetooth capability is also exploited to integrate with other smart devices such as EID systems and weigh scales.
+Availability: The app is available to download on Android and Apple devices.
+App function: Enables farmers to record farm data on breeding, herd health, cattle movements and field records.
+The app connects to government databases and uses Bluetooth-connected EID readers and weigh heads to log records.
+Data can be stored using the voice recorder to save time and keep the phone cleaner.
+All information is cloud-based, allowing users to view records anywhere and synchronise data when internet access is available.
+Cost: App needs a FarmWizard software account to run.
+The whole software package, including the app, is a minimum of £299/year and is dependent on herd size.
+Availability: The app is available to download on Android and Apple devices.
+App function: Smartphone-based version of AHDB’s Nutrient Management Guide (RB209) offering best-practice guidance on the application of mineral fertilisers, manures and slurries to crops and grassland.
+The app includes automatic updates on new advice or governing policy, a note-taking facility and video content.
+The content is available without a mobile connection once downloaded.
+Availability: The app is available to download on Android and Apple devices.
+App function: The full version allows farmers to monitor grass growth and provides advice on management actions required.
+The app was developed by Aberystwyth University and calculates yield and usage from a number of parameters, including sward height, grazing system, stock type and previous grass measurements.
+Feedback is provided in a traffic-light graphic indicating whether a field is producing the optimal yield for stock or too much or too little grass.
+Availability: The app is available to download on Android and Apple devices.
+App function: The app is linked to Shearwell’s NLMD online management software and connects to BCMS to send cattle births, movements and deaths.
+It can also record medicine stocks, treatments and procedures, along with cattle performance by logging weights and growth rates.
+Cost: Free for limited functionality or three-month trial version. Full version £30/year
+Availability: The app is available to download on Android and Apple devices.
+App function: The app is designed to simplify feed management by calculating total forage available in both fresh weight and dry matter from clamped and baled stocks.
+The user inputs the dry matter and the clamp dimension or bale weight along with the forage required during housing.
+The app then determines if the farmer has a sufficient forage stock or needs to source more feed.

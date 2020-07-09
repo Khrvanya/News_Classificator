@@ -1,0 +1,20 @@
+ADA is now the seventh-largest cryptocurrency. On day 1st of Cardano Virtual Summit, IOHK announced that Voltaire is coming for which Project Atlas was announced. Cardano will also reach millions of ‘unbanked’ via Atlas PRISM while a $20 million fund will further work on Cardano’s adoption.
+Cardano has kicked off its Virtual Summit, and with that, it has replaced Litecoin (LTC) and briefly became the 7th largest cryptocurrency by a market cap of $2.74 billion, as per Messari.
+The gap between the market cap of both the cryptos started at about $65 million, but as the day continues, this gap is closing, and Litecoin seems to take its position back from Cardano.
+However, it looks like it won’t be long before Messari’s Ryan Watkins’ prediction about Cardano getting the 5th spot becomes a reality.
+Currently, ADA is trading at $0.0936, down 0.09%. The digital asset has surged 180% in 2020 so far.
+The flippining came during the two-day Cardano Virtual Summit, where IOHK made several announcements.
+I just want to point out that the cardano summit is larger than consensus. Nearly 10,000 people have attended so far
+— Charles Hoskinson (@IOHK_Charles) July 2, 2020
+In this Shelley edition, the team started with the most significant upgrade ever to the Cardano blockchain delivered with the deployment of the Shelley codebase to the mainnet.
+As we reported, the new milestone was achieved earlier this week, during which the team also shared that the Shelley mainnet is on track to July 29th release.
+Besides this significant development, IOHK announced that Voltaire is coming.
+As per the website , this fifth phase is related to governance that will provide the final pieces for the Cardano network to become a self-sustaining system.
+“With the introduction of a voting and treasury system, network participants will be able to use their stake and voting rights to influence the future development of the network.”
+Recently, IOHK released the elements of the CIP, where it outlined staking rewards, number of staking pools, and cost to run the pool, among other details.
+For this era, they announced Project Catalyst that will bring a new blockchain governance program to the Cardano network this summer. With this experimental fund, ADA holders will be able to vote for funding proposals.
+The Catalyst won’t be coming until later this year, but the first call for proposal will be announced this month.
+Project Catalyst “is a huge step in fulfilling IOHK’s promise of a decentralized, fair, and impactful treasury system,” said Cardano creator and IOHK CEO, Charles Hoskinson .
+The app will reportedly allow millions of ‘unbanked’ worldwide to access financial services and further verify their credentials with decentralized identity solutions. They have already unveiled a smart mobile app.
+IOHK also announced an over $10 million DeFi investment with Wave Financial, which will bring along the matching funding to develop and strengthen the IOHK ecosystem. This $20 million is the first venture to support Cardano’s adoption.
+The day two of the summit is today, and according to Hoskinson, they have some announcements saved for this session as well.

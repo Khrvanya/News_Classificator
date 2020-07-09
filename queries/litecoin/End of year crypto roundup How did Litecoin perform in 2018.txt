@@ -1,0 +1,36 @@
+End of year crypto roundup: How did Litecoin perform in 2018?
+And what to expect in 2019?
+Litecoin $LTC▲2.73% (LTC) was created in 2011 as one of the earliest spin-offs of Bitcoin. Google employee Charlie Lee, its creator, promised — what many others who followed him also do — to improve Bitcoin‘s efficiency for everyday transactions.
+An average block in Litecoin’s blockchain only takes 2.5 minutes to be processed, in comparison to Bitcoin‘s 10 minutes. Its developers claim that this helps make the transactions faster, although sometimes at the cost of reduced security.
+This is supposed to help a lot of merchants who only require small transactions and can afford decreased security. If they need more security, the argument is that they can anyway wait for more transaction confirmations just like they do with Bitcoin.
+The promised improvements haven’t helped Litecoin get anywhere near Bitcoin in terms of market capitalization or adoption in its seven years of existence. Nevertheless, it remains one of the best performing coins, while most of its early competitors — including Fairbrix, GeistGeld, NameCoin, and SolidCoin — are all either out of business or rendered obsolete.
+In 2017, LTC broke off the monotony it saw in 2016, registering an increase of nearly 5000 percent between January-December from $4.33 to $239. The market correction in 2018 brought its price back down by 88 percent to $26.05.
+What goes around comes around: LTC’s stark rise between May 2017 and January 2018 is corrected by the end of 2018. Data Source: eToro.com
+LTC opened the year at $231.67, and made a gain of 38.5 percent in the first week to clock $320.78. This is the highest price LTC would see for the rest of the year. By February first week, it dropped by nearly 63 percent at $119.54.
+LTC saw ups and downs throughout the first quarter of 2018. Data source: eToro.com
+LTC made a significant gain by March with two successive spikes on February 14 and February 20 reaching $250, gains credited to the launch of LitPay, a would-be Litecoin merchant processor that ultimately didn’t go through. But the same market correction that affected the rest of the cryptocurrencies kept LTC on a downward trend as well throughout the rest of the year.
+There was a dominant downward trend from March 2018 onwards. Data source: eToro.com
+LTC also performed poorly in comparison to BTC in 2018.
+During the first quarter of 2018, LTC made significant gains compared to BTC, with its value rising from 0.017 BTC on January 1 to 0.024 BTC; a 45 percent increase. By the third quarter, LTC started making relative losses compared to BTC.
+LTC suffered relative losses to BTC after the first quarter of 2018. Data Source: CoinMarketCap (Coinmarketcap.com)
+By December first week, LTC is worth 0.0076 BTC, a 53 percent decrease since the beginning of the year.
+In December last year, Charlie Lee claimed to sell most of his LTC in order to avoid any conflict of interest between personal financial benefit and promotion of the cryptocurrency he founded. Lee’s decision wasn’t appreciated by everyone in the community, and he was accused of trying to bank on the recent surge in LTC’s price and colluding with Coinbase. Lee rejected the allegations outright.
+The accusations didn’t affect the market for LTC, as the cryptocurrency kept surging in the wake of an announced hard fork called “Litecoin Cash (LCC).”
+Litecoin Cash was far apart from Litecoin conceptually , and didn’t have any common team members. The cryptocurrency was dismissed by the Litecoin community — including Charlie Lee — as a scam. The cryptocurrency forked away from Litecoin in late February, but failed to leave a significant mark.
+LCC launched at the price of $5, but didn’t see any trading at all initially. When the trading started in April, the coin dropped to $0.12.
+After LCC launch, Litecoin had another bad news coming. In March, the merchant processor LitePay abruptly shut down operations causing embarrassment for Litecoin Foundation and Charlie Lee, who both extended support to the project, and market loss for LTC.
+In an unprecedented move, Litecoin Foundation in partnership with TokenPay bought a 9.9 percent stake in a German bank called WEG Bank AG in May.
+Litecoin was added as a trading option on its platform by cryptocurrency wallet Abra in March, and by messaging giant Line and US-based financial services provider Robinhood in July. In June, UK-based cryptocurrency exchange desk Crypto Facilities started offering Litecoin futures trading.
+In July, Taiwanese consumer electronics maker HTC announced that its new ‘blockchain phone’ Exodus will support Litecoin cryptocurrency; whose founder also helped in the development of the phone. The Winklevoss twins’ cryptocurrency exchange desk Gemini also added Litecoin on its platform in October.
+Litecoin is one of the few cryptocurrencies that are making steady technical and product growth over time. The year 2017 saw Litecoin becoming one of the first cryptocurrencies to experiment with Segregated Witness and Lightning Network, and it built on that in 2018.
+After getting listed on Coinbase in 2017, LTC has found itself listed on other major platforms including Gemini and Robinhood in 2018. With HTC Exodus adding support, the 2019 roadmap for Litecoin looks promising.
+Litecoin claims to be “silver to Bitcoin‘s gold,” but the cryptocurrency could in fact lose out on its utility as fast technical developments are made with Bitcoin that could make small frequent transactions easier.
+It is a mixed bag for Litecoin, but the Bitcoin fork has been building a reputation of its own. At multiple times in the first half of 2018, its growth outnumbered even that of Bitcoin.
+As is standard for all cryptocurrencies till now, overall market perceptions driven by Bitcoin will likely continue to define the overall growth trajectory for Litecoin throughout 2019.
+The cryptocurrency is unlikely to see frequent upswings and market corrections usual for many ‘altcoins.’ The marketing approach and roadmap taken by team Litecoin could mean relative stability compared to most other cryptocurrencies.
+Now that you have actionable information on the future of Litecoin , it’s time to start investing. With eToro , a leading social trading platform, you can trade manually or copy the actions taken by leading traders, taking much of the stress and work out of your investments.
+This post is brought to you by eToro . eToro is a multi-asset platform which offers both investing in stocks and cryptocurrencies, as well as trading CFD assets.
+Please note that CFDs are complex instruments and come with a high risk of losing money rapidly due to leverage. 65% of retail investor accounts lose money when trading CFDs with this provider. You should consider whether you understand how CFDs work, and whether you can afford to take the high risk of losing your money.
+Cryptocurrencies can fluctuate widely in price and are, therefore, not appropriate for all investors. Trading cryptocurrencies is not supervised by any EU regulatory framework.
+Past performance is not an indication of future results. This is not investment advice. Your capital is at risk.
+Do you want to get the sassiest daily tech newsletter every day, in your inbox, for FREE? Of course you do: sign up for Big Spam here .

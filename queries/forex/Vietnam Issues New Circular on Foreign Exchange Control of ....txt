@@ -1,0 +1,27 @@
+The State Bank of Vietnam on June 26, 2019, issued Circular No. 06/2019/TT-NHNN on foreign exchange control of foreign direct investment activities in Vietnam (Circular 06). On September 6, 2019, Circular 06 replaced Circular No. 19/2014/TT-NHNN on the same matter, while also amending Circular No. 05/2014/TT-NHNN on opening and using foreign indirect investment capital accounts and Circular 16/2014/TT-NHNN on the use of foreign currency and Vietnamese dong accounts for residents and non-residents. Below are some notable points of Circular 06.
+Although the current Vietnamese investment law (the Law on Investment of 2014) abolished the term “foreign direct investment” (FDI), Circular 06 still uses this term for the purpose of opening direct investment capital accounts (DICA) in certain forms of foreign investment in Vietnam. In particular, Circular 06 requires the following FDI enterprises, as well as foreign investors (individuals and entities), to open and maintain a DICA:
+(i) Foreign-invested enterprises established in accordance with investment regulations and granted an Investment Registration Certificate;
+(ii) Enterprises not falling into (i) but having foreign ownership of 51% or more of the charter capital, including:
+Enterprises in which foreign investors have acquired shares or contributed capital;
+Enterprises formed as a result of restructuring (i.e., merger, demerger, consolidation, or separation); and
+Enterprises newly established in accordance with specialized legislation (e.g., credit institutions, insurance companies, law firms, etc.).
+(iii) Enterprises established by foreign investors for the purpose of operating public-private partnership (PPP) projects in accordance with investment regulations.
+(ii) Foreign investors engaging in PPP projects but not establishing project companies.
+Under Circular 06, if a foreign investor owns 51% or more of the charter capital of a company (F1) by setting up F1 or acquiring shares in a local company, then F1 is required to open a DICA. However, even if F1 owns 51% or more of the charter capital of another company (F2), F2 is not required to open a DICA.
+The FDI enterprises and foreign investors mentioned above are required to open a DICA in a foreign currency (and a DICA in VND if they wish to do so) at a licensed bank in Vietnam.
+Foreign investors participating in more than one BCC or PPP project must open a DICA for each respective BCC or PPP project.
+For foreign loans made in a foreign currency other than the currency of the DICA, FDI enterprises are allowed to open another “bank account for taking and paying foreign loans” in such foreign currency at the same bank at which the DICA was opened.
+If changing the bank at which the DICA was opened, FDI enterprises and foreign investors must close the current DICA at the current bank after transferring the balance in the current DICA to the new DICA opened at the new bank.
+The below transactions, among others, must be routed via DICA:
+(a) Capital contributions in cash (i.e., bank transfers) made by foreign investors to the charter capital of the relevant FDI enterprise;
+(b) Payments for capital transfer transactions between a local seller and a foreign purchaser;
+(c) Payments for investment project transfer transactions in BCCs and PPP projects between a local seller and a foreign purchaser, and between a foreign seller and a foreign purchaser;
+(d) Profit repatriation to foreign investors; and
+(e) Transactions relating to foreign loans of FDI enterprises (i.e., loan drawdown and repayment).
+It is important to note that under Circular 06, payments for capital transfer transactions in FDI enterprises between a foreign seller and a foreign purchaser, and between a local seller and a local purchaser, are not required to be routed via DICAs.
+Within 12 months from the effective date of Circular 06 (i.e., by September 6, 2020), FDI enterprises and foreign investors under the following circumstances must convert their bank accounts into the appropriate types:
+(a) For FDI enterprises currently having foreign ownership of 51% or more but maintaining a foreign indirect investment capital account, they must open a DICA instead.
+(b) Enterprises which currently maintain a DICA must close the DICA, and each foreign investor must open an indirect investment capital account in the following circumstances:
+[Local] enterprises not required to have an Investment Registration Certificate, but already holding one based on their discretionary request; and
+FDI enterprises having shares listed or registered to be traded on a Vietnam stock exchange.
+In case the above enterprises maintain their DICAs for transactions relating to foreign loans, they are allowed to continue maintaining the DICAs for this purpose.

@@ -1,0 +1,9 @@
+Ex-Microsoft CEO Steve Ballmer: Going to war with open source made Microsoft a ton of money.
+With Azure moving up the food chain in Redmond, Microsoft has since 2012 softened its stance on open-source software, capped off by this week's move to port SQL Server to Linux .
+Eleven years before that, shortly after taking the helm at Microsoft, Ballmer said , "Linux is a cancer that attaches itself in an intellectual property sense to everything it touches."
+Reuters reports that Ballmer still stands by his cancer analogy as right for the time. Speaking at an event earlier this week, he said going to war with open source "made a ton of money" that still contributes to Microsoft's revenue. But he said he now considers that the threat from Linux is over.
+Ballmer said he "loved" the SQL for Linux announcement and had emailed Microsoft CEO Satya Nadella to congratulate him on the move.
+Yet, as Reuters points out, Microsoft's shares lost 40 percent of their value during Ballmer's 14-year tenure. They've risen 50 percent under current chief Nadella, who recently went public on Microsoft's love for Linux .
+Still, it would be wrong to believe the open-sourcing of Microsoft only started with Nadella. A case in point is the open-sourcing of .Net, which began three years before Nadella's appointment .
+Ballmer said the change in the market's perception of Microsoft is in part the result of having a new executive at the helm.
+Perhaps his new-found peace with Linux is linked to yoga, a practice he said he has taken up after leaving Microsoft in 2014.

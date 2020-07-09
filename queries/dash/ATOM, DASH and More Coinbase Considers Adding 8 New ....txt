@@ -1,0 +1,9 @@
+Please consider using a different web browser for better experience.
+Please enable JavaScript in your browser for a better site experience.
+Coinbase CEO Brian Armstrong speaks at Consensus 2019. (Credit: CoinDesk archives)
+Coinbase has announced the possible addition of eight new tokens to its current collection.
+Per a blog posting from the exchange, Coinbase is exploring the addition of Algorand , Cosmos, Dash , Decred, Matic, Harmony, Ontology, and Waves . Currently, coins listed on its non-Pro interface include Bitcoin , Bitcoin Cash, Ethereum , Ethereum Classic, USD Coin, XRP , Stellar , Zcash , 0x, Litecoin , and the Basic Attention Token.
+Coinbase’s announcement follows new token listing guidelines posted last September. Per a follow-up blog post, Coinbase wrote: “Because listing announcements will become more frequent, we expect to publicly announce the addition of new assets only at or near the time of public launch across one or more Coinbase products.”
+In other words, each of these products is very likely to be listed. The company is currently vetting each product based on in-house criteria. The exchange hopes to add some 90% of current coins on the market onto the exchange. The company’s guidelines act as a useful transition onto the exchange for customers, developers, and Coinbase.
+Even if listed, coins may only be available in certain locations. Each coin will be subject to a case by case study based on jurisdictional conditions, the company said.
+The leader in blockchain news, CoinDesk is a media outlet that strives for the highest journalistic standards and abides by a strict set of editorial policies . CoinDesk is an independent operating subsidiary of Digital Currency Group, which invests in cryptocurrencies and blockchain startups.

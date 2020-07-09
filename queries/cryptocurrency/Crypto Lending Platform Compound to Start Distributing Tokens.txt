@@ -1,0 +1,6 @@
+The Compound community approved a proposal calling for the distribution of the COMP token to all users of the DeFi protocol.
+Compound’s governance token will be available for distribution to all users of the decentralized finance (DeFi) protocol beginning on June 15.
+According to a June 10 tweet from Compound , the lending platform responsible for the major DeFi protocol completed a testnet trial of its COMP token as part of a governance proposal to distribute the token to its users.
+This allowed the Compound community to approve the proposal — 007, with no apparent James Bond connection — on June 14. The lending platform will begin distributing 1,116,310.81 COMP across “ETH, DAI, USDC, USDT, BAT, REP, WBTC and ZRX markets, proportional to the interest being accrued in the market” on June 15.
+“Within each market, half of the COMP is allocated to suppliers, and the other half to borrowers,” the proposal states. “Whenever an address interacts with a Compound market, it receives all COMP earned in that market, should it exceed a 0.001 COMP threshold.”
+In March, Cointelegraph reported Coinbase integrated support for the Compound DeFi protocol on its wallet app. The approval of its recent governance proposal comes as the total number of DeFi users is surging and expected to reach 600,000.

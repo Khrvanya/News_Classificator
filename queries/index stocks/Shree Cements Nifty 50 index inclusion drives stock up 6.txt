@@ -1,0 +1,42 @@
+Pivot Or Perish Market Dashboard India-China Face-Off The Future Of Covid Tracker Lounge Coronavirus India2Global Emerging Tech Conclave #WFHLife Long Reads Money With Monika, Season 4 Mint 50 - Top Mutual Funds Plain Facts Mark To Market Podcasts Money With Monika, Season 3 Companies Markets Money Start-ups Mutual Funds Insurance Technology Industry Opinion Politics
+2 min read . Updated: 19 Feb 2020, 10:22 AM IST Ashwin Ramarathinam
+In the last one year, shares of Shree Cement rose more than 55%
+Mumbai: Shares of Shree Cement Ltd rose as much as 6% to ₹25222.90 on Wednesday as the company will replace Yes Bank in the Nifty 50 from 27 March.
+Funds tracking the Nifty 50 index are expected to buy shares of Shree Cement, the country's second largest cement maker by market capitalisation. It would be the second core cement company to be part of Nifty 50 after UltraTech Cement.
+In the last one year, shares of Shree Cement rose more than 55%, while the benchmark Nifty gained 13%.
+Yes Bank stock, on the other hand, fell 1.85% to ₹34.40 on Wednesday.
+Vodafone Idea, Ashok Leyland, Indiabulls Housing Finance, L&T Finance Holdings and Shree Cement will be dropped from Nifty Next 50.
+Adani Transmission, IDBI Bank, Info Edge (India) Ltd, Larsen & Toubro Infotech and Torrent Pharmaceuticals would be added in Nifty Next 50 index.
+Hexaware Technologies and Tata Elxsi will be excluded from Nifty IT index and will be replaced by Info Edge and Mphasis.
+NSE decided to remove Oil India from its derivative segment with effect from May 4.
+"Only those stocks which meet the enhanced eligibility criteria shall remain in derivatives segment. Accordingly, the contracts for new expiry months in Oil India will not be issued on expiry of existing contract months," NSE said in its circular.
+However, the existing contracts for February, March and April would continue to be available for trading till their expiry, and new strikes would be introduced in the contract months, it added.
+"Accordingly, no contracts shall be available for trading in Oil India with effect from May 4, 2020," NSE said.
+Under the new criteria, companies should be a part of Nifty 500 at the time of review.
+In case the number of eligible stocks representing a particular sector within Nifty 500 falls below 10, the deficit number of stocks shall be selected from the universe of stocks ranked within top 800 based on both average daily turnover and average daily full market capitalisation based on previous six months period data used for the index.
+At present, companies need to rank within top 800 based on both average daily turnover and average daily full market capitalisation based on previous six months period data for inclusion in the indices.
+Last week, Shree Cement posted a 3% rise in its net profit at ₹309.95 crore in the quarter ended December helped by drop in fuel and other input costs.
+The Kolkata-headquartered firm’s net revenue stood at ₹2,848.34 crore, up 2% from the year-ago period. The company said cement sales went up 6% to 5.98 million ton from 5.64 million ton recorded in the corresponding quarter of the previous year.
+* Thank you for subscribing to our newsletter.
+Click here to read the Mint ePaperLivemint.com is now on Telegram. Join Livemint channel in your Telegram and stay updated
+You are now subscribed to our newsletters. In case you can’t find any email from our side, please check the spam folder.
+lozad('.lozad', { load: function(el) { el.src = el.dataset.src; el.onload = function() { el.classList.add('fade')}}}).observe()
+.myAccount .planSec, .myAccount a.LinkCTA{padding:16px; margin:16px; box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.1); background-color: #fff;}
+	       		var userData = data;
+	       		var name = userData.name;
+	       		var email = userData.email;
+	       		var signupSource = userData.source;
+	       		var subscribedAtOnce = userData.subscribedAtOnce;
+	       		var plan  = userData.plan;
+	       		document.getElementById('uName').innerHTML = "<strong>"+name+"</strong>" + email;
+		       		var status = planData.status;
+		       		var purchaseSource = planData.source_device;
+			       		var nextActivationDate = planData.current_term_ends_at;
+			       		var planDescription = planData.plan.description;
+			       		var planName = planData.plan.name;
+			       		var planPrice = planData.amount;
+			       		//var planInterval = planData.shipping_interval;
+			       		var planInterval = planData.duration;
+			       		var planUnit = planData.interval_unit;
+			       		//var html = "<strong>Your Subscription Plan</strong>"+planName+" ₹"+planPrice+" / "+planInterval+" " + nextBillingHtml + cancelHtml; 
+			       		var html = "<strong>Your Subscription Plan</strong> "+planDescription + " "+ planName +": ₹"+planPrice + " "+ nextBillingHtml + cancelHtml;

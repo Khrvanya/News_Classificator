@@ -1,0 +1,14 @@
+Please consider using a different web browser for better experience.
+Please enable JavaScript in your browser for a better site experience.
+Bitcoin Options Growth Outpaces Futures, Swaps
+Bitcoin Options Growth Outpaces Futures, Swaps
+Bitcoin options trading is growing faster than the futures and swaps market, according to data from Skew .
+Measured by the ratio of aggregate open interest in the bitcoin options market to open interest for bitcoin futures and swaps, a clear upward trend is observable from January 2020 to date.
+A historical trend of a higher ratio signals a rate of growth in options open interest that exceeds growth in that of bitcoin futures and swaps. Open interest is defined as the outstanding contracts, measured here in dollars.
+Although the open interest in bitcoin options is growing and is now roughly 35% that of futures and swaps, it still has a long way to go compared to traditional financial markets where options open interest and trading volumes are “generally a multiple of futures,” said Su Zhu, co-founder of cryptocurrency hedge fund Three Arrows Capital.
+“It makes sense for bitcoin to go a similar route as liquidity improves and institutional players come in,” he added.
+Likewise, the dollar value of options trading volume is a tiny fraction of futures even as March saw volumes for bitcoin options and futures hit yearly highs, according to Skew. Aggregate options volume reached $294 million, while futures volume passed $45.5 billion. Options volume was about $220 million in May.
+Growth in options trading has been helped by OKEx and CME Group launching bitcoin options in December 2019 and January 2020, respectively. Still, Panama-based exchange Deribit still supports roughly 85% of daily volume, according to Skew.
+A healthy market for options and other products designed for volatility-based trading adds “a lot of things that you just fundamentally can’t get without nonlinear derivatives,” said Sam Bankman-Fried, CEO at cryptocurrency derivatives exchange FTX.
+For example, some of the new, exotic volatility trading products launched by FTX will likely benefit from options market growth as more traders contribute to volatility-based price discovery. In short, growth in options trading “adds a lot to the space,” Bankman-Fried said.
+The leader in blockchain news, CoinDesk is a media outlet that strives for the highest journalistic standards and abides by a strict set of editorial policies . CoinDesk is an independent operating subsidiary of Digital Currency Group, which invests in cryptocurrencies and blockchain startups.

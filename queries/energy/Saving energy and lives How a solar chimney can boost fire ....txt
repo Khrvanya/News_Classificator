@@ -1,0 +1,29 @@
+Built as part of the sustainable features of a new Australian building, the specially-designed solar chimney radically boosts safe evacuation time in a fire - from 2 minutes to over 14 minutes.
+A must-have in green building design, solar chimneys can slash energy costs up to 50%. Now research reveals they could also help save lives in a building fire.
+In a world-first, researchers designed a solar chimney optimised for both energy saving and fire safety, as part of the sustainable features of a new building in Melbourne, Australia.
+Modelling shows the specially-designed solar chimney radically increases the amount of time people have to escape the building during a fire -- extending the safe evacuation time from about two minutes to over 14 minutes.
+A solar chimney is a passive solar heating and cooling system that harnesses natural ventilation to regulate the temperature of a building.
+With an estimated 19% of the world's energy resources going to heating, ventilating and cooling buildings, integrating solar chimneys into new builds and retrofitting to existing structures offers great potential for reducing this massive environmental cost.
+In the new project, a collaboration between RMIT University and the City of Kingston, researchers designed a solar chimney to maximise its efficiency for both ventilating fresh air and sucking smoke out of a building in case of fire.
+Researcher Dr Long Shi said solar chimneys have well established environmental credentials, but their potential for improving fire safety had not been explored.
+"In an emergency situation where every second counts, giving people more time to escape safely is critical," Shi said.
+"Our research demonstrates that solar chimneys offer powerful benefits for both people's safety and the environment.
+"Delivering on two important functions could boosts the already strong cost-effectiveness of this sustainable technology.
+"We hope our findings will inspire more investment and development of solar chimneys in Australia, and around the world."
+Kingston Mayor Georgina Oxley said Council was excited to be a part of the groundbreaking project.
+"Creating new and innovative ways of reducing energy consumption in our building design is something that is a priority for Council," Oxley said.
+"The solar-chimney that has been installed at the new state-of-the-art Mentone Reserve Pavilion not only allows us to harness clean green energy to heat and cool the building, helping Council achieve its environmental goals, but it also has the potential to save lives in the event of a fire. This is a truly remarkable design."
+While calculations around the 6-fold increase in safe evacuation time were specific to the new building, previous research by the team from RMIT's School of Engineering has confirmed solar chimneys can successfully achieve both functions -- ventilation and smoke exhaustion.
+The passive design approach behind solar chimneys operates on the well-known principle that hot air always rises.
+Modern solar chimneys usually feature a wall of glass next to a wall that is painted black, to maximise the absorption of solar radiation. Vents at the top and bottom control the airflow in and out of the chimney for heating or cooling.
+As the sun warms the chimney, this heats the air inside it.
+The hot air rises and is vented out of the top of the chimney, which draws more air in at the bottom, driving ventilation through a building to naturally cool it down.
+When it's cold outside, the chimney can be closed, to direct the absorbed heat back into the building and keep it warm.
+It's an ingeniously simple concept that is relatively cheap to retrofit and adds almost no extra cost to a new build, but can drive energy consumption down.
+During a fire, the same principle -- hot air rises -- enables the solar chimney to suck smoke out of the building.
+Less smoke means better visibility, lower temperatures and reduced carbon monoxide -- all of which contribute to increasing the amount of time people have to safely evacuate.
+To understand exactly how much evacuation time a solar chimney could deliver for a specific building, you need to model for that exact design, Shi said.
+"This will differ from building to building, but we know that any extra time is precious and improves fire safety, which could ultimately help to save lives," he said.
+The new research offers a technical guide for optimising the design and engineering of solar chimneys in real buildings, to expand their application across the two functions.
+Materials provided by RMIT University . Note: Content may be edited for style and length.
+Long Shi, Anthony Ziem, Guomin Zhang, Jie Li, Sujeeva Setunge. SOLAR CHIMNEY FOR A REAL BUILDING CONSIDERING BOTH ENERGY-SAVING AND FIRE SAFETY – A CASE STUDY. Energy and Buildings, 2020; 110016 DOI: 10.1016/j.enbuild.2020.110016

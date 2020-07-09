@@ -1,0 +1,7 @@
+Crypto Exchange OKEx Launches Ether Options, EOS Options to Follow
+Cryptocurrency exchange OKEx announced the launch of its Ether options contracts on its trading platform.
+Cryptocurrency exchange OKEx announced the launch of Ether ( ETH ) options contracts on its trading platform.
+According to a June 4 announcement , following today’s launch of ETH options, OKEx will also launch EOS options contracts on June 18. The firm also announced that it placed 1,000 ETH in the ETH Options insurance fund to prevent clawback .
+Per the announcement, options allow traders to buy or sell the underlying asset to hedge risk and maximize profits. The announcement explains how the contract differs from futures:
+“For example, when the price of ETH goes down, spot traders can only choose to hold or close their positions to cut losses. With ETH options, traders can choose to buy put options and profit from falling prices to offset losses in the spot market while holding ETH for possible future gains.”
+The mark prices for the contact are determined by OKEx using Black’s model on real-time market data analysis. The final settlement price, on the other hand, is determined by a time-weighted average of the asset’s price over a period of time before the contract expires.

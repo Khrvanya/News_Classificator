@@ -1,0 +1,9 @@
+Despite a volatile year in terms of price activity, Bitcoin was up by 96 percent in 2019. On the other hand, the rest of the altcoin market did not record a similar trajectory. Dash , a digital asset that was worth around $75 at the start of the year, is one such crypto-asset. At press time, Dash was valued at $51, registering a decline of close to 33 percent in 2019.
+In light of Dash’s poor price performance in 2019, Ryan Taylor, CEO of Dash Core Group, discussed the company’s new plans to improve Dash’s valuation in 2019 at a recent event.
+At the recent Dash Evolution Open House event, Taylor highlighted the financial incentive plan of proof-of-work mining and highlighted that a PoW mechanism is incurring very few profits. He explained that during a rapid price hike, PoW miners are unable to take advantage as they spend their inflated profits on new types of equipment and operations.
+This has led to a decreasing amount of coins entering the circulation on exchanges. Similarly, during a crash, the impact is even more severe as miners try to sell their revenue on exchange to cover losses, which facilitates a severe price fall, Taylor said.
+In order to tackle such a scenario, Taylor suggested that the Dash Core Group may introduce elements of proof-of-stake in the ecosystem to minimize such price anomalies.
+The CEO of Dash Core Group listed out a series of changes that have been planned to decrease the emission rate of the coin in order to provide a better rate to the holders. However, he emphasized that it is a top priority to reduce the number of block rewards going into PoW mining so that the selling pressure during a crash can be minimized.
+Such proposed changes brought out the idea of introducing proof of stake or alternatively, pursue development on the masternode network and Chainlocks for network security.
+Did you like this article?
+Your feedback is important to us!

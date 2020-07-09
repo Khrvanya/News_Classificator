@@ -1,0 +1,16 @@
+Ripple's recent update brought the ability for XRP wallet users to delete their wallet accounts.
+There are several requirements that users need to meet in order to gain the ability to delete their accounts.
+The requirements were set in place to prevent users from avoiding their obligations by deleting the account.
+The crypto community recently saw new development when a community-consensus for Ripple approved a new amendment to the XRP ledger . The new change is a simple one, although something entirely new for the crypto industry. It will allow users to delete their existing wallets.
+The new decision was only brought last week, after more than two weeks of voting. After the voting had ended, the majority of 80% of the voters wanted to see the ability to delete wallets implemented.
+After maintaining an 80% consensus during the mandatory 15-day voting period, the XRPL DeletableAccounts Amendment became enabled on May 8, 2020 at 4:29:30 UTC, through the ledger 55,313,921.
+— Arturo Portilla (@Arturo_P_A) May 8, 2020
+The new amendment is now known as DeletableAccounts Amendment . As such, it will let XRP wallet holders remove their old accounts. Apart from additional convenience, the update will also help with keeping the ledger cleaner. Not to mention that it will eliminate the need to maintain inactive crypto wallets.
+Some users already managed to successfully delete their wallets, following the amendment’s implementation.
+The amendment is not particularly new. In fact, it was originally proposed back in October 2019, by Ripple’s engineer, Nik Bougalls. He also listed several pros and cons regarding the move, giving his insight into why he believes it should be done.
+One of the biggest concerns was the possibility of users deleting accounts during some existing obligations. Such ideas could lead to the abuse of new functionality.
+To prevent this, developers came up with several conditions, or prerequisites, that must be met before the account can be deleted. For starters, it is only possible for the verified account owner to delete their account. The wallet owner will also have to perform a transaction prior to deletion.
+As for the other requirements, they include owning fewer than 1,000 objects in a ledger, as well as not being tied to some pre-defined ledger objects. Furthermore, even if the account gets deleted, its transaction history will remain. That way, no one can hide illicit activities by deleting them.
+Also, users will have to pay to have their accounts deleted, but the price is only 5 XRP, or $0.90 according to current prices. Finally, even if the account gets deleted, it can be retrieved for a price of 20 XRP ($3.60).
+You can read more about Ripple and XRP on our dedicated page, or explore other known amendments here .
+A journalist, with experience in web journalism and marketing. Ali holds a master's degree in finance and enjoys writing about cryptocurrencies and fintech. Ali’s work has been published on a number of cryptocurrency publications. Raza is the co-founder of 5Gist.com, too, a site dedicated to educating people on 5G technology.

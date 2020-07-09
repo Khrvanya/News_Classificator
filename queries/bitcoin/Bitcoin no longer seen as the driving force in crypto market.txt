@@ -1,0 +1,8 @@
+Bitcoin’s price moves are being driven by competing digital currencies.
+Bitcoin has plunged more than 30 per cent since hitting a year-to-date high. That fact is clear, but explaining why the world’s largest digital currency has lost momentum in the second half of the year is anything but.
+Some, like JPMorgan Chase & Co. have pointed to Intercontinental Exchange Inc.’s new futures contracts and an unwinding of long positions as likely culprits for the nosedive. Others have pointed to a buildup of technical bearish signals as setting off its summer swoon.
+Indexica, an alternative data provider, has a different take. According to their predictive index built on data from Aug. 1 through Oct. 1, Bitcoin’s fall has less to do with the currency itself and more to do with a growing cryptocurrency ecosystem.
+According to their latest findings, Bitcoin’s price moves are being driven by competing digital currencies and new blockchain technologies . Indexica’s study showed talk around Mastercard’s partnership with R3 to develop a new blockchain payment system as a strong driver of recent returns .
+That’s not necessarily a bad thing.
+Zak Selbert, chief executive officer at Indexica, says Bitcoin’s sensitivity to the development of competitors is just another sign of a coming of age. In a new development, Indexica found that Bitcoin’s strongest predictive measure was its “quoteability,” which showed that it was most often talked about in conjunction with more traditional currencies.
+“Now that Bitcoin is a big kid, anything can make it move, just like anything can make gold or a G-10 currency move,” said Selbert. “Bitcoin is part of the financial landscape in a very intertwined and mature way.”

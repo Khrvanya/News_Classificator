@@ -1,0 +1,13 @@
+Ripple, together with 40+ global companies and nonprofits, has joined the Open Payments Coalition.
+At the core of the Coalition is the launch of PayID: a free and open standard that allows for interoperability between payment networks.
+PayID will be integrated onto RippleNet to bring interoperability into cross-border payments.
+Earlier today, the team at Ripple announced that the company was joining the newly formed Open Payments Coalition. The latter is an organization created and made up of leading technology, finance and nonprofit companies who share a vision of interoperability between payment networks.
+Key to this goal is the launch of PayID : a free and open standard that allows for easy communication and settlement of transactions between payment networks.
+of the Open Payments Coalition include BitBNS, BitGo, BitPay, Bitrue, Bitso, Bitstamp, Blockchain.com, Brave, BRD, BTC Markets, CARE, CipherTrace, Coil, CoinField, Coinme, Coinone, Coins.ph, Crypto.com, DeeMoney, Dharma, Dwolla, FlashFX, Flutterwave, Forte, GateHub, GiveDirectly, The Giving Block, globaliD, GoPay, Huobi, Independent Reserve, Liquid, Mercury FX, Mercy Corps, Modusbox, PolySign, Standard Chartered Ventures, Sygnum, Tangem, TRISA, Unstoppable Domains, Uphold, Wyre and XUMM.
+PayID was created with the user in mind. It will allow individuals to send and receive money across any payment network via an easy-to-read address that will act as a universal payment identifier. PayID aims at reducing the hurdles many individuals face when sending funds across different platforms and the fees associated with the process. With PayID, sending payments will be as easy as sending an email.
+The SVP of Xpring at Ripple , Ethen Beard, further explained that the time was right for interoperability amongst payment networks.
+The next payments network should be open, like the web, where any company can participate just by building your service on the network.
+PayID is the beginning of building an open payments network that is designed for people and simplifies the experience of sending or receiving money.
+Building the open payments network that simplifies payments process will accelerate the growth and adoption of digital payments for everyone around the globe.
+Furthermore, PayID will be integrated onto RippleNet to further introduce interoperability into cross-border payments.
+Disclaimer: This article is not meant to give financial advice. Any additional opinion herein is purely the author’s and does not represent the opinion of EWN or any of its other writers. Please carry out your own research before investing in any of the numerous cryptocurrencies available. Thank you.

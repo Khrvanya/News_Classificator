@@ -1,0 +1,25 @@
+In the Péloponnèse region of southern Greece, some of the olive trees are a hundred years old and have been farmed via tried and tested methods over the decades; but these time-honoured approaches are now being augmented by Precision Farming .
+This is a modern farming management idea, using the latest technology with the aim of increasing the quantity and quality of agricultural products. The system, also referred to as Smart Farming , uses methods such as GPS, soil scanning and data management to more precisely take the required action at the right moment and give the necessary care needed to ensure healthy and substainable farming.
+In the Péloponnèse region, the new techniques are being used to create the right balance between traditional methods and the enhancement of advanced technologies.
+Scientists operating in the area are part of a European research project. Drones with multi-spectral cameras allow the olive oil producers to more precisely monitor the growth stages of each of their trees.
+Evangelos Anastaiou, an agricultural engineer and researcher from the Agricultural University of Athens said it's hugely helpful for keeping a close eye on the trees:
+"It’s like putting a microscope in the air. We can identify which trees are the most vigorous and healthy in comparison to others, then we can have targeted treatments for them all".
+Another important aim is the better control of irrigation. The site also features a Smart weather station. This is connected to soil moisture sensors and allows the farmer to remotely trigger watering when needed. The farmer can use their phone to trigger it, without having to visit in person. This allows more precise watering, saving time, money - and of course fresh water.
+Kostas Pramataris, a computer engineer with the high-tech company Synelixis , says the new  technology can ensure that each area gets the amount of watering it needs, minimising waste:
+"This device allows us to monitor the soil and to set some exact thresholds, so when the dryness of the soil goes below a specific level, it can start watering. It can then stop watering when the correct level is reached again".
+Helping these processes is yet another Smart device, an electrical conductivity sensor. This shows the location and movement of water underground.
+These technologies are currently still very expensive for farmers who are under financial pressure. But given the seriousness of the environmental stakes, many are keen to use them.
+Antonis Paraskevopoulos, Director of Rural Economy for the municipality of Trifylia, is convinced of the importance of the new technology:
+"These systems are going to help us to reduce the amount of resources we are using, which is one of our priorities. They are also aimed at producing safe products and increasing our production. But the most important thing is that the final product should be environmentally friendly. Considering those aims, we can't succeed without these new technologies."
+Smart Farming methods can also be seen working in a very different agricultural setting, far to the north of Greece. Sweden is one of the strictest countries in terms of animal welfare.
+A farm here is also part of the Smart Farming project. One of the methods being pursued here to aid animal welfare is fixing a sensors to sows ears, measuring the animals' heartbeat.
+Christophe Verjus is an engineer with the Swiss Research and Development Organisation CSEM . He says the device allows access to very useful information:
+"Thanks to the heart rate measurement, especially if we know the regular heart rate of a given animal, we will know if the animal has a fever, if she is stressed or sick. We will know this before there are visible symptoms. The farmer will then be able to act take the right decisions quickly".
+This technology helps farmers during farrowing, the births of the sows' litters. This is the most crucial moment in the farming process. Sows need to stay in good health to take care of their babies.
+Thanks to an alert system, farmer Jos Boterman and his son Frank can be aware quicker and react as soon as they know something needs to be done.
+Frank agrees that the new technology is invaluable:
+"When I’m at home, I don’t know what’s happening in the stable. With this data, I can see from home if a sow starts farrowing. So it helps me in the morning".
+All the data passes through an electronic terminal situated into the farm building, which works as a gateway. It also measures air quality and temperature.
+Ander Herlin, Senior Lecturer at the Swedish University of Agricultural Sciences , is co-ordinator of the project's Swedish operations. He believes the new technologies mark a big step forward:
+"Each animal is very important; it’s valuable and has its own right of welfare. So we have to monitor each animal and this is the idea about precision livestock farming".
+The global Smart Farming market is expected to double in the next five years and reach a value of 16 billion Euros.

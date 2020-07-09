@@ -1,0 +1,34 @@
+Juan Villaverde is an econometrician and mathematician devoted to the analysis of cryptocurrencies since 2012. He leads the Weiss Ratings team of analysts and computer programmers who created Weiss cryptocurrency ratings.
+We rarely make a big deal about crypto tech upgrades. We dissect them. We run them through our technology model. And we give you our objective analysis. Period.
+But this is an exception. Ethereum 2.0 is now finally moving forward in a substantive way, and it’s slated to have far-reaching consequences — not just for Ether itself, but for virtually the entire crypto space.
+Reason: Ethereum (ETH) remains, far and away, the world’s most popular smart-contract platform.
+It’s where thousands of projects reside. And it’s the platform where folks all over the world are scrambling to build the virtual economy of the future.
+The Ethereum network is so popular, in fact, that it’s routinely overloaded. Transaction times become agonizingly slow. Transaction fees become exorbitantly expensive. And it’s mostly been this way since 2017 — a chronic ailment that challenges the best minds.
+Bad news? Not entirely. Developers and sponsors of other, competing smart-contract platforms often wish they could have the same “disease.”
+Chronic congestion on the Ethereum network signals vast and growing worldwide adoption, arguably the single most important factor in the long-term success of any cryptocurrency.
+But the big disparity we see between popularity and practicality cannot last forever. Ethereum users can only put up with annoying network congestion for so long before they start looking for alternatives.
+That’s what has given rise to the likes of Cardano (ADA) , EOS (EOS) , Tezos (XTZ) , and others, all promising to be “new and improved versions of Ethereum.”
+Would any of them make sense if Ethereum was already the fastest and cheapest smart contract platform on the planet? Probably not.
+This is one reason why Ethereum 2.0 is such a big deal. If it works, it could seriously throw into question the raison d’être of wannabe Ethereum killers that have staked their futures on knocking the world’s No. 1 smart-contact crypto off its perch.
+Why? Because according to Ethereum founder Vitalik Buterin, when Version 2.0 is fully implemented, the time required to confirm a transaction will drop from minutes to a meager three to six seconds — about as long as it takes to swipe a credit card.
+Two major upgrades in the Ethereum code would make this possible.
+Remember: A blockchain is a database. And as the name implies, the databased is made up of a chain of blocks. Each block records a batch of transactions. And each block is linked to the next block in the chain in chronological order.
+The problem: If there’s just one single blockchain on which ALL transactions must be recorded, it can create a massive traffic jam.
+Imagine a single-lane superhighway with new traffic trying to ramp in from all sides. One obvious way of solving the problem: Build more lanes. In other words, run a bunch of parallel blockchains at the same time. Each shares its work across the group.
+Easy to say. Not so easy to do. And Ethereum is not the only one dealing with this issue. Other crypto projects have also been looking for solutions along these lines. They have the main blockchain. Then, they create a series of sidechains to share the workload. Think of it as the main highway flanked by side roads.
+Can this boost speed? Sure. But it’s still a fundamentally flawed design because the sidechains all have fed into the main blockchain, which effectively creates a new bottleneck. What’s worse, each sidechain has its own tokens, rules, and validators. So, things can get too darn complicated.
+Ethereum 2.0 does things differently; it uses a process called “ sharding .”
+Forget the superhighways and the side roads for a moment. Instead, walk over to a giant, disorganized library — so big and disorganized that it could take you years to find a single book. One possible solution: Assign each floor of the library to a single broad topic. Assign each row of bookcases to a subtopic. And then line all the books up alphabetically by author.
+This is akin to sharding in the world of databases, with each shard representing one piece that’s ultimately interconnected with every other piece. And it’s not entirely new: Sharding is already a technique that tech giants routinely use to expand their massive databases.
+Until now, only a few crypto development teams — Cardano, Hashgraph and now, Ethereum — have even figured out how this might be done in theory. None of them has actually implemented it in the real world.
+The big news: Ethereum 2.0 may soon become the very first to do so.
+One of the key reasons Ethereum has not been able to scale up to meet booming demand was that it essentially copied Bitcoin’s Proof-of-Work approach.
+With Proof of Work, miners compete to solve a complex cryptographic puzzle. Then the winner gets to write a new block of transactions to the blockchain and claim the reward for doing so. This mining requires faster and faster computers, consumes massive amounts of electricity and ... takes TIME!
+But in Version 2.0, Ethereum is slated to switch from the sluggish Proof-of-Work method to a much faster and efficient Proof-of-Stake approach.
+It’s kind of like a lottery system. If you’re participating on Ethereum 2.0, each token you hold (ETH) resembles a lottery ticket. The more tokens you have, the better your chances of being chosen to write a new block to the blockchain and claim the reward.
+Again, this is nothing new. Second- and third-generation blockchains already use Proof of Stake and do so pretty successfully. But Ethereum 2.0 adds some valuable new wrinkles.
+All very exciting! But don’t expect instant gratification. Upgrading a public open blockchain — especially one as popular as Ethereum — is an epic undertaking, akin to overhauling motorcycle engines while careening down the highway.
+In fact, it’s so difficult that legions of skeptics have famously doubted Ethereum 2.0 could ever be implemented. Now, however ...
+Ethereum developers have finally revealed their roadmap to Version 2.0, and it’s remarkably elegant in its simplicity.
+The main idea: The existing Ethereum network won’t actually be upgraded at all. Instead, Ethereum 1.0 will continue as before. And developers will release the first iteration of Version 2.0 right alongside it.
+None of the current Ethereum users will get a black eye if they decide not to switch. Meanwhile, as the overhauls are implemented and refined, the original Ethereum will be gradually phased out.

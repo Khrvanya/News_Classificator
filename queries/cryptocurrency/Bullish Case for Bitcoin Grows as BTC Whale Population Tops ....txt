@@ -1,0 +1,20 @@
+On-chain data shows the total number of Bitcoin whales surpassed a 3-year high above 1,800 over the past 3 months.
+Recently published data from glassnode shows there are currently more than 1,800 Bitcoin ( BTC ) whales. From a macro perspective, this increase in the number of whales can be considered bullish.
+The term whale is used within the crypto industry to describe an individual investor that holds a large amount of BTC. Typically, whales are early Bitcoin investors or wealthy individuals that newly enter the cryptocurrency market but as institutional investors enter the market perhaps the boundaries of the term will expand to include new entities.
+The number of Bitcoin whales increased substantially since March. Source: Glassnode
+Why is a rise in whales a positive sign for Bitcoin?
+Some analysts believe that a high number of whales in the cryptocurrency market is not ideal because it can concentrate the market into the hands of a few market makers who impact liquidity.
+Furthermore, when a few investors hold a large portion of an asset’s supply, it can increase the risk of a severe correction when a sell-off among whales occurs.
+However, glassnode explained that the mean balance of Bitcoin held by whales has actually declined. The data also shows that the heavily centralized group of whales diversified in recent months.
+When the amount of Bitcoin held by whales increases, it could raise the level of concentration of Bitcoin’s supply to fewer investors. But, when the amount remains the same and the number of whales increases. This is an indication that there are simply more investors holding a large amount of BTC.
+According to Liesl Eichholz, author of the glassnode report:
+“The mean Bitcoin balance held by each whale is actually decreasing slightly. In other words, individual whales are not, on average, getting richer - but there are more of them.”
+The origin of the new Bitcoin whales further strengthens the argument that an increase in their number is a positive trend. Eichholz explained that the new whales are not necessarily new investors who entered the market in 2020. Instead, they are investors who chose to withdraw their funds from exchanges, possibly to cold storage or individual wallets.
+The movement of funds from exchanges to personal wallets might indicate declining appetite to sell or trade in the short-term.
+Whales could anticipate a strong medium to long-term Bitcoin price trend, and are choosing to hold onto BTC expecting a bull market . Eichholz explained:
+“Where did all these new whales come from? Much of the recent increase can be attributed to wealthy entities withdrawing their BTC from exchanges. Apparently, this is not new wealth - rather, it represents a change in the way Bitcoin whales are choosing to hold their coins.”
+On March 13, the price of Bitcoin dropped below $4,000, following the liquidation of over $1 billion in futures contracts. Eichholz noted that whales might have bought the dip in March, and are now moving the funds to a secure storage with a long-term investment strategy.
+“While there is no single explanation of what caused these large holders to withdraw their BTC from exchanges, the chart in Figure 9 [Bitcoin exchange outflows] suggests that whales may have used Black Thursday as an opportunity to get in at the bottom and then withdraw their bitcoin to HODL for the longer term in anticipation of the next bull run.”
+Bitcoin exchange outflows rose steeply in March. Source: Glassnode
+In late March, outflows of Bitcoin from cryptocurrency exchanges saw a large spike. This coincided with a rise in the number of whales, suggesting that high-net-worth investors individuals aggressively bought into the 60% drop in Q1 2020.
+In the medium-term, the reluctance of whales to sell or trade Bitcoin at current price levels may lead to a newfound uptrend, supplemented with a decline in selling pressure.

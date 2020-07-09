@@ -1,0 +1,10 @@
+A planned schedule for escrow releases continues as XRP/USD stays near over two-year lows, with Ripple set to release at a total of 55 billion tokens.
+Ripple , the blockchain payment network notionally tied to altcoin XRP , has begun 2020 by releasing funds from its escrow worth $192 million.
+Data scanned from the XRP blockchain by monitoring resource Whale Alert caught the latest consignment of XRP tokens, which forms one installment of a pre-planned release schedule Ripple began in 2017.
+In a blog post at the time, officials explained that they would lock up 55 billion XRP, releasing funds each month over 55 months.
+The reason, they said, was to incentivize investors to keep interest and usage of XRP consistent.
+“We use Escrow to establish 55 contracts of 1 billion XRP each that will expire on the first day of every month from months 0 to 54. As each contract expires, the XRP will become available for Ripple’s use,” the blog post read.
+Prior to the scheme beginning, Ripple was selling around $300 million in XRP each month. However, in 2019, sell-offs noticeably intensified, with Ripple disposing of more tokens last year than any other.
+The escrow movements have further failed to stem a dramatic decrease in the price of XRP relative to both Bitcoin ( BTC ) and the US dollar. As Cointelegraph reported , XRP/USD fell to more than two-year lows in December.
+This week, meanwhile, Ripple chief technology officer David Schwartz claimed that XRP purchases did not actually make Ripple any richer. At the same time, he described the company’s selloffs as “negligible.”
+XRP barely reacted to the escrow release, steadying at just above $0.19 while other major altcoins fell by around 1%.

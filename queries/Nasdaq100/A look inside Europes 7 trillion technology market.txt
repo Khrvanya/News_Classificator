@@ -1,0 +1,19 @@
+There’s no doubt US tech stocks have thrived in 2020, but a raft of their European counterparts have returned huge profits for investors during the first six months of this year.
+Sinch, the Stockholm-based cloud telecoms firm, is up a teeth-kissing 170% year-to-date. Second-best is Dutch fintech play Adyen: its market cap grew from $223 billion to $389.4 billion, driving its stock price up by 74%.
+The NASDAQ 100 (NDX) is commonly used as a benchmark for the US tech industry. 17 tech firms in Europe have outperformed the NDX this year.
+Swedish accounting gem Fortnox just beat Germany’s TeamViewer for third place, but they were close, both up around 52% in the past six months. It’s far less than its US counterpart Zoom Video , but still impressive.
+In a bid to map Europe‘s €6.12 trillion ($6.95 trillion) technology market, Hard Fork analyzed the 72 companies listed as “Information Technology” in the MSCI Europe Investable Market Index , as tracked by BlackRock’s corresponding iShares ETF. It follows almost 1,000 stocks of all kinds across Europe.
+MSCI notes that its IMI market index represents “99% of the free float-adjusted market capitalization across the Developed Markets countries of Europe.” A number of European countries are absent from the IMI market index; many are classified as “emerging markets,” so they were not included in this analysis.
+The heat map below shows weighted growth of each country’s technology market values. Countries in the deepest blues are home to tech firms that added the most value to their market caps. Those in the red hue have lost value in 2020.
+(NB: If the visualization doesn’t show, please try reloading this page in your browser’s “Desktop Mode.”)
+Turns out, Holland’s four tech companies put their nation way ahead of the rest of Europe. Previously mentioned Adyen grew 74.64%, supported by a trio of semiconductor firms: ASM, ASML, and BESI, which grew 34%, 21%, and 11% respectively.
+Italian fintech incumbent NEXI’s value swelled by more than 22% this year, which pushed its native homeland to second place. If its public tech companies were the entire nation, Italy would’ve grown by more than 17% this year.
+The growth of each country is value-weighted, much like the S&P 500 stock index. With this method, companies with the largest market values (traditionally the most “stable”) affect the growth rate of their country the most.
+Take Finland, home to two public tech companies with vastly different market caps: phone lords Nokia with $24.72 billion; and IT wizards Tieto with a little over $3 billion. The average market cap of those two companies gives Finland’s weighted market value.
+Nokia’s market value grew by 12.35%, while Tieto’s is down 12.71%. But, after comparing Finland’s weighted market cap at the start of the year to the end of June, Finland ends up posting a growth rate of 8.72%.
+After all, Nokia is a vastly bigger company, so its growth should be worth more to Finland overall.
+Unfortunately for Spain, lacklustre performances from its two public tech companies put it at the bottom of the rankings for at least the first half of 2020.
+Dominion, IT services provider for engineering sector, shrunk by 24%. Fellow IT services firm Armadeus was hit worse, likely due to its connection to the global travel and tourism industry; its market value more than halved this year. This gave Spain a growth rate of -49%.
+Using the same method to benchmark Europe‘s tech market as a whole, we found its growth rate for the first half of 2020 to be -6.8%. You can check out Hard Fork’s European tech stock spreadsheet in full here .
+Still, there’s been loads of opportunity in Europe this year, but odds are you would’ve found it in the Netherlands. Super lekker.
+Do you want to get the sassiest daily tech newsletter every day, in your inbox, for FREE? Of course you do: sign up for Big Spam here .

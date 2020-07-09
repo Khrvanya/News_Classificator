@@ -1,0 +1,14 @@
+Monero Hacker Group ‘Outlaw’ Is Back and Targeting American Business: Report
+A group specializing in hijacking victims’ computer power to mine for monero has returned with new tools to attack businesses based in the U.S. and Europe.
+Japanese cybersecurity firm Trend Micro reported Monday the group, known as Outlaw, had begun infiltrating Linux-based enterprise systems in order to hijack computer power and mine for the privacy coin monero (XMR), a process known as cryptojacking.
+Trend Micro’s report said Outlaw used a combination of pre-existing tools and new techniques to monitor for programs that could detect its malware.
+Related: North Korea Is Expanding Its Monero Mining Operations, Says Report
+The newly improved malware can also hunt down and kill existing mining bots – even the group’s previous miners – found in infected systems, taking out the competition and improving mining profits. Past iterations had only been able to partially reduce the activity of rival mining bots.
+Trend Micro said Outlaw’s activity began increasing in December following several months of inactivity. “[W]e expect the group to be more active in the coming months as we observed changes on the versions we acquired,” the report reads.
+Although Outlaw had previously confined itself to computer systems in China, Trend Micro’s report found it was now targeting businesses in Europe and the U.S. The cybersecurity firm found the group targeted several of its honeypots – mechanisms designed to lure hackers to attack it – situated across the Eastern European region.
+The report did not disclose the names of any businesses, in the U.S. or elsewhere, that had been affected by Outlaw’s malware.
+Related: Do Custodians Wield Undue Influence on Crypto Market Prices?
+The group might also try to steal information and sell it to the highest bidder, Trend Micro said. Companies in the financial and auto industries that have not recently updated their internet security systems are at high risk, the cybersecurity firm warned.
+Outlaw first came to prominence in 2018 after it installed crypto-mining bots in the software of internet-of-things (IoT) devices. In 2019, Trend Micro detected the group attacking computer systems in China with a similar malware design that would hijack computer power to mine monero.
+Malware that hijacks computer power to mine monero is not uncommon. In February 2018, more than half a million computers were infected with a botnet that mined nearly 9,000 XMR tokens (then worth approximately $3.6 million) over a nine-month period. Being a privacy coin, hackers can sell monero without risk of detection from authorities.
+Very little is known about the Outlaw hacking group, not even what it call itself. Trend Micro coined the name “Outlaw” as a translation of the Romanian word haiduc, which is the name of one of the group’s favorite hacking tools.

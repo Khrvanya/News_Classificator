@@ -1,0 +1,13 @@
+A newly detected threat group has stolen an estimated minimum of $200m from cryptocurrency exchanges in just two years.
+The dastardly deeds of cyber-criminal organization CryptoCore were discovered by security firm ClearSky Cyber Security . Recently published research by the company revealed that the threat group has been active since at least May 2018, primarily targeting victims in the United States and Japan.
+CryptoCore appears to have achieved dizzying heights of financial success despite relying on unsophisticated attack techniques.
+"This group is not extremely technically advanced, yet it seems to be swift, persistent, and effective, nevertheless," wrote researchers.
+"The CryptoCore group is known for having accumulated a sum of approximately 70mil USD from its heists on exchanges. We estimate that the group managed to rake in more than 200mil USD in two years."
+CryptoCore almost exclusively targets cryptocurrency exchanges and companies working with them via supply-chain attacks.
+The key goal of the group's heists is to gain access to digital wallets associated with cryptocurrency exchanges, including corporate wallets and wallets belonging to the exchanges' employees. Researchers say that access is gained via spear phishing.
+"The group’s key infiltration vector to the exchange is usually through spear phishing against the corporate network," wrote researchers, adding that "the executives’ personal email accounts are the first to be targeted."
+The spear phishing is typically carried out by impersonating a high-ranking employee either from the target organization or from another organization with connections to the targeted employee.
+Contained within the spear phishing email is a malicious Bitly link that appears to go to a Google Drive folder but actually sends the victim to a landing page controlled by the threat group.
+After gaining an initial foothold, the group accesses the victim’s password manager account and steals their crypto-wallet keys.
+ClearSky has been tracking the threat group for two years, observing a fairly constant stream of activity, though attacks did slow in the first half of 2020, with researchers attributing the lull to the COVID-19 pandemic.
+Despite their prolonged tracking of CryptoCore, researchers were unable to conclusively pinpoint the threat group's origin. Researchers would say only that "we assess with medium level of certainty that the threat actor has links to the East European region, Ukraine, Russia or Romania in particular."

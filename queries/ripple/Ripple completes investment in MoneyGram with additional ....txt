@@ -1,0 +1,18 @@
+Ripple has completed its commitment to buy $50 million worth of equity in money remittance service MoneyGram.
+In a press release shared with Coin Rivet, MoneyGram announced that Ripple had successfully acquired a further $20 million worth of equity in the NASDAQ-listed company having already invested $30 million earlier this year.
+Ripple purchased newly created equity at a price of $4.10 per share, which is significantly higher than MoneyGram’s current market price of around $3.00. However, the extra capital will be used to develop ‘On-Demand Liquidity’ (ODL) solutions.
+Ripple’s ODL technology uses XRP digital assets to send money globally and instantly for low fees.
+Chairman and CEO of MoneyGram Alex Holmes said of the investment:
+“Our partnership with Ripple is transformative for both the traditional money transfer and digital asset industries – for the first time ever, we’re settling currencies in seconds. This initial success encourages us to expedite expanding our use of On-Demand Liquidity.”
+Holmes tweeted his support for ODL technology after discussions with Ripple at the recent SWELL conference.
+I spoke with @bgarlinghouse at #SwellbyRipple about the @MoneyGram partnership with @Ripple and what's next for the money transfer industry. Using #ODL will strengthen and streamline the settlement engine that lets our customers send money in over 200 countries and territories. https://t.co/tFnq2S3NAJ
+— Alex Holmes (@walexholmes) November 8, 2019
+Describing the technology as the next stage of the international remittance industry, Holmes said he hopes that ODL will allow MoneyGram to “strengthen and streamline” its settlement processes.
+At present, MoneyGram is moving 10% of its Mexican peso foreign exchange using Ripple’s ODL technology, and is now working on four additional currency corridors.
+Despite the investment, MoneyGram’s stock price fell by 2.2% today, possibly as the news was already priced in following the original investment announcement.
+Ripple’s original $30 million investment in MoneyGram was announced by CEO Brad Garlinghouse in June this year.
+As reported by Coin Rivet in August, MoneyGram’s stock price rose 168% on the news. Ripple announced at the time that it would be looking to invest a further $20 million in MoneyGram within the next two years.
+However, Ripple has fulfilled its commitment within the same financial year, and now owns 9.95% of MoneyGram’s outstanding common stock.
+Ripple has been moving from strength to strength this year, announcing at a recent SWELL conference that its next step is to attract more banks to its platform .
+Earlier this month, it was also announced that SBI Ripple Asia, a Tokyo-based entity using Ripple’s blockchain technology, launched the first-ever blockchain remittance service between Japan and Vietnam, with settlement times of just a few minutes.
+Ripple is also working with SBI Holdings to provide a Ripple-powered ‘MoneyTap’ app, which lets users make payments using just a QR code or phone number.

@@ -1,0 +1,12 @@
+Please consider using a different web browser for better experience.
+Please enable JavaScript in your browser for a better site experience.
+A Northern European digital assets exchange is to delist the privacy-focused monero cryptocurrency to align with international anti-money-laundering standards.
+Estonia-based BitBay announced Monday that monero (XML) will no longer be tradeable from Feb. 19, 2020. However, the crypto exchange is to cease deposits of XML as of this Friday, Nov. 29, and will block withdrawals temporarily from Friday to Dec. 5 around the time of a planned monero hard fork.
+All users must withdraw any remaining XML by 20 May, 2020, according to the notice.
+Explaining the move, BitBay said monero is being delisted due to its privacy features. The cryptocurrency uses tech called ring signatures that jumble up small groups of transactions to obfuscate individuals’ identities.
+“The decision was made to block the possibility of money laundering and inflow from external networks,” the firm said, adding that other crypto exchanges have dropped monero over the same concern.
+“As a licenced exchange, BitBay has to follow the market standards. Compliance with market standards and regulations allows us to provide our clients with legal security and convenience of using the exchange, with the participation of a friendly banking system and the availability of payment operators,” BitBay said.
+As mentioned, monero’s privacy protections have led to other trading platforms halting support in recent months. For example, OKEx Korea dropped XML , as well as horizen (ZEN) and super bitcoin (SBTC), in October. It said at the time it was reviewing a decision to delist zcash and dash as well.
+Other privacy coins have been seen as too risky by some exchanges too. Coinbase dropped zcash from its U.K. platform in August. The move was likely a compliance push related to building a new banking relationship after being dropped by Barclays.
+The flurry of delistings has developed since global money-laundering watchdog, the Financial Action Task Force, released international guidance on crypto assets in July.
+The leader in blockchain news, CoinDesk is a media outlet that strives for the highest journalistic standards and abides by a strict set of editorial policies . CoinDesk is an independent operating subsidiary of Digital Currency Group, which invests in cryptocurrencies and blockchain startups.

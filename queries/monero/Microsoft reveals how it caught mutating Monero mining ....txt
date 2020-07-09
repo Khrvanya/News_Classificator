@@ -1,0 +1,14 @@
+Microsoft‘s antivirus and malware division recently opened the bonnet on a malicious mutating cryptocurrency miner. The Washington-based big tech firm revealed how machine learning was crucial in putting a stop to it spreading further.
+According to the Microsoft Defender Advanced Threat Protection team, a new malware dubbed Dexphot has been infecting computers since last year, but since June 2019 has been burning out thanks to machine learning.
+Dexphot used a number of techniques such as encryption, obfuscation layers, and randomized files names, to disguise itself and hijack legitimate systems. If successful, the malware would run a cryptocurrency miner on the device. What’s more, a re-infection would be triggered if system admins detected it and attempt to uninstall it.
+Microsoft says Dexphot always uses a cryptocurrency miner, but doesn’t always use the same one. XMRig and JCE Miner were shown to be used over the course of Microsoft‘s research.
+At its peak in June this year, 80,000 machines are believed to have displayed malicious behavior after being infected by Dexphot.
+Detecting and protecting against malware like Dexphot is challenging as it is “polymorphic.” This means that the malware can change its identifiable characteristics to sneak past definition-based antivirus software.
+While Microsoft claims it was able to prevent infections “in most cases,” it also says its “ behavior-based machine learning models ” acted as a safety net when infections slipped through a system’s primary defenses.
+In simple terms, the machine learning model works by analyzing the behavior of a potentially infected system rather than scanning it for known infected files — a safeguard against polymorphic malware. This means systems can be partly protected against unknown threats that use mechanics similar to other known attacks.
+On a very basic level, system behaviors like high CPU usage could be a key indicator that a device has been infected. When this is spotted, antivirus software can take appropriate action to curtail the threat.
+In the case of Dexphot, Microsoft says its machine learning-based detections blocked malicious system DLL (dynamic link library) files to prevent the attack in its early stages.
+Microsoft has not released any information on how much cryptocurrency was earned as a result of the Dexphot campaign. But thanks to Microsoft‘s machine learning strategy it seems to be putting a lid on it, as infections have dropped by over 80 percent.
+It seems as long as there is cryptocurrency, bad actors will attempt to get their hands on it.
+Just yesterday, Hard Fork reported that the Stantinko botnet, that’s infected 500,000 devices worldwide, has added a cryptocurrency miner to its batch of malicious files.
+Do you want to get the sassiest daily tech newsletter every day, in your inbox, for FREE? Of course you do: sign up for Big Spam here .

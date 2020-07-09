@@ -1,0 +1,20 @@
+Microsoft, EY, and ConsenSys have managed to launch a new Ethereum protocol, Baseline.
+The protocol is intended for companies that are interested in using Ethereum blockchain, but were hesitant due to its total transparency.
+Now, they have Baseline, which will allow them to keep their privacy while serving for procurement and other purposes.
+A new protocol called Baseline was just launched by Microsoft , ConsenSys , and EY. The protocol was designed for all businesses and companies that are interested in using Ethereum’s blockchain in private, secure ways. This is a major game-changer for firms interested in ETH, that were concerned about its blockchain being too public.
+Baseline, which was originally announced on March 4th, had its source code published on GitHub only days ago, which made it available for all developers
+and businesses that wanted to inspect it and obtain it.
+create a private system on Ethereum’s blockchain. Due to its transparency, all
+Ethereum transactions are completely public and available for everyone to see,
+own private blockchains, creating enterprise versions of ETH blockchain. Now,
+with Baseline seeing an official launch, there will be no need for businesses
+to go through this extra effort. They can simply use Ethereum and not
+private by using zero-knowledge proofs, distributed identity systems, and
+protocol may have been developed for product procurement purposes, although it
+can also be used for other business activities. This can be seen in its ability
+data can then be handled on Ethereum via smart contracts.
+Another aspect of the protocol is a demo,
+The protocol holds quite a large potential,
+Quorum reliance, ConsenSys is one of the largest Ethereum companies, and EY
+already created its own blockchain a few years ago. Now, the protocol is attracting
+A journalist, with experience in web journalism and marketing. Ali holds a master's degree in finance and enjoys writing about cryptocurrencies and fintech. Ali’s work has been published on a number of cryptocurrency publications. Raza is the co-founder of 5Gist.com, too, a site dedicated to educating people on 5G technology.

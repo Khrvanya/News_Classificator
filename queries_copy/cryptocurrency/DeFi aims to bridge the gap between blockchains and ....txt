@@ -1,0 +1,6 @@
+Decentralized finance could foster fairer, more transparent economic systems
+If you’ve been following cryptocurrency news for the past few months, there’s one word that keeps coming back — DeFi, also known as decentralized finance. As the name suggests, DeFi aims to bridge the gap between decentralized blockchains and financial services.
+The original purpose of bitcoin hasn’t changed; it’s a crypto asset that lets users transfer money digitally without any bank in the middle. During the early days of bitcoin, people claimed that the blockchain could replace banks altogether.
+But retail banks provide a ton of services beyond payments. If you have a bank account, it’s unlikely that you only use it to store, receive and send money. You may have a credit card, a savings account, a loan, some shares, etc.
+That’s why developers have been looking at ways to port financial services to blockchains that support smart contracts. Some blockchains, such as Ethereum , EOS or Tezos , let you add a script to a transaction. The script is executed when some conditions are met.
+And this is a key element of DeFi — the financial product shouldn’t be managed by a central server. Everything happens on the blockchain. If you want to read the fine print of your financial product, you can look at the code on the blockchain directly.

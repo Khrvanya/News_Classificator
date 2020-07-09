@@ -1,0 +1,20 @@
+Please consider using a different web browser for better experience.
+Please enable JavaScript in your browser for a better site experience.
+American Buyers Are Fueling Bitcoin’s Rally, Data Suggests
+Bitcoin's recovery from March lows is being fueled by U.S. investors hoping to ride a bull market. (Image: Shutterstock)
+American Buyers Are Fueling Bitcoin’s Rally, Data Suggests
+Bitcoin is now up over 20% in 2020 after rallying to over $9,500 on Thursday. The cryptocurrency’s recovery from March lows ahead of the protocol’s third halving event is primarily fueled by American investors, according to market data.
+On U.S.-based exchanges, bitcoin has traded at sustained premiums during the end of March and through April. Spot premiums indicate that an exchange is experiencing stronger buy-side pressure relative to other spot markets, signaling higher demand.
+By contrast, after the cycle lows in December 2018, bitcoin spot prices on all dominant exchanges traded closely to the index price.
+Bitcoin futures markets also reflect the strong bullish sentiment of American investors.
+When bitcoin plunged to $3,867 on March 12, according to CoinDesk’s Bitcoin Price Index , open interest for bitcoin futures markets across the industry plummeted by over 50 percent. Open interest for bitcoin futures on BitMEX, Huobi, and OKEx are still down significantly from their pre-March 12 levels, according to data from Skew .
+Bitcoin futures open interest for Huobi, OKEx, and BitMEX
+Neither BitMEX nor Huobi serve U.S. customers. OKEx has only recently allowed U.S.-based traders from a small number of states to use its platform.
+Meanwhile, open interest for CME bitcoin futures has more than recovered from its March lows and continues to rally. Although CME open interest is much smaller in relative terms than BitMEX, OKEx or Huobi, these data nonetheless corroborate significantly higher buying interest from U.S.-based investors compared to their non-U.S.-based counterparts. Renaissance Technologies, a market-crushing, U.S.-based asset manager, also recently signalled interest in joining the bitcoin futures market.
+Why Americans are scrambling to buy bitcoin is an open question. Bitcoin’s third halving event is less than two weeks away, and Google search data shows record interest in the event. Some buyers might be anticipating significant price inflation after the event.
+Bitcoin miners choosing to accumulate long-term spot positions ahead of the halving could also account for the interested buy-side demand. And the number of small bitcoin investors, specifically in the U.S., seems to be quickly growing .
+“I also think halving FOMO [“fear of missing out”] and some miner buying activity is a factor, particularly given how good [bitcoin’s] hashrate has looked in the last month,” said Aditya Das, cryptocurrency market analyst at Brave New Coin.
+Bitcoin’s recent rally is “healthier” than previous upward trends, said Yan Liberman, former associate at Deutsche Bank and co-founder of Delphi Digital, a digital asset research group, in a correspondence with CoinDesk. Since “ Black Thursday ,” bitcoin has been “supported by strong growth in spot volumes on exchanges like Coinbase, while futures open interest remained relatively flat at $2 billion following the leverage flush during the March selloff,” said Liberman.
+By comparison, bitcoin’s rally at the start of 2020 was “buoyed by speculation,” according to Liberman, based on the doubling of open interest in bitcoin futures markets from $2 billion to over $4 billion within two months.
+That U.S. buyers are leading bitcoin’s rally from its March lows is a uniquely bullish signal to some traders. Su Zhu, CEO of Three Arrows Capital, told CoinDesk that American investors “should give us a strong base given that U.S. tax policy means nobody sells spot for small profits.”
+The leader in blockchain news, CoinDesk is a media outlet that strives for the highest journalistic standards and abides by a strict set of editorial policies . CoinDesk is an independent operating subsidiary of Digital Currency Group, which invests in cryptocurrencies and blockchain startups.

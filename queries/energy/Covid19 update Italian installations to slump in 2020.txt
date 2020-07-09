@@ -1,0 +1,89 @@
+Wind and solar developments will be delayed in North America because the coronavirus (Covid-19) pandemic is disrupting the supply chain, panellists in a Norton Rose Fulbright webinar agreed.
+Miguel Prado, CEO of EDP Renewables North America, said his company is starting to get ‘force majeure’ notices from suppliers — a legal warning that unforeseeable circumstances will prevent the party from fulfilling a contract.
+Prado, whose company has more than 1GW in construction or pre-construction, said some wind projects expected to be commissioned in 2020 will now be delayed to 2021, causing a hit to his company’s revenue.
+Paul Gaynor, CEO of Longroad Energy, noted a slow-down in permitting and requests for grid interconnection because the people his company needs to contact are working remotely.
+Engineering, procurement and construction contractors are also starting to warn clients they may not be able to get the people to fulfil a job, said Jim Torgerson, CEO of Avangrid.
+Meanwhile, requests for proposals may get delayed so much that there will be a rush of them in the autumn, predicted Guy Vanderhaegen, CEO of solar developer Origis Energy.
+On the finance side, the lender market has become more uncertain because of the pandemic, with lenders starting to back off primarily because they are unsure of pricing, said Mike Garland, CEO of Pattern Energy.
+He called for a two-year extension of the Production and Investment Tax Credits and direct relief on tax equity requirements.
+Meanwhile, Gaynor called for flexibility on the need to take delivery within 105 days of ‘safe harbour’ equipment bought at the end of 2019.
+The ‘safe harbour’ provision allows wind projects to be considered as having begun construction by the end of the year if a minimum of 5% of the project’s total capital cost is incurred.
+Wood Mackenzie has downgraded its forecast for 2020 installations due to the coronavirus (Covid-19) pandemic.
+It now predicts 73GW will be installed this year — a 5GW decline from previous projections before the virus’ spread.
+China and the US , which were forecast to deliver record volumes of new capacity, will take the brunt of the impact on global installations.
+In Europe, Spain , Italy and France could be hit harder on a percentage basis due to lockdown measures inhibiting worker mobility, according to Wood Mackenzie.
+Factory closures, like those at Siemens Gamesa, will likely result in turbine installation delays both domestically and possibly for the US.
+Border closures between European countries could also impact aggressive build schedules, especially for markets like Norway, where foreign project teams are unable to enter.
+Australia has a substantial pipeline of projects for completion in 2020-2021, most with 3.6-4.2MW rated turbines imported from Europe. Supply disruptions from lockdowns in Spain and Germany could jeopardise build schedules.
+Turbine production and wind farm construction in China are recovering with local governments now encouraging local facilities to return to work as the outbreak is believed to be under control.
+Though supply disruptions are emerging in western Europe, China’s supply of critical components such as wind turbine blades to the US outweighs that of Spain by two to one.
+India has been used as the main alternative to Chinese wind energy component production.
+An interruption in supply could restrict installations both domestically and abroad in western markets, according to Wood Mackenzie.
+Onshore wind auctions will continue to take place as planned despite the Coronavirus crisis, and bidders will be informed if they have been successful or not, said Germany's energy agency Bundesnetzagentur (BNA).
+But the results will not be published online until the epidemic has calmed down. This is because the publication of the results triggers the clock for the completion of these projects. Developers are then required to pay a security deposit for the project and will be at risk of incurring penalties for any delay.
+For the time being, only the total auction volume and the highest and lowest bids will be made public, the BNA said. Further, successful developers at previously completed auctions can apply for extensions to implementation deadlines without bureaucratic hurdles, it added.
+European independent power producer Encavis does not expect Covid-19 to affect its renewable energy operating business.
+Operation of its onshore wind farms and ground-mounted solar arrays is remote controlled meaning there is no risk to business as usual, it explained
+However, it has indefinitely postponed its annual general meeting, which had been scheduled for mid-May, to protect the health of shareholders and employees.
+Encavis owns 413MW of wind farms in Germany, France, Austra, Italy and Denmark.
+Danish manufacturer Vestas has reopened its blade factory in San Daimiel, Spain, after health authorities approved measures in place to combat the coronavirus (Covid-19).
+The plant had been reduced to minimum service after workers staged a sit-in on 15 March, protesting against what they claimed were inadequate safeguards against the virus.
+Vestas told Windpower Monthly it would continue to monitor the plant, and that it has emergency response plans in place in the event of a Covid-19 case.
+German developer ABO Wind said it is still too early to say what impact Covid-19 is having on the industry, but believes it is in a position to deal with the disruption.
+“We have to wait and see what impact Corona will have,” a spokesman for ABO Wind told Windpower Monthly.
+“At the moment it‘s too early to judge whether projects have to be postponed, [if] turbine supply problems will show up, or the already slow project permitting process will be slowed further as permitting authorities are also affected by Coronavirus mitigation measures.
+“We are relatively well-positioned, and can react flexibly despite measures like home working,“ he noted, adding, “although stopping Corona has top priority, it is important not to let the energy transition slide out of view, we still have to push ahead on that front.“
+Denmark's negotiations for a new climate bill have been postponed indefinitely.
+The bill would legislate a 70% reduction of carbon emissions by 2030.
+"Right now we use almost every effort to get through coronavirus outbreak. This does not mean that there is no willingness to look at equalization and climate. Those we will get to in the time ahead," said finance minister Nicolai Wammen.
+Plummeting electricity demand in Spain might send spot market prices below the floor price established in the country’s power auctions in 2016 and 2017, meaning operators would receive the lowest possible price.
+The average daily pool price has fallen to €27/MWh amid the coronavirus (Covid-19) pandemic, down from a daily average of just below €48/MWh throughout 2019. Spot prices have dropped as far as €14/MWh at times during the week.
+Prices are expected to drop considerably lower, a veteran technical adviser to the wind sector told Windpower Monthly.
+If this happens, operators of 2.3GW of online capacity will receive top-ups so that they are paid the €22-28/MWh floor prices set at auctions in 2016 and 2017.
+It will be up to consumers to make the difference on their electricity bills. Yet it is already predicted that many consumers will be unable to pay their March utility bills anyway due to falling income during the state of alarm.
+Meanwhile, reports are rife regarding requests to self-isolate from wind plant operating staff.
+However, Spain’s state of alarm decree — in place for two weeks from 15 March, though widely expected to be extended — establishes that electricity supply is a vital public service, and so workers are obliged to remain active. Indeed, wind was Spain’s second biggest generator of electricity in 2019.
+So far there has been no ostensible impact on overall wind plant performance nationwide.
+Spain’s wind association (AEE) issued a statement claiming wind production over the first 20 days of March (4,261GWh) is up on the same period last year — despite the pandemic. However, they do expect delays in logistics and supplies for operations and maintenance (O&M) in the coming weeks.
+AEE also expects the connection of new projects, now in the final stages of construction, to be delayed due to overloaded departmental work at regional administration level. This will affect around 1GW of projects.
+The renewables O&M association, AEMER, is concerned about the ban on more than one occupant in any vehicle. Spain’s Guardia Civil — a military force charged with police duties — is carrying out road checks, fining drivers and delaying activity. Work is also slowed due to the limit of one person per lift journey in wind turbine towers.
+This all means a shifting operator focus on corrective maintenance with a reduced focus on preventative maintenance.
+In such cases, operators need to ensure they are complying with their insurers’ policies and not cutting any dangerous corners leaving them uninsured, says an AEMER spokesperson.
+The impact of the coronavirus (Covid-19) on the North American wind sector will be “limited” because the market had already been shaken up by the recent US-China trade war, according to a wind power analyst.
+Head of global wind research at Wood Mackenzie Dan Shreve said the trade war had already forced major OEMs such as Vestas, GE and Siemens Gamesa Renewable Energy to diversify their supply chains.
+The analysis firm had already forecast many projects due to be commissioned in 2020 to be pushed back to 2021, he said on a podcast hosted by law firm Norton Rose Fulbright.
+However, Wood Mackenzie does not expect the Covid-19 pandemic to cause additional “major shuffling” of projects, Shreve added.
+The American Wind Energy Association (AWEA) and other trade bodies have co-signed a letter calling on US House and Senate leaders to extend tax credits for renewable energy and energy storage projects.
+The signatories have requested extensions to start construction and safe harbour deadlines to ensure projects can qualify for renewable tax credits, despite delays from supply chain disruptions caused by the coronavirus (Covid-19) pandemic.
+The ‘safe harbour’ provision allows wind projects to be considered as having begun construction by the end of the year if a minimum of 5% of the project’s total capital cost is incurred.
+They would, therefore, be eligible to claim the US’ main support scheme, the production tax credit (PTC).
+They have also asked that developers of generation and storage projects to receive direct pay equal to the value of the tax credits.
+The trade bodies cited disruptions to project schedules and a sudden reduction in the availability of tax equity needed to finance energy projects.
+In their joint letter, AWEA, American Council on Renewable Energy (ACORE), Energy Storage Association (ESA), National Hydropower Association (NHA), Renewable Energy Buyers Alliance (REBA), and Solar Energy Industries Association (SEIA) stated: “The growth of the clean energy sector, one of the nation’s most important economic drivers, is placed at risk by a range of Covid-19 related impacts.”
+UK seabed landlord the Crown Estate has revised the timetable for awarding rights to sites capable of supporting 7GW of offshore wind in its f ourth leasing round , in light of the coronavirus (Covid-19) pandemic.
+This stage was originally planned to last seven weeks, but will now be extended to ten weeks to allow bidders time to respond.
+However, assessment of this stage will still last 11 weeks, as set out in the original schedule.
+The Crown Estate envisages the second ITT stage starting in the second half of September 2020, followed by a bidding process including daily rounds beginning in October.
+A spokesperson the Crown Estate added: “We are responding to the fast-changing Covid-19 situation in the context of the Round 4 leasing programme, mindful of both the health and wellbeing of everyone involved and the need to ensure all bidders are treated fairly.
+“Our considered adjustments to some timings will help to allow additional time and flexibility for bidders, while ensuring minimal disruption to the overall programme timeline.”
+Two industry lobby groups have cancelled or postponed meetings in the wake of the coronavirus pandemic.
+CanWEA (Canadian Wind Energy Association) has cancelled its Spring Forum, which was due to be held in Montreal, Quebec on 28 April.
+On the other side of the Atlantic, RenewableUK has postponed its Global Offshore Wind 2020 event, which was due to be held 16-17 June in Manchester, England. It will now be held 27-28 October.
+Last week, analysts at BloombergNEF warned that cancelled trade events and company travel bans are threatening to weaken transaction volumes in the first half of the year.
+Vestas has been forced into temporarily reducing its San Daimiel blade facility in Spain to minimum service for four days.
+A protest on Saturday 15 March by the 1,300-strong workforce – against what they view as inadequate safety measures amid the Coronavirus contagion – turned into a sit-in, bringing the plant to a standstill.
+The workers’ committee is concerned that staff members with mild flu-like symptoms may be spreading the virus unwittingly.
+Management agreed to meet with the workers’ committee on Wednesday 18 March to discuss measures to resume production.
+Meanwhile, Siemens Gamesa closed its San Fernando de Henares technology centre in Madrid due to a member of staff testing positive for Covid-19.
+The centre manufactures power electronics and is a testbed for such technology, with a capacity of up to 10MW, including energy storage units.
+The manufacturer has also temporarily closed its blade plant in Navarre following a worker testing positive for the virus.
+It will carry out an “immediate, complete technical cleaning” of the building, it added.
+The employee is under observation.
+The Spanish wind energy association, AEE, says it has not been able to conclude an impact assessment related to the disease yet. There have been no confirmed cases among its own staff.
+Blade manufacturer LM Wind Power has closed its two Spanish production facilities due to the coronavirus (Covid-19) outbreak.
+A spokeswoman advised this was a mutual decision with workers’ union to move up the already planned Easter holiday.
+Equinor's head of renewables Pål Eitrheim is leading a taskforce handling the implications of the coronavirus outbreak.
+Senior vice president Jens Økland will stand in for Eitrheim as head of its New Energy Solutions division.
+The wind power industry’s supply chains closer to market in Europe and North America will be impacted as production and logistics are curtailed, analysts at Wood Mackenzie believe.
+They add that developers in the US are particularly under pressure as they aim to start construction by the end of the year to qualify for the production tax credit.
+However, restrictions in many US wind regions remain limited compared to Europe at the current moment.

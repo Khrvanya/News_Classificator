@@ -1,0 +1,27 @@
+What’s the outlook for Litecoin in 2020?
+Originally created by former Google employee and later CTO of Coinbase Charlie Lee , Litecoin (LTC) was one of the first serious altcoin projects developed with an actual purpose.
+While Bitcoin was seen as “digital gold” and a potential long-term store of value, Litecoin was created to be “silver” and used for everyday purposes.
+In essence, Litecoin possesses many of Bitcoin’s features, but is “lighter” to carry and faster to transact. Lee believes the goal and mission of Litecoin is to be a live testnet for Bitcoin.
+LTC has had a turbulent time in 2019, but how will Litecoin fare in 2020? Will higher volumes and fresh cash spur a new bull run after the disappointment of the halving ?
+Essentially, for any price appreciation to happen, we need serious volume coming into the cryptocurrency market.
+In the short term, the outlook for Litecoin is quite grim.
+Prior to mid-June, the altcoin was the best performing digital asset of 2019, growing more than 170% in fewer than 90 days and peaking at around $145. However, the uptrend sparked by the Litecoin halving did not last.
+The reality is that the Litecoin halving, which took place a few months back, may have been a ‘buy the rumour, sell the news’ type of event. Seasoned traders took profits weeks before it took place.
+A serious summer downtrend then saw LTC tumble to around $49 before a market-wide pump last month following Chinese President Xi Jinping’s bullish comments on blockchain.
+However, the positive sentiment seems to have faded away again and LTC is back in a downtrend.
+In Bitcoin terms, the outlook is even worse.
+Looking at the chart above, we can immediately conclude that LTC is near its yearly low against Bitcoin.
+At the moment, LTC is just above its 20-day EMA, sitting around 607,800 sats. Volume-wise, price is finding some weak support close to a key level, between 600,000 and 710,000 sats. The next strong level of resistance should be felt around 900,000 sats.
+If LTC is able to break above the 50-day EMA and sustain some support below the 200-day EMA, we could see a sudden shift in investor preferences. However, for the time being, it looks like Litecoin is in for a period of accumulation.
+Given Litecoin’s overall panorama, both in terms of USD and BTC, one could argue the altcoin is posed for a positive run during 2020.
+For Litecoin to start a serious bull run, I believe fresh cash needs to come into Bitcoin initially before investors and traders move some gains into LTC.
+The reason why I argue BTC has to pump first is due to historical reasons. Looking at both charts, it seems LTC/BTC moves before LTC/USD.
+Therefore, I believe we could potentially see a mini-rally before May 2020 given the upcoming Bitcoin halving, which will reduce Bitcoin’s block reward by 50%.
+During 2019, LTC pumped prior to its own halving, which took price close to all-time highs in Bitcoin terms.
+If Bitcoin recovers to its 2019 highs, around $14,000, we could definitely see some of the gains trickling down into the top altcoins such as Litecoin.
+Charlie Lee has also confirmed privacy is on the horizon for Litecoin next year.
+Litecoin is making moves to add privacy features through the Mimblewimble protocol.
+“We’re working with the Grim++ developers to add an implementation of Mimblewimble. It adds an extension block to the Litecoin main-chain. You can transact between chains to use enhanced privacy.”
+The goal would be to give Litecoin users improved privacy features when transacting.
+If there’s an altcoin fundamentally ready for a new push, LTC seems to be the one.
+Will LTC moon in 2020? We’ll have to wait and see.

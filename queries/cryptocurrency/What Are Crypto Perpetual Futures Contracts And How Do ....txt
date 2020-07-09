@@ -1,0 +1,20 @@
+What Are Crypto Perpetual Futures Contracts And How Do You Trade Them?
+Perpetual futures trading makes up a significant percentage of overall exchange-traded cryptocurrency trading volumes. Traders who are betting on the price developments of bitcoin and other digital assets are not that concerned with holding actual cryptocurrencies. Instead, they are happy to trade liquid crypto derivatives such as perpetual futures contracts.
+In this guide, you will be introduced to perpetual futures contracts and how you can start trading them.
+Register for a FREE Crypto Margin Trading Class here: http://bit.ly/MarginTrading2019
+What Are Perpetual Futures Contracts on Cryptocurrencies?
+Perpetual futures contracts on cryptocurrencies are financial derivatives enable traders to bet on the price movements of cryptoassets using leverage without owning the underlying digital asset.
+A futures contract is an agreement between two trading counterparties to buy (or sell) an asset at a specific price at a predetermined date in the future. A perpetual futures contract is effectively the same as a futures contract with the key difference being that they have no expiry date.
+The difference between the perpetual futures price and the price of the underlying asset or reference index is the funding rate. The funding rate is either paid or received depending on whether you are short or long.
+Despite the technical differences between trading cryptocurrencies or perpetual futures on cryptocurrencies, the actual trading process is effectively the same. That means anyone with basic knowledge of online trading can also trade crypto perpetual contracts.
+To illustrate how you can get started with trading crypto perpetual futures (regardless of where in the world you are located), the non-custodial crypto derivatives exchange Blockchain Board of Derivatives (BBOD) will be used as an example platform. But there are also a number of other crypto margin trading exchanges you could use.
+First, you need to register to BBOD by providing a user name, email, and password. Once you have confirmed your registration by clicking on the confirmation email, you are ready to go.
+Next, you can fund your account either using the stablecoin TrueUSD (TUSD) or the platform’s native BBOD (BBD) token. To make a deposit, simply send the funds you want to trade with to your account’s custody wallet address.
+After you have deposited your trading capital, you need to choose the cryptoasset you want to trade, and whether you want to go “long” or “short” the asset.
+Let’s say we want to take a small position in bitcoin (BTC) because we believe the price is about to rally. To do so, we click on the BTC/TUSD trading pair and enter the amount of TUSD we want to use to buy bitcoin (BTC).
+In this example, we place an order of 20 TUSD worth of BTC at a price of $8831. We type in the amount of TUSD and the price we want to buy BTC in the order execution window. Next, we click “Buy” and then, confirm the order.
+Once the order has been filled, we can view our open positions at the bottom of the dashboard. To close out our position, we can either place a limit order (with the target price we want to close our trade out at) or we can place a market order and our position will be closed at the best possible price.
+Once you have placed a sell order and it has been filled, you have completed your first bitcoin perpetuals futures contract trade. Hopefully, you were able to cash out at a profit.
+As you can see from the example above, trading crypto perpetual futures contracts is not as daunting or complicated as it sounds. It really isn’t much different than trading cryptocurrencies outright.
+This article is a guest contribution by Alex Lielacher, founder and editor-in-chief at BitcoinAfrica.io.
+to margin trading class on November 30th, 2019, Nairobi, Kenya. Get to learn how to open a crypto trading account, analyze charts, and manage Bitcoin trades

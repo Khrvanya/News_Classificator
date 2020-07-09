@@ -1,0 +1,11 @@
+In its March earnings call, U.S.-Latin American remittance provider, Intermex, revealed that it will not be using Ripple ( XRP )’s technology in its major markets. Intermex chief executive Robert Lisv explained:
+“So, you won’t really see us leveraging Ripple in our core markets. I think it will bring us more growth in newer markets in places where we’re exploring going into ancillary products.”
+Ripple announced its partnership with Intermex on Feb. 5, with its press release emphasizing that the deal would “enabl[e] faster cross-border payments between the U.S. and Mexico.”
+Despite Ripple's claims, Intermex's CEO asserted: "Ripple will not be an answer for places like Mexico. We’re very proud about the relationships we have there."
+Intermex has recently sought to expand its presence in Africa, suggesting that is likely the market where the payments company will employ Ripple’s technologies.
+Intermex is not Ripple’s only partner to reveal aspects of its partnership that likely have been poorly received by XRP holders.
+In a recent interview , a representative of U.S.-based payments firm, MoneyGram, revealed that the firm liquidates all XRP received through its partnership as soon as the tokens are received.
+During 2019, MoneyGram sold $11.3 million worth of XRP — increasing the monthly sell pressure on the XRP markets by $1 million.
+Ripple announced its partnership with MoneyGram in January 2018, with the deal intended to increase settlement speeds and bolster liquidity on the payments platform. MoneyGram began using Ripple’s technology in August 2019.
+Per a filing with the U.S. Securities and Exchange Commission (SEC), MoneyGram “is compensated by Ripple in XRP for developing and bringing liquidity to foreign exchange markets, facilitated by the ODL platform, and providing a reliable level of foreign exchange trading activity.”
+In November 2019, MoneyGram estimated that 10% of its Mexican peso volume is executed using Ripple’s 'On-Demand Liquidity' platform.

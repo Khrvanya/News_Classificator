@@ -1,0 +1,5 @@
+					var _otSliderTime = 4;
+		var _otSliderTime = (!_otSliderTime)?4:_otSliderTime;
+		var _otSliderCurrentPage = 0;
+		this.value = "http://" + this.value;
+/* <![CDATA[ */if ( !!window.jQuery ) {(function($){$(document).ready(function(){if ( !!window.SLB ) { {$.extend(SLB, {"context":["public","user_guest"]});} }})})(jQuery);}/* ]]> */

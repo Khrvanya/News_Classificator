@@ -1,0 +1,21 @@
+Updated 0859 GMT (1659 HKT) June 30, 2020
+Chat with us in Facebook Messenger. Find out what's happening in the world as it unfolds.
+Kenyan company, Usiku Games, has launched a video conferencing platform called Gumzo to compete with other video call applications.
+A Kenyan gaming company has launched a web-based video conferencing platform, Gumzo , which it describes as the first made in Africa video conferencing platform.
+Gumzo , which means "chatting" in Swahili, costs users $1 per week to access.
+Jay Shapiro, CEO of Usiku Games which created the platform, told CNN that his team started building the app in February as a response to the spread of Covid-19 on the continent.
+"When Covid-19 hit Africa, we realized that people were adopting video conferencing ... getting on the apps to call their loved ones in lockdown," he said.
+Shapiro's team wanted to create a localized video conferencing space for Africans to use as an alternative to apps made outside of the continent, he said.
+Gumzo has unlimited talk minutes and can accommodate an unlimited amount of users, according to Shapiro.
+It has options of screen sharing and full-screen presentation mode, he added.
+Unlike many video conferencing applications, it has no app to download or extensions to configure. Its calls happen in the browser so they can work on any phone or computer with internet access.
+Shapiro says one of the problems Gumzo addresses is poor network quality. Most video conferencing applications have their servers outside of Africa, he said, making it sometimes difficult to process calls within the continent.
+"Our calls are processed through servers on the continent, unlike with other apps where the calls in Africa are processed in China or San Francisco. We know we are creating better call quality by creating something that can be monitored in Africa," he explained.
+Since the web-based video platform launched in May, it has had more than 70,000 meeting minutes from people across the continent.
+And according to Shapiro, 50% of the revenue from Gumzo is being donated to non-profit organizations such as the Mombasa Red Cross and the Pwani food network focused on providing Covid-19 response in Africa.
+As of June 29, according to the World Health Organization, Africa currently has more than 380,000 cases of the virus.
+Shapiro says Gumzo calls are encrypted in order to ensure that conversations are secure.
+"Privacy and safety are important to us. Every person who registers to use our platform must use a valid phone number, we validate that by sending them an SMS code to verify it. We know their names and phone numbers, unlike other apps where anyone can join anonymously," he said.
+By double-checking names and phone numbers of people who register to use Gumzo, meeting hosts are able to see names and phone numbers of users before allowing them into meetings, Shapiro added.
+Participants who behave inappropriately during video calls can easily be identified by their name and number.
+Shapiro says so far, the platform has been translated to French and Swahili, and will soon be available in other African languages such as Zulu and Hausa.

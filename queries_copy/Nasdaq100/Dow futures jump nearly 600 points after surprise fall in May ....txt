@@ -1,0 +1,33 @@
+1 min read . Updated: 05 Jun 2020, 06:32 PM IST Agencies
+US stock index futures sharply extended gains on Friday after a closely watched monthly employment report from the Labor Department showed the jobless rate unexpectedly dropped to 13.3% last month from 14.7% in April.
+At 8:36 a.m. ET, Dow e-minis were up 592 points, or 2.25%. S&P 500 e-minis were up 45.75 points, or 1.47% and Nasdaq 100 e-minis were up 34.25 points, or 0.36%.
+Moments before the data, Dow e-minis were up 304 points, or 1.16%. S&P 500 e-minis were up 22.5 points, or 0.72% and Nasdaq 100 e-minis were up 11.5 points, or 0.12%.
+Nonfarm payrolls rose by 2.5 million after a 20.7 million tumble the prior month that was the largest in records back to 1939, according to Labor Department data Friday. The jobless rate fell to 13.3% from 14.7%.
+Treasury yields and U.S. stock futures jumped after the surprise report, while the dollar spiked against the yen.
+The unexpected improvement wasn’t limited to the U.S. figures. North of the border, Canadian employment rose 290,000 in May, compared with forecasts of a 500,000 slump, its statistics office reported Friday.
+The data show a U.S. economy pulling back from the brink as states relax restrictions and businesses bring back staff, while supporting a rebound in the stock market. At the same time, the lack of an effective treatment for Covid-19 -- which has already killed more than 100,000 in the U.S. -- means infections may persist and possibly surge in a second wave, with the potential to further shake the labor market and extend the economic weakness.
+“These improvements in the labor market reflected a limited resumption of economic activity that had been curtailed in March and April due to the coronavirus pandemic and efforts to contain it," the Labor Department said in a statement.
+This story has been published from a wire agency feed without modifications to the text. Only the headline has been changed.
+* Thank you for subscribing to our newsletter.
+Click here to read the Mint ePaperLivemint.com is now on Telegram. Join Livemint channel in your Telegram and stay updated
+You are now subscribed to our newsletters. In case you can’t find any email from our side, please check the spam folder.
+lozad('.lozad', { load: function(el) { el.src = el.dataset.src; el.onload = function() { el.classList.add('fade')}}}).observe()
+.myAccount .planSec, .myAccount a.LinkCTA{padding:16px; margin:16px; box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.1); background-color: #fff;}
+	       		var userData = data;
+	       		var name = userData.name;
+	       		var email = userData.email;
+	       		var signupSource = userData.source;
+	       		var subscribedAtOnce = userData.subscribedAtOnce;
+	       		var plan  = userData.plan;
+	       		document.getElementById('uName').innerHTML = "<strong>"+name+"</strong>" + email;
+		       		var status = planData.status;
+		       		var purchaseSource = planData.source_device;
+			       		var nextActivationDate = planData.current_term_ends_at;
+			       		var planDescription = planData.plan.description;
+			       		var planName = planData.plan.name;
+			       		var planPrice = planData.amount;
+			       		//var planInterval = planData.shipping_interval;
+			       		var planInterval = planData.duration;
+			       		var planUnit = planData.interval_unit;
+			       		//var html = "<strong>Your Subscription Plan</strong>"+planName+" ₹"+planPrice+" / "+planInterval+" " + nextBillingHtml + cancelHtml; 
+			       		var html = "<strong>Your Subscription Plan</strong> "+planDescription + " "+ planName +": ₹"+planPrice + " "+ nextBillingHtml + cancelHtml;

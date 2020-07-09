@@ -1,0 +1,9 @@
+Ethereum co-founder Vitalik Buterin mentioned looking back at Ethereum’s development.
+The Hashing It Out podcast recently hosted Ethereum co-founder, Vitalik Buterin. During the show, he explained how he would handle Ethereum’s creation differently if he were building it now.
+Buterin acknowledged the presence of a number of changes, both large and small, such as putting more thought into gas costs for example. “We didn’t really do a good job of setting those at the beginning,” Buterin said on the July 2 podcast interview.
+After mentioning gas prices and other smaller alterations he would have made from the start, Buterin took a look at some of the larger changes around Ethereum.
+“We definitely did kind of underestimate how much time it would take to finish a lot of the things that we didn’t start back in 2015,” Buterin said, noting Proof-of-Stake, or PoS, and sharding as the most sizable aspects.
+“Had we known that it would end up taking us years, we probably would have designed the roadmap differently and thought about what the different teams would be working on differently and making a lot of decisions in that regard in a very different way from how we are now, so, I think, definitely a lot of regrets and wasted time in that regard.”
+The blockchain expert also noted regrets and wasted time concerning several other aspects around the technical side of the network, covering a multitude of topics and concepts in the lengthy interview.
+Ethereum 2.0, or ETH 2.0, has been in the works for a while. Originally expected in January 2020 , ETH 2.0 has faced a number of delays. A June 23 post from Ethereum’s blog showed that the team is still chugging away.
+Earlier this week, Buterin also spoke on Ethereum’s gradual scaling process for transactions.

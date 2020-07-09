@@ -1,0 +1,21 @@
+Ethereum 2.0 Will Come in 2020, According to ConsenSys Co-Founder
+ConsenSys co-founder Andrew Keys published an optimistic set of predictions for Ethereum in 2020, but others disagree with his assessments.
+Ethereum’s Serenity will launch by the end of this year, according to ConsenSys Co-founder Andrew Keys. Given the current state of development though, few share his excitement.
+In a Jan. 7 post published on the ConsenSys site, Andrew Keys shared his predictions for 2020. Keys was one of the co-founders of ConsenSys, having since become a managing partner at DARMA Capital.
+While Keys’ predictions touched diverse themes ranging from the world economy to human rights, two are especially notable for their optimism.
+According to the executive, “2020 will see Ethereum move stridently beyond Phase 0 of Ethereum 2.0, onto Phase 1 and the launch of shard chains.”
+The recent Istanbul hard fork was the last stage in Ethereum 1.0, introducing several improvements and adjustments. Some of the core Ethereum Improvement Proposals (EIPs) that went into the upgrade were closely related to Zcash ( ZEC ). EIP-152 improved interoperability with the actual Zcash blockchain, while EIP-1108 made optimizations for cryptography routines leveraged by projects such as Aztec and ZEther.
+Aztec Protocol aims to introduce confidential transactions within the Ethereum ( ETH ) blockchain by using SNARK zero-knowledge technology — the same powering Zcash shielded transactions.
+On the other hand, Matter Labs is attempting to leverage SNARKs for scalability. On a basic level, its Zk Sync technology would allow offloading of the majority of transactional computations off-chain — using a zero-knowledge proof to guarantee their correct execution.
+Finally, Plasma focuses on creating sidechains for specific use cases. In a 2019 interview with Cointelegraph, CEO of ConsenSys Joseph Lubin explained :
+“Plasma is this class of technologies that enable you to have less decentralized platforms sitting at layer two in the Ethereum ecosystem. They can benefit from the full trust in some cases — sometimes they benefit from partial trust — but if they're linked in really rigorously, they can benefit from the full trust of the base trust layer, and you can get the best of both worlds.”
+However, these technologies are not yet live. Only Aztec looks poised to launch its cryptography engine this month, after conducting its trusted setup ceremony on Jan. 9.
+Matter Labs revealed in a blog post that it would launch a smart contract framework this month — but not the full scaling technology. Representatives from Matter Labs failed to reply to Cointelegraph’s inquiries on detailed time tables.
+Plasma Group, a non-profit research group, recently declared that their theoretical work on the technology is complete, but failed to indicate specific implementations underway.
+Cointelegraph approached Afri Schoeden, a former Parity Technologies developer, for additional insight. When asked whether 2020 will feature working sidechain solutions, Schoeden replied:
+“No. We will see COSMOS maturing, Polkadot launching maybe, and Ethereum 2.0 finally taking shape. But we are still far away from viable solutions that would work in production.”
+Though Istanbul was the last step before the introduction of Ethereum 2.0 technology, it is unclear when the next stages will be implemented.
+According to a mid-2019 roadmap by ConsenSys, phase zero of Serenity was supposed to be implemented by year’s end. This will introduce the Beacon Chain, the first to be powered by Proof-of-Stake validators.
+Though Keys noted that a block explorer for the beacon chain was released, it merely tracks a testnet version. He then continued:
+“Ethereum developers have already proven their ability to work wonders, and that this decentralized team is now in the stride of hitting ambitious roadmap targets is the best indicator in all of blockchain for future success.”
+Cointelegraph sought out comments on the roadmap from the Ethereum Foundation’s press team, but did not receive a response at publication.

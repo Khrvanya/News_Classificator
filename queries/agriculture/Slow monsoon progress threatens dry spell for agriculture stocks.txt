@@ -1,0 +1,28 @@
+1 min read . Updated: 21 Jun 2019, 03:03 PM IST Bloomberg
+As monsoon rains that started late make a slow progress across India, shares of local seed producers, fertilizers and agro-chemical makers are reeling under a dark cloud.
+The southwest monsoon, which waters more than half of India’s farmland, has registered a 43% deficit through June 19 after hitting the southern coast a week later than normal on June 8, according to the India Meteorological Department. Any shortfall in showers during the early part of the season could delay sowing and reduce crop yields, even if the monsoon gathers pace later.
+“With almost 20 days over in the season and no great progress in the monsoon , the agri-related stocks have not been performing well," A.K. Prabhakar, head of research at IDBI Capital Markets Services Ltd., said by phone from Mumbai. “The rainfall spread is more important even if there is a deficit. The next 10-15 days will be very crucial and if there is no major pickup in the rains, then it becomes a problem."
+Companies directly dependent on India’s agriculture sector including Kaveri Seeds Co., EID Parry Ltd., UPL Ltd., Bayer CropScience Ltd. and Bharat Rasayan dropped at least 10% this month. State-run fertilizer companies weren’t spared either with Rashtriya Chemical & Fertilizers falling 8% while National Fertilizers Ltd. slumped 9.4% this month.
+* Thank you for subscribing to our newsletter.
+Click here to read the Mint ePaperLivemint.com is now on Telegram. Join Livemint channel in your Telegram and stay updated
+You are now subscribed to our newsletters. In case you can’t find any email from our side, please check the spam folder.
+lozad('.lozad', { load: function(el) { el.src = el.dataset.src; el.onload = function() { el.classList.add('fade')}}}).observe()
+.myAccount .planSec, .myAccount a.LinkCTA{padding:16px; margin:16px; box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.1); background-color: #fff;}
+	       		var userData = data;
+	       		var name = userData.name;
+	       		var email = userData.email;
+	       		var signupSource = userData.source;
+	       		var subscribedAtOnce = userData.subscribedAtOnce;
+	       		var plan  = userData.plan;
+	       		document.getElementById('uName').innerHTML = "<strong>"+name+"</strong>" + email;
+		       		var status = planData.status;
+		       		var purchaseSource = planData.source_device;
+			       		var nextActivationDate = planData.current_term_ends_at;
+			       		var planDescription = planData.plan.description;
+			       		var planName = planData.plan.name;
+			       		var planPrice = planData.amount;
+			       		//var planInterval = planData.shipping_interval;
+			       		var planInterval = planData.duration;
+			       		var planUnit = planData.interval_unit;
+			       		//var html = "<strong>Your Subscription Plan</strong>"+planName+" ₹"+planPrice+" / "+planInterval+" " + nextBillingHtml + cancelHtml; 
+			       		var html = "<strong>Your Subscription Plan</strong> "+planDescription + " "+ planName +": ₹"+planPrice + " "+ nextBillingHtml + cancelHtml;

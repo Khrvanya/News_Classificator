@@ -1,0 +1,11 @@
+Spanish bank and investment institution Santander has expanded its One Pay FX international payments system to include Mexico, according to a report by Cointelegraph .
+The Ripple-powered payments system will be offered in the country sometime this year.
+The company recently filed a Form 20-F , which has to be given to the Securities and Exchange Commission (SEC) by organizations that have equity shares on exchanges in the U.S.
+One Pay FX is based on Ripple’s RippleNet tech, but it’s independent from XRP, and it doesn’t need the coin to function.
+“Santander has always used xCurrent for One Pay FX, which does not need XRP to work,” a company spokesperson said in a separate Cointelegraph report.
+The bank previously launched One Pay FX in Santander locations in the U.K., Poland, Spain and Brazil in 2018. In 2019, Chile and Portugal were added.
+“From today, customers in the U.K. can use One Pay to transfer money across Europe and to the U.S.,” executive chairman Ana Botín said at the time, according to Cointelegraph . “In Spain, customers can transfer to [the] U.K. and U.S., while customers in Brazil and Poland can transfer to the U.K. Transfers to Europe can be made on the same day, and we are aiming to deliver instant transfers across several markets by the summer.”
+The One Pay FX system provides predictability, transparency, speed and competitive cost, the bank said, even though some customers have called it “sub-optimal” and liable to experience “client stickiness.”
+The payment system was developed over the course of several years by both Santander and Ripple.
+In other Santander news, earlier this month, the company invested 30 million euros ($33.1 million) into Mercury TFS , making it the majority stakeholder.
+“The investment accelerates our plans to build a service platform for [SMBs] and international companies to better serve our customers worldwide,” said Santander Global Payments Services Head Javier San Félix at the time.

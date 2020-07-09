@@ -1,0 +1,35 @@
+2 min read . Updated: 06 Mar 2020, 10:56 PM IST Utpal Bhaskar
+Given that Yes Bank was one of the largest lenders to India’s clean energy space, developers are worried about raising project financing at a time when there is a pipeline of 30,000MW of projects
+There seems to be a ‘perfect storm’ brewing in India’s clean energy space.
+Already spooked by the spectre of Covid-19 impacting project commissioning schedules and the government’s move to raise import tariffs on equipment, developers now say the situation may be exacerbated by the Reserve Bank of India ’s moratorium on capital-starved Yes Bank .
+Given that Yes Bank was one of the largest lenders to India’s clean energy space, developers are worried about raising project financing at a time when there is a pipeline of 30,000MW of projects. There is a need to raise funding to the tune of ₹1 trillion even as loans have dried up.
+Then there is also the issue of Yes Bank opening escrow accounts for clean energy projects, wherein project revenues accrued ensuring an additional safety net for lenders .
+Yes Bank also issued bank guarantees (BGs) and letters of credit (LCs), which could be encashed if the contract conditions weren’t met. According to information collated by Mint research, Yes Bank’s loan exposure to India’s clean energy sector is expected to be to the tune of ₹12,000 crore.
+“Yes Bank was one of the front runners in funding green energy projects. With NBFCs (non-banking financial companies) also in trouble after the IL&FS crisis we could see a challenge in funding new projects. A pipeline of 30,000 MW would require close to ₹1 trillion funding. The government has to do some innovative financing structures for renewable," said Sunil Jain, chief executive officer, Hero Future Energies Pvt. Ltd.
+There was a reduction in Yes Bank’s gross outstanding exposure of around ₹2,300 crore to electricity companies. As on 30 September, the bank’s loan book had a 6.7% exposure to the electricity sector and 10.6% to the engineering, procurement and construction (EPC) sector.
+This comes at a difficult time for India’s clean energy sector, with mounting dues to generators and banks wary of lending to renewable energy developers as they suspect the viability of such projects on account of record low solar and wind power tariffs.
+“Yes Bank has been one of the largest lenders to India’s clean energy space, though they have been going slow for the last one year. It provided mezzanine financing and debt at high interest rates, which was disbursed at a quick pace. They also used to offer opening letter of credits (LCs) at very low rates," said the chief executive of one of the largest overseas green energy firm that has invested in India.
+India’s renewable energy programme will require $80 billion in investments till 2022. This figure will grow more than three-fold to $300 billion during 2023-30.
+* Thank you for subscribing to our newsletter.
+Click here to read the Mint ePaperLivemint.com is now on Telegram. Join Livemint channel in your Telegram and stay updated
+You are now subscribed to our newsletters. In case you can’t find any email from our side, please check the spam folder.
+lozad('.lozad', { load: function(el) { el.src = el.dataset.src; el.onload = function() { el.classList.add('fade')}}}).observe()
+.myAccount .planSec, .myAccount a.LinkCTA{padding:16px; margin:16px; box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.1); background-color: #fff;}
+	       		var userData = data;
+	       		var name = userData.name;
+	       		var email = userData.email;
+	       		var signupSource = userData.source;
+	       		var subscribedAtOnce = userData.subscribedAtOnce;
+	       		var plan  = userData.plan;
+	       		document.getElementById('uName').innerHTML = "<strong>"+name+"</strong>" + email;
+		       		var status = planData.status;
+		       		var purchaseSource = planData.source_device;
+			       		var nextActivationDate = planData.current_term_ends_at;
+			       		var planDescription = planData.plan.description;
+			       		var planName = planData.plan.name;
+			       		var planPrice = planData.amount;
+			       		//var planInterval = planData.shipping_interval;
+			       		var planInterval = planData.duration;
+			       		var planUnit = planData.interval_unit;
+			       		//var html = "<strong>Your Subscription Plan</strong>"+planName+" ₹"+planPrice+" / "+planInterval+" " + nextBillingHtml + cancelHtml; 
+			       		var html = "<strong>Your Subscription Plan</strong> "+planDescription + " "+ planName +": ₹"+planPrice + " "+ nextBillingHtml + cancelHtml;

@@ -1,0 +1,8 @@
+Microstructure of a copper infiltrated PM part, showing how copper infiltrates open porosity (Courtesy Atlas Pressed Metals)
+Atlas Pressed Metals, a producer of Powder Metallurgy parts based in DuBois, Pennsylvania, USA, has published a guide explaining the purpose of copper infiltration in PM components. Components are copper infiltrated for a number of reasons, explains the company; some basic desired results are improvements to tensile strength, hardness, impact properties and ductility.
+Copper-infiltrated components will also have a higher density, the company notes. Other reasons copper infiltration may be of benefit are for wear improvement or to block air/gas flow through an otherwise porous component at temperatures at which the use of a resin would not be practical.
+Copper infiltration may also be used to enhance the machining characteristics of PM steel, as copper leaves a smoother machined finish.
+How does copper infiltration work?
+Atlas went on to explain how copper infiltration works in practice. The base structure of the part to be copper infiltrated will have a known density, which is used to determine the amount of open porosity in the part.
+A measured amount of copper is then selected matching the amount of porosity to be filled. The copper fills the porosity during the sintering process (at temperatures above the melt temperature of copper) simply by placing the copper against the component prior to sintering.
+A >1100°C sintering temperature allows for the molten copper to flow into the component porosity through capillary action. Sintering is then completed on a carrier (e.g. ceramic plate) so that the copper stays in the component. Once the part is cooled, the copper is solidified within the structure.

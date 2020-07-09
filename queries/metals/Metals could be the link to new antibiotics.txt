@@ -1,0 +1,18 @@
+Compounds containing metals could hold the key to the next generation of antibiotics to combat the growing threat of global antibiotic resistance. Researchers, working with a network of international collaborators, have discovered 23 previously unexplored compounds containing metals such as silver, manganese, zinc, ruthenium and iridium that have antibacterial and antifungal activity.
+Compounds containing metals could hold the key to the next generation of antibiotics to combat the growing threat of global antibiotic resistance.
+University of Queensland researchers, working with a network of international collaborators, have discovered 23 previously unexplored compounds containing metals such as silver, manganese, zinc, ruthenium and iridium that have antibacterial and antifungal activity.
+The study was led by Dr Mark Blaskovich, Dr Angelo Frei and Dr Johannes Zuegg of UQ's Centre for Superbug Solutions at the Institute for Molecular Bioscience.
+"This is promising research because the scientific community is struggling to keep up with the pace of bacterial resistance," Dr Blaskovich said.
+They found many of the metal compounds selectively kill cells of bacteria, including the potentially deadly methicillin resistant Staphylococcus aureus (MRSA), but not human cells.
+"There are around 40 new antibiotics in clinical trials, which sounds encouraging until you compare this to the more than 1000 medicines and vaccines in clinical trials for cancer treatments," he said.
+Dr Frei said almost 75 per cent of the antimicrobial medicines under development were derivatives of known and used antibiotics, making them potentially susceptible to existing bacterial resistance.
+"Finding completely new types of antibiotics in these metal-containing compounds offers promise to outwit bacterial resistance, because they likely use different mechanisms which the bacteria have not encountered previously," Dr Frei said.
+"In addition to activity against MRSA, some compounds were active against dangerous Gram-negative pathogens such as Escherichia coli and Acinetobacter baumannii, which have even fewer novel antibiotic treatments."
+The research was conducted through the Community for Open Antimicrobial Drug Discovery (CO-ADD) -- which was established in the labs of Professor Matt Cooper to offer a simple and free screening service to scientists worldwide with funding from the Wellcome Trust and UQ.
+"We embarked on a quest to tap into the millions of compounds sitting unused on laboratory shelves, discarded because they don't fit the mould for common drug design," Dr Blaskovich said.
+"We test these compounds to see if they have an effect on bacterial and fungal pathogens.
+"So far we have received and screened 300,000 compounds, including nearly 1000 metal-containing compounds, from over 300 academic groups across 47 countries."
+The research team hopes the findings will bring prompt new investment in antimicrobial research.
+"Many pharmaceutical companies are bowing out of antibiotic research as there is little return on investment," Dr Frei said.
+Materials provided by University of Queensland . Note: Content may be edited for style and length.
+Angelo Frei, Johannes Zuegg, Alysha G. Elliott, Murray Baker, Stefan Braese, Christopher Brown, Feng Chen, Christopher G. Dowson, Gilles Dujardin, Nicole Jung, A. Paden King, Ahmed M. Mansour, Massimiliano Massi, John Moat, Heba A. Mohamed, Anna K. Renfrew, Peter J. Rutledge, Peter J. Sadler, Matthew H. Todd, Charlotte E. Willans, Justin J. Wilson, Matthew A. Cooper, Mark A. T. Blaskovich. Metal complexes as a promising source for new antibiotics. Chemical Science, 2020; DOI: 10.1039/C9SC06460E

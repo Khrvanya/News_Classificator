@@ -1,0 +1,24 @@
+The longer-term Bitcoin futures contracts premium has consistently increased alongside top traders net exposure, signaling bullish sentiment for Friday’s expiry.
+Investors are magnetically attracted by the $1.1 billion Bitcoin and Ether options expiry scheduled to occur Friday, June 26, but they might be missing some relevant indicators of the futures contracts.
+June 26 will also be the last trading day for many weekly and monthly Bitcoin ( BTC ) futures totaling $665 million at the time of writing.
+For futures participants, longs (buyers) and shorts (sellers) are always balanced; hence no price impact can be inferred. Despite this, some more nuanced indicators are providing telling signals of professional traders' sentiment.
+The June 22 $300 pump to $9,700 could have been a small indicator of the upcoming trend, and the longer-term futures contracts premium tells a similar story. This is measured by comparing the July versus June contract price 1-month premium and the September versus June 3-month premium.
+Some exchanges provide additional data, either by analyzing top traders positions or by consolidating clients' net exposure on swaps, futures, and spot positions. Currently, both Binance and OKEx are displaying similar bullish data, indicating that professional traders are skewed bullish.
+BTC futures contracts aggregate open interest. Source: Skew
+The above chart displays open interest for all future contracts, including perpetual. OKEx brings the largest figure with $900 million, while the Chicago Mercantile Exchange (CME) currently handles $450 million.
+BTC 3-month futures annualized premium. Source: Skew
+The above data from Skew shows that the rolling 3-month ahead futures contract premium has been consistently increasing over the past months. This market situation is called contango and is undoubtedly a bullish indicator as sellers are demanding more money to postpone settlement.
+This is the exact opposite of mid-April when Bitcoin failed to break the $7,500 resistance and scaled back to the $6,800 level, which caused some temporary bearish sentiment.
+Not even the May 10 crash to $8,100 that liquidated $200 million worth of Bitcoin longs caused such havoc in this indicator.
+Currently, there are $665 million in futures contracts set to expire this Friday. This does not include perpetual and quarterly contracts maturing in September, hence the difference to Skew's $4 billion aggregate open interest.
+The Chicago Mercantile Exchange (CME) leads the pack when it comes to analyzing Friday’s expiry exclusively with $216 million. Keep in mind that this regulated exchange has much broader transparency and less likely inflated numbers than most cryptocurrency derivatives venues.
+CME Bitcoin futures open interest. Source: Skew
+As per the above chart, the CME open interest was built during April and early May, while the average price during this period is $8,300. Most buyers are comfortable at the $9,400 level and potentially use those profits to prop up prices even further.
+Some exchanges provide useful information on clients net exposure, either by measuring top clients positions or consolidating data from spot and derivatives markets.
+Top traders net long/short positions. Source: Binance
+Binance displays the last 30 days information on top clients long/short positions, demonstrating an uptick in this index. This indicates Binance's most active futures contract accounts are 15% skewed to the net long side, a bullish indicator.
+OKEx provides a slightly different set of data, consolidating exposure from both derivatives and spot markets. Even though this index presents a similar trend to Binance, the long/short ratio recovered from 0.85 to the current reading at 1.08, indicating an 8% net exposure favoring longs.
+The market is not exclusively composed of futures with fixed settlement dates, in fact, quite the opposite is true. Most of the open interest relies on perpetual contracts, also known as swaps. Part of Friday's $665 million open interest figure will also be rolled over to longer-term or perpetual contracts.
+Even Though it is impossible to gauge professional traders' net exposure towards expiry accurately, above indicators of contango, open interest average price, and top traders' net exposure are all pointing to the same bullish direction.
+There is still time for a market sentiment change, but it is safe to assume that most professional traders are positioning themselves for a neutral to positive price action over the next couple of days.
+The views and opinions expressed here are solely those of the author and do not necessarily reflect the views of Cointelegraph. Every investment and trading move involves risk. You should conduct your own research when making a decision.

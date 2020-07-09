@@ -1,0 +1,13 @@
+Developer bounty platform Gitcoin has partnered with Ethereum Classic Labs to offer bounties in ETC.
+In partnership with Ethereum Classic Labs, bounty seekers now have the option to receive pay in ETC for their work on various open-sourced projects, Ethereum Classic Labs said in a March 16 announcement .
+The ETC core team confirmed to Cointelegraph that this partnership provides the option for ETC payout, regardless of the project being worked on. “This allows hunters to receive pay in ETC for our bounties and enables people who want to pay in ETC to do so,” the team said in an email.
+Gitcoin serves as an Ethereum-based platform on which developers can work in a freelance capacity, earning bounties for their work.
+The announcement noted Gitcoin’s ETC payment option launched at Gitcoin’s DeFi Hackathon event, called Funding the Future, which began on March 16 and will last until March 30.
+The ETC Core team explained:
+“This is the launch of ETC as a bounty payment option on Gitcoin. Special for the hackathon, we've created a series of bounties including ‘Share the love of Ethereum Classic,’ ‘Create a DIY Hardware Wallet using Signatory,’ and ‘EVM LLVM Implement.’”
+“We’re thrilled to bring our suite of tools to the ETC community with native ETC support,” Gitcoin founder and CEO Kevin Owocki said in the announcement, adding:
+“This technical interoperability matches the already present cultural interoperability between the projects. This integration is a step forward towards Growing Open Source and creating more economic opportunity for hackers in both communities.”
+A result of the collaboration, Ethereum Classic Labs unveiled several bounties for Gitcoin’s Hackathon event.
+Named Share the Love of Ethereum Classic, Create a DIY Hardware Wallet Using Signatory, and EVM LLVM Implement, the bounties pay out $300, $500 and $1,500 respectively.
+Ethereum Classic Labs also partnered with distributed network consensus outfit Fantom Foundation in February, working as collateral against the foundation’s stablecoin.
+UPDATE March 19, 16:11 UTC: This article has been updated with information Cointelegraph received from ETC Labs after initial publication.

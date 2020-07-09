@@ -1,0 +1,4 @@
+There was not a lot of new ransomware variants released this week, but some pretty interesting news about operations changing their tactics to remain more profitable and to evade law enforcement.
+Sodinokibi/REvil is phasing out support for Bitcoin ransom payments in favor of Monero to make it harder for law enforcement to trace them.
+Finally, Nemty Ransomware is moving from a public ransomware-as-a-service to a private one to become more exclusive and entice more experienced affiliates to join their organization.
+We also have Ragnar Locker getting a name for itself after it was discovered they encrypted Portugal's Energias de Portugal (EDP) and allegedly stole 10TB of data.

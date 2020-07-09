@@ -1,0 +1,15 @@
+Bitcoin (BTC) on Thursday soared more than 17% at press time and hit its highest levels in nearly two months.
+The surge comes in anticipation of the next Bitcoin "halving," which is expected to happen around May 12.
+The concept of halving was built into Bitcoin by its founder(s) Satoshi Nakamoto to reduce its supply approximately every four years. The rewards for mining Bitcoin is reduced by half once 210,000 blocks have been mined.
+The latest halving will reduce the reward of mining a block on Bitcoin's blockchain from the existing 12.5 BTC to 6.25 BTC.
+There's no consensus in the cryptocurrency community regarding the impact of halving on Bitcoin prices, but the previous two halvings in 2012 and 2016 both caused a sharp increase in its market value.
+According to Danny Kim, head of revenue for crypto liquidity provider SFOX, it could be a case of "fear of missing out," which is driving Bitcoin's demand in the run up to the halving.
+"The media coverage of the halving over the last five months, combined with continually increasing Google search volume for "bitcoin halving," suggests that we may see similar FOMO around the upcoming halving event," he told CoinDesk .
+Yet, halving doesn't seem to be the only factor affecting cryptocurrency prices. Bitcoin dropped to about $4,720.37 mid-March as the novel coronavirus (COVID-19) outbreak crashed the United States stock market.
+The apex cryptocurrency has added 53.5% to its market capitalization since March 23, around the same time as the S&P 500 index bounced back 31%.
+At a time when investors are looking for liquidity in the wake of the pandemic, Bitcoin could take a hit post-halving, as those who are investing in anticipation of price increase now, look to sell later.
+"This is an unprecedented time as liquidity remains a priority for investors fleeing equity markets," Blot Global co-founder Christel Quek told Bloomberg . "Therefore, while Bitcoin should rise into $10,000s after the halving, it could be followed with a price drop as investors engage in profit taking."
+"No level of technical support can stand when the economy is drained," Quek added.
+Bitcoin traded 18.4% higher at $9,302.60 at press time on Wednesday. Its hard fork Bitcoin Cash (BCH) was up 12.2% at $274.48 and Bitcoin SV (BSV) added 15.5% at $226.46.
+Ethereum was trading 12.6% higher at $225.88. Stablecoin Tether (USDT) traded slightly higher at $1.01.
+© 2020 Benzinga.com. Benzinga does not provide investment advice. All rights reserved.

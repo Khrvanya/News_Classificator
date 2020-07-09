@@ -1,0 +1,12 @@
+The Litecoin Mimblewimble is progressing on schedule, as the testing framework sees completion.
+He also revealed that he started integrating work done so far into LTC's codebase.
+David Burkett, the lead developer on Litecoin Mimblewimble (MW) project recently spoke of the project’s progress. Burkett revealed that the developers managed to create a fully-functional testing framework. Not only that, but they also started to integrate the work that they finished so far into the Litecoin’s codebase.
+His report says “I’ve built out a functional testing framework that builds valid headers, blocks, and transactions. I’ve now got some (mostly) complete end-to-end block validation tests.”
+The report, published on May 1st on the Litecointalk forum, reveals that the project has reached an important milestone. Its goal is to implement privacy enhancements of Mimblewimble into Litecoin’s network.
+The completion of the testing framework is a huge thing for the project, according to Burkett. He claims that he already managed to run some validation tests through the new framework.
+Previously, Burkett assessed that Mimblewimble will arrive on Litecoin’s testnet later this year, likely by the end of summer. The new update encourages the accuracy of this prediction, as the project makes an important step towards achieving its goals.
+As mentioned, Burkett started integrating the work done thus far with Litecoin’s codebase. He initially started with the ConnectBlock logic. This is a code that is in charge of validating blocks. After validation, blocks will proceed to be added to the rest of the chain.
+Burkett revealed that he still did not decide which area would be best for him to work on next. Even so, he did say that a lot more testing is in store, and that the codebase integration will continue.
+He briefly also spoke about the other project, known as Grin++. This project also recently reached a major milestone, achieving the status of release candidate v1.0.0. In other words, it reached its first non-beta version.
+Grin++ is also important due to the fact that it featured the first integration of the MW privacy protocol. This happened over a year ago, in January 2019.
+A journalist, with experience in web journalism and marketing. Ali holds a master's degree in finance and enjoys writing about cryptocurrencies and fintech. Ali’s work has been published on a number of cryptocurrency publications. Raza is the co-founder of 5Gist.com, too, a site dedicated to educating people on 5G technology.

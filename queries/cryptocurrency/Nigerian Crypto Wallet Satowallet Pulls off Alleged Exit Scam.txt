@@ -1,0 +1,13 @@
+Withdrawals on Satowallet began faltering in April, with technical reasons cited as the reason for the delay.
+Satowallet, a Nigerian crypto wallet, allegedly pulled off an exit scam , disappearing with users’ funds that are estimated at over $1 million worth of crypto deposits. Yet, the firm’s CEO claims some technical issues with their data center provider OVH.com led to the loss of clients’ coins.
+Important update for Satowallet Users by me, Samuel Benedict (CEO Satowallet Exchange).
+— CEO Satowallet Exchange (@thesamuelben) September 25, 2019
+Founded in May 2017, Satowallet claims to be based in Dubai, UAE while its parent firm, Blockchain Tech Hub, maintains offices in Abuja, Nigeria. Satowallet offers a multi-wallet and crypto exchange known for holding over 60 cryptocurrencies including majors like Bitcoin, Litecoin, Bitcoin Cash, and Ethereum.
+Users were questioning Satowallet legitimacy since April, as seen in some Telegram threads requesting more information on the wallet, which appears to be primarily promoted across Africa.
+Did COVID-19 Save the Forex Industry? Go to article >>
+According to some anxious users, withdrawals on Satowallet began faltering since April 2019, with technical reasons cited as the reason. This came on the heels of Satowallet announcing plans to launch a new crypto exchange called ‘SatowalletEX.’
+At the time, while users were unable to access their funds, the company claimed several telegram scammers took advantage of the upgrade period and stole clients’ funds. The company said in a statement that it fixed the vulnerability. But, indeed, this was another excuse to delay withdrawal requests as Satowallet suddenly installed KYC measures in June 2019, which in turn required several days to pass verification.
+Then things got worse for the budding exchange’s users as the company’s endless pretenses culminated in announcing that they have enforced manual withdrawals.
+In August, users woke up to the news that the platform has become inaccessible. Satowallet’s CEO said that all eight of its servers (wallets nodes, app, web) were down. He immediately contacted OVH.com’s datacenter where the had its dedicated servers for the past 2 years, paying an alleged fee of $6500 per month.
+After all the back and forth, Satowallet said it finally managed to restore the website and App back online using a code backup after OVH’s server was stuck for days. After installation, however, coins were no longer there from the backups and private keys.
+For Satowallet clients, the story seems to end at this point as the company had nothing to do but to accuse OVH of fraud and trying to steal their wallet servers.

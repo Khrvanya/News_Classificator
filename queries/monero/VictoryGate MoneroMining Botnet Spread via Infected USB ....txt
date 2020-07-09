@@ -1,0 +1,11 @@
+by David Bisson on April 23, 2020
+A previously undocumented botnet called “VictoryGate” propagated via infected USB devices in order to perform Monero-mining functionality.
+Slovakian security firm ESET revealed that it had sinkholed several command-and-control (C&C) domains so that it could monitor VictoryGate’s activity.
+Through this process, the company learned that VictoryGate had been active since at least May 2019 and that it had compromised at least 35,000 devices primarily based in Latin America at the time of writing.
+A closer look by ESET revealed that VictoryGate was relying on infected USB drives for propagation. As quoted in its research:
+The victim receives a USB drive that at some point was connected to an infected machine. It seemingly has all the files with the same names and icons that it contained originally. Because of this, the contents will look almost identical at first glance…. However, the original files have been copied to a hidden directory in the root of the drive and Windows executables have been provided as apparent namesakes.
+A view of a removable media before and after infection by VictoryGate. (Source: ESET)
+These executables consisted of AutoIT scripts that attempted to target vbc.exe or csc.exe. This injection process laid the groundwork for the botnet to communicate with its command-and-control (C&C) servers and to download/execute its secondary payloads.
+One of those payloads was an AutoIT-compiled script that VictoryGate attempted to inject into ucsvc.exe. The purpose of this payload was to activate the XMRig Monero miner.
+ESET said that it’s still in the process of monitoring VictoryGate. This effort has revealed some important insights. For instance, it revealed that the botnet was using subdomains registered with No-IP. The security firm subsequently reported the subdomains to No-IP. The dynamic DNS provider responded by taking the subdomains down.
+*** This is a Security Bloggers Network syndicated blog from The State of Security authored by David Bisson . Read the original post at: https://www.tripwire.com/state-of-security/security-data-protection/victorygate-monero-mining-botnet-spread-via-infected-usb-devices/

@@ -1,0 +1,9 @@
+Investment firm ETC Group plans to list a Bitcoin ETP on Germany’s Xetra digital stock exchange in late June.
+London-based ETC Group will list the first crypto exchange-traded product on Germany’s Xetra digital stock exchange this month. Traders in the United Kingdom, Italy and Austria will also be able to deal in shares of the new product.
+According to ETF Stream , ETC Group announced on June 9 that Bitcoin Exchange Traded Crypto, or BTCE, an exchange-traded product , will launch on Deutsche Börse Xetra after it receives approval from German financial regulators.
+BTCE tracks the price of Bitcoin ( BTC ) and is physically backed by the cryptocurrency. The Bitcoin will be held in cold storage by digital asset custodian BitGo.
+ETC Group CEO Bradley Duke said:
+“The crypto sector has been held back by concerns about complexity, accessibility and governance. With BTCE, we are transporting Bitcoin into the fold of mainstream, regulated financial markets. Investors get the benefits of trading and owning Bitcoin through a regulated security while having the optionality of redeeming Bitcoin if they choose.”
+The group stated that it was offering BTC trading “through an ETP structure,” which is not quite the same as having an exchange-traded fund. According to the firm, the hybrid ETP doesn’t meet the precise definition of an ETF in the European Union, as it’s a single asset instrument.
+Despite numerous applications, the United States Securities and Exchange Commission has not yet approved a Bitcoin ETF for the public in the U.S. yet, citing concerns over verifying asset validity, market manipulation and the safe storage of physically-backed assets.
+In March, Cointelegraph reported that the German financial watchdog BaFin announced regulatory standards local businesses need to adhere to if they provide crypto custody services. Any German business dealing with crypto is required to obtain BaFin’s authorization.

@@ -1,0 +1,33 @@
+Monero is private by default.
+There is no need for a third party mixer and mixing takes place automatically.
+As transaction ages, the anonymity increases as the outputs become the new inputs of new mixes.
+With bulletproofs or RingCT, it is able to hide the transaction amounts.
+Monero is an ASIC resistant coin. This ensures no centralized supply control like other coins that can be mined on ASICs. But Monero still faces mining centralization problem as almost 60% of the network hash rate is controlled by 3 mining pools .
+The transaction links are neither actually destroyed nor broken but are just covered by the decoys in the layer.
+Scalability is a challenge for Monero blockchain and there are efficiency issues with the handling of large transaction sizes.
+Ring size is practically limited to 11 members. Thus anonymity per link is also limited.
+The Monero coin support in light wallets is not possible as it always needs a full node. Thus there are limitations regarding wallet support too.
+For the existing architecture, implementation of layer 2 solutions like Lightning Network is difficult.
+As there exists no means to audit the supply, there are high chances that hidden inflation escapes detection.
+Monero finds a wonderful use case in trade finance. On the same lines, businesses can use Monero to make purchases from suppliers. However, there will be no threat of exposing any kind of commercially sensitive information. Moreover, even consumers can use Monero to circumvent price discrimination by merchants as they can hide their financial information.
+Being a fungible currency, it is more appealing for businesses to accept Monero.
+Unfortunately, Monero’s potential for anonymity and privacy is being excessively exploited in the dark web. Effectively, Monero earned itself a bad name and was unfortunately christened as the ‘currency of criminals’.
+ZCoin originated on October 6, 2016. As compared to Monero, Zcoin is a new baby in the town yet has achieved significant growth from multiple technical aspects. Being a PoW coin, it is mineable just like Monero. Moreover, it used Lyra 2 and Lyra2z prior to December 2018 but then transitioned to Merkle Proof Tree (MTP).
+Undoubtedly, the idea behind this transition was to level the playground for miners with a lot of computational power (mining farms) and those with little power (home miners). MTP is designed to use memory intensively. Moreover, this makes it ASIC resistant .
+How does Zcoin achieve privacy?
+The technology evolution at Zcoin is pretty rapid. Like its algorithmic evolution, Zcoin’s privacy protocol has also evolved in the last 2 years.
+Zerocoin protocol breaks the links between the coins. It achieves so by using zero-knowledge proofs (ZPK). Moreover, it does not obscure the transactions like by using ring signatures in Monero but it actually destroys the history of each coin.
+With Zerocoin, one gets to burn or mint the coins and can then redeem an equivalent number of coins by spend. However, these freshly minted coins have no prior transaction history that is clean always.
+Sigma is a privacy protocol that works very similarly to Zerocoin but it has some great advantages over it. While it doesn’t require a trusted setup, its proof sizes are far smaller as compared to Zerocoin (1.5 kB with Sigma)
+However, the only weaknesses of Sigma are that it still requires fixed denominations. But this will be overcome in the upcoming protocol Lelantus which is in its early stages of code audit .
+With Zcoin’s RAP (Receiver Address Privacy) one can hide details of the sender of the funds. The major advantage of RAP over stealth addresses is that the payments are very indistinguishable. Also, it supports light wallets, unlike Monero.
+Sigma protocol does not require a third party mixer.
+The protocol offers very high anonymity. That’s because the anonymity sets can go up to around 100,000.
+Using mint and spend, the transactions become completely unlinkable.
+There is a certain degree of leeway for auditing supply and that is because there are no hidden transaction amounts.
+Very small proof sizes (1.5 kB), which is a big advantage.
+A transfer is possible only for fixed denominations.
+The coins must be minted before they are spent to prevent timing attacks.
+The anonymity is possible only up to the sets of 100,000.
+Like Monero, Zcoin is also very suitable for trade finance. Like other crypto assets, Zcoin can be used to transfer value across the globe by instant, cheap, and highly convenient transactions.
+In spite of being a later entrant in the privacy space as compared to Monero, it has seen wider adoption. Moreover, Zcoin claims it is the first cryptocurrency that has become available to 5 million merchants in Thailand registered with the Thai QR code system.

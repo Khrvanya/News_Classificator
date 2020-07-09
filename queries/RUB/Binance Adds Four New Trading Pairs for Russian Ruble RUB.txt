@@ -1,0 +1,8 @@
+On Monday (December 2), crypto exchange Binance announced that it is launching four new trading pairs for the Russian Ruble (RUB) at 13:00 UTC on December 2.
+Earlier today, Binance posted a notice to its website, which stated that the exchange is launching trading for the following RUB pairs:
+Binance's  intention to support the ruble was first announced by the exchange's Co-Founder and CEO, Changpeng Zhao (aka "CZ"), at an event in Moscow (the Open Innovations Forum) on October 21:
+. @cz_binance live from Open Innovations in Moscow, Russia 🇷🇺 https://t.co/MXQjsHwsex
+— Binance (@binance) October 21, 2019
+CZ said at this event:
+In about two weeks or so, we should have support for Russian rubles trading directly. So you can buy cryptocurrencies on Binance.com using rubles.
+Just nine days later, Binance announced that it had enabled RUB deposits and withdrawals via Advanced Cash, a payment platform powered by Gibraltar-based ADV Project Ltd that claims to be "faster than conventional money transfers, cheaper than a regular bank account, and easier to use than other e-currency systems."

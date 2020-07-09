@@ -1,0 +1,13 @@
+MakerDAO founder Rune Christensen predicts that the demand for tokens and services from the DeFi sector will absorb all the market value into Ethereum.
+The costs for transactions on the Ethereum blockchain have quadrupled since the end of April.
+MakerDAO’s founder, Rune Christensen, tweeted a prediction about the future of the Ethereum blockchain and made his prediction referring to the deposit of a high amount of Wrapped Bitcoin (wBTC) in the MakerDAO protocol to issue 4 million DAI , the stablecoin of the protocol.
+Christensen expressed great optimism about the future of the DeFi sector and about the Ethereum blockchain. The founder of MakerDAO believes that the DeFi sector will eventually become a kind of vacuum that will move all the value of the crypto market to this platform. Christensen said :
+4 million Dai was just minted with WBTC in a single transaction. This really showcases the latent demand for non-ETH assets, and it’s the beginning of a broader trend of DeFi acting as an economic vacuum that will eventually attract almost all value to the Ethereum blockchain.
+Andrew Keys, managing partner of Digital Asset Risk Management Advisors, shared a similar view. In a publication for ConsenSys, Keys stated that the “infinite” use cases of Ethereum are a market opportunity worth about $80 trillion:
+We will be able to trustlesstly and digitally represent fiat, gold, software licenses, equity, debt, derivatives, loyalty points, reputation ratings, and much much more that we can’t even conceive of yet.
+Although Christensen’s post became viral, especially in the Ethereum community, it should be noted that the DeFi sector suffered severe blows in 2020. After a series of million-dollar thefts and protocol failures , the DeFi sector underwent a crisis of user trust. In the long run, this could be an obstacle to achieving Christian’s prediction.
+In addition, the Ethereum blockchain is facing a problem of congestion and high transaction fees. According to the analyst Ceteris Paribus, the gas prices and, therefore, tariffs to send a transaction in Ethereum’s network have increased by 4 times its value since the end of April to 41 Gwei.
+In contrast, Ceteris Paribus stated that the cost of Gas in a period of high stress normally moves between 10 and 15 Gwei. This increase represents a danger for the operation of certain protocols that depend on a stable price of transaction fees.
+Gas prices on Ethereum have been skyrocketing over the past month. Average gas price is now 41 Gwei, up 4x since end of April.
+It uses oscillates between 10-15 outside of high periods of stress (i.e. Black Thursday). pic.twitter.com/RJmdquQNdC
+— Ceteris Paribus (@ceterispar1bus) May 15, 2020

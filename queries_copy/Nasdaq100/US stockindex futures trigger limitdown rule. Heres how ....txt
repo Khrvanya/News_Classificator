@@ -1,0 +1,7 @@
+, which tracks the Nasdaq-100, was 5.7% lower.
+The U.S. stock futures price limit is triggered when stock-index futures, in trading outside the New York Stock Exchange’s 9:30 a.m. to 4 p.m. Eastern trading session, move 5% above or below a reference price set in the final 30 seconds of trading in the previous session, according to CME Group’s website .
+When stock futures hit such levels, known as “limit up and limit down,” they aren’t allowed to move any higher or lower.
+A fall of 7% for the S&P 500 once markets open would trigger a separate circuit-breaker rule that pauses market-wide stock trading for 15 minutes.
+If the S&P 500 index SPX,
+were to extend a fall to 13% on the day in the regular stock market session once trading resumes after a 7% halt, it would trigger another 15-minute halt. Trading wouldn’t stop if the decline occurred after 3:25 p.m. A 20% drop in the S&P 500 would trigger what’s known as a level three circuit breaker, which would stop trading for the remainder of the session.
+Some experts say the unpredictable and violent moves in stock index benchmarks lately reflects a new regime of uncertainty fostered by the COVID-19 epidemic, the infectious disease that was first identified in Wuhan, China, in December.

@@ -1,0 +1,33 @@
+Many people are familiar with blockchain technology, but did you know that Ethereum has the largest and most active blockchain community in the world?
+Unlike many other blockchain networks, Ethereum is programmable. This customizable feature has enabled developers to solve problems ranging from digital identification and privacy, to corporate ownership and data security.
+When the blockchain community disagrees on what changes the network needs to function smoothly or when such changes should take place, developers plan for a fork (an offshoot) of the underlying code rules.
+Today’s graphic maps out the major Ethereum blockchain forks that have occurred to date, highlighting key events that surrounded each of these updates. It also includes details on the highly anticipated Istanbul hard fork, planned for December 2019.
+Forks are common practice in the software industry, and happen for one of two reasons: split opinions within the community, and required changes to the blockchain code.
+When either reason is discussed, four major types of forks can occur.
+Codebase Forks: Copy of the original code, to allow for minor tweaks without developing the whole blockchain code from scratch.
+Blockchain Forks: Branching or splitting a blockchain’s whole transaction history, causing the new network to develop a distinct identity.
+Hard Forks: A permanent division of the blockchain.
+There are currently three types of hard forks:
+Scheduled upgrades to the network, often abandoning the old chain
+Community disagreements cause major code changes, forming a new chain
+Let’s dive into the timeline of major Ethereum forks, and explore a few of their defining moments and characteristics.
+Below are some of the most prominent and important forks—both hard and soft—on the Ethereum blockchain since its launch.
+Vitalik Buterin, founder of Ethereum, and his team finished the 9th and final proof of concept known as Olympic in May 2015. The Ethereum blockchain, also known as Frontier, went live shortly after, on July 30, 2015.
+Also known as “Frontier Thawing”, this  was the first (unplanned) fork of the Ethereum blockchain, providing security and speed updates to the network.
+Homestead is widely considered Phase 2 of Ethereum’s development evolution. This rollout included three critical updates to Ethereum: the removal of centralization on the network, enabling users to hold and transact with ETH, and to write and deploy smart contracts.
+The Decentralized Autonomous Organization (DAO) event was the most contentious event in Ethereum’s short history. The DAO team raised US$150 million through a 2016 token sale—but  an unknown hacker stole US$50 million in ether (ETH), prompting the developer community to hard fork in order to recover the stolen funds.
+Widely regarded as the only Ethereum fork of any significance, this hard fork was based on the controversial DAO event. The original chain became known as Ethereum Classic, and the new chain moved forward as the main Ethereum chain.
+This September 2019 hard fork event required all software users to upgrade their clients in order to stay with the current network. Enhancements included better security, stability, and network performance for higher volumes of traffic.
+Regarded as the third phase of Ethereum’s evolution , the Metropolis-Byzantium soft fork functioned more like an operating system upgrade, rather than a full split.
+Constantinople is the current version of the Ethereum blockchain. This hard fork occurred concurrently with the St. Petersburg update. Important changes included closing a major security loophole that could have allowed hackers to easily access users’ funds.
+Constantinople’s most notable improvements include smart contracts being able to verify each other using only the unique string of computer code of another smart contract, and reduced gas fees─namely, the price users pay to process transactions more quickly.
+The Ethereum community is preparing for the next hard fork event Istanbul, scheduled for release on December 4th, 2019.
+Ethereum’s 4th and projected final stage of development is Serenity, which has yet to be scheduled. Community members have speculated what changes will come with Serenity, but many agree that the Ethereum blockchain will shift focus from Proof of Work to Proof of Stake.
+Proof of Stake (PoS): Miners are chosen from a pool of miners, based on the stake of cryptocurrency they bid; no puzzle = no reward
+Proof of Stake means that there is less competition for completing blocks of data, significantly reducing the energy required to process data. Currently, a single Bitcoin transaction consumes the same electricity as 1.75 American households do in a day.
+Ethereum continues to be a leading blockchain platform, with the highest number of decentralized apps (dApps) and a massive, engaged community.
+To date, cryptocurrencies have largely been the focus of news headlines. However, we’ve only begun to scratch the surface of what blockchain can offer, and the value it will create beyond the financial world.
+[Blockchain] could be the foundation of a whole new era whereby our basic right to privacy is protected, because identity is the foundation of freedom and it needs to be managed responsibly.
+Get your mind blown on a daily basis:
+Given email address is already subscribed, thank you!
+Please provide a valid email address.

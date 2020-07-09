@@ -1,0 +1,111 @@
+element.querySelector('#kcn-comment-count').innerText = commentCount === 0 ? '' : commentCount;
+var newCommentCount = notificationContainer.querySelector('#kcn-comment-count').innerText - 1;
+notificationContainer.querySelector('#kcn-comment-count').innerText = newCommentCount === 0 ? '' : newCommentCount;
+var newCommentCount = notificationContainer.querySelector('#kcn-comment-count').innerText - 1;
+notificationContainer.querySelector('#kcn-comment-count').innerText = newCommentCount === 0 ? '' : newCommentCount;
+var newCommentCount = notificationContainer.querySelector('#kcn-comment-count').innerText - 1;
+notificationContainer.querySelector('#kcn-comment-count').innerText = newCommentCount === 0 ? '' : newCommentCount;
+for (var i = 0; i < lazyElements.length; i++) {
+font-family: "Helvetica Neue", "Segoe UI", Helvetica, Arial, sans-serif;
+box-shadow: 0 2px 10px 0 rgba(0, 0, 0, 0.05);
+font-family: "Helvetica Neue", "Segoe UI", Helvetica, Arial, sans-serif;
+font-family: "Helvetica Neue", "Segoe UI", Helvetica, Arial, sans-serif;
+font-family: "Helvetica Neue", "Segoe UI", Helvetica, Arial, sans-serif;
+.type-form .typeform-share .feedback-icon { width: 20px;height: auto;margin-top: 2px;opacity:0.7;}
+ga('send', 'event', "BELOW_CONTENT_FEED", 'TRENDING', "1", { nonInteraction: true });
+var firstName = (userName.indexOf(' ') > 0) ? userName.substring(0, userName.indexOf(' ')) : userName;
+box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.07);
+margin:13px 3px 0px 0px !important;
+var lastScrollTop = window.pageYOffset || document.documentElement.scrollTop;
+// This is done to set scroll direction down on first time load of feed.
+lastScrollTop = (window.pageYOffset || document.documentElement.scrollTop) - 1;
+for (var i = 0; i < stories.length; i++) {
+for (var j = 0; j < storyElementsToBeRemoved.length; j++) {
+ga('send', 'event', 'PROMOTED_POST', 'IMPRESSION', promotedPosts[i].attributes["post-title"].value, { nonInteraction: true });
+var st = window.pageYOffset || document.documentElement.scrollTop;
+//offset to load below feeds in advance, before being scrolled into view
+topOffset = .6 * $("#article-content").offsetHeight;
+var y = yOffset + window.innerHeight + topOffset;
+page_to_be_fetched = max_page + 1;
+var url = '/mma/ajax/archive?src=article-trending&page=' + page_to_be_fetched;
+// This is done so that the argument value gets corrected in case the user loads the feed by giving page as param and then switches the feed.
+window.history.replaceState("visible_page", "Page " + page_no, url);
+document.title = (document.title).replace(/Page [0-9]+ - /g, "");
+meta_description.content = (meta_description.content).replace(/Page [0-9]+ - /g, "");
+document.title = 'Page ' + page_no + ' - ' + document.title;
+meta_description.content = 'Page ' + page_no + ' - ' + meta_description.content;
+canonical.href = (canonical.href).split('?')[0] + '?page=' + page_no;
+var match = data['score_strip'][0]['currently_batting'] ? data['score_strip'][0] : null;
+match = data['score_strip'][1]['currently_batting'] ? data['score_strip'][1] : null;
+for (var i = 0; i < stories.length; i++) {
+for (var i = 0; i < hidestories.length; i++) {
+//starting from the last second div, searching for the first div with display property != none
+var diffBetweenDivs = (adTop - divAboveAd.getBoundingClientRect().top) - divAboveAd.clientHeight;
+for (var i = 0; i < lazyImages.length; i++) {
+box-shadow: 0 2px 8px 0 rgba(0, 0, 0, 0.2);
+font-family: "Helvetica Neue", "Segoe UI", Helvetica, Arial, sans-serif;
+font-family: "Helvetica Neue", "Segoe UI", Helvetica, Arial, sans-serif;
+document.cookie = cname + '=' + cvalue + ';domain=.sportskeeda.com;path=/;expires=Fri, 31 Dec 9999 23:59:59 GMT';
+item['value'] = parseInt(item['value']) + 1;
+return b['value'] > a['value'] ? 1 : -1;
+ga('send', 'event', "BELOW_CONTENT_FEED_PAGE_LOADED", 'TRENDING', "1", { nonInteraction: true });
+ga('send', 'event', "BELOW_CONTENT_FEED_PAGE_LOADED", 'RELATED', currentPagePath, { nonInteraction: true });
+w["SSJSConnectorObj"] = w["SSJSConnectorObj"] || { ss_cid : c, domain_info: g };
+box-shadow: 2px 0 4px 0 rgba(0, 0, 0, 0.1);
+.favorites .fav-header .title, .global-menu .fav-header .title , .favorite-choices .fav-header .title, .popular .fav-header .title, .links .fav-header .title {
+padding: 5px 3px 5px 16px !important;
+.global-menu .list .nav1 .nav-expand:hover, .global-menu .list .nav1 .nav2 .nav-expand:hover, .global-menu .fav-header:hover, .fav-header.language:hover {
+box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.1);
+box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.1) !important;
+return (name.length > 18) ? name.substring(0,18)+'...': name;
+// This response had setCookie as response header. So while using localStorage, we first update it then proceed.
+// localStorage supported & available and api response has user's favourite values.
+unsetCookie(favoritesCookieName); // When storing in local storage, expire any favorite cookies if available.
+// Check for localStorage, if local storage empty get it from cookie.
+// If response does not have 'popularChoices' key, then the entire response is to be considered.
+var userFavoritesList = res['popularChoices'] ? res['popularChoices'] : res;
+for (var i = 0; i < favoritesLength; i++) {
+for (var i = favoritesLength; i < userFavoritesList.length; i++ ) {
+// If no previous favourites found then empty string.
+for (var i = 0; i < userFavoritesList.length; i++) {
+for (var i = 0; i < favorites.length; i++) {
+for (var i = 0; i < popular.length; i++) {
+for (var i = 0; i < userFavorites.length; i++) {
+//When storing in local storage, expire any favorite cookies if available.
+for (var i = 0; i < favorites.length; i++) {
+ga('send', 'event', 'FAVORITE_CLICK', 'MENU', { nonInteraction: true });
+ga('send', 'event', 'FAVORITE_CLICK','TAG', { nonInteraction: true });
+ga("send", "event", "Exception", "LocalStorage", exceptionReason, { nonInteraction: true });
+for (var i = 0; i < choices.length; i++) {
+for (var i = 0; i < results.length; i++) {
+ga('send', 'event', 'ADD_FAVORITE', 'MENU_CHOICE', favoritedElement.dataset.slug, { nonInteraction: true });
+for (var i = 0; i < favoritesList.length; i++) {
+ga('send', 'event', 'FAV_SEARCH', 'EDIT', favoritesSearchInput.value, { nonInteraction: true });
+ga('send', 'event', 'MENU_EDIT_CLICK', { nonInteraction: true });
+height = height + openNodes[i].getBoundingClientRect().height;
+node = node.nextElementSibling || node.nextSibling;
+$('.keeda-side-menu').scrollTop = scrollTop - height;
+ga('send', 'event', 'FAV_SEARCH', 'BACK', preVal, { nonInteraction: true });
+ga('send', 'event', 'FAV_SEARCH', 'DISMISS', searchInputElement.value, { nonInteraction: true });
+for (var i = 0; i < containerElements.length; i++) {
+ga('send', 'event', 'MENU_CLICK', { nonInteraction: true });
+for (var i = 0; i < containerElements.length; i++) {
+$('.homepage-logo').style.transition = "all 0.2s cubic-bezier(0.45, 0.05, 0.55, 0.95)";
+var logoAnimateLeft = 50 - $(".masthead-container").getBoundingClientRect().left;
+for (var i = 0; i < navExpandMenus.length; i++) {
+for (var i = 0; i < navExpandArrows.length; i++) {
+for (var i = 0; i < globalMenuAddFavoriteElements.length; i++) {
+for (var i = 0; i < userFavorites.length; i++) {
+if(exceptionReason = storageAvailable('localStorage')) { //localstorage available.
+// User does not have favorites in local storage, they must have in cookie
+(userFavorites == 'null' || !userFavorites) ? addToLocalStorage = true : addToLocalStorage = false;
+if(addToLocalStorage) { // Adding to local storage for transferring data from cookies to local storage for further fetching.
+//When storing in local storage, expire any favorite cookies if available.
+for (var i = 0; i < userFavorites.length; i++) {
+// User does not have favorites in local storage, they must have in cookie
+(userFavorites == 'null' || !userFavorites) ? addToLocalStorage = true : addToLocalStorage = false;
+for (var i = 0; i < userFavorites.length; i++) {
+ga('send', 'event', 'ADD_FAVORITE', 'TAG', favMenuDataJson.slug, { nonInteraction: true });
+var error = "URL: " + url+ " tt_id: "+favMenuDataJson.term_taxonomy_id;
+ga('send', 'event', 'ADD_FAVORITE', 'TAG', error, { nonInteraction: true });
+ga('send', 'event', 'REMOVE_FAVORITE', 'TAG', favMenuDataJson.slug, { nonInteraction: true });

@@ -1,0 +1,8 @@
+The Stock Exchange of Thailand circuit breaker is triggered as the index falls 10% on Thursday afternoon trading. (Bangkok Post file photo)
+A trading circuit breaker was triggered as Thailand’s stock market fell by 10% when the afternoon session resumed on Thursday, only the fourth time it has been used to curb excessive volatility.
+The Stock Exchange of Thailand (SET) index fell by 125.05 points to 1,124.84 points in turnover worth 61.3 billion baht.
+Trading was halted from 2.38pm to 3.08pm. The pre-open trading period is set at 2.58pm, according to the SET.
+The SET circuit breaker has been activated only three times in the past to handle high-volatility trading.
+The first was in 2006 when the Bank of Thailand temporarily imposed capital controls. The second and third times were on Oct 10 and 27 during the 2008 subprime crisis.
+There are two stages for a circuit breaker. The first occurs if the SET index falls by 10% from the previous day's close. All trading in listed securities is halted for 30 minutes.
+The second stage occurs if the index falls by 20%, or another 10%, from the previous day's close. Trading in all listed securities is halted for one hour.

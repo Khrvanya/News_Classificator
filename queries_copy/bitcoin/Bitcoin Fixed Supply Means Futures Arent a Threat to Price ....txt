@@ -1,0 +1,16 @@
+Despite various reservations from commentators in the past, Bitcoin is robustly insured against futures manipulation, analyst suggests.
+The Bitcoin ( BTC ) price analyst who created one of the industry’s best-known prediction models thinks futures markets will not undermine the cryptocurrency.
+In a Twitter debate on Dec. 26, PlanB, father of the Stock-to-Flow tool, dispelled fears that Bitcoin futures markets could negatively impact price.
+“I don't see futures as a threat to #bitcoin,” he summarized.
+The comments follow months of speculation about futures in light of Bakkt’s offering going live in September this year. Days after launch, Bitcoin markets fell significantly, leading to widespread theories of futures manipulating markets.
+At the time, Bakkt responded by arguing that its product was aiding price discovery. Volumes were nonetheless much lower than expected — existing futures from CME, for example, traded over $500 million per day in May. The underwhelming performance thus added to the suspicion that futures’ market impact was not wholly organic.
+For PlanB, however, Bitcoin’s nature means that it cannot suffer similar problems to precious metals when it comes to trader speculation. He continued:
+“Central banks can future sell large amounts with unlimited fiat money, pushing future prices below spot (backwardation), but spot markets will not follow all the way, because they run out of sellers (unlike gold, supply is inelastic).”
+Stock-to-Flow is a measure of the amount of Bitcoin currently in existence — the stock — versus the “new” coins coming into circulation — the flow. The data has already highlighted that by 2025, Bitcoin’s Stock-to-Flow ratio will overtake that of gold.
+He has also demonstrated the extent to which Stock-to-Flow drives market value.
+PlanB referenced a debate with Twitter user BitcoinTina , well known as a dedicated proponent of Bitcoin.
+While the latter noted various differences between the cryptocurrency and gold or silver as regards futures, in essence, the pair agreed that Bitcoin’s fixed supply meant that attempts to infiltrate futures markets would fail to produce long-term impact.
+“...I was talking about spot and futures prices ('discovered' at exchanges) that in case of commodities influence producers/supply, but not with bitcoin,” PlanB added in a summary of his argument.
+As Cointelegraph reported , others have voiced concerns about futures. Those continued as recently as last month when Andreas Antonopoulos said cash-settled futures could depress the Bitcoin price.
+Prior to that, criticism focused on futures that do not see “delivery” of Bitcoin at all. Unlike with Bakkt, those futures traders need not take custody of cryptocurrency, and hence do not learn about its differences to fiat and the responsibilities those entail.
+Even in Bakkt’s case, as analyst Alex Krueger noted earlier in December, few participants choose to take custody of BTC, instead of rolling over their contracts as with regular futures contracts.

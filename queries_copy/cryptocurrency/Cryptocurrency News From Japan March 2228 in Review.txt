@@ -1,0 +1,16 @@
+Marubeni unveiled blockchain steel pipe tracing tests, multiple exchanges added leverage trading, and more headlined news from Japan this past week.
+This week’s headlines from Japan included Bitbank adding smartphone compatibility for identity verification, Fobi Japan announcing leverage trading, Coincheck announcing order limits, Rakuten Wallet announcing margin trading, and product trading company Marubeni testing blockchain for tracing steel pipes.
+Check out some of this week’s crypto and blockchain headlines, originally reported by Cointelegraph Japan .
+Japan-based crypto exchange , BitBank, recently added smartphone compatibility for its Know Your Customer, or KYC, practices.
+Using their smartphone cameras, customers can now snap pictures themselves and related required paperwork for verification. At present, BitBank is only compatible with Apple’s iOS, although Android capabilities are expected in the coming days.
+Prior to this development, users had to send in their KYC documents via traditional mail.
+Crypto exchange Fobi Japan plans to open digital asset margin trading by the middle of April.
+Using the new leverage trading features requires customers to open a margin trading account. Registration for these accounts opened on March 26. The exchange will host 2x leverage for Bitcoin (BTC) paired against the Japanese Yen (JPY).
+Starting on April 1, crypto exchange Coincheck will host price order limits, called “orderable width.”
+“The price of ± 50% of the actual price is set as the ‘upper limit’ and ‘lower limit’ at regular intervals, and the orderable range is set,” Coincheck said in an announcement .
+Rakuten Wallet, a crypto exchange under Japanese ecommerce company Rakuten, plans to offer a digital asset leverage trading platform.
+The exchange will also release a mobile phone version of the platform in app form, called Rakuten Wallet Pro.
+Rakuten Wallet plans to host 2x margin trading for Bitcoin (BTC), Ethereum (ETH), Bitcoin Cash (BCH), Litecoin (LTC) and Ripple’s XRP.
+Product trading outfit Marubeni plans to experiment with tracking steel pipes, utilizing blockchain tech.
+The company plans to use the technology for supply chain tracking to confirm the quality of steel pipe. Marubeni’s testing will include pipes from Itochu Marubeni Iron and Steel, or MISI, a company of which Marubeni partly owns.
+Marubeni has called on Blockchain Solutions Pte. Ltd to construct the blockchain side of the equation.

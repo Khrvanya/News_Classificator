@@ -1,0 +1,21 @@
+The first bitcoin futures landed on the crypto trading scene on December 10, 2017.
+These futures, made available by the Chicago Board Options Exchange, are no longer tradable.
+On December 17 that same year, the Chicago Mercantile Exchange launched its bitcoin futures .
+The goal of these cash-settled products had been made clear in November 2017.
+According to the CME’s Leo Melamed, cash-settled futures would “tame” bitcoin.  “We’ll tame it into a regular type instrument of trade with rules.” – said Melamed in an interview with Reuters.
+In this article, we will take a look at:
+What futures are and how they managed to “tame” bitcoin.
+How to trade futures. More precisely, how to trade bitcoin and cryptocurrency futures.
+Where you should trade these speculative derivatives.
+A bitcoin futures contract enables its owner to buy bitcoin for a set price, at a specified point in the future.
+At the time of writing, the price of one bitcoin is around $7.2k. You are a bull and believe the price will go up to $10k by the end of the year. It thus makes perfect sense to you to enter a futures contract, that would compel the other party to sell you bitcoin for $8k at that time.
+At the end of the year, you may choose to buy the specified amount of bitcoin for $8k/BTC. If cash-settled, the contract allows you to pocket the difference between the price and the price agreed in the contract.
+When you trade cash-settled futures, you do not handle (buy/sell/hold) any bitcoin at all.
+If you believe the price will drop to $5k, you can enter a futures contract in that direction instead. Such a contract would give you the right to sell bitcoin for $6k at that time.
+With futures contracts, you can go Long or Short.
+When you believe that the price of an asset will go up, you enter a contract that reflects your bullish stance. You go Long. This contract allows you to Buy bitcoin in the future, at a predetermined price.
+If you assume the price will drop, you go Short. You enter a contract that will allow you to Sell bitcoin in the future.
+Knowing how to trade futures is undoubtedly useful. You should also know why to trade them. What advantages do they offer over simply buying, holding, and selling digital assets?
+The value swings of futures are much more significant than those of the underlying asset. You may also be able to use leverage to increase risk/profitability.
+Bitcoin futures allow you to make money on bitcoin price downswings.
+Knowing where to trade is just as important as knowing how to trade futures. It’s important to find a trustworthy exchange with good security and an intuitive, easy-to-use interface. Just as important is making sure that your trading profits aren’t all eaten up by fees. Do a little research before you begin trading to make sure you’ve chosen a platform that will work well for you.

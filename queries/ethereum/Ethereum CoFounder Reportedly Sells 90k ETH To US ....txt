@@ -1,0 +1,10 @@
+Ethereum Co-Founder Reportedly Sells 90k ETH To U.S. Cryptocurrency Exchange
+Ethereum co-founder sells 90k ETH to Kraken amidst reports that Vitalik Buterin plans to sell $25 million worth of the cryptocurrency.
+Ethereum ( ETH ) co-founder and core developer, Jeffrey Wilcke, has reportedly sent 92,000 ETH ($11.5 million) to U.S. cryptocurrency exchange Kraken on Dec. 25.
+While Cointelegraph reported early today about concerns that Ethereum co-founder Vitalik Buterin could be planning to sell $25 million worth of the cryptocurrency, a tweet sent by Jeffrey Wilcke indicates otherwise.
+Wilcke, whose GitHub shows he is the co-founder of Grid Games, made the claim that he needs the money to fund his game.
+In addition to Wilcke’s tweet, sources show that an ETH address registering the name of Jeff Wilcke moved 90,000 ETH to Kraken in full.
+In January 2016, an account funded by the Ethereum Foundation dev wallet moved 408,000 ETH to an ox600 address. Between January 2016 and the end of this year, the address shows continual selling and movement of funds, yet this decreases sharply on Dec. 25.
+While the address still has 218,000 ETH ($27 million), 90,000 of this was moved to an intermediary address and then sent in full to Kraken.
+Monitoring resource etherscan shows the interaction was performed by the ox600 address.
+Prior to Wilcke sending 90,000 ETH to Kraken, Vitalik Buterin revealed on a podcast that aired Dec. 11 that the Ethereum Foundation netted around $100 million by selling ETH at its last all-time high, when it was trading close to $1,400 in January 2018.

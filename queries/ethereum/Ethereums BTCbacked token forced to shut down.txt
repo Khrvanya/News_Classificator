@@ -1,0 +1,14 @@
+A crypto project based on Ethereum, but backed by Bitcoin coins — tBTC — suddenly announced its shutdown.
+Medium report, the project has a major flaw in its code that prevented people from withdrawing their BTC.
+Despite the flaw, the project plans to return once this, and other potential errors are fixed.
+A token that was created on Ethereum’s network, but backed by Bitcoin coins, recently had to shut down, according to new reports. The project in question is known as tBTC, and the shutdown came after a significant flaw in its code was identified.
+The announcement of the shutdown came recently in a blog post published on Medium by Keep Network. The post explains that there is a major bug in the project’s processing of redemptions.
+What this means is that any user who locked their BTC in order to gain tBTC, and then wanted to retrieve the originally-locked coins were unable to do so. Essentially, the code proved to be unable to recognize different types of Bitcoin addresses .
+Of course, this is a major error that could prove fatal for the project. But, despite the error, the project’s team does not plan to give up on the coin. Instead, the project plans to only shut down temporarily, and make a comeback after the team inspects the code and fixes this, as well as any other potential issues.
+In fact, Keep Network even called for code auditors to comb through the project and try to find any other irregularities and problems.
+For now, the team did not specify when it plans to return the project. They only revealed that the redeployment will, in fact, arrive at some point in the future. They also plan to issue announcements before the project returns, so that anyone interested in using the token can remain updated on the situation.
+Will wBTC suffer due to tBTC’s error?
+Another similar project, Wrapped Bitcoin (wBTC) recently started seeing a lot of popularity on Ethereum. In fact, it ended up having more BTC locked away than Bitcoin’s own Lightning Network.
+However, due to the tBTC issue, this might change, if investors develop mistrust to Ethereum-based Bitcoin-backed projects. At the moment, wBTC has around $22.4 million in locked Bitcoins, which is the result of a significant spike up that came over the past week.
+Whether or not this amount will keep growing or drop in the near future still remains to be seen.
+A journalist, with experience in web journalism and marketing. Ali holds a master's degree in finance and enjoys writing about cryptocurrencies and fintech. Ali’s work has been published on a number of cryptocurrency publications. Raza is the co-founder of 5Gist.com, too, a site dedicated to educating people on 5G technology.

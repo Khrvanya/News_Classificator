@@ -1,0 +1,8 @@
+A recent job listing at blockchain-based payments firm Ripple indicates that it is working on a working capital loan product.
+The blockchain-based payment network Ripple recently added a job opening on its official website for a “Director of Product Management, Loans.”
+The description indicates that Ripple is working on a new loan product to help its customers with working capital loans.
+Working capital loans are loans companies take to financially support their everyday operations in the short term.
+A blockchain-based loan product could potentially shorten the time for companies to avail capital loans, reduce paperwork, and improve transparency and accountability between the involved parties. Considering Ripple’s wide reach across major financial institutions, this could be a huge benefit for companies seeking working capital loans.
+Ripple has so far built various blockchain-based financial products that it is providing to financial institutions. It has shown substantial progress in bringing traditional financial institutions to use blockchain-based remittance systems.
+On May 10, Dubai-based RAKBank announced that it was using RippleNet’s solution to facilitate remittance payments to Bangladesh “within minutes.” Cointelegraph also reported on Ripple’s partnership with various South Korean money transfer and remittance companies and a Thai fintech DeeMoney to disrupt the remittance market in the region.
+Only recently, Ripple claimed to be the first distributed ledger technology-focused company to have become a member of the ISO 20022 standards body. ISO 20022 is a proposed standardized approach in methodology, process and repository to enable communication and interoperability between global financial organizations.

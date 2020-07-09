@@ -1,0 +1,24 @@
+This data is then “fed” into a blockchain so that the blockchain “knows” about real-world events.
+This is exactly what Chainlink is focused on doing.
+And it seems to be working — because since our last review, Chainlink has gained more adoption and entered into more partnerships.
+One good way to measure adoption is the number of payments it receives for actual usage in the form of its tokens, called LINK. The unit used is exactly one-third of a token, or 0.333 LINK.
+And the daily volume of these “0.333 LINK transfers” are the best metric for evaluating the actual usage of Chainlink. So, look how they have steadily improved over the past half-year:
+In some respects, Chainlink is seeking to become a kind of decentralized Bloomberg — so far, just for the crypto markets and Decentralized Finance. But the hope is for much more in the future.
+Right now, it has already developed data sources for seven different cryptos, called “reference price data.”
+One good example is what Chainlink is doing for a lending-and-borrowing platform called Compound. The platform needs to calculate interest payments on each transaction. And to do so, it needs to know the price of coins such as Ether.
+Obtaining a reliable crypto price may sound trivial. But unlike prices on regulated stock exchanges, it’s actually very complex. And since this price is the basis for calculating principal and interest payments, the data is mission-critical for two reasons:
+First, it must be reliable. That means weeding out fake or fraudulent data sources.
+Second, it needs to be secure. If the data comes from a single, centralized computer, it is vulnerable to hacking or tampering. A hacker can deliberately alter the price of ETH and game the system to his or her own advantage.
+This is impossible when using Chainlink. Its reference price data comes from 21 different sources and is aggregated into a single price. Needless to say, it’s harder to hack 21 sources than a single source.
+Moreover, Chainlink provides the data source an incentive for reliability:
+It rewards reliable sources with LINK tokens, and …
+It punishes unreliable (or dishonest) sources by dropping them from its list and confiscating their LINK tokens.
+Other platforms like Ethereum, Cardano and Tezos (XTZ) will probably also need Chainlink.
+Reason: They run lots of smart contracts and aim to replace a host of centralized services in the world today. That’s not going to be possible without reliable and secure real-world data.
+This is why platforms like TomoChain, High Performance Blockchain and Ocean Protocol have already integrated Chainlink. And this is just the beginning.
+Enterprises like Google (NASDAQ: GOOG ) and Oracle Corporation (NYSE: ORCL ) are already beginning to use Chainlink. And Chainlink recently announced that Intel will follow suit, along with Hyperledger, a consortium that facilitates the development of blockchains for enterprises.
+This is big. It means Chainlink’s reach won’t be limited just to public blockchains. It will move into the world of enterprise blockchains as well.
+This points to a future of increasing adoption of the LINK token — more partnerships, more integrations with blockchain platforms and, of course, for Decentralized Finance.
+For investors with patience for the long term and tolerance for price volatility, LINK tokens could be an intriguing and potentially very profitable investment. They’re readily available on most major crypto exchanges.
+Chainlink currently has an overall "C-" Weiss Crypto Rating.
+Check out Weiss Crypto Ratings and Indexes:

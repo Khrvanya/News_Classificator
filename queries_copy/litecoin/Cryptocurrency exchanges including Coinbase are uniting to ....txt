@@ -1,0 +1,15 @@
+The points-based rating system determines whether a digital asset falls under U.S. securities law using guidance from the SEC.
+It was established by the Crypto Rating Council, whose founding members include Coinbase, Kraken, Circle, Bittrex and Grayscale.
+Bitcoin and litecoin are least likely to fall under securities laws, according to the framework, while XRP is more akin to a security.
+Coinbase co-founder and CEO Brian Armstrong speaking at TechCrunch Disrupt SF 2018.
+Cryptocurrurrency exchange operators including Coinbase, Kraken and Circle have teamed up to create a system that rates digital tokens on how close they are to securities.
+The points-based rating system, unveiled by Coinbase in a blog post Monday, determines whether a digital asset falls under U.S. securities law using guidance from the Securities and Exchange Commission .
+"The result of the analysis is a score which makes it easy for members to synthesize the analysis across many tokens and make their own, independent business decisions about whether or how to support an asset," Coinbase said in the blog post.
+The framework was established by a newly formed organization set up by the firms, called the Crypto Rating Council . It's aimed at helping financial services companies that are looking to add support for certain cryptocurrencies but are uncertain of their legal status.
+It rates digital tokens on a scale of one to five, one being an asset with few or no characteristics of a security, and five sharing the most in common with a security.
+Aside from Coinbase, Kraken and Circle, founding members of the council also include Anchorage, Bittrex, DRW Cumberland, Genesis and Grayscale Investments.
+The system addresses a key point of uncertainty that has dogged the cryptocurrency industry for some time — that is, whether digital assets like bitcoin can be counted as securities and subject to the regulations that come with that classification.
+Speculative investing in the space has heightened concerns over the potential risks to investors. At the height of the late 2017 cryptocurrency boom, so-called initial coin offerings were receiving huge attention from retail investors — with some getting burned along the way .
+According to the Crypto Rating Council's system, bitcoin and litecoin are least likely to fall under securities laws, while XRP is more akin to a security. That goes against what the CEO of Ripple — the firm using XRP for cross-border payments — has claimed, having gone on record saying it's not a security.
+The ratings also appear to be in line with SEC Chairman Jay Clayton's thinking. The regulator's chief has in the past said that cryptocurrencies like bitcoin aren't securities, but tokens like those bought in ICOs are. Some have argued that the likes of bitcoin are more similar to a commodity like gold or oil.
+"We expect that some ratings will change over time and we will accept and consider feedback from asset issuers when they want to share additional information or clarifications that may impact an asset's rating," Coinbase said.

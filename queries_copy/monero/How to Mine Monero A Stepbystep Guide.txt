@@ -1,0 +1,50 @@
+A guide for those who want to get one of the most well known altcoins.
+Mining Monero ( XMR/USD ) is as easy as mining Zcash and Ethereum ( ETH/USD ), and you can do it with your CPU, using even your old laptops.
+In this guide we will take a closer look at the installation process for the Minergate and Claymore miners (its version for the CPU, called CryptoNote).
+For AMD cardholders, Ethereum mining is the most profitable, however Monero stands out for a number of unique characteristics - above all, the level of confidentiality. It has many fans and periodically there are strong price increases.
+The entire process of downloading, installing and configuring the mining software takes less than 20 minutes. Here are a few reasons to mine Monero:
+Bitcoins are easy to exchange for fiat money. Thus, mining Monero allows you to replenish your bank account.
+Monero can also be traded on exchanges.
+Experienced and lucky traders can make good money on price jumps, given Monero’s high volatility.
+Since Monero received recognition in darknet in 2016, it remains one of the most expensive altcoins in the market.
+Mining Monero, based on the CryptoNote algorithm, is associated with less power consumption than Ethash / Dagger Hashimoto (Ethereum, Ethereum Classic, UBQ) and Equihash-basedcoins (Zcash, Zencash, Hush). This allows you to lower the temperature of the equipment and extend its service life.
+At last, the creation of a large Monero position using mining allows us to gain from the growth in the price of cryptocurrency in the future - with less risk than with a normal purchase.
+The mining and storage of cryptocurrency is similar to the concept of "Buy cheap - sell expensive." The only problem is that most buyers do not understand the technical analysis and do it at the most inopportune time.
+Cryptocurrency mining turns your computer equipment into an asset that generates profit. In addition, its value in the secondary market is kept at a high level and even grows. The graphics cards purchased for mining in 2015 and 2016 were often sold at a higher price than the purchase price because of the high demand in the market in 2017.
+In other words, you can earn good money by mining cryptocurrency on your equipment and selling it when the target is reached. In this case, the sale on the secondary market allows you to compensate for the original value, and the coins produced are a pleasant bonus.
+Monero’s hashing algorithm is different from Bitcoin’s, and so it is incompatible with ASICs designed for bitcoin mining. The Monero algorithm is called CryptoNight. It is demanding in terms of RAM and thus prevents the use of ASIC chips.
+Monero is intentionally designed in such a way as to be optimal for mining on central processors and video cards. The main feature of Monero is the use of a protocol based on ring signatures designed to make it the leading anonymous cryptocurrency (among other alternatives are Dash and Zcash). Blocks in the Monero network are generated approximately every 2 minutes, unlike 10 minutes for bitcoin.
+Since its launch in the fourth quarter of 2016, the overall speed of hashing of the Monero network has been growing rapidly:
+If the computing power in the Monero network is constantly growing, why the calculation time of the blocks is not reduced, but remains equal to 2 minutes? The growing difficulty is to blame for this. The blockchain automatically adjusts it to the power of the network, so that blocks are generated with an interval of about 2 minutes. The difficulty follows the power of the network. This year, it is also experiencing an exponential growth:
+The question that rises is why do hash rate and difficulty grow at this level? The answer is simple: the price!
+The fact is that the computing power of the network follows the take-off of the price, which led to the boom of altcoins that erupted in the summer of 2017. In September Monero spiked over 350%. The Cryptocurrency has demonstrated a remarkable growth. In just a few months, its cost increased from $40 to $160.
+Since you now know about Monero blockchain and its main features and concepts, let’s do some economic calculations.
+The whattomine.com website provides the latest data on the current price, block calculation time, and hash rate of the network.
+Select the models of your video cards, enter their number and click the "Calculate" button. The site will display the current hashing speed and profitability (for Monero select the CryptoNight algorithm).
+Over time, these numbers will change, but just as an example, one video card per day brings $1 profit depending on the model and configuration.
+Tryouts with different graphics processor options will allow you to find a card with the best price / performance / power ratio (in MH/s per currency unit). AMD cards, as a rule, outperform NVIDIA models in Ethereum mining using the EthashAlgo client. In the case of Equihash and the EWBF Miner, AMD cards perform on an equal footing with NVIDIA. For mining Monero, cards of both brands will suit.
+The advantage of CryptoNight algorithm lies in the possibility of mining with CPUs. A powerful processor from the family of Intel i5 or i7 will allow anyone wishing to participate in the mining of cryptocurrency.
+Consider the following GPUs: AMD RX 470/480, RX 570/580, R9 or HD 7990/7950 family. In the secondary market, try to buy cards from gamers, not from miners, and, preferably, under warranty. Carefully compare the performance, power consumption, availability and cost of different GPUs.
+We'll look at Monero mining on Windows 10, but you can also mine on Windows 7, 8, Linux and Mac OS.
+Go to amd.com , select the "Support & Drivers" section, enter the GPU and click on “Display Results”.
+Also you can download the drivers of previous versions, most suitable for mining:
+RX 5XX series: since these are brand new cards, it is recommended to use the latest driver version
+Install the drivers and restart the computer. If there are no warning signs in front of the video card in the Device Manager, then the driver is installed correctly.
+Some miners immediately install several cards, and then configure the drivers. Others connect one card, install drivers, turn off the computer and add the rest of the GPUs. After turning on the computer, Windows automatically detects the installed hardware (at this time, the screen may flash or go out).
+If there is a problem with one of the methods, uninstall the drivers and try another one.
+To simultaneously mine on all computers (including laptops) with your CPUs and GPUs, you must register on the Minergate website. Click the “Sign Up” button in the upper right corner of the page and enter your email and password.
+Next download the software. Click on the "Downloads" button, and the site will offer a suitable version (for Mac, Windows or Linux). Download and install Minergate. After the installation is complete, launch the program, enter the e-mail address and password specified when registering on the site, and click on "Start Mining".
+Then click on "Start Smart Mining" - the program will independently select the most profitable cryptocurrency for mining and proceed to hashing.
+The picture above shows mining on an old laptop with an Intel i7 2630 processor and integrated graphics. The picture below shows mining on a computer with an Intel Celeron 1840 processor and four graphics accelerators AMD RX 470. Ultimately, the results will depend on the characteristics of the specific equipment.
+The ability to mine cryptocurrency at the click of a mouse is very encouraging, because it avoids configuration or work with bat-files. Just click on the button and you make money.
+Next, we tell you how to maximize the Monero mining and raise the productivity of equipment by almost 2.5 times.
+On systems with NVIDIA cards, you should use the EWBF program-miner, but if you have a powerful processor (Intel i5, i7 or analog from AMD), you can mine on it using Minergate. The Minergate platform does not conflict with the EWBF or Claymore miners, so you can conduct multiple mining of several cryptocurrencies.
+On systems with AMD video cards, you can bring Monero mining to the next level using the Claymore miner, specially optimized for the CryptoNight algorithm on the company's cards.
+To install it, go back to the Minergate downloads page, scroll down and go to Alternative Miners .
+Download the bat-file for XMR by clicking on the download button on the right. Go back up and go to the forum bitcointalk. Download the miner and extract it to the desktop.
+Copy the previously downloaded bat file to the Claymore CryptoNote folder on your desktop. It should be in the same directory as the executable file of the program.
+Then change the size of the swap file to 16,384 MB (16 GB). To minimize disruptions in the operation of the miner and intervene in the parameters, you must disable Windows Update. You can leave it active, just keep in mind that the system will independently download updates, install them and sometimes overload, interrupting the work of the miner.
+If you use Windows Defender or any other antivirus program, make sure that it does not take the miner for the virus and does not block it.
+After you finish configuring Windows, start the miner by double clicking on the bat-file created earlier. If the Windows Firewall pops up, confirm your choice. Claymore CryptoNote will boot and begin to mine Monero.
+In our example, when using the Minergate platform, four RX 470 cards calculated about 1000 hashes per second, but under Claymore's control, the performance of the same system increased to 2,400 x / s. This is almost 2.5 times more! The Claymore client has proved to be very successful in working with AMD cards.
+The user panel on the Minergate website allows you to track the activity of the miners and the overall results. Click the "Withdraw" button to transfer the mined Monero to another wallet or exchange. Good luck!

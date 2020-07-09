@@ -1,0 +1,28 @@
+4 min read . Updated: 01 Jul 2020, 06:26 AM IST Tanya Thomas
+We need to find viable alternatives to power purchase agreements that are a win-win for everybody. We are working on solutions, says Rajiv Srivastava, MD and CEO, IEX
+During the initial months of the nationwide lockdown, several states turned to exchange-traded power to reduce their procurement costs and found platforms, such as the Indian Energy Exchange (IEX), to be a source of cheap power. In an interview for Mint’s Pivot or Perish series, Rajiv Srivastava, managing director and chief executive, IEX, said the energy sector will see less emphasis on long-term power contracts, and more on lowering costs and increasing consumer choices. Edited excerpts:
+Electricity demand crashed in the initial months of the lockdown and has since fluctuated a lot. How has IEX dealt with this?
+We saw national power demand drop drastically in March and April, and then there was a rebound in May. In June, we have recovered to 90% of pre-covid demand.
+What we have done at IEX is to support utilities to ensure uninterrupted power supply. We automated 100% of our remote operations and invested in the platform’s technology to cope with the flexibility in demand. In fact, states such as Andhra Pradesh, Maharashtra, Gujarat and Telangana leveraged the exchange for low-cost power, and enhanced their financial liquidity.
+We launched the real-time market in June, which allows you to trade energy over shorter delivery times.
+We made a software investment of ₹3 crore just for these two months; we are making a much larger investment for the future.
+Our biggest learnings during this period were in the domain of people, and our operating model. People, or human capital, is our biggest asset. Operating from home with no supervision put enormous accountability on our people, but they have continued to deliver their best.
+Should the government do more to support the energy sector? Will the ₹90,000 crore loan package for distribution companies (discoms) be adequate?
+This is a short-term measure. In March-May, overall realizations for discoms suffered significantly and their most remunerative customers, industrial and commercial users, disappeared, breaking down their financial value chain.
+The ₹90,000 crore liquidity injection is a welcome relief, but this is a short-term measure. The long-term problem is the economic model of generation, transmission and distribution of power.
+We have created a rigid 25-year term contract for the power supply chain. To benefit from new technology and shift in energy mix, we need to move towards a much more flexible regime.
+Should long-term power purchase agreements (PPAs) be done away with?
+I think so. But, this is a simplistic statement. PPAs are so entrenched in the whole financial modelling of the power sector, we need to find viable alternatives that are a win-win for everybody. We are working on solutions to get to such a model.
+Besides, sectoral efficiencies to reduce losses in transmission and distribution, and a regulatory framework, which allows a more market-driven open sector—just like in IT, telecom, where market forces play—will lead to healthy growth.
+Can this happen soon, especially at a time when India’s gross domestic product (GDP) is contracting?
+You can firefight your problems or make far-reaching changes, and I think the government is thinking of the latter. For instance, there is a great deal of thought going into how renewables should be brought into integration and hybridization of power. The government is talking about becoming self-sufficient in coal; we have coal reserves, so there is no need for us to import coal. The government is also looking at how to make the market more efficient.
+These are things that they are working on, on an urgent basis.
+Doing away with PPAs and diluting the PPA regime, we will get there, but it will take longer.
+You are celebrating the 12th anniversary of IEX. Over the next decade, how do you see India’s energy mix changing and how will IEX cope with these changes?
+We foresee a mega shift in how India is going to generate, distribute and consume power. If you look globally, there is trend of four Ds—decarbonization, decentralization, digitalization and democratization. This is defining the energy shift.
+The government is thinking of decarbonization now that we have a strong emphasis on renewables versus fossil fuel-based generation.
+In the next 8-10 years, we will flip from 65% conventional energy today to 65% renewables. This change will also lead to decentralization, because unlike in conventional coal plants, renewable energy is decentralized and built close to consuming populations, so there is a need for a different architecture in transmission and distribution.
+This means that there will be huge emphasis on intelligent control systems, virtual power plants, internet-enabled applications, smart grid technologies, etc. This will be driven by cost optimization and consumer choice.
+Intelligent control systems can allow consumers to determine their power provider and the form of energy they want. We are going to see energy as a service.
+* Thank you for subscribing to our newsletter.
+Click here to read the Mint ePaperLivemint.com is now on Telegram. Join Livemint channel in your Telegram and stay updated

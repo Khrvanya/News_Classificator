@@ -1,0 +1,25 @@
+Benzinga recently reported on the launch of SmartBotCoin , an advanced cryptocurrency trading platform intended to serve beginners and expert traders alike. Founder and CTO Aman Bedi discussed the project's status and growth prospects in an interview.
+Bedi is well-versed in communications, e-commerce and technology; he served in leadership roles at Sapient, Intuit and TAISTech.
+In an effort to build an automated trading solution for his portfolio, Bedi assembled a team and began working on the project that eventually became SmartBotCoin.
+He trades on the side. "I do a lot of trading of stocks, equities and crypto," Bedi told Benzinga.
+Established in 2019, SmartBotCoin features manual and automated trading, back-testing, portfolio management, asset allocation, news and sentiment readings, multi-exchange support and social-based trading.
+For automated trading, traders can set up and back-test different strategies. For traders who wish to autotrade but don’t have the expertise or patience to develop strategies, access to social trading is available.
+“We also have a social leaderboard concept, social trading, like eToro, where leaders and followers [converge],” Bedi said.
+With social trading, users act on pre-established strategies. For example, any time a leader, or creator of a certain strategy, makes a trade, the user makes a trade. Simply put, they're a carbon copy.
+"They do all the hard work," Bedi said.
+Leaders are compensated for their strategies: SmartBotCoin said it enables leaders to receive monetary compensation, incentives and awards.
+In order to reduce information asymmetry, the platform leverages artificial intelligence and machine learning to vet hundreds of news and data sources, forming actionable sentiment analysis of cryptocurrency-related developments, according to SmartBotCoin.
+“We will eventually get into stocks, equities and forex,” the platform's CTO said.
+SmartBotCoin aims to take advantage of its autoscaling and cloud-based infrastructure to support other assets, bolstering its vision to expand into institutional, B2B and white-label use, he said.
+SmartBotCoin allows access to Coinbase Pro and Binance and has plans to add KuCoin, Poloniex and Bittrex.
+The company has been self-funded up to this point and is seeking venture capital, Bedi said.
+"We beta-launched last week. [From] last week to today, without much effort on marketing, we have over 200 users that have already subscribed to the platform," he said.
+SmartBotCoin does not handle digital assets; rather, it is a value-added service where user assets are "sitting on an exchange," the CTO said.
+Due to the fact that SmartBotCoin does not handle people’s money, the firm does not file with the SEC, he said.
+Any and all digital asset activity is highly protected, according to SmartBotCoin: the platform encrypts user API keys using hardware security modules that are FIPS 140-2 Level 3 compliant.
+This means that authorized traders have access to a tamper-resistant interface that complies with government-level security benchmark standards.
+SmartBotCoin is now in beta testing and is offering discounted rates.
+Once testing is over, two monthly subscriptions levels will be available: standard and premium.
+With the standard $30 subscription, users receive access to the trading terminal, back-testing and automation. For the $60 premium subscription, social trading features are included.
+Crypto is an open space right now, and SmartBotCoin should pair well with growing interest in social trading, Bedi said.
+"Nobody is doing what we are doing, and I think we are rolling heads right now.”

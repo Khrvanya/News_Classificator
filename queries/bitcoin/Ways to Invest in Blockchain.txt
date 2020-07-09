@@ -1,0 +1,33 @@
+Before exploring how to invest in blockchain, it’s important to know its origins. The story more or less starts in 2008, when Satoshi Nakamoto published a paper on bitcoin and the idea for two people or companies to transfer payments without the need for a third-party financial institution.
+The first bitcoin was mined in January 2009, and it didn’t take long before cryptocurrency hype began.
+Today, blockchain technology is being used in various industries, though it is still mainly used to verify transactions. The appeal is that this technology creates an unalterable record whose authenticity can be verified by anyone using the blockchain — not just a third-party financial institution like a bank.
+A blockchain begins with a genesis block that births other blocks, or bundles of transactions. The parent block is always the previous block. The “tip” or “top” is the most recently added. The chain then becomes fossilized under layers of children and subsequent generations of grandchildren.
+As mentioned, there are many different uses for blockchain . Unsurprisingly, banking is one of them, with other places it has been implemented including the cybersecurity , networking, internet of things and online music industries. More applications are seen emerging in the future.
+As blockchain tech continues to grow, there will be many opportunities for investors. Blockchain is not a physical asset that can be purchased, so many are turning to other ways of getting exposure. Here’s a look at the three main options for how to invest in blockchain.
+Stocks — Investing in blockchain stock is the obvious place to start when thinking of ways to invest in blockchain. Below are just a few for investors to choose from. For a more exhaustive list, click here .
+Codebase Ventures (CSE: CODE ,OTCQB:BKLLF) — A company that is currently investing exclusively in blockchain-based technology.
+BTCS (OTCQB: BTCS ) — This company was the first publicly traded blockchain company in the US.
+Interbit (TSXV: IBIT ,OTC Pink:BTLLF) — Interbit’s blockchain services are used in a variety of industries, including banking and fantasy sports.
+HIVE Blockchain (TSXV: HIVE ,OTCQX:HVBTF) — A firm that looks to create a bridge between the blockchain market and traditional capital markets. It is strategically partnered with Genesis Mining, a cryptocurrency-mining hashrate provider.
+Exchange-traded funds (ETFs) — ETFs offer a lower-fee alternative to stocks, and provide access to a basket of blockchain companies to invest in. Here are a handful of blockchain ETFs available in the market. For a more extensive overview, click here .
+Amplify Transformational Data Sharing ETF (ARCA: BLOK ) — This actively managed blockchain ETF was launched in January 2018. The fund’s holdings include companies that are involved in the blockchain sector.
+Reality Shares NASDAQ NexGen Economy ETF (NASDAQ: BLCN ) — Established through a partnership between Reality Shares and the NASDAQ, this ETF is focused on generating long-term growth with a focus on blockchain-related companies.
+First Trust Indxx Innovative Transaction & Process ETF (NASDAQ: LEGR ) — A fund that tracks the Indxx Blockchain Index. This index is comprised of international publicly listed companies that are involved in blockchain.
+Blockchain Technologies ETF (TSX: HBLK ,OTC Pink:BKKCF) — Harvest Portfolios Group issued the Blockchain Technologies ETF, which was the first Canadian blockchain ETF on the market. The fund is focused on securities involved in blockchain, as well as instruments that could include preferred shares, convertible debt and warrants. The fund is listed on the Toronto Stock Exchange.
+Innovation Shares NextGen Protocol ETF (ARCA: KOIN ) — An ETF with holdings that were selected by an artificial intelligence -powered algorithm based on textual analysis. The ETF invests in companies that are related to blockchain across four main categories.
+Interested in investing in the tech industry?
+Learn the basics of tech investment in this FREE report!
+Give me my free report!
+Crowdfunding — While it might not be an immediate choice on how to invest in blockchain, crowdfunding platforms are an attractive way for investors to jump into blockchain investing. As Ameer Rosic, CEO of Blockgeeks, has said , crowdfunding is an easy way for innovative projects to obtain money.
+This is where blockchain steps in. Rosic says blockchain crowdfunding allows startup companies to come up with their own digital currencies to sell. Examples of blockchain crowdfunding platforms include:
+BnkToTheFuture — A platform that allows investors to invest in fintech companies and funds.
+QTUM — QTUM permits the execution of “smart contracts and decentralized applications.” It also provides easy ways for standardizing workflow for business and smart contract development.
+Waves — A crypto platform for token assurance, transfer and blockchain trading.
+Uncoupled from bitcoin, blockchain’s future outlook is fascinating and promising. While estimates for market size vary wildly, the consensus seems to be that growth in the blockchain space is inevitable once the needed technological infrastructure is in place.
+For instance, research conducted by Market and Markets suggests that the blockchain market will be worth US$23.3 billion by 2021. Grand View Research, another firm, suggests the market will grow to US$7.74 billion by 2024 as various sectors continue to adapt this new technology. For its part, Meticulous Research forecasts that the market will reach US$28 billion by 2025.
+What’s more, in the last few years, 40 central banks have reportedly deployed blockchain solutions, according to the World Economic Forum, and it’s expected that this number will increase dramatically in the coming years. Blockchain is expected to save banks up to $27 billion annually by 2030, says Juniper Research, thereby providing incentives for banks the world over to jump aboard the blockchain train.
+In short, it’s clear that blockchain solutions are here for the long haul, which should ease the minds of those who have been wondering how to invest in blockchain.
+This is an updated version of an article originally published by the Investing News Network in 2016.
+Don’t forget to follow us @INN_Technology for real-time news updates!
+Securities Disclosure: I, Melissa Pistilli, hold no direct investment interest in any company mentioned in this article.
+Editorial Disclosure: Codebase Ventures is a client of the Investing News Network. This article is not paid-for content.

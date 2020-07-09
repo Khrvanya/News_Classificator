@@ -1,0 +1,14 @@
+The settlement of monthly futures contracts points to bullish short-term performance for Bitcoin, which has already begun reversing its downward trend.
+Bitcoin ( BTC ) is statistically likely to gain in the coming week as a new futures expiration event comes and goes, according to new data.
+Compiled by trader an analyst Luke Martin on Nov. 25, figures charting Bitcoin price performance before and after each expiration show that overall, higher levels appear afterward.
+Martin used CME Group’s monthly futures as a basis. Among the first futures to hit the market in December 2017, their settlement dates — of which Friday was one — have already attracted attention as a force for moving price.
+Bitcoin price movements around futures settlement dates. Source: Luke Martin/ Twitter
+“Takeaway: Generally experience selling pressure before and positive returns after,” he summarized.
+Per the calculations, a negative return for Bitcoin investors a week before futures payout results in a positive return the following week — 73% of the time.
+There are notable exceptions, such as Nov. 30, 2018 — a week prior, BTC/USD fell 1.1%, while after futures settlement, the pair dropped more than 18%.
+On average, says Martin, post-settlement returns are positive the following week at 2.9%. The week after that fares better still, with an average 3.9% increase.
+By contrast, the week before each event sees average losses of 2.4%. So far, last week’s performance was worse than usual at 5.1%, but settlement week conversely produced 7.7% gains.
+Since Friday, CME Bitcoin futures are up around 2% with a settled price of $7,800, according to the latest data from the company.
+As Cointelegraph reported , futures markets, in general, continue to see strong performance despite bearish sentiment which has characterized Bitcoin price action in recent weeks and months.
+This week, fellow operator Bakkt saw a clear record high for its futures trading volume. The personal best came on Nov. 27, when $42.5 million worth of contracts changed hands.
+The previous record was $20.3 million on Nov. 22, while subsequent days also saw strong performance. On Friday, Bakkt traded $24.6 million.

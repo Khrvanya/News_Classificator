@@ -1,0 +1,13 @@
+ErisX launched regulated Ether futures trading on Monday.
+The physically-settled futures contracts are the first of their kind to be authorized by US regulators.
+Regulated offerings are essential to attracting institutional investors to Ethereum and other digital assets.
+Ethereum has taken another big step into the regulated financial world.
+ErisX , a US-based digital asset trading platform backed by TD Ameritrade, today launched trading for Ethereum (ETH) futures contracts, regulated by the Commodity Futures Trading Commission (CFTC). Futures contracts allow users to trade control of the obligation to buy or sell an asset—in this case ETH—at a defined date in the future.
+The launch makes Ethereum the second cryptocurrency to get a regulated futures market after Bitcoin, showing regulators are becoming increasingly comfortable with the second largest digital asset by market cap.
+Futures contracts are often used by financial institutions and individuals to hedge risk, for example by ensuring they get 10 ETH for $200 in six months from now even if market prices at the time are higher. Futures contracts also aid price discovery and increase market liquidity.
+The launch of ErisX ETH futures comes less than a week after the firm announced it had received its virtual currency license (BitLicense) from the state of New York. The firm’s ETH futures market falls under the jurisdiction of the CFTC. Earlier this year, CFTC Chair Heath Tarbert hinted that ETH futures could soon be on the way, reiterating his stance that both Bitcoin and Ethereum are commodities that fall under the purview of the CFTC.
+ErisX ETH futures are physically settled, meaning contracts are settled using the underlying asset—ETH trades hands upon execution, instead of just the cash value of the difference between the contract and market prices. ErisX uses a centralized order book to manage futures trading on their platform.
+As Decrypt reported earlier today, the Bitcoin halving has led to a 43% increase in Bitcoin futures trading at the Chicago Mercantile Exchange (CME), reaching a peak of nearly 50,000 BTC under contract on May 7th.
+The Chicago Board Options Exchange and CME launched regulated Bitcoin futures in December 2017 and have since been joined by others including Bakkt and, recently, Bitnomial . ErisX launched its Bitcoin futures market in December 2019.
+And as the launch of Ethereum 2.0 approaches, ETH futures trading from ErisX may be coming at just the right time to take advantage of the potential surge of interest.
+Get the best of Decrypt where you want it most.

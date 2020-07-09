@@ -1,0 +1,13 @@
+There’s a (supposed) problem with blockchain: it’s too resource-intensive, so Amazon Web Services (AWS) has backed a $100,000 maths competition to “forever change” the technology.
+Given 1024-bit input x, compute the verifiable delay function ‘h=x^(2^t) mod N’ as fast as possible.
+If it helps, the puzzle above relates specifically to Verifiable Delay Functions (VDFs), which AWS describes as “low-level building blocks” for cryptography.
+Once properly developed, ADFs are thought to remove some of the trust problems associated with Proof-of-Stake (PoS) blockchains, particularly when working with pseudorandom numbers (which are neither trustless or truly random).
+“The Ethereum ecosystem alone currently uses on the order of 850 megawatts to extend blocks. That’s about $460 million in running costs per year,” said Tim Boeckmann of AWS. “With VDFs in Ethereum, there is an opportunity to bring down that cost to less than $0.13 million for the 0.25 megawatts of energy to power the hardware random beacons.”
+Anyone that completes the puzzle is promised a share of the $100,000 prize, but exactly how much will depend on how fast their algorithm computes it.
+A maths competition to save Ethereum’s PoS plans?
+Ethereum devs have been preparing to transition the blockchain from a consensus mechanism that leverages Proof-of-Work (like Bitcoin) to one that relies heavily on PoS.
+So far, it’s been no easy feat. Critics have slammed the idea, and some analysts have previously warned the proposed incentive model simply won’t work .
+With this in mind, it begins to make sense that AWS, along with startups like the Ethereum Foundation and Protocol Labs, would turn to outsourcing the solutions to some of the trust problems associated with PoS.
+“It’s a new way of designing hardware, of open-sourcing it.” said Justin Drake of the Ethereum Foundation. “It’s something that has never been tried. Hopefully, it will not only push forward a culture of collaboration between all kinds of blockchain projects, but open up the hardware design industry as well.
+One hundred thousand dollars to solve math puzzles is certainly cool, but one can’t help but suspect it’s an expensive cry for help from an overwhelmed Ethereum camp tasked with saving “trustlessness” in a (potentially) trustful system.
+Do you want to get the sassiest daily tech newsletter every day, in your inbox, for FREE? Of course you do: sign up for Big Spam here .

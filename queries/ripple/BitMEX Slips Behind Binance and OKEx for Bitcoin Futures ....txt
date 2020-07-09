@@ -1,0 +1,14 @@
+Bitcoin derivatives exchange BitMEX has slipped to third place in 24-hour trading volume for Bitcoin futures.
+Bitcoin ( BTC ) derivatives exchange BitMEX has fallen to third place in 24-hour trading volume for Bitcoin futures.
+Data from Skew analytics on March 23 reveals that the derivatives giant, founded by Arthur Hayes, is reporting $2.45 billion in 24-hour futures volume, as against Binance’s $2.48 billion and OKex’s $3.08 over the same time frame.
+24-hour trading volumes for Bitcoin futures contracts on major exchanges. Source: skew.com
+Earlier this month, aggregated open interest in BitMEX’s futures contract took a steep plunge from $1.2 billion on March 12 to $745 million the following day, and down to $607 million on March 13.
+Aggregated BTC futures open interest across major trading platforms, Feb. 23-March 22. Source: skew.com
+While this sharp downturn was mirrored across Bitcoin futures trading platforms, as of March 22, open interest on BitMEX remained down 55% from March 12 — at $535 million — and 64% down on the month, since Feb. 23.
+As compared with this, open interest on Binance and OKex is down 27% and 43% since March 12 respectively, and 47% and 61% down since Feb. 23.
+While all platforms have apparently taken hits amid the coronavirus-driven global market downturn, BitMEX’s relatively sharper losses come into sharper focus against the backdrop of recent data from its counterparts.
+Binance’s monthly report published on Feb. 26 had revealed a strong uptrend in trading volumes across the exchange’s futures perpetual contracts for January 2020.
+The report revealed an 85% increase in volume over the preceding month, with a daily average of $1.7 billion and a highest single-day volume of $3.5 billion on Jan. 14.
+Beyond volume losses, BitMEX has this week been mired in a controversy over a mass liquidation event on its platform, during which BTC/USD crashed 60% .
+Amid what some have diagnosed as a cascading margin call, the platform went offline for roughly 35 minutes — leaving the exchange to fend off accusations of foul play.
+BitMEX continues to face questions as to why its considerable insurance fund — containing over 35,000 BTC — was not used to help during the incident.

@@ -1,0 +1,10 @@
+Ethereum’s Vitalik Buterin downplayed the recent HTC announcement on allowing XMR mining in mobile phones.
+Vitalik Buterin, the co-founder of Ethereum, voiced a low opinion of the idea of cryptocurrency mining via mobile phones.
+Tweeting on April 13, Buterin said mining on mobile phones “is a fool’s game,” referring to the announcement by mobile phone manufacturer giant HTC to allow users to mine Monero ( XMR ) through its blockchain phone, Exodus.
+Ethereum’s co-founder added the following in reaction to the announcement:
+Furthermore, he added that “staking on phones,” on the other hand, is “quite promising.”
+There were diverse reactions on social networks to Buterin’s commentary. Some questioned that he minimized the concept of mobile crypto mining, referring to cases like Ardor, where mining can be done through Android phones. Others agreed.
+In reply to a user asking how using CPU power to mine “is worse than rich people getting richer by virtue of the size of their bags,” Ethereum’s co-founder replied:
+As Cointelegraph reported on April 10, HTC’s announcement came after signing a partnership with the ASIC chip design firm, Midas Labs.
+HTC stated that high energy consumption and cost levels could be “reduced” by transferring work to mobile devices.
+In the announcement, the company also stressed that the app would be designed to automatically deactivate mining when the mobile phone is in use or when the charger is not plugged.

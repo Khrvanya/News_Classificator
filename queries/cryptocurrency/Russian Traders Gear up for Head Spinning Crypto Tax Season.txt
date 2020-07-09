@@ -1,0 +1,12 @@
+Russian crypto owners have been warned that they have just a month before the taxman comes calling – with miners, custodians and traders all required to declare their profits.
+Although the country is likely still “a year or more” away from comprehensive crypto laws, the tax code has been changed in time for this year’s tax season – meaning that anyone in Russia making money from crypto in 2019 is legally obliged to report their earnings.
+Per RBC, Russians were originally required to submitting tax declaration documents – including details of their crypto earnings – by early next month, although a new deadline of July 30 has been set due to the disruption caused by the coronavirus pandemic. Individuals will be taxed at a flat rate of 13%.
+However, confusion still reigns for many, who are still in the dark about what exactly they need to declare – and how to go about calculating the worth in rubles of transactions carried out in crypto several months ago.
+A crypto trader in Moscow who asked to remain nameless told Cryptonews.com,
+RBC quotes a tax lawyer as stating that companies or individuals involved in mining, trading or crypto staking-related activities must all declare their earnings, or risk punitive action.
+Meanwhile, Mikhail Uspensky, of the Moscow branch of the Russian Bar Association, was quoted as saying that crypto holdings themselves are not taxable. Rather, trades that see cryptoassets converted into fiat are taxable.
+Lawyers also opined that some bitcoin (BTC) and altcoin purchases could also be taxed.
+There may be no escape from fiddly calculations, though, as Uspensky added that to calculate how much tax one would need to pay on a profitable fiat-crypto-fiat trade, a trader would need to deduct their token purchase price from the price of the asset at sale time.
+Businesses, meanwhile, face an additional headache – as they face different tax rates depending on what sort of entity they are legally registered as, with tax rates varying from 6% to 15%.
+A lawyer warned that declarations were just the start and that crypto-related grillings were likely to follow, adding,
+“Tax authorities will ask a lot of questions to figure out which operations that made use of cryptocurrency were profitable, what expenses were incurred and how they are all related to each other.”

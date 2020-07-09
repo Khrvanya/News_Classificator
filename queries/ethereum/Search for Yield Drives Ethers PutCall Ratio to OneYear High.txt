@@ -1,0 +1,20 @@
+Please consider using a different web browser for better experience.
+Please enable JavaScript in your browser for a better site experience.
+Investors’ search for yield has pushed a widely tracked ether options market metric to its highest level in 12 months.
+The put-call open interest ratio, which measures the number of put options open relative to call options, rose to 1.04 on Thursday, a level last seen in July 2019, according to data provider Skew , a crypto derivatives research firm.
+A put option gives the holder the right but not the obligation to sell the underlying asset at a predetermined price on or before a specific date. Meanwhile, a call option represents a right to buy.  Open interest refers to the number of contracts open at a specific time.
+The metric has nearly tripled in value over the last 3.5 months and has witnessed a near 90-degree rise from 0.84 to 1.04 in the last two weeks.
+“Typically this implies the market is more bearish as investors are buying puts to protect their portfolios from a fall in the underlying,” said Luuk Strijers, COO at cryptocurrency exchange Deribit , the biggest crypto options exchange by trading volumes.
+Ether, the second-largest cryptocurrency by market value, is flashing signs of uptrend exhaustion. Prices have failed multiple times in the last few weeks to keep gains above $240. As such, some investors may have bought puts.
+However, in this case, the put-call open interest ratio has risen mainly due to increased selling in the put options. “In this case, market makers have long options positions while the clients are net sellers of puts,” said Strijers told CoinDesk, and added that, “clients, in this case, are generating additional yields using their ETH holdings.”
+Traders sell (or write) put options when the market is expected to consolidate or rally. A seller receives a premium (option price) for selling insurance against the downside move. If the market remains comatose or rallies, the value of the put option sold drops, yielding a profit for the seller.
+It’s quite likely that investors holding long positions in the spot market are writing put options to generate extra yield, given the market sentiment is bullish.
+“There’s a lot of excitement around new DeFi tokens and most of the collateral locked up across those platforms is in Ethereum. As that outstanding ether supply comes down and demand from Defi platforms hits escape velocity, ether will rally hard,” tweeted John Todaro , head of research at TradeBlock.
+Validating Strijers’ argument are negative readings on three-month and six-month skews, a sign call options are costlier than puts. Skew measures the price of puts relative to that of calls.
+Three and six-month skews would have been positive had investors been buying put options.
+One-month skew, too, was hovering at -4% on Thursday. While it has bounced up to 4.7% on Friday, the metric still remains well below highs around 10% seen on June 28.
+Volatility metrics also suggest that the market in general is dominated by option writers. “There seem to be more sellers in the market which is also visible in especially the shorter-dated implied volatility dropping to lowest levels since more than 1 year,” said Strijers.
+Ether’s one-month implied volatility or investors’ expectations of how volatile or risky ether would be over the next four weeks is seen at 47% at press time, the lowest since Skew began tracking data in April 2019.
+Option implied volatilities are driven by the net buying pressure for options and historical volatility. Stronger the buying pressure, greater is the implied volatility.
+Disclosure: The author holds no cryptocurrency assets at the time of writing.
+The leader in blockchain news, CoinDesk is a media outlet that strives for the highest journalistic standards and abides by a strict set of editorial policies . CoinDesk is an independent operating subsidiary of Digital Currency Group, which invests in cryptocurrencies and blockchain startups.

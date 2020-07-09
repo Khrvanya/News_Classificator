@@ -1,0 +1,16 @@
+Please consider using a different web browser for better experience.
+Please enable JavaScript in your browser for a better site experience.
+The price of bitcoin (BTC) has risen once again after a successful launch of CME’s bitcoin options surpassed rival Bakkt on its BTC futures contracts in the first day of trade volume.
+On Jan. 14 at around 00:30 UTC, the price of the world’s largest cryptocurrency by market value rose above an area of resistance that had stifled previous rallies near $8,200 for over a week beginning Jan. 7.
+As of press time, BTC is changing hands at $8,413 after reaching its highest point in nearly two months at around $8,446, CoinDesk BPI data shows.
+This comes several hours after the successful launch of Chicago-based derivatives exchange CME’s futures contracts for BTC, which surpassed rival Bakkt in reported volume within its first day of trading.
+Global Head of crypto trading giant Cumberland,  Chris Zuehlke said institutional investors are seeking traditional risk management tools to support greater entry into crypto.
+“As with any new financial product, we expect volume will grow organically as investors get more comfortable trading it,”  Zuehlke said.
+An option on a futures contract gives a holder the right, but not the obligation, to buy or sell a specific futures contract at a strike price on or before the option’s expiration date.
+Joshua Green, head of trading at cryptocurrency trading firm Digital Asset Capital Management, said the rise in BTC’s value was “nothing obvious” citing a potential short-squeeze.
+“Maybe some negative gamma from spot moving through that strike (of $8,250) or people covering shorts that were put on in a notification of Chinese New Year sell-off,” Green said.
+Justin Chow, global head of business development at Cumberland said BTC’s recent rally was being led by altcoins, specifically BTC forks such as Bitcoin SV and Bitcoin Cash.
+“While the CME BTC Options launch corresponded to the move, BTC forked coins and other altcoins that have upcoming halvings are the strongest performers,” Chow said.
+BSV and BCH are currently posting a 22.1 and 6.84 percent rise respectively over a 24-hour period.
+Other notable cryptocurrencies are also up on BTC’s good fortune with ether and XRP both up 2.95 and 2.16 percent, respectively.
+The leader in blockchain news, CoinDesk is a media outlet that strives for the highest journalistic standards and abides by a strict set of editorial policies . CoinDesk is an independent operating subsidiary of Digital Currency Group, which invests in cryptocurrencies and blockchain startups.

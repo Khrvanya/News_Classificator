@@ -1,0 +1,12 @@
+An overview of global music streaming traffic on Spotify, SoundCloud and Amazon Music during the novel coronavirus (COVID-19) outbreak.
+Spotify saw strong growth in traffic from the end of March to the beginning of May.
+Amazon Music saw a peak during COVID-19 but traffic had returned to decline by the end of May.
+Global music streaming traffic reached a new high during the novel coronavirus (COVID-19) outbreak, according to the latest data from SimilarWeb. However, while all three platforms saw double-digit growth in March, growth was far quicker for video streaming platforms like Disney+, Netflix and YouTube.
+SoundCloud saw the biggest increase in streaming traffic, with April 6 seeing growth peak at 20.5% from the start of January. However, this increase then slowed to 6.9% by the end of May.
+Spotify traffic rose 17.8% in the week of March 23 and saw this rate of growth continue until the beginning of May. However, it had almost halved by the end of May (+10.9%).
+While Amazon Prime Video saw strong and sustained growth during the outbreak, Amazon Music proved less popular. Streaming traffic was in decline throughout January, February and the first half of March before peaking at 15.0% in April 6. Growth then began to slow and traffic had fallen into decline (-1.2%) by May 25.
+Between the three platforms, Spotify accounts for over half of all streaming traffic. SoundCloud accounts for two-fifths while Amazon Music lags behind in single-digits.
+One-fifth (17%) of consumers using music streaming services more expect this to last after the outbreak, a greater share than watching linear TV but less than for watching news coverage or TV streaming. Future growth for these platforms is likely to be fuelled by podcasts , particularly for news and specialist topics .
+In-car listening lost relevance during COVID-19, with connected devices driving higher use. Despite this increase, advertisers have cut investment during the outbreak, down a fifth for Spotify .
+However, audio advertising can drive purchase intent for grocery retailers, particularly as streaming platforms like Spotify focus on delivering high-quality attention among consumers.
+This article is part of a special WARC Snapshot focused on enabling brand marketers to re-strategise amid the unprecedented disruption caused by the novel coronavirus outbreak.

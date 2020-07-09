@@ -1,0 +1,13 @@
+Please consider using a different web browser for better experience.
+Please enable JavaScript in your browser for a better site experience.
+Blockchain startup Kirobo says its technology can prevent the loss of cryptocurrency caused by human error when sending what are normally irreversible transactions between wallets.
+The firm’s Retrievable Transfer feature works by building a new layer onto existing blockchain protocols. Users then have the ability to “cancel” a transaction sent to an incorrect cryptocurrency wallet address, the Israeli company said in a press release Tuesday.
+“Our aim is to make blockchain transactions as simple and as secure as online banking,” said Kirobo CEO Asaf Naim.
+The company’s logic layer functions by providing a unique transaction code that must be entered by the recipient in order to receive funds from the sender. Until the recipient has entered the correct code, the sender may retrieve the funds at any time.
+Loss of funds can and does occur when a sender includes an error in the long string of alphanumeric characters that make up cryptocurrency addresses.
+Kirobo cited a survey that found that 18% of respondents said they had lost funds through such sending errors. A way to make transactions less risky could help encourage new users of cryptocurrency..
+“By removing the fear from crypto transactions, Kirobo will facilitate the adoption of cryptocurrency as a whole,” said Adam Levi, DAOstack CTO and adviser to Kirobo.
+The startup said it does not hold or store a user’s private keys, with the unique code simply governing whether or not the transaction would be finalized. The feature can also operate offline should Kirobo’s servers go down.
+Kirobo’s platform has received support from Israel’s Innovation Authority, the arm of the government charged with fostering industrial research and development. The firm has also been audited by cybersecurity firm Scorpiones Group, according to the press release.
+Kirobo’s Retrievable Transfer feature is now available for bitcoin transfers on wallets from France-headquartered firm Ledger, while support in other wallets is expected to roll out over coming months.
+The leader in blockchain news, CoinDesk is a media outlet that strives for the highest journalistic standards and abides by a strict set of editorial policies . CoinDesk is an independent operating subsidiary of Digital Currency Group, which invests in cryptocurrencies and blockchain startups.

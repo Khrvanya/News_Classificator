@@ -1,0 +1,11 @@
+This migration aims to increase user convenience while maintaining security.
+The Litecoin Foundation will remove Electrum-LTC wallets from its finance page after a month.
+Donations to the Litecoin Confidential Transactions project will be held in the project’s escrow account.
+The Litecoin Foundation is set to move to BitGo’s multi-signature wallet. The firm unveiled this news through an official blog post on May 7, noting that this migration would offer a greater level of convenience and nearly the same level as the current Electrum-LTC wallet. The company did not disclose the exact day of publishing the new wallets’ addresses.
+“As part of our efforts to simplify the management of the foundation’s funds, we are migrating from multi-sig Electrum-LTC wallet to BitGo’s multi-sig wallet, which provides much greater convenience and nearly the same level of security. To avoid any potential donation misplacements, we request all donors to stop using our old Litecoin addresses. Instead, please use the information on our Support page to continue supporting us.”
+The Foundation added that it would keep the old addresses on its finance page for a month. In so doing, the firm will have ample time to track the funds. Upon expiry of the provided time, the company unveiled that it would remove the addresses to prevent their misuse.
+Per the publication, the Litecoin Foundation has already moved the funds raised on behalf of the Litecoin Confidential Transactions initiative to the project’s escrow account . In addition to this, the firm instructed that all new donations should be sent directly to the dedicated account.
+Before this news, Litecoin shared a progress update on the coin’s Mimblewimble (MW) integration. In the update , Mimblewimble’s lead developer, David Burkett noted that they had already built a testing framework and that codebase integration had already started.
+“I’ve built out a functional testing framework that builds valid headers, blocks, and transactions. I’ve now got some (mostly) complete end-to-end block validation tests.”
+Reportedly , this step aligns with the project’s goal of having MW running on Litecoin’s testnet by the end of summer.
+Do you think Litecoin’s decision to migrate to BitGo’s multi-signature wallet will help increase LTC’s adoption? Share your thoughts in the comment section below.

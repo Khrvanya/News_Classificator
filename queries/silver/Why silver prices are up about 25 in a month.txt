@@ -1,0 +1,33 @@
+1 min read . Updated: 01 Jun 2020, 11:39 AM IST Edited By Surajit Dasgupta
+Silver rates surged today in Indian markets today, extending their recent gains. Today, on MCX, silver futures were up ₹817 or 1.6% to touch ₹51,000 per kg. On Friday, silver rates had surged about ₹1,500 per kg. Analysts attributed the spike in silver prices to optimism that industrial demand of the metal may revive as countries reopen their economies.
+Analysts say that global efforts to restart economies could boost silver demand, making prices of the metal, which slipped to an all-time low relative to gold during the crisis, likely to rebound strongly.
+"MCX silver crossed ₹50,000 mark comfortably as gold/silver ratio has cooled down from 114 (1st May 2020) to 97 as on today. Silver on the MCX gained by 23% in May and we believe same momentum to continue for some more sessions," said Jigar Trivedi, research analyst at Anand Rathi Shares and Stock Brokers.
+In comparison, gold has shown a flattish to higher to higher over the past one month. Currently, MCX gold futures trade near ₹47,000 per 10 gram.
+In a note, Geojit Financial Services said silver prices will continue with positive bias as it holds above $17.60. "Further resistance is seen at $18.90, a direct rise above the same would be a sold signal for major bullish waves. Weakness is expected only a break below $15.80. "
+MCX silver has support at ₹47,400, Geojit added.
+In global markets, silver today jumped 2% to $18.20 per ounce, its highest since February 26, before retreating slightly to trade 1.8% higher at $18.16.
+"Supporting gold and thereby silver price is US-China tensions . ETF inflows also show buying interest," Kotak Securities said in a recent note.
+Silver may witness choppy trade and while overall bias is on upside, it added.
+* Thank you for subscribing to our newsletter.
+Click here to read the Mint ePaperLivemint.com is now on Telegram. Join Livemint channel in your Telegram and stay updated
+You are now subscribed to our newsletters. In case you can’t find any email from our side, please check the spam folder.
+lozad('.lozad', { load: function(el) { el.src = el.dataset.src; el.onload = function() { el.classList.add('fade')}}}).observe()
+.myAccount .planSec, .myAccount a.LinkCTA{padding:16px; margin:16px; box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.1); background-color: #fff;}
+	       		var userData = data;
+	       		var name = userData.name;
+	       		var email = userData.email;
+	       		var signupSource = userData.source;
+	       		var subscribedAtOnce = userData.subscribedAtOnce;
+	       		var plan  = userData.plan;
+	       		document.getElementById('uName').innerHTML = "<strong>"+name+"</strong>" + email;
+		       		var status = planData.status;
+		       		var purchaseSource = planData.source_device;
+			       		var nextActivationDate = planData.current_term_ends_at;
+			       		var planDescription = planData.plan.description;
+			       		var planName = planData.plan.name;
+			       		var planPrice = planData.amount;
+			       		//var planInterval = planData.shipping_interval;
+			       		var planInterval = planData.duration;
+			       		var planUnit = planData.interval_unit;
+			       		//var html = "<strong>Your Subscription Plan</strong>"+planName+" ₹"+planPrice+" / "+planInterval+" " + nextBillingHtml + cancelHtml; 
+			       		var html = "<strong>Your Subscription Plan</strong> "+planDescription + " "+ planName +": ₹"+planPrice + " "+ nextBillingHtml + cancelHtml;

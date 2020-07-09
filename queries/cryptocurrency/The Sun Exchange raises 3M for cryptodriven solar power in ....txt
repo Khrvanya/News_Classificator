@@ -1,0 +1,17 @@
+South Africa-based renewable energy startup Sun Exchange has raised $3 million to close its Series A funding round totaling $4 million.
+The company operates a peer-to-peer, crypto-enabled business that allows individuals anywhere in the world to invest in solar infrastructure in Africa.
+“You as an individual are selling electricity to a school in South Africa, via a solar panel you bought through the Sun Exchange,” explained Abe Cambridge, the startup’s founder and CEO.
+“Our platform meters the electricity production of your solar panel. Arranges for the purchasing of that electricity with your chosen energy consumer, collects that money and then returns it to your Sun Exchange wallet.”
+It costs roughly $5 a solar cell to get in and transactions occur in South African Rand or Bitcoin.
+“The reason why we chose Bitcoin is we needed one universal payment system that enables micro transactions down to a millionth of a U.S. cent,” Cambridge told TechCrunch on a call.
+He co-founded the Cape Town-headquartered startup in 2015 to advance renewable energy infrastructure in Africa. “I realized the opportunity for solar was enormous, not just for South Africa, but for the whole of the African continent,” said Cambridge.
+Sub-Saharan Africa has a population of roughly 1 billion people across a massive landmass and only about half of that population has access to electricity, according to the International Energy Agency .
+Sun Exchange has members in 162 countries who have invested in solar power projects for schools, businesses and organizations throughout South Africa, according to company data.
+With the capital, the startup plans to enter new markets. “We’re going to expand into other Sub-Saharan African countries. We’ve got some clear opportunities on our roadmap,” Cambridge said, referencing Nigeria as one of the markets Sun Exchange has researched.
+There are several well-funded solar energy startups operating in Africa’s top economic and tech hubs, such as Kenya and Nigeria. In East Africa, M-Kopa sells solar hardware kits to households on credit, then allows installment payments via mobile phone using M-Pesa mobile money. The venture is backed by $161 million from investors including Steve Case and Richard Branson.
+In Nigeria, Rensource shifted from a residential hardware model to building solar-powered micro utilities for large markets and other commercial structures.
+Sun Exchange operates as an asset free model and operates differently than companies that install or manufacture solar panels.
+“We’re completely supplier agnostic. We are approached by solar installers who operate on the African continent. And then we partner with the best ones,” said Cambridge — who presented the startup’s model at TechCrunch Startup Battlefield in Berlin in 2017.
+Sun Exchange generates revenues by earning margins on sales of solar panels and fees on purchases and kilowatt hours generated, according to Cambridge.
+In addition to expanding in Africa, the startup looks to expand in the medium to long-term to Latin America and Southeast Asia.
+“Those are also places that would really benefit from from solar energy, from the speed in which it could be deployed and the environmental improvements that going solar leads to,” said Cambridge.

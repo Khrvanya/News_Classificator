@@ -1,0 +1,10 @@
+Please consider using a different web browser for better experience.
+Please enable JavaScript in your browser for a better site experience.
+Binance CEO Changpeng "CZ" Zhao. Credit: Binance
+Malta-based Binance, one of the world’s top cryptocurrency exchanges by trading volume, now allows users put up their crypto holdings as collateral to fund futures trading.
+Launched soon before press time, the new “Cross Collateral” feature means users can trade futures contracts using assets stored in their Binance exchange wallet as collateral, without the need to use their coins to directly fund orders.
+Traders using the service can currently borrow tether (USDT) at zero percent interest against holdings of Binance USD (BUSD) – the exchange’s own stablecoin issued in partnership with New York-regulated firm Paxos – thereby eliminating the need to transfer BUSD to a futures wallet.
+“Cross Collateral is a much-anticipated feature for traders on Binance, allowing more flexibility and more choices of deposits to open futures positions,” said Gong.
+The Binance Futures platform gives users the opportunity to trade 13 pairs with high leverage, and also to hedge existing positions to manage their risk. To date, users can trade BTC contracts with a leverage of up to 125x, the highest among major crypto exchanges.
+Binance also said Tuesday it’s adjusting its fee structure to encourage market makers to add liquidity to its futures platform. Under the revised Binance Futures Market Maker Program, market makers will receive a negative fee for placing trades on selected pairs. Full details are yet to be released.
+The leader in blockchain news, CoinDesk is a media outlet that strives for the highest journalistic standards and abides by a strict set of editorial policies . CoinDesk is an independent operating subsidiary of Digital Currency Group, which invests in cryptocurrencies and blockchain startups.

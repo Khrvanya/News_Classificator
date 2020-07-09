@@ -1,0 +1,7 @@
+Binance.US , Binance's trading platform for its customers in the U.S., announced on Tuesday (October 15) that it had added support for another cryptoasset: Dash (DASH).
+Binance.US, which was launched last month, is a digital asset exchange that is "powered by matching engine and wallet technologies" licensed from Binance but is operated by San Francisco-based BAM Trading Services.
+The listing of DASH comes just four days after the exchange listed two other cryptoassets: Chainlink (LINK) and Ravencoin (RVN).
+Binance.US says that it has already started taking deposits for DASH. It should be noted that in the case of ACH USD deposits, "you will be able to buy and sell digital assets from your USD wallet immediately, but deposited funds are placed under an initial hold of 10 days before you can take them out of Binance.US."
+The new trading pair—DASH/USD—is set ti go live at 21:00 EST on 15 October 2019 (or 01:00 UTC on 16 October 2019).  Only once trading in this pair has gone live will withdrawals be possible.
+This latest addition means that by tomorrow Binance.US will have the following trading pairs on offer:
+At press time (09:15 UTC on October 15), according to data from CryptoCompare , the DASH is up slightly:

@@ -1,0 +1,23 @@
+AMD share price up 120% in 2019; Strong outlook for 2020
+AMD shares are currently trading at a price-earnings ratio of 219.44x, up nearly three folds since February, indicating growth sentiment among investors.
+Kelvin Ong | Financial writer, Singapore | Publication date : 2019-12-04T09:58:00+0000
+It is no secret that Advanced Micro Devices, Inc's (AMD) stocks are one of the most talked about on the market right now.
+Share prices of US computer chip maker AMD are at their highest level since 2006, climbing around 120% year-to-date, according to IG trading data. Stock prices have rallied some 40% in the last three months alone, topping out at US $41.79 per share on 18 November.
+Based on the same figures, the ascend appears to have been gradual, having also taken place around the same time as three major announcements in October and November.
+The company recorded a profitable third quarter, with non-GAAP revenue growing 9% year-on-year to US$1.8 billion. Non-GAAP income also rose by US$69 million from the same period last year, to US$219 million in 2019.
+Two weeks after the release of the Q3 results, AMD share price hit a 14-year peak of US$41.79 the week of 18 November 2019.
+On October 11, US President Donald Trump revealed details of a trade truce with China, and subsequently suspended tariffs that had been scheduled to take effect on 15 October.
+According to US investment portfolio manager Billy Duberstein, semiconductors like AMD are among the greatest beneficiaries of positive updates regarding the US-China trade war, as China is one of the biggest customers of US-made CPU chips.
+The announcement was enough to push prices up by 2.8% to start the following week, setting a new high for the year.
+In November, AMD released its latest Ryzen desktop processor update, which received rave reviews for its price point and quality. According to the company, HP and Lenovo are among the PC makers that have recently launched AMD Ryzen PRO 3000 Series and AMD Ryzen PRO processors with Radeon Vega Graphics.
+This has allowed AMD to overtake rival Intel in sales. The company sold over 25,000 products in November, versus 5,000 sold for Intel, according to German retailer Mindfactory’s sales figures.
+IDC technology analyst Bryan Ma also told IG Asia that AMD ‘has been gaining more attention among users in the past year or two, given the gains they’ve been making (in high-end desktops in particular)’.
+He added that AMD-based systems made up 15% of the global PC market in the third quarter of 2019, up from 10% in 2018.
+Based on IG figures from 02 December, AMD equities currently have a price-earnings (PE) ratio of 219.44x. In February, AMD shares had a PE ratio of 83.07x.
+These figures suggest that this is a growth stock, and according to IG senior market analyst Chris Beauchamp , a high PE ratio indicates that investors are expecting a high level of earnings in the future, and that growth will be strong. The share price has risen faster than earnings, on expectations of an improvement in performance.
+A low PE ratio, on the other hand, can arise as a share price falls, while earnings remain broadly unchanged.
+In the same vein, AMD President and CEO Lisa Su is optimistic about the business outlook.
+‘Our first full quarter of 7nm Ryzen, Radeon and EPYC processor sales drove our highest quarterly revenue since 2005, our highest quarterly gross margin since 2012 and a significant increase in net income year-over-year,’ said Su.
+‘I am extremely pleased with our progress as we have the strongest product portfolio in our history, significant customer momentum and a leadership product roadmap for 2020 and beyond.’
+The information on this page does not contain a record of our trading prices, or an offer of, or solicitation for, a transaction in any financial instrument. IG Bank S.A. accepts no responsibility for any use that may be made of these comments and for any consequences that result. No representation or warranty is given as to the accuracy or completeness of this information. Consequently any person acting on it does so entirely at their own risk. Any research provided does not have regard to the specific investment objectives, financial situation and needs of any specific person who may receive it and as such is considered to be a marketing communication. Although we are not specifically constrained from dealing ahead of our recommendations we do not seek to take advantage of them before they are provided to our clients. See full non-independent research disclaimer .
+Go long or short on thousands of international stocks.

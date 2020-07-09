@@ -1,0 +1,17 @@
+Ethereum users continue to accumulate despite DeFi hack, ETH 2.0 uncertainty
+Nick Chong · June 30, 2020 at 6:00 am UTC · 2 min read
+It’s been a boring past few weeks in the crypto markets. As CryptoSlate has covered, Bitcoin, Ethereum, and a majority of altcoins have effectively flatlined.
+Yet data shows that investors, at least investors in ETH, are shaking off the uncertainties in the markets, accumulating as fast as they can.
+According to blockchain analytics firm Glassnode , the number of Ethereum addresses holding over one coin recently reached a new all-time high of 1,074,282 addresses. This metric has seen consistent growth since the start of the year.
+Graph of the number of Ethereum addresses holding over one ETH from Glassnode. Current as of June 28th.
+Notably, there has also been growth in the number of addresses holding over 32 and 100 coins, but some of this growth is a byproduct of PlusToken’s Ethereum mixing.
+The strong accumulating habits of ETH investors comes in spite of a number of setbacks that are taking place.
+For one, an Ethereum-based decentralized finance protocol named Balancer was just exploited on the weekend for $500k in ETH and altcoins such as LINK. The attacker leveraged an exploit in how the protocol implemented a deflationary cryptocurrency.
+This marks the first hack in an era where DeFi is quickly becoming crypto’s hottest trend, with a growing market influence and a swelling user count.
+Tangentially related, Ethereum users have had to deal with extremely high fees over recent weeks. Former Messari executive Qiao Wang says that these fees could threaten Ethereum’s efficacy as the foremost smart-contract blockchain.
+Referencing a personal experience he had with the blockchain and transactions, he wrote :
+“So long as ETH 2.0 is not fully rolled out, there’s an obvious opportunity for a highly scalable blockchain to dethrone Ethereum. Paying $10 transaction fee and waiting 15 seconds for settlement is just bad UX.”
+There’s also uncertainty about ETH 2.0. BitMEX’s research division argued that due to the complexity of the upgrade, there are likely to be some delays.
+“Ethereum 2.0 is exceptionally complicated. With so many committees, shards and voting types it seems reasonably likely that something will go wrong and that there will be significant further delays.”
+Presumably, investors are casting aside these short-term setbacks and are taking a look at the bigger picture.
+Namely, the picture around ETH becoming more viable as an investment once Ethereum 2.0, EIP-1559 , and other improvements become implemented, which will lead to increased adoption and more monetary like properties for the asset.

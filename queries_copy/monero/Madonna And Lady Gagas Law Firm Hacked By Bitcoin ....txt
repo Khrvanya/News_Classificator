@@ -1,0 +1,6 @@
+A recent report indicated that the hacker group known as REvil (or Sodinokibi) had attacked the website of a New York-based law firm representing famous individuals such as Sir Elton John, Madonna, and Lady Gaga.
+Interestingly, the group recently announced switching from Bitcoin to Monero as the primary method of ransom payments.
+The BBC report revealed that REvil has taken down the website of the New York law firm called Grubman Shire Meiselas & Sacks. The group claimed to have taken over 750 gigabytes of data, including contracts and personal emails.
+“We can confirm that we have been victimized by a cyber-attack. We have notified our clients and our staff. We have hired the world’s experts who specialize in this area, and we are working around the clock to address these matters.” – reads a press statement from the law firm.
+At the time of this writing, the company’s website is still displaying only the firm’s logo. The cybercriminals had released a screenshot allegedly containing Madonna’s contract.  Other well-known clients of the firm include Rob Stewart, The Weeknd, U2, LeBron James, Mike Tyson, Robert De Niro, and Sony Corp.
+According to Brett Callow, a threat analyst at cyber-security company Emsisoft, the number of such ransomware attacks is increasing lately, which is particularly concerning.

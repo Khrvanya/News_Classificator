@@ -1,0 +1,28 @@
+What is Litecoin and How to Buy It? A Step-by-Step Guide
+With the help of this guide you will be able to choose the right wallet for Litecoin, know which exchanges let you buy this cryptocurrency for bitcoins, as well as for dollars and euros, and how helpful PayPal can be.
+Inspired by and based on Bitcoin ( Bitcoin ), Litecoin ( LTC/USD ) was created by an ex-Googler, Charles Lee, who brought some changes by altering a few key components, such as the following:
+The generation time of one block is 2.5 minutes, as opposed to Bitcoin’s 10 minutes
+The mining algorithm that does not allow the use of extremely powerful ASIC computers, as in the Bitcoin network
+To know more about Litecoin and other cryptocurrencies, read our “Top 5 Important Cryptocurrencies besides Bitcoin” article.
+Since Litecoin’s highest peak in 2013 ($38), it kept a stable exchange rate of about $3 for a while until its recent boom. Many suggest that this is due to the fact that the currency has adopted the Segwit soft fork operations .
+Litecoin’s rate today is slightly over $50 in most major exchanges. The cryptocurrency can be bought using credit cards, PayPal or wire transfers. An important thing to remember is that the first two ways might cost more than using the wire transfer. It is explained by the fact that if you buy Litecoin with PayPal or a credit card the seller takes the risk of a chargeback on your transaction.
+The number one step in using Litecoin is knowing how and where to store it, for that you need a wallet.
+To learn more about different cryptocurrency wallets, read ‘How to Store Bitcoins’ article.
+Some of the most popular ones for Litecoin as well, are Coinbase , Exodus and Jaxx . You can also use offline hardware wallets if you are worried about security, such as TREZOR and Ledger .
+Before diving into Litecoin trading, there is one issue to be aware of. The problem is that most of the exchanges trade only for Bitcoins, and not for USD or EUR. So what you have to do is buy bitcoins first and then exchange them for Litecoins on such special exchange platforms as Poloniex and Shapeshift .
+Yet, the following two exchanges let you buy Litecoins directly.
+Coinbase – you can buy up to $500 worth of Litecoins using your credit card, but for higher limits you would need to verify your identity. Coinbase buyers come from over 33 countries around the world and the exchange rates are fairly low.
+Bitpanda – you can also buy Litecoins using your credit card, Skrill , SEPA (Single EuroPayments Area) transfer or SOFORT transfer. This exchange requires verification and buying limits are quite low.
+After you have chosen your exchange platform, the next step is to open an account and finally buy the Litecoins. Remember to move the Litecoins from the exchange to the wallet you have picked. It is highly advisable not to leave your coins in the exchange, as there is unfortunately a risk of it being hacked or shut down.
+How to buy Litecoins using PayPal?
+There is no direct method, however, you can buy Bitcoins with PayPal using the Virtual World of Exchange or simply VirWox and then exchange them to Litecoins.
+Keep in mind that VirWox delays new user transactions for up to 48 hours, meaning that it takes 2 days to complete the process. However, it is still quicker than using a wire transfer, yet again, this might not be immediate as well.
+What else is there to remember when using this method? Firstly, it is complicated to buy Bitcoin with PayPal because of the risk the sellers take. Secondly, since it is not possible to buy Bitcoin with PayPal directly, there is a bypass method. This method makes the transaction fees higher, but is still worthy for the Bitcoin’s volatility.
+The number one step is to go to VirWox website and create a new account – find the “Not registered yet” link as shown in this screenshot:
+Fill in your personal details. Leave your avatar name as “no avatar” and click “Register.” After this step you will receive a confirmation email with your password.
+In the received email you will find a password, with which you can log into VirWox. It is highly recommended to change it once logged in, since you will be transferring money using this account. For that select “change settings” as shown below:
+Next step is to go to “Deposit” and choose the “PayPal express” method. Enter the amount of dollars or euros you want to deposit and click the PayPal checkout button. As we mentioned earlier, if you are a new user, there will be a max limit on the deposit. With time the limit will be gone and you will be able to deposit more.
+Once you have money on your account, you will be able to buy some SLL (Second Life Lindens) and exchange them for Bitcoins. Start off by buying SLL in the SLL/USD exchange as shown here:
+Once you see the SLL in the top left corner of your account, you will be able to exchange them to Bitcoins. For that, go to the SLL/BTC exchange and exchange your Lindens to Bitcoins as shown below:
+Now you can go back to VirWox and move your funds into your Bitcoin address:
+You are now ready to go to Changelly or Shapeshift and exchange your Bitcoins to Litecoins.

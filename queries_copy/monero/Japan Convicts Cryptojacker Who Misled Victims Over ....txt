@@ -1,0 +1,11 @@
+The Tokyo High Court has overturned the previous acquittal of the unnamed man, who used Coinhive to make website visitors mine Monero.
+A Japanese court has demanded a man who infected website visitors with cryptocurrency mining malware face justice — after acquitting him.
+As local daily news outlet The Mainichi reported on Feb. 7, the Tokyo High Court overturned a previous ruling which cleared the man, who was not named, of any wrongdoing.
+According to the original indictment, the 32-year-old web designer installed the Coinhive miner on his own website in October 2017. It was active for a month, using visitors’ devices to mine cryptocurrency for his own benefit — a practice known as “ cryptojacking .”
+The man then faced legal consequences in March 2018 but ultimately avoided punishment. At the time, lawmakers explained that a failure to warn him before indicting him was to blame. The High Court, however, disagreed.
+“Visitors were not informed of (the mining program) or given the chance to reject it,” The Mainichi quoted Presiding Judge Tsutomu Tochigi as saying.
+It remains unknown how much the website owner made in illicit proceeds during the brief period that Coinhive was active.
+As Cointelegraph reported , Coinhive itself shut down last year, having reportedly become economically unviable.
+Its fortunes appeared closely tied to those of privacy-focused altcoin, Monero ( XMR ), a favorite of mining programs that attackers use to carry out covert activities. Monero saw a significant drop in value in 2018, while a hard fork further complicated matters for Coinhive.
+By comparison, the service was active on over 300 websites as of May 2018, statistics reported at the time.
+Cryptojacking remains a serious problem worldwide, with Interpol last month partnering with a cybersecurity firm Trend Micro in a fresh bid to tackle the issue.

@@ -1,0 +1,23 @@
+But given Moocowmoo's long and prominent history as a Dash Core Group team member, there are obviously a lot of traces left to scrub, especially on the forums where people have been recommending Moocowmoo's masternode service for years now, largely on the basis of them being a Dash core team member.
+The following exchange between two Dash community members aged extremely well.
+For the sake of fairness, and context, it's worth noting that Moocowmoo has a history of making sporadic payouts and many previous fears of exit scams have turned out to just be false alarms.
+And while it's too soon to speculate on what happens next, if you have to, there's one very plausible scenario where this is the end of the venerable (est. 2014) Dash cryptocurrency as we know it.
+Dash Core Group (DCG) as a legal entity is a for-profit business, according to Crunchbase .
+Based on publicly available information, DCG employed an individual by the name of Moocowmoo. Many Dash Core Group customers have alleged that they were defrauded by Mr or Mrs Moo while Moo was an employee of DCG.
+There is evidence suggesting that victims only entrusted their money to Moo in exchange for a masternode service because Moo was a DCG employee and because Moo was offering a supposedly trustworthy masternode service in their capacity as a DCG employee.
+A reasonable person could have been led to believe that the masternode service was being provided by DCG. If it wasn't a DCG service, the company should have made it clear that the masternode service was not provided by DCG, that it was actually just the "side hustle" of a DCG employee and that it in no way guarantees or endorses the service provided by Moocowmoo.
+But it didn't. On the contrary, it actively advertised Moo's masternode service to customers. Moo then used their position of trust, and position as a representative of the DCG company, to allegedly abscond with customer funds.
+When customers complained to DCG, its customer service was completely unhelpful.
+Perhaps DCG ran through this same line of reasoning, which would help explain why it's now trying to scrub references to Moo as a Dash Core Group team member.
+Customers are now talking about suing someone to get their money back, and there are two parties they could sue.
+One of them is a mysterious, pseudonymous, uncontactable bovine who dropped off the grid months ago.
+The other is DCG, a for-profit commercial entity registered in Phoenix Arizona with about a million dollars in the bank and $882,000 in revenue as of May 2019. It's hardly in a position to fight a lawsuit or refund all affected users. But if you were an affected user and you just wanted your money back, what would you do?
+You need to have 1,000 DASH, currently valued at US$50,000, to own a Dash masternode, and Moo offered two kinds of masternode service.
+One was full hosting where people with 1,000 DASH paid Moo $35 a month (in DASH) to host the node on their behalf. In this case, people would retain access to their own funds, but they probably aren't going to get their $35 a month refunded.
+The other service, which is where all the affected users come from, is shared masternode hosting. Here, users pool their funds to add up to 1,000 DASH and share the masternode earnings proportionally to their contribution. People directly send Moocowmoo their money, and Moo keeps track of who owns and is owed how much.
+There are 4,843 Dash masternodes in operation , which currently lock up about $245 million of DASH. If only 20 masternodes (0.4% of the total) are shared masternodes under Moo's control, the total amount of money allegedly lost here is more than DCG can reimburse.
+One way this incident could spell the end of Dash is through a lawsuit that DCG can't afford to fight. Another way is through the realisation that its masternode system is flawed.
+These masternodes are essentially high-powered nodes that act as trusted operators on the network, earning 45% of Dash block rewards in the process. Basically, by having these points of trust in the network, you can lean on them to access useful features such as instant transactions (a trusted masternode signs off on it, rather than the whole network) and a primitive level of privacy through CoinJoins, where a masternode can still identify users but a casual observers can't.
+The whole point of masternodes is that they are trusted anchors of the network. But as this incident clearly shows, they can't be trusted.
+Sign up for key cryptocurrency news delivered to your inbox weekly.
+I agree to the Privacy & Cookies Policy , Terms of Use, Disclaimer & Privacy Policy and to receive emails from Finder

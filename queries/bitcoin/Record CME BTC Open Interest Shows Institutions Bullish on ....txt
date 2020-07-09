@@ -1,0 +1,20 @@
+Bitcoin options volume at CME rose 1000% this month as institutional investors built short-term bullish positions, but will BTC’s spot price rise?
+Bitcoin’s ( BTC ) options markets are finally taking off at CME. This week Cointelegraph reported that the combined volume traded over the last ten days surpassed $140 million , as institutional investors delved in call options.
+The buyer of a call option can acquire Bitcoin for a fixed price on a predetermined date. For that privilege, this investor pays an upfront premium for the call option seller.
+CME Bitcoin Options Volumes - USD. Source: Skew
+As halving uncertainties became less of a risk, institutional investors began mounting bullish positions. Despite being more complicated then futures trading, options markets allow investors to leverage their positions without liquidation risk .
+In simple terms, open interest is the total number of contracts held by market participants. Imagine a scenario where $70 million worth of call options are traded one week and reverted on the following one. Both the buyer and seller would be closing out their positions and risk. Despite $140 million being traded, market exposure (open interest) for such a scenario would be zero.
+CME Bitcoin Options Open Interest - USD. Source: Skew
+As per the above chart, volume registered over the last couple of weeks matched open interest. This indicates no positions have been closed so far. Most trades were short term call option contracts.
+CME Bitcoin options contracts settlement. Source: CME
+Keep in mind CME displays open interest in the number of contracts. As each CME contract entails 5 BTC, the minimum trade for a $10,000 strike amounts to a $50,000 notional. This sets CME markets apart from other markets where one can trade as little as 0.10 BTC.
+1,800 call option contracts were traded at the May 29 expiry, which is equivalent to $90 million. The June 26 expiry currently has an open interest of 800 contracts, roughly $40 million notional. Strikes, or the contract expiry price, were scattered from $9,700 to $13,000.
+Such trades are an undeniably bullish indicator from professional investors. The total cost of creating such impressive exposure exceeds $5 million. Unfortunately, there is no way to know how many clients were involved.
+On the other hand, it is safe to assume such investors built short-term bullish positions. CME options contracts are deliverable, meaning Bitcoin futures contracts will be given out to the call option buyer. Investors can immediately sell those futures, pending market liquidity, although this buying movement indicates potential longer-term market optimism.
+It might seem unreasonable to sell a call option with unlimited downside, in exchange for a fixed upfront. This strategy changes drastically if the seller previously had Bitcoin, or acquired exposure using CME futures.
+Such a strategy is known as a ‘covered call’ which allows investors to put a ceiling for its gains while simultaneously reducing its average entry price. This could be interpreted as a short-term bearish trade, although not a leveraged bet.
+The first thing retail traders should take note of is CME options expiry calendar . One should also keep a close eye on the put/call ratio, as call options usually indicate bullish strategies.
+Recent call options movement at CME caused the indicator to reach the lowest level ever registered. As of right now, 88% of current open interest is dominated by call options. Skew measures include LedgerX, Deribit, BAKKT, OKEx, and CME.
+There’s a significant incentive for such call options buyers to boost Bitcoin price nearing each expiry. As for the covered call option seller, there’s no gain by pushing the market much further from the strike price, but neither to suppress it.
+As option markets gain relevance, there are potential incentives for additional price pressure surrounding each expiry.
+The views and opinions expressed here are solely those of the author and do not necessarily reflect the views of Cointelegraph. Every investment and trading move involves risk. You should conduct your own research when making a decision.

@@ -1,0 +1,20 @@
+Shaurya Malwa · July 2, 2020 at 4:00 pm UTC · 2 min read Insights via
+The transaction per second (TPS) metric is informally considered the standard for the scalability of any blockchain.
+High TPS means a battle-tested network capable of scalability and fast processing of user transactions. This partly helps in positioning blockchain as a steady alternative to centralized providers.
+Currently, Bitcoin provides 4 TPS, while Ethereum goes up to 15. Smaller coins like NEO and Cardano boast of or are building a framework for reaching 1,000 TPS, while Komodo claims to have reached the 45k per second mark in testing.
+Now, with ETH 2.0 coming up, the protocol might see over 100,000 TPS gradually, with plans for eventually scaling to over a million as “sharding” is deployed.
+If that happens, the popular argument of public blockchains being slower than VISA is set to be toppled.
+Vitalik Buterin, the 26-year-old co-founder of Ethereum, tweeted earlier this week:
+ETH2 scaling for data will be available *before* ETH2 scaling for general computation. This implies that rollups will be the dominant scaling paradigm for at least a couple of years: first ~2-3k TPS with eth1 as data layer, then ~100k TPS with eth2 (phase 1). Adjust accordingly.
+— vitalik.eth (@VitalikButerin) June 30, 2020
+Buterin said ETH 2.0 scaling for data will be available before that for general computation, explaining the 2-3k TPS with ETH 1.0 as a data layer, “then ~100k TPS with ETH 2.0 (phase 1).
+On a relevant Reddit post , Buterin laid out the math:
+“64 shards * 256 kB per block per shard / 12s slot time = 1.33 MB/sec. Rollups: ~10-12 bytes per tx if packed optimally. 1.33m / (10…12) > 100k.”
+He added the calculations assumed that rollups “are ready, phase 1 sharding is ready, and people actually use the tech.”
+Graph showing Ethereum’s TPS as of June 30. (Source: Blockchain)
+For the uninitiated, rollups are layer-2 frameworks that help the network scale-up to multiples of present levels. In its most fundamental form, rollups store transactional data on the Ethereum blockchain in a compressed form, with the heavy-working computation occurring off-chain.
+An example is Optimistic rollups, first proposed by Buterin in 2018 and now developed by Plasma. Some teams are building application-specific zk-Rollups as well—iterating on the same architectural design to suit their needs.
+Two ZK rollups are on mainnet, optimistic rollups capable of supporting GENERIC ETHEREUM CONTRACTS (which plasma can't do) are entering testing stages.
+— vitalik.eth (@VitalikButerin) June 26, 2020
+Another team is Matter Labs, with its zk-Sync product described as “zk-Rollups on steroids” by Ben DiFrancesco, a blockchain developer who also writes a popular newsletter on relevant topics.
+Matter uses zero-knowledge proofs, the same tech used by Zcash, allowing for faster transactions than other similar solutions.

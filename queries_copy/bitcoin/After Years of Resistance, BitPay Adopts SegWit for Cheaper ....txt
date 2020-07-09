@@ -1,0 +1,18 @@
+Please consider using a different web browser for better experience.
+Please enable JavaScript in your browser for a better site experience.
+SegWit inventor Pieter Wuille speaks in 2015. (Scaling Bitcoin)
+Crypto payments processor BitPay now supports segregated witness (SegWit), according to a company blog post shared in advance with CoinDesk.
+“Support for SegWit is currently an optional feature for Bitcoin wallets in the BitPay App. Later this year, as part of a phased rollout plan, support for SegWit will be a default for all Bitcoin wallets. In addition later this year, SegWit will be implemented for invoice payments,” the blog states.
+The move comes three years after the firm opposed the update in favor of an alternate solution, SegWit2x. The fight over SegWit vs. SegWit2x fractured the Bitcoin community. The dispute spilled over into a civil war of sorts between Bitcoin proponents that saw closed-door industry agreements, the launch of rival project Bitcoin Cash and the swatting of Bitcoin developer Jameson Lopp .
+BitPay regularly processes some $1 billion in yearly payments. The firm processed 100,718 payments in April 2020, with 91.93% being bitcoin (BTC) transactions, according to self-reported figures .
+SegWit was first proposed in 2015 by Bitcoin Core contributor Pieter Wuille and quickly became a flashpoint for the developer community. In essence, SegWit freed up block space without increasing the block size in order to keep the Bitcoin blockchain small.
+Read more: One Year Later, What’s Holding Back SegWit Adoption on Bitcoin?
+It also took out a vulnerability called “transaction malleability” that allowed for transaction signatures to be manipulated. Removing this vulnerability was a necessary condition to develop an experimental payment platform on top of Bitcoin, the Lightning Network.
+At the time, BitPay was joined by the majority of bitcoin firms and mining pools such as Bitmain, Digital Currency Group (DCG) and Coinbase in supporting the rival SegWit2x update. SegWit2x would have implemented SegWit while also doubling the bitcoin block size from 1 mb to 2 mb. (Note: DCG is the parent company of CoinDesk.)
+Read more: Explainer: What Is SegWit2x and What Does It Mean for Bitcoin?
+Competing visions over the Bitcoin block size led to the creation of Bitcoin Cash. Fans of smaller block sizes say they make the network more robust against attacks; advocates of larger blocks say they are needed if bitcoin is ever to take off as a currency.
+However, SegWit2x largely failed following a User Activated Soft Fork (USAF) of SegWit deployed to the network in August 2017 . As of June 29, 2020, 63% of daily bitcoin payments used SegWit.
+Sean Rolland, BitPay director of product, told CoinDesk that right now was “a good time” to make the move based on merchant feedback.
+SegWit decreases the cost of sending transactions by up to 30%, the BitPay blog states. The firm has also implemented a fee estimation with the new update that can “reduce fees by as much as 5%-10% over previous versions.”
+Not adding SegWit or other transaction “batching techniques,” as they are commonly known, makes everyone pay more to process transactions. A report published by an independent blockchain analyst in May detailed how crypto derivatives platform BitMEX increased the entire network’s average fee by broadcasting transactions without SegWit.
+The leader in blockchain news, CoinDesk is a media outlet that strives for the highest journalistic standards and abides by a strict set of editorial policies . CoinDesk is an independent operating subsidiary of Digital Currency Group, which invests in cryptocurrencies and blockchain startups.

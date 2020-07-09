@@ -1,0 +1,16 @@
+This launch aims to offer access to physically-delivered ETH/USD-based contracts to investors.
+The ether futures contract is set to introduce broader participation from a wide range of investors.
+ErisX achieved this milestone after receiving a DCO license from the CFTC in June last year.
+ErisX, a Chicago-based crypto exchange has launched the first US-based exchange-traded ether futures contract. The exchange unveiled this news on May 11 through a blog post. According to the publication, this launch will offer institutional and individual investors access to physically-delivered contracts based on ETH/USD with monthly and quarterly expirations. This news comes after the CFTC granted ErisX a derivatives clearing organization (DCO) license in June last year.
+Per ErisX , its futures exchange trades and its spot market aim to offer price transparency and collateral efficiencies. The exchange believes that robust, transparent, and regulated financial markets are key infrastructure that helps enable price recovery, risk transference, and hedging opportunities. According to ErisX, these elements are fundamental in well-functioning capital, commodity, and commercial markets across the globe. Through launching an Ether futures contract, the exchange has introduced this infrastructure to the Ethereum network.
+Commenting in on the launch of its ether futures contract, ErisX said,
+“We are thrilled to introduce standardized, CFTC-regulated futures products, on a robustly operated trading and custody infrastructure.”
+The exchange noted that this launch would have a plethora of perks that cut across miners, speculators, hedgers, and businesses that run on ETH. These include;
+Broader participation and diversity of actors, especially institutional actors, including investors, speculators, intermediaries, hedgers, miners/validators, and commercial users.
+Diverse time horizons and trading objectives expressed through transparent instrument pricing and trading.
+Markets able to integrate more information, quicker, into more efficient and accurate price discovery.
+Improved risk management for asset owners, market makers, and miners/validators.
+ErisX added that all ether futures contract trades will be on its time-tested and proven central limit order book (CLOB). Through this feature, the exchange claims that all participants will have access to the best price on the market. Per the exchange, CLOBs lets participants trade with each other without forming new and exclusive agreements with every counterparty. On top of this ErisX noted that its surveillance application would prevent any malicious activity.
+All orders submitted to the matching engine are treated equally, they are processed in the order in which they are received, no preferential treatment.
+Once in the order book, orders are prioritized first by price (bids are ordered priced highest to lowest, and offers are ordered priced lowest to highest), and then by time within each price band (at a given price level, orders are prioritized per time of arrival from oldest to youngest).
+Do you think the launch of an ether futures contract in the US will impact ETH’s price positively? Share your thoughts in the comment section below.

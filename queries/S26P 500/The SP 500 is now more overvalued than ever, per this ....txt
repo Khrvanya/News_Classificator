@@ -1,0 +1,12 @@
+The S&P 500 is now more overvalued than ever, per this measure
+Warning road sign against a blue sky.
+Wall Street strategists have been calling for fairly modest gains for U.S. stocks in 2020, with concerns over stock market valuations being commonly cited as a reason why investors should temper their expectations for equity returns in the coming quarters.
+Indeed stocks are overvalued according to the popular measure of  price-to-earnings (P/E) — which compares the price of one share of stock to one year of per-share earnings relative to recent history. The S&P 500 index SPX,
+is trading at 18.6 times forward earnings, according to FactSet data, above the average ratio of 16.7 during the past five years and 14.9 over the past ten.
+But other, less scrutinized methods for valuing the stock market paint an even more stark picture.
+The above chart, from Ned Davis Research, shows that price relative to sales for the S&P 500 is at a record high, “well in excess of what they were in 2000 or 2007 at those peaks,” wrote Ned Davis in a Wednesday note to clients.
+Other measures, like the median price to earnings ratio — which exclude the skewed effects of very  profitable and very unprofitable companies — shows the S&P 500 overvalued by nearly 30% versus the typical valuation level seen since 1964.
+“But the S&P 500 could be overstating earnings due to buybacks and other financial engineering of profits,” Davis wrote, because corporate buybacks reduce shares in circulation, increasing earnings-per-share even if overall profits haven’t risen. Therefore, looking at the ratio of market valuations to overall profits suggests “P/E ratios are some 80% above the long-term norm,” Davis wrote.
+One caveat to these analyses is that they don’t take into account the effects of interest rates. The average effective Fed funds rate since 1964 is about 5.2%, versus 1.6% today, and one might expect equity valuations to be significantly higher when fixed income investments are yielding so little.
+Andrew Slimmon, senior portfolio manager at Morgan Stanley Investment Management, told MarketWatch in December that its critical to take into account interest rates when valuing equities. The average dividend yield for S&P 500 stocks is at 2%, according to FactSet data, above the 10-year U.S. Treasury note TMUBMUSD10Y,
+yield of 1.87%. Typically, the S&P 500 dividend yield trades 20% below the 10-year yield, he said, suggesting that relative to interest rates, the stock market has more room to run.

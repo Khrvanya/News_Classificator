@@ -1,0 +1,36 @@
+Augur is a DeFi prediction market built on Ethereum.
+It enables users to create and participate in prediction markets for the outcome of almost any event, ranging from sports games to election results.
+In addition to enabling users to bet on the outcome of world events, Augur also provides a means of crowd-sourcing insightful data surrounding the likelihood of such outcomes occurring.
+Until recently, prediction markets have been centralized, often confined by geographical boundaries which restricts availability to users in certain jurisdictions, all of which largely accept payment on in fiat currencies.
+Centralized platforms require a trusted third party to function, handle funds and verify event outcomes.
+As a decentralized, permissionless prediction market, Augur removes middle men and enables global participation.
+Smart-contracts handle user funds and payouts, rather than a centralized system or group of people.
+With Augur v1, all stakes in prediction markets are made using Ether ( ETH ), rather than fiat currencies.
+To get started with Augur, visit https://augur.net/ipfs-redirect
+Users can connect to Augur using a web 3 wallet , such as Metamask , Trezor or Ledger.
+Once connected, a user may begin placing stakes on the outcomes of available events.
+To do so, simply click the “Trade” button on any of the current prediction market events. Each of the possible outcomes will be displayed, along with their estimated probabilities.
+From here, a user must bid for the number of “shares” they desire to purchase in an outcome – similar to how they would purchase tokens in a regular cryptocurrency market.
+For example, if a user wishes to purchase shares in their predicted winner of this year’s Super Bowl, they will click on the purple Trade” button on the market titled “2020 Super Bowl LIV Winner?”.
+They will then click on the team they believe will win the Super Bowl, and enter their bid amount and limit price. They will then be asked to review the purchase, before finally executing the order.
+Keep in mind that depending on bid quantity and price, an order may (in part or completely) execute immediately, or be added to the order book.
+Shares in an outcome may be sold at any time after purchase, up until the outcome of the event is decided.
+Once the truthful outcome is decided upon and reported by REP holders, a user will either collect winnings for staking on the correct outcome or lose their stake for selecting the wrong outcome.
+Although all purchases of prediction market shares are made in ETH, Augur also has its own native token.
+Augur Reputation (REP) is used to report on the outcomes of events. REP is staked by reporters on the “truthful” outcome after the event has occurred.
+The outcome with the most REP staked is considered the “truthful” outcome, for the purpose of settling platform wins and losses on the event.
+In the case where a user stakes their REP tokens on the wrong outcome (i.e. an “untruthful” outcome), these staked tokens are redistributed amongst the users who reported with the consensus.
+By participating in this truth-determining process, users will also receive a portion of the platform fees. The more REP a user stakes for reporting, the larger the share of platform fees they will receive.
+If anything goes wrong with establishing a “true” outcome of an event, the platform also incorporates a dispute function, which can be used to resolve such an issue.
+Augur (v1) was designed to test the functionality of the back-end of the protocol. With this, minimal emphasis was placed on the graphical interface and user experience.
+Now that the foundation of the protocol has been thoroughly tested, Augur v2 will address UX, onboarding, market-making, and more.
+Here are a few of the features you can expect to catch in Augur v2:
+Market-making tools – cheaper and faster orders, with improved liquidity via 0x
+Perhaps the most important update with v2 is the ability for markets to be settled as “invalid”. As it currently stands in v1, there are a number of wording issues that result in markets being declared “invalid” due to what declares a “truthful outcome” being vague.
+As it stands today, “invalid” markets are not able to declare a truthful outcome, resulting in there being no winners. By integrating the ability to bet on a market to settle as “invalid”, market creators will be more focus on creating stronger worded markets while REP holders can rest assured that their stake will not be diminished for staking to an outcome that may be invalid.
+All together, Augur V2 is expected to largely improve the experience for users and REP token holders alike.
+Here’s a sneak-peak of their new UI:
+Due to the clunky nature of Augur v1, stand-alone applications such as Guesser have risen to the challenge of making decentralized prediction markets easier to understand.
+It’s common knowledge that Guesser accounts for the vast majority of all markets on Augur, and is expected to add additional markets in the coming year.
+To receive all the latest Augur v2 news and updates, you can sign up to their mailing list here .
+You can follow their Twitter or check out their official blog for long-form posts and releases.

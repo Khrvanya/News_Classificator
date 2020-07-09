@@ -1,0 +1,21 @@
+In a recent article I wrote about a potential seasonal speculation in soybeans .  A similar potential opportunity also exists in the corn market.  Like beans, the corn market is a highly cyclical market. This is in large part due to the planting and growing season (as explained here).  This article is about a “seasonal/cyclical” speculative play using options on Teucrium Corn Fund (NYSE: CORN ).
+There are two key caveats:
+*The trade highlighted is NOT a “recommendation”, only an example of how to speculate on a potential move using options in order to achieve limited risk and unlimited profit potential.
+*Options on ticker CORN are very thinly traded.  So, any investor who might choose to wade in needs to be aware that they may need to consider using a limit order in order to avoid significant slippage.
+Figure 1 displays the annual seasonal trend for corn according to sentimentrader.com.
+It is critical to understand that this is the “average” for what has happened in the past and should in no way be viewed as a “roadmap”.  Still, the point is pretty clear – late in the year through the month of April tends to be the “bullish” time for corn.
+Figure 2 displays that bullish sentiment for corn was recently quite low.  While this by no means guarantees a rally, historically this often a signal that downside risk may be relatively low.
+Figure 2 – Bullish Sentiment for Corn: Courtesy: sentimentrader.com
+Figure 3 tells us that options on the ETF ticker CORN (which tracks the price of corn futures) are presently cheap – i.e., implied option volatility (the black line in Figure 4) is extremely low.  This tells us that little option premium is built into the prices of CORN options.
+Figures 4 and 5 display the particulars for one possible speculative play designed to make money if CORN does in fact move higher sometime between now and the end of April 2020.
+So, is this really a good idea?  I am not actually saying that it is.  As always with this blog, this is not a “recommendation”, only an “example.”  Let’s hit the most important points to consider with this example.
+A few things to note:
+*This position qualifies as “serious bottom picking” – which is generally considered to be a loser’s bet.  However, the mitigating factor here is that we are risking only $90 (or possibly less if a limit order is used to enter) per contract.  And position sizing should be kept on the small size.  For example, a trader with $25,000 might buy a 3-lot and risk 1.1% of their trading capital.
+*If CORN does NOT advance at anytime in the next 5 months this trade is certain to lose money.
+*If CORN were to rally to its it’s 2019 high of $17.55 a share, this position would roughly triple in value.
+So, the bottom-line questions for a trader in considering this trade are:
+*Are you OK with risking $90 per contract on the hopes that corn will rise between now and the end of April 2020?
+*If you do enter the trade, how many contracts will you buy/what percentage of your trading capital will you risk?
+*If CORN fails to rally will you simply hold the options or will you consider exiting early if – for example – a key support level is broken?
+*If CORN does advance at what share price or option trade profit level will you, a) take a profit or b) adjust the trade?
+Buying inexpensive call options is something of a siren song for a lot of traders and can lead to mistakes.  But sometimes it can make a lot of sense as long as you:

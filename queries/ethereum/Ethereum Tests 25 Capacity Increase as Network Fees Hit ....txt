@@ -1,0 +1,10 @@
+A network upgrade proposition appeared to boost Ether markets earlier this week as developers respond to demands.
+Ethereum network participants are attempting to raise the network’s block size as a direct response to network congestion.
+As various parties including co-founder Vitalik Buterin confirmed this week, testing is currently underway to improve network performance and reduce transaction fees.
+“Given the current #Ethereum network congestion we have started to test raising the block gas limit to 10M gas,” mining pool Bitfly tweeted on Sept. 14.
+The move follows considerable upticks in Ethereum network usage, largely due to stablecoin Tether ( USDT ), which has shifted its reliance from Bitcoin via the Omni Layer to the Ethereum blockchain.
+According to research data from monitoring resource Coin Metrics , as of Sept. 15, Ethereum users paid almost as much in daily transaction fees as Bitcoin users: $182,899 versus $185,993, respectively.
+Since Sept. 1, the average Ethereum transaction fee has increased from just over $0.11 to just under $0.39, data from Bitinfocharts shows.
+Gas is the token, which Ethereum users pay for performing any operation on the network. A shift to 10 million gas per block is considerable, and would translate to a total capacity increase of 25%.
+News of the changes appeared to buoy market of Ethereum’s native token, Ether ( ETH ), which earlier this week put in solid gains as other cryptocurrencies tracked sideways.
+A sudden dip in Bitcoin ( BTC ) subsequently sent altcoin markets lower, ETH/USD still holding onto support above $200 at press time.

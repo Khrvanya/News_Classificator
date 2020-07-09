@@ -1,0 +1,21 @@
+Please consider using a different web browser for better experience.
+Please enable JavaScript in your browser for a better site experience.
+Blockstream’s Liquid Network Sent $8M in BTC Unsafely, Says Bitcoin Developer
+Blockstream’s Liquid Network Sent $8M in BTC Unsafely, Says Bitcoin Developer
+Bitcoins stored on the Liquid Network were temporarily able to be seized by network moderators Thursday night. The potential vulnerability in the Bitcoin sidechain’s security parameters was discovered by Summa founder James Prestwich .
+Liquid – a network developed and overseen by Blockstream and meant to move bitcoins around more quickly than the Bitcoin blockchain – moved 870 bitcoins that had been stuck in a queue since June 11 waiting to be processed.
+Occurring Thursday at 17:19 GMT, the holders of the network’s emergency two-of-three multisig wallet had potential access to the funds for about one hour, according to Prestwich . The transaction was processed normally, using the network’s 11-of-15 multisig method.
+“This was not a normal operation. If anyone says it is, they are wrong. It directly contradicts [Liquid’s] docs and public statements,” Prestwich said in a private message.
+At current prices, the transaction is valued at roughly $8 million.
+“This is a known issue caused by an inconsistency between the timelocks used by Liquid’s functionary [hardware security modules] and the functionaries themselves,” Blockstream Marketing Director Neil Woodfire told CoinDesk in a private message. “Despite the issue, the funds are always safe.”
+Woodfire said that “recent growth in the Liquid Network” and coordination plans caused by the coronavirus pandemic have led to difficulty in updating firmware relating to the timelocks. Those updates should be implemented by Q4 2020, he said.
+"To be secure, these systems must operate reliably and on-spec. In this case the Liquid federation did neither. As a result, Blockstream's administrator backdoor activated, and Liquid security became dependent on trusting the company."
+Liquid operates as a sidechain to the Bitcoin network. It uses a one-to-one pegged token called L-BTC to move funds around more quickly than the regular network, which is overseen by a federation of select nodes.
+Those nodes are typically hosted by large over-the-counter (OTC) trading desks or crypto exchanges. Each transaction, moreover, must be signed by 11 of 15 representative bodies. Liquid currently has 44 federation members such as BitMEX, Ledger and Xapo.
+When bitcoin moves onto Liquid, it goes through a “peg-in” process where bitcoin is stored in a secure wallet moderated by the federation. LBTC is created and redeemed when bitcoin is deposited. The process reverses when bitcoin is withdrawn.
+An emergency caveat does exist when bitcoins have not moved from a wallet for 30 days. In that case, a two-of-three multisig approval is activated in order to preserve the network. This is done to protect Liquid in the case of greater than one-third of the federated parties being severed from the Liquid Network.
+“If one-third or more of the network is ever unable to continue operating, the network would stall and the funds held would be locked up forever. To avoid this, all funds held by the Liquid Network are also accessible by a set of three emergency keys when the network has been non-functional for thirty consecutive days.”
+Prestwich disclosed the security error publicly because the funds were never at risk of being openly stolen by a hacker, but only by those overseeing the emergency wallet. Those holders remain anonymous.
+Whether or not this has happened in the past remains an open and pertinent security question, Prestwich added.
+Prestwich is also currently an advisor to Keep, which recently launched a wrapped-bitcoin token known as tBTC .
+The leader in blockchain news, CoinDesk is a media outlet that strives for the highest journalistic standards and abides by a strict set of editorial policies . CoinDesk is an independent operating subsidiary of Digital Currency Group, which invests in cryptocurrencies and blockchain startups.

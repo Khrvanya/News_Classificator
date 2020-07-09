@@ -1,0 +1,24 @@
+One of the most heated debates in the cryptocurrency space is the future of regulation and whether financial regulatory bodies should oversee the trading of crypto coins.
+The goal of the new legislation is to provide additional clarification on digital asset regulations. The bill has some wide-ranging regulations that, if voted into law, could reshape the crypto landscape moving forward – at least in the United States, that is.
+The US senator who put forward the Cryptocurrency Act 2020, Paul Goser, stated that it was his desire to attribute regulatory clarity to the market.
+Currently, many cryptocurrency regulations across the world are vague. Consumers and lawmakers are locked in a debate over which agencies are responsible for regulating different types of cryptocurrencies.
+Some companies, like EOS or Telegram, have even been fined for conducting unregulated securities, for instance.
+In this article, I’ll discuss what to expect from regulators in 2020 with a focus on the Cryptocurrency Act 2020, since I believe it could have a significant impact on the space.
+In November last year, Coin Rivet reported that the US Financial Stability Oversight Council (FSOC) has called for tighter regulations on stablecoins and digital assets.
+As part of its latest annual report , the council identified digital assets and stablecoins as major areas for concern, urging closer scrutiny of existing laws and a review of new products in the blockchain space.
+In October, the Central Bank of Russia revealed it is against the integration of cryptocurrencies in the public monetary system, even though some banks and politicians, Vladimir Putin included, have insisted on adopting crypto regulations instead of banning digital coins.
+On January 10 2020, the European Union (EU) will implement a new law – known as the EU Fifth Anti-Money Laundering Directive (5AMLD) – which requires cryptocurrency platforms and wallet providers to identify their customers for anti-money laundering purposes.
+Some countries such as Germany, Italy, and the Netherlands are expected to implement the 5AMLD law by the deadline this week, but other nations are resisting it.
+The United Kingdom has decided to implement the law despite its decision to leave the EU.
+Mexico is also reportedly taking a harder stance on fintech and cryptocurrency companies.
+We can clearly see the current trend is moving towards increased regulation and oversight across the globe.
+The Cryptocurrency Act 2020 begins with the categorisation of cryptocurrencies into three main groups. These groups are then used to determine which agencies are responsible for the creation of regulation and legislation. The first class described in the new bill is cryptocurrencies.
+The crypto class includes Bitcoin, Litecoin, and any other cryptocurrencies that don’t fall under the current securities regulations. The bill classifies these tokens as any digital asset that “includes representations of United States currency or synthetic derivatives resting on a blockchain or decentralised cryptographic ledger”.
+Smart contracts and oracles fall under the cryptocurrency category as well.
+The next class described in the bill is crypto-commodities. A key aspect of these tokens is the fact that they contain some form of substantial fungibility.
+Fungible assets are interchangeable, such as the USD. These assets must reside on a blockchain or decentralised cryptographic ledger to fall under this classification.
+The final type of coin described in the bill is crypto-securities. These tokens are simply any coin that fails the Howey Test .
+These groups will gain sole authority over their respective digital asset types.
+Will legislation shape cryptocurrencies in 2020?
+We have witnessed a clear and transparent shift from government bodies, especially in the US, towards the regulation of digital assets since the announcement of Facebook’s Libra. I expect more legislation in the near future, even though I highly doubt its long-term effectiveness.
+However, if regulation brings more businesses and companies into the space, that’s a good thing. Hopefully, we’ll see companies taking this wave of regulation as a sign for adoption.

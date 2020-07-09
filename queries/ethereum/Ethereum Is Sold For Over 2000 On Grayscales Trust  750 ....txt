@@ -1,0 +1,5 @@
+Buying shares of Grayscale’s Ethereum Trust would require investors to pay a premium upwards of 750% compared to ETH’s current market price.
+Grayscale is a company that provides institutional investors with exposure to the price of cryptocurrencies such as Bitcoin and Ethereum through their trust products.
+The company’s Ethereum Trust is currently selling shares of ETH, where one share represents 0.09395466 ETH. In other words, for one to own a full ETH, they’d have to purchase slightly more than 11 shares.
+However, according to the company’s official website, the market price per share at the closing market time on June 12th, 2020, was $195.50, where the worth of ETH Holdings per share was just $22.
+Put simply, an investor would have to pay more than $2,000 to own a full ETH through Grayscale’s Ethereum Trust. This represents a premium of more than 750% compared to ETH’s current market price.

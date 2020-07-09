@@ -1,0 +1,12 @@
+49,400 BTC is set for expiry in what could already be setting the scene for continued Bitcoin price pressure, data suggests.
+Bitcoin ( BTC ) has fallen 4% in the past 24 hours, but its losses may be down to an old culprit which has already sparked market volatility and selling pressure.
+By far the largest expiry from now until the end of June, the event may already be pressuring BTC/USD, which saw rejection at $7,000 on Thursday.
+Having fallen to lows of $6,495, the pair is now trading at around $6,640, but has so far failed to gather momentum to crack $7,000 resistance.
+Bitcoin options open interest by expiry date. Source: Skew/ Twitter
+As Cointelegraph frequently reported last year, Bitcoin futures expiry dates have long been associated with more erratic price performance in the days leading up to settlements. In September, research even claimed that Bitcoin fell 75% of the times that CME Group issued payouts for its futures contracts.
+In 2020, attention has moved away from the idea, instead focusing on Bitcoin’s reaction to volatility in traditional markets. A further current theory suggests a drop in Bitcoin’s mining difficulty may also be leading to price pressure.
+According to the latest statistics , CME’s futures traded around $300 million in the five days ending Thursday.
+BTC/USD meanwhile continued to fill “gaps” left between futures trading sessions, until intense volatility in March appeared to disrupt the trend.
+Prior to the significant crash on March 12, Bitcoin had just one gap left — at around $11,700 — after filling the last remaining one which was lower than its spot price. More have since opened up, including a significant space between $8,300 and $9,000.
+CME Bitcoin futures chart showing gaps. Source: TradingView
+Traditionally, such gaps tend to get filled with surprising regularity, even if the spot price only reaches the required area for hours or even minutes.

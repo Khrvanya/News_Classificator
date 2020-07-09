@@ -1,0 +1,5 @@
+The value transaction on the bitcoin network saw a small increase between the first and second quarters of 2020.
+As shown in the chart below, in the second quarter of 2020, users transacted more than $180 billion in bitcoins. That amounts to an average of $1.98 billion per day.
+[caption id="attachment_70177" align="aligncenter" width="2798"] Source: Coin Metrics, The Block Research[/caption]
+The data pointed was included in a second-quarter rundown of bitcoin network data compiled by The Block's Steven Zheng. That report also noted that BTC trading volumes on The Block 22 exchanges rose a modest 3% during the same period.
+© 2020 The Block Crypto, Inc. All Rights Reserved. This article is provided for informational purposes only. It is not offered or intended to be used as legal, tax, investment, financial, or other advice.

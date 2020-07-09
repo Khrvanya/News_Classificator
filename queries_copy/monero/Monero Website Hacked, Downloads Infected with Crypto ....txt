@@ -1,0 +1,15 @@
+Home » Crypto News » Monero Website Hacked, Downloads Infected with Crypto-Stealing Malware
+The official Monero website has been hacked and versions of its downloadable Command Line Interface (CLI) software have been infected with XMR-stealing malware.
+A security warning was sent out on Twitter alerting users that “CLI binaries available on http://getmonero.org may have been compromised at some point during the last 24h. Investigations ongoing.”
+CLI binaries available on https://t.co/UYopePqqdo may have been compromised at some point during the last 24h. Investigations ongoing. https://t.co/BqnONy4PPg
+— Monero || #xmr (@monero) November 19, 2019
+Shortly thereafter, Monero’s core development team confirmed the incident on Reddit, admitting that the infected files had been served from the website for roughly 35 minutes before they switched to a secure fallback source for serving downloads.
+Cautioning users to always check the integrity of downloaded files, the team said:
+Hacking Group REvil Threatens To Leak Information On LeBron James, Nicki Minaj, And Mariah Carey
+“If you downloaded binaries in the last 24h, and did not check the integrity of the files, do it immediately. If the hashes do not match, do NOT run what you downloaded. If you have already run them, transfer the funds out of all wallets that you opened with the (probably malicious) executables immediately, using a safe version of the Monero wallet (the one online as we speak is safe — but check the hashes).”
+The hack was originally discovered by GitHub user nikitasius who posted on the official Monero project repository that he had noticed that the SHA256 hash for the downloaded file did not match the SHA256 hash shown on Monero’s website. Upon further scrutiny, he also noticed that the hashes for monero-wallet-cli didn’t match either.
+At the time of writing, the Monero team is still investigating the incident to determine how the files were compromised. Although it is not known yet how many users downloaded the infected software, at least one person has come forward reporting that their Monero wallet had been drained after downloading and running the infected binary file.
+“I can confirm that the malicious binary is stealing coins. Roughly 9 hours after I ran the binary a single transaction drained my wallet of all $7,000. I downloaded the build yesterday around 6pm Pacific time.”
+He added that it appeared that “the attacker forked from commit f07c326f1 in the public repo” and warned users not to run the binary in order to check the version.
+The automod in the r/Monero subreddit appears to have deleted the original for reasons unknown.
+The price of Monero abruptly fell by more than five percent Monday morning – from $62.43 to $59.12 in less than three hours. After falling further to $58.56 overnight, XMR has since begun to regain some lost ground and is currently trading at $60.03.

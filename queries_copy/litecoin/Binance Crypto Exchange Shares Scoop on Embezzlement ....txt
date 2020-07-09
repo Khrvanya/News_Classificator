@@ -1,0 +1,15 @@
+Leading crypto exchange Binance is refuting claims of embezzlement recently levied against it by an alleged scammer.
+Major cryptocurrency exchange Binance is refuting recent claims of embezzlement from a Ukrainian national whose account was frozen for alleged fraud.
+Speaking to Cointelegraph, Binance noted inaccuracies in the sums of crypto assets that the Ukrainian account holder reported were seized.
+The exchange seeks to quell accusations that it embezzled roughly $251,000 in crypto unrelated to the case.
+On April 8, Forklog reported the supposed story of a Binance user — identified as B.K. — who claimed that the exchange embezzled $860,000 after unjustly freezing his account in November 2018.
+Binance quickly responded , asserting that the B.K.’s account was frozen after the exchange was contacted by South Korean police, per the exchange's policy:
+"We have a standard procedure where once an account is flagged by a law enforcement agency, we will freeze an account and turn it over to them in accordance with the law and cooperate in investigations while also being careful to prevent any tip-offs."
+Binance said in a statement that B.K. was the recipient of funds that were stolen from a South Korean token project.
+According to the exchange, hackers received 3,995 Ether ( ETH ) after impersonating Binance in order to trick them out of a supposed "security deposit" for the listing.
+B.K. responded, claiming that only 2,844.88 ETH was related to the allegations and that Binance had misappropriated $251,194 not associated with the case.
+Initially, B.K. provided Forklog with a list of assets he claimed Binance embezzled.
+However, Binance provided Cointelegraph with a screenshot that purports to show the discrepancies between the two parties’ versions of events.
+While the sums provided to Forklog match Binance’s figures for the quantity of Ethereum Classic ( ETC ), Dash ( DASH ), Monero ( XMR ), Zcash ( ZEC ), Tether ( USDT ), and Bitcoin Cash ( BCH ), the figures provided for seized Bitcoin ( BTC ), ETH, Litecoin ( LTC ), EOS , and Iota ( MIOTA ) differ significantly.
+Binance suggests that it seized just 0.008 BTC, while B.K. claims it was roughly 4.56 BTC. B.K. also claims an extra 702 ETH, 10 times the amount of LTC, an additional 33,200 EOS, and nearly 170,000 MIOTA  on top of the figures provided by Binance.
+The exchange told Cointelegraph that B.K. added his own account figures to other accounts involved in the case.

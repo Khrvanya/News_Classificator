@@ -1,0 +1,5 @@
+Crypto lender BlockFi has added support for USD Coin (USDC) and Litecoin (LTC) across all of its offerings.
+Announced Wednesday, users of BlockFi Interest Accounts (BIA) can now deposit these two currencies to either earn monthly compounding interest on them or take out U.S. dollar-denominated loans against the crypto collateral. The company offers an initial interest rate of 8.6% for USDC and 3.8% for LTC, according to a press statement shared with The Block.
+The two coins were also added to BlockFi’s new trading platform. Launched in Dec. 2019, BlockFi Trading allows users to trade between the following cryptocurrencies: Bitcoin, Ether, Gemini Dollar, and now, USDC and LTC.
+BlockFi has seen significant growth since its founding in 2017. Its valuation doubled in a roughly two-month period, as The Block previously reported, and BlockFi founder Zac Prince said last month that the platform was seeing 1-2% daily growth across key performance indicators. BlockFi raised $18.3 million in a Series A funding round last summer.
+Editor's Note: This report has been amended to clarify information about BlockFi's valuation.

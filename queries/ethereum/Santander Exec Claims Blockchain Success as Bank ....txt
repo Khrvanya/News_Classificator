@@ -1,0 +1,12 @@
+Please consider using a different web browser for better experience.
+Please enable JavaScript in your browser for a better site experience.
+Spanish banking multinational Santander has redeemed a bond worth $20 million that it issued on the public ethereum blockchain in September.
+With the move, John Whelan, head of Digital Investment Banking at Santander and chairman of the Enterprise Ethereum Alliance, hailed the technology as a real-world solution for securities issuance.
+In a tweet posted Tuesday, Whelan said:
+"We just performed an early redemption of our blockchain-based bond that we issued on September 10th, 2019.  This unequivocally proves that a debt security can be managed through its full lifecycle on a blockchain (public in this case)."
+He also provided public blockchain transactions on Etherscan as proof of the transaction, which can be seen here (issuer wallet) and here (investor wallet). In this pilot transaction, Santander was both investor and issuer.
+When it announced the news three months ago, Santander said it had become the first institution to use a public blockchain to manage all aspects of a bond issuance.
+The bank used a custom ethereum token to represents the $20 million bond, and settled it with another token that represents cash held in a custody account.
+While other entities such as the World Bank and Societe Generale have also issued blockchain-based bonds, Santander appears to be the only entity to have automated the whole process on a public chain. Santander Security Services even custodied the cryptographic keys for the tokenized security and cash.
+“It’s an evolutionary step,” Whelan said in September. “There are no secondary markets yet, but we are on that path.”
+The leader in blockchain news, CoinDesk is a media outlet that strives for the highest journalistic standards and abides by a strict set of editorial policies . CoinDesk is an independent operating subsidiary of Digital Currency Group, which invests in cryptocurrencies and blockchain startups.

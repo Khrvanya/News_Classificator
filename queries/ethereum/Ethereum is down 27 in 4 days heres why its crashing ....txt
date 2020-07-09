@@ -1,0 +1,20 @@
+This Exchange News was brought to you by OKCoin, our preferred Exchange Partner.
+Ethereum has consistently been the best performing cryptocurrency in the first two months of 2020. It surged by 127 percent from January 1 to the highest point of the year on February 15, after a lackluster year in 2019 .
+Yet, in the last 4 days, the price of Ethereum has fallen by more than 27 percent against the US dollar, underperforming against Bitcoin.
+As the Bitcoin price recovered from $6,000s to over $10,000, the entire alternative cryptocurrency (altcoin) market rebounded strongly in a short period of time.
+Even against small altcoins with low market caps, Ethereum maintained firm momentum until the last week of February.
+However, because the price of Ethereum went up rapidly within less than six weeks without any sizable pullback, it did not establish reliable support levels with sufficient trading activity.
+It climbed from $180 to $280 with two minor support levels at $220 and $260, with extreme levels of funding on BitMEX and Binance’s futures contracts.
+On perpetual futures contracts, the term funding refers to the compensation long or short contract holders receive to maintain their position. When there are more longs in the market, longs are required to pay shorts to leave their positions open, and vice versa.
+As Ethereum surged to the $260 to $280 range, the funding rate for the Ethereum perpetual swap rose above 0.1 percent on both Binance and BitMEX.
+As the price of Ethereum started to pull back, the high levels of funding made it unfavorable for traders to continue longing the market. Over the weeks that followed, a significant amount of longs were forced to adjust their positions and market sell, causing selling pressure to build up.
+The price of Ethereum is pulling back intensely after a strong two-month rally (source: tradingview.com)
+Simply put, the trap of longs above $260 with a high funding rate led Ethereum to correct, and the lack of strong support levels exacerbated the downtrend.
+During an uptrend, altcoins tend to front run Bitcoin but during a downtrend, it heavily relies on the price trend of Bitcoin.
+Since early March, the Bitcoin price has reflected the trend in the U.S. stock market; whenever the Dow Jones heavily sold off, the Bitcoin price went onto see a large pullback simultaneously.
+The Dow Jones is now nearing bear market levels following the 1,400-point drop on the day, as fear towards the coronavirus pandemic intensifies.
+The World Health Organization (WHO) characterization of coronavirus as a pandemic further invoked fear in the financial market.
+WHO director-general Tedros Adhanom Ghebreyesus said:
+“We have therefore made the assessment that COVID-19 can be characterized as a pandemic. Pandemic is not a word to use lightly or carelessly. It is a word that, if misused, can cause unreasonable fear, or unjustified acceptance that the fight is over, leading to unnecessary suffering and death.”
+The performance of the Dow Jones, which directly reflects the appetite of investors towards high-risk assets like single stocks, could affect the market’s level of demand for Bitcoin.
+Ethereum , currently ranked #2 by market cap, is down 3.66% over the past 24 hours. ETH has a market cap of $21.39B with a 24 hour volume of $16.94B.

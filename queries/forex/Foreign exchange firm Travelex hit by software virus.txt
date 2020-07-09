@@ -1,0 +1,5 @@
+LONDON (Reuters) - Foreign exchange firm Travelex said on Thursday it had taken all its systems offline after it was hit by a software virus earlier this week.
+“Our investigation to date shows no indication that any personal or customer data has been compromised,” Travelex said in a statement.
+The decision to take the systems offline was precautionary, it said.
+Computer specialists and external cyber security experts had been working since New Year’s Eve to isolate the virus, the company said, adding its branches were continuing to provide foreign exchange services manually.
+Finablr, a United Arab Emirates-based payment solutions business, which owns Travelex, said its six other brands were not affected by the virus and were operating normally.

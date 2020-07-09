@@ -1,0 +1,50 @@
+Monero (XMR) is the largest privacy coin by market capitalization and users.
+Unlike Bitcoin, Monero transactions and balances are private by default.
+As a top-20 coin, Monero is listed on several major cryptocurrency exchanges.
+Monero is one of the most popular privacy coins in the crypto market. It’s easy to use XMR to make untraceable transactions—here’s how.
+Monero is untraceable. Unlike other blockchains, only holders of the cryptocurrency can see their transaction data and balances. Identifying information about other people transacting on the network is also obfuscated. These features ensure that analytics companies cannot track people who use the privacy coin, solving a problem that Bitcoin has fallen victim to in recent years.
+You can purchase Monero (XMR) on several major cryptocurrency exchanges.
+Popular exchanges with BTC/XMR trading pairs include Binance, Bitcoin.com, Bitfinex, Bittrex, Huobi, Kraken, Kucoin, and Poloniex. Kraken and Bitfinex also offer USD/XMR trading pairs.
+Some exchanges do not list Monero. BitBay and OKEx have delisted the cryptocurrency due to regulatory issues, while Coinbase has never listed it. Something to keep in mind is that the exchanges mentioned above are centralized: they manage user identities and can monitor trades. If not done carefully, purchasing XMR through a centralized exchange can defeat many of the coin’s privacy benefits.
+For maximum privacy, we recommend buying XMR from decentralized exchanges such as OpenLedger or Waves.Exchange, or from peer-to-peer exchanges such as Bisq or LocalMonero.
+To move XMR off of an exchange, it is necessary to create a new wallet address and then send those funds to that new address. Use any of these wallets to create a new address:
+Monerujo: a mobile Monero wallet for Android.
+Cake Wallet: a mobile Monero wallet for iOS with built-in exchange features and currency conversion.
+X Wallet: another mobile wallet for iOS.
+My Monero: a simple wallet that can be run as a desktop app or mobile app, or within a web browser.
+We recommend the official Monero GUI wallet . It is easy to set up, and it offers streamlined access to Monero’s basic features—just choose “simple mode” after opening the application. Step-by-step wallet instructions can be read here .
+Monero addresses and keys are represented by strings of text. It is essential to understand these terms:
+Mnemonic seed: recovers a Monero wallet. Sharing it will allow anyone to access your funds.
+Secret spend key: spends Monero and signs transactions. Sharing it will allow anyone to access your funds.
+Secret view key: displays address data. Sharing it will reduce your privacy but will not allow anyone to access your funds.
+Main address: receives Monero sent by another user (or exchange). It is safe to share this address.
+Subaddress: a disposable address that directs funds to a main address. It is safe to share these addresses, and they provide extra privacy.
+Wallets generally handle other incidental key and address information automatically. The most important thing to remember is that secret keys and mnemonic seeds should be kept secret, and should not be revealed to anyone. Failure to protect this information can result in a total and irrecoverable loss of funds.
+Hardware wallets are an excellent way to store XMR for the long-term because they provide “cold storage” or offline storage. Large amounts of XMR should be stored in a hardware wallet; small amounts should be withdrawn to a software wallet as needed for spending.
+Here are a few of the hardware wallets that we recommend:
+The Monero community is also funding an open-source hardware wallet called Kastelo , which is still under development.
+Though hardware wallets are very secure, they do not protect against phishing attacks . Scammers may contact you by email or social media by impersonating Ledger or Trezor in an attempt to get access to your cryptocurrency. Occasionally, phony Monero wallet apps pop up in the Google and Apple app store, so remain vigilant.
+Block explorers provide a way to view Monero’s ledger of transactions. There are several to choose from:
+Moneroblocks: A standard Monero block explorer.
+ExploreMonero: A streamlined block explorer with guided transaction look-ups; recommended for beginners.
+XMRChain: A stripped-down block explorer that may be useful to developers thanks to its support for testnet funds.
+Blockchair: A multi-coin blockchain explorer that supports Monero.
+That said, the data on block explorers are limited because Monero transactions are private. Instead, Monero wallets show transaction histories and have tools for inspecting individual transactions and verifying payments. Use these instructions to prove payments directly from the Monero wallet GUI.
+Nevertheless, Monero block explorers can be useful for monitoring network-wide information, such as mining statistics, emission rates (inflation), transaction fees, and block times.
+It is possible to mine XMR at a profit, even on a home computer.
+In 2019, Monero introduced RandomX , which limits high-end GPUs and ASIC miners from dominating mining on its network. As a result, CPU miners can still participate profitably, meaning that anyone can set their desktop or laptop to mine XMR.
+Follow the steps below to begin mining XMR:
+1. Find your CPU or GPU on this list . Then, copy the hashrate and power consumption data into CryptoCompare’s mining calculator to estimate mining profits.
+2. If mining appears profitable, then download a mining app such as XMR-Stak or XMRig . Be sure to download the latest version.
+3. Join a pool and follow that pool’s instructions for software setup.
+Monero’s GUI wallet also provides a way to “solo mine” the coin from within the app . It is an easy way to mine, but the payouts are less consistent.
+It is also possible to earn free XMR from faucets. Though faucets pay very little, this may be the best option for outdated computers.
+Nearly 200 online services accept Monero, and about 50 of those can be considered merchants.
+Notably, several brand merchandise stores accept the privacy coin. Participating artists include Fall Out Boy, Mariah Carey, Weezer, and other bands with storefronts powered by Manhead Merchandise . Some of these stores offer 15% discounts for payments in XMR.
+It is also possible to spend XMR on other goods and services, including gift cards, web hosting, printing and artwork, and gambling sites. For a complete list of Monero-friendly websites, visit this page .
+Finally, it is possible to convert XMR to a more widely accepted cryptocurrency while making a purchase. Use XMR.to to spend Monero wherever Bitcoin is accepted.
+Monero is a popular privacy coin that has many advantages:
+There are also a few disadvantages:
+Monero offers some of the best privacy of any cryptocurrency. We admit, using XMR can be complicated at times. But, those who master it will get access to a powerful tool for preserving their financial freedom on the web.
+The information on or accessed through this website is obtained from independent sources we believe to be accurate and reliable, but Decentral Media, Inc. makes no representation or warranty as to the timeliness, completeness, or accuracy of any information on or accessed through this website. Decentral Media, Inc. is not an investment advisor. We do not give personalized investment advice or other financial advice. The information on this website is subject to change without notice. Some or all of the information on this website may become outdated, or it may be or become incomplete or inaccurate. We may, but are not obligated to, update any outdated, incomplete, or inaccurate information.
+You should never make an investment decision on an ICO, IEO, or other investment based on the information on this website, and you should never interpret or otherwise rely on any of the information on this website as investment advice. We strongly recommend that you consult a licensed investment advisor or other qualified financial professional if you are seeking investment advice on an ICO, IEO, or other investment. We do not accept compensation in any form for analyzing or reporting on any ICO, IEO, cryptocurrency, currency, tokenized sales, securities, or commodities.

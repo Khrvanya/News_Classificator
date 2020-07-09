@@ -1,0 +1,14 @@
+Please consider using a different web browser for better experience.
+Please enable JavaScript in your browser for a better site experience.
+Samsung Pay now has an international remittance feature, utilizing a platform owned by Finablr, a London-listed Ripple partner.
+Branded as Money Transfer, the service is currently available only in the United States – with the exception of Oklahoma – and will be rolled out to other countries next year.
+In an announcement dated Oct. 3, Finablr said the cooperation with Samsung Electronics America involves a new in-app feature that allows for the remittance of funds to foreign recipients. Customers can initiate transfers using credit or debit cards registered with Samsung Pay, and the money can be sent to designated recipients as cash or to their bank accounts.
+The company said in an announcement that the transactions will be transparent, with all fees and rates disclosed at the time of the exchange, though no pricing was made available in the announcement. Tokenized credentials are used and Samsung Knox will store the keys.
+Transfers can be sent to 47 countries, including Australia, Britain, Canada, China, Germany, Japan, Kenya, Mexico, New Zealand, the Philippines, South Korea, Spain, Thailand and Vietnam.
+The service is restricted to customers with Samsung devices. In a statement, Sang W. Ahn, vice president of Samsung Electronics America, said:
+The payments themselves are actually handled by Travelex , the British company dating back to 1976 and recently acquired by Finablr.
+It is not clear whether Travelex will be using Ripple for any Samsung Pay transactions. For some transactions, the company will still use the traditional Swift network. This move points to an increased use of financial cryptography and decentralized systems on Samsung devices.
+Notably, you cannot use the service to buy and sell cryptocurrency, however.
+UAE Exchange and Unimoni, other Finablr subsidiaries, are working with Ripple technology and have been using it for transactions to Thailand since early 2019.
+Samsung has been actively developing blockchain for its devices. The company released the Galaxy Note 10 with a cryptocurrency wallet in September. It added bitcoin support to its phones in August. It has also discussed developing its own blockchain network and its own coin.
+The leader in blockchain news, CoinDesk is a media outlet that strives for the highest journalistic standards and abides by a strict set of editorial policies . CoinDesk is an independent operating subsidiary of Digital Currency Group, which invests in cryptocurrencies and blockchain startups.

@@ -1,0 +1,13 @@
+Bitcoin Futures volume on CME records new 2020 lows; Coronavirus effect in play?
+CME’s Bitcoin futures volumes are depleting and so is the Open Interest [OI]. At press time, the volume for Bitcoin Futures on CME [March 06, 2020] was at $88 million. The last time it was this low was on December 03, 2019, when the volume was $67 million.
+OI, however, is holding up better than the volume. On March 06, 2020, OI was above $200 million [$217 million]. Considering the worsening macroeconomic situation, it seems more than normal; with stock markets plunging to record levels, this drop in Bitcoin Futures volume is acceptable.
+Institutional investors might be reacting to the Coronavirus scare. The lockdown in Chinese markets and other countries around the world has caused the financial markets to experience a jerk.
+Although Bitcoin is, theoretically, supposed to be uncorrelated, a gush of institutional investors has severed this narrative. Especially since the inception of Futures, Options, and other institutional products, this has caused a gradual increase in BTC’s correlation to the financial markets.
+This correlation was noticed when Bitcoin dropped by $1,200 in a day when stock markets also took a dive. While some argue that this is a correlation, others consider this to be an isolated incident. Gold, which is considered to be a safe haven asset has also seen a dip in its value. However, it has surged equally fast since its drop.
+Arcane Research’s report attributes this to the pandemic as well. The report noted.
+“It looks like institutional traders are taking a break from bitcoin, in this unstable period with growing fear related to the coronavirus. While de-risking is a potential motivation, it’s likely that the sudden drop in the stock market had an effect through margin calls leading to a short-term liquidity squeeze.”
+Premium also plays an important role in determining demand. More premium an investor is willing to pay for a certain asset invariably shows the demand the product has. For CME Bitcoin Futures, the annualized premium rate is up by 20.5%, which depicts a story in itself. However, a stark observation is that on retail platforms, the same premium has gone down to 13%.
+In comparison to the March 2020 premium rates for CME, it has increased by 1.25% since the last week. In both cases, there is a stark increase in premium during a time when the OI and the volume have both reduced. Perhaps, a lack of liquidity is to be blamed.
+A credible takeaway from this could be that the COVID scare has had a greater impact than previously anticipated.
+Did you like this article?
+Your feedback is important to us!

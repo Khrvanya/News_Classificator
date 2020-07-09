@@ -1,0 +1,36 @@
+Ethereum is a decentralized system, fully independent, and not under anybody’s authority.
+In recent days, ETH transactions and mining activities in the Ethereum market by ETH whales, professional traders, and ETH Miners, show that daily transactions and total ETH gas recorded are being broken.
+Data obtained from Santiment Research company’s Twitter feed revealed that “the number of daily addresses interacting with $ETH has spiked in the past 24 hours to a 2-year single day high of 486,000 addresses! The last time Ethereum’s address activity was this high was on May 5th, 2018.”
+— Santiment (@santimentfeed) June 30, 2020
+The Ethereum network showed high activity by Ethereum miners as “the total ETH gas used on the Ethereum blockchain reached a new all-time high this past week, coinciding with the vote by $ETH miners to increase the block gas limit by 25% (from 10million to 12.5million).”
+— Santiment (@santimentfeed) June 29, 2020
+“The increase in gas usage indicates a continuous growth in the use of Ethereum’s platform, as measured by the number of transactions, as well as demand for block space, as measured via gas per transaction,” said Wilson Withiam, research analyst at data provider Messari.
+Gas is the token that energizes the Ethereum’s blockchain. It is the standard used to calculate the amount of charges an individual needs to pay in order to make transactions on Ethereum’s blockchain.
+Quick fact: Ethereum is a cryptocurrency designed for decentralized applications and deployment of smart contracts, which are created and operated without any fraud, interruption, control or interference from a third party.
+Ethereum is a decentralized system, fully independent, and not under anybody’s authority. It has no pivotal point, and its platform is connected to thousands of its users through their computing systems around the world, which means it’s almost impossible for Ethereum to go offline.
+Like with many other crypto assets, speculating with Ethereum can be highly profitable and has had a good history of giving its investors huge returns. However, there are also many other options to make income from Ethereum. These options include Ethereum mining, Ethereum faucets and Ethereum staking.
+Olumide Adesina a French-born Nigerian, an Investment Professional at Nairametrics Financial Advocates, owners of Nairametrics.com. 
+He is a Certified Investment Trader, with more than a decade working expertise in Investment Trading.
+A member of the Chartered Financial Analyst Society.
+Your email address will not be published.
+From a macro level, this increase in the number of BTC whales can be considered bullish.
+At the BTC market, BTC whales have been increasing at a steady pace after Bitcoin’s recent halving, as data seen from Glassnode show that there are currently more than 1,800 Bitcoin (BTC) whales.
+Quick fact about BTC whales: In the Bitcoin world, investors or traders who own a large number of Bitcoins are typically called Bitcoin whales. This means a Bitcoin whale would be an individual or business entity (with a single Bitcoin address) owning around 1000 Bitcoins or more.
+Whales could be anticipating a strong medium to long-term Bitcoin price trend, and are choosing to hold on to BTC expecting a bull market. Eichholz explained:
+“Where did all these new whales come from? Much of the recent increase can be attributed to wealthy entities withdrawing their BTC from exchanges. Apparently, this is not new wealth – rather, it represents a change in the way Bitcoin whales are choosing to hold their coins.”
+From a macro level, this increase in the number of BTC whales can be considered bullish.
+As BTC whales accumulate BTCs, Bitcoins circulating supply reduces, and this can weaken any bearish trend BTC finds itself in. Meaning that over time, it’s possible that as Bitcoin approaches its fixed supply of 21 million, the price of BTC will go up, with BTC’s present demand factored in.
+“While there is no single explanation of what caused these large holders to withdraw their BTC from exchanges, [Bitcoin exchange outflows] suggests that whales may have used Black Thursday as an opportunity to get in at the bottom and then withdraw their bitcoin to HODL for the longer term in anticipation of the next Bull Run.”
+BTCs moving from the investment bucket into the trading bucket could become a crucial source of liquidity.
+Data obtained from a crypto analytic firm, Glassnode revealed that 13,000 BTC wallets are now worth at least $1,000,000, showing the numbers of BTC whales are increasing on a daily basis.
+Current number of #Bitcoin addresses holding at least:
+— glassnode (@glassnode) June 30, 2020
+With more people looking to trade bitcoin, which is only becoming scarcer following the recent halving, BTCs moving from the investment bucket into the trading bucket could become a crucial source of liquidity. However, one would expect this will only happen if bitcoin’s price rises to a level at which long-term investors are willing to sell,” Chainalysis researchers wrote.
+Chainalysis a leading crypto analytic firm also explained activities in the BTC market for the month of June. The report said;
+“As of June 2020, roughly 18.6 million Bitcoin has been mined. We break that 18.6 million Bitcoin down into three buckets based on its movements to date.
+“Roughly 60% of that Bitcoin is held by entities — either people or businesses — that have never sold more than 25% of Bitcoin they’ve ever received, and have often held on to that Bitcoin for many years, which we label as Bitcoin held for long-term investment.”
+At the time this report was drafted, Bitcoin was still trading below the $9200 resistance levels, as investors, traders keep buying BTCs below these support levels.
+READ MORE: BTC whale steps in to buy larger stacks of Bitcoin, at a discount of $8,850
+Recall that Glasscode, recently said, “the price of BTC is now more than 20x higher than it was when we first saw this many whales, implying that more wealth is being held by whales.”
+“However, the average balance held by each whale has decreased during this period, such that whales actually hold less BTC now than in 2016, and less wealth (in USD terms) than in 2017,” it added.
+It’s also important to note that BTC whales tend to sell their huge stacks of BTC on the bitcoin market when crypto exchanges are quiet in order to attract attention, the CEO of on-chain analysis provider, CryptoQuant, Ki Young Ju, who had been studying BTC’s trend had said.

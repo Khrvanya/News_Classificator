@@ -1,4 +1,4 @@
-from scrape_queries import make_filename_safe
+from scrape_dataset import make_filename_safe
 import os
 import joblib
 

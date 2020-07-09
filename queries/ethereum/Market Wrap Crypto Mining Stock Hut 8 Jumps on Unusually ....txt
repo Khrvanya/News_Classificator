@@ -1,0 +1,34 @@
+Please consider using a different web browser for better experience.
+Please enable JavaScript in your browser for a better site experience.
+Shares of cryptocurrency mining firm Hut 8 Mining Corp. (TSX:HUT) surged 32 percent with unusually high trading volume on the Toronto Stock Exchange Friday.
+The huge, surprising bounce for the stock arrives after the firm warned earlier in April that coronavirus-related issues might hurt its business.
+Like cryptocurrencies themselves, mining company stocks are prone to violent swings, noted Moe Adham, CEO of  Canada-based crypto BTM operator Bitaccess.
+“These stocks are thinly traded. Happens all the time,” said Adham, who also sits on the board of publicly traded Cypherpunk Holdings (Canadian Stock Exchange: HODL).
+However, volumes for Hut 8’s stock are over 1.5 million in shares traded Friday, nearly eight times the daily average.
+Daily trading of Hut8 over the last six months shows unusual volume Friday. Source: TradingView
+The stock’s price did dip some in afternoon trading Eastern time, but the jump is still striking.
+The advantage Hut 8 enjoys in Canada, where cryptocurrency mining is deemed “essential” during the coronavirus pandemic and thus exempt from a government lockdown, gives it an edge over competitors in other countries.
+As the bitcoin halving looms, traders will be watching publicly traded crypto mining companies to better understand the profitability of generating BTC for cash flow.
+The drop in oil prices this year has been a huge topic for traders across all markets, including crypto.
+On Jan. 2, the first day of trading for the year, oil changed hands for as high as $64 a barrel.
+On Friday, the commodity traded in a narrow $18 range.
+Oil was relatively steady until 2020. Source: CoinDesk Research
+Oil prices are often seen as a bellwether for energy costs. However, it is a poor proxy for these costs when discussing bitcoin mining, which mostly utilizes green energy sources, said Simon Peters, a crypto analyst at multi-asset brokerage eToro.
+“The most recent report from CoinShares suggests 73 percent of the energy used for bitcoin mining comes from renewables rather than fossil fuels such as oil,” Peters said.
+In addition, Hut 8 uses natural gas, notes CoinDesk Research’s Matt Yamamoto, who is working on a report about the company.
+Hence, any reduction in energy prices due to oil’s decline will likely not help the crypto mining industry, Peters said. “If we did see all energy providers reduce their kilowatt hour rates, including renewables, then possibly less-efficient mining operations may still be able to hold their heads above water, post-block reward halving.”
+Bitcoin prices have climbed by less than 1 percent over the last 24 hours, according to CoinDesk’s Bitcoin Price Index as of 20:50 UTC (4:50 p.m. EDT) Friday.
+Bitcoin is above the 50-day moving average on spot exchanges such as Coinbase but trading action has been fairly flat, with little up or down movement. For most of the day, bitcoin has ambled in a $7,000-7,200 range.
+Bitcoin trading on Coinbase since April 15. Source: TradingView
+Digital assets are mixed on CoinDesk’s big board for the day. Ether (ETH) slipped less than a percent. Gainers include dogecoin (DOGE) gaining 2 percent, cardano (ADA) up 1.3 percent, and bitcoin gold (BTG) in the green 1.2 percent. One notable loser today is lisk (LSK), in the red 1 percent.
+A sharp increase in stablecoin issuance is giving traders an easy place to park value on flat bitcoin days like Friday, according to Mitesh Shah, an analyst and founder of Omnia Markets, which studies the crypto market.
+“As we have seen with the current economic climate created by the pandemic, many crypto investors liquidated BTC, ETH, LTC and XRP holdings and invested in stablecoins as a storage of value,” Shah said. Sitting in price-stable crypto may even set the stage for a bitcoin binge in the future when traders decide to not sit on the sidelines.
+Indeed, in this uncertain environment access to the U.S. dollar (which many think of as the world’s reserve currency) in the form of a blockchain-based asset is highly attractive to global traders.
+“Fiat currencies [other than the dollar] are getting impacted by the latest economic turmoil, which results in the fluctuation in exchange rates, reducing the purchasing power and inflation in the market,”said Constantin Kogan, partner at crypto fund BitBull Capital.
+“Hypothetically, these issues can be overcome by the use of stablecoins,” he said.
+Gold, the supposed stable safe haven asset in tumultuous times crypto fanatics also love to follow, is slipping 2 percent and trending downward below 10-day and 50-day moving averages.
+Contracts-for-difference on gold since April 15. Source: TradingView
+In Asia, the Nikkei 225 climbed 3.1 percent on the day, a six-week high. The Tokyo-based stock index was tracking highs on U.S. equities futures amid optimism for a coronavirus vaccine.
+Europe’s FTSE 100 index end its day up 2.4 percent as excitement over possibilities for pandemic drug remdesivir spilled over to the London trading day.
+In the United States, trading of the S&P 500 index climbed 2.7 percent. U.S. Treasury bonds were mixed as the Federal Reserve slowed bond buying after the past two days saw all yields in the red. For Friday, 30-year and 10-year remain relatively flat while the 2-year price dropped 8.4 percent.
+The leader in blockchain news, CoinDesk is a media outlet that strives for the highest journalistic standards and abides by a strict set of editorial policies . CoinDesk is an independent operating subsidiary of Digital Currency Group, which invests in cryptocurrencies and blockchain startups.

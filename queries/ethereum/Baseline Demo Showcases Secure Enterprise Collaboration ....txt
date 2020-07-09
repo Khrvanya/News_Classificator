@@ -1,0 +1,11 @@
+The Baseline Protocol has completed a proof-of-concept showing how multiple stakeholders can securely execute purchase orders without exposing sensitive data.
+The Baseline Protocol has successfully executed a proof-of-concept in which multiple companies privately and securely synchronized data and managed purchase orders on top of the Ethereum ( ETH ) mainnet.
+The concept demonstrates how enterprises can use the protocol to securely collaborate in executing business processes over Ethereum without exposing valuable proprietary data.
+Baseline Protocol’s development was spearheaded by ConsenSys, Microsoft, and Ernst & Young.
+On May 21, Baseline Protocol published a demo detailing “multiple companies digitally managing purchase orders and volume discount agreements across disparate systems” on Ethereum.
+The concept’s stakeholders used two different Enterprise Resource Planning (ERP) systems — Microsoft Dynamics and SAP, which were able to maintain synchronicity via blockchain “without exposing information about business activities or relationships to competitors or the public.” The Baseline Protocol is also employed to prevent workflow errors and data inconsistencies.
+The development team will host an open walk-through of the system on May 27.
+The project saw participation from several firms operating within the distributed ledger technology, or DLT sector, including Unibright , Provide, and Envision Blockchain. According to the announcement:
+“Unibright extracted the domain model from the Unibright connector, set up a connection proxy to the Provide/Baseline stack and integrated SAP. Provide adapted the Baseline Protocol as a standard within the Provide stack, including its secure messaging infrastructure service. [...] Envision Blockchain configured and integrated the Microsoft Dynamics 365 Finance and Supply Chain Management business apps.”
+Alex Tapscott, co-founder of the Blockchain Research Institute, stated: “The Baseline approach is a windfall for global enterprises looking to boost security and performance. Data is secured, contracts are governed digitally and companies can collaborate seamlessly without changing their current systems.
+“This will change how enterprises interact in a digital setting,” he added.

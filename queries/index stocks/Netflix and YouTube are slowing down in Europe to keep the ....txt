@@ -1,0 +1,22 @@
+First conspiracy theorists said she started the pandemic. Now she's afraid for her life
+Netflix and YouTube will reduce streaming quality in Europe for at least the next month to prevent the internet collapsing under the strain of unprecedented usage due to the coronavirus pandemic.
+Both companies said the measures will affect all video streams for 30 days.
+"We estimate that this will reduce Netflix traffic on European networks by around 25% while also ensuring a good quality service for our members," a Netflix spokesperson said in a statement.
+A spokesperson for Google ( GOOGL ), which owns YouTube, said: "We will continue working with member state governments and network operators to minimize stress on the system, while also delivering a good user experience."
+The changes follow appeals from EU officials for streaming services and individual users to ditch high definition video to prevent the internet from breaking. With so many countries on forced lockdowns to fight the spread of the virus, hundreds of millions working from home and even more children out of school, the officials were concerned about the huge strain on the internet.
+European Commissioner Thierry Breton, who is responsible for the EU internal market covering more than 450 million people, spoke to Netflix ( NFLX ) CEO Reed Hastings on Wednesday and again on Thursday about the strain video streaming was placing on networks.
+In a statement on Thursday Breton said that given the unprecedented situation, streaming platforms, telecom operators and users "all have a joint responsibility to take steps to ensure the smooth functioning of the internet during the battle against the virus propagation."
+According to a 2019 report by American networking equipment company Sandvine, video accounts for over 60% of data delivered from internet providers to consumers, with Netflix accounting for just under 12% of total
+A Netflix spokesperson told CNN Business the reduction may mean some users "see a reduction in perceptible video quality," while others won't see any change.
+A spokesperson for Amazon ( AMZN ) said it has also begun efforts to reduce streaming bitrates on its Prime Video service, and was working with authorities to help mitigate network congestion.
+Facebook has a coronavirus problem. It's WhatsApp.
+The Commission said that while there has been a sharp increase in internet usage, no outages or adverse effects have so far been reported. EU officials said they would work with the regulator that oversees electronic communications in the bloc to set up a special reporting mechanism to monitor internet traffic and respond to capacity issues.
+Telecom operators said they support calls for customers to switch to standard definition streaming.
+"At this stage, new traffic patterns are being effectively handled by engineers as per standard network operations," Lise Fuhr, director general of the European Telecommunications Network Operators' Association, said in a statement. "We support the European Commission's effort to ensure that national governments and national regulators have all the tools they need to keep networks strong across the continent."
+Howard Watson, chief technology and information officer for BT Group ( BTGOF ), said in a statement that the company "has more than enough capacity" in its UK network.
+"Even if the same heavy data traffic that we see each evening were to run throughout the daytime, there is still enough capacity for work applications to run simultaneously," he said.
+Verizon ( VZ ) CEO Hans Vestberg also said his company's US network is prepared to handle the traffic.
+"So far [we're seeing] no congestion in the network, we can handle that, we have built a very robust network," Vestberg told CNN Business' Richard Quest on Thursday. He did acknowledge that the company is seeing different kinds of demands on the network — including a 75% jump in gaming traffic and a 30% increase in VPN usage from the prior week.
+But the internet is clearly under pressure.
+Facebook ( FB ) on Wednesday acknowledged that the effects of the pandemic are stretching it to the limit.
+In a call with reporters , CEO Mark Zuckerberg said Facebook's services are facing "big surges" in usage as the coronavirus forces millions around the world to stay home.

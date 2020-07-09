@@ -1,0 +1,13 @@
+Please consider using a different web browser for better experience.
+Please enable JavaScript in your browser for a better site experience.
+A Bangkok-based remittance platform has become the first non-banking institution in Thailand to use Ripple’s blockchain tech to process international payments.
+Ripple said Wednesday DeeMoney is now using RippleNet to process transactions in a move aimed to cut costs.
+Launched in 2018, DeeMoney provides same-day settlement services for Thai bank accounts. The company turned to RippleNet to increase the efficiency of transactions coming into the country, said CEO Aswin Phlaphongphanich.
+“[Ripple’s] technology provides a single, automated system that speaks the same way to all its 300 partners worldwide, making it simple for our tech teams to integrate into our process,” he said. “This helps to reduce manual work and intervention, which in turn reduces costs, of which the savings are passed to our customers.”
+Thailand is a hub for settlement and remittance services. The Bank of Thailand estimates that more than a million Thais work overseas, many of whom continue to send money back to their families.
+Siam Commercial Bank (SCB), Thailand’s largest commercial bank, first started testing a RippleNet-based cross-border remittance solution in 2018. The collaboration developed and SCB has added additional settlement services, including one based on a mobile app.
+See also: Third-Party Cryptos Could Launch on XRP Ledger, Says Ripple’s David Schwartz
+RippleNet is a 300-plus network of banks and financial institutions that use Ripple’s blockchain for cross-border settlements and remittances. One of several products under its umbrella – called On-Demand Liquidity (ODL) – lets firms use the XRP cryptocurrency to avoid having to tie up large amounts of fiat currency. It’s not clear if DeeMoney is using that particular service.
+Ripple famously invested in MoneyGram last year, with the money-sending giant now using various Ripple products including XRP via ODL.
+DeeMoney said it plans to add support for transactions going out of Thailand, too, although a timeframe for that integration was not disclosed.
+The leader in blockchain news, CoinDesk is a media outlet that strives for the highest journalistic standards and abides by a strict set of editorial policies . CoinDesk is an independent operating subsidiary of Digital Currency Group, which invests in cryptocurrencies and blockchain startups.

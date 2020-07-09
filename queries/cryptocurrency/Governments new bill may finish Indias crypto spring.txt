@@ -1,0 +1,33 @@
+2 min read . Updated: 16 Jun 2020, 10:39 AM IST Neil Borate
+In its previous avatar, in mid-2019, the bill proposed to criminalize possession, use or trading in cryptocurrencies.
+According to Ajeet Khurana, former CEO of Zebpay, around 50 lakh Indians held a cryptocurrency around a year ago.
+A government bill to ban cryptocurrency in India has been floated for inter-ministerial consultations by the finance ministry, say media reports. The Reserve Bank of India (RBI) prohibited the use of the banking system for crypto-related payments in early 2018 but this was struck down by the Supreme Court in March 2020. The decision led to a brief resurgence in crypto trading in India. However, the new bill can not only kill the market but poses a significant legal risk if you have invested in cryptocurrencies.
+In its previous avatar (in mid-2019), the bill proposed to criminalize possession, use or trading in cryptocurrency, and prescribed imprisonment of up to 10 years for such activities. It is unclear whether the same structure has been retained in the new bill. Some experts do not believe that the new law can retain the draconian provisions of the original bill.
+"The Supreme Court had ruled that the government must show that the activity concerned was detrimental to the public interest. Since RBI failed to show this with its circular, this was struck down. I don't think the government will introduce a law in conflict with this principle and if they do the courts might strike it down," said Rashmi Despande, Partner, Khaitan & Co, a law firm. She also added that any such law will come after a process of opening up to public comments followed by the passage in both houses of Parliament.
+Crypto trading never completely died in India, despite the RBI payments ban. Many investors simply moved to peer-to-peer platforms to transfer crypto-related money. CoinDCX, which claims to be India’s largest crypto exchange continued to operate even after the ban. The exchange told Mint that it has seen a sharp rise in users and trading volumes after the SC judgment. You can read more about it here .
+According to Ajeet Khurana, former head of the BACC (Blockchain and Cryptocurrency Committee of the IAMAI) and former CEO of Zebpay around 50 lakh Indians held a cryptocurrency around a year ago, which would have gone up by around 10%. He estimated a sum of ₹3,500 crores of Indian money is invested in it.
+The draft bill banning cryptocurrency in its original form provided a time of 90 days for holders of cryptocurrency to declare and dispose of it. However, a forced sale could trigger substantial losses on holdings and not all crypto investors may be able to sell their holdings in this time period.
+Cryptocurrency is not an investment recommended by Mint Money even if the government refrains from criminalizing its use. However, if you are exploring this phenomenon or have already invested in it keep this legal risk in mind.
+* Thank you for subscribing to our newsletter.
+Click here to read the Mint ePaperLivemint.com is now on Telegram. Join Livemint channel in your Telegram and stay updated
+You are now subscribed to our newsletters. In case you can’t find any email from our side, please check the spam folder.
+lozad('.lozad', { load: function(el) { el.src = el.dataset.src; el.onload = function() { el.classList.add('fade')}}}).observe()
+.myAccount .planSec, .myAccount a.LinkCTA{padding:16px; margin:16px; box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.1); background-color: #fff;}
+	       		var userData = data;
+	       		var name = userData.name;
+	       		var email = userData.email;
+	       		var signupSource = userData.source;
+	       		var subscribedAtOnce = userData.subscribedAtOnce;
+	       		var plan  = userData.plan;
+	       		document.getElementById('uName').innerHTML = "<strong>"+name+"</strong>" + email;
+		       		var status = planData.status;
+		       		var purchaseSource = planData.source_device;
+			       		var nextActivationDate = planData.current_term_ends_at;
+			       		var planDescription = planData.plan.description;
+			       		var planName = planData.plan.name;
+			       		var planPrice = planData.amount;
+			       		//var planInterval = planData.shipping_interval;
+			       		var planInterval = planData.duration;
+			       		var planUnit = planData.interval_unit;
+			       		//var html = "<strong>Your Subscription Plan</strong>"+planName+" ₹"+planPrice+" / "+planInterval+" " + nextBillingHtml + cancelHtml; 
+			       		var html = "<strong>Your Subscription Plan</strong> "+planDescription + " "+ planName +": ₹"+planPrice + " "+ nextBillingHtml + cancelHtml;

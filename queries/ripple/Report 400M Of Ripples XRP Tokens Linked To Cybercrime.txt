@@ -1,0 +1,10 @@
+Cryptocurrency forensics and analysis firm Elliptic found that roughly $400 million worth of XRP tokens on the Ripple payment network is connected to illegal transactions, Elliptic said in a press release on Wednesday (Nov. 20).
+The London-based startup said the illicit activity represents less than 0.2 percent of total XRP transactions.
+“We began researching XRP more than a year ago and have already identified several hundred XRP accounts linked to illicit activity ranging from thefts to scams and the sale of stolen credit cards,” said Tom Robinson, Ph.D., Elliptic co-founder and chief scientist.
+XRP is the third-largest cryptocurrency by market value after bitcoin and ethereum, but its architecture is different, which gave the company more than just a technological challenge. Elliptic analysts tapped into the dark web to gain an understanding of money laundering patterns to determine how XRP was being used by cybercriminals.
+Robinson told Reuters that the illicit activity surrounding XRP was primarily Ponzi-type scams and thefts. A smaller category was the sale of credit card details.
+Blockchain forensics company CipherTrace indicated in an August report that cryptocurrency thefts, scams and fraud might exceed more than $4.3 billion this year.
+XRP has a market capitalization of about $10.98 billion, based on numbers from coinmarketcap.com, Reuters said.
+Elliptic’s research also indicated that there was not “much dark market activity” for XRP.
+“XRP is being touted for use as a tool for financial institutions,” Robinson told the news outlet. “Criminals probably do not want to be associated with any mechanism related to that use.” He added that criminals generally use bitcoin for its liquidity.
+Last month , Ripple announced that it’s now a member of the Blockchain Association, an organization that advocates cryptocurrencies and the use of blockchain networks. The company also expanded its global regulatory team, and it will be the first blockchain company with an office in Washington, D.C.

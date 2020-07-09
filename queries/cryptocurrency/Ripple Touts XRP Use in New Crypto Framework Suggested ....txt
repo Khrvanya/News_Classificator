@@ -1,0 +1,15 @@
+Major cryptocurrency firm Ripple released a set of recommendations for Indian lawmakers to legalize cryptocurrencies.
+In an effort to persuade Indian authorities to support fintech regulation and the growing crypto industry, Ripple issued a policy paper addressed to local legislators.
+Released on June 18, Ripple’s policy paper provides a number of recommendations for Indian policymakers, offering an overview of the global digital assets landscape and measures to adopt a new digital currency policy in the country.
+Titled “The Path Forward for Digital Assets Adoption in India,” the 36 page-long document promotes XRP and calls on India to provide regulatory clarity for cryptocurrencies.
+In the policy paper, Ripple specifically outlines XRP’s potential to become a key solution for cross-border payments in India, which is considered to be the “dominant use-case for cross-border payments and remittances.”
+Highlighting that existing methods of cross-border transactions can take four or eight days, Ripple states that it can handle a transaction from an Uzbek bank to its Indian counterpart “at near real time,” adding:
+“This route minimizes costs, time and risks that the prevalent models of cross-border banking retain. As a corollary, many friction points like minimum account balances and different time zones as also operational and settlement risks, are avoided in cross-border payments using XRP.”
+In a comparative analysis of XRP's characteristics and performance metrics to those of other notable digital assets like Bitcoin ( BTC ) and Ether ( ETH ), Ripple outlined the major benefits of XRP.
+Comparison of XRP characteristics to those of BTC, ETH, BCH, and LTC. Source: Ripple
+Ripple’s crypto policy paper comes amid long-running uncertainty for digital assets in the country. After India's central bank banned local banks from servicing crypto firms in 2018, the legal status of crypto was unclear as the Reserve Bank of India simultaneously claimed that there was no prohibition on crypto in the country.
+After India’s Supreme Court lifted the RBI banking ban in March 2020, the Ministry of Finance reportedly proposed a blanket moratorium on June 12.
+India is not the only country that has been engaged in “regulatory ping pong” with the crypto industry. Russia has also offered little certainty for crypto-related business as local authorities still disagree on the legal status of digital assets.
+Cointelegraph reached out to Ripple to find out whether the firm is planning to assist other countries in adopting crypto regulation, but has not received a response as of press time.
+Ripple’s proposal for crypto regulation in India comes soon after XRP lost its long-running position of the third-largest cryptocurrency by market capitalization. As reported on May 25, major stablecoin Tether ( USDT ) outstripped XRP to become the third largest crypto by market cap.
+As of press time, XRP’s market cap accounts for $8.5 billion, while Tether’s market share amounts to $9.2 billion.

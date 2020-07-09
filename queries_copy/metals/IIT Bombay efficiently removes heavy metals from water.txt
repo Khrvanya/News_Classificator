@@ -1,0 +1,33 @@
+The nanostructure showed 80-90% adsorption efficiency for arsenic, chromium, cadmium, mercury
+Simultaneously removing heavy metals such as arsenic, chromium, cadmium and mercury from waste water with very high efficiency now appears possible, thanks to the work of researchers at the Indian Institute of Technology (IIT) Bombay. The carbon-based nanostructure that the team fabricated shows 80-90% adsorption efficiency for all the four heavy metals studied.
+No electricity is required for the nanostructure to remove heavy metals from water as it allows for gravity-driven purification of the water. The nanostructures can be recycled and reused multiple times. While there is an initial drop of about 8% after the first cycle, the efficiency remains constant at 75-85% in the subsequent cycles. The carbon nanostructure is able to adsorb the heavy metals in the wide range of pH conditions — pH 2 to 13. The results were published in the journal ACS Applied Nano Materials.
+To fabricate the carbon-based nanostructure shaped like a marigold flower, the team led by Chandramouli Subramaniam from the Department of Chemistry at IIT Bombay used dendritic fibre nanosilica spheres as template. The nanostructure is obtained through a single-step process of chemical vapour deposition followed by removing the silica template.
+“What we get is a marigold-like nanostructure made of carbon that has high specific surface area, optimal porosity and pore volume. The nanostructure has 15-20% micropores (less than 2 nanometre) and 80-85% mesopores (2-50 nanometre),” says Prof. Subramaniam. “The reason it shows very high adsorption efficiency is its hydrophilic [water-loving nature] nature that allows for extensive and rapid interaction between the heavy metal-containing water and the carbon nanostructure.” Also, unlike activated carbon, the surface area of our nanostructure is easily accessible for heavy metals. So the adsorption is high.
+When the water containing the heavy metals comes in contact with the nanostructure, majority of adsorption first takes place in the micropores. “It is energetically more favourable for the heavy metals to bind to the nanostructure in the micropores. Once the micropores get saturated then the heavy metals are captured by the mesopores,” says Maku Moronshing from IIT Bombay and one of the first authors of the paper.
+For the four heavy metals to get adsorbed on the nanostructure the water has to be in contact with the nanostructure for at least 32 seconds. The team used a 1 cm long column of the nanostructure to make sure that minimum contact time is maintained.
+“Since the heavy metals chemically react and bind to the surface of the nanostructure, they do not leach back into the water. They can be recovered by treating the nanostructure with mild acid (hydrochloric acid and nitric acid),” says Ananya Sah from IIT Bombay and the other first author of the paper.
+“The heavy metals have greater affinity for acid and so they leach out into the acid. This allows us to reuse the carbon nanostructure multiple times,” says Prof. Subramaniam. There is about 10% drop in efficiency after the first cycle as the metals trapped in the micropores do not get leached out when treated with acid. But there is complete recovery of metals trapped in the mesopores.
+The team tested the ability of the structure to adsorb heavy metals in industrial effluent over a range of pH conditions (pH 2-13). The industrial effluent was simulated by mixing 100 ppm of each metal. “Adsorption was as effective as the test case for all the four heavy metals. At very acidic pH of 2, some metals did not get adsorbed. But between pH 5-10 the adsorption was very good for all the four metals,” he says.
+Most of the adsorbents known are effective against either one or two heavy metal ions. Even the chemisorptive scavenging ones need to have longer treatment column as they need to be multifunctionalised adsorbents. Also, the inlet pressure has to be more. However, the carbon nanostructure was able to scavenge all four metals simultaneously without the need for these.
+You have reached your limit for free articles this month.
+Start your 14 days trial now. Sign Up
+Find mobile-friendly version of articles from the day's newspaper in one easy-to-read list.
+Enjoy reading as many articles as you wish without any limitations.
+A select list of articles that match your interests and tastes.
+Move smoothly between articles as our pages load instantly.
+A one-stop-shop for seeing the latest updates, and managing your preferences.
+We brief you on the latest and most important developments, three times a day.
+Not convinced? Know why you should pay for news.
+*Our Digital Subscription plans do not currently include the e-paper ,crossword, iPhone, iPad mobile applications and print. Our plans enhance your reading experience.
+We have been keeping you up-to-date with information on the developments in India and the world that have a bearing on our health and wellbeing, our lives and livelihoods, during these difficult times. To enable wide dissemination of news that is in public interest, we have increased the number of articles that can be read free, and extended free trial periods. However, we have a request for those who can afford to subscribe: please do. As we fight disinformation and misinformation, and keep apace with the happenings, we need to commit greater resources to news gathering operations. We promise to deliver quality journalism that stays away from vested interest and political propaganda.
+Your support for our journalism is invaluable. It’s a support for truth and fairness in journalism. It has helped us keep apace with events and happenings.
+The Hindu has always stood for journalism that is in the public interest. At this difficult time, it becomes even more important that we have access to information that has a bearing on our health and well-being, our lives, and livelihoods. As a subscriber, you are not only a beneficiary of our work but also its enabler.
+We also reiterate here the promise that our team of reporters, copy editors, fact-checkers, designers, and photographers will deliver quality journalism that stays away from vested interest and political propaganda.
+Please enter a valid email address.
+var data = {"email" : email, "category" : "newsletter"};
+@media ( max-width : 1023px) and (min-width: 768px) {
+@media ( max-width : 767px) and (min-width: 1px) {
+box-shadow: 0 0 4px 0 rgba(0, 0, 0, .328);
+@media ( max-width : 320px) and (min-width: 1px) {
+@media ( max-width : 1023px) and (min-width: 1px) {
+@media ( max-width : 767px) and (min-width: 1px) {

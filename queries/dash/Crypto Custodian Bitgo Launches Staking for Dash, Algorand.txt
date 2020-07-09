@@ -1,0 +1,11 @@
+Please consider using a different web browser for better experience.
+Please enable JavaScript in your browser for a better site experience.
+Crypto Custodian Bitgo Launches Staking for Dash, Algorand
+Crypto Custodian Bitgo Launches Staking for Dash, Algorand
+Crypto custodian BitGo has added staking to its services, beginning with cryptocurrencies dash and algorand, the company said. Through BitGo Staking, coin holders can earn between 7 and 13 percent annual returns.
+A consensus mechanism first promoted by ethereum co-founder Vitalik Buterin, consensus mechanism Proof-of-Stake (PoS) rewards token holders with percent yields of a coin, depending on the length and amount held.
+Promoted as a more energy-efficient alternative to Proof-of-Work (PoW) – the consensus mechanism behind bitcoin – exchanges and custodians have slowly added staking rewards for PoS coins throughout the year. In March, Coinbase’s custodial arm began offering staking with annual returns of around 6.6 percent.
+BitGo said dash and algorand will earn staking rewards while in remaining in cold storage.
+“In order to be a great custodian, we need to provide our clients with the ability to use their assets in custody,” BitGo CTO Ben Chan said in a statement. “Staking provides our clients with returns on their investments without ever moving their assets out of custody.”
+As part of the initiative, BitGo acquired staking infrastructure firm Hedge. Through Hedge’s assets, such as its hardware security modules (HSMs) often used instead of cold wallet solutions, clients can select BitGo’s platform or choose a provider of their own.
+The leader in blockchain news, CoinDesk is a media outlet that strives for the highest journalistic standards and abides by a strict set of editorial policies . CoinDesk is an independent operating subsidiary of Digital Currency Group, which invests in cryptocurrencies and blockchain startups.

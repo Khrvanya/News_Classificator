@@ -1,0 +1,14 @@
+Two exchanges saw unauthorized access issues, Japan ranked second in 24-hour Bitcoin trading volume for May globally, and more headlined news from Japan this past week.
+This week’s headlines from Japan included Coincheck updating the public on a recent data leak, a blockchain tech outfit unveiling plans for a digital local currency, BitBank facing a breach similar to Coincheck, the Japan STO Association gaining its first full-time trust bank member, and Japan achieving the second highest 24-hour Bitcoin trading volume numbers for May.
+Check out some of this week’s crypto and blockchain headlines, originally reported by Cointelegraph Japan .
+Tokyo-based crypto exchange Coincheck faced a hack between May 30 and June 1, leading to  hundreds of users' leaked data. The leak involved "Ome.com," the exchange's web address filing outlet.
+Original numbers showed 200 customers affected. An update from Coincheck revealed leaked infomation from 300 users. Data at risk of exposure included email addresses, names and phone numbers, as well as other information.
+Japan saw plans for a new local digital currency recently , unveiled from Soramitsu, a Japanese blockchain tech company. Named Byacco, which translates to "white tiger," the company will utilize University of Aizu in Fukushima for the endeavor.
+The token sits on Hyperledger Iroha — a blockchain built by Solamitsu.
+BitBank sees similar hack as Coincheck, but no data leak
+BitBank faced a hack similar to Coincheck, although no customer data was reportedly leaked. A perpetrator gained unapproved entry to the outfit's web address filing company and altered the exchange's information on May 27.
+BitBank looked into the scene, fixing the information on May 29.
+Japan's STO Association saw Sumitomo Mitsui Trust Bank enter as the group's inaugural full-time trust bank member.
+Coming to life with regulatory approval in April 2020, the Japan STO Association is a security token offering, or STO, self-regulating body. The association now boasts 10 full members, including SBI Securities, Rakuten Securities and Monex. The endeavor also includes a number of supporting members.
+Japan recently posted the second highest average 24-hour Bitcoin (BTC) trading volume in terms of global rankings for May, according to Coinmetrics data. The U.S. yielded the highest daily BTC trading volume.
+Japan saw roughly $380 million worth of yen, on average, traded in Bitcoin every 24 hours throughout May.

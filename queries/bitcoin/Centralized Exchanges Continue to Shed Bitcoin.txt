@@ -1,0 +1,12 @@
+The number of Bitcoins held on centralized exchanges has fallen by more than 10% since Black Thursday in March.
+Data compiled by Glassnode is showing that the number of Bitcoin ( BTC ) held on top crypto exchanges has steadily fallen since the violent mid-March crash that saw crypto prices tumble by 50% in a single day.
+The sum of BTC held on exchanges currently sits at a little over 2.3 million — the lowest it has been since May 22, 2019.
+The number of BTC stored on top crypto exchanges has fallen by approximately 300,000 since ‘ Black Thursday ' on March 12.
+BTC price and number of Bitcoins held on exchanges: Glassnode
+As such, approximately $3 billion worth of Bitcoin has left the exchanges two months, leaving $23 billion in BTC all up.
+The vast majority of withdrawn funds have originated from BitMEX , Huobi , and Bitfinex — with Huobi and BitMEX shedding 100,000 Bitcoins each since March.
+Twitter user Ceteris Paribus suggested that the massive sums of Bitcoin could be moving from futures markets, with BitMEX and Huobi ranking among the top derivatives platforms by volume.
+Jernej also noted that Bitfinex’s CTO Paolo Ardoino had recently spoken of the exchange’s involvement in large over-the-counter transactions.
+While the number of BTC held by exchanges has dropped by 11.5% since March, Ethereum ( ETH ) balances have steadily increased since March 2018 — increasing from 5.8 million to 18.6 million over two years.
+ETH price and number of Bitcoins held on exchanges: Glassnode
+Nearly 17% of the total Ether supply is currently held on exchanges, valued at more than $4 billion.

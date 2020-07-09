@@ -1,0 +1,16 @@
+After releasing TRUMP trading last week, crypto exchange FTX plans to launch five more presidential election futures products, including BERNIE.
+After launching TRUMP futures trading last week, FTX plans to release five additional 2020 presidential election-based futures products.
+“What we’re about to come out with is just similar contracts for the top five Democratic candidates,” an FTX representative told Cointelegraph in an interview.
+FTX plans to launch a Bernie Sanders (BERNIE) futures trading product, as well as futures on Joe Biden (BIDEN), Elizabeth Warren (WARREN), Pete Buttigieg (PETE) and Mike Bloomberg (BLOOMBERG).
+Although FTX has not finalized a release date for these products as of press time, the representative said they should go live within the next several days, possibly as early as today.
+On Feb. 5, FTX announced a futures trading product called TRUMP , based on President Donald Trump’s re-election in 2020. Essentially, TRUMP contracts trade between $0 and $1. If Trump achieves re-election, all contracts immediately become worth $1. If he fails to secure a second term, TRUMP contracts become worthless.
+“The initial feedback has been extremely positive,” the representative said regarding TRUMP so far. “People have been really excited about this,” he noted, adding that FTX tallied a new daily active user high when it launched TRUMP trading.
+FTX’s five additional futures products will have the same structure as TRUMP trading.
+TRUMP futures’ first hours of trading. Source: ftx.com
+Currently ongoing, the 2020 presidential primaries ultimately determine a single candidate to faceoff against Trump. That being said, four out of the five FTX democratic futures trading products will become worthless prior to the 2020 elections.
+“We don’t have contracts on who’s going to win the primaries specifically,” the representative said. “At most, one of these contracts is going to expire to $1.”
+FTX prohibits numerous regions from trading TRUMP, including Canada, the European Union, the United Kingdom, and even the United States — the country hosting the elections on which these products are based.
+The FTX representative explained the exchange is exercising caution. “It’s entirely regulatory,” he said, noting countries’ laws and guidelines differ regarding various trading types. “In a lot of countries, there are various licensing regimes for contracts like this.”
+“We basically don’t want to overstep what we can do there, and so we, unfortunately, had to restrict the jurisdictions that we could offer this under. I think going forward, obviously, the more excited people are, the more motivated we’re going to be to try to offer it in more and more places. Whether that actually means getting, or at least looking into, what licenses would be relevant for it in different places.”
+FTX also wanted to launch these products on the market in a timely fashion, which led to the banning of certain countries at present.
+Numerous other trading platforms ban participants from the U.S. and other countries due to regulatory concerns. In June 2019, crypto exchange Binance even joined the movement, barring U.S. citizens from its platform before launching futures trading.

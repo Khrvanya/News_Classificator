@@ -1,0 +1,5 @@
+is getting off the ground.
+When a cryptocurrency runs on its own blockchain.
+launch today, after years in development and with the support of Arrington Capital, Winklevoss Capital, Consensys, and more. (Disclosure: Consensys provides funding for an editorially independent Decrypt.)
+A decentralized application built on a blockchain platform using smart contracts.
+Blockchains are distributed ledgers, secured by cryptography. They are databases that multiple people can access and read, but can only be updated by the data owners. Instead of the data residing on a single centralised server, the data is copied and stored on multiple computers.

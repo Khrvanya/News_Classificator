@@ -1,0 +1,16 @@
+Now looks more like PayPal than bitcoin.
+Facebook is scaling back its plans for the Libra cryptocurrency after nine months of regulatory scrutiny.
+In an updated white paper , released last week, the tech giant outlined how it was dialing down its ambitions to create a single global cryptocurrency.
+“The Association has made changes to its initial approach, many of which depart from the approaches taken by other blockchain projects,” Libra’s updated white paper says.
+Libra’s initial plan was to circulate a single Libra coin (≋LBR) but discussions with economic regulators caused the Facebook-led Libra Association to scrap that plan in favour of including single-currency stablecoins to the network.
+These would be Libra-branded digital currencies (like ≋GBR, ≋USD, and ≋EUR) with those coins’ value pegged to their fiat equivalents.
+Although the single-currency ≋LBR coin will still exist, it no longer appears to be a major feature of the system that was intended on simplifying digital currency.
+David Gerard, author of cryptocurrency book Attack of the 50 Foot Blockchain, said the new white paper was a sign that Facebook was not going to be allowed to enter the financial market unimpeded.
+“Facebook is slowly being dragged, kicking and screaming, to running Libra like an ordinary, compliant payments processor — PayPal, but it’s Facebook — or Libra won’t be allowed to exist,” Gerard said.
+“The only interesting things the blockchain parts could do is work around regulations — and there’s no way regulators will let Libra do anything like that.
+“Libra was founded on Bitcoin dreams — but none of those aspirations will ever happen, because they contradict everything about how finance works in the real world.”
+Regulators have been heavily scrutinising Facebook’s cryptocurrency plans since they were announced mid-last year.
+ASIC and other Australian regulators were unimpressed with Libra when they met with ambassadors from Facebook to discuss the cryptocurrency, warning that it “poses many risks and threats” for Australians.
+The Reserve Bank of Australia (RBA) said there was little need for Libra in Australia as our financial needs are well-met served by a financial sector that has become more engaged with digital technologies.
+Facebook has not yet announced when Libra will be released.
+A lifelong technophile and science fiction geek, Casey joined Information Age in 2019. With interests in AI, space travel, and post-humanism, Casey is always on the hunt for the overlap of science-fact and science-fiction.

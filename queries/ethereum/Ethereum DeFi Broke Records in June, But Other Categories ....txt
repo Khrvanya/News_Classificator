@@ -1,0 +1,13 @@
+Ethereum DeFi Broke Records in June, But Other Categories Are Suffering
+Ethereum’s 2020 DeFi boom came at the cost of its gaming ecosystem.
+Results for the second quarter of 2020 show tremendous growth for decentralized applications across all ecosystems, primarily spearheaded by Ethereum ( ETH ) decentralized finance, or DeFi.
+Decentralized exchanges were at the frontlines of the rise as Compound token mining activity trickled down to on-chain swapping solutions.
+According to Our Network , Curve was one of the biggest beneficiaries of yield farming as it helped users switch between different stablecoins to maximize yield.
+Curve is an automated money market that only supports swaps between different types of stablecoins and wrapped tokens. This limitation allows Curve to provide competitive slippage and fees for exchanging assets.
+Deposits on Curve rose almost three-fold in June, while daily volume reached peaks of $60 million — 30 times more than its previous average. Demand for USDT pairs was the highest, capturing more than 58.5% of the total volume. This is due to USDT having one of the most significant COMP yields for an extended period of time.
+Uniswap also benefited from the COMP craze, with monthly volume doubling in June.
+Kyber and 0x had more modest performances: despite posting fresh monthly highs, the project’s growth was in line with the rest of the year.
+According to DappRadar’s Q2 report , the dominance of DeFi indirectly led to the decline of gaming activity. Over $8 billion was transacted on DeFi platforms in Q2, which led to gas prices soaring exponentially .
+Ethereum’s vibrant gaming DApp ecosystem suffered as fees came to represent a significant portion of each transaction. DappRadar reported a staggering 79% decline of gaming-related activity on-chain over the previous quarter.
+EOS appears to be the main recipient of Ethereum’s loss as its gaming transaction volume rose by about 80% since the previous quarter. While this is positive news for the platform, it still hasn’t fully recovered from the damage caused by the EIDOS airdrop in late 2019. Volumes remain well below the highs of Q2 2019.
+Finally, Tron ( TRX ) saw growth in its DeFi ecosystem after porting several Ethereum projects on its chain. In addition to the previously-launched clone of Single Collateral Dai, a platform named Oikos.cash recreated both Synthetix and Uniswap on Tron. Nevertheless, total volume for all Q2 is just $15 million. The majority of Tron’s activity remains in the gambling and “high-risk” categories.

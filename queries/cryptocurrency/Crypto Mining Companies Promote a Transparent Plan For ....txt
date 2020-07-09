@@ -1,0 +1,8 @@
+Twelve major mining companies in China launch a transparent info sharing platform to revolutionize the mining industry.
+On April 3, twelve major Chinese crypto mining companies came together with leading Chinese blockchain media companies to officially launch an information-sharing platform, called Pow Power. The companies included Canaan, AvalonMiner, Inter Hash, Huobi Pool, OkEx Pool, and others.
+Pow Power's official letter indicated that a lack of transparency has increased the public demand for more trustworthy and transparent information when it comes to mining.
+This ultimately inspired the mining community to build Pow Power. According to the announcement, a transparent standard reference index will be released first on Pow Power. It added that:
+“The index reference will be based on market supply and demand, revenue observation and public opinion. The miners and mines’ supply and demand information will be collected and published regularly on the "POW POWER" WeChat public platform.”
+The announcement pointed out that problems, such as censored industry information and the monopoly of resources, have caused many mining companies to find it difficult to attract investment and continue to operate.
+As of press time, China has deployed distributed ledger technologies to track and record medical supplies, charity donations, and monitor the spread of the virus.
+Other actions have been taken as well, as Cointelegraph reported previously, Chinese journalist, Sarah Zheng of the South China Morning Post, used the Ethereum blockchain network to bypass Chinese government censorship to store interview content online.

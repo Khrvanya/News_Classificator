@@ -1,0 +1,9 @@
+Major blockchain firm Ripple has confirmed it has plans to expand its remittance corridor this year with the inclusion of a number of new currencies.
+According to an announcement from Ripple executive Asheesh Birla, the current socio-economic situation provides a firmer use case for digital payments.
+“Ripple is on track to open new ODL corridors this year and we’re onboarding new customers and working with existing customers to ramp up ODL volume in important corridors including USD-MXN, USD-PHP, AUD-USD and PHP, and from EUR-USD.” Birla added.
+Ripple’s @ashgoblue reflects on the current global payments landscape and shares why financial institutions that are able to provide real-time payment methods now are well-positioned as leaders beyond the current crisis. https://t.co/2wiD8IUpdH
+— Ripple (@Ripple) June 22, 2020
+Last month in an interview with CNN Ripple CEO Brad Garlinghouse revealed that the XRP remittance platform processed 7.5% of all flows from US Dollar to Mexican Peso in the first week of February, equating to $54 million.
+Looking forwards Birla is confident that new ODL corridors will be set up later this year, although he admits that transaction may look different in a post COVID-19 world.
+“We are continuing to focus on supporting low-value, high-frequency payments with ODL—though transaction volume may look different in this new world.” He continued.
+“In particular, we are reducing emphasis on large treasury payments—which are traditionally used to fund businesses and services in the absence of real-time transfers—to support individual, low-value transactions, addressing the growing need in remittances and SME payments. This may reduce overall ODL transaction volumes.”

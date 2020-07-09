@@ -1,0 +1,42 @@
+* (The opinions expressed here are those of the author, a columnist for Reuters.)
+* Fastmarkets lithium carbonate price assessments: tmsnrt.rs/3h8uRr3
+LONDON, June 10 (Reuters) - Lithium is the metal that will power the coming electric vehicle (EV) revolution.
+The build-out of a lithium-ion battery chain, however, is at risk from depressed pricing and a lack of investment in new capacity.
+“Money needs to start flowing into the lithium market quickly, or the road to electrification will be stunted by lithium supply, in even the most conservative of forecasts.”
+That warning from specialist consultancy Benchmark Minerals Intelligence (BMI) was written in July last year. (“Lithium’s Price Paradox”)
+Since then prices have slid further and COVID-19 has massively disrupted both battery manufacturing and end-use demand in a collapsing automotive sector.
+Established lithium producers have cut output and deferred expansions. The junior players who joined the lithium rush of three years ago have left in search of other mineral bounty.
+The renewed paradox is that with politicians focusing auto sector rescue packages on EVs, particularly in Europe, lithium supply should be gearing up not gearing down.
+Its inability to do so is because the metal of the future still has no price visibility.
+Low prices have seen financing dry up for the lithium production sector.
+Banks are more likely to commit to a new metals project if they have an idea of what the price might be when production starts - often a time lag of several years - and even more so if they can use a futures market to hedge some of the price risk they’re taking.
+Lithium doesn’t offer such financing comfort. The London Metal Exchange (LME) has a potential contract in the works but it’s still months away and initial producer reaction has been cautious.
+The market’s current pricing remains opaque and fractured. Fastmarkets, the LME’s pricing partner, assesses 27 prices in the lithium production chain from hard-rock spodumene to high-purity lithium hydroxide.
+Lithium producers contend that even that level of coverage doesn’t capture the diversity of what is a bespoke product tailored for individual battery-maker specifications.
+How, the argument follows, can you “commoditise” what isn’t a commodity?
+This focus on semantics risks obscuring why any industrial sector needs future price visibility in the first place.
+“It comes down to price behaviour,” according to Martin Abbott, former head of the LME and current head of globalCOAL, an online coal trading platform.
+“If the nature of the market is such that the price is going to move around, then actually it’s the price behaviour that drives the need” for a futures price curve, Abbott told BMI’s recent “EV-Fest” forum.
+Judged by this metric, lithium looks in desperate need of some futures transparency.
+The price boom of 2016-2017 has been followed by a price bust as too much new production came onstream too soon.
+The industry was still working through the glut when the coronavirus caused a demand shock, compounding the sense of oversupply.
+Yet a new demand surge is already looming in the form of the multiple “green stimulus” packages as governments try and kick-start locked-down economies.
+You don’t have to be a market genius to see that another price boom is coming sooner or later as an under-powered supply chain has to catch up with the next demand surge.
+Lithium may not be a “commodity” in the dictionary sense but it’s definitely behaving like one price-wise.
+Lithium’s challenge, according to Abbott, is to find a standard or set of standards that is applicable to a product that is not chemically standard.
+This is how markets such as copper work.
+Each of the world’s copper mines produces a chemically unique concentrate product because no two copper deposits are exactly alike. But everyone agrees that the copper itself is the core tradeable price component, a common standard that provides a pathway to the copper futures market, where price risk can be hedged.
+The globalCOAL platform provides a similar service for the coal market, where grades and specifications vary widely.
+The success of any attempt to construct a lithium forward price curve will need producers and consumers to agree a comparable set of common standards applicable to the diversity of lithium product.
+The LME is publishing Fastmarkets’ lithium index pricing on its website to help nudge physical market players towards standardisation.
+But there is a strong sense the industry has only started the conversation on what might form the basis of either forwards or futures pricing.
+Yet the lithium industry still needs to do something, if it is to successfully evolve from the niche market of a decade ago to the metal that will power a global electric transport sector.
+Compare and contrast with that other EV battery metal, nickel.
+The LME three-month nickel price has also been hit hard by COVID-19, slumping to a March low of $10,865 from $18,850 per tonne in September last year.
+But lower prices have prompted buying of long-dated nickel futures. Analysts at Citi note a surge in open interest beyond the front 12 months of the curve, suggesting hedging of future physical purchases by battery makers and automotive companies.
+Such long-dated futures market purchases are themselves a powerful price support in a weak market.
+Lithium producers would probably take any price help they can get right now. Lithium consumers would love the opportunity to lock in protection against the next price boom.
+Successful new “commodity” contracts “are driven first off by the fact they are needed – and that’s generally around price discovery”, according to globalCOAL’s Abbott.
+The need for lithium forward pricing is becoming more urgent.
+The electric vehicle revolution may have hit pause. But the accumulating national “green stimulus” programmes are going to jump-start it.
+The lithium industry needs some way of gauging the future price horizon if it’s going to meet that demand challenge.

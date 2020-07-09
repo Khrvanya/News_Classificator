@@ -1,0 +1,12 @@
+State Street Global Advisors (SSGA) has introduced a currency-hedged share class for its SPDR Bloomberg Barclays Emerging Markets Local Bond UCITS ETF, offering exposure to local currency emerging markets debt while mitigating the effect of foreign exchange movements for euro-referenced investors.
+The fund’s underlying index is designed to provide a broad measure of the performance of liquid local currency emerging markets debt.
+The new share class hedges international currency exposures relative to the euro on a monthly basis using one-month forward rates.
+It has been made available on Xetra (SPFD GY) and Borsa Italiana (EMDE IM) and comes with an expense ratio of 0.60%. Income is capitalized within the portfolio.
+The ETF tracks the Bloomberg Barclays Emerging Markets Local Currency Liquid Government Bond Index, a country-constrained index designed to provide a broad measure of the performance of liquid local currency emerging markets debt.
+The index limits individual country exposure to a maximum of 10% and redistributes the excess market value across the index on a pro-rata basis.
+To be included in the index, securities must have an amount outstanding of at least $1 billion.
+Index provider Bloomberg recently started to add Chinese RMB-denominated government and policy bank securities to the index indices. These securities are being phased in over a 20-month period which began in April 2019. China currently accounts for a weight of 4.2% in the index.
+The index has approximately a third of its weight in each of the ‘A’ rated and ‘Baa’ rated credit brackets. Twelve percent is allocated to bonds rated ‘Aa’ while the majority of the remaining weight is in bonds rated below ‘Baa’.
+The index’s current yield is 4.8%. The effective duration is 6.4 years.
+The unhedged version of the fund (TER 0.55%) is available in distributing or accumulating share classes on London Stock Exchange, Xetra, Borsa Italiana, Euronext Paris, and SIX Swiss Exchange.
+Access all share classes, the fund houses approximately $4.1bn in assets under management.

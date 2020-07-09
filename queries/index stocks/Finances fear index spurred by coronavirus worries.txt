@@ -1,0 +1,13 @@
+Brokers on the floor of the New York Stock Exchange. (Richard Drew/AP)
+A closely watched measure of ‘fear’ in financial markets has risen sharply in the last few days, as investors panic about the potential economic impact of novel coronavirus.
+The VIX ( ^VIX ) index in Chicago has risen over 50% since Friday. The index, compiled by the Chicago Board Options Exchange (CBOE), is colloquially known as the ‘fear index’ because it acts as a proxy for investor expectations of falling prices.
+The index measures expectations of future volatility for the S&P 500 ( ^GSPC ) stock market in the US. The VIX is based on the price of options contracts, which investors use as insurance against potential future losses.
+The VIX climbed above 25 for the first time since April 2019 on Monday and passed 30 on Tuesday — the highest close since December 2018. It remained elevated on Wednesday, at 25.12.
+The spike is down to the spread of coronavirus across Europe. A major outbreak in Italy began over the weekend and 14 European countries have now recorded at least one case of the virus, officially known as COVID-19.
+The outbreak has stoked fears that the epidemic could be upgraded to a pandemic. Investors have concerns that efforts to contain the outbreak — such as travel bans, cancelled events, and calls for people to stay at home — will hobble corporate earnings and hit global economic growth.
+The spike in the VIX corresponded with plummeting stock markets around the world. Over £100bn ($130bn) has been wiped off the value of the FTSE 100 ( ^FTSE ) since the start of the week, while $1.7tn of notional value has been lost on the S&P 500.
+Neil Wilson, chief market analyst at Markets.com, said the VIX worsened the stocks rout.
+“A VIX spike like this always makes the selling worse as trading strategies and algos are programmed to sell hard into such moves in the 'fear gauge',” he said.
+The elevated VIX level suggests investors think the sell-off has longer to run, even as losses moderated in Europe on Wednesday and US markets opened higher.
+Wilson said the VIX at 18 would a signal investor fear had receded to normal levels.
+“That's the cue for a merrier go round,” he said.

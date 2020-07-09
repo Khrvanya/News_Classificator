@@ -1,0 +1,40 @@
+End of year crypto roundup: How did Dash perform in 2018?
+And what to expect in 2019?
+Dash DASH cryptocurrency (DASH) was created by software developer Evan Duffield in 2014 as “XCoin,” an open source fork of the Bitcoin protocol. Its vision was to facilitate fast anonymous transactions over the blockchain.
+XCoin was rebranded as “DarkCoin” a few months into the launch to highlight its privacy-centric approach compared to Bitcoin.
+At a time when cryptocurrencies were under scrutiny from the general population for being enablers of illegitimate transactions and funding the dark web, this didn’t prove to be good PR. The cryptocurrency was finally rebranded again as Dash a year later.
+Dash was one of the earliest decentralized autonomous organizations (DAOs), one where the program ensures that stakeholders run the show, rather than a centralized authority.
+The Dash ecosystem relies on ‘masternodes’ for running its operations. These nodes are essentially not very different from the standard nodes running on the blockchain, except they are required to own at least 1,000 Dash coins. Critics argue that this makes Dash not truly decentralized as it puts early adopters at a significant advantage.
+A software bug caused nearly 2 million coins to be mined on the first day of Dash’s launch in 2014, and these owners are said to have an undue influence on the Dash governance. This problem was highlighted when Dash developers proposed to re-launch the cryptocurrency, but the community voted its proposal down.
+In spite of the controversies, Dash remains one of the largest cryptocurrencies in terms of market capitalization at the end of 2018.
+DASH opened the year 2018 at $1,054, a whopping increase of 9,300 percent from January 2017. DASH saw a constant rise throughout 2017, but the trend saw a reversal in 2018, as was the case with most cryptocurrencies.
+DASH made tremendous gains throughout 2017, but the year 2018 reversed the trend. Data Source: eToro.com
+DASH reached its year-high market price of $1,362 in the second week of January, but then onwards maintained a predominantly downward trend for the rest of the year.
+DASH faced a dominant downward trend throughout 2018. Data Source: eToro.com
+The cryptocurrency fell to $395 by first week of February maintaining a downward wedge, when it saw a breakout with an upward trend that lasted two weeks.
+DASH market price moved in a strict downward wedge until February first week, when it broke out. Data Source: eToro.com
+DASH saw a market upswing during April-May, but was soon corrected. The cryptocurrency rose from $306 on April 12 to $537 on April 24. It couldn’t maintain the gains, and dropped to $299 by the last week of May.
+There was a upswing in the DASH market in April which was corrected by May end. Data Source: eToro.com
+DASH fell to less than $100 in November, and as of mid-December is trading at an average of $73.5 — a massive 93 percent drop in market price since the beginning of the year.
+DASH also performed poorly compared to BTC, falling in relative value throughout the year. As of mid-December, DASH has lost 74 percent of its value relative to BTC since January.
+DASH market price in terms of BTC between January-December 2018. Data Source: coinmarketcap.com
+The year 2018 proved to be a difficult one for Dash in spite of gaining some distinguished endorsements in late 2017, including that from American broadcaster Max Keiser of the Keiser report fame.
+The cryptocurrency suffered in some of its older markets, but also managed to gain newer ones.
+Dash suffered in Japan as local authorities began crackdowns against privacy-oriented cryptocurrencies. Multiple Japanese exchanges including Coincheck stopped offering Dash trading under the pressure of the country’s Financial Services Agency (FSA).
+Instead, the cryptocurrency found a new market in hyperinflation-struck Venezuela. In August, Ryan Taylor, the CEO of the Dash Core Group, told Business Insider that Venezuela had become their cryptocurrency‘s second largest market ahead of China and Russia.
+Hundreds of local retail outlets including American fast-food franchise Subway and fashion house Calvin Klein stores are accepting Dash payments, according to the Dash team.
+In December, Forbes reported that KFC is in discussions with Dash team to begin accepting their cryptocurrency in multiple outlets in Venezuela.
+DASH was one of the cryptocurrencies added by eToro and cryptocurrency wallet Abra on their respective platforms in 2018. Major media outlets Bloomberg and MarketWatch also began tracking the performance of DASH this year.
+DASH performed poorly in 2018 in terms of market price relative to other major cryptocurrencies, and the struggle is likely to continue on in 2019 as well.
+With regulatory restrictions being continuously imposed across the globe, things are becoming harder for cryptocurrencies that tout anonymity as their primary feature.
+The competition for enabling faster cryptocurrency transactions has increased tremendously since Dash first launched as well. Segregated Witness and Lightning Network implementations with Bitcoin and Litecoin, and the rise of Bitcoin Cash and other fast-transaction cryptocurrencies pose a threat to Dash’s existence.
+Dash’s main advantage seems to lie in its Core Group that assists the cryptocurrency‘s implementation on ground both financially and operationally. This is what put them at an advantage in Venezuela as well. It can see a relatively stable growth if it can replicate its operational success seen in Venezuela in other countries as well.
+The cryptocurrency can also benefit from taking corrective measures for the mining glitch it saw in 2014 that resulted in a disproportionate distribution of wealth — and hence, power — in the Dash ecosystem. But that seems unlikely given that such a proposal has already been turned down once by its community.
+End of year roundup: How did Litecoin perform in 2018?
+Now that you have actionable information on the future of Dash , it’s time to start investing. With eToro , a leading social trading platform, you can trade manually or copy the actions taken by leading traders, taking much of the stress and work out of your investments.
+This post is brought to you by eToro . eToro is a multi-asset platform which offers both investing in stocks and cryptocurrencies, as well as trading CFD assets.
+Please note that CFDs are complex instruments and come with a high risk of losing money rapidly due to leverage. 65% of retail investor accounts lose money when trading CFDs with this provider. You should consider whether you understand how CFDs work, and whether you can afford to take the high risk of losing your money.
+Cryptocurrencies can fluctuate widely in price and are, therefore, not appropriate for all investors. Trading cryptocurrencies is not supervised by any EU regulatory framework.
+Past performance is not an indication of future results. This is not investment advice. Your capital is at risk.
+Celebrate Pride 2020 with us this month!
+Why is queer representation so important? What's it like being trans in tech? How do I participate virtually? You can find all our Pride 2020 coverage here .

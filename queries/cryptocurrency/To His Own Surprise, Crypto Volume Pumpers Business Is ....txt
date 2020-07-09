@@ -1,0 +1,56 @@
+Please consider using a different web browser for better experience.
+Please enable JavaScript in your browser for a better site experience.
+Eleven months ago, Alexey Andryunin was sure his business was not long for this world.
+A 22-year-old math student from Moscow, Andryunin built a business inflating trade volumes in little-known crypto tokens issued during the 2017 initial coin offering (ICO) craze. In a head-turning interview CoinDesk published last July, Andryunin candidly described the underworld of micro-cap tokens and exchanges surviving on artificial volumes ginned up by paid “market makers” (a traditional finance term used loosely in this context.)
+At the time, Andryunin thought his business was heading to a decline: ICOs were moribund, the token market was shrinking and a new wave of regulatory attention was about to scour the shadier corners of the crypto space.
+He now says he was mistaken. Business is growing again as token promoters pay him to pump their projects so they’ll be accepted on crypto exchanges. It doesn’t hurt that the COVID-19 pandemic has led to a rise in investors looking for the next crypto opportunity.
+“We were about to switch to big data analysis, but we didn’t have a moment to start there [because] the crypto market suddenly turned around to us,” he told CoinDesk recently.
+In addition to inflating volumes, his firm is providing all kinds of services to token projects. It will code apps when the founders of the projects have nothing but an idea, Andryunin said – for a price.
+Previously a two-man shop, Andryunin’s firm, Gotbit, now has a team of seven and a seemingly endless pool of readily available freelancers from the body of math students at Moscow State University, where Andryunin himself is a junior.
+He found the CEO life incompatible with his college schedule, though, so he’s thinking of dropping school after this semester. “[Studying] fundamental mathematics and leading a business do not come together well.”
+Andryunin’s newfound career shows that long after the ICO craze ended, there are dozens of outfits still raising funds via token sales – and the pandemic has made business lucrative once again for issuers and middlemen.
+While the dollar amounts are far smaller than during the go-go days, the token market is active. In just the last 30 days, over 60 new tokens have been listed on CoinMarketCap , the popular website recently acquired by Binance .
+The world of penny tokens and obscure exchanges is still appealing, Andryunin says. In his estimate, each month the market for promoting new tokens generates about 1,000 BTC (roughly $9 million at recent prices) in fees for companies like his.
+Sergey Khitrov, founder of Listing.Help, which serves as an intermediary between token projects trying to get listed and exchanges, said demand for such services soared this spring.
+“In the times of pandemic, many businesses took a hit, and the companies shifted to making crypto projects, which increased the demand for listings,” Khitrov said. In addition, during the spring many exchanges lowered their listing fees, which also stimulated demand.
+About 95% of the tokens created through ICOs are now dead, he estimated, with their value up to 70 times smaller than at their peak in 2017. Nevertheless, some people still want to play the token game.
+At Binance, the world’s largest crypto trading venue, the flow of new listings for the initial exchange offering (IEO) platform, Binance Launchpad, “has slowed down considerably since 2019 due to the market trend,” said a spokesperson, Leah Li.
+However, the platform, which is now offering new tokens in two formats, a traditional IEO and a lottery, “remains very popular among Binance users,” with up to 22,000 users taking part in a single IEO, Li said.
+One reason: As the COVID-19 crisis hit traditional, offline businesses hard, investors turned their attention to the online sphere.
+“People with money who used to invest in offline businesses, they are now investing in digital ones,” said Nikita Brudnov, CEO of B&R Group, which is also in the token-listing business and subcontracts some services from Andryunin’s firm – including, Brudnov said, the trading volume bots.
+It’s mostly a path that gaming, entertainment and financial firms take, Brudnov added. The online realm saw a surge in demand, too: When people are stuck at home during a pandemic, they try their hand at day trading more often.
+“A lot of people have been flocking to crypto recently, and when bitcoin crashed many bought in,” Brudnov said, referring to the steep price decline in mid-March .
+However, the point of using tokens for fundraising by established businesses is not entirely clear to Brudnov or Andryunin, even though both cater to such clients.
+“I’m asking them: Why do you need crypto here? And they don’t even know it themselves. They got into that in 2017 and still keep doing the same,” Andryunin said. “Some of those projects are made by people who have already [done] something successful in crypto and that’s the only way they know.”
+It’s also an easier (although not completely welcomed by regulators) way of fundraising, he added.
+Initial public offerings are “a difficult thing to do. You need to have a strong project, notable market cap, long-time growth. And to issue a token, you need one bitcoin, five lines of code and a token on Ethereum,” Andryunin said.
+However, Gotbit has become more selective when it comes to new clients, trying to choose those with sound business models, not just “grab a quick buck and run,” Andryunin said. “For example, one of our clients is a sports game startup with a token. For such clients, we agree to make discounts and even take their tokens as a payment.”
+A lot of people have been flocking to crypto recently, and when bitcoin crashed many bought in.
+The firm now boasts over 80 customers, including 34 token issuers, and five exchanges in the pipeline.
+They come from Asia, traditionally active on the crypto scene, the Middle East and European countries including Switzerland, France, Belgium and the Netherlands, Andryunin said.
+Andryunin’s clients have evolved with time, he said: Startups selling tokens switched from public sales to private investments by funds, friends and family. Brudnov said after ICOs died out their later incarnation, IEOs, turned out to be of little use unless the tokens could be listed on top exchanges.
+“We have some clients who did IEOs and they raised nothing. Like, $1,000,” Brudnov said.
+However, that’s not true for IEOs at leading exchanges by volume like Binance, KuCoin or Huobi, Brudnov said.
+According to Andryunin, Gotbit has a strategy that allows a token to be listed on these exchanges within six months.
+The strategy works by first listing the tokens on a few small exchanges, some marketing and community development work and then pumping up the volume.
+For IEOs conducted on auxiliary platforms of large exchanges, such as Binance’s Launchpad, it’s common to let the community vote and select new tokens for listings.
+See also: Crypto Exchanges Must Stop Acting Like Casinos in Wake of Robinhood Suicide: bitFlyer Exec
+If the voting goes well and the tokens get listed, the project’s bad times are over, Andryunin said. “The client gets endless liquidity, many users, the funds start coming to them willing to invest.” (He stresses that his bot-driven volume inflation is limited to smaller exchanges, not the big-name venues.)
+Further, after a listing on a major exchange like Binance, a number of other smaller exchanges list these tokens immediately, to piggyback on the fresh wave of traders’ interest.
+Sixteen Gotbit token projects were accepted by community voting and four were listed on one of those exchanges’ IEO platforms, Andryunin said.
+To get the token on its way to CoinMarketCap and bigger exchanges, the manipulation is done in short “sprints” at the very beginning “so that the project doesn’t hang there with no market,” Andryunin said. “It’s a very negative thing.”
+But Gotbit “really pumps the volume into the market” in the last few months before a big exchange’s IEO community voting takes place, so traders don’t lose interest right before the final battle, Andryunin said.
+Such tokens are not volatile enough to attract traders on their own, he said, and there are no sophisticated speculation tools that would allow profiting from even small price moves, as there are for bitcoin.
+Six months of work can cost a GotBit client $60,000 to $100,000, depending on how much effort a token requires to get listed. Some require artificial volume support even after the listing, he adds. Some exchanges require that a token have a minimum trading volume, or it gets delisted – and the natural interest in such tokens on the traders’ side is often far from the required level.
+Binance is always in contact with new projects’ founders and “extensively check[s] the information/metrics provided to ensure accuracy and authenticity,” spokesperson Leah Li told CoinDesk. To select projects for community vote, Binance looks for things like “a proven team, useful product, and large user base.”
+“The team’s commitment to its project is a key indicator, as well as the level and quality of development activity. We review each project diligently to ensure that it meets the high level of standard we expect,” she added.
+As for existing trading volume, it’s only ”one of the many factors” to consider, Li said, adding: “It’s usually quite obvious to determine how real the volume is by just looking at which exchange it is.”
+An even bigger market now is not tokens, but exchanges, Andryunin says, especially the ones trading futures contracts.
+See also: Number of Institutions Buying Crypto Futures Doubled in 2020: Fidelity Report
+In March, Gotbit started providing liquidity to such exchanges, mostly by copying the order books at bigger exchanges, like Binance.
+For example, to close a sell order on a smaller exchange, Gotbit opens a buy order on a larger one.
+“On the futures exchanges, you can really make a lot of money; many people come there thinking they are great traders and buy bitcoin with 100 times leverage. They are creating this inefficiency in the market and inevitably hit our orders, so we’re making money,” Andryunin says.
+A year after planning to close his “market making” shop, Andryunin is planning for growth.
+The ultimate goal is to become a serious, legit market maker for a major exchange like Binance or Huobi, he said. It requires serious investment, though.
+“You need to support 40-50 trading pairs, locking at least $50,000 for each, so you need to keep about $20 million frozen – but this money is gaining a profit around 10-15 percent a month,” Andryunin said. “We can’t afford it yet, but one day, we’ll come to it.”
+The leader in blockchain news, CoinDesk is a media outlet that strives for the highest journalistic standards and abides by a strict set of editorial policies . CoinDesk is an independent operating subsidiary of Digital Currency Group, which invests in cryptocurrencies and blockchain startups.

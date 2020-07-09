@@ -1,0 +1,13 @@
+By Maheen Hernandez July 5, 2020 Off
+It helps to understand that Ethereum Classic Labs are working in collaboration with ChainLink to bring decentralized oracles to Ethereum Classic.
+It is well know that Ethereum Classic and Ethereum are not able to natively interact with the off-chain services because of their underlying consensus mechanisms which maintain specific behavior in the network. Specifically in terms of determinism.  Thus, blockchains were able to process data in a deterministic manner using the on-chain data.
+The limitation was that Ethereum was not able to connect with other blockchains or non-blockchain infrastructure.  The developers were not able to connect their smart contract applications with the market data like the DeFi, IOTA, insurance and traditional payment systems.
+The oracles do the job of creating a bridge between the blockchains and the off chain data.
+Ethereum Classic tweeted:  “@Chainlink is a proven decentralized oracle network, which allows #EthereumClassic smart contracts to interact with off-chain resources with the same security guarantees as the underlying #blockchain.”
+Sydney Ifergan, the crypto expert tweeted:  “Ethereum Classic smart contracts interacting with off-chain resources is huge, being able to interact off-chain means interacting with everything under the sun.”
+When ETC has further systems in place to integrate and use the off-chain data for good, there will literally be a miracle of sorts.
+ETC had a few things to say about the latest Emerald Wallet v.2.2.0.
+Ethereum Classic tweeted:  “Emerald is a non-custodial desktop wallet that supports, #EthereumClassic, #Ethereum, #Tether, and #DAI. It supports Ledger hardware wallets and is available on Windows, Mac, and Linux. Completely Rewritten Emerald Wallet v2.2.0 Now Available.”
+Bob Summerwill seemed to acknowledge Vitalik Buterin’s opinion by retweeting his opinions, which meant that some people are focused on creating easy to use global access financial infrastructure and to use mechanism design and smart contracts to create new social forms of organization.  He also stated on yet there were people who are about the “YAY yield farming 135%”
+Vitalik stated that several flashy stuff are exciting; however, they are for the short term and that there is no real way about how the Defi will have interest rates which are more than the percentage point which is above the best of the traditional finances in the long run.
+Classic Kevin Lord, a new community manager expressed their excitement in joining the ETC cooperative and praised Bob Summerwill on his leadership. Good Leadership can do a lot of miracles.

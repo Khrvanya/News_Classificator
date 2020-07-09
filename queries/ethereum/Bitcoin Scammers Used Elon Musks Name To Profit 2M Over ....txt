@@ -1,0 +1,12 @@
+Scammers used Tesla Inc. (NASDAQ: TSLA ) Chief Executive Officer Elon Musk's name to rake in more than $2 million in Bitcoin (BTC) in the last two months, according to data compiled by Adaptiv.
+The cybersecurity firm's CEO, Justin Lister, told ZDNet on Friday that they tracked down 67 so-called Bitcoin "vanity addresses," which misused the billionaire entrepreneur's name to make away with about 214 BTC, worth a little over $2 million at press time.
+The vanity addresses have phrases containing "Elon Musk," or other similar-sounding words, for example, "1ELonMUsKZzpVr5Xok8abiXhhqGbdrnK5C," ZDNet reported.
+The scammers used live streams at Alphabet Inc.'s (NASDAQ: GOOGL ) (NASDAQ: GOOG ) video platform YouTube to lure in unsuspecting users, the complaints studied by Adaptiv suggested.
+To pull off the scams, they used popular YouTube accounts with a large following and changed the account names and graphics to resemble those of celebrities, like Musk, in this case.
+This isn't the first time that scammers have used the Tesla CEO's name to profit in cryptocurrencies.
+In fact, Musk's own posts on Twitter Inc.'s (NYSE: TWTR ) platform often see "giveaway" scams in top replies. Celebrity chef Tyler Florence's verified Twitter account was hacked in October 2018 and used to promote similar cryptocurrency scams in Musk's name, The Next Web reported at the time.
+The Tesla CEO had acknowledged the scams earlier in July that year in a tweet, saying he particularly admired the people pulling off scams related to the world's second-largest cryptocurrency Ethereum.
+I want to know who is running the Etherium scambots! Mad skillz …
+— Elon Musk (@elonmusk) July 8, 2018
+Tesla shares closed 0.3% lower at $1,000.90 on Friday. The shares traded another 0.9% in the after-hours session at $991.90. Bitcoin was mostly unchanged over 24-hours at $9,360.32 at press time on Monday.
+© 2020 Benzinga.com. Benzinga does not provide investment advice. All rights reserved.

@@ -1,0 +1,20 @@
+(Reuters) - Foreign exchange swap volumes have risen in the past three years to account for nearly half of the entire FX market, Bank for International Settlements (BIS) data shows.
+As FX swaps have emerged from the dark corners of the derivatives world, they are attracting wider investor interest.
+Some now fear that swaps could be a catalyst for market disruption, possibly as soon as the end of 2019, if U.S. banks cut back lending to meet cash reserve rules.
+WHAT IS AN FX SWAP?
+An FX swap is a foreign exchange derivative traded between two parties who simultaneously lend and borrow an equivalent amount of money in two different currencies for a specified period of time, agreeing to exchange back the money at a specified foreign exchange forward rate.
+There are also cross currency swaps, which in essence mean the same thing, but these are interest rate derivatives, their structure is different and the money is exchanged back at the same foreign exchange rate derived from the FX spot market as at the start of the contract. Borrowing costs in FX swaps are very closely linked with those in the cross currency swap market.
+HOW MUCH DOES A SWAP COST?
+At the heart of the FX swap contract is the basis, essentially the additional cost, or gain, of transacting between one currency to another. The basis is indicative of the supply and demand balance for one currency versus another.
+In a euro/dollar swap, the basis is the premium borrowers have to pay to get their hands on the U.S. currency. The lower the dollar supply, the more negative the basis becomes. Because dollar liquidity has been shrinking since 2008, the basis has been widening as a result, boosting the premium.
+An FX swap entails an exchange of interest payments in one currency for interest payments in another. For example, those borrowing dollars via a euro/dollar swap would pay the Libor rate — a benchmark interest rate at which major global banks lend to one another — plus a premium to those lending dollars.
+This means that to borrow dollars, you have to pay more than the Libor rate, which is what banks pay in the international interbank market for short-term loans. The fewer dollars there are, the higher the premium lenders can demand.
+There could also be an exchange of principals in the two different currencies at the beginning and end of the contract. The swap is considered to be a foreign exchange transaction and is not required by law to be shown on a company’s balance sheet.
+WHAT ARE THEY USED FOR?
+Swaps are used to hedge currency exposure, speculate on the direction of a currency and increasingly for access to foreign currency funding. European banks lack deposits in dollars, as well as dollar-denominated collateral to access other lending markets such as the “repo” or repurchase agreements, so tend to often use FX swaps to borrow dollars to pass on to clients.
+A common reason to employ a currency swap, whose duration ranges from one day to several months, is to secure cheaper debt. But in the past few years average swap duration has shortened, often to between one and seven days.
+Currency swaps were originally conceived in the 1970s to circumvent foreign exchange controls in Britain as at that time UK companies had to pay a premium to borrow in U.S. dollars.
+Years later, as banks reduced their direct cash lending during the 2008 financial crisis, the Federal Reserve allowed several countries facing liquidity problems to borrow via a currency swap, resulting in a widening in the basis for most major currencies against the U.S. dollar.
+During the 2011-2012 euro zone debt crisis, heightened fears led to another widening in the euro/dollar basis.
+Between 2014 and 2017, there was a persistent euro/dollar negative basis, mainly because of the divergence in monetary policy between the euro area and the United States.
+But throughout the first half of 2018, the basis tightened, reducing the cost of switching between euro and U.S. dollars. That appears to have been a blip in the overall trend, and the basis has since widened.

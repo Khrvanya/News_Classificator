@@ -1,0 +1,9 @@
+Facebook’s Forecast app has been launched in beta even as the blockchain-based Augur platform readies for its v2 revamp.
+Facebook’s research and development engineers have launched a community platform built around predictions, encroaching on the territory of the emerging crypto-powered predictive market sector.
+Dubbed ‘Forecast’, Facebook’s new iOS app polls users on a variety of forward-facing issues, with respondents using in-app points to access surveys on the platform. Survey results will be made publicly available via the Forecast website.
+The app is currently only available to invited users based in the United States and Canada while the platform is in beta testing. Prior to its invite-only beta launch on June 23, Forecast was tested internally by Facebook employees.
+The beta launch has seen representatives of the health, academic, and research communities invited to contribute predictions concerning the COVID-19 pandemic.
+If Facebook were to integrate Forecast with its Libra stablecoin, the platform would offer a robust infrastructure for predictive markets.
+While decentralized prediction markets are still in their infancy, Augur’s (REP) imminent v2 transition is expected to offer a powerful platform for decentralized betting markets ahead of the U.S. election in November.
+Describing v1 as a “functional beta,” Augur states that the v2 overhaul will see the integration of MakerDAO’s DAI and 0x (ZRX) as settlement currencies, mobile-focused user-interfaces, fiat on-ramps, and the launch of an off-chain scaling solution, among other upgrades.
+In recent months, Waves has also used its exchange platform to host several predictive markets concerning the coronavirus pandemic.

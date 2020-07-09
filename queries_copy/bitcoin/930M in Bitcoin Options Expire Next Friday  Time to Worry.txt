@@ -1,0 +1,23 @@
+$930M in Bitcoin Options Expire Next Friday — Time to Worry?
+Open interest on Bitcoin options contracts expiring next Friday amounts to $930 million, but what price action should be expected?
+Much attention has been paid to the Bitcoin options and futures market and each week crypto media reports on new record open interest figures being achieved. As the date of another futures and options expiry approaches, traders are becoming anxious due to the fact that the Bitcoin ( BTC ) price has consistently failed to surpass the $10,000 mark.
+To date, more than 100,000 Bitcoin options totaling $930 million are set to expire on June 26. This figure represents nearly 70% of Bitcoin’s entire open interest. On June 15, the Bitcoin price pulled back to $8,900, leading investors to question whether professional traders have turned bearish as the June 26 expiry date approaches.
+Although open interest doesn’t allow one to predict a market trend, it is possible to gain more insight by analyzing additional data such as the put/call ratio. This indicator provides a clear picture of investors’ sentiment as call options are mostly used for bullish strategies.
+Total BTC options open interest. Source: Skew
+Data from Skew shows that open interest reached $1.3 billion — a 100% increase over the last two months. Currently, Panama-based derivatives exchange Deribit accounts for 77% of the options market, although regulated venues such as CME and LedgerX are consistently gaining relevance.
+June CME Bitcoin options open interest by strike. Source: CME
+The June 26 expiry for the current CME contract consists almost entirely of call options, hence bullish positions. Seventy-five percent of such open interest is now sitting at the unlikely scenario of $11,000 and higher-level expiries.
+This leaves $67 million worth of call options potentially impacting the market, which, when compared to the $300 million average daily volume traded on CME futures, is unlikely to have any meaningful impact. Also, investors should keep in mind each CME contract entitles 5 BTC.
+June Deribit Bitcoin options open interest by strike. Source: Deribit
+Deribit holds 50% of the 100,000 BTC options set to expire on June 26, and unlike CME, Deribit offers contracts starting from 0.10 BTC. Institutional investors are also able to access Deribit’s over-the-counter block trading solutions.
+The above chart tells a slightly different story from CME, as strikes with a higher probability are more balanced between call and put options.
+There is roughly 9.5K BTC open interest on both calls and puts. This amounts to a $180 million notional set to expire, although it does not indicate which side has a more substantial vested interest.
+BTC futures markets provide an in-depth view of professional investors’ sentiment. Contracts that mature in three months should trade at a premium to the current spot levels in a situation known as contango . A steep contango indicates that sellers are demanding even more money in the future.
+BTC futures 3-month contracts premium. Source: Skew
+As shown above, the current 1.8% average premium for the September expiry sounds reasonable and is slightly bullish. The present scenario is the opposite of mid-May, when futures have faced backwardation as futures traded below spot price.
+If Bitcoin somehow manages to trade above $11,000 at expiry, this would activate another 14,900 BTC in unaccounted option contracts. Every $100 above that level would bring call option buyers another $1.5 million in profits.
+One should keep in mind that a call option would only benefit its buyer if trading above its strike level. Meanwhile, retail traders should avoid shorting such an important resistance for derivatives structures.
+This $140 million in additional open interest at the $11,000 mark certainly presents a honeypot for bulls. But CME futures contract expiry happens simultaneously and currently holds a $313 million open interest.
+Unlike option markets, there is no clear direction signaled by futures, as longs and shorts share exact opposite market exposure at every trade.
+Currently, the question on the minds of pro traders is will the CME call option buyers prevail? Deribit options are set to expire at 8:00 am UTC on June 26 and the CME a few hours later at 3:00 pm UTC.
+The views and opinions expressed here are solely those of the author and do not necessarily reflect the views of Cointelegraph. Every investment and trading move involves risk. You should conduct your own research when making a decision.

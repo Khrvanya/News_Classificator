@@ -1,0 +1,27 @@
+Ethereum’s implied volatility dropped below Bitcoin's for the first time ever, but is this a bullish or bearish development?
+Ether ( ETH ) options implied volatility, a measure of the expected price swings as per the options markets premium, has dropped below Bitcoin’s ( BTC ) for the first time ever.
+This could signal that investors have given up expectations of a price decoupling, or they simply expect ETH price moves to mirror Bitcoin.
+In the case of potential catalysts for significant price moves, implied volatility tends to move up whereas an absence of triggers causes volatility to recede, alongside a diminishing premium on options markets.
+The above chart shows a continuous drop on both assets’ volatility, which can be partially explained by the Bitcoin halving in mid-May. At the time, investors had reasons to believe prices could oscillate more drastically as the possibility of various miner capitulations loomed.
+At the same time, positive news from strong inflows by Grayscale Investments , advancements on the Ethereum 2.0 testnet, and a growing DeFi ecosystem boosted traders' expectations.
+Volatility within the crypto market remains well above the level seen in the S&P 500 and that should be no surprise.
+There are a handful of reasons behind this difference and some of the more notable ones are: the enormous untapped potential of digital assets and existing uncertainties related to the necessary evolution of various protocols.
+The above chart signals investors have been trading equal amounts of put and call ETH options. The indicator reached its highest level in one year, having been previously skewed to the call option (bullish) side.
+This shouldn't be interpreted as a bull/bear indicator by itself as it depends on the strike levels those options have been set at.
+ETH options open interest by expiry. Source: Skew
+Longer-term ETH options are curiously more active than next month's contract and that's a stark difference from the BTC markets.
+Although it is impossible to pinpoint the exact reason, one might infer that the ongoing Ethereum 2.0 development is behind this.
+Cointelegraph recently listed the benefits and risks of these upgrades by explaining potential issues for users to migrate balances between those blockchains.
+Although it might seem that the ETH put/call ratio is balanced, when analyzing strikes for the slightly optimist calls ($240 to $280) to the slightly negative puts ($180 to $220) there's a clear imbalance of 2:1 favoring bullish calls.
+The same pattern emerges for the September 2020 expiry.
+Oddly enough, for the July 2020 ETH contract, there's an impressive 4:1 ratio favoring put options (bearish) close to current market levels.
+This shows investors are taking advantage of the recent volatility downtrend to create strategies that protect against short-term downside, while also aiming for call options (bullish) year-end.
+To better understand how bearish ETH investors are for the upcoming month, one needs to analyze future contracts. The higher the premium of next month's futures contract, the more optimistic traders are.
+Data from Skew indicates that although premium remains healthy at 2%, the excessive optimism seen earlier this month has vanished.
+Bitcoin 20-day correlation to Ether. Source: Tradingview
+The 20-day correlation between Bitcoin and Ether recently climbed back to 0.90 levels, indicating prices of both assets have been moving quite similarly. This partially explains declining ETH options implied volatility as investors adapt to high-correlation markets.
+Ether’s current low volatility indicates that options markets do not expect any critical catalysts for either bull or bear cases. Short-term options show intense bearish activity, while September and December markets are skewed for the call options (bullish).
+Low volatility does not imply that investors expect a price upswing or downswing, it simply reflects reduced expectations of major price catalysts. As reported by Cointelegraph,  there have been a couple of bullish indicators for Ether, including increasing user activity and surging institutional demand .
+For those willing to benefit from the potential upside of Ethereum 2.0, this is an excellent opportunity to buy longer-term call options.
+Low volatility translates to reduced costs for buying options contracts, which, unlike futures markets, provides a way to keep open positions despite short term negative price swings.
+The views and opinions expressed here are solely those of the author and do not necessarily reflect the views of Cointelegraph. Every investment and trading move involves risk. You should conduct your own research when making a decision.

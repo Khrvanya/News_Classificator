@@ -1,0 +1,15 @@
+Twitter and Square make major gains following revenue reports, while Jack Dorsey-sponsored Lightning Labs sees $10 million funding.
+Perhaps the two most prominent supporters of Bitcoin’s ( BTC ) Lightning Network have seen their share prices rocket this week as the technology gains fresh recognition.
+Data covering the share prices of Twitter and sister company Square , the payment gateway which directly supports Bitcoin, shows both companies sealed major gains in recent days.
+Twitter stock (TWTR) appreciated by close to 20%, while Square (SQ) hit local highs of $81.65, almost 10% up on last week and nearly 25% since Jan. 1. The former recently revealed that it had turned its first quarterly revenues in excess of $1 billion.
+“2020 is now officially an investment year, and in return, investors should expect Square to exit 2020 at an improved growth rate,” investment media outlet Investor’s Business Daily quoted a JPMorgan analyst as saying on Thursday.
+Square share price (year-to-date). Source: Yahoo!
+Both companies share the same CEO, Jack Dorsey, a figure who has become synonymous with the growth and increasing popularity of the Lightning Network.
+Lightning is a so-called “layer 2” technology for Bitcoin and other cryptocurrencies. It is designed to make payments instant and practically free for the user via transactions that are made off-chain.
+Dorsey has remained committed to introducing the technology to both Twitter and Square. Last month, Square gained a patent dedicated to real-time crypto-to-fiat currency swaps.
+He has also invested directly in Lightning Labs, the company developing the Lightning protocol and related products. Earlier in February, the firm confirmed it had raised $10 million in a Series A funding round.
+“If you think of the Visa network as this payment layer for, say, when people are transacting with dollars, Lightning is doing that for Bitcoin,” CEO Elizabeth Stark told Yahoo! Finance on Feb. 5.
+Even prior to Lightning-based events, Square garnered considerable praise for adding Bitcoin to its Cash App wallet, which currently has an estimated $15 million users . According to data from Google Trends , overall interest in “Cash App” has also steadily increased over recent months and years, driving attention towards both BTC and Lightning.
+Google search interest in “Cash App.” Source: Google Trends
+The number of Bitcoin buyers using the Cash App doubled in Q3 2019 alone, statistics showed at the time.
+Currently, the Bitcoin Lightning Network is made up of over 13,000 nodes and 36,000 channels with almost $8.5 million in locked-up BTC, according to monitoring resource 1ml.com.

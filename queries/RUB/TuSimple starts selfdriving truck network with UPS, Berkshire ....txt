@@ -1,0 +1,14 @@
+TuSimple starts self-driving truck network with UPS, Berkshire Hathaway's McLane
+UPS, the world's largest package delivery company, is betting that autonomous vehicle technology can expand more rapidly in commercial vehicles than in robotaxis.
+United Parcel Service Inc and McLane, which serves convenience stores, mass merchants, drug stores and chain restaurants, already run some shorter test routes with TuSimple.
+San Diego: U.S. technology company TuSimple on Wednesday launched a self-driving freight network with UPS and Berkshire Hathaway Inc supply chain unit McLane that it said should operate nationwide by 2024 and start running some driverless trucks routes by 2021.
+United Parcel Service Inc and McLane, which serves convenience stores, mass merchants, drug stores and chain restaurants, already run some shorter test routes with TuSimple.
+UPS, which bought a minority stake in TuSimple last year, will add a fresh route in the next few weeks, a spokeswoman for TuSimple said by phone.
+Trucking firm US Xpress Enterprises Inc has signed up to start using TuSimple's network soon, she said.
+UPS, the world's largest package delivery company, is betting that autonomous vehicle technology can expand more rapidly in commercial vehicles than in robotaxis.
+Freight routes are far more predictable than robotaxis, as trucks run between fixed points that are easy to map.
+TuSimple executives liken their network to a railroad, with trucks following set routes like rails between those fixed points.
+By 2021, TuSimple's network should cover fixed routes between a cluster of southwestern U.S. cities - Phoenix and Tucson in Arizona; and El Paso, Dallas, Houston and San Antonio in Texas. Those routes consist almost exclusively of major highways.
+TuSimple already operates on seven routes between Phoenix, Tucson, El Paso and Dallas.
+TuSimple currently uses a driver and engineer on each truck.
+By 2023, TuSimple aims to offer service between Los Angeles and Jacksonville, Florida. And by 2024 the company wants to run driverless operations on major shipping routes around the country and is banking on the federal government to come up with a regulatory framework for self-driving freight vehicles by then.

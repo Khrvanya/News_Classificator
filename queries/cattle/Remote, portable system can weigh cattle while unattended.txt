@@ -1,0 +1,11 @@
+AgriLand stumbled across a somewhat unusual remote weighing system for cattle – called Optiweigh. It’s the brainchild of Australian Bill Mitchell.
+The system works by weighing the front two feet of the animal; it then uses an algorithm to ‘calculate’ or estimate the whole body weight of the animal.
+The resultant data is then sent back to the farmer in real-time – to view on a smartphone or computer.
+The system is also portable; it can be towed from one field to another. This means there is no need to move the cattle into a holding pen just to weigh them.
+The system requires 24/7 (wireless) internet access, which is an issue for many rural Australian farmers. To combat this, the Optiweigh system is fitted with an Inmarsat (satellite-connected) device, which broadcasts data from the Optiweigh system to a smartphone or computer.
+The founder and CEO of Optiweigh, Bill Mitchell, explained the results that farmers have seen by switching to the Optiweigh system.
+We are getting fantastic feedback from our customers. One farm in Queensland had a weighing programme for 2,000 cattle that previously took three days from start to finish.
+“Farmers now weigh the herd remotely, with data automatically transmitted directly to their laptops or mobile phones.”
+He also explained the benefits that the Optiweigh system can provide for farmers when it comes to selling their cattle.
+“The accuracy of this data means that customers are able to sell cattle at the right time giving them higher returns.
+“The partnership with Inmarsat has enabled us to deliver critical, real-time data from wherever the Optiweigh system is on a farm.”

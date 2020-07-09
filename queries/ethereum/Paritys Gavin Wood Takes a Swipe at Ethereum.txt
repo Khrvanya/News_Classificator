@@ -1,0 +1,12 @@
+Please consider using a different web browser for better experience.
+Please enable JavaScript in your browser for a better site experience.
+Gavin Wood , an original co-founder of Ethereum , took a few good swipes at the second-largest cryptocurrency he helped create, calling out its lack of “agency” when upgrading to its next version, Ethereum 2.0.
+Wood , the founder of Parity Technologies, said Ethereum lacks governance and ability to easily carry out upgrades during a talk aired at CoinDesk’s Consensus: Distributed virtual conference.
+Ethereum is on the cusp of upgrading to its next version, Ethereum 2.0, also called Eth2. The transition will change the consensus mechanism to a system of staking (proof-of-stake) as a way of processing transactions, as well as sharding (splitting) of chains to scale up the number of transactions per second the blockchain can achieve.
+“Agency, and only agency, allows an economy to act as a whole on behalf of stakeholders,” said Wood. “If you don’t have agency, you can’t do this. In the same way, Eth1 doesn’t have agency over itself; so there is no way Eth1 could agree to some other network’s minting process – even if it’s Eth2.”
+Wood also took the opportunity to compare Ethereum’s current transactions per second upper limit with that of Polkadot, the blockchain system built by his team at Parity.
+See also: ‘Game-Changer’ Retail Digital Currency Now European Central Bank’s Focus, Board Member Says
+“Ethereum can do 25 transactions per second (TPS), but, of course, the more you use it the worse it gets,” said Wood. “Polkadot uses parachains [parallel processing chains] and can go from 100K TPS to up to 1 million TPS.”
+Polkadot operates “pockets of transaction processing logic,” which does not specify types of transactions leaving that entirely open to the underlying developers or projects.
+“This gives an unprecedented level of flexibility,” Wood said, “much more so than the sort of dynamic resource metering model that Ethereum gives – although Ethereum was of course incredibly important at the time.”
+The leader in blockchain news, CoinDesk is a media outlet that strives for the highest journalistic standards and abides by a strict set of editorial policies . CoinDesk is an independent operating subsidiary of Digital Currency Group, which invests in cryptocurrencies and blockchain startups.

@@ -1,0 +1,23 @@
+On Thursday (June 4), crypto investment firm Grayscale Investments, LLC ("Grayscale") reported that its total assets under management (AUM) had reached $4.0 billion, an increase of 8.1% compared to the size of the AUM a week earlier, and almost double what it was in May 2019.
+Grayscale is wholly-owned subsidiary of Digital Currency Group, Inc. (“DCG”), which is an investor in some of the best-known businesses in the crypto space, such as Abra, Coinbase, Coindesk, BitGo, and Ripple.
+Grayscale was founded in 2013 by Barry Silbert, who is the current CEO of Grayscale, as well as the founder and CEO of DCG.
+Grayscale is the sponsor of nine single-asset investment products -- Grayscale Bitcoin Trust, Grayscale Bitcoin Cash Trust, Grayscale Ethereum Trust, Grayscale Ethereum Classic Trust, Grayscale Horizen Trust, Grayscale Litecoin Trust, Grayscale Stellar Lumens Trust, Grayscale XRP Trust, and Grayscale Zcash Trust -- and the manager of one diversified investment product (Grayscale Digital Large Cap Fund).
+Its two most popular investment products are Grayscale Bitcoin Trust and Grayscale Ethereum Trust.
+As Rayhaneh Sharif-Askari , Director of Investor Relations and Business Development at Grayscale, explained in episode #006 of "Coinscrum Markets", Q1 2020 was a record quarter for Grayscale (and the way things seem to be going, Q2 20202 might be even more impressive).
+During her interview with Nisa Amoils , an Investment Manager at Grasshopper Capital , Sharif-Askari said:
+"From a broader perspective, COVID-19, and the policy implications especially, have really set the stage for Bitcoin to be seen as the store-of-value asset that we had hoped it eventually would be... Institutional investors are taking active long positions in digital assets through our products...
+"In Q1, we have raised half a billion dollars across all of our products -- $390 million of that was into our Bitcoin Trust... We also saw about $110 million in the Ethereum product..."
+Even more interestingly, she pointed out that most of the interest in these investment products is from institutional rather than retail investors:
+"Since the inception of our firm, about 90% of the inflows have been from institutional investors... This past quarter, about 88% of the flows came from institutions, and breaking that down further, we looked at the type of institutions...
+On May 28, Grayscale provided the following AUM update:
+05/28/20 UPDATE: Net Assets Under Management, Holdings per Share, and Market Price per Share for our Investment Products.
+— Grayscale (@GrayscaleInvest) May 28, 2020
+06/04/20 UPDATE: Net Assets Under Management, Holdings per Share, and Market Price per Share for our Investment Products.
+— Grayscale (@GrayscaleInvest) June 4, 2020
+Now, let's take a closer look at Grayscale's most popular investment product -- Grayscale Bitcoin Trust (OTCMKTS: GBTC).
+According to data from Grayscale's website, as of June 5, there were 378,088,800 shares outstanding and the amount of BTC per share was 0.00096107.
+Crypto analyst/researcher Kevin Rooke pointed out on June 4 that since Bitcoin's third halving on May 11, Grayscale has added 28,413 BTC to the Grayscale Bitcoin Trust:
+Another massive week for Grayscale.
+— Kevin Rooke (@kerooke) June 4, 2020
+Since we know that after the halving event on May 11 Bitcoin's block mining reward was reduced from 1800 BTC per day to 900 BTC per day, this (roughly) means that since that date Grayscale has bought 147.98% of all the Bitcoin produced by the miners!
+The reason we say "roughly" in the paragraph above is that we do not know the exact amount of BTC that Grayscale bought in the open market (from OTC brokers, prime brokers, or crypto exchanges) since according to the Grayscale's FAQ page , "Existing and prospective investors may contribute coins in kind for shares of Grayscale’s single-asset Products."

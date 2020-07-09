@@ -1,0 +1,21 @@
+Crypto could be carrying, rather than crashing semi stocks once again.
+Stocks quotes in this article: NVDA , TSM , SOXX , AMD
+A resurgence of the much-maligned cryptocurrency market could be aiding the semiconductor sector.
+After helping crush results from semiconductor stocks such as Nvidia ( NVDA ) and Taiwan Semiconductor ( TSM ) amidst its collapse into the back half of 2019, cryptocurrencies like ethereum and bitcoin have bounced about 20% each to kick off the month of April.
+This bounce, which has apparently been impacted by big buy-ins from a single anonymous buyer that triggered a wave of algorithm buying , stands to benefit many GPU-focused stocks that see their products used in the crypto mining process.
+While correlation is certainly not causation, the bounce in the prices of prominent currencies has almost exactly mirrored the bounce back in major semiconductor ETFs ( SOXX ) .
+Along with news from China and Taiwan Semiconductor on smartphone demand , the rally in the crypto space could end up being yet another tailwind for surging sector.
+To begin, it is important to establish the correlation of semiconductor stocks with the volatile crypto market.
+Cryptocurrency mining is a process in which miners compete to crack a mathematical code issued in each transaction. The miner that can crack the code fastest is able to authenticate a transaction and is rewarded with a small number of coins in exchange for the service.
+The process requires high-powered hardware that is often manufactured by chipmakers like Nvidia, Taiwan Semiconductor, and Advanced Micro Devices ( AMD ) . As such, the process is only profitable above a certain price level that justifies the high electricity and hardware costs associated.
+Unfortunately for these stocks, cryptocurrency mining became an unprofitable prospect as bitcoin, ethereum, and other currencies saw their bubbles burst in 2018.
+The rapid rise that had ushered in "mining farms" and spurred a surge in mining and subsequent demand for high-powered chips saw an equal and inverse impact as the operations shuttered amid the bust in the bubble. The impact was noted as a major "hangover" for many semi stocks that were tied to the market.
+"We came into Q3 with excess channel inventory post the crypto hangover," Nvidia CEO Jensen Huang told analysts in November . "The pricing took longer than we expected, and the volume increase took longer than we expected...I'm hopeful that now that pricing has stabilized, that customers will come back and buy."
+As a result of the ire directed at the companies that were linked to the market as it eroded, many chipmakers removed any potential benefit from their guidance.
+Nvidia, for example, said it was "projecting no contributions" from crypto-specific products going forward during its earnings report as far back as August. While that stung to the downside late last year as negative impacts were heavier than expected, it also means that any benefit from cryptocurrencies moving forward could have the same impact to the upside. All gravy, so to speak.
+So, while you may not be overly concerned with crypto markets if you are an equity investor, it could provide a nice cushion if this comeback can keep going.
+(Lam Research and Nvidia are holdings in Jim Cramer's Action Alerts PLUS member club . Want to be alerted before Jim Cramer buys or sells  NVDA, or LRCX? Learn more now . )
+How Much Money Will I Need to Retire?
+Want to learn about retirement planning from some of the nation's top experts? Join TheStreet's Robert "Mr. Retirement" Powell live in New York on April 6 for our Retirement Strategies Symposium. For a limited time, tickets are available for $99 for this full-day event. Check out the agenda, learn about the speakers and sign up here.
+Get an email alert each time I write an article for Real Money. Click the "+Follow" next to my byline to this article.
+Employees of TheStreet are restricted from trading individual securities.

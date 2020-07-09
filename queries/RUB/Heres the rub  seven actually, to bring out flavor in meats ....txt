@@ -1,0 +1,6 @@
+We attempted to send a notification to your email address but we were unable to verify that you provided a valid email address.
+         Please click here to update your email address if you wish to receive notifications.
+         Otherwise, you may click here to disable notifications and hide this message.
+Your session was unable to be renewed and will be expiring in 0 seconds. 
+            Click here to attempt to renew your session.
+Sign up for our Newsletters! Today's news in your inbox Sign up Now!

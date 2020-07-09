@@ -1,0 +1,12 @@
+Binance Research has found a correlation between Bitcoin and US equity indexes in the first quarter — but predicts it won’t last for long.
+In a new report Binance Research found a ‘moderate’ positive correlation between Bitcoin and US equities during the first quarter of 2020 — but neither was correlated to gold.
+Bitcoin was down 10% over the quarter but still outperformed the S&P 500 which experienced a 19% drop. According to the report, the correlation was fairly high at 0.57, as shown through similar patterns in daily business day returns.
+Gold and long-term treasuries showed no relationship to other markets as they rose by 8% and 23% respectively.
+The good news for hodlers is that the Binance Research analysts concluded their report by stating:
+“Despite Bitcoin displaying a significant positive correlation with US equities in the first quarter of 2020, this high correlation coefficient remains very unlikely to persist in the medium to long term.”
+This mirrors the analysis by the CEO of Pantera Capital Dan Morehead, who told investors that historically speaking Bitcoin’s correlation with stock market falls only lasted for the first few months.
+Bitcoin and Ethereum, demonstrated a record-high correlation with a rate of 0.93. Only a few of the major cryptocurrencies bucked this trend, such as Link and XTZ, which showed overall positive gains primarily due to project specific developments.
+The report feeds into the ongoing debate about whether Bitcoin is or is not an uncorrelated asset. Bitcoin proponents have been disappointed to see BTC moving in tandem with traditional markets during the crisis — though there have been some signs recently Bitcoin may be treading a more independent path.
+Since most altcoins are correlated to Bitcoin, and Bitcoin is correlated to traditional markets, this could imply most altcoin are indirectly correlated with traditional assets.
+The crypto industry (represented by the CMC 200 index as the industry benchmark) showed strong signs of support during the first quarter, prior to the pandemic. Gains recorded in January of almost 30% were diminished by moderate negative returns in February before the market crash of 46% in mid-March from the yearly high.
+Immediately after the crash, the index stabilized before going on a recovery trend that has continued to date, increasing almost 30%.

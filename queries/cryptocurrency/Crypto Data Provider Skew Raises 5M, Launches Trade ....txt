@@ -1,0 +1,17 @@
+Please consider using a different web browser for better experience.
+Please enable JavaScript in your browser for a better site experience.
+Crypto Data Provider Skew Raises $5M, Launches Trade Execution Platform
+Skew's founding team, Emmanuel Goh and Tim Noat. (Credit: Skew)
+Crypto Data Provider Skew Raises $5M, Launches Trade Execution Platform
+London-based Skew, a provider of real-time data analytics for crypto derivatives, has launched a trade execution platform and raised $5 million to help build out its new brokerage services.
+Announced Wednesday, skewTrading is a partnership with U.K.-based Kyte Broking focused on attracting institutional investors entering the cryptocurrency space. The $5 million in funding, led by London-based Octopus Ventures, adds to a $2 million seed round raised in September of last year.
+Before co-founding Skew in September 2018, Emmanuel Goh and Tim Noat worked as equity derivatives traders for U.S. banks JPMorgan and Citigroup. To begin with, skewTrading will focus on over-the-counter (OTC) execution of Chicago Mercantile Exchange (CME) block trades for bitcoin futures and bitcoin options on futures contracts.
+“We are still at a stage with crypto where the key institutional moment hasn’t really occurred yet,” said Goh. “So you want to build a bridge really. We decided to cover first the CME futures and options product because we believe this is where those institutions will get comfortable first.”
+A good example of this was the recent news that New York-based hedge fund Renaissance Technologies is considering adding CME bitcoin futures to the instruments it trades.
+The bulk of the interest is coming from crypto-native asset managers, hedge funds and OTC desks, said Goh, but once in awhile a traditional asset manager, hedge fund or big bank will sign up for Skew’s derivatives analytics.
+“It’s not the majority, but we do see it regularly. Those guys are watching and doing their homework,” he said.
+The partnership with Kyte means Skew becomes the former’s “Appointed Representative” with the UK’s Financial Conduct Authority (FCA). Goh said Kyte’s National Futures Association (NFA) membership helps with access to U.S. clients.
+Skew, which currently has a headcount of nine, plans to double in size over the next half year with a focus on building up its engineering firepower. (Ian Brennan, previously head of technology at digital agency Fathom, which counted Tradeweb and MarketAxess as customers, recently joined Skew as head of product.)
+Goh said that while there has been a lot of focus on areas like custody and settlement in the crypto space, the brokerage aspect has not been addressed as much, which is where Skew is taking a nimble fintech approach.
+“There is an element here of trying to unbundle a little,” he said. “Some crypto companies are trying to do everything and here we want to focus on the stuff we are good at.”
+The leader in blockchain news, CoinDesk is a media outlet that strives for the highest journalistic standards and abides by a strict set of editorial policies . CoinDesk is an independent operating subsidiary of Digital Currency Group, which invests in cryptocurrencies and blockchain startups.

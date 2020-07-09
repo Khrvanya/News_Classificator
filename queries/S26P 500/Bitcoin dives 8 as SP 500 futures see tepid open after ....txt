@@ -1,0 +1,14 @@
+Nick Chong · April 13, 2020 at 4:04 am UTC · 2 min read
+This Exchange News was brought to you by OKCoin, our preferred Exchange Partner.
+The rally, unfortunately, did not last for long. After rallying to $7,000 and holding above this key psychological price point for all of five hours, Bitcoin has plunged. In the past three hours, which comes as the critical weekly candle ends, the cryptocurrency has shed more than eight percent, tumbling from the highs at $7,200 to a low of $6,580.
+This move was largely unexpected, with data from derivatives tracker Skew.com indicating that $35 million worth of BitMEX long positions has been liquidated in the past three hours, over the course of Bitcoin’s latest bout of weakness.
+This is far below the hundreds of millions liquidated last month but still more than the $14 million liquidated during the crash from $7,400 to $6,900 seen in the middle of the chart above.
+It appears that Bitcoin’s recent drop is a result of its ongoing correlation with risk assets , namely the American stock market in the S&P 500 index.
+After a strong bounce from the capitulation lows, which coincided with an impressive Bitcoin rally from the $5,000s to a high of $7,470, the futures price for the S&P 500 has shown signs of weakness, down nearly two percent on the session as of the time of this article’s writing.
+Prominent investors expect the stock market to fall further as the economic reality of the coronavirus crisis continues to set in, with Guggenheim’s CIO Scott Minerd calling for a 40% correction of the S&P 500 to 1,500 points, suggesting Bitcoin, too, could fall.
+While there’s no guarantee the stock market will continue to fall from here in the short term, crypto traders are preparing for some imminent downside in Bitcoin.
+In the three hours since the drop began, BTC-denominated open interest on BitMEX’s Bitcoin market has risen by approximately 3,000 coins from 71,000 to 74,000 while the price has sunk, Skew.com data indicates.
+Although it isn’t clear what side traders are taking, short-selling seems to be ramping up as TensorCharts indicates that throughout this drop, the predicted/expected funding rate on BitMEX positions has fallen from -0.0112 percent per eight hours to -0.0363 percent. This suggests there are outsized shorts to longs.
+The technical is purportedly there for Bitcoin to trend lower, even after the “fakeout” past $7,000 earlier today.
+Popular crypto trader “Mayne” pointed out in the wake of this move that Bitcoin is in the midst of falling out of a bearish textbook pattern, a rising wedge, the same pattern that marked the $10,500 top in February of this year and preceded the spectacular 50% crash.
+Bitcoin , currently ranked #1 by market cap, is down 1.72% over the past 24 hours. BTC has a market cap of $123.11B with a 24 hour volume of $38.52B.

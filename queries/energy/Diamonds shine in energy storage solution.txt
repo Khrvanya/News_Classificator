@@ -1,0 +1,19 @@
+Researchers have proposed the design of a new carbon nanostructure made from diamond nanothreads that could one day be used for mechanical energy storage, wearable technologies, and biomedical applications.
+QUT researchers have proposed the design of a new carbon nanostructure made from diamond nanothreads that could one day be used for mechanical energy storage, wearable technologies, and biomedical applications.
+Dr Haifei Zhan, from the QUT Centre for Materials Science, and his colleagues successfully modelled the mechanical energy storage and release capabilities of a diamond nanothread (DNT) bundle -- a collection of ultrathin one-dimensional carbon threads that store energy when twisted or stretched.
+"Similar to a compressed coil or children's wind-up toy, energy can be released as the twisted bundle unravels," Dr Zhan said.
+The new carbon structure could be a potential micro-scale power supply for anything from implanted biomedical sensing systems monitoring heart and brain functions, to small robotics and electronics.
+"Unlike chemical storage such as lithium ion batteries, which use electro-chemical reactions to store and release energy, a mechanical energy system itself would carry much lower risk by comparison," Dr Zhan said.
+"At high temperatures chemical storage systems can explode or can become non-responsive at low temperatures. These can also leak upon failure, causing chemical pollution.
+"Mechanical energy storage systems don't have these risks so make them more suited to potential applications within the human body.
+"Carbon nanothread bundles could be made into twist-spun yarn-based artificial muscles that respond to electrical, chemical or photonic excitations.
+Dr Zhan's team found the nanothread bundle's energy density -- how much energy it could store for its mass -- was 1.76 MJ per kilogram, which was 4-5 orders higher than a conventional steel spring, and up to 3 times compared to Li-ion batteries.
+"Energy dense materials are very important to many applications, which is why we are always looking for lightweight materials that still perform well.
+"The benefits for aerospace applications are obvious. If we can reduce the weight of a system, we can significantly reduce its fuel requirements and costs."
+The application of carbon nanothread bundles as an energy source could be endless, according to Dr Zhan.
+"The nanothread bundles could be used in next-generation power transmission lines, aerospace electronics, and field emission, batteries, intelligent textiles and structural composites such as building materials.
+Research findings were published by Nature Communications in the paper: 'Ultra-high Density Mechanical Energy Storage with Carbon Nanothread Bundle', and form the basis of Dr Zhan's ARC Discovery project -- 'A Novel Multilevel Modelling Framework to Design Diamond Nanothread Bundles'.
+Dr Zhan and his team are now planning production of an experimental nanoscale mechanical energy system as proof of concept.
+Dr Zhan said the research team would spend the next two to three years building the control mechanism for the system to store energy -- the system which controls twisting and stretching of the nanothread bundle.
+Materials provided by Queensland University of Technology . Note: Content may be edited for style and length.
+Haifei Zhan, Gang Zhang, John M. Bell, Vincent B. C. Tan, Yuantong Gu. High density mechanical energy storage with carbon nanothread bundle. Nature Communications, 2020; 11 (1) DOI: 10.1038/s41467-020-15807-7

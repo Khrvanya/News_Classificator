@@ -1,0 +1,22 @@
+Our pathetically slow shift to clean energy, in five charts
+We’d better pick up the pace in the 2020s.
+By most measures that matter, clean energy had a stellar decade.
+The cost of large wind and solar farms dropped by 70% and nearly 90% , respectively. Meanwhile, renewable-power plants around the world are producing four times more electricity than they did 10 years ago.
+Similarly, electric vehicles were barely a blip at the outset of the 2010s. But automakers were on track to sell 1.8 million EVs this year, as range increased, prices fell, and companies introduced a variety of models.
+But the swift growth in these small sectors still hasn’t added up to major changes in the massive global energy system, or reductions in greenhouse-gas emissions. So far, cleaner technologies have mostly met rising energy demands, not cut deeply into existing fossil-fuel infrastructure, as the charts that follow make clear.
+That’s a problem. Cutting emissions rapidly enough to combat the increasing threats of climate change will require complete overhauls of our power plants, factories, and vehicle fleets, all within a few decades.
+(See our related year-end story on this topic, highlighting the continued rise in greenhouse gases and increasing dangers from climate change through the 2010s.)
+Global electricity generation from renewables, primarily wind and solar, soared from about 550 terawatt-hours in 2008 to nearly 2,500 in 2018, according to the 2019 BP Statistical Review of World Energy .
+But here’s what that growth looks like in the context of the total power sector. Renewables are the thin green slice on top, rising but dwarfed by other sources.
+One issue is that total electricity generation is climbing as the population grows, economies expand, and energy demands rise. The world is building a lot of solar and wind farms to meet those needs. But nations continue to build coal and natural-gas plants as well.
+There’s another problem too. As the electricity system expands, the share of other carbon-free sources is either relatively flat (in the case of hydroelectricity) or declining (in the case of nuclear). That means the total contribution from carbon-free sources has increased only a bit over the last decade, ticking up from 32% to a little more than 35%.
+The same general trends are true in the case of electric vehicles, except that they represent an even a smaller subset of the global market. Sales are booming in major markets around the world, at least relative to the low starting point earlier in the decade.
+But they’ve barely put a dent in total worldwide auto sales, which topped 80 million last year, as this BloombergNEF data highlights:
+Most auto observers believe electric vehicles will really take off once battery-powered cars and trucks become as cheap as gas-powered varieties. But there’s wide disagreement on when batteries, which account for about a third of the cost of such vehicles, will be inexpensive enough for that to happen.
+Even then, it could easily take another couple of decades to turn over all the vehicles on the roads—and of course, cars and trucks represent only one piece of the transportation system that needs to be fixed.
+By the end of the century, the global electricity system may need to be five times larger to meet projected population growth, rising standards of living, and the “electrification” of larger parts of the economy. That includes the growing use of electricity to fuel cars, run stoves, and heat buildings.
+And, of course, all of it will need to be carbon free.
+Building such a system fast enough to limit global warming to 2 ˚C would require our annual rate of clean energy additions to quintuple by 2040, according to a recent analysis by the Breakthrough Institute .
+Here’s what that growth curve would look like:
+(The analysis is based on the UN climate panel’s “middle-of-the-road” scenario , which assumes that economic growth, population patterns, and other trends generally follow historic patterns.)
+If we stick to the average rate of clean energy additions during the last five years, it would take about 360 years to build a system of that size, Breakthrough’s Seaver Wang found. If we did it at the fastest rate in the last five years, it’d still take nearly 260 years.

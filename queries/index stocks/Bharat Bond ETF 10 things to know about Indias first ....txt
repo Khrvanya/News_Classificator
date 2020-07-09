@@ -1,0 +1,36 @@
+2 min read . Updated: 04 Dec 2019, 05:14 PM IST Edited By Surajit Dasgupta
+The government today approved the launch of Bharat Bond ETF, India's first corporate bond exchange traded fund, comprising debt of state-run companies, a move which will allow retail investors to buy government debt. It will provide retail investors easy and low-cost access to bond markets, with smaller amount as low as ₹1,000. ETFs invest in a basket of securities representing an index, security or commodity and are traded on the stock exchange like any security listed on the exchange.
+1) Bharat Bond ETF will be a basket of bonds issued by central public sector enterprises/undertakings or any other government organization bonds. (Initially, all AAA rated bonds.)
+1) Bharat Bond ETF will have a fixed maturity of three and ten years and will trade on the stock exchanges.
+2) It will invest in a portfolio of bonds of state-run companies and other government entities.
+3) The government has so far allowed only equity ETFs, and the government raised nearly ₹14,400 crore through ETFs in the 2019/20 fiscal year beginning April. Retirement fund body Employees Provident Fund (EPFO), has invested about ₹87000 crore in ETFs.
+4) Bharat ETF will track an underlying index on risk replication basis, matching credit quality and average maturity of the index. The index will be constructed by an independent index provider, National Stock Exchange.
+5) As of now, Bharat Bond ETF will have two maturity series - 3 and 10 years. Each series will have a separate index of the same maturity series.
+6) Experts have welcomed the development. Rohit Karkera, executive director at Waterfield Advisors, said that Bharat bond ETF would enable deepening the corporate bond market with enhanced retail participation.
+7) "The 0.0005% cost structure makes it the cheapest available investment option. The success, however, will depend upon the market makers' ability to provide adequate liquidity, which would ensure effective price discovery," he added.
+8) Bond ETF will provide safety (underlying bonds are issued by CPSEs and other government owned entities), liquidity (tradability on exchange) and predictable tax efficient returns, the government said in a statement.
+9) Bond ETFs will provide tax efficiency as compared to bonds, as coupons (interest) from the bonds are taxed depending on the investor's tax slab, the govt said. Bond ETFs are taxed with the benefit of indexation which significantly reduces the tax on capital gains for investor.
+10) Long-term capital gains (holding period of over 3 years) on bond funds are taxed at 20% after indexation. Indexation is the process of adjusting the purchase price of an investment for inflation, which helps bring down the quantum of capital gains.
+* Thank you for subscribing to our newsletter.
+Click here to read the Mint ePaperLivemint.com is now on Telegram. Join Livemint channel in your Telegram and stay updated
+You are now subscribed to our newsletters. In case you can’t find any email from our side, please check the spam folder.
+lozad('.lozad', { load: function(el) { el.src = el.dataset.src; el.onload = function() { el.classList.add('fade')}}}).observe()
+.myAccount .planSec, .myAccount a.LinkCTA{padding:16px; margin:16px; box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.1); background-color: #fff;}
+	       		var userData = data;
+	       		var name = userData.name;
+	       		var email = userData.email;
+	       		var signupSource = userData.source;
+	       		var subscribedAtOnce = userData.subscribedAtOnce;
+	       		var plan  = userData.plan;
+	       		document.getElementById('uName').innerHTML = "<strong>"+name+"</strong>" + email;
+		       		var status = planData.status;
+		       		var purchaseSource = planData.source_device;
+			       		var nextActivationDate = planData.current_term_ends_at;
+			       		var planDescription = planData.plan.description;
+			       		var planName = planData.plan.name;
+			       		var planPrice = planData.amount;
+			       		//var planInterval = planData.shipping_interval;
+			       		var planInterval = planData.duration;
+			       		var planUnit = planData.interval_unit;
+			       		//var html = "<strong>Your Subscription Plan</strong>"+planName+" ₹"+planPrice+" / "+planInterval+" " + nextBillingHtml + cancelHtml; 
+			       		var html = "<strong>Your Subscription Plan</strong> "+planDescription + " "+ planName +": ₹"+planPrice + " "+ nextBillingHtml + cancelHtml;

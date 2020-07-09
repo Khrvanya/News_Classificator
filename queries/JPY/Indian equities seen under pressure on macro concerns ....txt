@@ -1,0 +1,40 @@
+Pivot Or Perish Market Dashboard India-China Face-Off The Future Of Covid Tracker Lounge Coronavirus India2Global Emerging Tech Conclave #WFHLife Long Reads Money With Monika, Season 4 Mint 50 - Top Mutual Funds Plain Facts Mark To Market Podcasts Money With Monika, Season 3 Companies Markets Money Start-ups Mutual Funds Insurance Technology Industry Opinion Politics
+Home > Markets > Stock Markets >Indian equities seen under pressure on macro concerns, wobbly Asian peers
+Indian equities seen under pressure on macro concerns, wobbly Asian peers
+2 min read . Updated: 13 Feb 2020, 08:42 AM IST Nasrin Sultana
+Mumbai: Indian stock markets are likely to be under pressure on Thursday following weakness in global peers while domestic economic data weighs on sentiment.
+India's factory output contracted in December and retail inflation shot up to a 68-month high in January, according data released on Wednesday, a day after the government cited seven economic indicators to claim that there was growth revival.
+The National Statistical Office on Wednesday said the index of industrial production (IIP) shrank 0.3% in December compared to a 1.8% expansion a month ago, while retail inflation accelerated to 7.59% in January from 7.35% in the previous month.
+Shares of Yes Bank are likely to be in focus as the private lender on Wednesday said it has received non-binding expressions of interest from at least four "prominent investors" and the capital raising effort will lead to a delay in publishing its December quarter financial results to on or before 14 March.
+Meanwhile, Asian stock markets wobbled and safe-havens Japanese yen, gold and bonds rose in early deals on Thursday as the number of new coronavirus cases jumped sharply.
+China's Hubei province, the epicenter of the virus outbreak, reported 242 new deaths and confirmed 14,840 new cases as on 12 February, a dramatic rise from the 2,015 new cases a day earlier.
+The increase was the result of a new methodology adopted provincial officials to count infection cases although it was not immediately clear how the new methods affected results, nor why the death toll rose so sharply.
+The spike dashed hopes that the spread of the virus was slowing, sending the Japanese yen 0.2% higher against the dollar and pushing yields on US 10-year Treasuries about 3 basis points lower.
+It also capped gains on stock boards, with MSCI's broadest index of Asia-Pacific shares outside Japan 0.04% weaker, despite a strong rally on the Wall Street overnight. Japan's Nikkei was 0.2% lower, while Australia's ASX/S&P 200 index retreated from a record high.
+The yen last traded at 109.91 per dollar while export-exposed currencies, which had rallied on confidence the virus could be contained, retraced rises.
+The Australian dollar lost 0.2%, as did China's yuan and the Korean won. Gold rose 0.3% to $1570.30 per ounce.
+More than 1,300 people have died from the epidemic in China and the total number of cases in Hubei province now stands at 48,206.
+The Chinese economy has also been upended, with factory closures hitting supply chains - from car makers to tech firms.
+* Thank you for subscribing to our newsletter.
+Click here to read the Mint ePaperLivemint.com is now on Telegram. Join Livemint channel in your Telegram and stay updated
+You are now subscribed to our newsletters. In case you can’t find any email from our side, please check the spam folder.
+lozad('.lozad', { load: function(el) { el.src = el.dataset.src; el.onload = function() { el.classList.add('fade')}}}).observe()
+.myAccount .planSec, .myAccount a.LinkCTA{padding:16px; margin:16px; box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.1); background-color: #fff;}
+	       		var userData = data;
+	       		var name = userData.name;
+	       		var email = userData.email;
+	       		var signupSource = userData.source;
+	       		var subscribedAtOnce = userData.subscribedAtOnce;
+	       		var plan  = userData.plan;
+	       		document.getElementById('uName').innerHTML = "<strong>"+name+"</strong>" + email;
+		       		var status = planData.status;
+		       		var purchaseSource = planData.source_device;
+			       		var nextActivationDate = planData.current_term_ends_at;
+			       		var planDescription = planData.plan.description;
+			       		var planName = planData.plan.name;
+			       		var planPrice = planData.amount;
+			       		//var planInterval = planData.shipping_interval;
+			       		var planInterval = planData.duration;
+			       		var planUnit = planData.interval_unit;
+			       		//var html = "<strong>Your Subscription Plan</strong>"+planName+" ₹"+planPrice+" / "+planInterval+" " + nextBillingHtml + cancelHtml; 
+			       		var html = "<strong>Your Subscription Plan</strong> "+planDescription + " "+ planName +": ₹"+planPrice + " "+ nextBillingHtml + cancelHtml;

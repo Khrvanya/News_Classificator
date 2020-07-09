@@ -1,0 +1,25 @@
+Speculative bet or inflation hedge? Bitcoin in the coronavirus crisis
+LONDON (Reuters) - Bitcoin has fared better than stocks but worse than gold and U.S. Treasuries during the coronavirus pandemic, with investors ascribing its performance to speculative bets and bids to hedge against inflation linked to stimulus measures.
+Enthusiasts have laid out numerous narratives for bitcoin as an investment proposition through its first 12 years - from a rebel technology set to upend the financial system to a  groundbreaking payments network; from an uncorrelated asset to a hedge against inflation-inducing government policies.
+Here are some charts that illustrate bitcoin’s price performance during the coronavirus pandemic - and offer some clues as to what is driving investor behaviour.
+Bitcoin has this year done better than both U.S. and world stocks, posting a loss of around 5% compared to respective drops of 13% and 16% for the S&P 500 and MSCI All-Country World Index.
+Like equities and other riskier assets, bitcoin surged in the wake of unprecedented stimulus packages launched by governments and central banks in mid-March to mitigate the economic damage caused by the coronavirus.
+The cryptocurrency has soared 80% since mid-March, partly because it offers the chance of quick returns as the stimulus measures wash into markets, investors and traders said.
+Bitcoin and cryptocurrencies have appealed to investors as “they can offer a potentially higher risk-reward scenario that they cannot find in other assets”, said Michael Sonnenshein, managing director of Grayscale, the world’s biggest cryptocurrency asset manager.
+Graphic - Down but not out: Bitcoin outperforms stocks in 2020: here
+Enthusiasts say bitcoin is immune to the impact of geopolitical tensions or government policy because of its decentralised nature. Unlike central bank-issued money, miners competing to solve computer puzzles produce bitcoin.
+With a supply capped at 21 million, the argument goes, its scarcity gives it an innate value and shields it from central banks moves or policies that stoke inflation.
+But in 2020, bitcoin fared worse than traditional safe havens like gold, up 11%, and U.S. 10-year Treasuries, gains on which have climbed 14%. On March 12, when bitcoin crashed 40% to its worst single day since 2013, other so-called safe havens proved far more resilient.
+“The idea that it is a safe haven in the manner that gold is - I don’t think recent moves bear that out,” said Sui Chung of CF Benchmarks, a crypto benchmark provider.
+Bitcoin’s gains, some investors say, were driven in part by bets it can hedge any future inflation caused by government stimulus measures.
+“It’s not just the U.S. story, but more or less every major government is doing that to a similar magnitude,” said Richard Galvin, of crypto fund Digital Asset Capital Management.
+Graphic - Bitcoin as a safe haven? 2020 returns suggest not: here
+Bitcoin’s notorious volatility has hobbled its use as a means of payment and scared off large, long-term investors such as pension funds - but attracted hedge funds and high-frequency traders, who make money on short-term price moves.
+While volatility has gripped markets of all stripes during the coronavirus crisis, bitcoin’s price moves have soared - a boon for speculative traders who seek to trade on spreads across multiple platforms, major crypto exchanges say.
+“You have high-frequency trading firms that trade on the scent of the spread to make money,” said Paolo Ardoino, chief technology officer at the major Bitfinex exchange, adding that they are rarely concerned with narratives surrounding bitcoin.
+“Whether it’s milk or potatoes or bitcoin, they would trade anything - so they really don’t care about the philosophical point of view.”
+As bitcoin volatility jumped, major cryptocurrency exchanges saw huge spikes in volume in mid-March. Many investors sold off bitcoin - like other assets - to raise cash for margin calls, analysts said.
+Daily volumes at the world’s top exchanges jumped to $21.6 billion on March 13, their highest in seven months and among the highest on record, research firm CryptoCompare said. Trading of crypto derivatives such as bitcoin futures - often favoured by high-frequency traders - also climbed in March to its highest on record.
+For an interactive version of the below chart, click here: reut.rs/2x1jb7i
+Graphic - Cryptocurrency volumes jump in March: here
+Reporting by Tom Wilson and Ritvik Carvalho; Editing by Nick Macfie

@@ -1,0 +1,19 @@
+Copper-coated door handles have emerged as a quick and cost-effective solution to help stop the spread of the coronavirus.
+As the global race to find a vaccine for COVID-19 continues, researchers from Charles Darwin University (CDU) in the Northern Territory have teamed up with a 3D-printing firm on a technology that coats door handles with copper, potentially reducing transmission of viruses and bacteria in high-traffic areas.
+CDU director of research and innovation Dr Steve Rogers said copper could reduce the survival of the virus on surfaces in public places such as schools and hospitals.
+“Copper has been known to be an antimicrobial agent for hundreds of years,” he said.
+“It is toxic and it interferes with the cell wall of microbes and interrupts biochemical activity. Before the advent of modern pesticides and herbicides, copperoxycloride was used extensively in agriculture, and in fact it’s still used in viticulture today,” he said.
+In a collaboration with industry partner SPEE3D, Rogers’ team created ACTIVAT3D copper, which was developed by modifying existing 3D-printing technology with new algorithms.
+“The machine uses very fine metal powders, heated to about 500 degrees celsius,” Rogers said.
+“It then acts like a very fine water jet and sprays the metal from a nozzle onto a plate, which moves rather than the nozzle. We can attach a handle onto that plate and it moves around so that you create the actual 3D design.”
+A clinical trial by the National Association of Testing Authorities-accredited clinical trial speciality laboratory, 360Biolabs, using the ACTIVAT3D copper on a live sample of SARS-CoV-2 – the virus that causes COVID-19 – found that touch surfaces modified by this process “contact killed” 96 per cent of the virus in just two hours.
+The project took about a month for the scanning and software algorithms to coat objects to be created by SPEE3D.
+“On an average stainless steel door handle, coating it with copper using the machine takes about 5 minutes, and costs around $100,” Rogers said.
+Not only is the technology ready to deploy now to help fight the spread of the coronavirus, it is also highly applicable to other fields.
+“We are producing designs for any complex 3D metal object you can produce, including for the military, who are very interested in this technology,” Rogers said.
+“The military has to hold huge inventories of spares, such as propellor blades. In times of conflict, they have to transport those spares to where the conflict is occurring. So, if you had a 3D printer, then all you need to do is transport the various metal powders and manufacture the items when they are required.”
+SPEE3D metal 3D-printing technology will be deployed to assist Australian Army soldiers in remote locations. (Image: SPEE3D)
+The technology is not restricted to copper, with the team currently working on solutions involving aluminium and an aluminium-bronze compound. Rogers said was still a fairly new field, so different alloys were being developed.
+“SPEE3D has patented the software algorithms they have developed. In CDU’s partnership with them, we are doing a lot of fundamental research on things such as the metallurgy and material characterisation of 3D-printed objects and new ways of doing it.”
+While the technology won’t save the world from COVID-19, Rogers said it could play a small part in halting the spread of the disease.
+“The project is a great example of a university working with an industry partner and very quickly being able to develop something innovative. It’s not going to wipe out the virus, but it’s another tool in the toolbox to help get us through this pandemic.”

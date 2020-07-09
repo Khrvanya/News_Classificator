@@ -1,0 +1,14 @@
+Please consider using a different web browser for better experience.
+Please enable JavaScript in your browser for a better site experience.
+The cryptocurrency markets were shaken Wednesday amid a flurry of selling that saw more than $190 million worth of longs and shorts liquidated on well-known derivatives exchange BitMEX.
+According to data analytics provider Skew, around $6.1 million buy and $190 million sell liquidations occurred, bringing it to a total of around $196 million worth of bitcoin (BTC) long and short positions.
+Beginning at around 14:00 UTC on Feb. 26, the price of BTC began to fall below $9,000 . An hour later BitMEX saw its largest amount of liquidations since the new year began, rising well above $100 million.
+The move in the derivatives market comes during a sell-off in crypto’s spot market that saw BTC’s price fall more than 6 percent to a low of $8,675, CoinDesk BPI data shows.
+Amid global coronavirus tensions, traditional markets are also in turmoil with major indices such as the S&P500 and Dow Jones Industrial down more than 7 percent on the week.
+BTC’s latest price action continues to throw cold water on the notion that cryptocurrencies can act as safe-haven assets during times of uncertainty around stocks and bonds with some of the largest levels of derivative volume ever witnessed.
+“Bitcoin has been uncorrelated to other asset classes.  If stocks drop, this does not mean bitcoin has to pump. If gold prices climb, this does not mean bitcoin will rise with it every time,” Coinist research analyst Luke Martin noted in a tweet .
+In addition, options volumes on OKEx, another popular crypto derivatives exchange, saw the largest uptick of notional volume in its history, above the $15 million mark.
+Notional volume is the value of the underlying asset in the derivatives market. It can be the total value of a position, how much value a position controls, or an agreed-upon amount in a contract.
+When there is a large amount of notional volume on a downward price, that generally signals the movement as a legitimately bearish one.
+Traders now need to look toward the 200-day moving average near $8,773, as failure to close above would likely result in deeper losses in the coming weeks.
+The leader in blockchain news, CoinDesk is a media outlet that strives for the highest journalistic standards and abides by a strict set of editorial policies . CoinDesk is an independent operating subsidiary of Digital Currency Group, which invests in cryptocurrencies and blockchain startups.

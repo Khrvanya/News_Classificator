@@ -1,0 +1,11 @@
+"This VPN uses a technique called DNS tunneling, which refers to when the DNS process is used not for a domain resolution, but to transfer data or tunnel inside of a closed network," they say.
+"We assess that this technique could be used by North Korean users to exfiltrate data from the networks of unsuspecting targets, or as a means of circumventing government-imposed content controls."
+And with the country having recently improved the accessibility of its four state-run insurers, they suggest that there may be plans to ramp up insurance fraud.
+Meanwhile, there's been a ten-fold increase in Monero mining from North Korean IP ranges since May 2019, probably thanks to the cryptocurrency's anonymity and low processing powere requirements.
+The research coincides with a new report from the US National Counterintelligence and Security Center (NCSC) which found North Korea to be one of the most active threat actors targeting the US.
+The main targets, it says, are critical infrastructure, key supply chains, the U.S. economy, American democratic institutions and cyber and technical operations.
+North Korean targets have included Sony, hacked in 2014, several banks and Windows machines around the world, hit by the WannaCry malware in 2017.
+"At its most basic, North Korea has developed a model that leverages the internet as a mechanism for sanctions circumvention that is distinctive, but not exceptional," the Recorded Futures researchers warn.
+"This model is unique but repeatable, and most concerningly can serve as an example for other financially isolated nations, such as Venezuela, Iran, or Syria, for how to use the internet to circumvent sanctions. "
+I've been writing about technology for most of my adult life, focusing mainly on legal and regulatory issues. I write for a wide range of publications: credits include
+I've been writing about technology for most of my adult life, focusing mainly on legal and regulatory issues. I write for a wide range of publications: credits include the Times, Daily Telegraph and Financial Times newspapers, as well as BBC radio and numerous technology titles. Here, I'll be covering the ways content is controlled on the internet, from censorship to online piracy and copyright. You can follow my posts by clicking the '  Follow' button under my name.

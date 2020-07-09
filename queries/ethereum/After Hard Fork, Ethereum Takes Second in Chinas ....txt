@@ -1,0 +1,8 @@
+China’s tech workgroup has released its fifteenth blockchain rankings report, with Ethereum being promoted to second place after its recent hard fork.
+China’s state-backed tech workgroup has released its fifteenth blockchain technology assessment, in which it promoted Ethereum to second place after its recent hard fork.
+The Center for Information and Industry Development (CCID) released the list on Dec. 6, ranking 35 assets in total.
+In the latest rankings, EOS kept its top spot, Ethereum moved from third to second, trading places with Tron ( TRX ). Bitcoin’s ( BTC ) network is ranked ninth, while Ripple did not even make the top ten, coming in at 18th.
+Top 20 blockchain networks per CCID’s 15th assessment. Source: CCID
+Ethereum’s promotion can be attributed with a moderate degree of certainty to its recent network upgrade. Before the hard fork took place, Ethereum co-founder Vitalik Buterin claimed that the network will reach over 3,000 transactions per second after the update.
+The upgrade has also seen wide support, with several popular exchanges announcing that they were going to update their nodes ahead of the hard fork. Still, some experts claim that the update is not enough and that Ethereum is far from becoming the “world computer” that it was marketed as.
+Recent reports suggest that blockchain is increasingly being developed and adopted in China. Just yesterday, Cointelegraph reported that China plans to conduct the first real-world test of its central bank digital currency and that Bank of China issued 20 billion yuan ($2.8 billion) in blockchain-based bonds for small and micro-enterprises.

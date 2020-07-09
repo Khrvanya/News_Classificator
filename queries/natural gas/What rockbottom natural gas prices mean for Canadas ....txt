@@ -1,0 +1,89 @@
+The headlines in oil and gas industry publications say it all. “LNG: From Hero to Zero.” “Giant LNG projects face coronavirus death or delay.” “The LNG market is ‘imploding.’ ”
+As most people focus on the oil price collapse, scant attention has been paid to the similarly poor fortunes of another fossil fuel — one in which B.C. is heavily invested through the LNG Canada project . The project would ship fracked gas from northern B.C. to Kitimat via the Coastal GasLink pipeline , where it would be cooled and liquefied for transport to Asia on tankers.
+The liquefied natural gas (LNG) industry was taking a hit even before the COVID-19 pandemic, with a glut in supply and several years of unusually warm winters reducing demand. But now the far-reaching global recession kindled by the pandemic has driven LNG prices to new rock-bottom lows, with prices falling faster than Brent crude .
+The LNG equivalent of a barrel of oil — in terms of energy — can now be purchased for US$11 on the Asian spot market, costing less than two pints of beer at your local pub (if drinking establishments were open, that is).
+That’s an 80 per cent drop from the price LNG fetched on the Asian spot market in October 2018, when LNG Canada announced its final investment decision.
+LNG carriers now idle off the west coast of India and Europe, unable to unload. Buyers have declared force majeure in efforts to wriggle out of contracts for LNG deliveries they no longer want.
+European LNG storage could be full in July instead of in the autumn, when it’s usually full, according to Robert Ineson, executive director of global LNG for IHS Markit.
+“The entire supply chain is clogging up,” Ineson told The Narwhal. “We’re seeing cargos cancelled, so they’re not getting into ships in the first place — in part because the price spreads don’t justify economically making the transaction but also, as you have cargos sitting in tankers, those tankers are not available to take on new cargos.”
+In April, less than four months into the year, the industry publication Natural Gas World pronounced 2020 a “catastrophic” year for LNG sellers, saying, “demand is declining, supply is growing and this will continue for some time.”
+Even in the unlikely event a vaccine is rapidly developed for COVID-19 and economies quickly rebound, analysts say a bonanza of new LNG projects around the world will keep a lid on prices, making some LNG export projects uneconomical.
+It all poses huge challenges for Canada’s aspiring LNG industry, which is still four years away from exporting a drop of liquefied natural gas.
+What do the pandemic and the rapidly changing global market mean for the LNG Canada project, which was only economically viable with an initial infusion of $5.35 billion in subsidies from the B.C. government?
+And what will happen to Canada’s other planned LNG projects, including the Woodfibre LNG project in Squamish, owned by Indonesian billionaire Sukanto Tanoto?
+Here are 10 things you should know as the pandemic takes a hit on the overlooked fossil fuel sitting in the shadow of the oil price collapse.
+1. What exactly is LNG anyway?
+LNG is natural gas that is cooled to liquid form, in an energy-intensive process, so it can be condensed and shipped in tankers. Once chilled to -162 C, the gas shrinks to about 1/600 of its previous volume.
+When LNG reaches its destination, it’s converted back into gas so it can be redistributed via pipelines. Unlike oil, which is primarily used for transportation — think planes, trains and automobiles — natural gas is most often used for heating, electricity and industrial production.
+Natural gas is often touted as a “clean” source of energy compared with other fossil fuels such as coal. But new research published in the journal Nature suggests natural gas is a much dirtier fossil fuel than previously thought, with emissions that can be comparable to coal.
+The LNG Canada project will be one of Canada’s largest single sources of carbon pollution, on par with Teck’s recently mothballed Frontier oilsands mine in terms of greenhouse gas emissions.
+2. Why are LNG prices falling?
+To understand why LNG prices were tumbling even before the pandemic, think of the basic supply-and-demand tenet of economics. When there’s not much of something and demand is high, prices rise. But when stores are teeming with a product and everybody has more than enough to satisfy their needs — say, zucchini in August — then prices drop.
+The world was already awash in LNG when COVID-19 cases were first reported in the Chinese city of Wuhan in late December , leading, just a few months later, to the worst economic downturn since the Great Depression, with no end in sight.
+“Even if you take away COVID-19, the world already had a lot of LNG,” said Kaleem Asghar, director of LNG analytics for ClipperData, which provides commodities analytics.
+A big wave of LNG has rolled into global markets over the past four to five years, in tandem with unusually mild winters in Europe, which have reduced the amount of gas required for heating.
+Dredging activities at the marine offloading facility in the Douglas Channel for LNG Canada’s project in Kitimat. Photo: JGC Flour
+Australia has significantly boosted capacity, recently overtaking Qatar — the world’s most cost-competitive source of LNG — as the global leader in production, while export capacity has also surged in countries such as Russia, Algeria and Egypt.
+On the U.S. Gulf Coast, LNG capacity has almost doubled over the past five years, according to Allan Fogwill, president and CEO of the Canadian Energy Research Institute.
+“In the time that Canada has taken to discuss the LNG Canada project, [LNG companies] have built four [export facilities on the Gulf Coast] and they’re building four more,” Fogwill said in an interview.
+“There’s been a significant investment in LNG in the United States and that, combined with the existing capacity in other jurisdictions, has meant that the market is well supplied at this point. You can see why the spot price would go down. No one’s building anything unless they’ve got a substantial portion of their capacity that’s under long-term contracts.”
+3. What impact has the pandemic had on LNG prices?
+In January, before the pandemic took hold, Asian spot market prices for LNG had already dipped to US$5.50 per one million metric British thermal units (mmBTU).
+That was already a 50 per cent reduction from the spot price in October 2018, when LNG Canada announced its final investment decision. The spot market indicates what an LNG buyer is willing to pay for a cargo in the short term.
+The unthinkable happened on April 28, as the impacts of the pandemic reverberated around the world. Platts Gas tweeted the news: “benchmark price for spot #LNG in Northeast Asia slumps to record low of $1.90/MMbtu.”
+“I’ve never seen it like this,” Asghar said. “It’s historical low prices.”
+“The economics of LNG is just imploding,” Seattle-based energy finance analyst Clark Williams-Derry told The Narwhal.
+4. What the heck is an mmBTU?
+Oil is measured in barrels, which are easy to envision. Thinking about gas volumes is a bit trickier. Natural gas is measured in gigajoules (metric) or what’s much more commonly known as one million metric British thermal units, or one mmBTU for short (the imperial measure).
+One barrel of oil is the equivalent of six gigajoules of gas in terms of energy.
+A new, average-sized, single detached home in Canada needs about 100 gigajoules of natural gas to heat it for one year, according to Natural Resources Canada.
+That’s the equivalent of about 9.5 mmBTU — which means it would cost $250 to heat the average new Canadian home for a year at current northeast Asian spot prices for LNG.
+5. What does the oil price collapse have to do with LNG?
+About 70 per cent of the world’s LNG is sold through long-term contracts, with the remainder offered on the spot market.
+Details of long-term, locked-in supply contracts are confidential, but analysts say the contracts have traditionally had a price mechanism linked to oil, such as Brent crude or what’s known as the Japanese Crude Cocktail, a weighted average.
+Enter the oil price collapse.
+When oil prices fall, the contract price for LNG that’s tied to an oil price falls, too, Ineson said. “But assuming the oil market recovers, those prices will go back up again.”
+Ineson said long-term contracts are “a bit of a bet” but ensure long-term supply for buyers. “If the market gets really tight and you don’t have a contract, you may find yourself high and dry. And that’s what they’re trying to avoid.”
+LNG Canada consortium members have signed a handful of long-term contracts with buyers, including one with Japan’s JERA , the world’s largest purchaser of natural gas, for 1.2 million tonnes of LNG a year.
+Trading house Vitol has signed a contract for 0.8 million tonnes of gas from LNG Canada annually. And Asian utilities Tokyo Gas, Toho Gas and Korea Gas Corp (Kogas) are also committed buyers for the project, for a total of about 2.4 million tonnes a year collectively, including the Vitol contract.
+But all of those contracts combined account for just one-quarter of the 14 million tonnes of LNG that will be produced annually during the first of two phases of the $40 billion project, according to the LNG Canada website .
+The Narwhal contacted LNG Canada for comment, but the consortium — a joint venture of Royal Dutch Shell, Petronas, PetroChina, Mitsubishi and Korean Gas  — did not respond.
+6. What does COVID-19 mean for the LNG industry?
+At least 10 global LNG projects, including projects in Australia, the U.S., Mozambique, Qatar, Mauritania and Senegal, have been put on hold over the past month.
+“They don’t quite recognize that their economic heart has stopped beating,” Williams-Derry said, noting that none have officially been cancelled.
+On March 30, Royal Dutch Shell — the company with the biggest share in LNG Canada at 40 per cent — announced it would pull out of a proposed LNG project in Lake Charles, Louisiana, leaving the project in the hands of a second investor.
+In most cases, project delays were pinned on the novel coronavirus, “while ignoring the fact that LNG prices were already deflating long before the worst impacts of the pandemic were being felt,” Williams-Derry wrote in an analysis for the U.S. Institute for Energy Economics and Financial Analysis.
+“The LNG industry thought it had a clear crystal ball,” he said in an interview. “LNG demand was rising. Asian demand was rising. And that gave them a clear pathway to profits.”
+7. What impact has the pandemic had on Canada’s LNG projects?
+Thirteen LNG export facilities are currently proposed for Canada — seven in British Columbia , four in Nova Scotia and two in Quebec. The LNG Canada project is the only one that has begun construction, building an export terminal in Kitimat and the Coastal GasLink pipeline that will feed it.
+But the COVID-19 pandemic is tarnishing project aspirations in Canada as well as abroad.
+On April 16, Calgary-based Pieridae Energy Ltd. said it would delay making a final investment decision for its proposed $10-billion LNG export facility in Nova Scotia because of depressed markets for LNG and the pandemic.
+Pieridae CEO Alfred Sorensen said the company will continue to lobby the federal and provincial governments for $1 billion in financial assistance to help build its Goldboro LNG project on the eastern shores of Nova Scotia, which would liquefy Alberta gas for export.
+Construction of the Cedar Valley Lodge, worker housing at the LNG Canada project in Kitimat, B.C. Photo: Bird-ATCO
+And in late March, American business magnate Warren Buffett, citing concerns about infrastructure and the Coastal GasLink railway blockades, pulled out of a proposed $9-billion LNG project in Quebec , leaving GNL Quebec, the company behind the project, searching for new investors.
+On March 24, Woodfibre LNG announced another delay in construction for its proposed export facility in Howe Sound on the southern B.C. coast, this time for one year, citing the pandemic as one factor.
+The project would see LNG offloaded from floating storage tanks near Squamish to LNG carriers that would traverse the waterways of Howe Sound three to four times a month.
+“Like many other Canadian companies, we are attempting to adjust timelines as the effects of COVID-19 unfold,” Woodfibre LNG said in a statement, reported by Offshore Energy , noting the virus “has had implications” for a vendor’s Chinese manufacturing facilities and fabrication yards.
+Also in March, Woodfibre LNG applied to the B.C. Environmental Assessment Office for a five-year extension to its environmental certificate, set to expire in October after several project delays.
+LNG Canada has scaled back its workforce due to the pandemic but says the project is still on track.
+8. How long will the LNG market be saturated?
+Ineson said things may worsen for the LNG industry over the summer, with storage inventories of gas already well above normal in all major markets.
+“You’ve lost a lot of demand with China slowing down and, even as they come back, they’re finding the markets for the things they manufacture are not there because the countries they would sell to are under lockdown of some sort.”
+As oversupply continues, analysts also note that LNG Canada is far from the only new horse in the race.
+According to the International Energy Agency, 2018 — when the LNG Canada project reached a final investment decision — saw a big uptick in final investment decisions for liquefaction facilities around the world.
+Then 2019 set a new record for the most liquefaction capacity ever sanctioned in a single year, with enough new LNG infrastructure announced to meet the needs of the entire European Union that year, the agency reported.
+9. Could the price of LNG become negative?
+Ineson said it’s unlikely LNG prices will become negative like oil prices , meaning companies would have to pay a buyer to take cargos off their hands.
+Instead, he said gas flows to LNG terminals will be curtailed, less gas will be liquefied and LNG tankers won’t sail as often.
+“The LNG business is going to test its limits of flexibility and will ultimately have to balance by shutting down some capacity,” he said.
+Already, gas flowing to U.S. LNG export facilities is down by almost one-third, Ineson noted.
+10. Will the LNG Canada project have a rosier future after the pandemic subsidies?
+Ineson said the LNG Canada project faced hurdles regardless of the pandemic.
+“It was a challenging future to begin with — not impossible, but challenging.”
+That’s largely because LNG Canada will be competing with other new LNG export facilities under construction and buyers are increasingly reluctant to sign long-term contracts, he said.
+Clark also said the project’s viability hinges largely on how its long-term contracts are structured.
+“If they are structured as oil-linked contracts then Shell might be in for a rough time financially with that investment. … I think that Shell could potentially find itself with an expensive asset that doesn’t actually withstand the test of time.”
+The LNG Canada project’s break-even point is about US$8 per mmBTU, according to Williams-Derry. That’s four times the current Asian spot price for LNG and 45 per cent higher than the spot price was before the pandemic.
+Although prices in the US$2-per-mmBTU range won’t last forever, the maximum price China is willing to pay in the long term will likely be in the range of US$7 per mmBTU, Williams-Derry noted.
+Updated on May 2, 2020, at 10:15 a.m. PST to correct a math error. LNG has contracts in place for one-quarter of production for the first phase of the project, not less than one-third as previously stated.
+Updated on May 12, 2020, at 9:12 a.m. PST to correct the cost of of heating the average new Canadian home for a year. The cost is $250, not $25 as previously stated.

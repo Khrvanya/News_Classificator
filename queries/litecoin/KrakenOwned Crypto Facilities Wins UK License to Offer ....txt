@@ -1,0 +1,12 @@
+Please consider using a different web browser for better experience.
+Please enable JavaScript in your browser for a better site experience.
+A London-based subsidiary of cryptocurrency exchange Kraken has been approved to operate its derivatives platform by the U.K.’s financial regulator.
+Crypto Facilities, also known as Kraken Futures, announced it had been granted a Multilateral Trading Facility (MTF) license from the U.K.’s Financial Conduct Authority (FCA) on Monday.
+The license will allow for institutional clients to trade on the futures platform who would otherwise be prohibited by law from trading on unlicensed exchanges.
+The news marks Crypto Facilities as the first and only licensed derivatives platform offering exposure to leveraged cryptocurrencies in the European Union, according to the company.
+Jesse Powell, the co-founder and CEO of Kraken, said sophisticated investors will now be able to access crypto derivatives in the EU "for the first time."
+While the U.K. is set to leave the EU at the end of the year, the deal is still being negotiated and it's not clear how regulatory licensing will treated after the event. Many firms are preparing for the possible eventuality that passporting will be revoked.
+The FCA is planning a limited ban on selling crypto derivatives like exchange-traded notes, arguing such products are “ill-suited” to retail investors.
+The regulator put out a warning about popular cryptocurrency derivatives exchange BitMEX in March, saying the firm had been targeting U.K. investors without its approval.
+Crypto Facilities was acquired by San Francisco-based Kraken in February 2019 in an undisclosed deal thought to be for at least $100 million.
+It currently offers up to 50x leverage on its bitcoin (BTC), ether (ETH), XRP (XRP), bitcoin cash (BCH) and litecoin (LTC) futures products.

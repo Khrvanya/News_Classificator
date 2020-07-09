@@ -1,0 +1,21 @@
+The hackers rely on social engineering tactics, like fake links in e-mails or on websites, to dupe victims into installing malicious code onto their devices and wider networks that will turn these into their mining tools.
+The hacker then ends up with a huge network mining cryptocurrency at their victims' expense.
+Cyber criminals increasingly prefer cryptojacking to other forms of attacks such as ransomware, as cryptojacking is often more profitable and presents a lower risk of being caught.
+Mr Yeo said: "It is now no longer profitable to mine cryptocurrency using one's own equipment and electricity. It is better to resort to hijacking other resources for the mining of cryptocurrency."
+The uptick in cryptojacking cases could be due to the increased number of people working from home (WFH) amid the Covid-19 pandemic, said Mr K.K. Lim, head of cyber security, privacy and data protection at law firm Eversheds Harry Elias.
+"We can definitely say that WFH increases the opportunity just like phishing, because some WFH 'home' computers may not update their security updates as it is a general computer used by everyone," said Mr Lim, referring to how some families might share the same device to access work e-mails or other corporate information.
+These workers could be using desktops in the office, and may not have been given an office device to work from home.
+Mr Yeo echoed Mr Lim's point, adding that the lower standards of cyber hygiene during this period could account for the spike.
+"This is especially true when employees are not paying attention to the resources and websites they visit," he said.
+Using their personal devices at home, workers might not be inclined to keep their security features up to date, especially since they might not have the full support of IT security teams.
+Cyber crime is on the rise this year, as more people work from home because of the Covid-19 pandemic.
+Security company VMWare Carbon Black said in April that ransomware attacks it monitored globally jumped 148 per cent in March from the previous month.
+Experts say that there are some signs to look out for if one suspects a device has been hijacked for cryptojacking.
+"The tell-tale signs for crypto mining can include the slowing down of computer speed, higher consumption of electricity and higher usage of Internet bandwidth," said Mr Bryan Tan, a lawyer from Pinsent Masons MPillay specialising in technology law and data protection.
+Mr Yeo of Kaspersky pointed out that the strain on a device's battery from mining could cause it to physically be deformed too, due to the wear and tear of having processing cores work overtime to obtain cryptocurrency.
+He pointed to a recent study by Kaspersky that found that after maliciously mining cryptocurrency for two days straight using mobile mining malware, phone batteries started to expand to the point of physically deforming the phones.
+"Batteries will run down much faster than before, and devices may run quite hot.
+"If the device uses a data plan, users will see data usage skyrocket," he added.
+Mr Lim said that having in place proper Internet browser security features, which can scan for malicious software, will go a long way to shield users from falling victim to cryptojacking.
+But he added that nothing beats practising good cyber hygiene habits.
+"Practising good basic cyber hygiene like not clicking on unknown links in e-mail, going to official government, commercial and legitimate websites for news and other information, having updated end-point security and constant training for corporates are some effective ways to avoid these crypto miners," he said.

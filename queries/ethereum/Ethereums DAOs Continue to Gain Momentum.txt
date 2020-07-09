@@ -1,0 +1,36 @@
+Please consider using a different web browser for better experience.
+Please enable JavaScript in your browser for a better site experience.
+Vitalik Buterin speaks with Jeff Roberts at ETHDenver 2020. (Credit: Will Foxley for CoinDesk)
+Decentralized autonomous organizations (DAOs) are back – at least for dogfooding purposes.
+Ethereum’s largest hackathon in North America, ETHDenver, showcased DAOs for event management and more. From coordinating the hackathon’s winners to purchasing meals at Capitol Hill food trucks in Denver’s historic Capitol Hill neighborhood, DAOs ran ETHDenver .
+Even the winning hackathon team was a DAO: Coz, a project aimed at being more efficient at distributing aid than non-profits, won the hackathon and $3,000 worth of DAI.
+Through interviews conducted with multiple teams at ETHDenver earlier this month, it became apparent that this isn’t 2016’s DAO , (the hacked smart contract that ultimately split the blockchain into ethereum (ETH) and ethereum classic (ETC)).
+Although use-cases remained limited in scope, DAO proponents are focusing on the inherent challenges of decentralized coordination with more caution this time around the block. If ETHDenver 2019’s focus on DeFi was an early indicator of that sector’s growth , DAOs could be much more prominent in 12 months’ time.
+Just like the first DAO, many are still about funding open source development for the ethereum network.
+MolochDAO, a fairly simple protocol that allows limited groups of friends to pool collective funds for issuing Eth 2.0 money grants, was the face of 2019. Launched in March 2019 , the DAO stripped the idea to the basics and raised funds from big-wigs such as ethereum co-founder Vitalik Buterin and ConsenSys CEO Joe Lubin.
+MetaCartel , a similar concept, followed in May 2019 and showcased its product at ETHDenver.
+As Axia Labs Founder and MetaCartel member James Waugh told CoinDesk in an interview, MetaCartel is an experiment on social signaling in the ethereum community compared to Moloch’s focus on Eth 2.0 (the next iteration of the ethereum blockchain based on the Proof-of-Stake (PoS) consensus algorithm).
+MetaCartel focuses on ethereum values and rewards teams that hold similar values in turn. Although the group’s treasury is small, a vote of confidence behind MetaCartel grants holds merit, particularly given the size of the ethereum community, Waugh said
+“The social signal we are able to give when we give a grant is the important piece. If we lose that, then there’s $200,000 in a multi-sig [wallet]. That’s not that interesting. But a functional social signal behind the $200,000 in the multi-sig is really interesting.”
+Moreover, it’s not about who’s in the group but what values the group has chosen to share and act upon, Waugh said. It’s hard to disagree with MetaCartel’s vision given the community’s oft-criticized devotion to certain founders.
+“The experiment isn’t meant to blow something up. It’s meant to be small, strategic, prove the experiment and move on from there,” Waugh said. “Signal is 10x the capital.”
+It’s not all crowdsourcing apps, though, said DAOstack events manager Felipe Duarte.
+A 15-year community organizer hailing from Brazil, Duarte said DAOs are quickly evolving into social organizations that add value to society.
+For him, DAOs are akin to the biological. Take bacteria floating in water, he said, which lack direction and purpose when unconstrained. The right limitations spur action, however.
+“If you get a container and start approximating the walls, there’s an optimum moment when the bacteria start following in predictable patterns. They form streams of movement that you could put a nano-turbine in and make energy just out of the desire of bacteria to do something,” Duarte said.
+DAOstack founded DAOfest, an event team that conducts dozens of DAO community gatherings around the globe based on the Genesis DAO protocol . Duarte said Genesis DAOs can have up to 350 people working within them, identifying problems while working within group guidelines.
+Luke Weber, co-founder of Caribbean Blockchain Network, said he has used the tech to organize social-impact events such as beach clean-ups, bringing together people who otherwise would not know each other or have an incentive to confront a community need.
+“This, for me, is the perfect metaphor of what the DAOfest is: Trying to find the optimum point between narrowness of focus and space for self-expression,” Duarte said.
+Lou Kerner, co-founder and CEO of community VC firm CryptoOracle, said DAOs take out the middleman and solve collective problems for the community.
+When asked if Genesis and DAOstack are overpromised, Kerner deferred to Amara’s Law .
+“The impact of all new technologies is overestimated in the short run and underestimated in the long run. That will be DAOs. People got very excited and then it broke. That’s what the internet was,” he said.
+While ETHDenver’s BuffiDAO, Coz, MetaCartel and DAOstack are looking to overturn the negative stereotype associated with DAOs, one is running headlong into the problem: OpenLaw’s LAO.
+In a phone interview with CoinDesk, OpenLaw CEO Aaron Wright said the firm has worked hard to address the legal questions presented by the first DAO.
+Even before the DAO split the ethereum community in half, the legality of pooling investor funds into a smart contract was questioned. OpenLaw has taken the concerns seriously, having the code audited and seeking legal consultation from multiple outside firms, said Wright.
+“What we were able to do is wrap all of this in legally binding agreements. We solved both the security issues related to the original DAO and also the legal issues,” said Wright.
+Wright said the firm will continue to spin up LAOs as driven by consumer demand.
+The benefits of democratized decision-making with VC funding remains to be seen, however. As crypto lawyer Preston Byrne told CoinDesk at the LAO’s Berlin announcement, the physical benefits of such a financial structure are highly dubious.
+“The ‘DAO’ here is not modeled after an LLC. It is an LLC,” he said at the time. “As an investment vehicle for venture funding, I do not find the structure particularly compelling or better for investors than existing methods.
+At ETHDenver, it became clear DAOs are still in the audit phase, as highlighted by the experience BuffiDAO itself. ETHDenver’s DAO was not quite stage-ready and had difficulties pairing the wallet and hackathon voting system. Some chose to pass on the tech toy.
+This year’s event was for dogfooding DAOs, next year will run on them, ETHDenver creator John Paller told CoinDesk as the event wrapped up.
+The leader in blockchain news, CoinDesk is a media outlet that strives for the highest journalistic standards and abides by a strict set of editorial policies . CoinDesk is an independent operating subsidiary of Digital Currency Group, which invests in cryptocurrencies and blockchain startups.

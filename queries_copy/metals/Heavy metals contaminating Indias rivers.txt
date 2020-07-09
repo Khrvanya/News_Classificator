@@ -1,0 +1,33 @@
+Samples from 65% of testing sites unsafe: survey
+Samples taken from two-thirds of the water quality stations spanning India’s major rivers showed contamination by one or more heavy metals, exceeding safe limits set by the Bureau of Indian Standards.
+The findings are part of a report, which is the third edition of an exercise conducted by the Central Water Commission (CWC) from May 2014 to April 2018.
+Samples from only one-third of water quality stations were safe. The rest, or 287 (65%) of the 442 sampled, were polluted by heavy metals. Samples from 101 stations had contamination by two metals, six stations saw contamination by three metals. Iron emerged as the most common contaminant with 156 of the sampled sites registering levels of the metal above safe limits. None of the sites registered arsenic levels above the safe limit.
+The presence of metals in drinking water is to some extent unavoidable and certain metals, in trace amounts, required for good health. However when present above safe limits, they are associated with a range of disorders.
+Long-term exposure to the above-mentioned heavy metals may result in slowly progressing physical, muscular, and neurological degenerative processes that mimic Alzheimer’s disease, Parkinson’s disease, muscular dystrophy and multiple sclerosis.
+The other major contaminants found in the samples were lead, nickel, chromium, cadmium and copper. The study spanned 67 rivers in 20 river basins. Lead, cadmium, nickel, chromium and copper contamination were more common in non-monsoon periods while iron, lead, chromium and copper exceeded ‘tolerance limits’ in monsoon periods most of the time. “Arsenic and zinc are the two toxic metals whose concentration was always obtained within the limits throughout the study period,” the report noted. Arsenic contamination is a major environmental issue that affects groundwater. However, the CWC exercise was restricted to surface water.
+Not all the rivers are equally sampled. Several rivers have only been sampled at a single site whereas others such as the Ganga, the Yamuna and the Godavari are sampled at multiple sites. Marked variation was found in contamination levels depending on the season. For instance, iron contamination was persistent through most of the Ganga during monsoon but dipped significantly during the non-monsoon periods.
+Samples were collected in three different seasons: pre-monsoon (June 2012), monsoon (September 2011, October 2012 and August 2013) and post-monsoon (February 2012 and March 2013).
+The main sources of heavy metal pollution are mining, milling, plating and surface finishing industries that discharge a variety of toxic metals into the environment.
+“Over the last few decades, the concentration of these heavy metals in river water and sediments has increased rapidly,” the report noted, while recommending more intensive monitoring.
+The reasons for contamination, according to the authors of the report, were “population growth and rise in agricultural and industrial activities”.
+You have reached your limit for free articles this month.
+Start your 14 days trial now. Sign Up
+Find mobile-friendly version of articles from the day's newspaper in one easy-to-read list.
+Move smoothly between articles as our pages load instantly.
+Enjoy reading as many articles as you wish without any limitations.
+A one-stop-shop for seeing the latest updates, and managing your preferences.
+A select list of articles that match your interests and tastes.
+We brief you on the latest and most important developments, three times a day.
+*Our Digital Subscription plans do not currently include the e-paper ,crossword, iPhone, iPad mobile applications and print. Our plans enhance your reading experience.
+We have been keeping you up-to-date with information on the developments in India and the world that have a bearing on our health and wellbeing, our lives and livelihoods, during these difficult times. To enable wide dissemination of news that is in public interest, we have increased the number of articles that can be read free, and extended free trial periods. However, we have a request for those who can afford to subscribe: please do. As we fight disinformation and misinformation, and keep apace with the happenings, we need to commit greater resources to news gathering operations. We promise to deliver quality journalism that stays away from vested interest and political propaganda.
+Your support for our journalism is invaluable. It’s a support for truth and fairness in journalism. It has helped us keep apace with events and happenings.
+The Hindu has always stood for journalism that is in the public interest. At this difficult time, it becomes even more important that we have access to information that has a bearing on our health and well-being, our lives, and livelihoods. As a subscriber, you are not only a beneficiary of our work but also its enabler.
+We also reiterate here the promise that our team of reporters, copy editors, fact-checkers, designers, and photographers will deliver quality journalism that stays away from vested interest and political propaganda.
+Please enter a valid email address.
+var data = {"email" : email, "category" : "mb"};
+@media ( max-width : 1023px) and (min-width: 768px) {
+@media ( max-width : 767px) and (min-width: 1px) {
+box-shadow: 0 0 4px 0 rgba(0, 0, 0, .328);
+@media ( max-width : 320px) and (min-width: 1px) {
+@media ( max-width : 1023px) and (min-width: 1px) {
+@media ( max-width : 767px) and (min-width: 1px) {

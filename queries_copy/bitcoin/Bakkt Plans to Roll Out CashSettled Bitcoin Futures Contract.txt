@@ -1,0 +1,10 @@
+Bitcoin futures trading on the Intercontinental Exchange’s Bakkt platform will expand to include a cash-settled option, COO Adam White has revealed.
+Bitcoin ( BTC ) futures trading on the Intercontinental Exchange (ICE)’s Bakkt platform will expand to include a cash-settled option, COO Adam White has revealed.
+Speaking at the Invest: NYC conference on Nov. 12, White reportedly stated that Bakkt “has the intention of offering a cash-settled contract as well” as its existing Bitcoin-settled product.
+According to unnamed sources reportedly familiar with the roadmap, the cash-settled monthly Bitcoin futures will be offered via ICE’s Singapore-based clearinghouse, ICE Clear Singapore, and traded on the ICE Futures Singapore exchange. The exchange is notably accessible to futures traders signed up to ICE anywhere worldwide.
+The sources claimed that ICE is in discussions with the city state’s de facto central bank, the Monetary Authority of Singapore, but is targeting a launch date before the end of 2019.
+The prospective cash-settled product was reportedly mooted in response to customer demand and will be based on data provided by Bakkt’s physically-settled contract.
+As previously reported, Bakkt’s much-anticipated contracts — the first of their kind to be physically settled in Bitcoin — first went live this September.
+Numerous commentators have considered that physically-delivered Bitcoin futures trading, which gives traders direct exposure to the asset, represents a leap forward for the institutional acceptance of the coin.
+Notwithstanding the anticipation, the platform’s underwhelming volumes in the first week following its launch were unfavorably compared to the fiat-settled BTC futures on CME, which first launched back in December 2017.
+Volumes on Bakkt have since seen a sizeable uptick , however. Yesterday, 224 Bakkt Bitcoin monthly contracts were traded, according to tracking data compiled by Twitter account Bakkt Volume Bot.

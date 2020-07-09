@@ -1,0 +1,12 @@
+The stock market has been propped up by a handful of mega-cap companies leading into the coronavirus pandemic.
+The five largest stocks now account for 20% of the S&P 500 market cap, exceeding the 18% concentration level reached during the dot-com bubble.
+Historically, such narrow breadth is a poor signal for future market returns, Goldman Sachs said.
+The five largest stocks in the S&P 500 now account for 20% of its total market cap, exceeding the 18% concentration level reached during the dot-com bubble. Those stocks are Microsoft , Apple , Amazon , Alphabet (Google) , and Facebook .
+Stock-market breadth is an indicator of how many stocks are advancing relative to those that are declining. When a market has narrow breadth, it means a relatively small group of stocks is driving the upside in the market, while the majority of stocks are declining.
+The dispersion in returns is clear: While the S&P 500 index is just 17% off its record high reached in February, the median stock is 28% below its high. The bank pointed out that while this narrow breadth could last for extended periods, past episodes were followed by below-average market returns, and eventually momentum reversed.
+Goldman said that sharp declines in market breadth had often signaled large market drawdowns in the past.
+"For example, in addition to the Tech Bubble, breadth narrowed ahead of the recessions in 1990 and 2008 and the economic slowdowns of 2011 and 2016," the team said. "Historically, sharply narrowing breadth has signaled below-average one month, 3 month, 6 month S&P 500 returns as well as larger than average prospective drawdowns."
+How long can investors expect this extremely narrow market breadth and mega-cap concentration to last? Goldman noted that while the median episodes of narrow market breadth lasted three months, the longest period was 27 months, from 1998 to 2000.
+Eventually, periods of narrow breadth resolved the same way for the companies holding up the market: to the downside.
+"Often, narrow rallies lead to large drawdowns as the handful of market leaders ultimately fail to generate enough fundamental earnings strength to justify elevated valuations and investor crowding," Goldman said.
+"In these cases, the market leaders 'catch down' to weaker peers. In other cases, an improving economic outlook and strengthening investor sentiment helps laggards 'catch up' to the market leaders. In both cases, on a relative basis the outperformance of market leaders eventually gives way to underperformance," the analysts added.

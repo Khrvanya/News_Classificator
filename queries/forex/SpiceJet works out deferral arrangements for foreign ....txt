@@ -1,0 +1,34 @@
+Pivot Or Perish Market Dashboard India-China Face-Off The Future Of Covid Tracker Lounge Coronavirus India2Global Emerging Tech Conclave #WFHLife Long Reads Money With Monika, Season 4 Mint 50 - Top Mutual Funds Plain Facts Mark To Market Podcasts Money With Monika, Season 3 Companies Markets Money Start-ups Mutual Funds Insurance Technology Industry Opinion Politics
+1 min read . Updated: 03 Apr 2020, 11:41 PM IST PTI
+The airline has also been working with Indian financial institutions in accordance with the moratorium announced by the Reserve Bank of India, it added
+SpiceJet on Friday said it has worked out deferral arrangements with financial institutions for its foreign exchange facility.
+Commercial flight operations have been suspended till April 14 as part of larger efforts to prevent spreading of coronavirus infections. Airlines, including SpiceJet, are among the worst hit, due to suspension of operations.
+"The company has already worked out forbearance/ deferral arrangements with the relevant financial institutions for its foreign exchange facility," SpiceJet said in a filing to the BSE on Friday.
+The airline has also been working with Indian financial institutions in accordance with the moratorium announced by the Reserve Bank of India, it added.
+The filing was in response to a clarification sought by the exchange on Crisil revising credit rating regarding the airline's credit facilities.
+"The recent revision in rating by Crisil is on account of overall effect of COVID-19 on the business which has been halted on account of lockdown.
+"These ratings are for the facilities availed by the company," it added.
+The 21-day nationwide lockdown began on March 25 in the fight against the coronavirus pandemic.
+* Thank you for subscribing to our newsletter.
+Click here to read the Mint ePaperLivemint.com is now on Telegram. Join Livemint channel in your Telegram and stay updated
+You are now subscribed to our newsletters. In case you can’t find any email from our side, please check the spam folder.
+lozad('.lozad', { load: function(el) { el.src = el.dataset.src; el.onload = function() { el.classList.add('fade')}}}).observe()
+.myAccount .planSec, .myAccount a.LinkCTA{padding:16px; margin:16px; box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.1); background-color: #fff;}
+	       		var userData = data;
+	       		var name = userData.name;
+	       		var email = userData.email;
+	       		var signupSource = userData.source;
+	       		var subscribedAtOnce = userData.subscribedAtOnce;
+	       		var plan  = userData.plan;
+	       		document.getElementById('uName').innerHTML = "<strong>"+name+"</strong>" + email;
+		       		var status = planData.status;
+		       		var purchaseSource = planData.source_device;
+			       		var nextActivationDate = planData.current_term_ends_at;
+			       		var planDescription = planData.plan.description;
+			       		var planName = planData.plan.name;
+			       		var planPrice = planData.amount;
+			       		//var planInterval = planData.shipping_interval;
+			       		var planInterval = planData.duration;
+			       		var planUnit = planData.interval_unit;
+			       		//var html = "<strong>Your Subscription Plan</strong>"+planName+" ₹"+planPrice+" / "+planInterval+" " + nextBillingHtml + cancelHtml; 
+			       		var html = "<strong>Your Subscription Plan</strong> "+planDescription + " "+ planName +": ₹"+planPrice + " "+ nextBillingHtml + cancelHtml;

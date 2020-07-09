@@ -1,0 +1,26 @@
+Updated Bitcoin stock-to-flow model with deviation bands shows a few interesting patterns surrounding previous BTC halvings.
+Since Bitcoin’s ( BTC ) creation in 2009, the digital asset has undergone a halving event every four years, cutting the number of coins constantly entering the ecosystem in half, making it a deflationary asset.
+Based on its hard-coded scarcity, and in line with its halvings , Bitcoin has risen dramatically in price over the years, giving the asset a high stock-to-flow ratio. When graphically depicted with deviation bands, Bitcoin historically has tested band levels below its median prior to halving years.
+Crypto analyst PlanB wrote an article in March 2019, applying Bitcoin to the stock-to-flow model used in the traditional business world, previously applied to commodities such as gold and silver.
+Using gold as an example, the stock-to-flow model addresses the metal’s scarcity as it lines up with its supply and the amount of new gold made available each year, the article noted.
+PlanB used this information to plot a Bitcoin chart depicting its stock-to-flow ratio and making a case for Bitcoin to reach a price tag of $55,000 after its 2020 halving.
+Meanwhile, programmer Rob Wolfram, also known as @hamal03 on crypto-Twitter, took this pool of data and added it to a separate chart with deviation bands, revealing previous Bitcoin dips prior to halving events.
+BTC USD stock-to-flow with deviations. Source: Rob Wolfram ( @hamal03 )
+According to Bitcoin’s price — depicted as the red line on the chart — BTC price has reached comparatively higher separation above its median during bullish periods than the times it dropped below its median during bearish periods. Bitcoin also has followed its median line, leading to higher prices in conjunction with halving events.
+After its halvings in 2012 and 2016, Bitcoin followed the median upward trend but rode that trend mostly below the median line until large bull run spikes drove its price high above the median.
+Additionally, prior to the 2012 and 2016 halvings, Bitcoin appears to have experienced bear market drops, spending time near the bottom of the dark blue deviation band.
+A similar bear market period near the bottom of the dark blue deviation also occurred after 2018, but appears to have happened comparatively earlier than the other two pre-halving bearish periods.
+Wolfram also suggested an interesting observation, pointing to reversion and decreasing highs.
+“At both halvings I see the price overshooting the model price and then coming back down,” Wolfram told CoinTelegraph. “It does seem that the overshooting becomes less though.”
+Notably, the above chart is an updated version using past information, in contrast to the one originally posted on Twitter, which used future data predictions. Wolfram also developed this chart before Bitcoin’s 42% spike on Oct. 25.
+While listening to Stephen Livera interview Trace Mayer on a podcast, Wolfram heard Mayer explain that “he buys and sells Bitcoin if it's one standard deviation below or above the predicted price,” Wolfram said.
+Partial to PlanB’s work with stock-to-flow, Wolfram saw the opportunity to blend the two concepts. He explained:
+“I thought that was a great idea to visualize and that is what is represented by the blue areas, one (dark blue) and two (light blue) standard errors (the 2D version of standard deviation) above and below the predicted price.”
+Wolfram said he decided to work on this endeavor to evaluate Bitcoin’s Oct. 23 price fall to $7,300. Looking at his chart, he concluded the decrease in price to be of little significance.
+As Bitcoin moves toward its 2020 halving, one might wonder at what point such a graph would face invalidation. Wolfram explained that he is not positive, but time will tell.
+“If the price stays on this level (below 10,000) more than a year after the halving, then I think the model can be said to be invalid,” he said.
+Wolfram also referred back to Plan B’s lofty expectations.
+“He says that the price should have hit 100,000 at least once by the end of 2021 or the model fails,” said Wolfram. “He is the professional guy here so I think we should listen to him.”
+Describing his own experience, Wolfram denotes, “I'm not a trader, not an economist and most definitely not an econometrist,” adding, “I'm an IT guy who uses DuckDuckGo a lot.”
+Currently sitting near $9,300 at press time, Bitcoin still has quite a bit of ground to cover to reach its predicted $55,000 and $100,000 price targets.
+The views and opinions expressed here are solely those of ( @benjaminpirus ) and do not necessarily reflect the views of Cointelegraph. Every investment and trading move involves risk. You should conduct your own research when making a decision.

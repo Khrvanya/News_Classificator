@@ -1,0 +1,16 @@
+Big companies like Facebook, JPMorgan Chase and IBM are putting their weight behind cryptocurrencies. You often hear the word “cryptocurrency” in the same sentence as “bitcoin” and “blockchain.” But can you explain each term?
+The first thing you need to understand is that blockchain ≠ bitcoin.
+“Blockchain is a technology, while bitcoin and other cryptocurrencies are applications of that technology,” said Jeanine Hightower-Sellitto, managing director of operations at Gemini, a cryptocurrency exchange.
+Bitcoin was the first cryptocurrency, and it’s certainly the most well known, but it’s just one of many cryptocurrencies that exist today.
+Cryptocurrencies are a type of digital asset. “It’s a new way of thinking about a store of value,” said Hightower-Sillittio.
+The thing underpinning value in our current financial system, the one we’re used to, is trust. If you buy something online, say from Amazon, you have to trust that dollars will get added to Amazon’s bank account and subtracted from yours. You also have to trust that the U.S. dollar, even if it’s just a digital dollar in your bank account, is worth something.
+The promise of bitcoin and other cryptocurrencies is making that transaction happen without the banks, without the credit card companies and without the U.S. dollar. Instead of trust, cryptocurrencies are based on blockchain technology.
+“You can think of blockchain technology as kind of like a Google spreadsheet,” said Laura Shin, a cryptocurrency journalist and podcaster. A Google spreadsheet, unlike old-fashioned Excel spreadsheet, can be viewed by multiple people at the same time.
+Like a list of transactions on a spreadsheet, a blockchain is a ledger. “However, it is a very new and novel type of ledger and definitely improved upon the ledgers of yore, which, primarily, have been individual ledgers,” said Shin.
+You can think of those old-fashioned individual ledgers, like the record each bank keeps of its customers funds, as an old-fashioned Excel spreadsheet  —  the kind you have to save and send every time there’s an update.
+“Let’s say I was going to make a payment to you via credit card, or check, or Venmo, or whatever,” said Shin. “Then our different banks would each have to update their own ledgers.” In that scenario, you have to trust third parties to keep the record straight.
+“With a blockchain, you have just one ledger, and anybody in the world can look at the state of this ledger at any given time,” said Shin.
+Instead of multiple copies of a ledger that live on multiple banks’ servers, a blockchain is just one ledger that lives on everyone’s server. It’s distributed across the network. “And so essentially you’re replacing these trusted third parties with software,” said Shin.
+“Bitcoin was the first and a very important use case, but blockchain itself has many, many use cases,” said Sandra Ro, chief executive of the Global Blockchain Business Council, an industry association for blockchain technology.
+Blockchain technology is being tested and put to use in healthcare , public services , food safety and a range of other industries . Whether you care about investing in cryptocurrencies or not, you’re probably going to keep hearing about it.
+Tell us what you want explained next:

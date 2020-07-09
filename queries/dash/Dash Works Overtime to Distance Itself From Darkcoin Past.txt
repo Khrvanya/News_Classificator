@@ -1,0 +1,20 @@
+After emerging as one of the original privacy coins, Dash now seeks to shed its 'darkcoin' past. Source: Shutterstock
+With an eye toward alleviating regulatory fears, Dash recently began circulating a primer which works to explain its privacy features.
+The name didn’t come from its potential for nefarious purposes, but rather the notion of “going dark,” or at least not being fully transparent, as you are by default in Bitcoin, for example. A string of numbers and letters may not immediately be personally identifiable information, but it certainly could be.
+Dash offers in-wallet coin mixing – a feature which some Bitcoin wallets also offer.
+Dash Core is an organization with funding from the Dash network that works to ensure that the project has a viable future.
+“Since Dash is commonly labeled as “privacy centric” in the media, it is sometimes included in proposed “ban lists”. This is an incorrect treatment of Dash from both regulatory and legal stances.”
+Texas and other jurisdictions have discussed the idea of banning privacy coins altogether. In India, a gaggle of bankers decided that the best approach was to blacklist cryptocurrencies. This is to say that Dash’s fears are not unfounded.
+This reporter spoke to Dash Core CEO Ryan Taylor in the recent past. At the time he clarified that the cryptocurrency is not a privacy coin at all, but instead a “user experience.”
+Optional privacy is just one feature of Dash. The cryptocurrency also offers instant transactions.
+Dash’s privacy model is different than that of Monero or Zcash. In Monero, transactions are extremely obfuscated, and only parties with “view keys” can know much about them aside from their size.
+Zcash offers both transparent and “z” addresses which are “shielded.” Earlier research found that shielded transactions are less commonly used than non-shielded ones.
+“Privacy and anonymity features are not binary, but rather a spectrum. This spectrum includes complete shielding of transactions (in which addresses and amounts are completely obscured from third-party observers), optional shielding of transactions, and completely transparent transactions. For example, with ZCash, shielded addresses are not visible and transactions between shielded addresses do not reveal either address, the transaction amount or the contents of an encrypted memo field. In contrast, Dash transactions are all completely transparent and auditable, identical to Bitcoin (upon which Dash is based), including the amounts and addresses party to each transaction.”
+Dash primarily argues that it is not different enough from Bitcoin to be treated differently. They announced the new informational packet in a blog post titled “Dash privacy features deserve the same regulatory treatment as Bitcoin.”
+There they said , in part:
+“We are making this information available on our website in an effort to educate regulators, exchanges, money service providers, and lawmakers to make sure service providers can continue servicing our users.”
+To date, Dash is among the most widely supported altcoins, with a strong following in Central and South America.
+The cryptocurrency can be found alongside Bitcoin and Litecoin at most crypto exchanges.
+Notable exceptions include Coinbase, which does not offer it.
+There is perhaps some irony in the fact that Coinbase Pro and Coinbase’s consumer product both allow people to trade in Zcash, however.
+P. H. Madore has written for CCN since 2014. Please send breaking news tips or requests for investigation to bitillionaire+phm@gmail.com. He lives in Maine, USA. A single father of four young children, he does not discourage financial donations, provided they do not come with strings attached.

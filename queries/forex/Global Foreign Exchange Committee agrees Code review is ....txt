@@ -1,0 +1,13 @@
+The Global Foreign Exchange Committee has outlined its areas of focus for updating the FX Global Code.
+On the first day of its two-day meeting held in Sydney on 4-5 December, the Global Foreign Exchange Committee (GFXC) stipulated the areas of focus for updating the FX Global Code . It has also reiterated the need for greater adoption of the Code among buy-side market participants.
+The GFXC agreed to focus its work on a number of areas such as anonymous trading. The GFXC’s Working Group on Disclosures presented its work on anonymous E-trading platforms, highlighting several areas where additional guidance in the Code might be appropriate. This includes usage of ‘tags’ (unique identifiers) and the roles and responsibilities of the different market participants, including prime brokers.
+Regarding algorithmic trading and transaction cost analysis (TCA), the GFXC agreed that the increasing usage of algorithmic execution warranted a review of the Code’s existing guidance in this area. It was also decided to consider how guidance around TCA could be incorporated into the Code.
+Let’s note that, under Principle 18 of the Code, Market Participants providing algorithmic trading or aggregation services to clients should provide adequate disclosure regarding how they operate. Market Participants providing algorithmic trading or aggregation services to clients should disclose the following:
+a clear description of the algorithmic execution strategy or the aggregation strategy and sufficient information to enable the Client to evaluate the performance of the ser- vice, in a manner that is consistent with appropriate protection of related Confidential Information;
+whether the algorithm provider or the aggregation service provider could execute as Principal;
+the fees applicable to the provision of the services;
+in the case of algorithmic trading services, general information regarding how routing
+in the case of aggregation services, information on the liquidity sources to which access may be provided.
+Today, the GFXC also discussed the extensive feedback on various execution principles in the Code, particularly those dealing with pre-hedging and last look. It was agreed that there was a clear need to respond to this feedback.
+The GFXC also discussed the findings from its Annual Survey of market participants conducted in September and October. The results indicate that, inter alia, the majority of respondents using algorithms do so to improve their execution outcomes and minimise information leakage. Respondents that opt not to, note that algorithms do not suit their trading style.
+The GFXC is set to publish a summary of the Survey results in the New Year.

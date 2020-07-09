@@ -1,0 +1,20 @@
+(Reuters) - The euro’s tumble below $1.08 for the first time in three years may be only the first milestone in its downward journey, with global newsflow, economic data and option market positioning all seemingly stacked against the single currency.
+FILE PHOTO: U.S. dollar note and a Euro coin are seen in this November 7, 2016 picture illustration.   REUTERS/Dado Ruvic/Illustration
+Euro-dollar, the world’s most traded exchange rate, has weakened around 3.5% this year, the latest lurch coming on Tuesday when a dismal German investor sentiment survey and a forecast-beating U.S. manufacturing gauge highlighted the two economies’ diverging fortunes.
+(Graphic: U.S. economic surprises surge as euro zone flags link: here )
+Less than two months into 2020, the currency pair is showing signs it might break out of last year's $1.15/$1.09 range tmsnrt.rs/36KsNin which was the narrowest ever. And one-month implied volatility, a gauge of expected price swings, has spiked a whole percentage point above record lows touched last month.
+Sluggish growth aside, the euro is dogged by the economic impact of the coronavirus outbreak, the risk of U.S. trade tariffs, and finally, its low volatility - which makes it an ideal candidate for “shorting” against higher-yielding currencies.
+Now many reckon the 17-year low of $1.0340 - reached in January 2017 - could be in sight for the currency. Whether that low is hit or not, market players are betting on more downside.
+“The gutsy way to play it would be to cover your eyes and sell euro (in the spot market) but most people would play it through options,” said Stephen Gallo, European head of FX strategy at BMO Capital.
+Options are derivatives that allow holders to buy or sell an asset at a pre-agreed price within the stipulated time period for an upfront premium. Very simply, a ‘put’ confers the right to sell, while ‘call’ options allow holders to buy.
+Gallo has a $1.03 strike price - the level where the option is exercised - noting the trade would be profitable even if the euro only dropped as low as $1.06.
+Clearly, many other traders are also placing such bets.
+Data from the Depositary Trust & Clearing Corporation (DTCC) shows a spike in demand for euro 'put' options tmsnrt.rs/2SQT9dy over the past week. That's taken the ratio of euro put-call traded volumes to the widest since last August.
+(Graphic: Euro/dollar put volumes spike over those for calls png link: here )
+And if there were around 5 billion euros worth of euro put options outstanding a week back, priced between 1.0850 and $1.0750 and expiring through March 31, that’s since doubled as investors scramble to cover the risk of deeper declines.
+To gauge just how dramatic the repricing has been, take a look at one-month euro-dollar risk reversals. As recently as Feb. 5, these option contracts showed an implied volatility premium for euro calls over puts at a two-year high. That’s now flipped into a premium for euro puts over calls .
+Credit Suisse analysts said they saw the euro extending falls toward $1.0650, adding: “Fading euro strength remains our key message.”
+The euro has paused for now, possibly benefiting from option barriers around $1.0775.
+But traders say $1.0775 is the last of the big downside barriers, though lesser amounts may have been placed at half-cent intervals. In the event of fall under $1.0700, more euro downside may loom, as the break of major option levels often sends traders rushing to sell the currency in cash markets.
+As for a recovery, Commerzbank analysts said the euro would need to hold at $1.076. But they added that “near-term rallies will need to regain $1.0879 as an absolute minimum in order to alleviate immediate downside pressure.”
+Reporting by Richard Pace and Sujata Rao; Graphics by Ritvik Carvalho; Editing by Alex Richardson

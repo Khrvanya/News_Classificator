@@ -1,0 +1,31 @@
+2 min read . Updated: 14 Oct 2019, 07:15 AM IST Clifford Alvares
+The double whammy of slowing demand and plunging metal prices is expected to drive metal companies to their worst performance in many quarters. As a result, the Nifty Metal index has been one of the worst performers this calendar year, losing 26%, contrasted with the Nifty 500’s rather flat performance.
+The dullness in metals wouldn’t have been so bleak had it not been for the dismal showing in steel. Second quarter revenues of steel companies are expected to fall about 10% year-on-year (y-o-y). This will pull down operating leverage, resulting in steel firms’ Ebitda falling sharply. Ebitda is earnings before interest, taxes, depreciation and amortization.
+International steel prices have fallen steeply because of the ongoing US-China trade war . This has scarred domestic steel prices, with domestic hot-rolled coil prices contracting about 10% quarter-on-quarter (q-o-q). Further, prices of iron ore—the main raw material—have been high for the better part of the second quarter, hurting margins further.
+Besides, domestic demand has slowed particularly due to the deceleration in the auto sector, resulting in steel firms’ stagnant volumes. An exception is Jindal Steel and Power Ltd (JSPL) that recently ramped up production at its Angul plant. “We estimate 9% and 2% y-o-y volume declines for respectively JSW Steel Ltd and Tata Steel Ltd, and 15% y-o-y volume growth for JSPL, driven by the ramp-up of its Angul steel plant. We estimate Tata Steel’s, JSW Steel’s and JSPL’s Ebitda/tonne to decline 15-28% q-o-q, factoring in the price-cost impact," said a recent client note from Kotak Institutional Equities.
+While the picture is not so dim in non-ferrous metals, international prices here too have been falling. “LME aluminium declined 14% y-o-y; that of zinc 7%, and are expected to pull down earnings as production levels on average were stagnant," said a recent note by analysts at Edelweiss Securities Ltd. LME is London Metal Exchange.
+Just now, it does not seem as if metals will shine soon. In fact, profits of metal firms, overall, could drop 61% y-o-y in the second quarter of FY20. “Metals companies’ Ebitda are expected to have plunged 29% y-o-y and their PAT, 61%. Within our coverage, barring NMDC Ltd and Hindustan Zinc Ltd, every other company is expected to report a sharp y-o-y earnings decline, with Tata Steel, JSW Steel and Hindalco Ltd’s profits estimated to plummet respectively 80%, 72% and 25% y-o-y," Motilal Oswal Financial Services said in a note.
+For now, though, signs of a truce between the two giant economies are emerging. That seems to have lifted sentiment for metal stocks, aided by the fact that they have already been beaten down considerably. Still, investors may want to continue in a risk-off mode until steely signs of a price rise and a demand pickup are evident.
+* Thank you for subscribing to our newsletter.
+Click here to read the Mint ePaperLivemint.com is now on Telegram. Join Livemint channel in your Telegram and stay updated
+You are now subscribed to our newsletters. In case you can’t find any email from our side, please check the spam folder.
+lozad('.lozad', { load: function(el) { el.src = el.dataset.src; el.onload = function() { el.classList.add('fade')}}}).observe()
+.myAccount .planSec, .myAccount a.LinkCTA{padding:16px; margin:16px; box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.1); background-color: #fff;}
+	       		var userData = data;
+	       		var name = userData.name;
+	       		var email = userData.email;
+	       		var signupSource = userData.source;
+	       		var subscribedAtOnce = userData.subscribedAtOnce;
+	       		var plan  = userData.plan;
+	       		document.getElementById('uName').innerHTML = "<strong>"+name+"</strong>" + email;
+		       		var status = planData.status;
+		       		var purchaseSource = planData.source_device;
+			       		var nextActivationDate = planData.current_term_ends_at;
+			       		var planDescription = planData.plan.description;
+			       		var planName = planData.plan.name;
+			       		var planPrice = planData.amount;
+			       		//var planInterval = planData.shipping_interval;
+			       		var planInterval = planData.duration;
+			       		var planUnit = planData.interval_unit;
+			       		//var html = "<strong>Your Subscription Plan</strong>"+planName+" ₹"+planPrice+" / "+planInterval+" " + nextBillingHtml + cancelHtml; 
+			       		var html = "<strong>Your Subscription Plan</strong> "+planDescription + " "+ planName +": ₹"+planPrice + " "+ nextBillingHtml + cancelHtml;

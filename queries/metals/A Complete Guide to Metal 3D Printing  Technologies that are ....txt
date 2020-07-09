@@ -1,0 +1,16 @@
+Dublin, Feb.  21, 2020  (GLOBE NEWSWIRE) -- The "Production Manager's Complete Guide to Metal 3D Printing " report has been added to ResearchAndMarkets.com's offering.
+Direct metal parts production is the single most relevant segment for business growth in the additive manufacturing (AM) industry and a key set of technologies that can be adopted by every major advanced manufacturing segment. Now the opportunities offered by this family of technologies is expanding to embrace larger industrial manufacturing segments such as the automotive, maritime and energy industries.
+More and more, additive manufacturing is providing some of the best value propositions for final and replacement part production in terms of end-to-end digital manufacturing workflows, production automation, digital warehousing and many other key areas within the industry 4.0 framework.
+How does metal additive manufacturing fit within each industrial segment and what are its main benefits? Which is the key metal AM technologies, hardware systems, materials and service providers? This guide intends to provide a clear, immediately accessible and up to date resource for all the information required to successfully introduce AM into a streamlined workflow in all major industrial manufacturing segments that can benefit today from these technologies.
+This Manager's Guide to Metal AM in Production Will Include:
+A timeline and outlook for AM adoption from 1995 to 2035 and beyond.
+A complete overview of the industrial production segments that are most rapidly adopting metal AM technologies, along with key applications and value proposition
+A detailed analysis of all major metal AM technologies that are commercially available today, including unique features and specific benefits
+A review of production-ready hardware systems for each major metal AM technology, including key features (build volume, energy source, laser power, etc.)
+A review of the primary software used in the additive manufacturing production workflow, from design and optimization to part finishing and product lifecycle management
+1.2  Why we are Publishing this Guide and Who is It for?
+1.3 Is Metal Printing the Right Choice? Five Important Questions You Should Ask
+1.6 The Future of Metals Printing: What to Expect
+Chapter Two: Additive Manufacturing Processes Suitable for Metal Printing: Pros and Cons
+Chapter Three: Using Metal 3D Printing to Make Prototypes, Tools and Final Parts
+3.3 Series Production in Metal: the Additive Factory

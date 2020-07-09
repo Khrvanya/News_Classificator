@@ -1,0 +1,50 @@
+The period at the end of 2017 is often referred to as crypto’s “wild west” era: token sales took place in abundance, almost completely unchecked and unregulated; for retail investors, fortunes were made and destroyed. For the sparse venture capital (VC) funds and institutional investors that were in the crypto space at the same time, the story was more or less the same: faced with completely new technology, VCs were forced to make quick decisions with limited information.
+Nearly three years later, however, things have changed: as the cryptocurrency industry has continued to change and mature, so too has the investments side of the industry. Recently, Finance Magnates spoke with Multicoin Capital co-founder & managing partner Kyle Samani about his company’s approach to developing investment strategy in the cryptocurrency space.
+Prior to Multicoin Capital, Samani co-founded Pristine, an enterprise software company that enables deskless workers with solutions for smart glasses; he is also widely recognized as a thought leader on blockchain and cryptoeconomics.
+This is an excerpt. To hear Finance Magnates’ full interview with Kyle Samani, click the Soundcloud or Youtube links.
+Finance Magnates · Blockchain Podcast #131 — Kyle Samani, Multicoin Capital
+Multicoin Capital describes itself as “a thesis-driven investment firm.” We asked Kyle a little bit more about what that means on a practical level.
+“The implications of crypto cover a lot of different things,” he said. “The more I’ve learned about smart contracts and the applicability of those, the more I realized…that this technology is going to have a broad range of things that it touches, some of which I cannot forecast today.”
+Thus, the ‘Crypto Mega Theses’ were born, published in 2019: “We call them ‘mega’ because we think that these opportunities will create at least $10 trillion in value over the course of the next decade or two,” he continued, boldly.
+— Kyle Samani (@KyleSamani) June 9, 2020
+The first of the theses have to do with open finance: “this is really about enabling and broadening access and exposure to financial access, and then allowing parties to engage in financial contracts without having to have a third party in the middle.”
+“The purest representation of this today is basically the DeFi movement that’s happening,” he said, “where parties engage in a bilateral or multilateral smart contract, and then do some sort of transaction. This is clearly a powerful concept–we think it can have all kinds of interest implications over the next decade.”
+Looking to the future of decentralized tech: non-sovereign money and
+The second major thesis “is what we call Web3,” he continued. “This is really about building the open and neutral technology stack for entrepreneurs to build applications on”–in other words, this has to do with creating an infrastructure that users and developers can rely on without trusting in a third party.
+“There’s an emerging theme of companies building infrastructure where consumers can own their data, manage their data, and access their data, and developers can interact with the consumer without relying on these third parties. That movement is called Web3.”
+— Kyle Samani (@KyleSamani) March 24, 2020
+Multicoin’s third “Mega Thesis” has to do with “the opportunity for non-sovereign money, or ‘state-free’ money,” Kyle said.
+“Bitcoin is the easiest way to think about that,” he continued. Basically, for example, “we think about Bitcoin as digital gold,” Kyle said, although this may be a bit of an oversimplification: “we think that [the term] ‘digital gold’ is actually understating the market for [Bitcoin.]”
+Indeed, “the problem with digital gold is that it implies that [Bitcoin] is a rock that you just put under your mattress and let sit there,” Kyle said. “I think that if you get one of these things to be useable and useful globally, you’ll end up not only creating the opportunity for a ‘digital gold’ but for ‘digital cash’.”
+Only a small number of people are using DeFi platforms: why?
+We also Kyle for his thoughts on the current state of the DeFi ecosystem.
+Kyle said that on an intellectual level, “DeFi is super interesting–seeing people recreate traditional financial contracts that are usually bilateral in these multilateral, open ways; there’s tons of innovation happening there.”
+However, “the big problem with DeFi is that today, the usage of it is extremely circular–basically, there’s on the order of between 100 and 1000 people who are ‘ETH Whales’, who comprise roughly 90-95% of all DeFi protocols,” he continued, adding that “this is pretty well documented at this point.”
+DeFi is going to eat CeFi, but it is facing some real challenges
+Did COVID-19 Save the Forex Industry? Go to article >>
+— Kyle Samani (@KyleSamani) June 4, 2020
+Therefore, although these DeFi platforms are “intellectually very cool and financially very cool, the actual organic demand–net new-value creation for people who are not already ETH-rich; that’s more or less non-existent.”
+“And so, the question is: how do you get this to people [in a way] that creates new value that wasn’t previously possible” or accessible to them?
+Is there an answer to this question?
+“It feels like we still have a ways to go before we get there,” he said. “When and how we cross that chasm is still unclear.”
+However, “today, I would say that if you had to pick one class of company that’s best positioned to bridge these ‘circular DeFi whales’ to the mainstream, exchanges are almost certainly the best positioned” to facilitate that transition, he said.”
+But even if these exchanges can bridge this DeFi gap, “that doesn’t mean they will ultimately pull it off–they may not,” Kyle continued. “But if you had to pick one set of companies today, the exchanges are almost certainly in the best position.”
+He added that this is why Multicoin has been “so focused on exchanges”: “[we’ve been] figuring out their relative strengths and weaknesses, and then figuring out how they’re going to make the transitions.”
+We also asked Kyle for his opinion on the ways that private and public markets work in conjunction with the cryptosphere.
+“If you think about traditional asset classes, like equities–in equities, liquidity is a proxy for maturity,” he explained. “Series A companies don’t go public; traditionally, [in the past], you were doing $50 million in revenue before you go public, and these days, it’s more like $250 million or $500 million before you go public.”
+However, “in crypto–in order for the products to work, the tokens have to be liquid” from the beginning.
+“Because of that fundamental structural difference, if you’re going to be a private market investor in crypto, that means you’re more or less limited only to [the equivalent of] seed rounds and maybe Series A funding rounds,” Kyle said.
+Excited for this panel with Diogo, Nischal, Darryn, and Rachel! Tuesday next week! https://t.co/tFzpzV8aIy
+— Kyle Samani (@KyleSamani) June 18, 2020
+“This is problematic for all kinds of reasons–in terms of fund structure, fund returns, and a bunch of other things.”
+“Because those things are so closely intertwined, since being liquid happens so early in [these companies’] life cycles–that makes a big difference in thinking about how to run your funds.”
+Multicoin’s solution for this has been to create two separate funds: “we launched our hedge fund in 2017, and our venture fund in 2018, so that we have two dedicated vehicles: one of which can play the private side, and one of which can play the public side.” Both of these funds are managed by the same team, to ensure that there is not a disparity in information between the funds.
+Kyle said that overtime, the dynamics between the public and private sides of the cryptocurrency investing space has continued to change, and that as a result, the role of VCs like Multicoin Capital has also continued to evolve.
+“I think the biggest thing that’s changing is that lot of the stuff that was invested in over the last two years is going liquid now,” he said, mentioning Compound, Solana, and several others; in other words, companies that were previously illiquid and private “are now becoming liquid and public.”
+“That’s really changing how investors need to think about entries and exits, and how to think about governance and engaging these networks: how to think about whether you accumulate more in public markets or not.”
+Therefore, “if anything, [this dynamic] is going to force investors to try to ‘get better’, so to speak, at being public market investors than being private market investors.”
+What does this look like on a practical level? “In private markets, you basically only make the decision to enter the position; you actually generally don’t choose when you want to exit. When you invest in a venture-backed private company, you’re stuck until it holds an IPO or until someone buys it. You don’t really get to control either of those things happening.”
+However, “in crypto, you have to think about exits, because [companies] go liquid pretty early. This creates a lot of new dynamics in portfolio construction and governance, and those kinds of things.”
+“You also get other weird dynamics,” he continued. For example, “if you invest in something, and it’s up 20x or 30x–if this investment was originally 3% of your portfolio, it might be 60% of your portfolio.”
+“That’s a good problem to have–but do you really want it to be 60% of your portfolio?…If it was liquid, then you’re kind of implicitly saying, ‘if I were to reconstruct my portfolio today, I would buy all of these things in their current proportions…it starts to get very hard to justify.’”
+This is an excerpt. To hear Finance Magnates’ full interview with Kyle Samani, click the Soundcloud or Youtube links.

@@ -1,0 +1,9 @@
+Vitalik Buterin tweeted out a roadmap for the next 5-10 years of ETH 2.0 development and the community responded.
+Ethereum co-founder, Vitalik Buterin, revealed his personal roadmap for ETH 2.0 in a tweet on March 18. The post covers the next 5 to 10 years of the project’s development.
+In the post, Vitalik emphasized that research and development will continue regardless of recent challenges. In addition, he pointed out there should be less fear of complexity with the system update, noting that many of the upcoming changes will address these previously noted issues. He added that:
+“The "quadratic sharding as end of history" approach ensures there will not need to be a further upgrade as large as the eth1 -> eth2 one; rather, from eth2 onwards things will be much more incremental.”
+In the post, Vitalik looked back at the last two years of Ethereum’s development. He stated that:
+“In general, over the last ~2 years there has been a solid shift from "blue sky" research, trying to understand what is possible, to concrete research and development, trying to optimize specific primitives that we know are implementable and implement them.”
+Some responded to the post positively, stating that they are looking forward to the project’s continued evolution. However, by press time, the most popular comment was one which speculated on how the proposed development schedule would affect the price of Ether.
+Last month, Vitalik told Cointelegraph in an exclusive interview that the project’s main goal for this year is to launch Phase 0 of ETH 2.0. After the launch, ETH 2.0 will begin as an independent proof-of-stake network.
+As Cointelegraph market analysis reported a few days back, the price of Ether rose from around $130 at the start of the year to $274 by mid-February, a 111% gain. Following the recent market correction, the price of Ether dropped as low as $86. At press time, Ether’s price has recovered to around $137 USD.

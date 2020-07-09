@@ -1,0 +1,8 @@
+The new Mobile Homepage consolidates key account, position and market updates, plus quick access to “For You” account-related notifications.
+Online trading major Interactive Brokers has rolled out a new version of its IBKR Mobile app for Android devices, with the latest release introducing a new homepage.
+The new Mobile Homepage consolidates key account, position and market updates, plus quick access to “For You” account-related notifications, all in one place. Traders are now able to launch trading tools and view details from each widget. One can open the Homepage at any time from the menu.
+The feature is in gradual release, and the brokerage promises that customizable Mobile Homepage layout is coming soon.
+Let’s note that, in the preceding version of the solution, the company enabled fractional share trading and gave traders the ability to enter order size in terms of dollar amounts.
+When using a Cash Quantity order, users specify the dollar amount they want to buy or sell instead of specifying the number of shares. Rather than buying five shares they elect to buy, for example, $500 worth of a stock. Then they purchase the equivalent number of shares for that value rounded down to the nearest whole share.
+If traders enable their account to Trade in Fractions, the brokerage will buy or sell a fraction of a share to use the full amount of cash the traders specified and get the greatest possible number of shares for their money.
+To enable fractional share trading, log into Client Portal and from the Settings menu select Account Settings. Click the gear icon next to Trading Experience & Permissions and expand the Stocks section. Check United States (Trade in Fractions).

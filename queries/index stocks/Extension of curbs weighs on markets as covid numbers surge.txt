@@ -1,0 +1,32 @@
+2 min read . Updated: 30 Jun 2020, 07:53 AM IST Nasrin Sultana
+Indian benchmark indices ended lower on Monday with the rapid increase in covid-19 cases around the world, especially in the US, threatening to derail economic recovery. With several India states set to extend the lockdown, markets seem to be weighing in the bad news. For instance, Maharashtra on Monday extended the lockdown till 31 July. The BSE Sensex ended at 34,961.52, down 209.75 points, or 0.60%. The Nifty closed at 10,312.40, down 70.60 points, or 0.68%.
+Markets in the Asia-Pacific region were also weak with Japan’s Nikkei down 2.3%. Investors are cautious that the surge in covid-19 cases worldwide could impact the reopening of economies.
+Nagaraj Shetti, technical research analyst, HDFC Securities, said: “After showing late upside recovery on Friday, Nifty slipped into weakness in early market trade on Monday on the backdrop of weak US and Asian markets, and later shifted into a narrow range movement for the better part of the session. Nifty showed upside recovery towards the end."
+According to Morgan Stanley analysts, the global economy will be able to sustain its recovery and avoid a double dip. “We received a stark reminder this week that the fight against covid-19 is not over, as new cases globally thrice reached new highs. Unsurprisingly, the No. 1 question we get from investors is whether this resurgence disrupts our call for a V-shaped recovery. The answer is no. We remain confident that the global economy will regain its pre-covid-19 levels in four quarters and developed economies in eight quarters," said Morgan Stanley analysts.
+However, despite continuous concerns of steep valuations and weak fundamental support, foreign fund flows into India improved significantly in June. According to analysts, an unprecedented amount of fiscal and monetary stimulus and gradual reopening of economies post-lockdown kept sentiments intact worldwide, and India has been a large beneficiary of that.
+Foreign institutional investor inflows into Indian equities were at $2.87 billion in June so far, the highest this year. FIIs are gradually allocating money into Indian shares with an inflow of $1.71 billion in May after a massive sell-off of $8.42 billion in March and April. The foreign money also drove Indian markets over 8% higher in June, outperforming both the MSCI Emerging Markets (EM) and MSCI World index.
+Domestic liquidity is, however, tapering off. Domestic institutional investors sold shares worth ₹626 crore in June after an inflow of ₹11,355.93 crore in May. In 2020 so far, DIIs have infused ₹85,821.68 crore in equities. Hence, reason for DIIs offloading money in June was mostly attributed to profit booking.
+On Monday, the Indian rupee was up 0.08% to end the day at 75.58 against the dollar.
+* Thank you for subscribing to our newsletter.
+Click here to read the Mint ePaperLivemint.com is now on Telegram. Join Livemint channel in your Telegram and stay updated
+You are now subscribed to our newsletters. In case you can’t find any email from our side, please check the spam folder.
+lozad('.lozad', { load: function(el) { el.src = el.dataset.src; el.onload = function() { el.classList.add('fade')}}}).observe()
+.myAccount .planSec, .myAccount a.LinkCTA{padding:16px; margin:16px; box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.1); background-color: #fff;}
+	       		var userData = data;
+	       		var name = userData.name;
+	       		var email = userData.email;
+	       		var signupSource = userData.source;
+	       		var subscribedAtOnce = userData.subscribedAtOnce;
+	       		var plan  = userData.plan;
+	       		document.getElementById('uName').innerHTML = "<strong>"+name+"</strong>" + email;
+		       		var status = planData.status;
+		       		var purchaseSource = planData.source_device;
+			       		var nextActivationDate = planData.current_term_ends_at;
+			       		var planDescription = planData.plan.description;
+			       		var planName = planData.plan.name;
+			       		var planPrice = planData.amount;
+			       		//var planInterval = planData.shipping_interval;
+			       		var planInterval = planData.duration;
+			       		var planUnit = planData.interval_unit;
+			       		//var html = "<strong>Your Subscription Plan</strong>"+planName+" ₹"+planPrice+" / "+planInterval+" " + nextBillingHtml + cancelHtml; 
+			       		var html = "<strong>Your Subscription Plan</strong> "+planDescription + " "+ planName +": ₹"+planPrice + " "+ nextBillingHtml + cancelHtml;

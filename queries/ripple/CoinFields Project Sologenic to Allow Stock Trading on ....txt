@@ -1,0 +1,19 @@
+Cryptocurrency exchange CoinField has recently revealed its secretive XRP project, which had been in the making for over six months already. Sologenic – a brainchild of CoinField’s CEO Bob Ras – has an ambitious plan for 2020: to launch a platform that would allow users to trade over 30,000 traditional stocks on both its centralized exchange and a decentralized exchange built on the XRPL.  Sologenic has been nominated for the DeFi Project of the Year award at the upcoming Malta AI and Blockchain Summit .  Not surprisingly, Ras is a Keynote Speaker at the event. We had a chance to catch up with Bob Ras before his flight to the conference.
+Bob, can you describe Sologenic in your own words?
+I’ve been trading stocks & ETFs since my 20s. About three years ago, I decided to diversify my portfolio and invest more in the crypto market. But that was not easy! I had to sell my assets on the brokerage platform, wire transfer to my checking account and then again wire transfer back to the crypto exchange. This took eight business days and I had to pay a lot in fees. By the time the money was in the account, the bitcoin price was skyrocketing, so I lost the investment opportunity! This is how the idea came up!
+How would trading work on the Sologenic platform?
+Users can trade the tokenized assets during the stock exchange market hours on CoinField’s centralized exchange at the same price as the market. If it is after hours, users can trade on the Decentralized exchange.
+Could you guide us step by step through what a person would have to do on Sologenic to buy and trade stocks?
+Sign up on CoinField and pass KYC.
+Fund your account using one of the supported crypto or fiat.
+Go to Stocks & ETFs section and search the stock’s symbol of your choice, get a spot quote and execute an order.
+The system will execute the order through our brokerage house in real-time and will generate the stable coin for that specific stock when the order is “Buy.” In a “Sell” order, the system will burn that stable coin when the order is executed on our brokerage house platform.
+How will Sologenic earn trust among people that are not familiar with crypto investing and trading?
+We will earn trust among people by following our core values:
+Transparency – providing a Proof-of-Solvency (PoS) mechanism to allow users to audit assets at any given time.
+Asset Security – complying with proven cybersecurity standards to safeguard users and exchange funds.
+Regulatory Compliance – adhering to government regulations and international AML laws.
+Dynamic – enabling an integrated trading environment for a global user base.
+Community – cultivating an active community of crypto enthusiasts and investors for encouraging mass adoption and development of blockchain projects.
+Are you planning any events to popularize the project in the near future?
+We will start XRPxSOLO summits in 6 countries in 2020. The first three summits will take place in Tokyo, Hong Kong, and Dubai in Q1 2020.

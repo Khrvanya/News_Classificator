@@ -1,0 +1,15 @@
+The Dow Jones Industrial Average (DJIA) and the Standard & Poor's 500 Index (S&P 500) are the two most widely followed American stock market indexes. Although many market-watchers have a preference for one or the other, they have the same purpose: to provide a big-picture view of whether stock prices are generally moving up, down, or sideways from moment to moment, and by how much.
+Both indexes arrive at a number by tracking the price movements of a representative list of stocks. There is a bit of overlap, but each selects its own list of stocks and uses its own methodology.
+The DJIA tracks the stock prices of 30 of the biggest American companies.
+The S&P 500 tracks 500 large-cap American stocks.
+Both offer a big-picture view of the state of the stock markets in general.
+The DJIA is America's original stock index, and still its best known. Created in 1896 to track 12 of the nation's biggest corporate names, the index today consists of 30 blue-chip stocks.
+The word "Industrial" in its name is largely a historical relic, as most of the stocks in the index these days are not from manufacturing industries. Rather, they are drawn from all of the major sectors except utilities and transportation, which have their own Dow Jones indexes. All are household names like Johnson & Johnson, Coca-Cola, Disney, and Microsoft.
+The original DJIA included American Cotton Oil, Tennessee Coal & Iron, and U.S. Leather.
+The criteria for a company to get on the Dow is somewhat vague. The companies are all leaders in their industries and all are very large. The components in the DJIA do not change often. Companies are not added to it or removed from it lightly. If the index comes up for review, the members of the committee may replace more than one company at a time.
+The DJIA is price-weighted . Rather than using a simple arithmetic average and dividing by the number of stocks in the average, the Dow Divisor is used. This divisor smooths out the effects of stock splits and dividends.
+The DJIA, therefore, is affected only by changes in the stock prices, so companies with a higher share price or a more extreme price movement have a greater effect on the Dow.
+The S&P 500 Index, started in 1957, tracks 500 large publicly traded American stocks. The stocks in this index are from all sectors of the economy and are selected by a committee. To be selected, stocks must have a market cap of $8.2 billion or more (as of 2019), have a public float of at least 50%, have positive earnings for the most recent four quarters, and have adequate liquidity as measured by price and volume.
+Stocks in the S&P 500 are weighted by their market value rather than their stock prices. In this way, the S&P 500 attempts to ensure that a 10% change in a $20 stock will affect the index in the same way as a 10% change in a $50 stock will.
+While both of these indexes are used by investors to determine the general trend of the U.S. stock market, the S&P 500 is more encompassing, as it is based on a larger sample of total U.S. stocks.
+The offers that appear in this table are from partnerships from which Investopedia receives compensation.

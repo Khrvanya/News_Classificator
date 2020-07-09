@@ -1,0 +1,11 @@
+Litecoin trading is now live on P2P exchange LocalCryptos.
+The exchange held a vote in February among its users to find out what coin they most wanted to trade.
+Dash, EOS, and Litecoin were the options, with LTC coming out on top.
+The Bitcoin and Ethereum peer-to-peer trading platform, LocalCryptos, today announced that Litecoin trading is now live on its exchange.
+LocalCryptos was formerly known as LocalEthereum before it rebranded late last year and added support for Bitcoin. Now, it's expanding its offerings even more.
+In mid-February, the exchange put its next move up for a community vote, allowing its users to determine which coin it would list next: Dash, EOS, or Litecoin—with LTC coming out on top.
+Lucky for LocalCryptos, the similarities between Bitcoin and Litecoin make adding it to the platform an easy transition: “Because Bitcoin and Litecoin are so similar, we can port our non-custodial BTC escrow script to Litecoin without any major changes,” the firm explained in an email to users. “LTC escrows on LocalCryptos will be on-chain P2SH transactions.”
+In other words, LTC users won’t have to worry about any pesky centralization. Their Litecoin wallets on LocalCryptos will be self-custodial and SegWit-enabled. "Your keys-your coins,” the exchange assured.
+Editor's note: This article was updated to clarify that LocalCryptos no longer runs on Ethereum.
+The views and opinions expressed by the author are for informational purposes only and do not constitute financial, investment, or other advice.
+Get the best of Decrypt where you want it most.

@@ -1,0 +1,12 @@
+Will ‘Project Catalyst’ catalyze Cardano?
+The 2020 edition of the Cardano Virtual Summit was expected by many to have in store many major announcements for the ecosystem. And it didn’t disappoint. Among a slew of other announcements, perhaps the most crucial one was the launch of Project Catalyst, “an experimental fund and toolset designed ultimately enable holders of ADA to propose and vote for funding proposals designed to develop the Cardano ecosystem.”
+While a pilot program, the project’s findings will define how the final, decentralized treasury system will look like. It is a major step towards the Voltaire phase of Cardano’s roadmap, a phase that is expected to deliver a democratic governance model and create a self-sustaining ecosystem.
+Other announcements made included IOHK’s development of Atala PRISM to combat data and security breaches and the launch of Project Atlas for ADA users.
+According to a report released by ZenGo, four popular Bitcoin wallets including BRD, Ledger Live, and Edge, are vulnerable to a double-spend exploit dubbed ‘BigSpender.’ The exploit in question, according to ZenGo, targets Bitcoin’s replacement-by-fee feature to execute a double-spend attack.
+It should be noted that while ZenGo did notify the wallets in question about the exploit and other vulnerabilities, some like Ledger were quick to allay such concerns.
+However, this may not have appeased everyone who was concerned by the exploit as according to one analyst, this is a vulnerability inherent to Bitcoin , adding that wallet software doesn’t have much to do with it.
+Tesla CEO Elon Musk has never been shy about being vocal about cryptocurrencies. In fact, just recently, when famed author J.K rowling took to Twitter to gain an understanding of Bitcoin, Musk was quick to chime in, claiming that “Bitcoin Internet Money” was looking pretty solid.
+“I’m not building anything on Ethereum. Not for or against it, just don’t use it or own any.”
+Musk was previously the CEO of popular Internet meme-coin – Dogecoin – after he was ‘voted’ in by many community members.
+Did you like this article?
+Your feedback is important to us!

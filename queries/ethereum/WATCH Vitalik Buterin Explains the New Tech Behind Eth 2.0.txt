@@ -1,0 +1,14 @@
+Please consider using a different web browser for better experience.
+Please enable JavaScript in your browser for a better site experience.
+Ethereum creator Vitalik Buterin at ETHDenver 2020. (Credit: CoinDesk video)
+Where do things stand with the tech overhaul of the world’s second-largest blockchain?
+We took the question to ethereum creator Vitalik Buterin at ETHDenver last weekend. Here’s what he had to say:
+Eth 2.0 is the next iteration of the ethereum blockchain, incorporating novel protocol designs such as proof-of-stake (PoS) and sharding. Last December, Buterin released a blog post on ways to speed up the launch of Eth 2.0, which has been in the works for years.
+PoS consensus algorithms reward cryptocurrency investors for holding the network’s native currency. Holding the currency validates blockchain transactions and protects the network itself. Eth 2.0 scientists expect sharding – a method of grouping ethereum holders together for transaction validation – to improve transaction speed on the network.
+In the December blog post, Buterin described “stateless clients,” a method that changes the way current account balances, contract code and other information is stored on the network. Stateless clients work by mathematically proving this data’s existence and validity without storing all the data itself.
+In other words, the Eth 2.0 blockchain would be lighter to operate.
+“The clients basically do the same verification that it would normally do except it doesn’t store the state,” Buterin told CoinDesk. “It just kind of grabs the state in real time and verifies it using [the client’s] Merkle proof.”
+The project’s lead developers recently announced plans to launch Eth 2.0 as early as this summer. That launch would cover Phase 0 and the Beacon Chain, the first component to building out the new PoS blockchain.
+As part of the switchover from the current Proof-of-Work (PoW) network, known as Eth 1.x, Buterin and the Ethereum Foundation have proposed running the current network on Eth 2.0’s skeleton until the latter is fully built out. Ultimately, Eth 1.x will exist as basically a giant receipt of pre-2.0 transactions.
+“You can copy that state [Eth 1.x] and run it inside of a different Proof-of-Stake chain,” Buterin said. “The account balance and all the applications keep running as is, but the Proof-of-Work chain as it exists would be gone. And there would not even be two separate chains: Eth 1.x transactions and Eth 2.0 would all be in the same block.”
+The leader in blockchain news, CoinDesk is a media outlet that strives for the highest journalistic standards and abides by a strict set of editorial policies . CoinDesk is an independent operating subsidiary of Digital Currency Group, which invests in cryptocurrencies and blockchain startups.

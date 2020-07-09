@@ -1,0 +1,29 @@
+Please consider using a different web browser for better experience.
+Please enable JavaScript in your browser for a better site experience.
+Bitcoin All-Time High in 2020? Chances Are Only 4%, Options Market Signals
+Open interest in CME bitcoin futures are up, signaling more investors want to buy the cryptocurrency. (Chicago Board of Trade, 1973, photo courtesy of National Archives and Records Administration.)
+Bitcoin All-Time High in 2020? Chances Are Only 4%, Options Market Signals
+While many analysts are predicting a bitcoin (BTC) bull run, the options market sees a very low probability of the cryptocurrency hitting a new record high by December.
+The cryptocurrency is currently trading around $6,450 – down over 200 percent from the record high of $20,000 set in December 2017.
+The options market shows just a 4 percent chance of bitcoin crossing above $20,000 before year’s end, according to data provided by the crypto derivatives analytics firm Skew.
+In fact, the odds of prices moving into five digits by the end of December are also quite low, options market levels indicate.
+The probability of bitcoin ending the year above $10,000 is 16 percent while the odds of prices challenging the June 2019 high of $13,880 by December are 8 to 10 percent, the data shows.
+Options are derivative contracts that give buyers a right, but not the obligation, to buy or sell the underlying asset at a specific price (known as the strike price) on or before the specified date. A call option gives the buyer the right to buy, while the purchaser of the put option has the right to sell.
+The probabilities are calculated with the help of the Black-Scholes formula, which is based on key metrics including call options’ prices, strike prices, the price of the underlying asset, the “risk-free” interest rate on investments such as U.S. Treasurys and the options’ time of maturity.
+Many analysts are confident the various monetary and fiscal measures recently announced by central banks and governments across the globe to counter the coronavirus-led downturn would bode well for bitcoin.
+“The cryptocurrency can make a run toward all-time highs as the macro backdrop is quite bullish with trillions of dollars of liquidity scheduled to enter into the system,” said Mike Alfred, CEO of Digital Assets Data.
+The amount of fiscal stimulus announced by 22 countries over the last two weeks or so is equivalent to 75 percent of the global gross domestic product (GDP), according to JPMorgan. Meanwhile, central banks from New Zealand to Canada have slashed rates to zero. The U.S. Federal Reserve announced an open-ended asset purchase program last Monday.
+“This money printing and lowering of rates might actually turn out to be a driver for more interest in bitcoin as a hedge against fiat,” said Luuk Strijers, CCO at the crypto derivatives exchange Deribit.
+So far, however, the cryptocurrency has struggled to decouple from the equity markets. In fact, it ended last week on a flat note at $5,870 despite the U.S. Senate’s decision to approve the record $2 trillion fiscal stimulus, later approved by the House and signed into law by President Donald Trump.
+“Cryptocurrency will continue to correlate to that of stock markets through the second quarter and the path to resurrection might only come by early third quarter,” said Ashish Singhal, CEO of the exchange CoinSwitch.co.
+However, Singhal said the downside may be limited in the near term as the cryptocurrency is seen as a hedge to the massive inflation-boosting policies adopted by governments.
+Bitcoin is often touted as such a hedge because its supply is fixed and the pace of supply expansion is reduced by 50 percent every four years via a process called a mining reward halving.
+Bitcoin is set to undergo its third mining reward halving in May, following which the number of bitcoins (BTC) entering circulation every 10 minutes (known as block subsidies) will drop by half, to 6.25 from 12.5.
+“Historically, reward halving has led to monumental economic growth for bitcoin and other cryptocurrencies,” said Brandon Mintz, CEO of the bitcoin ATM provider Bitcoin Depot.
+Matthew Dibb, co-founder and COO of Stack Funds, said he expects the halving event to create upward pressure on bitcoin’s price over the coming two months.
+“Investors will take up positions in anticipation of rapid appreciation post-halving,” offering an additional boost to market valuation of BTC, said Dibb.
+However, again, the prospects of a pre- and post-halving rally are quite low, according to the options market data.
+While the probability of bitcoin holding above $6,000 until the end of April is above 50 percent, the odds of prices crossing into five figures is just 4 percent, options data suggests. It’s worth noting that bitcoin was trading near $10,500 just six weeks ago.
+Probability of BTC Being Above $10,000 June-Sept. 2020
+The probability that bitcoin will find acceptance above $10,000 by the end of June is 12 percent, the data indicates. At the end of September, the probability climbs to 16 percent.
+The leader in blockchain news, CoinDesk is a media outlet that strives for the highest journalistic standards and abides by a strict set of editorial policies . CoinDesk is an independent operating subsidiary of Digital Currency Group, which invests in cryptocurrencies and blockchain startups.

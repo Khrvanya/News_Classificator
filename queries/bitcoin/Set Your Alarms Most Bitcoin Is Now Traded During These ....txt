@@ -1,0 +1,15 @@
+The start of trading in New York appears to impact Bitcoin volatility much more than other stock markets.
+Bitcoin ( BTC ) traders are changing their habits in 2020 — but volatility is still dominated by the start of New York stock market trading.
+According to data currently circulating on social media, volatility for the largest cryptocurrency by market capitalization is highly correlated with the opening of United States markets.
+By comparison, London and Asia stock market opens have considerably less of an impact on Bitcoin price volatility.
+“Can we just halt $BTC trading during Asia + Euro hours,” major trader Hsaka quipped, uploading the findings, which relate to the previous few days on U.S. exchange Coinbase .
+BTC/USD chart showing volatility at stock market opens. Source: Hsaka/ Twitter
+Further data from on-chain analyst Skew confirms the trend. At present, around 4 pm UTC marks the most intense time of day for Bitcoin trading.
+Again using Coinbase, in addition to Binance , Skew finds that midweek is also more intense than the start or end of the working week. Weekends, as is often noted, are quieter still.
+Bitcoin trading volume one-month summary. Source: Skew
+As an example, over the past 30 days, Coinbase saw an average of $6.5 million in volume between 3 pm and 4 pm UTC. The quietest hour, 9 am, saw just $2 million.
+Those times correspond to around 12 pm EST, or 2.5 hours after New York markets officially open.
+The data may have unearthed changing tendencies among Bitcoin traders, possibly due to the increasing prevalence of institutions within the market.
+Last year, Cointelegraph reported on research that indicated that at the time, the most active trading time in terms of volume was 1 am UTC.
+Taken from a 2017–2019 average, the research suggested that at the time, Asian traders had a noticeable impact.
+Since then, the composition of the Bitcoin trading arena has undergone a metamorphosis, with bigger players and more capital entering. As was recently covered by Cointelegraph , Bitcoin derivatives markets continue to set volume and open interest records in 2020.

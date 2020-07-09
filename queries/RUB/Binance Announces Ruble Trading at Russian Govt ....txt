@@ -1,0 +1,10 @@
+Binance, one of the largest global crypto exchanges, will soon add support of fiat trading, starting with the Russian ruble.
+The news was publicly announced by Binance CEO Changpeng Zhao (CZ) at a Russian government-led event, the Open Innovations Forum in Moscow on Oct. 21. By adding Russia’s national cryptocurrency on its platform, Binance will allow users from Russia to buy cryptocurrencies directly using rubles, CZ explained.
+In a video posted on Twitter, CZ said:
+“In about two weeks or so, we should have support for Russian rubles trading directly. So you can buy cryptocurrencies on Binance.com using rubles."
+The news comes as the crypto industry is still not officially regulated in Russia as the government has allegedly again delayed the adoption of the country’s major crypto bill “On Digital Financial Assets,” as reported in mid-October.
+While Binance confirmed the addition of a ruble-crypto pair to Cointelegraph, it declined to provide any specific details or an explanation for why the ruble was chosen for the first fiat-crypto trading pair.
+In January 2019, Binance was first reported on its plans to expand to eight new countries in 2019, including Singapore, Malta, South Korea, Liechtenstein, Argentina, Russia, Turkey and Bermuda.
+To date, Binance has already launched four international crypto-fiat exchanges, including Binance Uganda , European trading platform Binance Jersey , Binance Singapore and Binance US .
+On Oct. 18, Binance.US announced that its customer’s dollar deposits were eligible for Federal Deposit Insurance Corporation, also known as FDIC, insurance coverage.
+In mid-October, Binance launched peer-to-peer trading for Bitcoin ( BTC ), Ether ( ETH ) and Tether ( USDT ) against the Chinese yuan.

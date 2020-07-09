@@ -1,0 +1,10 @@
+BTSE, a UAE-licensed cryptocurrency derivatives exchange, announced today that it had launched Monero XMR futures trading on its platform.
+According to the announcement , the Monero Futures dubbed Monero Futures 2.0 will provide more liquidity as it gives investors the opportunity to apply different techniques while trading.
+BTSE claims to understand that every investor is unique; that is why it designed the XMR Futures to give users a flexible, customizable, and personalized experience.
+The exchange also stated that its Monero Futures would give investors several payment alternatives, and users can also select any of the supported cryptocurrencies as collateral, thus making trading to be more convenient.
+Also, BTSE noted that the Know-Your-Customer ( KYC ) requirements are not applicable for crypto-to-crypto pairs on its XMR Futures while adding that the Monero Futures is tradable on the exchange with no withdrawal limits.
+The exchange claims that the development makes it the only exchange to support XMR futures trading.
+“Launch Time We now offer @monero futures trading! This makes http://BTSE.com  one of the FIRST and ONLY exchanges to support $XMR futures,” BTSE tweeted.
+In celebration of this achievement, BTSE stated that users would be given $100 for their first deposit on the XMR Futures platform.
+This is coming in less than two weeks after BTSE listed XMR to be traded on its platform. At the time, users could trade XMR with different cryptocurrencies, including Bitcoin ( BTC ), Litecoin (LTC), Ether (ETH), among others, while the XMR can be traded with fiat currencies on the platform such as USD, EUR, JPY, among others.
+Meanwhile, Coinfomania reported in June that Monero ensured that few mining giants do not control its network by launching an anti-ASIC mining algorithm dubbed the RandomX algorithm. At the time of writing, the XMR token is trading at $59.04, according to data provided by CoinMarketCap.

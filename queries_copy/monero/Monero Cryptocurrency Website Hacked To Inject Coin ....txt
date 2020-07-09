@@ -1,0 +1,10 @@
+GetMonero.org, the official website of the privacy-focused cryptocurrency Monero was hacked to inject coin stealing malware on the systems of the people who were downloading the Morero wallet.
+This comes after a number of users reported that the hashes of the CLI [Command Line Interface] binaries downloaded from the website in order to set up the Monero wallet were different from the hashes listed on the official website.
+On Tuesday, a core team member of GetMonero confirmed the existence of mismatching hashes on Reddit and pointed out the possibility of a CLI binaries hack. Yesterday, Getmonero.org released out an advisory saying: “CLI wallet had been compromised and a malicious version was being served.”
+In the post, the Monero official website claimed the attack lasted for an extremely short period, “between Monday 18th, 2:30 AM UTC and 4:30 PM UTC“, and the problem was fixed immediately.
+However, it is recommended for all Monero users to check the hashes of their binaries downloaded in the last 24 hours.
+“If they don’t match the official ones, delete the files and download them again. Do not run the compromised binaries for any reason.” writes GetMonero.
+Since the incident, a Reddit user reported $7000 worth of Monero coins were stolen from his wallet after downloading the infected binaries.
+“I ran the binary, a single transaction drained my wallet of all $7000. I downloaded the build yesterday around 6 pm Pacific Time.” the Reddit user wrote.
+On the basis of extremely few reports, it is safe to assume that not a large number of users were affected, possibly because of the small window during which the Monero’s website was compromised.
+Meanwhile, a number of Reddit and Twitter users are disappointed with the core team for failing to inform users on time. Interestingly, users started posting on Reddit about the hash mismatch a day prior to the GetMonero’s Reddit post.

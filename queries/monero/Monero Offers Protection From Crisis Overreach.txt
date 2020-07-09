@@ -1,0 +1,21 @@
+In times of crisis, the ever-present balancing act between security and privacy always rises to the surface.
+Sure, some sacrifices to privacy are considered “justified” in the short term. But I’m concerned with the long-term consequences of giving central governments too much control and access into our lives.
+And there’s one government control mechanism under serious consideration right now which will have consequences that could far outlive the current global state of emergency: The abolition of paper currency.
+True, coronavirus can live on surfaces for days on end, including on your pocket change. In fact, some countries have mandated their banks sanitize all paper currency before it can be withdrawn.
+“But wouldn’t it be easier,” says government officials, “to simply do away with paper money altogether? Wouldn’t a purely digital currency be better for your health? And if we did that, no one would need Bitcoin, right?”
+True cryptocurrencies, like Bitcoin and leading altcoins, protect their owners from government devaluation and confiscation. Government-controlled digital money does nothing of the kind.
+In fact, ultimately, it could give governments the ability to dictate exactly how much money you can own and the conditions under which your assets can be stripped away from you.
+All with the push of a button!
+With privacy under severe attack, some citizens may suddenly find that the only alternative to government-controlled digital money is privacy coins — crypto assets that prioritize protecting the identity of those involved in a transaction.
+And one of the most prominent privacy coins according to our Weiss Ratings Model is Monero (XMR, Rated “C+”).
+It’s similar to Bitcoin (BTC, Rated “B+”) in that it's a Proof-of-Work crypto, 100% dedicated to processing payments.
+But it does so in such a way that the sender, receiver and amount transferred are carefully cloaked behind cutting-edge cryptography.
+This means that for Monero, privacy is a permanent fixture. If you use Monero, your payments will always be hidden from everyone except parties to the transaction.
+The developers behind Monero were sticklers for the original goal of cryptocurrencies: To be censorship-resistant money.
+They felt privacy was relatively lacking in Bitcoin. So, they decided to make privacy far more robust.
+Like Bitcoin, Monero was founded by an anonymous individual and based largely on open-source technology. When the founder later tried to implement a series of changes that the community of developers disagreed with, the community split off the original project.
+That’s when they created the Monero we know today.
+Trouble is, most governments don’t like Monero. They fear its privacy features will enable criminals and spies.
+We don’t deny that risk is real. But as we’ve stressed here repeatedly: Technology is neutral.
+And this type of privacy may become an essential feature demanded by millions of honest actors in the years to come.
+Check out Weiss Crypto Ratings and Indexes:

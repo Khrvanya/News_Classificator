@@ -1,0 +1,38 @@
+Ethereum Price Flashing Bullish — Can ETH Trigger an Altcoin Revival?
+Ethereum price is attempting a trend reversal but the primary catalyst might be Bitcoin’s price action in the wake of the Sept. 23 Bakkt Futures launch.
+For the past two weeks, the Ether ( ETH ) price has been a frequent topic of discussion among traders. Investors are beginning to wonder if the altcoin has finished its retrace from a 2019 high at $364. This week Ether settled at the $170 support and proceeded to reverse course.
+While this is not terribly exciting, and not convincing enough to indicate a trend reversal, the excitement comes from the interpretation that if Ether bottoms and reverses course, other ailing altcoins will follow suit.
+Traders will remember that starting December 2018, Ether and Litecoin ( LTC ) kickstarted the rally that would affectionately be dubbed “altseason.” This is probably where all the excitement surrounding Ether’s recent 15.31% is coming from.
+Let’s take a look at the ETH/USD and ETH/Bitcoin ( BTC ) charts to see what’s going on.
+As the daily chart shows, Ether managed to pop above the descending wedge after a double bottom slightly below the $167.50 support. The 12 EMA and 26 EMA have yet to converge but given the strength of the recent move, it seems they will shortly.
+The weekly chart shows Ether attempting to reverse the trend and a move above $196 would set a higher high.
+Purchasing volume is less than fantastic and something traders should keep an eye on. Some analysts are attributing Ether’s rise to the network’s demand skyrocketing over the past month.
+“This can be read as: demand for #Ethereum’s world computer is at ATH.”
+SetProtocol Head of Product Marketing Anthony Sassano explained that in his opinion an increase in gas usage does not necessarily mean that prices are lagging or will “catch up” in the future. Sassano said:
+The weekly Moving Average Convergence Divergence (MACD) histogram flipped to positive and is nearly at 0 but the MACD has yet to pull above the signal line.
+Weekly MACD ETH USD Source: TradingView
+Meanwhile, the weekly Stoch is flashing bullish.
+Weekly Stoch ETH USD Source: TradingView
+Since Nov. 14, 2016, Ether bottoms at 0 on the weekly Stoch have been followed by strong moves upward.
+This occurred most recently in December 2018 when Ether bottomed near $80 and lifted off to the 2019 high at $364. As one will note, there is a bull cross on the weekly Stoch and traders should keep a close eye on what follows over the coming weeks.
+Currently, Ether trades within an ascending wedge on the 4-hour timeframe and following the touches on the ascending wedge. A drop in volume or overbought conditions could see Ether pullback to the 20-MA of the Bollinger band indicator at $181.
+Ether price is already appearing to lose some steam as it broke slightly above the upper Bollinger Band arm so the next candle close could possibly see the asset reverse course.
+Popular crypto-trader Josh Rager also appeared to question the longevity and strength of Ether’s current move. According to Rager:
+“Lots of people talking hype for ETH... we'll it's good that it's above the 20 MA — could be confirmation (so it continued to make new lows after each time this has happened since Nov/Dec 2018) The only problem is it looks like price has hit the overhead resistance cluster above.”
+Ether dominance also might have bottomed and Ether’s dominance rate rose from 7.11 to 7.92 over the past two weeks.
+Ether Dominance Market Cap Weekly Chart. Source: TradingView
+It will be interesting to see if the market cap sets a lower high and traders should watch to see if other altcoins move in tandem if Ether moves up in price and market capitalization.
+The daily ETH/BTC chart shows ETH above the 20 daily moving average for the first time since early June and the altcoin is above the descending triangle. Ether appears to have topped out at the upper Bollinger band arm — and as volume dries up — a Doji candle has formed.
+As suggested for the ETH/BTC pair, Ether could pull back to the 20DMA over the short-term.
+Cautious traders might consider waiting for ETH to overtake 0.01989 and 0.02239, whereas ambitious traders will probably take a position now with a tight stop loss and attempt to capitalize on the 8 to 23% gains to collected if ETH moves to 0.02239.
+It’s clear Ether still has plenty of work to do. One hopes it will rally to the 20 WMA at 0.02330. Those brave souls already in a position might consider placing a stop loss at 0.01725, which rests atop the upper arm of the descending triangle.
+Following the trend of oscillators being reset, the weekly RSI on the ETH/BTC has changed course from 25.68.
+The daily RSI on the ETH/BTC has moved above 45, which has functioned as an overhead resistance since July 1.
+Similar to the ETH/USD pair, the weekly Stoch on the ETH/BTC pair has reset and if previous performance can be looked to as a guide, the current bullish cross on the oscillator could mean Ether is positioned for impressive gains.
+If Ether corrects and drops back below the $170, losses could accelerate to last support at $146. A drop below this point could open the door to a precipitous drop to the $80s.
+This cataclysm could be kicked off if Bitcoin price drops from the descending wedge or to the mid-$9,000s again. Fortunately, the weekly time frame looks okay and setting a higher high above $196 would be encouraging.
+Traders should keep an eye out for a steady increase in purchasing volume and hopefully the achievement of a higher high on the daily timeframe. A move to $196 would also bring Ether above the ascending wedge and closer to the 23.6% Fibonacci retracement level at $211.
+Given that Bitcoin price could be nearing the end of its consolidation phase and traders are anticipating wild volatility, those trading Ether should be using a tight stop loss and taking a percentage of profits on the way up, assuming Ether manages to continue gaining.
+As labeled on the daily chart, taking some profit at $202, $215 and $230–$240 might be wise.
+While trailing stops are not supported by most exchanges, traders can be vigilant and adjust their stops in the event Ether continues to rally higher.
+The views and opinions expressed here are solely those of the author and do not necessarily reflect the views of Cointelegraph. Every investment and trading move involves risk. You should conduct your own research when making a decision.

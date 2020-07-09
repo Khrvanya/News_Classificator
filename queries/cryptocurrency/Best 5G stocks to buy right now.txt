@@ -1,0 +1,35 @@
+The upcoming transition from 4G to 5G is likely to initiate a new vibration in the tech industry. In the same way that a transition to 4G opened up space for the emergence of smartphones, mobile commerce, and mobile banking, the introduction of 5G network is expected to usher the next wave of technological advancements.
+A key factor behind the upcoming 5G revolution is the network’s speed. 5G is fast. Really fast. When Techradar’s journalists tested the 5G network in Chicago, one of the tests peaked at a stunning 1.385Gbp/s.
+For instance, downloading the entire season of Netflix’s hit series Stranger Things requires 76 minutes with a 4G network. On the other hand, its successor performed the same job in less than 39 seconds. Blindingly fast.
+The International Data Corporation has projected the number of 5G connections to grow from roughly 10.0 million in 2019 to 1.01 billion in 2023. Logically, investors will be reading these kinds of reports and asking themselves how they can profit from the much-awaited 5G revolution.
+The United States are pushing hard to accelerate the 5G rollout. Trump’s administration is paying nearly $10 billion to satellite providers to fast-track the auction of 5G C-band spectrum by 2023.
+Here, we outline five 5G stocks for first-time buyers that are likely to benefit from the mass deployment of the 5G network across the globe.
+A San Diego-based tech giant Qualcomm ( NASDAQ:QCOM ) is expected to be a major player in the 5G rollout, due to its impressive portfolio of intellectual property connected to the 5G technology.
+Qualcomm has an agreement with Apple to produce 5G chips for the iPhone-maker until at least 2023. Apple is expected to rollout its new 5G-enabled smartphone later this year, which should also include Qualcomm’s Snapdragon X55 5G chip.
+Therefore, supplying Apple – which sold 72.9 million iPhones in the fourth quarter last year – with 5G chips should enable Qualcomm with enough revenue to continue investing in the 5G network.
+Shares of Qualcomm hit a record high in January just before the COVID-19 market selloff took place with the stock price having already recovered more than half of the coronavirus-related losses.
+Last week, Invezz reported that Qualcomm topped market estimates for profit and revenue for its second quarter. In its earnings report, Qualcomm has projected 5G phone shipments to be in the range of 175 million and 225 million in 2020.
+Marvell Technologies ( NASDAQ:MRVL ) is a well-known producer of storage chips. The tech company placed itself in a very good position to benefit from the 5G revolution when it acquired its competitor in the chipmaking industry – Cavium – for about $6 billion in 2018.
+Marvell has been on a roll recently, striking a contract with Samsung to provide chips to power LTE and 5G base stations. Moreover, the California-based company was chosen by Nokia to help the Finnish telecom giant to solve its 5G chip problems.
+“Buy Marvell Tech because 5G is king,” said CNBC’s Jim Cramer recently.
+Moreover, Needham analyst Quinn Bolton sees Marvell as a big beneficiary of the increasing 5G base station infrastructure, projecting around $6 billion in annual sales globally from this segment.
+Shares of Marvell are trading around 10% off the 2020 highs, with technicals aligning for a potential move to $32 later this year, a 24.5% premium on the current market price.
+In March, Marvell reported higher-than-expected quarterly earnings that helped the stock price launch higher.
+China Mobile ( OTCMKTS:CHLKF ), a major provider of telecommunications and other related services in Mainland China, is primed to yield benefits from the 5G rollout, as China is expected to account for most 5G phone sales in 2020.
+As the biggest wireless services provider in a country that is home to 1.4 billion people, China Mobile is a natural beneficiary of the 5G rollout.
+It was reported last month that China Mobile awarded contracts worth $5.2 billion to acquire 232,000 5G base stations, and extend its reach in additional 28 regions in China. The aim is to have 300,000 5G base stations by the end of the year.
+Shares of China Mobile are down 9% since the beginning of the year.
+Similar to Qualcomm, Texas Instruments ( NASDAQ:TXN ) produces chips that are a necessary equipment for 5G infrastructure. As a major player in the semiconductor industry, Texas Instruments is another company expected to benefit from an uptick in demand for chips it produces.
+“5G is likely to be a multiyear secular driver broadly across the semiconductor universe,” Raymond James analyst Simon Leopold said.
+Invezz reported last month that Texas Instruments reported stronger-than-expected financial results for the first quarter, with revenues for the second quarter seen in the region of $3 billion.
+Shares of the company traded at record highs in January and February, before correcting lower amid the 2020 stock market selloff.
+Skyworks Solutions ( NASDAQ:SWKS ) is primarily a supplier of radio-frequency (RF) chips for numerous industries, including mobile, broadband, and wireless. Similar to Qualcomm, Skyworks is one of the most prominent suppliers for Apple with nearly 50% of annual revenues coming from the iPhone producer.
+“I think the technologies that we’re working on in our ecosystem with partners like Verizon and infrastructure players and even the Chinese, we’re all coming together to make this work, but it’s a real indication of how necessary these applications are to the economy,” said Skyworks Solutions CEO Liam Griffin.
+The tech giant also produces turnkey engines that are seen as a critical element of the wireless infrastructure.
+“Skyworks has established itself as a leader in developing breakthrough 5G platforms for mobile,” said John O’Neill, vice president of marketing for Skyworks, after the company announced it is accelerating plans for adoption of 5G massive Internet of Things (IoT) applications.
+After a deep pullback in March, shares of Skyworks have since rebounded nearly 50%, trading above the $100 mark once again.
+The introduction of 4G started a new tech era with the focus placed on smartphones, online banking, and e-commerce. Analysts are predicting around 75 billion connected devices to be globally operating by 2025.
+Read more: ways to begin investing in stocks and the stock market.
+The rollout of 5G network has already started, with the end of this year and 2021 being mentioned as when the mass adoption should start. Among sectors that are expected to play a massive role in the 5G rollout are telecom, data center, network infrastructure, wireless etc.
+Companies producing critical infrastructure for 5G, like Qualcomm, Skyworks, Texas Instruments, and Marvell, are expected to benefit immensely, as well as the carriers that are already investing billions in the 5G infrastructure, like China Mobile.
+Specialising in economics by academia, with a passion for financial trading, Michael Harris has been a regular contributor to Invezz. His passion has given him first hand experience of trading, while his writing means he understands the market forces and wider regulation.

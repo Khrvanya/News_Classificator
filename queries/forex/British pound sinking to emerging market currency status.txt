@@ -1,0 +1,25 @@
+Brexit has permanently altered investors’ views on sterling, Bank of America warns
+The pound is now an emerging-market currency in all but name, according to analysts at Bank of America , who say that Brexit has turned it into a mirror of the “small and shrinking” UK economy.
+In the four years since the UK voted to leave the EU, trading conditions in the pound and the big swings in exchange rates make it a better match with the Mexican peso than the US dollar, said Kamal Sharma, a currency analyst at Bank of America. He said movements in the currency since the June 2016 Brexit vote had become “neurotic at best, unfathomable at worst”.
+The bank’s analysts noted that the difference between rates at which investors were willing to buy and sell sterling remained bigger than in other major currencies, even after the broader market settled in the wake of the coronavirus-related panic in March.
+Implied volatility, a measure of investors’ expectations of the scale of future price moves, has also remained higher in the pound than for major peers. Bank of America said that underlined a lack of clarity over the currency’s prospects.
+Failure to reach a deal on Britain’s future relationship with the EU within the next six months would be “disastrous” for the pound, said Vasileios Gkionakis, global head of foreign-exchange strategy at Lombard Odier. Sterling could fall to $1.10 or below, he said, from $1.25, while the euro could converge to parity from £0.90.
+Inside Business with Ciarán Hancock · Back in business: Irish companies prepare to reopen
+Traditionally, sterling has been part of the so-called G5 currency group – alongside the dollar, the euro, the Japanese yen and Swiss franc – as one of the most heavily traded and therefore safest currencies in the world.
+But since the Brexit vote, uncertainties over the relationship between the UK and the EU have made investors less willing to take views on the currency, resulting in a drop in liquidity. That means that the pound can no longer be analysed according to the same framework as other major currencies, said Mr Sharma.
+“The pound increasingly resembles the more liquid emerging market currencies rather than a core G10 currency,” Mr Sharma wrote in a research note to clients on Tuesday, the fourth anniversary of the UK’s referendum on EU membership.
+The pound has not recovered to levels before the UK voted to leave the bloc, losing about a fifth of its value. And since the start of the pandemic, sterling has moved violently. At the height of the crisis, investors were bracing for such great swings in the pound that only the Brazilian real experienced a larger increase in implied volatility.
+Sterling plunged to a multi-decade low against the dollar in mid-March, before recovering after the US Federal Reserve and other major central banks stepped in to cool the dollar.
+But on-off trade talks between the UK and the EU have hurt sentiment towards the pound. The possibility of the Bank of England pursuing negative interest rates has also curbed the currency’s rally – as has the country’s ballooning fiscal deficit following a huge increase in spending to alleviate the worst effects of coronavirus.
+Headwinds are continuing to build for sterling, said Mr Sharma, given the year-end deadline for finalising the EU trade relationship and the country’s persistent current account deficit.
+“We believe sterling is in the process of evolving into a currency that resembles the underlying reality of the British economy: small and shrinking with a growing dual deficit problem similar to more liquid [emerging market] currencies,” he said. – Copyright The Financial Times Limited 2020
+/* Any CSS that needs to be patched put here with date and jira ref.
+  @media only screen and (max-width: 767px){.span2 .soa.feature_box .feature_text:before {top: 70px;}}
+    var minWidth = 1100;
+    var shouldShow = jq('body.isArticle.anonymous')[0] != undefined;
+  	var tab = '<div class="floating_tab slideFromLeft"><a class="gtm-event" data-evt-category="/digital-subscriptions" data-evt-action="Go to StoreFront" data-evt-label="Subscribe Now: Floating Tab" href="/digital-subscriptions"><b>Subscribe Now</b></a></div>';
+ -webkit-box-shadow: 5px 0px 20px 0px rgba(81, 81, 81, 0.7); -moz-box-shadow:    5px 0px 20px 0px rgba(81, 81, 81, 0.7); box-shadow: 5px 0px 20px 0px rgba(81, 81, 81, 0.7);}
+@media only screen and (max-width: 1101px) { .floating_tab{display:none !important;} }    
+            var lazyAds = adLazyloaded;
+            var active = false;
+                                    return ad !== lazyAd;

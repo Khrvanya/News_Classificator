@@ -1,0 +1,34 @@
+Pivot Or Perish Market Dashboard India-China Face-Off The Future Of Covid Tracker Lounge Coronavirus India2Global Emerging Tech Conclave #WFHLife Long Reads Money With Monika, Season 4 Mint 50 - Top Mutual Funds Plain Facts Mark To Market Podcasts Money With Monika, Season 3 Companies Markets Money Start-ups Mutual Funds Insurance Technology Industry Opinion Politics
+1 min read . Updated: 04 Nov 2019, 03:30 PM IST Ishita Guha
+JSW Steel was the top gainer among Nifty 50 constituents, climbing up nearly 6%
+Shares of Indian metal and mining companies—Tata Steel Ltd, JSW Steel Ltd, Vedanta Ltd and Hindalco Industries Ltd—surged on Monday due to optimism over US-China trade deal. While JSW Steel was the top gainer among Nifty 50 constituents, climbing up nearly 6%, Tata Steel and Vedanta rose 4.5% and 3.5% respectively.
+According to news reports, US commerce secretary Wilbur Ross on Sunday said he was “quite optimistic" that challenges related to the first phase of the US-China trade talks will be resolved soon. Ross also said leaders of both the nations are still scheduled to meet later this month.
+US president Donald Trump and Chinese leader Xi Jinping are set to meet in November, Ross said, adding that the venue of the meeting was a “work in progress". The clarification comes as the Chilean government last week cancelled the Asia-Pacific Economic Cooperation, or APEC, summit amid political unrest in the country. The summit was scheduled for 16-17 November in Santiago.
+The US is the world’s largest steel importer, importing more than 25 million tonne of the alloy. Though India is a minor exporter of steel to the US, a higher tariff is likely to have affected 50% of total imports to the US, triggering a global glut and slump in prices.
+In the case of China, the largest producer and exporter of steel in the world, investors fear that the Asian nation would end up having excess capacity that would need a new market.
+The US and China are the world’s largest economies and hence also the largest consumers. A protracted trade war between the two have already dented outlook for most commodities, including metals, and hence any likelihood of a breakthrough in talks is a welcome sign.
+In July 2018, tensions between Washington and Beijing came to the fore when Trump imposed sweeping tariffs on China for its alleged unfair trade practices. The US so far has slapped tariffs on $550 billion worth of Chinese products. Beijing has retaliated with tariffs on $185 billion worth of US goods.
+Both sides have also threatened qualitative measures that affect US businesses operating in China. Leaders of the two nations, in various attempts, have tried negotiating and reaching a common ground but have so far failed.
+* Thank you for subscribing to our newsletter.
+Click here to read the Mint ePaperLivemint.com is now on Telegram. Join Livemint channel in your Telegram and stay updated
+You are now subscribed to our newsletters. In case you can’t find any email from our side, please check the spam folder.
+lozad('.lozad', { load: function(el) { el.src = el.dataset.src; el.onload = function() { el.classList.add('fade')}}}).observe()
+.myAccount .planSec, .myAccount a.LinkCTA{padding:16px; margin:16px; box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.1); background-color: #fff;}
+	       		var userData = data;
+	       		var name = userData.name;
+	       		var email = userData.email;
+	       		var signupSource = userData.source;
+	       		var subscribedAtOnce = userData.subscribedAtOnce;
+	       		var plan  = userData.plan;
+	       		document.getElementById('uName').innerHTML = "<strong>"+name+"</strong>" + email;
+		       		var status = planData.status;
+		       		var purchaseSource = planData.source_device;
+			       		var nextActivationDate = planData.current_term_ends_at;
+			       		var planDescription = planData.plan.description;
+			       		var planName = planData.plan.name;
+			       		var planPrice = planData.amount;
+			       		//var planInterval = planData.shipping_interval;
+			       		var planInterval = planData.duration;
+			       		var planUnit = planData.interval_unit;
+			       		//var html = "<strong>Your Subscription Plan</strong>"+planName+" ₹"+planPrice+" / "+planInterval+" " + nextBillingHtml + cancelHtml; 
+			       		var html = "<strong>Your Subscription Plan</strong> "+planDescription + " "+ planName +": ₹"+planPrice + " "+ nextBillingHtml + cancelHtml;

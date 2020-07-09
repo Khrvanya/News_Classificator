@@ -1,0 +1,14 @@
+By dan saada June 10, 2020 Off
+The Monero Audit Workgroup have been into lot of auditing tasks in the past.  They are into a new auditing task now.  The focus of the audit is on CLSAG (Concise Linkable Ring Signatures).
+Justin Ehrenhofer named, ArticMine, BinaryFate, Justin Ehrenhofer, Sarang Noether (abstained), SerHack as members in the workgroup who do not receive compensation.  The Work Group will be doing the auditing.  The community is watching the audit very closely.
+Justin Ehrenhofer, recently initiated a funding request for the Concise Linkable Ring Signatures (CLSAG) research process.
+The CLSAG basically focuses on ensuring efficient Monero transactions without having to give up on privacy.  The CLSAG, as a research process, focuses on improving the efficiency of Monero transactions without creating disadvantages. The CLSAG is considered necessary because, it is a compact signature scheme which will further reduce the transaction size by ~25% and also improve verification performance by ~20%!
+“Multilayered Linkable Spontaneous Anonymous Group” is abbreviated as MLSAG.  The current CLSAG is an improvement for MLSAG. Also, the CLSAGs requires a hard fork for implementation.
+The current auditing process is community-sponsored, and therefore the cost breakout has been submitted.  The excess and shortfalls of funds due to market volatility will be donated to, or adjustments will be made from the Monero General Fund.
+Sydney Ifergan, the crypto expert, tweeted:  “Monero (XMR) working a lot on the technical side, while not missing out on the Monero General Fund.”
+Monero XMR tweeted about the CLI & GUI v0.16.0.0 ‘Nitrogen Nebula’ release.
+The Nitrogen Nebula features Dandelion++ and provides for major Bulletproof verification improvements.
+Talking about Nitrogen Nebula, the level of work involved is huge.  Therefore, anything which tightly integrates with the wallet2 code can actually be a daunting task. Thus, trying to establish the difficulty of the task.  The commentator further stated that the developer has been chipping away at this code for some time and eventually came out on top!
+Technical side apart, several investors were asking about how they can get XMR for free. For now, the only way to get free Monero is to mine the CPU using the GPU.
+While Monero speaks about anonymity, they are asking for KYC. This appears contradicting. However, KYC is considered important to ensure long term support, and it is not practical to dispense it for anonymity.
+Support is improving because Merchants are making money useful by accepting XMR, and they are exchanging goods and services for it, thus adding to the value of XMR.

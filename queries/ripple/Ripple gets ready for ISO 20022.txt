@@ -1,0 +1,7 @@
+Editorial | what does this mean?
+This content has been selected, created and edited by the Finextra editorial team based upon its relevance and interest to our community.
+Ripple claims to have become the first blockchain-focused payments company to join the ISO 20022 standardisation committee, future-proofing its business for the eventual arrival of the data-rich messaging protocol.
+Ripple's move follows testy exchanges between Swift and the European Central Bank over the surprise decision by the interbank messaging network to shift the ISO 20022 migration date for cross-border payments from November 2021 to end 2022.
+For Ripple, a closer connection to ISO 20022 will help it to drive interoperability with global payment networks and add a sheen of regulatory legitimacy to its associated (but we are told by Ripple 'independent') cryptocurrency XRP.
+Ripple confirmed the move in a short statement on its Website: "The world is converging on a new global standard—ISO 20022, the de facto global data standard for modern payments.
+"To help enable this next step in global interoperability and meet the evolving needs of our customers, Ripple is now part of the ISO 20022 Standards Body — the first member focused on Distributed Ledger Technology (DLT)."

@@ -1,0 +1,49 @@
+Established in 2017, Webull is a mobile application broker that highlights the commission-free stock and Exchange-Traded Fund (ETF) trading. Webull is regulated by the Financial Industry Regulatory Authority (FINRA) and the Securities and Exchange Commission (SEC). It is also a member of the Securities Investor Protection Corporation (SIPC).
+Webull offers several trading courses, trading simulator, demo account with current data, and advanced charting abilities for U.S. listed stocks. Moreover, these features can benefit beginners who need to get familiar with the market and build up a trading plan.
+Webull primarily focuses on intermediate and experienced independent investors and traders. Webull’s commission-free structure is mainly designed for active and short-term traders, who can save a substantial sum on commissions when compared with other online brokers.
+Webull offers technical indicators, ratings from research companies, economic calendars, short-selling, and margin-trading for its active clients.
+Users can set up a new account via Webull.com or the app store. Most new account applications are approved in 1 hour. It might take a long time if the application needs further verification.
+Webull supports only stocks and ETFs in significant markets. The trader cannot trade mutual funds, options, or access pink sheet/OTC stocks. If the trader is looking for stocks and ETFs, then Webull can be a great decision.
+Funds can be added to the account with an ACH bank transfer. Moreover, there is no minimum deposit required.
+Webull allows its customers to download the app with ease. It also permits the user to trade easily on its app, which appeals to traders at all experience levels. The Webull trading platform is a simple-to-utilize and intuitive interface on both the desktop version and mobile application.
+This broker offers traders commission-free trading over various stocks and ETFs.
+There is no software platform fees or account maintenance fees.
+Webull does not charge to open and maintain an account.
+Moreover, leverage of 4:1 on margin trades on the same day and leverage of 2:1 on trades held overnight.
+Webull offers an intuitive trading platform with fundamental and technical tools analysis.
+This broker offers high-quality platforms for Mac, Windows, iOS, Android, and the web. Also, it supports the PC version.
+It offers paper trading, extensive research tools, customizable charting features, advanced order types, accessibility for multi-platform and free current quotes on certain stocks.
+Webull, the leading trading platform is available in the mobile web-based and desktop application with features that are helpful for intermediate and experienced traders. The tools provided by the platform give information and knowledge to assist the traders in making profitable trades.
+Concerning fundamental analysis, the platform lets the traders access experts’ recommendations, revenue and earnings per share, key insights, insider trades, stock information like dividends, earnings, and news feeds so that the trader can keep track of news that could influence the stocks.
+From the technical point of view, the application gives a real-time bar, line charts, and candlestick that have periods going from 1 minute to 1 hour and set of data that backtracks to the past 5 years. Additional technical resources incorporate popular indicators like MACD, Bollinger Bands, oscillators and several more.
+Unlike its competitors, Webull does not charge a commission on U.S. stock trades or to open and to maintain an account. Nonetheless, SEC and FINRA charges apply.
+SEC fees consist of 13 dollars as a charge for a sum of 1,000,000 dollars on only stock sales, with a 0.01dollars minimum.
+FINRA fee consists of trading activity fees (TAF) of 0.000119 dollars per share only on stock sales, with a minimum of 0.01 dollars and a maximum of 5.95 dollars.
+Webull provides a free stock promotion in which the trader needs to refer another person to Webull. In turn, the trader will get one share of stock worth up to 1,000 dollars.
+If the trader has a U.S. bank account, they can either set up an ACH (Automated clearing house) or utilize a US local wire transfer.
+ACH is free service, but the trader can transfer up to 50,000 dollars from the bank account to a Webull account in a day.
+Further, U.S. Local Wire transfers have fees related to them, however, the trader can transfer a lot bigger sum into the Webull account.
+Charges for depositing through U.S. domestic wire transfer is 8 dollars per transfer.
+Charges for withdrawal through U.S. domestic wire transfer is 25 dollars per transfer.
+If the trader has a non-U.S. bank account, the only possible way to transfer funds is through international wire transfer.
+Charges for depositing through International Wire transfer is 12.5 dollars per transfer.
+Charges for withdrawal through International wire transfer is 45 dollars per transfer.
+Considering a short position, the trader needs to acquire portions of an organization before the trader sells them. Moreover, the expense related to a short sale is the fee for obtaining the stock of the organization. This expense is variable and changes are for daily accessible stocks. Similarly, the interest on margin trading is determined daily and charges monthly.
+Webull’s parent organization, Webull Financial LLC, is a member of the Securities Investor Protection Corp (SIPC). Further, Webull protects the securities of its customers up to 500,000 dollars.
+The organization’s clearing company, Apex Clearing Corp, has likewise obtained an additional insurance policy. Over and above, the policy covers insurance for securities and cash up to 150 million dollars. 37.5 million dollars and 900,000 dollars are the maximum limits for a customer’s securities and cash respectively.
+Moreover, both the SIPC protection and the additional insurance policy held by Apex Clearing Corp, does not cover Webull’s customers from a loss of the market value of their securities.
+Webull introduced a desktop trading application for Windows, Mac, and Chrome OS in 2019.
+Webull’s desktop platform integrates advanced features onto a customer-friendly interface.
+Besides, the platform features screeners, advanced charting and integrated trading. It offers support to traders in order to analyze and trade the stocks in a simple to use platform.
+Webull’s platform runs easily and several features are intuitive. Also, the trader can use this platform for paper trading.
+Currently, Webull offers to trade in several U.S. stocks and ETFs in the United States. Besides, the broker does not support trading in options, OTC stocks, mutual funds, cryptocurrencies, bonds, so that a few may find it limiting.
+Besides, Webull enables the trader to trade the stocks accessible during extended trading hours, which includes pre-market and after-hours. Specific timing for extended trading is-
+Pre-market trading hours are from 4:00 a.m. to 9:30 a.m. EST
+After-hours trading hours are from 4:00 p.m. to 8:00 p.m. EST
+Webull allows its trader to trade with a balance of 25,000 dollars or more in value; one can access unlimited day trades. Moreover, day trading in a cash account can be funded only with settled funds.
+Webull is well focused on active stock and ETF traders. They offer individual brokerage accounts, which are completely taxable, Margin accounts and IRA accounts.
+Webull does not offer retirement accounts, custodial accounts, joint accounts, business accounts or trust accounts.
+If a trader is planning to open an account in Webull, they have to meet few requirements –
+They should have a U.S. citizenship, Valid U.S visa or permanent residency
+Webull permits its clients to choose demo or simulation trading to start with and get accustomed to the charts, tools, and real-time quotes for U.S. markets. Additionally, stop-limit orders are also acknowledged. All limit orders are Good-for-Today kind; no GTC orders are accessible.
+Webull supports stock and ETF trading, it has a noteworthy list of trade types. Basic orders supported by Webull includes market, limit, stop order (which is also called as stop-loss). Conditional and advanced orders are also accessible. These incorporate stop-loss/take-profit bracket orders, OTOCO, OCO, and OTO.

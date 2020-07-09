@@ -1,0 +1,18 @@
+Litecoin is an open source, global payment network that is fully decentralized without any central authorities; it is released under the MIT/X11 license.
+As litecoin is essentially a fork of bitcoin core (BTC), they are in most regards technically nearly identical. With substantial industry support, trade volume and liquidity, litecoin is commonly referred to as a proven medium of commerce complementary to bitcoin.
+However, litecoin does have some technical differences compared to bitcoin:
+the litecoin blockchain aims to process a block every 2.5 minutes, rather than Bitcoin's 10 minutes, which allows for faster transaction confirmation of almost four times.
+the litecoin network has a target of 84 million LTC coins, whereas bitcoin’s target is 21 million BTC.
+litecoin miners use a diiferent proof-of-work hashing algorithm –scrypt- whereas bitcoin uses the SHA-256 hashing algorithm. Scrypt requires more resources and it’s therefore generally accepted to be the best deterrent for malicious, brute force attacks on a network; but, mining hardware for scrypt is also more expensive. For those interested Litecoins ' Top Hashers ', see how many Litecoins they can earn per day.
+the litecoin blockchain also uses a slightly modified graphical user interface (GUI) compared to bitcoin.
+Because the litecoin blockchain is capable of handling higher transaction volume than its counterpart bitcoin, merchants get faster confirmation times.
+And, due to more frequent block generation, the network supports more transactions without a need to modify the software in the future.
+Litecoin’s wallet encryption allows you to secure your wallet, so that you can view transactions and your account balance, but are required to enter your password before spending litecoins; this provides protection from wallet-stealing viruses and trojans.
+Also during May 2017, history was made when the first Lightning Network transaction –which uses off-blockchain SegWit protocols- was completed through the litecoin network; transferring 0.00000001 LTC from Zurich to San Francisco in under one second.
+The primary use of litecoin is as a digital currency that can be exchanged instantly between transacting parties and at almost no cost.
+But, litecoin is also exchangeable in the open market.
+Importantly, it is not litecoin stock. Litecoin is virtual money, tradeable on cryptocurrency exchanges under the litecoin symbol LTC.
+Currently, litecoin is in the top ten of all crypto coins by market capitalization.
+The litecoin founder is Charlie Lee, a former Google employee.
+He released the litecoin blockchain via an open-source client on GitHub on 7 October 2011 and it went live shortly thereafter on the 13th.
+“Litecoin hit a record high of $64.2 on Monday and has rallied 1,400 percent since the start of the year.” – CNBC “Probably the only cryptocurrency with a recognizable brand name besides Bitcoin. AKA the Bitcoin reserve currency. PROS: -Scales better than bitcoin. -Fast confirmation time. -Active development -Bitcoin and Litecoin are the only cryptocurrencies with a recognizable brandname. CONS: -The creator could use more energy on parading his own cryptocurrency and interacting with the community.” – Revex “Differences between bitcoin include speed of transactions, size of supply, and use case.” - CNBC

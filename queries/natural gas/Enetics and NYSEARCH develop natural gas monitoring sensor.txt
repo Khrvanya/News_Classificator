@@ -1,0 +1,12 @@
+Class 1, Division 1, Zone 0 rated sensor with stainless steel enclosure. Credit: Enetics, Inc.
+Sign up here for GlobalData's free bi-weekly Covid-19 report on the latest information your industry needs to know.
+Enetics, in partnership with NYSEARCH, has completed the development and beta testing of an intrinsically safe remote natural gas distribution monitoring sensor.
+Known as ‘GasComm’, the sensor provides a cost-efficient approach to gas utilities by providing autonomous operational monitoring of steel pipe distribution gas network.
+The sensor is designed to be installed at remote points throughout the natural gas distribution system where there is no requirement of control functions.
+Enetics noted that the data acquired from these remote points can be used for alarming, asset condition assessment, and reporting. It can also be used for trending, modeling, as well as improved manpower deployment.
+The GasComm system will be offered as a package, which includes the GasComm sensor, a battery-operated remote telemetry unit with a cellular modem, and user interface (UI) software.
+NYSEARCH executive director Daphne D’Zurko said: “NYSEARCH seeks to design, develop and test products and methods for real-time sensing in the gas pipeline system.
+“Acquiring and analysing data from various field points in live pipeline conditions are important means to proactively address maintenance and operational issues.
+NYSEARCH member-funded GasComm remote monitoring sensor development is now commercially available.
+Enetics president Jeff Kramer said: “We are excited to deliver this product to the natural gas distribution industry.
+“Not only is this an excellent solution for acquiring information from data-rich points in remote sections of pipe, the system can also be inexpensively installed parallel to SCADA systems for data validation.”

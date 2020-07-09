@@ -1,0 +1,8 @@
+The average block time on the Ethereum blockchain decreased by nearly 25% after mining difficulty was lowered.
+The average block time on the Ethereum blockchain decreased by almost a quarter after the mining difficulty was decreased.
+Data reported on Ethereum block explorer Etherscan shows that from Jan. 1 to Jan. 4, the daily average block time on the blockchain decreased from 17.16 seconds to 12.96. This translates to a 24.48% shorter block time.
+Chart of the Ethereum average block time March 3-Jan. 4. Source: Etherscan
+Obviously, the block time decrease resulted in a higher number of blocks mined daily and a higher Ether ( ETH ) inflation . According to Etherscan’s Ethereum block count and rewards chart, during Jan. 1, miners create 4,980 new blocks and 10,237 ETH. Meanwhile on Jan. 4 the network’s miners created 6,570 new blocks and 13,437 new ETH. This is nearly a 32% increase in the number of blocks and over 31% increase in block rewards.
+Chart of Ethereum block count and rewards March 3-Jan. 4. Source: Etherscan
+The changes described above are all consequences of the recent implementation of the Muir Glacier hard fork , which Cointelegraph reported on Jan. 2. The fork in question is meant to delay the so-called Ethereum ice age, which Cointelegraph reported on. The ice age protocol increase the network’s mining difficulty over time until it makes the mining of the chain practically impossible.
+The ice age will come about through a series of difficulty bombs, is ultimately a measure meant to prevent miners from continuing to mine the old Ethereum chain after the Ethereum 2.0 proof-of-stake blockchain deploys.

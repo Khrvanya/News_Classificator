@@ -1,0 +1,17 @@
+Editor at TechForge Media. Often sighted at global tech conferences with a coffee in one hand and laptop in the other. If it's geeky, I'm probably into it.
+The Ethereum Foundation has outlined plans for Devcon 6 while teasing a “major announcement” in the coming days.
+Ethereum is the world’s most popular smart contract platform and the second-largest cryptocurrency behind Bitcoin. The platform’s goal to become the “world’s decentralised computer” has inspired a legion of developers to help build the open-source project and DApps (decentralised apps) for it.
+Data from Santiment shows Ethereum development leading the space. State of the DApps , meanwhile, shows Ethereum boasting 2,773 DApps while its closest rival is EOS with just 321.
+While most blockchain platforms are still associated predominantly with gambling and gaming apps, Ethereum has established itself in the flourishing DeFi (decentralised finance) space. As of writing, there is just shy of $1 billion currently “locked up” in Ethereum-based DeFi apps.
+While DeFi is exciting, Ethereum is going to need to expand its horizons further in the coming years.
+Back in January, Ethereum kicked off its One Million Devs initiative. The website for the initiative estimates there are currently around 200,000 developers working on Ethereum-based projects. The foundation wants to increase that fivefold by the year’s end.
+Devcon 6 will be an important step in that mission to attract new developers.
+The first Devcon was a small meetup in Berlin approximately a year before the Ethereum network went live. Six years on, Devcon is now a very different beast occupying large halls with big stages and many attendees eager to help usher in the Web 3.0 era.
+The Ethereum Foundation says it has five goals for Devcon:
+Use our biggest stage to send a message.
+On Twitter, Deva the Devcon Unicorn, “the voice of Ethereum’s Devcon team,” teased that a “major announcement” will be made in the coming days.
+Ethereum’s journey so far has been fascinating to watch and it’s caught the attention of many major players. The Ethereum Enterprise Alliance features hundreds of giants like Intel, Microsoft, JP Morgan, and more.
+In the past, Devcon has featured collaborations with the likes of UNICEF and the Internet Archive. First introduced two years ago, the event uses a unique speaker application process which is “decentralised through a multi-track process and over 50 reviewers.”
+Devcon 6 will be the first event when the “beacon chain” for Ethereum 2.0 will be live. The beacon chain will be the “system chain” for the next version of Ethereum as it transitions to a faster and greener “proof of stake” consensus which should address any long-term scalability issues.
+This upcoming event will be a landmark moment for Ethereum and we can’t wait to see what it brings and where the platform is going. The location is yet-to-be-confirmed, but the event will be streamed for those unable to attend.
+Interested in hearing industry leaders discuss subjects like this and sharing their use-cases? Attend the co-located 5G Expo , IoT Tech Expo , Blockchain Expo , AI & Big Data Expo , and Cyber Security & Cloud Expo World Series with upcoming events in Silicon Valley, London, and Amsterdam.

@@ -1,0 +1,9 @@
+The stock exchange of China’s technology capital Shenzhen, the Shenzhen Stock Exchange, launched an index tracking the performance of 50 blockchain firms.
+The stock exchange of China’s technology capital Shenzhen, the Shenzhen Stock Exchange (SSE), launched an index tracking the performance of 50 blockchain firms.
+According to an announcement on Dec. 24, the index will be based on the stocks of 50 companies listed on the SSE that participate in the blockchain industry.
+The top 50 blockchain-related stocks are ranked based on their average daily market value over the past six months. The index is updated two times per year: on the second Friday of June and December.
+Before creating the index, the SSE made sure that the companies involved are actually using the technology, rather than just capitalizing on the hype.
+In March 2018, SSE had suspended trading of healthcare device manufacturer Lifesense while it conducted investigations into the firm and its claims regarding blockchain deployment. A company announcement regarding the launch of a “blockchain laboratory” had caused its share price to skyrocket 10%, hitting the SSE’s daily limit.
+SSE is one of two stock exchanges operating independently in mainland China. According to stock market data website TradingHours , the SSE’s market capitalization is $3.12 trillion, making it the fourth largest in Asia and the eighth largest in the world.
+Major exchanges are beginning to list indexes that track blockchain and cryptocurrency-related firms. As Cointelegraph reported in mid-October, Nasdaq listed the AI-powered CIX100 index created by crypto data provider Cryptoindex.
+In September, Nasdaq also listed a blockchain decentralized finance index called Defix, which includes projects such as proof-of-work blockchain Amoveo, decentralized exchange protocol 0x and prediction market Augur.

@@ -1,0 +1,7 @@
+The new system allows for automated RFQ trading and it has been designed to tackle liquidity seeking challenges in US listed options.
+US agency brokerage DASH Financial Systems has launched an enhanced liquidity solution within its listed options routing service, SENSOR.
+DASH ATS is an alternative trading system designed to meet certain liquidity sourcing challenges that have become inherent in the US listed options market.
+Through DASH ATS’ automated request for quote (RFQ) process, market makers and liquidity providers can respond to client orders with their quotes.
+“Our ATS solution is unique because, unlike the traditional equity ATS model people are accustomed to, DASH Options ATS sends out RFQs to market makers and upstairs liquidity providers when we receive an order that is priced at the mid-point or better,” said Stino Milito, co-COO at DASH.
+“This allows us to electronically check for better and/or deeper markets that normally would be unavailable or inefficient to attempt to access. This is driving real value for our clients.”
+The launch of the DASH ATS within the SENSOR routing suite follows the recent addition of a next-generation dark liquidity aggregation algorithm to the SENOSR equity suite. It has also rolled out an advanced suite of portfolio trading analytics as part of DASH360.

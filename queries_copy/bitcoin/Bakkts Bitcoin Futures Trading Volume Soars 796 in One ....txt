@@ -1,0 +1,12 @@
+Bakkt’s Bitcoin Futures Trading Volume Soars 796% in One Day: Report
+The trading volume of Bitcoin futures on the Intercontinental Exchange’s Bakkt platform reportedly soared to 224 contracts on Oct. 9 — 796% higher than the previous day.
+The trading volume of Bitcoin ( BTC ) futures on the Intercontinental Exchange’s (ICE) Bakkt platform reportedly soared to 224 contracts on Oct. 9 — 796% higher than the previous day.
+According to the tracking data compiled by Twitter account Bakkt Volume Bot (@BakktBot) — which is not affiliated with Bakkt but rather with Dutch journalist and crypto author Gert-Jan Lasterie — the 224 contracts represent an apparent all-time high for the platform.
+A turnaround after tepid launch?
+Graph showing reported increase in daily traded volume for Bakkt Bitcoin Monthly Futures. Source: @BakktBot
+The bot’s data indicates that daily traded volumes of Bakkt’s Bitcoin monthly futures contracts soared from just 25 on Oct. 8 to 224 on Oct. 9.
+This uptick in volume was succeeded by a solid increase in Bitcoin’s price on Oct. 9 — from roughly $8,200 to $8,600 — as Coin360 data indicates:
+As Cointelegraph previously reported, Bakkt’s much-anticipated contracts — the first of their kind to be physically settled in Bitcoin — went live on Sept. 22.
+The platform’s underwhelming volumes in its first week were immediately compared to the fiat-settled BTC futures on CME, which first launched back in December 2017.
+In early October, Binance Research, the exchange’s analytics arm, went so far as to identify the sluggish volumes in Bakkt’s early days as a contributing factor to BTC/USD plummeting from near $10,000 to under $8,000.
+At publishing time, ICE's data indicates that 59 contracts were traded on the day so far, with the last one trading at $8,485.

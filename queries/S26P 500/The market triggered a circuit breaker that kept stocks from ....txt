@@ -1,0 +1,14 @@
+The S&P 500 fell more than 7% Monday, triggering circuit breakers that temporarily helped halt a further plunge.
+The index hit the mandatory trading halt shortly after the open , stopping trading below that level for 15 minutes. The market resumed trading at 9:49 am ET and continued a decline that saw the Dow Jones Industrial Average briefly shed more than 2,000 points.
+In addition to the S&P, the most all-encompassing large-cap stock index, the Dow tumbled 7.3% while the Nasdaq, which is concentrated in technology names, slid 6.9% before trading stopped.
+However, about 10 minutes after trading resumed, the major indexes shaved their losses though they remained down steeply for the session and were approaching bear market conditions.
+"The market circuit breakers are designed to slow trading down for a few minutes, give investors the ability to understand what's happening in the market, consume the information and make decisions based on market conditions," New York Stock Exchange President Stacey Cunningham told CNBC's Bob Pisani. "This is operating as it's supposed to."
+What is a circuit breaker?
+According to the New York Stock Exchange , a market trading halt may occur at "three circuit breaker thresholds" on the S&P 500 due to large declines and volatility. The exchange classifies this at three levels based on the preceding session's close in the S&P 500.
+The rules, which apply to regular trading hours only, are as follows:
+Level 1: If the S&P 500 drops 7%, trading will pause for 15 minutes.
+Level 2: If the S&P 500 declines 13%, trading will again pause for 15 minutes if the drop occurs on or before 3:25 p.m. ET. There will be no halt if the drop happens after that. (This would occur Monday if the S&P falls 386 points).
+Level 3: If the S&P 500 falls 20%, trading would halt for the remainder of the day. (This would occur if the S&P falls 594 points).
+These circuit breakers have never been triggered in their current form during regular trading hours. The prior circuit breaker system was revamped after it failed to prevent the May 2010 flash crash. The current set of breakers were put into effect in February 2013.
+Investors knew going into the open that this halt was a possibility based on trading in overnight futures. S&P 500 futures traded "limit down" of 5% in early morning trading, halting activity for those futures overnight Monday.
+—CNBC's Peter Schacknow and Bob Pisani contributed to this report.

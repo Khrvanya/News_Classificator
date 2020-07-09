@@ -1,0 +1,15 @@
+Ethereum recently received around $300 million in USDT tokens, which came from the TRON ecosystem.
+The reason for the move is unknown, but speculators have quite a few ideas about why it happened.
+The move was made possible thanks to Binance, which caused speculation about its relationship with TRON.
+Recently,  the crypto industry’s largest and most popular stablecoin, Tether (USDT) announced a major transfer of its tokens. As many may already know, Tether has transferred its tokens to a number of different blockchains, including those of TRON and Ethereum.
+PSA: On June 29th, Tether will coordinate with a 3rd party to perform a chain swap (conversion from Tron TRC20 to ERC20 protocol) for a sizable amount of USDt.
+Additional details will follow in coming days. Tether total supply will not change during this process.
+Now, the project announced that a major chunk of its coins will be transferred from TRON to Ethereum.
+The move comes as a surprise for many, although it will not change the number of USDT in circulation. In other words, TRON-based USDT will be burned, and the same amount of tokens will be issued on ETH blockchain.
+Apart from TRON and Ethereum ecosystems, Tether also exists on a number of other blockchains, including EOSIO, Omni, and Liquid. However, the majority of the coins are located on Ethereum’s blockchain — around 61.6%.
+A recent data published by Flipside Crypto revealed that the funds swap was conducted with Binance’s help, which sent TRON’s version of USDT to Bitfinex, in exchange for the same amount of Ethereum-based USDT.
+What does this mean for Binance and TRON?
+Historically, Binance and TRON maintained a strong and friendly relationship. TRON’s BTT was the first token to be launched on Binance Launchpad in January 2019, and the exchange publically supported both, BTT and TRX.
+Now, however, Binance helped Tether withdraw $300 million in USDT from TRON, and it injected the same amount into Ethereum’s ecosystem. The reason for the swap still remains unknown, although there are plenty of speculations about the move.
+Another thing worth noting is that this will likely have considerable consequences, since TRON’s version of USDT was the dominant token of the TRON ecosystem . Meanwhile, since the rise of DeFi, it is possible that the USDT move had something to do with the coin’s desire to participate in Ethereum’s DeFi projects . However, this is only one possibility, with plenty of others being just as likely.
+A journalist, with experience in web journalism and marketing. Ali holds a master's degree in finance and enjoys writing about cryptocurrencies and fintech. Ali’s work has been published on a number of cryptocurrency publications. Raza is the co-founder of 5Gist.com, too, a site dedicated to educating people on 5G technology.

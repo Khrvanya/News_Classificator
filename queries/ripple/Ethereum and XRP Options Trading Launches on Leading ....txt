@@ -1,0 +1,10 @@
+Binance now offers Ethereum and XRP options trading, just a month after launching Bitcoin options trading.
+In a statement, the leading crypto exchange says the updated version of its mobile app now supports options trading for BTC, ETH and XRP, the leading cryptocurrencies by market cap.
+— Binance (@binance) May 25, 2020
+Options are contracts that give the buyer the right, but not the obligation, to purchase the underlying asset at a predetermined price, known as the strike price, on or before a specified date.
+“The premium is first deducted from the futures wallet balance, and only after is profit calculated. In rare cases, this deduction may cause the futures position to enter liquidation. Before placing an options order, please ensure that you have adequate free margin in your futures wallet balance.”
+Options trading allows investors to reduce the risk exposure of their portfolio, generate income, or hold a leveraged position in an asset at a lower cost, but like other financial instruments, Binance says it comes with potential losses.
+“Most options purchases will not be profitable, but a minority will be very profitable. Please use at your own discretion.”
+The exchange has continued to expand its offerings and has maintained its lead as the top crypto exchange in the world.
+Binance reported  a user base of over 15,000,000 worldwide in 2019 and a 24-hour trading volume of $4.6 billion, according to data compiled by CoinMarketCap , the crypto data site purchased by Binance last month. Data aggregator CoinGecko also ranks Binance as the top spot exchange by trading volume, at time of writing.
+Disclaimer: Opinions expressed at The Daily Hodl are not investment advice. Investors should do their due diligence before making any high-risk investments in Bitcoin, cryptocurrency or digital assets. Please be advised that your transfers and trades are at your own risk, and any loses you may incur are your responsibility. The Daily Hodl does not recommend the buying or selling of any cryptocurrencies or digital assets, nor is The Daily Hodl an investment advisor. Please note that The Daily Hodl participates in affiliate marketing.

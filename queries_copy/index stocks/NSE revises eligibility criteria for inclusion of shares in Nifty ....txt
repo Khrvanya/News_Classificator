@@ -1,0 +1,34 @@
+1 min read . Updated: 20 Aug 2019, 06:35 PM IST PTI
+The National Stock Exchange (NSE) on Tuesday said it has revised the eligibility criteria for inclusion of stocks in the Nifty indices.
+According to the amended rules, "all equity shares that are traded (listed and traded and not listed but permitted to trade) at the exchange are eligible for inclusion in the Nifty indices," the NSE said in a release.
+Earlier, only those equity shares that were listed and traded on the exchange were eligible for inclusion in the Nifty indices.
+Now, scrips that are not listed on the exchange but are permitted to trade would also be considered for inclusion in the indices.
+At the end of July, there were 1,950 listed shares on the NSE, while 1,887 were available for trading. Shares of as many as 18 companies that were not listed were allowed to trade at the end of the month, according to data available with the exchange.
+However, "convertible stock, bonds, warrants, rights, preferred stock that provide a guaranteed fixed return and stocks under BZ series are not eligible for inclusion in the Nifty indices," it added.
+The BZ series includes companies that have failed to comply with the listing requirements or not resolved investor complaints.
+"The revision shall come into effect from the forthcoming review of equity indices," the exchange said.
+The changes in the eligibility criteria have been made after a review by the the Index Maintenance Sub-Committee of NSE Indices Ltd.
+This story has been published from a wire agency feed without modifications to the text. Only the headline has been changed.
+* Thank you for subscribing to our newsletter.
+Click here to read the Mint ePaperLivemint.com is now on Telegram. Join Livemint channel in your Telegram and stay updated
+You are now subscribed to our newsletters. In case you can’t find any email from our side, please check the spam folder.
+lozad('.lozad', { load: function(el) { el.src = el.dataset.src; el.onload = function() { el.classList.add('fade')}}}).observe()
+.myAccount .planSec, .myAccount a.LinkCTA{padding:16px; margin:16px; box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.1); background-color: #fff;}
+	       		var userData = data;
+	       		var name = userData.name;
+	       		var email = userData.email;
+	       		var signupSource = userData.source;
+	       		var subscribedAtOnce = userData.subscribedAtOnce;
+	       		var plan  = userData.plan;
+	       		document.getElementById('uName').innerHTML = "<strong>"+name+"</strong>" + email;
+		       		var status = planData.status;
+		       		var purchaseSource = planData.source_device;
+			       		var nextActivationDate = planData.current_term_ends_at;
+			       		var planDescription = planData.plan.description;
+			       		var planName = planData.plan.name;
+			       		var planPrice = planData.amount;
+			       		//var planInterval = planData.shipping_interval;
+			       		var planInterval = planData.duration;
+			       		var planUnit = planData.interval_unit;
+			       		//var html = "<strong>Your Subscription Plan</strong>"+planName+" ₹"+planPrice+" / "+planInterval+" " + nextBillingHtml + cancelHtml; 
+			       		var html = "<strong>Your Subscription Plan</strong> "+planDescription + " "+ planName +": ₹"+planPrice + " "+ nextBillingHtml + cancelHtml;

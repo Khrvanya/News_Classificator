@@ -1,0 +1,8 @@
+Ethereum, the second-most valuable cryptocurrency has done far better than almost any other financial asset over the past weeks.
+Like Bitcoin, Ethereum has done far better than almost any other financial asset over the past weeks. Since the March 13, 2020 price level of $106, Ethereum now costs $200, a gain of over 88%.
+According to data from Coinmarketcap, Ethereum, the second-most valuable cryptocurrency by market capitalization, had a value of $22.4 billion and a daily trading volume that stood at about $14.4 billion, at the time of drafting this report.
+Meanwhile, the much-awaited Ethereum upgrade, known as Ehereum 2.0, could potentially boost its present bullish trend.
+Ethereum 2.0 stands for a fundamental shift in its original designed structure, from the proof-of-work model to an upgrade known as a proof-of-stake model.
+Lately, Ethereum Foundation researcher, Justin Drake, wrote on Twitter about Ethereum being long overdue for an upgrade. He said, “Ethereum 2.0 could have been launched a year or two sooner had the team decided to make things easier for themselves, e.g. by going through fewer design iterations.”
+We made Eth2 hard for ourselves:
+We could have launched a year or two earlier the easy way. It was painful but it was right. Our investments will pay off for decades

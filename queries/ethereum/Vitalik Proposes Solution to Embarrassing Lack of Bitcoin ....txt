@@ -1,0 +1,8 @@
+Ethereum co-founder Vitalik Buterin suggests a DEX-bridge solution to the “embarrassing” lack of easy movement between Bitcoin and Ethereum networks.
+Ethereum co-founder Vitalik Buterin posted a tweet on March 24 claiming that the continuing lack of easy movement between the Ethereum and Bitcoin networks was embarrassing.
+As a solution, he proposed putting resources into building a decentralized exchange (DEX), to act as a trustless bridge between the two.
+Buterin’s plan calls for the DEX to be trustless and serverless, with a user experience very similar to Uniswap. Uniswap is a decentralized exchange that runs without an order book, instead relying on asset pairs with Ether as a fixed base currency.
+As Cointelegraph reported , Uniswap has just announced plans to release a V2 update in Q2 2020, which will allow direct token-to-token swaps.
+Decentralized exchanges have struggled to gain market share against traditional exchanges, despite being more closely aligned to the overall trustless ethos of cryptocurrency. Part of the issue has been a lack of liquidity, although a dedicated Bitcoin–Ehereum DEX supported by Buterin may well see greater uptake.
+Vitalin suggested further suggested that Bitcoin was not the only potential destination for a DEX bridge from Ethereum, and other blockchain ecosystems should also be up for consideration.
+Buterin specifically mentioned Zcash as one example, saying that he has already had discussions to this end with Zooko Wilcox, CEO of Zcash-creators, the Electric Coin Company. However, he admitted that they could both work harder to turn such talk into action.

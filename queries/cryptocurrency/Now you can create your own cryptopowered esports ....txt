@@ -1,0 +1,12 @@
+The global esports market is valued at over $1 billion (Image: Shutterstock)
+Verasity has launched a feature that lets you create crypto-powered esports tournaments.
+The first Verasity-powered tournament features professional CS:GO players.
+The product uses blockchain technology to ensure that people are watching advertisements on the platform.
+Want to get paid for playing video games? Join the line, at the front of which is a VIP area reserved for professional gamers and streamers who subsist on sponsorships and lucrative esports tournaments.
+Saving some for the rest of us is Verasity, a crypto company that this week launched a “jackpot” feature, letting you create crypto-powered esports tournaments with your friends—or, should you be so lucky, fans.
+Verasity has kicked things off with its first major tournament, “CryptoClash,” where pro players will duke it out on Valve's tactical shooter Counterstrike: Global Offensive.
+The first Verasity-powered tournament is already underway and will conclude on July 2. Nathan “NBK” Schmitt and Xccurate , and a handful of other professional players are among participants. May the best player win!
+But the point is that anybody can set up a tournament, co-founder R.J. Mark Hain told Decrypt.
+“Most esports players have no way to make any money from their gaming,” he said. Verasity’s service “allows them to create a small tournament with jackpots that are either partially funded by sponsors like Verasity and others, or just amongst their fan club.”
+Verasity’s product is what it calls “proof of view.” It uses blockchain technology to ensure that people are actually watching advertisements on the platform; this is beneficial for advertisers concerned about bots farming videos for views. Verasity’s SDK integrates with video sites like YouTube and Switch.
+Verasity, whose 30-strong development team are scattered around the UK and Poland, got into eSports due to the coronavirus pandemic, which Hain said slashed the programmatic ad market in half.

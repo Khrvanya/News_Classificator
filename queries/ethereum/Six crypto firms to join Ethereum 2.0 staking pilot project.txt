@@ -1,0 +1,15 @@
+Binance, Crypto.com and four others have joined Codefi's Ethereum 2.0 staking pilot program.
+Ethereum is the second biggest coin by market cap. Image: Shutterstock.
+The first six members of Codefi's staking pilot for Ethereum 2.0 have been announced.
+Binance, Crypto.com, DARMA Capital, Huobi Wallet, Matrixport, and Trustology will all participate in the project.
+Codefi is aiming to lower the barriers to participation in staking networks, by giving institutions the tools they need to stake on behalf of their customers.
+Six high-profile crypto startups will participate in an Ethereum 2.0 staking pilot project run by Codefi , a new product suite for commercial applications of decentralized finance (DeFi). It is administered by Ethereum-focused incubator, ConsenSys, which also funds an editorially independent Decrypt.
+Announced today, the program’s participants include cryptocurrency exchanges Binance and Crypto.com ; digital investment fund DARMA Capital ; Huobi Wallet ; digital assets management platform, Matrixport , and custodial wallet provider Trustology .
+The coming upgrade is the most significant in the blockchain’s history to date; it will introduce a proof-of-stake
+A type of consensus protocol. It uses a number of criteria based on how invested a miner or node is in the network to decide whether they are allowed to process transactions.
+consensus mechanism, moving the network away from its existing proof-of-work architecture.
+The upgrade will introduce a network of validators who will guarantee compliance with the rules, by placing a security deposit of 32 ETH each (worth around $7,500). A minimum of 16,384 validators, staking 524,288 ETH, are needed for Ethereum 2.0 to go live. The minimum value is designed to ensure that the network will be secure enough for launch.
+Staking rewards participants, and adds security to the network, but it can be complex for the average layperson, and risks include theft or loss of withdrawal keys or incorrect transfer of funds. Hence, Codefi is aiming to lower the barriers to participation in staking networks by enabling exchanges, custodians, funds, wallets and other potential customers to access the long-anticipated Ethereum 2.0 network, on behalf of their customers.
+“With staking on Binance, users can receive staking rewards without needing to set up nodes, or worrying about minimum staking amounts, time lengths, or any catches,” said said Binance CEO Changpeng Zhao. “With the eventual launch of Ethereum 2.0, we are excited to support staking for all.”
+The six firms will all gain early access to the Codefi Ethereum 2.0 staking solution. They can provide feedback and feature requests on the project’s new staking API, ahead of the first phase of the Ethereum 2.0 launch later this year.
+Get the best of Decrypt where you want it most.

@@ -1,0 +1,12 @@
+The central banks of Britain, Japan, the euro zone, Sweden and Switzerland have grouped up to assess potential use cases for digital currencies.
+Talk of such currencies gained momentum after Facebook announced plans last year to introduce a cryptocurrency called libra.
+The new group will be co-chaired by ECB Board Member Benoit Coeure and Bank of England Deputy Governor Jon Cunliffe.
+A visual representation of digital cryptocurrency coins on display in front of Facebook and Libra logos.
+Some of the world's largest central banks are teaming up on an initiative to explore digital currencies.
+The central banks of Britain, Japan, the euro zone, Sweden and Switzerland have grouped up with the Bank for International Settlements (BIS) to assess potential use cases for such currencies.
+The topic of central bank digital currencies (CBDC) has gained momentum among major institutions since Facebook announced plans last year to introduce a cryptocurrency called libra, which would be tied to a basket of currencies and government debt to hold a stable value.
+But the Facebook-led project has faced intense regulatory pushback, with central bankers from Federal Reserve Chairman Jerome Powell to European Central Bank Board Member Benoit Coeure warning on the potential risks of libra to global financial stability.
+In a brief joint statement Tuesday, the global central banks said they would form a new group co-chaired by Coeure — who is also head of the BIS' own initiative on digital currencies — and Bank of England Deputy Governor Jon Cunliffe.
+"The group will assess CBDC use cases; economic, functional and technical design choices, including cross-border interoperability; and the sharing of knowledge on emerging technologies," they said.
+China has been racing to issue its own central bank digital currency, but its efforts in the space have so far been light on detail. Beijing is also looking to accelerate the development of blockchain technology, the digital ledger that underpins many cryptocurrencies, including bitcoin.
+Meanwhile, former Commodity Futures Trading Commission Chairman J. Christopher Giancarlo recently announced plans to push for a digital version of the dollar. Giancarlo is due to speak on the project at the World Economic Forum in Davos, Switzerland this week.

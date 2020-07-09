@@ -1,0 +1,22 @@
+Bitcoin has recorded its best start to the year since 2012.
+Bitcoin's was trading at around $8,667.33 at 13:34 p.m. SIN/HK up roughly 21% so far this year.
+Experts put the recent rise down to the launch of CME's bitcoin options and an event known as the "halving" taking place in May.
+The halving essentially slows down the supply of new bitcoin being minted.
+Bitcoin has recorded its best start to the year since 2012. Optimism has returned to the market following a crash after the 2017 record high.
+Bitcoin was trading at around $8,667.33 at 13:34 p.m. SIN/HK up roughly 21% so far this year.
+Other digital coins including ethereum and XRP have followed suit, posting more than 20% gains in the first two weeks of 2020.
+In December 2017, bitcoin hit an all-time high of nearly $20,000 but fell sharply to just over $3,000 in December 2018. Many experts saw that as the bottom as the price of the digital currency continued to climb in 2019.
+But a few developments have helped underpin the recent price surge.
+"The Iran uncertainty combined with the positive launch of CME Bitcoin Options were strong catalysts driving an eruption in bitcoin and even adding heat to the struggling top 100 alt coins," Jehan Chu, co-founder of Kenetic Capital, an investor in blockchain start-ups told CNBC.
+"Alt coins" refer to alternative coins, a name for digital tokens other than bitcoin such as XRP or ethereum.
+Chu was referencing the current geopolitical tensions between Iran and the U.S. as well as exchange-traded bitcoin options which launched Monday on the Chicago Mercantile Exchange. These are a way for institutional investors to get invested in bitcoin which is seen as positive for the price.
+"While sentiment still drives waves of volatility, we are seeing increasing institutional volume anchoring the market," Chu added.
+Meanwhile, developments on the technical aspects of bitcoin could also be fueling recent buying.
+An event known as "halving" is happening in May. To understand what that is, it's important to understand how bitcoin's underlying technology known as the blockchain works.
+Miners with high-powered computers compete to solve complex math problems to validate bitcoin transactions. Whoever wins that race gets rewarded in bitcoin.
+Currently, miners are rewarded 12.5 per block mined. The rewards are halved every few years to keep a lid on inflation. By May 2020, the reward per miner will be cut in half again, to 6.25 new bitcoin.
+This essentially reduces the supply of bitcoin coming onto the market. Halving is an event that happens every four years. It's written into the underlying code of bitcoin. Previous halving events have preceded big price increases in bitcoin.
+Vijay Ayyar, head of Asia for cryptocurrency exchange Luno, said it is "debatable" whether this event is already priced in or not.
+"I would conjecture most normal people are unaware of it, and when the price starts running, the masses will come in as we've seen before. This is slated to happen in May 2020. So any price increase as we're seeing, people have an eye on May for sure," Ayyar told CNBC.
+He added that a $15,000 to $16,000 price on bitcoin is a "reasonable target" by year end.
+— CNBC's Ryan Browne contributed to this report.

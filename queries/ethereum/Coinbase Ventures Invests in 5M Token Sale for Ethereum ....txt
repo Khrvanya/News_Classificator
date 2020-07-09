@@ -1,0 +1,21 @@
+Please consider using a different web browser for better experience.
+Please enable JavaScript in your browser for a better site experience.
+Blockchain data startup The Graph has raised $5 million in a token sale with Framework Ventures, Coinbase Ventures, CoinDesk parent Digital Currency Group, Multicoin Capital, DTC Capital and others.
+The funding round follows a $2.5 million venture capital round early last year. The new token sale used the “simple agreement for future tokens” ( SAFT ) format for accredited investors.
+The Graph CEO Yaniv Tal said “thousands” of developers already use the startup’s tools, including the teams behind the decentralized exchange (DEX) Uniswap and the token-fueled Aragon project.
+His startup created an indexing protocol for organizing blockchain data so people can access it. People use The Graph’s open-source software to search for specific Ethereum data, the same way we search Google for a recipe, sometimes instead of running their own Ethereum node.
+Uniswap co-founder Hayden Adams said a considerable portion of the DEX ecosystem is reliant on nodes operated by Infura , the ConsenSys-owned API provider . Likewise, The Graph offers another tool for companies that want to offer Ethereum-related services regardless of direct participation in the blockchain network.
+“We use [The Graph] for Uniswap.info , our analytics site,” Adams said. “As a company we don’t manage or run our own databases. … Right now it’s pretty difficult to get historic data from the Ethereum blockchain in an efficient way.”
+Since The Graph freely provides open-source software, and isn’t promising prompt revenue, any investment in its tokens may be a signal the investor is bullish on Ethereum applications.
+“We haven’t shared the token distribution yet,” Tal said when asked about the token sale and strategy.
+Tal said Compound’s model looks like “a really good route, in general” for a crypto startup.
+“We’ll expand to other blockchains soon,” Tal said.
+In a press release, investor Michael Anderson of Framework Ventures said the firm “couldn’t be happier to back Yaniv and the team, and we look forward to helping grow the decentralized network when it launches.”
+Anderson’s firm is also invested in the price feed provider Chainlink , indicating the firm may be betting on the growth of Ethereum-based services. DTC Capital investor Spencer Noon said he doesn’t expect most users to interact with The Graph token.
+“They’ll pay for this service with dai or ether, a more liquid token,” Noon said, explaining how The Graph could follow the 0x model where many service providers offer paid access to the open-source software. Such index providers would use the token on the backend.
+Read more: Uniswap V2 Launches With More Token-Swap Pairs, Oracle Service, Flash Loans
+A spokesperson for The Graph said the startup uses an “external node provider,” declining to specify which, and that in the future other indexers will choose whether to rely on such providers or run Ethereum nodes themselves.
+“Their plan is to decentralize their protocol and make it community-owned and -operated,” Noon said of Tal’s team. “I look at [The Graph] as the first of many middleware options in the space. … They are now processing 45 million queries per day. That’s product-market-fit.”
+As for Tal, he said although token sales “got a bad name in 2017,” he thinks 2020 will be a fruitful year for the Ethereum ecosystem.
+“It’s encouraging to see this next wave of projects are finally solving real problems and finding product-market fit,” Tal said.
+The leader in blockchain news, CoinDesk is a media outlet that strives for the highest journalistic standards and abides by a strict set of editorial policies . CoinDesk is an independent operating subsidiary of Digital Currency Group, which invests in cryptocurrencies and blockchain startups.

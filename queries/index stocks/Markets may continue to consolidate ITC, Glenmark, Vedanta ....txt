@@ -1,0 +1,38 @@
+Pivot Or Perish Market Dashboard India-China Face-Off The Future Of Covid Tracker Lounge Coronavirus India2Global Emerging Tech Conclave #WFHLife Long Reads Money With Monika, Season 4 Mint 50 - Top Mutual Funds Plain Facts Mark To Market Podcasts Money With Monika, Season 3 Companies Markets Money Start-ups Mutual Funds Insurance Technology Industry Opinion Politics
+Home > News > India >Markets may continue to consolidate; ITC, Glenmark, Vedanta shares in focus
+Markets may continue to consolidate; ITC, Glenmark, Vedanta shares in focus
+2 min read . Updated: 26 Jun 2020, 08:26 AM IST Nasrin Sultana
+Asian stocks were mixed on Friday, as global sentiment remained doggedly upbeat despite rising coronavirus cases
+MUMBAI: Indian markets may continue to consolidate on Friday while trends in SGX Nifty suggest a flat opening of benchmark indices. The BSE Sensex ended at 34,842.10, down 26.88 points or 0.08% and the Nifty closed at 10,288.90, down 16.40 or 0.16% on Thursday.
+Asian stocks were mixed on Friday, as global sentiment remained doggedly upbeat despite increased volatility and rising new coronavirus infections. Wall Street was pushed higher, ignoring US Federal Reserve's stress tests revealing key vulnerabilities.
+The Fed on Thursday said it will cap big bank dividend payments and halt share repurchases until at least the fourth quarter. It found lenders faced significant capital losses when tested against an economic downturn caused by the coronavirus pandemic.
+Coronavirus cases across the US have soared in recent days, with Texas pausing its re-opening as covid-19 infections and hospitalizations surged in the state.
+Global private equity major The Carlyle Group has emerged as the frontrunner to buy a significant stake in Ajay Piramal-owned Piramal Group’s pharma businesses for close to ₹3,500 crore, according to a Mint report.
+The Central Bureau of Investigation (CBI) on Thursday filed its first charge sheet in the Yes Bank case against eight entities including founder Rana Kapoor and his family members. The other accused include Dewan Housing Finance Ltd and promoters Kapil Wadhawan and Dheeraj Wadhawan.
+Among major companies, ITC, IRCTC, Coal India, Oil India and Glenmark Pharma will announce March quarter results today.
+Public shareholders of Anil Agarwal-controlled Vedanta Ltd have approved a special resolution that paves the way for delisting the company’s shares from Indian stock exchanges, the company said in a an exchange filing. The postal ballot results showed that 84.2% of the public shareholders who cast their votes were in favour of the delisting.
+The US dollar strengthened on Thursday due to fears of rising coronavirus cases. The dollar index rose 0.123%.
+Oil prices rose about 2% in a volatile session, boosted by signs of a small rise in fuel demand but offset by rising coronavirus cases.
+* Thank you for subscribing to our newsletter.
+Click here to read the Mint ePaperLivemint.com is now on Telegram. Join Livemint channel in your Telegram and stay updated
+You are now subscribed to our newsletters. In case you can’t find any email from our side, please check the spam folder.
+lozad('.lozad', { load: function(el) { el.src = el.dataset.src; el.onload = function() { el.classList.add('fade')}}}).observe()
+.myAccount .planSec, .myAccount a.LinkCTA{padding:16px; margin:16px; box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.1); background-color: #fff;}
+	       		var userData = data;
+	       		var name = userData.name;
+	       		var email = userData.email;
+	       		var signupSource = userData.source;
+	       		var subscribedAtOnce = userData.subscribedAtOnce;
+	       		var plan  = userData.plan;
+	       		document.getElementById('uName').innerHTML = "<strong>"+name+"</strong>" + email;
+		       		var status = planData.status;
+		       		var purchaseSource = planData.source_device;
+			       		var nextActivationDate = planData.current_term_ends_at;
+			       		var planDescription = planData.plan.description;
+			       		var planName = planData.plan.name;
+			       		var planPrice = planData.amount;
+			       		//var planInterval = planData.shipping_interval;
+			       		var planInterval = planData.duration;
+			       		var planUnit = planData.interval_unit;
+			       		//var html = "<strong>Your Subscription Plan</strong>"+planName+" ₹"+planPrice+" / "+planInterval+" " + nextBillingHtml + cancelHtml; 
+			       		var html = "<strong>Your Subscription Plan</strong> "+planDescription + " "+ planName +": ₹"+planPrice + " "+ nextBillingHtml + cancelHtml;

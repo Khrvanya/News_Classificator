@@ -1,0 +1,35 @@
+When it comes to exchanging value in a trustless, permissionless fashion, it’s no surprise that governance has long played a crucial role in the development and maintenance of many web3 ecosystems.
+As we continue to challenge traditional notions through the advent of innovative systems, it would seem that hierarchical structures are being replaced by Distributed Autonomous Organizations – better known as DAOs.
+From a high level, DAOs can be thought of as social coordination mechanisms to solve a common goal. Paired with an on-chain treasury management system responsible for dictating how decisions, funding and upgrades are made, DAOs provide a technical framework to pool funding in a secure fashion.
+There are many different types of DAOs, all of which serve as a governance mechanism to ensure that important notions are discussed, proposed and implemented in accordance with the communities best wishes.
+On this page, we will shed some light on the various DAOs we’ve seen gain traction, and plan to regularly update the list as more DAOs rise to prominence in the coming years.
+Perhaps the most recognizable DAO in the DeFi ecosystem, Maker utilizes a DAO framework for the passing of executive votes – all of which are responsible for the changes made to the protocol over time.
+Executive votes can range from things like adjusting the DSR interest rate or Stability Fee to triggering an Emergency Shutdown. What’s important to note here is that voting is calculated relative to MKR – Maker’s native token – weight, meaning those with the most MKR stand to be the most influential over any given vote.
+As a platform focused on providing DAO tooling, Aragon itself is inherently structured as a DAO. This means that ANT token holders vote on how the protocol should upgrade, including the deployment of various phases such as Aragon Court .
+As a newly launched initiative for the Kyber ecosystem, KyberDAO will incentivize the participation in governance decisions through the use of KNC starting in Q2 of 2020.
+Unlike governance-token based DAOs, share-based DAOs issues one token that solely represents ownership of a DAOs underlying capital bank.
+While we recognize there may be some overlap as both use ERC20 tokens for governance, the biggest difference here is that share-based tokens can be redeemed for underlying capital at any time.
+With DAO’s like Maker, users can sell their MKR for ETH on the open market, but there is no capital pool or reserve in which MKR holders can exchange assets to and from.
+Share-based DAOs are relatively new to the wide crypto ecosystem and have largely been centred around the Moloch framework. Novel aspects of this framework include:
+Tributes – In order to join the DAO, members must receive shares. This is most commonly done by depositing an asset (ETH or DAI ) in exchange for a predefined number of shares.
+As the most popular share-based DAO, Moloch was built under the notion of creating a “Minimum Viable DAO” – focusing largely on simplistic code and off-chain decision making.
+Moloch focuses on Ethereum development funding through the use of grants. Anyone may submit a proposal to the DAO for funding so long as that proposal is submitted by someone with Moloch shares. This has commonly introduced the idea of “championing” in which grant recipients will look for support from shareholders to submit their proposal.
+As a fork of Moloch, MetaCartel is operationally similar with a different focus on where funding is deployed.
+Whereas Moloch focuses on Ethereum development, MetaCartel focuses on funding the Ethereum application layer. More specifically, MetaCartel seeks to provide small grants (generally in the range fo $1-5k) to consumer-facing applications – all with the intention of gathering information asymmetry for better decision making in the future.
+Within MetaCartel, a number of sub-DAOs have emerged under the MetaCartel brand.
+MetaCartel Ventures (also known as MCV or Ventures DAO) is the first for-profit DAO.
+It leverages Moloch V2 smart contracts to allow for the DAO to make investments in early-stageprojects in a compliant, onchain fashion.
+Perhaps the most novel aspect of MCV will be the ability for non-accredited investors to participate in decision making, marking one of the first experiments where non-accredited individuals can have a real say in early-stage investments which were previously restricted to accredited investors, venture capitalist and angel investors.
+Venture DAO is live on mainnet. RISE. https://t.co/mGK1zgTUka
+— METACARTEL VENTURES (@VENTURE_DAO) February 14, 2020
+Rocket provides loans using NFTs as collateral.
+The DAO decides on what NFTs should be accepted and offers high APR due to the risk-savvy nature of lending out capital on assets whose value is largely speculatory.
+Supported NFTs change with time, although early loans have consisted of virtual real-estate from projects like Decentraland or CryptoVoxels. In the future, it’s expected that the DAO will accept NFTs such as domains, in-game items and digital art.
+[THREAD] Introducing Rocket: borrow up to 5,000 DAI against your NFTs.
+Long gone are the days where you had to deposit more money in than you get money out. With Rocket, you don't have to put down any funds at all.
+— Rocket (@RocketNFT) January 20, 2020
+MetaFactory is decentralizing fashion label ownership and production by creating unique incentive mechanisms for designers and fashion enthusiasts alike.
+The DAO leverages bonding curves for the sale of products, ultimately looking to drive value back to apparel creators and early adopters.
+As a collective of talented web3 professionals, Raid Guild provides projects with product excellence in the form of design, development, economic and concept support.
+As the first eSports DAO, MetaClan looks to aggregate talented players and developers from the web3 gaming ecosystem to collect valuable insights, loot and prizes.
+The first eSports DAO focused on leveraging enhanced play-to-earn mechanics to unlock value for developers, players, and spectators alike https://t.co/2SmiEFASQC

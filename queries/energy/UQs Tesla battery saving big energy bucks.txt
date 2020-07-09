@@ -1,0 +1,15 @@
+UQ's battery bank is lit green when it is charging. When discharging, it lights up blue.
+Installing the state’s largest behind-the-meter battery has saved The University of Queensland almost $74,000 in electricity costs in three months.
+UQ’s Sustainability and Energy division this week reported the battery’s financial and technical performance in detail for its first quarter of operation.
+UQ energy and sustainability manager Andrew Wilson said savings from the University’s solar panel installations had fully funded the $2.05 million, 1.1 megawatt Tesla Powerpack battery system.
+“The first quarter performance shows it is on track to pay for itself within the eight years we forecast,” Mr Wilson said.
+The battery was a key step in allowing UQ to start trading directly in the national wholesale electricity “spot” market this year – becoming Australia’s first university to do so.
+“We developed a custom-control algorithm for the battery that enables us to automatically buy and sell power, 24-hours a day,” Mr Wilson said.
+“It charges our battery when clean energy is abundant and prices are low, and discharges when prices are high – often during the evening peak.
+UQ’s energy transition strategy began more than a decade ago.
+The commissioning of the $125 million, 64-megawatt Warwick Solar Farm completes UQ’s transition into an energy market player that is both a large energy generator and consumer, known as a “gensumer”.
+UQ’s Chair in Sustainable Energy Futures , Professor Peta Ashworth, said the University’s operational moves into renewable energy gave students unparalleled opportunity to learn from and study with the University’s own infrastructure.
+“There is no better place to learn about the future of energy than at UQ, as the whole world looks to chart a path to the new ways we will supply and manage electricity,” said Professor Ashworth, who leads the Master of Sustainable Energy program .
+The new report, The business case for behind-the-meter energy storage - Q1 report on UQ’s Tesla Powerpack battery, is available here .
+Register here to attend a webinar for industry, staff, students and the general community to hear about and discuss the performance of UQ’s Tesla Powerpack this Friday, 22 May.
+Contact: Andrew Wilson, a.wilson@pf.uq.edu.au , ph +61 7 3365 1935; Professor Peta Ashworth, p.ashworth@uq.edu.au , Fiona Cameron, UQ Communications, f.cameron2@uq.edu.au , +61 7 3346 7086.

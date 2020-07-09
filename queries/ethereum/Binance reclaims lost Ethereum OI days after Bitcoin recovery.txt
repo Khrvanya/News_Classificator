@@ -1,0 +1,12 @@
+Binance reclaims lost Ethereum OI; days after Bitcoin recovery
+Binance has been having a roaring time in April. Not just in expansion, although the exchange announced the acquisition of CoinMarketCap, the largest crypto-data aggregator, but also in crypto-derivatives performance.
+Since the events of ‘Black Thursday,’ the infamous reminder of Bitcoin’s highly liquid markets and sought investment appeal, which shaved over 50 percent of the cryptocurrency’s price in less than 24 hours, Binance has been outperforming its competitors. In the Bitcoin Futures race, the exchange surged to the top of the charts, amassing higher volumes than any other exchange, and saw its liquidity rise as its bid/offer spread normalised after the price plummet.
+Now it seems that Binance’s performance is not limited to Bitcoin’s price volatility and the fallout of the other derivatives exchanges, but other factors, because even as far as altcoins go, Binance is regaining lost ground. The exchange is now the only derivatives platform to recover the lost open interest on Ethereum Futures.
+Binance ETH Futures OI | Source: skew
+According to data from skew markets, on March 12, Ethereum OI on Binance was $43 million, and a day later, it dropped to a low of $12 million, a 72 percent fall. Since then, however, the outstanding positions on the exchange steadily rose, regaining all of the $31 million lost, as on 19 April.
+While this amount in absolute terms is small, in relative terms it bears introspection. Other top Ethereum Futures exchanges have not seen even a sliver of the recovery seen on Binance. For instance, OKEx and Huobi , accounting for the highest ETH Futures OI, lost 30 percent and 60 percent of their open positions in less than a day, and are still off the break-even recovery by 26 percent and 38 percent respectively.
+OKEx and Huobi ETH Futures OI | Source: skew
+Further, the reshuffle on Bitcoin Futures was, in part, due to the alleged ‘circuit breaker’ incident that transpired on BitMEX during the peak of the price plummet trigger a wave of liquidations valued at nearly $1 billion. Owing to this debacle, which BitMEX claims was a botnet attack, the trading traffic on the exchange flowed out, and moved, as its recent performance suggests to Binance.
+However, with Ethereum trading seeing no such interruptions, a corollary move as seen on Bitcoin Futures into Binance’s coffers suggests that the exchange is not only leading the way in Bitcoin trading, but also in altcoin.
+Did you like this article?
+Your feedback is important to us!

@@ -1,0 +1,75 @@
+The transition to a greener future means that grids will face huge influxes of power from intermittent suppliers, while demand will probably fall. Flexible pricing will likely remain a feature.
+"This is a clear signal that the era of big, centralised 'base-load' generation is over, and that the future will be powered by renewables, energy storage and flexible power plants," said Björn Ullbro, from Wärtsilä Energy Business, a power sector company.
+So how have the grids coped with conditions during the Covid-19 crisis that many believed wouldn't occur for years?
+"Much better than I would have ever thought they would," is the verdict of Dave Jones, an electricity analyst with climate change think tank, Ember.
+"Across Europe, they're coping remarkably well. They have less of an isolated electricity system because they have interconnectors, so you don't have quite the same highs and lows as you do within the UK."
+"But faced with this, and the challenges of staff getting ill and having to go off into isolation, just keeping the lights on and keeping the electricity system operating through this is a minor miracle in itself."
+Does the Covid-19 crisis mean an end to fracking?
+One of the most significant potential outcomes from the Covid-19 crisis has been the disruption to shale oil drilling in many parts of the US.
+Hydraulic fracturing or fracking has become the main plank of a massive shift in US energy production over the past decade.
+Fracking uses of a mixture of water, sand and chemicals under high pressure to crack open oil- and gas-bearing rocks.
+When combined with horizontal drilling technology, production of oil and gas soared.
+According to the US Energy Information Administration (EIA), in 2019, shale oil accounted for 63% of America's total crude oil production.
+Shale even saw the US become the world's number one exporter of oil for a brief period last year.
+But the coronavirus pandemic and the consequent drop in demand for oil has hit fracking very hard indeed.
+In the Permian basin, North America's largest shale region, the number of rigs fell from 405 in March to 175 in early May.
+So does this dramatic drop signal the end of fracking?
+"People have called doom on the fracking industry many times," said Bethany McLean, an author and expert on the business.
+"But to call the death of fracking, just because the economics don't work, might be going too far."
+One major factor that might help revive the fracking industry after Covid-19 is politics.
+President Trump has so far shown little interest in bailing out fracking directly.
+His administration has been more focused on supporting Saudi Arabia and Russia in their efforts to cut oil production and drive up prices.
+But higher oil prices may hit US consumers at the petrol pump. Not a great idea in an election year.
+"Right now, when oil is such a significant part of US industry, especially in Republican states, it is very challenging for the government," said Paola Rodriguez-Masiu, an oil market analyst with Rystad Energy in Oslo, Norway.
+"They are trying to balance the low oil prices they have always liked, with having an oil price that is high enough to prevent their domestic industry from dying."
+That balancing act could very tricky for fracking.
+Will we see a revival of interest in the nuclear industry?
+It is highly likely that after the pandemic, governments will be asking themselves if atomic energy makes sense, given the challenges the world is facing.
+Supporters say that, during the crisis, nuclear plants provided around 40-45% of the low carbon electricity used in Europe.
+Because of the existing focus on safety in the industry, they have coped well with Covid-19, say sources. And they are well placed to cope with an ongoing health crisis.
+Image caption Happy faces at Hinkley Point C nuclear power station; supporters believe the industry is set to grow
+"Safety is already embedded into the culture, so embracing some of the additional safety required to deal with Covid-19 has been something I think that was very easily taken on by the nuclear industry," said Jonathan Cobb, from the World Nuclear Association.
+"And there hasn't been a situation where, because of infections or people self-isolating on a precautionary basis, there's had to be a close down of a nuclear power station."
+What makes the industry bullish about the future is that governments will want to invest in large infrastructure projects to provide employment, while at the same time greening their energy systems.
+While much of the investment in nuclear has taken place in China and Russia in recent years, the time could now be right for more reactors in Europe and the US.
+"We have got the first power stations under construction in the UK, we've got construction in Finland, in France, but also in Eastern Europe, there's been continuing new build," said Jonathan Cobb.
+"So we've got a high level of new build already with more than 50 reactors being built around the world. And, yeah, the hope is that this will now accelerate and increase."
+While there are worries about accidents and nuclear waste, some electricity experts believe nuclear energy is not flexible enough for modern grids, made up of lots of different energy sources.
+"The flexibility of nuclear has always been a problem in this," said Dave Jones, an electricity analyst at Ember.
+"It runs 24/7 with very little ability to be able to reduce load around the outside of that, which is what the National Grid would actually need."
+Could hydrogen be the fuel of the future?
+Coming out of the crisis, there is a great deal of hope - and indeed quite a deal of hype - around hydrogen as an energy source.
+Hydrogen can be made from natural gas, but as that's a fossil fuel, it needs to have its carbon captured in some way to make it  sustainable.
+However a "greener" version can be produced from water, by using renewable energy to power a process of electrolysis.
+As well as not producing any CO2, the resulting gas doesn't contribute to air pollution when it's burned.
+Advocates believe it could be the answer to one of the most difficult sectors to decarbonise, heavy transport such as lorries and buses.
+"As good as batteries are in lighter, smaller vehicles, they are less applicable in larger vehicles, generally because of the weight," said Eamonn Ives, from the Centre for Policy Studies, who has published a report on how hydrogen could be key to decarbonising transport .
+"At the scale of something like a bus or a truck, you could be talking at least a couple to a few tonnes in weight, purely in the batteries themselves."
+"When you get to have that sort of size, hydrogen does appear to be quite an elegant solution to decarbonise lots of vehicles."
+Hydrogen's strength is its versatility - as well as powering lorries and buses, it can be used in the mix for gas to heat our homes.
+And in the wake of the Covid-19 crisis, the EU and Germany are both keen on increasing investments in this future fuel.
+The gas does come with some big challenges - making it with green energy is not hugely efficient as yet. It also needs to be kept under pressure to use in vehicles, which right now are very expensive.
+For energy campaigners, hydrogen has great potential, as long as it is made from renewables, and doesn't become a smokescreen for the continued use of fossil fuels.
+"The fact that there's currently so much focus on hydrogen gives us hope that the hard-to-decarbonise sectors like aviation and shipping will finally find a solution to their decarbonisation dilemma. So in that sense, we are positively welcoming this hydrogen discussion," said Laura Buffet from Transport & Environment, a Brussels based campaign group.
+"We don't want to see a situation where we ended up supporting fossil-based technologies and that really would be counter-productive.  We need to be careful and make sure that we have the right safety safeguards in place to ensure that the hydrogen roadmap focuses on renewables-based hydrogen."
+Perhaps one of the strongest positives for hydrogen is that it attracts support from across the political spectrum, unlike wind or solar.
+"I think it appeals to the conservative side of the political divide because in many ways hydrogen is kind of like diesel or petrol but without the bad stuff," said Eamonn Ives.
+"And so you can quite easily transition, say, the transport fleet over to hydrogen without making an awful lot of change to behavioural patterns."
+Will the economic crisis mean that fossil fuels will rapidly rebound?
+My colleague Justin Rowlatt has taken a look at the impact of the Covid-19 crisis on coal in a separate article.
+Like coal, the future for other fossil fuels is now uncertain and depends to a large extent on how governments spend their stimulus packages.
+One of the most critical questions is over oil.
+Over the last 10 years, the rise of the diesel- and petrol-powered SUVs around the world has really helped CO2 emissions ramp up.
+In fact, SUVs were the second-largest contributor to the increase in global CO2 emissions since 2010 - after the power sector.
+Thanks to the drop in car travel and aviation, fuel oil demand has now fallen away dramatically.
+Initially, there were concerns that the world would run out of storage, as producers were determined to keep pumping. But Opec (the Organization of the Petroleum Exporting Countries) agreed to reduce output just in time.
+"If Opec had not cut, we would be in huge trouble," said Paola Rodriguez-Masiu, with Rystad Energy.
+"But because they did cut production, the Armageddon situation - where the world storage space was not enough to handle the volume - didn't happen."
+Now, experts are expecting a rise in demand, as countries emerge from the Covid-19 crisis, and if Opec maintains the same level of production cuts, prices will start to rise.
+Longer term, analysts believe there will be a strong rebound in oil prices, as many oil drilling projects that were due to start this year and next have been put on ice.
+"It basically means that we will have less supply than we will otherwise need," said Paolo Rodriguez-Masiu.
+"So for the last part of 2021, and the beginning of 2022, our prices [will be] quite bullish."
+But even if prices rise, some experts say the writing is on the wall.
+"We have seen the oil majors reiterate their commitment to clean energy and spare renewables from any cost cuts," said Dr Valentina Kretzschmar, from global energy research consultancy, Wood Mackenzie.
+"Recovery in oil and gas prices is unlikely to slow down the transition. However, what is likely to slow it down is increasing demand for oil and gas products, as economies start to come back to life."
+"It is now more important than ever for governments to act and commit to rebuilding economies on green principles. The EU is leading the way with its Green Deal. We also need to see stimulus packages being tied to companies' commitments to carbon reductions, following the example of Canada."

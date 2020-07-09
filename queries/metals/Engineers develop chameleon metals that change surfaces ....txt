@@ -1,0 +1,19 @@
+This illustration shows how a particle of "chameleon metal" reacts to higher and higher temperatures by sequentially changing its surface structure. Larger image. Image by Andrew Martin.
+AMES, Iowa – Just like a chameleon changes its skin color in response to its environment, engineers have found a way for liquid metal – and potentially solid metal – to change its surface structure in response to heat.
+Treating particles of liquid metal alloys with heat causes them to roughen their surfaces with tiny spheres or nanowires, Iowa State University engineers reported in a paper featured on the cover of the Jan. 2 issue of the journal Angewandte Chemie.
+Control the heat and you can control the surface patterns, said Martin Thuo, an Iowa State assistant professor of materials science and engineering , a co-founder of Ames startup SAFI-Tech Inc. and lead author of the paper.
+And what could that tunable surface patterning lead to?
+The technology could “inspire design of ‘smart’ alloy systems that evolve the surface patterns and their composition with temperature (or analogous stimuli) for applications ranging from sensing to catalysis,” Thuo and his research team wrote in their paper.
+The paper’s co-authors are Andrew Martin and Winnie Kiarie, Iowa State doctoral students in materials science and engineering; and Boyce Chang, a postdoctoral fellow at the University of California, Berkeley, who earned his doctoral degree at Iowa State.
+The research team started with a liquid metal alloy of gallium, indium and tin synthesized into particles covered with a smooth oxide shell that has been chemically stabilized. As the particles are heated, the surface thickens and stiffens and begins to behave more like a solid.
+Eventually the surface breaks, allowing the liquid metal inside to come to the surface. The most reactive, gallium, breaks through first. More heat brings indium to the surface. And the highest heat – about 1,600 degrees Fahrenheit – brings out florets of tin.
+This movement from the under-layer to the surface allows a liquid metal particle to “continuously invert its composition under thermal stimuli,” the researchers wrote in the paper.
+“The particles are responding to a certain level of heat and releasing a specific element based on temperature, just as a chameleon responds to the color of its environment,” Thuo said. “That’s why we say they’re chameleon metals – but responding to heat, not to color as the reptile does.”
+Kiarie said the metal particles are responding to a very controlled environment – time, temperature and oxygen levels are carefully controlled by the researchers.
+That allows the researchers to predict and program the exact surface texture of the particles.
+Martin said the technology could be used to fine-tune a metal’s performance as a catalyst or its ability to absorb compounds.
+The researchers also say the technology will work with other metal alloys.
+“This is not unique to these materials,” Thuo said. “This is a behavior of metals in general. Other metals subject to the same treatment should do this. This is a universal property of metals.”
+That could make chameleon metals a very interesting and useful technology: “When you talk about smart materials, polymers come to mind,” Thuo said. “But metals can do this, too. But it’s a big beast – you just need to know how to tame it.”
+Martin Thuo and his research group have found a way to use heat to predictably and precisely change the surface structure of a particle of liquid metal. It's like a chameleon changing skin color in response to its environment. And so Thuo and his team are calling the technology "chameleon metals."
+“When you talk about smart materials, polymers come to mind. But metals can do this, too. But it’s a big beast – you just need to know how to tame it.”

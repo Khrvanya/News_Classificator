@@ -1,0 +1,20 @@
+Lawyers in the nation’s capital can accept cryptocurrency as payment for legal services as long as the fee agreement is fair and reasonable and the lawyer can safeguard the virtual property, the District of Columbia Bar said in an ethics opinion.
+Attorneys “cannot hold back the tides of change even if they would like to, and cryptocurrency is increasingly accepted as a payment method by vendors and service providers, including lawyers,” the June opinion from the bar’s legal ethics committee said.
+But, acknowledging the sometimes volatile nature of virtual currencies, the committee added that the fairness to the client of such fee arrangements should be judged at the time they’re made, not when they become improvident.
+Cryptocurrency is a digital currency where transactions are recorded on a public digital ledger called a blockchain and trade on exchanges that operate like stock exchanges. Popular forms of cryptocurrency include Bitcoin and Ethereum.
+The opinion noted that the IRS treats cryptocurrency as property rather than currency for tax purposes, and it agreed that “payment of fees in cryptocurrency is more akin to payment in property than payment in fiat currency.”
+Law firms, including Big Law players, appear to be accepting cryptocurrency as payment for services more and more, despite the risk and volatility associated with cryptocurrency markets. The North Carolina, Nebraska, and New York City bars have issued advisory opinions in favor of accepting virtual currency as payment.
+Ethics rules require lawyers’ fees to be reasonable, the D.C. Bar opinion said, but they don’t preclude accepting “potentially volatile assets” as payment. Examples of such payment include shares of corporate stock, property, and cryptocurrency, according to the opinion.
+Lawyers who accept an advance retainer in cryptocurrency are subject to ethics rule 1.8(a), which requires a reasonable agreement with terms that have been explained in writing and that’s fair to the client, it said.
+When it comes to agreements for those payments, the opinion said, terms may include:
+a clear explanation of how the client will be billed;
+whether market increases and decreases in the value of the cryptocurrency triggers obligations by either party; and
+whether the lawyer or the client will be responsible for cryptocurrency transfer fees.
+The client also has to have a chance to confer with outside counsel on the deal, it said, and attorneys need to have written, informed consent to the agreement from clients.
+The rule doesn’t apply to payment for fees already earned, according to the opinion.
+Fairness to the client is particularly important for volatile assets like cryptocurrency for future work, the opinion said. And an agreement’s fairness should be judged at the time of signing, it said. There’s no ethical breach if future events out of a lawyer’s control cause the fee to appear unreasonable, the opinion said.
+Lawyers who accept payment in cryptocurrency for future work must be competent in the technology to protect the client’s virtual property as the lawyer would protect all advance fees, which in this case “requires lawyers to understand and safeguard against the many ways cryptocurrency can be stolen or lost,” the opinion said.
+“Cryptocurrency is, ultimately, simply a relatively new means of transferring economic value, and the Rules are flexible enough to provide for the protection of clients’ interests and property without rejecting advances in technologies,” it concluded.
+The opinion is District of Columbia Bar Legal Ethics Comm., Op. 378, 6/20.
+To contact the reporter on this story:
+To contact the editors responsible for this story:

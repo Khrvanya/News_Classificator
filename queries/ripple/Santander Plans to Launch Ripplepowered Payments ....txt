@@ -1,0 +1,15 @@
+You have successfully joined our subscriber list.
+Santander’s Ripple-powered payments solution, which is set to launch in Mexico, will enhance transparency in operations, improve speed in sending and receiving payment.
+Aiming at improving transparency, efficiency, and general client satisfaction Spanish bank Santander is going to launch its Ripple -powered payments solution in Mexico later in 2020.
+This has become known from a Form 20-F filed with the U.S Security and Exchange Commission ( SEC ) earlier this month, where the Spanish bank revealed that the Santander Ripple-powered solution One Pay FX would begin operation in Mexico in 2020.
+One Pay FX was launched in 2018 as a money transfer solution leveraging RippleNet to oversee international payments and does not use XRP.
+According to the Spanish bank, the One Pay FX would enhance transparency in operations, improve speed in sending and receiving payment, and improve customers’ experience.
+What Santander and Ripple Can Offer: How One Pay FX Payments System Works
+The payment solution developed by Santander and Ripple, as said earlier, is backed by Ripple’s RippleNet technology, which does not work with XRP token.
+One Pay FX, when it launched, began operations in Spain, United Kingdom, Plans, Brazil, and expanded to Chile and Portugal in 2019 as it is set to further break into Mexico now in 2020. However, the bank intends to launch operations in all markets where it operates.
+As part of more benefits, the payment solution will bring to clients is an opportunity to scale up suboptimal and client stickiness experience that they face in the hands of competitors.
+One Pay FX, having been developed for over four years, has proven to be a solution or an upgrade to traditional transfer systems since 2016 as Santander contributed around $4 million to Ripple’s $32 million series A funding.
+RippleNet, on the other hand, since it was developed in 2012, has also experienced a series of upgrades alongside core consensus improvements. David Schwartz, Ripple’s chief technology officer, has shown high interest in helping third party cryptos, including stablecoins, to launch on the firm’s XRP ledger.
+However, Ripple has been charged with violating the U.S. Security acts in its initial coin offering in 2013 for XRP. The process is still going on.
+Ripple, having been providing cross border payment solutions to several firms apart from Santander, has revealed plans also to develop a trading platform linked with its XRP powered cross border payment solution.
+As Ripple still aims to develop the platform, the firm has announced it is in search of an engineering manager that would help build an On-Demand Liquidity (ODL) platform to leverage the superior speed, low transaction cost and scalability of the XRP crypto asset.

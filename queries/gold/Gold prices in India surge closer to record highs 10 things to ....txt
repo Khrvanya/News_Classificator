@@ -1,0 +1,37 @@
+Gold prices in India surge closer to record highs: 10 things to know
+2 min read . Updated: 21 Jun 2020, 12:10 PM IST Edited By Surajit Dasgupta
+Gold prices in India have surged closer to record highs, tracking a rally in global rates. On MCX, August gold futures rose about ₹600 on Friday to settle near record highs of about ₹48,000 per 10 gram on Friday. Silver futures also finished up 1.5% higher at ₹48,598 per kg. US gold futures rose more than 1% on Friday, settling above the technical barrier of $1,750 an ounce.
+Here are 10 things to know about gold price rally this year:
+1) So far this year, gold prices in India are up 23% in just six months, following a 25% rally last year.
+2) In India, gold prices are influenced by global rates and rupee-US dollar exchange rate. The rupee closed at 76.19 against the US dollar on Friday and is down about 7% so far this year against the greenback.
+3) Global prices have rallied about 15% this year, supported by safe-haven demand in the midst of concerns of an economic slowdown and unprecedented amounts of government and central bank stimulus that has raised fears about inflation.
+4) Jigar Trivedi, research analyst at Anand Rathi Shares & Stock Brokers said fears of a second wave of coronavirus infections and US-China tensions have buoyed demand for the safe-haven asset.
+5) Global financial powerhouse Goldman Sachs raised its gold price forecast this week, expecting the rally to continue due to currency debasement fears and economic uncertainty caused by the coronavirus crisis.
+6) Goldman Sachs lifted its three, six and 12-month gold price estimates to $1,800, $1,900 and $2,000 per ounce, from $1,600, $1,650 and 1,800 per ounce, respectively.
+7) The surge in prices has kept retail demand of gold subdued in India. Reuters reported that dealers in India were offering a discount of up to $13 an ounce over official domestic prices this week, down from the last week's $20. The domestic price includes a 12.5% import tax and 3% GST.
+8) Global gold rates have also been buoyed by strong flows into ETFs. Gold holdings with SPDR ETF, the world's biggest gold ETF, stood at around 1136.219 tonnes on Thursday.
+9) Boston Federal Reserve President Eric Rosengren on Friday said more fiscal and monetary support for the U.S. economy will likely be needed, echoing comments by the European Central Bank chief, who said the EU's economy was in a "dramatic fall."
+10) Gold tends to benefit from widespread stimulus measures from central banks because it is widely viewed as a hedge against inflation and currency debasement. (With Agency Inputs)
+* Thank you for subscribing to our newsletter.
+Click here to read the Mint ePaperLivemint.com is now on Telegram. Join Livemint channel in your Telegram and stay updated
+You are now subscribed to our newsletters. In case you can’t find any email from our side, please check the spam folder.
+lozad('.lozad', { load: function(el) { el.src = el.dataset.src; el.onload = function() { el.classList.add('fade')}}}).observe()
+.myAccount .planSec, .myAccount a.LinkCTA{padding:16px; margin:16px; box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.1); background-color: #fff;}
+	       		var userData = data;
+	       		var name = userData.name;
+	       		var email = userData.email;
+	       		var signupSource = userData.source;
+	       		var subscribedAtOnce = userData.subscribedAtOnce;
+	       		var plan  = userData.plan;
+	       		document.getElementById('uName').innerHTML = "<strong>"+name+"</strong>" + email;
+		       		var status = planData.status;
+		       		var purchaseSource = planData.source_device;
+			       		var nextActivationDate = planData.current_term_ends_at;
+			       		var planDescription = planData.plan.description;
+			       		var planName = planData.plan.name;
+			       		var planPrice = planData.amount;
+			       		//var planInterval = planData.shipping_interval;
+			       		var planInterval = planData.duration;
+			       		var planUnit = planData.interval_unit;
+			       		//var html = "<strong>Your Subscription Plan</strong>"+planName+" ₹"+planPrice+" / "+planInterval+" " + nextBillingHtml + cancelHtml; 
+			       		var html = "<strong>Your Subscription Plan</strong> "+planDescription + " "+ planName +": ₹"+planPrice + " "+ nextBillingHtml + cancelHtml;

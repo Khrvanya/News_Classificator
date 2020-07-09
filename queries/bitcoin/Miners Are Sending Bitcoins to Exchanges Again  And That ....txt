@@ -1,0 +1,15 @@
+Please consider using a different web browser for better experience.
+Please enable JavaScript in your browser for a better site experience.
+Bitcoin outflows from miner wallets have spiked, with the majority of coins finding their way onto cryptocurrency exchanges.
+The net flow of coins into or out of miner addresses fell to -2,935 BTC on Tuesday to hit the lowest level since June 2019, according to data source Glassnode . To put it another way, miner wallets witnessed the highest outflow of coins for a year.
+“There has been a big spike in miner outflows overnight, I’m expecting a whole lot of selling, starting real soon,” popular cryptocurrency analyst Cole Garner tweeted , along with a chart from blockchain analysis firm CryptoQuant showing a big spike in the miner outflow around 10:00 UTC on Tuesday.
+However, the Miner’s Netflow Volume does not tell us whether coins have been sent to exchanges for liquidation or sold off in an over-the-counter deal.
+However, another metric, which tracks the flow of coins from miner wallets to cryptocurrency exchanges, shows nearly 97% of the total outflow of 2,935 BTC from miner addresses was deposited to cryptocurrency exchanges on Tuesday.
+The total 2,844 BTC that went to exchange platforms was the highest since March 26. That’s a major spike: on Monday, only 404 BTC were deposited on exchanges.
+With the sudden rise in the number of coins available on exchanges for liquidation, the cryptocurrency looks vulnerable for a notable price drop. Such spikes in miner outflows have preceded price drops in the past, although they don’t necessarily mean a drop is on the way.
+For example, outflows increased from 380 BTC to 1,824 BTC on Aug. 2, 2019, but the cryptocurrency extended its recovery rally to hit highs above $12,300 on Aug. 6.
+It remains to be seen if the latest spike in miner outflows yields a notable price drop or traps bears on the wrong side of the market. Supporting the case for a downside move is the fact that miners have spent less than they mined in the last 24 hours, pushing miners’ rolling inventory (MRI) above 100%, according to ByteTree.com .
+Miners typically hoard coins when they feel the market lacks strength to absorb their offers.
+At press time, the cryptocurrency is trading near $9,350, a 3% drop on the day. Prices are trapped in the range of $9,000 to $10,000 for the fifth straight week.
+Disclosure: The author holds no cryptocurrency assets at the time of writing.
+The leader in blockchain news, CoinDesk is a media outlet that strives for the highest journalistic standards and abides by a strict set of editorial policies . CoinDesk is an independent operating subsidiary of Digital Currency Group, which invests in cryptocurrencies and blockchain startups.

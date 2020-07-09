@@ -1,0 +1,12 @@
+Through Crypto AG, the U.S. government has spied on the world for more than half a century, proving the need for private crypto and blockchain solutions.
+As the crypto and blockchain space investigates seemingly private solutions for payments and messaging, the U.S. Central Intelligence Agency, or CIA, has had the backdoor to one of the world’s major encryption systems since World War II.
+Beginning in WWII, Swiss company Crypto AG operated as a seemingly neutral party that developed encrypted communications solutions for over 120 different countries over much of the past century, The Washington Post revealed in a Feb. 11 exposé .
+Behind the scenes of the seemingly Swiss company sat CIA and German secret service group BND, the true owners of Crypto AG, monitoring all communications as a hidden third party.
+The systems and solutions Crypto AG sold to various countries tipped off the U.S. and West Germany to immeasurable private data related to events such as the Iran hostage situation in 1979 and the Falklands War, The Washington Post detailed.
+Together, the CIA and BND kept its reconnaissance operation up and running until the early 1990s, The Post said, when the BND sold its share of Crypto AG to the CIA.
+Running solo, the CIA continued the Crypto AG operation until 2018, when technological advancements rendered the endeavor unnecessary.
+The U.S. has kept up its snooping though. Cryptocurrency advocate Edward Snowden outed the U.S. National Security Agency, or NSA, with his evidence of the government’s infringement on global privacy.
+In the crypto and blockchain space, numerous projects aim to provide privacy-related solutions for payments and messaging.
+Anonymous digital assets , such as Monero and Zcash, aim to cover user transactions. Encrypted messaging platforms such as Telegram, with its TON blockchain, look to add privacy to the communication world.
+Many crypto and blockchain solutions now face lawsuits from U.S. government agencies. Telegram is currently fighting action from the Securities and Exchange Commission, or SEC, for conducting what the regulator calls an unregistered offering.
+Cointelegraph reached out to the CIA for additional details, but received no response as of press time. This article will be updated accordingly should a response come in.

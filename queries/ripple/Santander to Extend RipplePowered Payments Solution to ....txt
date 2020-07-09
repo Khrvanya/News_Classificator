@@ -1,0 +1,10 @@
+Major Spanish bank Santander is extending its Ripple-powered international payments system One Pay FX to Mexico in 2020.
+Major Spanish bank Santander plans to roll out its Ripple-powered international payments system One Pay FX in Mexico in 2020.
+In a Form 20-F filed with the United States Securities and Exchange Commission on March 6, the bank revealed that Mexico will be offering the service in early 2020.
+Based on Ripple’s RippleNet technology , One Pay FX is independent from XRP and does not need the digital currency to function, as a Santander spokesperson previously outlined to Cointelegraph.
+In its Form 20-F filing — an annual report that must be submitted to the SEC by all foreign private issuers with listed equity shares on U.S. exchanges — Santander describes the solution as a:
+One Pay FX first launched in four Santander banks — Spain , Brazil , Poland , and the United Kingdom — back in 2018. Santander Portugal and Chile joined the solution the following year.
+The blockchain system’s benefits, Santander claims, is transparency, predictability, competitive cost and better speed, ostensibly countering current customer experiences which it describes as “sub-optimal” and prone to “client stickiness.”
+As previously reported , Santander and Ripple developed One PayFX over several years, with early trials indicating that the solution could provide improvements over traditional transfers as early as 2016. In 2015, Santander’s capital arm InnoVentures, contributed $4 million to Ripple’s $32 million series A funding.
+RippleNet, first created in 2012, continues to undergo technical developments, including “core consensus improvements,” according to recent comments from Ripple’s chief technology officer David Schwartz. Schwartz has also signaled his interest in enabling third parties to launch other third-party cryptocurrencies, including stablecoins, on the XRP ledger.
+Last week, Cointelegraph reported on new amendments to a class-action lawsuit leveled against Ripple’s CEO Brad Garlinghouse, which centers on allegations that Ripple violated the U.S. Securities Act in its 2013 initial coin offering for the XRP token.

@@ -1,0 +1,16 @@
+Russia's VTB, bank subsidiary hit with $5 million penalty for false trades: CFTC
+WASHINGTON (Reuters) - The U.S. Commodity Futures Trading Commission (CFTC) on Monday ordered JSC VTB Bank and VTB Capital PLC to jointly pay a $5 million civil penalty for executing fictitious and noncompetitive block trades in Russian Rouble/U.S. dollar futures contracts.
+The CFTC said in a statement that JSC VTB Bank, based in St Petersburg, Russia, and VTB Capital, which is incorporated in Britain, executed 100 block trades on the Chicago Mercantile Exchange between December 2010 and June 2013 with a notional value of $36 billion.
+An order was filed and simultaneously settled, without VTB Bank or VTB Capital admitting or denying the findings, the CFTC said.
+“These block trades were fictitious sales, which caused prices to be reported or recorded by the CME (Chicago Mercantile Exchange) that were not true and bona fide prices, in violation of the Commodities Exchange Act (CEA),” the CFTC said in a statement.
+“In settling this matter, the CFTC has taken into account VTB and VTB Capital’s cooperation during the CFTC’s investigation of this matter,” the statement said.
+According to the CFTC, the investigation found the purpose of the trades was to transfer VTB’s cross-currency risk to its subsidiary, VTB Capital, at prices more favorable than it could have obtained from third parties.
+As part of the settlement, VTB Bank and VTB Capital will “not enter into privately negotiated futures, options or combination transactions with one another on or through any U.S.-based futures exchange for a period of two years from the date of this Order,” the order said.
+The two entities will further update their procedures, ethics and compliance guidance as well as institute additional training of staff on how to avoid future violations.
+During the relevant period covered by the investigation, the VTB rouble/dollar trades comprised a significant portion of the open interest activity in the currency pairing, the CFTC said.
+On Monday, the rouble traded around the 64.66 per dollar area.
+Overall, the total daily volume in the global foreign exchange market is just over $5 trillion.
+A spokesman for the CFTC declined to comment beyond the public order.
+VTB Bank said the case was a result of the revision by the CFTC of the rules guiding the execution of deals on the stock exchange.
+“Taking into consideration the fact that Chicago Mercantile Exchange had earlier allowed such transactions and that VTB cooperated fully with the CFTC, the bank was fined the minimum amount possible,” the bank in an emailed statement.
+Reporting by David Alexander in Washington; Additional reporting by Daniel Bases in New York and Maria Kiselyova in Moscow; Editing by Cynthia Osterman and Mark Potter

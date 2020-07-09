@@ -1,0 +1,32 @@
+A mixed bag of metrics and influences is testing Bitcoin’s resolve this week, with its trajectory undecided as $9,000 wavers.
+Bitcoin ( BTC ) begins a new week in uncertain times after regaining $9,000, but where is BTC/USD headed in the coming days?
+Cointelegraph Markets highlights five factors driving Bitcoin price action for the week ahead.
+Following a major slide on Friday, stocks' futures were gaining early on Monday, despite ongoing pressure from COVID-19 concerns.
+The Dow Jones Industrial Average, S&P 500 and Nasdaq futures all rose modestly, cementing a quiet weekend that saw Bitcoin outperform in terms of volatility.
+BTC/USD, which has shown a tendency to copy stock market movements in recent weeks, briefly lost $9,000 support on Sunday before regaining the level.
+The move had in fact been long coming — most of last week saw $9,000 testing in a slow grind down away from five figures.
+Further weakness in the S&P 500, with which Bitcoin has been 95% correlated in recent months, could be particularly damaging in the short term, trader Tone Vays warned on Thursday.
+Nevertheless, some traders were optimistic. Cointelegraph Markets analyst Michael van de Poppe noted that even at recent lows of around $8,900, Bitcoin was still up 140% since March.
+A BTC investment is still far ahead of stocks for the second quarter, with gains in excess of 40%.
+Last week’s bearish momentum appeared to take its toll on Bitcoin network fundamentals. The difficulty, set for an adjustment in around 30 hours, has flipped negative.
+Should the trend continue, a downward shift would contrast starkly with the 15% rise seen during the last adjustment two weeks ago.
+The difficulty is an essential mechanism that ensures miners are incentivized to participate in the Bitcoin network, and automatic adjustments function as “economic policy.”
+Bitcoin's hash rate has also leveled off, having conversely seen gains of around 10% last week. The weekly average activity was 115 exahashes per second at press time.
+Bitcoin seven-day average difficulty two-month chart. Source: Blockchain
+One potential price point, albeit not far from the current price, is a “gap” left in CME Group’s Bitcoin futures market over the weekend.
+As Cointelegraph often notes, if futures begin Monday trading in a different place to where they ended on the previous Friday, BTC/USD tends to rise or fall to fill the hole.
+This week, the gap lies between around $9,180 and $9,250 — $100 higher than press time levels.
+On Friday, a giant expiry in Bitcoin options open interest of nearly $1 billion failed to have any significant impact on price, contrary to expectations.
+Nonetheless, derivatives are seen as a major market factor for Bitcoin, with volume and open interest regularly hitting new highs across operators.
+CME Bitcoin futures chart showing gap. Source: TradingView
+On the part of everyday traders, the mood appears little changed from last week. According to the Crypto Fear and Greed Index , a dedicated measuring tool for trader sentiment, “fear” still abounds.
+The tool uses multiple factors to compile an index from one to 100, with a higher score a sign that traders are irrationally optimistic and a correction is due.
+The index’s current score is 41, down nine points versus last week’s highs from June 24. That brief spike came as prices rose following rumors that PayPal was preparing to support cryptocurrency.
+Crypto Fear and Greed Index one-month chart. Source: Alternative.me
+Data showing exchange balances shows that less is now in exchange wallets than at any time in 13 months — a sign of a lack of interest in selling among consumers.
+Miner sentiment will continue to be under the spotlight in the short term after June saw periods of heavy sell-offs.
+According to data from on-chain analysis resource CryptoQuant , mining pool outflows calmed toward the end of last week after a spike on June 24.
+As Cointelegraph reported , that was likely driven by two Chinese pools, with the destination of the 7,000 BTC potentially over-the-counter sell trades.
+June 26, meanwhile, saw a spike in outflows from smaller pools, CryptoQuant added .
+Miners have felt pressure since May’s halving, which cut their income from block rewards by 50% overnight.
+Bitcoin mining pool outflows one-year chart. Source: CryptoQuant

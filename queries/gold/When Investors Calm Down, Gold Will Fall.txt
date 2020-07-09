@@ -1,0 +1,25 @@
+Home / Trading / Trade of the Day / When Investors Calm Down, Gold Will Fall
+By Ken Trester , Editor, Power Options Weekly Jan 6, 2020, 9:42 am EDT
+Today, I’m recommending a bearish naked call write on SPDR Gold Shares (NYSEARCA: GLD ).
+Last Friday, the S&P 500 erased all of its gains from Thursday. Investors were reacting to the recent U.S. airstrike on Iran, and they started pushing into safe-haven assets like gold for protection.
+Gold is back to the $1,550 level after gaining about 1.3% following the attack. The dollar has been falling recently, which was already providing a tailwind for gold, but Friday’s action pushed it back up to its September highs.
+If you look at the chart below, you can see that gold prices rose throughout last week. They actually started rising just after the Christmas holiday.
+Daily Chart of Gold — Chart Source: TradingView
+Just after Christmas, we received news that new home sales in the U.S. had risen, consumer confidence was high and the number of American’s applying for unemployment had decreased.
+Low unemployment and high confidence typically leads to more spending. In turn, greater demand for goods and services tends to lead to inflation.
+Gold, which can act as a hedge against inflation, reflect the market’s expectation for higher inflation in the future, so naturally it started to rise a little.
+But the airstrike sent gold much higher, and I think the spike is unwarranted. Eventually it will start to fall back down.
+GLD is an exchange-traded fund (ETF) that follows the price of gold. After the recent spike, the ETF jumped toward its recent high just above $146. That level will likely act as resistance, which should push prices lower.
+Daily Chart of the SPDR Gold Shares (GLD) — Chart Source: TradingView
+Still, resistance may not keep the stock from pushing higher. By setting a strike price more than $9 above GLD’s recent high, traders can lower their risk in this otherwise risky naked call write.
+But ultimately, I think investor sentiment will calm, and gold will start to come back down as a result. If you recall, there was a spike in oil prices after the attack on the Saudi oil facility at Abqaiq in September. But prices did come back down after that attack.
+The spike in gold is a result of fear, and I don’t think that fear is well matched with the fundamental conditions in the market. With a far out of the money call write, we can collect some additional income on GLD.
+Sell to open the GLD Jan. 31st $155 Call for a credit of about $0.35.
+Note: There are several January expirations available for GLD options. Be sure you are opening the weekly options that expire on Friday, Jan. 31, 2020.
+This is a high-risk trade, so take a small position.
+The calls obligate you to sell GLD at $155 a share if the stock rises higher than that by option-expiration day (Jan. 31). Selling these calls gives you $35 in your account per option contract. (Remember… one option contract equals 100 shares of stock.)
+One risk is that GLD could unexpectedly move up sharply. If that happens, we would need to buy back to cover and close the naked call option for a loss.
+The other risk if the stock moves up sharply is that the call will be assigned. This means that for every 1 call option we sold to open, we would need to buy 100 GLD shares on the open market at an unknown higher price and then sell the shares at the $155 strike price for a loss. Keep your positions small.
+InvestorPlace advisor Ken Trester also brings you Power Options Weekly , which delivers 5 new options trades and his latest trading advice to you each Friday. Trester has been trading options since the first exchanges opened in 1973 with a winning streak that goes back to 1984 with money-doubling average annual profits since 1990.
+Jaw-dropping “behind the scenes” footage shows new battery that could take down Big Oil… Big Auto… even Tesla.
+For early investors, this presents the kind of opportunity that could turn a tiny initial stake into an absolute fortune.

@@ -1,0 +1,16 @@
+Please consider using a different web browser for better experience.
+Please enable JavaScript in your browser for a better site experience.
+The South Korean arm of cryptocurrency exchange OKEX has halted, for now at least, the delisting of two privacy coins due to regulatory pressure from the Financial Action Task Force (FATF).
+According to a notice from the exchange on Thursday, the planned suspension of both zcash (ZEC) and dash (DASH) support has been put under review.
+OKEX first announced its intentions to delist five privacy coins – also including monero (XMR), horizen (ZEN) and super bitcoin (SBTC) – in September citing FATF’s controversial “ travel rule ” for crypto asset service providers, which sets out how national regulators must oversee the industry.
+Under the travel rule, crypto exchanges must be able to collect and disseminate relevant information for transaction monitoring such as the name and address of the sender and recipient of virtual currencies.
+Monero, horizen and super bitcoin are still being delisted from the exchange as of today, Oct. 10, OKEx said. A final decision on zcash and dash support will be announced after the compliance review.
+Speaking with CoinDesk via email, Josh Swihart, VP of marketing and business development at the Electric Coin Company – the co-developer of zcash – said his firm has been working with OKEx since the September announcement.
+“Zcash is entirely compatible with all FATF recommendations including the travel rule. We’ve been working with OKEx and others in S. Korea and happy to hear that OKEx has decided to take additional time to further evaluate Zcash support based on newly available compliance information.”
+Since FATF’s announcement, there has been increasing pressure for exchanges to drop support for privacy coins.
+Notably, Coinbase dropped zcash from its U.K. exchange in early August. A source told CoinDesk that the move was in relation to forming a new banking relationship with ClearBank after Barclays withdrew its services from the company.
+South Korean exchange Upbit also dropped zcash recently.
+The Electric Coin Company has been actively lobbying regulators and lawmakers over its cryptocurrency, according to Swihart.
+An open brief on regulation and compliance posted in September stated:
+“Zcash was designed to protect consumers’ financial privacy while retaining compatibility with global AML / CFT standards, including the FATF Recommendations that were adopted in June 2019. Importantly, the privacy provided by Zcash does not prevent regulated entities from fulfilling their regulatory obligations.”
+The leader in blockchain news, CoinDesk is a media outlet that strives for the highest journalistic standards and abides by a strict set of editorial policies . CoinDesk is an independent operating subsidiary of Digital Currency Group, which invests in cryptocurrencies and blockchain startups.

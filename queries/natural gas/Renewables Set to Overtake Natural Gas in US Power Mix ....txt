@@ -1,0 +1,25 @@
+Renewables Set to Overtake Natural Gas in US Power Mix, EIA Says
+A year ago, the EIA predicted gas would remain the country’s top power source through 2050. It’s changed its mind.
+Before joining GTM in spring 2019, Karl-Erik spent 10 years covering the global renewable energy market, based out of London and then New York.
+It’s official: The U.S. Energy Information Administration (EIA) has finally come around to the view that renewables will overtake natural gas in the country’s electricity mix.
+The EIA has long been known for its implausibly conservative predictions about renewable energy. As recently as last year, the EIA forecast that natural gas would remain the country’s top source of electricity out to 2050.
+Last year in its Annual Energy Outlook, the EIA put natural gas at 39 percent of the power mix in 2050 under its base-case scenario, far outpacing renewables at 31 percent.
+Fast forward to the 2020 Annual Energy Outlook , released Wednesday, and that prediction has been turned on its head: Renewables are now forecast to account for 38 percent of electricity in 2050 (up from 19 percent today), while natural gas will see its share drop to 36 percent (from 37 percent today).
+“We see renewables as the fastest-growing source of electricity generation through 2050 as cost declines make them economically competitive beyond the expiration of existing federal and state policy supports,” EIA Administrator Lisa Capuano said in a statement.
+Predicting the energy markets is difficult, and the EIA has struggled to get it right across numerous sectors over the past decade, from the fracking revolution to plunging solar and wind prices — as laid out nicely by Axios last month.
+But the EIA’s new take on renewables is striking; even in a country awash in extremely cheap natural gas and with a climate change denier running the show, the inevitable centrality of renewable electricity has been acknowledged by the main government agency responsible for energy analysis.
+If not surprising to the renewables industry itself, the implications are still big: Solar and wind will claim all of the market-share gains in the expanding American power market over the coming three decades, with natural gas, nuclear and coal all slipping  — dramatically in the case of the latter two.
+Credit: EIA Annual Energy Outlook 2020, reference case
+The EIA expects that the "relatively sharp growth in renewables seen during the past 10 years will continue through the projection period,” the report says, with renewables overtaking natural gas after 2045 in overall generation.
+In an alternative “low renewables cost” EIA scenario, the crossover would happen in the 2030s. Lower or higher gas prices could also affect the timing.
+In another milestone for the renewables industry, wind generation overtook hydroelectric in 2019, with wind now accounting for 38 percent of U.S. renewable power.
+But solar will be the bigger winner over time. While wind output will continue to increase, its share of the renewables mix will fall to 33 percent by 2050, compared to solar’s 46 percent (up from 15 percent today), according to the EIA.
+Even acknowledging the ongoing competitiveness gains for renewables, the EIA does not paint a doomsday scenario for nuclear and coal. Instead, it sees their market positions deteriorating rapidly through the mid-2020s as older plants are retired, but then stabilizing afterward as more “economically viable” plants remain in service.
+In its latest outlook, the EIA takes the conservative view that electric cars will not have a big impact on power demand, claiming a "lack of market evidence to date that would indicate a significant increase in U.S. consumer preference for EVs."
+"Both vehicle sales and utilization would need to increase substantially for EVs to raise electric power demand growth rates by more than a fraction of a percentage per year," the report says.
+Among other key projections in the EIA's Annual Energy Outlook 2020 reference case:
+The U.S. continues to set annual records for crude oil production through the mid-2020s, but output begins to level off and even fade further down the road.
+Having become a net energy exporter in 2019, the country will remain so through at least 2050. But exports will peak in the early 2030s before declining, as domestic consumption growth once again begins to outpace production.
+Natural-gas production, on the other hand, will continue to climb through the middle of the century.
+Behind-the-meter solar will account for 4 percent of U.S. electricity generation in 2050.
+Energy-related carbon dioxide emissions will continue falling through the 2020s, but then start rising again as the industrial sector consumes ever more natural gas.

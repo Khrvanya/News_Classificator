@@ -1,0 +1,12 @@
+Please consider using a different web browser for better experience.
+Please enable JavaScript in your browser for a better site experience.
+Crypto derivatives platform FTX has perhaps the most speculative and oddly-named futures index fund on the market: SHIT-PERP , or the Shitcoin Index Perpetual Futures.
+An index of 58 low market cap coins, SHIT-PERP includes projects like Waves, Grin, and Nano. It is flanked by two other low-cap indexes on the site, MID-PERP and ALT-PERP.
+Following an incubation program under Alameda Research , the derivatives platform opened this past spring. FTX runs an over-the-counter desk, futures, indexes, and now spot trading. Based out of the Antigua and Barbuda, the platform is slowly adding spot and margin trading.
+FTX’s connection to Alameda Research gives it deep liquidity, per FTX statements. Founded in October 2017, Alameda manages over $100 million in digital assets, trading between $600 million and $1.5 billion per day. The quantitative trading firm operates the second-best performing account on BitMEX and helped onboard staff from Jane Street, Optiver, Susquehanna, Facebook, and Google to FTX, according to FTX.
+Regardless of the index’s name, FTX stands by its product which it launched in June. Speaking to CoinDesk, FTX Chief Marking Officer Darren Wong said the index allows traders and investors to interact with coins in an innovative way. Wong listed three examples:
+If you want exposure to a particular initial coin offering, but not the general industry, you can short SHIT-PERP. By shorting the greater alt market, you hedge your bets and limit your downside.
+If you want to short low market cap altcoins in general, you can use SHIT-PERP. The indexed future is one of few ways to short low cap alt markets.
+If you think bitcoin’s dominance is too high, you can buy all three of FTX’s altcoin futures indexes and sell BTC-PERP, the platforms Bitcoin futures index.
+Surprisingly, Wong says the exchange trades a roughly on par with its other futures index, ALT-PERP, at roughly a few million dollars turnover. At the time of writing, the index was down 2.62%.
+The leader in blockchain news, CoinDesk is a media outlet that strives for the highest journalistic standards and abides by a strict set of editorial policies . CoinDesk is an independent operating subsidiary of Digital Currency Group, which invests in cryptocurrencies and blockchain startups.

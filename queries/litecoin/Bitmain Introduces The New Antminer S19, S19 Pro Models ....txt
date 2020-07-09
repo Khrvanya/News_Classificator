@@ -1,0 +1,12 @@
+Bitmain Introduces The New Antminer S19, S19 Pro Models, Shares Specs
+The next-gen mining equipment provides excellent power efficiency.
+Bitmain, the leader in the creation of integrated circuit chips for cryptocurrency mining, just announced its next-gen line of Antiminer. The new supercomputing hardware models are Antminer S19 and S19 Pro and as expected, provide great performance.
+Antminer S19 – 95 TH/s hash rate, 34.5+/-%5 J/TH power efficiency.
+Antminer S19 – 90 TH/s hash rate, 34.5+/-%5 J/TH power efficiency.
+Antminer S19 Pro – 110 TH/s hash rate, 29.5+/-%5 J/TH power efficiency.
+Antminer S19 Pro – 105 TH/s hash rate, 29.5+/-%5 J/TH power efficiency.
+Announcing the #Antminer S19 Series! The #AntminerS19 has 2 variants, a 95 TH/s and 90 TH/s model, with a power efficiency of 34.5±%5 J/TH. The #AntminerS19Pro has a 110 TH/s and 105 TH/s model, both with a power efficiency of 29.5±%5 J/TH. Learn more at https://t.co/2ftncwFOl2 pic.twitter.com/opW7IcZ3yZ
+— Antminer_main (@Antminer_main) February 27, 2020
+The Antminer S19 versions come with a next-gen custom-built chip, which reaches a very low power efficiency of 23 J/TH. To reach such numbers, Bitmain improved the architecture of the circuit, thus greatly enhancing power efficiency.
+The Antminer S19 and S19 Pro also use the new APW12 high-conversion efficiency power supply, which helps for stability. The new products come with an updated firmware adding quicker startup and an intelligent command mechanism which provides excellent mining experience.
+Bitmain uses industry-leading technology in the new Antminer 19 series and lets users mine Bitcoin under the SHA256 algorithm efficiently. With the help of the new models, miners can optimize their earnings and be confident with their machines for a longer period as the Antminer 19 series will cater their needs even after the approaching Bitcoin halving.

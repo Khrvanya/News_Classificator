@@ -1,0 +1,8 @@
+Certain transactions made through the privacy coin Monero are untraceable, found Europol’s European Cybercrime Centre.
+In a webinar, Jerek Jakubcek , a strategic analyst at Europol, spoke of a suspect who conducted Monero transactions through the privacy browser, Tor. Tor scrambles IP addresses by rerouting traffic through its network, making it difficult for law enforcement agencies to track web history.
+“Since the suspect used a combination of Tor and [Monero], we could not trace the funds. We could not trace the IP-addresses. Which means, we hit the end of the road,” Jakubcek told audiences.
+“Whatever happened on the Bitcoin blockchain was visible and that’s why we were able to get reasonably far. But with Monero blockchain, that was the point where the investigation has ended. This is a classical example of one of several cases we had where the suspect decided to move funds from Bitcoin or Ethereum to Monero,” he said.
+But those hoping to evade authorities by obscuring transactions through a combination of Monero and Tor ought to think twice; if the police can’t analyze transactions, governments can introduce regulations that make them difficult to use.
+For instance, when Germany’s Federal Ministry of Finance determined Monero transactions to be untraceable back in October, it announced plans to amend German legislation according to the new European money laundering directive that’ll go out this month.
+The new legislation requires “obligated parties”—like crypto exchanges, wallet providers, or other companies who process crypto transactions—to take steps against money-laundering. Be careful what you wish for.
+Get the best of Decrypt where you want it most.

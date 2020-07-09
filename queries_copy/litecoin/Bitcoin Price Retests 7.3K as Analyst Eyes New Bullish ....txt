@@ -1,0 +1,17 @@
+A vacuum between futures’ weekly closing price and current BTC/USD levels could take Bitcoin as much as $600 higher next week, an analyst suggests.
+Bitcoin ( BTC ) fell back towards support at the $7,250-$7,300 level on Dec. 1 after its latest sudden uptick began to fizzle overnight.
+Data from Coin360 showed the largest cryptocurrency shedding almost 30% of its gains from earlier in the week , dropping from local highs of $7,790 to around $7,300 at press time.
+The downside equated to 24-hour losses of 6% for Bitcoin, which began showing signs it would test support strength at $7,000.
+Previously, BTC/USD hit multi-month lows of $6,500 before rebounding almost $1,300 within a matter of days.
+At press-time levels, the pair was trading at exactly the same level as last Sunday.
+Now, analysts were looking for factors that could influence short-term momentum up or down. In particular, Cointelegraph contributor Michaël van de Poppe eyed a likely “gap” in Bitcoin futures markets.
+As Cointelegraph reported , Bitcoin price tends to “fill” points in its price which fall between where one futures trading session ends and another begins.
+After Sunday’s drop, a new gap will likely have opened up, van de Poppe said, as CME’s contracts finished Friday trading at $7,805. This would thus propel BTC/USD back towards $8,000. Last week, a gap at $7,200 was likewise swiftly filled.
+“Good part of this drop; another CME gap is created to the upside,” van de Poppe commented in a fresh Twitter update .
+Continuing , he added the potential for Bitcoin likely lay between $6,900 and $8,000:
+“I'd be interested to see whether we can break $7,400 up here. If we can, then we might be able to go to $8,000 after all. If not, I'm aiming at $6,900-7,000 for some longs.”
+Futures analysis delivered mixed results this week after CME’s monthly contracts settled on Friday. Data suggested that Bitcoin would likely gain following the payouts, but so far, an opposing price trajectory has characterized markets.
+Overall sentiment among futures traders nonetheless remains bullish, with competitor Bakkt seeing record daily volumes for its own monthly contracts last week.
+Altcoin markets meanwhile saw a disappointing 24 hours, with many major cryptocurrencies shedding around 5%.
+Ether ( ETH ), the largest altcoin by market cap, fell 4.2% to $147, while others fared worse. Litecoin ( LTC ), for example, was down 6.1%.
+The overall cryptocurrency market cap was $198.7 billion, with Bitcoin’s share at 66.6%.

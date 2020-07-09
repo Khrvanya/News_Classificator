@@ -1,0 +1,11 @@
+Custodian clients can directly trade digital assets from their vault-stored funds.
+BitGo, a crypto custodian-turned financial services platform, has announced on Wednesday the launch of its prime brokerage platform , offering digital asset trading services to its institutional clients.
+Dubbed BitGo Prime, the services are exclusive to the company’s custodian clients.
+The brokerage service will allow BitGo users to trade directly using their holdings in the BitGo’s custody.
+Initially, BitGo Prime’s clients need to maintain full funds on their accounts; however, the company assured that it has plans to offer traders with non-fully funded accounts through a line of credit in the future.
+The platform will operate as a subsidiary to the Bitgo Holdings and is registered as a separate entity. Nick Carmi, BitGo’s head of financial services, has been named as the CEO of BitGo Prime.
+Did COVID-19 Save the Forex Industry? Go to article >>
+“Building a true prime offering for the institutional market requires the three “Ls” — lending, liquidity, and leverage, plus operational excellence and strong security,” Carmi told Finance Magnates.
+“We have created an innovative, sustainable trading and lending business focused on the needs of the institutional investor, which bridges the complex world of technology with the demands of the traditional financial markets.”
+The company also ensured total anonymity in trade execution for its institutional clients along with deep liquidity through aggregated price feeds and fast executions.
+“Launching BitGo Prime with its best-in-class trading and lending services is a critical milestone in the company’s journey as a prime broker and the leader in digital asset financial services. Nick and his talented team did an extraordinary job helping us to build a better financial model for our institutional clients,” Mike Belshe, CEO of BitGo, added.

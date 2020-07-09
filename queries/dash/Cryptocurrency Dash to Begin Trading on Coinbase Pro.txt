@@ -1,0 +1,13 @@
+Please consider using a different web browser for better experience.
+Please enable JavaScript in your browser for a better site experience.
+Cryptocurrency exchange Coinbase announced its listing of cryptocurrency dash following an exploration period with the exchange that ended last week. Deposits will be accepted today followed by trades opening Tuesday at 16:00 UTC.
+Coinbase announced its review of eight cryptocurrencies earlier last month. Of those under study, dash is the first to be approved.
+A proof-of-work cryptocurrency, dash focuses on payments and security. With a reported marketcap of over $800 million, according to Messari , Dash is the 16th largest cryptocurrency by that metric.
+In an interview with CoinDesk, Dash Core Group CEO Ryan Taylor said listing on Coinbase Pro was an investigative process due to the standards Coinbase holds. Recently, the privacy features of dash have come under scrutiny from other exchanges and regulators.
+“Dash implements a privacy technique called CoinJoin,” Taylor said.  “CoinJoin has been implemented a number of times on the bitcoin blockchain. Dash is one of the first which is why it probably has been labelled as a privacy coin.”
+“This is what Coinbase understands and what we’ve been educating exchanges and regulators about,” he added.
+CoinJoin mixes transactions into a single transaction on the blockchain. The process makes it more difficult to identify where payments are directed going. Unlike other privacy coins protocols, including monero ‘s bulletproofs or zcash ‘s zk-SNARK implementation, CoinJoin’s are not totally anonymous.
+“It’s important for our users to the access and so its important regulators know the distinction,” he continued.
+“Our implementation of coinjoin is sophisticated and has a high level of privacy. The important thing to note is there is no legal status difference” between bitcoin and dash.
+With over 30 million users, Coinbase Pro is one of the largest crypto exchanges by volume.
+The leader in blockchain news, CoinDesk is a media outlet that strives for the highest journalistic standards and abides by a strict set of editorial policies . CoinDesk is an independent operating subsidiary of Digital Currency Group, which invests in cryptocurrencies and blockchain startups.

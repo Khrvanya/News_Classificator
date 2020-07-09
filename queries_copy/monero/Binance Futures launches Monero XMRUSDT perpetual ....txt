@@ -1,0 +1,7 @@
+Binance , one of the world’s largest cryptocurrency exchanges, added Monero [XMR] to its Futures market. Binance Futures announced the launch of XMR/USDT perpetual contract today. This update comes just weeks after the exchange announced that Stellar Lumens [XLM] paired with USDT perpetual contracts would be supported on Binance Futures.
+In the announcement , the company stated that the XMR/ USDT perpetual contracts will begin trading on 3 Feb 2020 from 08:00 AM (UTC) and users will be able to select the leverage they want ranging from a minimum of 1x up to a maximum of 75x.
+Binance also said, “To prevent market manipulation, Binance will implement a pricing limit of ±1% on the mark price within the first 15 minutes after trading starts.” This measure was also implemented when the XLM /USDT perpetual contracts began to trade.
+The pricing limit cap is in place is to act as a counterforce to deter sudden surges in price that were seen when other popular cryptocurrencies were listed on the exchange.
+As of now, according to market analytics firm CoinGecko , Binance Futures also offers trading support for popular cryptocurrencies such as Bitcoin [BTC], Ethereum [ETH], Bitcoin Cash [BCH], Ethereum Classic [ETC], XRP, Litecoin [LTC], EOS, LINK, TRX, XLM, and ADA. With the addition of XMR, Binance Futures now support almost all major cryptocurrencies in the market.
+Did you like this article?
+Your feedback is important to us!

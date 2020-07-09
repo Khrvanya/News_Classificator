@@ -1,0 +1,31 @@
+The Hemant Soren government on Tuesday announced a slew of welfare measures including farm loan waiver, unemployment allowance, free power, free treatment for critical illness and universal scholarship for students in government schools.
+Jharkhand Finance Minister Rameshwar Oraon presented the first budget of the alliance government led by Mr. Soren, which came to power in December last year.
+“The annual budgetary allocation for the year 2020-21 is estimated at ₹86,370 crore. The revenue and capital expenditure has been estimated at ₹73,316 crore and ₹13,054 crore respectively,” Mr. Oraon said in the State Assembly.
+“More than 75% of Jharkhand’s population depends on agriculture and allied activities. The government is determined for development of people associated with the sector. The government has decided to start a short-term loan waiver scheme for people whose lion’s share of income goes in repaying farm loan,” he said.
+Welcoming the budget, Mr. Soren said: “The budget is a reflection of our pro-poor outlook. We have made our priorities public. We have turned the direction of our governance towards shanties. In the first phase, farm loan up to ₹50,000 will be waived.”
+The Minister said the State would assess the number of farmers who have taken loan and the total amount that needs to be repaid.
+As per major budgetary provisions, people consuming less than 300 units of power will not have to pay electricity dues for first 100 units.
+Unemployed youths, who had earned their bachelor and master’s degree in the past three years and registered with employment exchanges for jobs, will be paid an annual unemployment allowance of ₹5,000 and ₹7,000 respectively. The government has made budgetary provision of ₹146 crore under this head.
+The government also proposes to provide universal scholarship for students enrolled in government schools from Class I to XII under the Chief Minister Special Student Scholarship scheme.
+Moreover, the Soren government announced that it will pay an additional ₹50,000 to the Pradhan Mantri Awas Yojana beneficiaries from the State exchequer. The government also proposes to provide ration to all people above 50 years of age.
+You have reached your limit for free articles this month.
+Start your 14 days trial now. Sign Up
+Find mobile-friendly version of articles from the day's newspaper in one easy-to-read list.
+Move smoothly between articles as our pages load instantly.
+Enjoy reading as many articles as you wish without any limitations.
+A one-stop-shop for seeing the latest updates, and managing your preferences.
+A select list of articles that match your interests and tastes.
+We brief you on the latest and most important developments, three times a day.
+*Our Digital Subscription plans do not currently include the e-paper ,crossword, iPhone, iPad mobile applications and print. Our plans enhance your reading experience.
+We have been keeping you up-to-date with information on the developments in India and the world that have a bearing on our health and wellbeing, our lives and livelihoods, during these difficult times. To enable wide dissemination of news that is in public interest, we have increased the number of articles that can be read free, and extended free trial periods. However, we have a request for those who can afford to subscribe: please do. As we fight disinformation and misinformation, and keep apace with the happenings, we need to commit greater resources to news gathering operations. We promise to deliver quality journalism that stays away from vested interest and political propaganda.
+Your support for our journalism is invaluable. It’s a support for truth and fairness in journalism. It has helped us keep apace with events and happenings.
+The Hindu has always stood for journalism that is in the public interest. At this difficult time, it becomes even more important that we have access to information that has a bearing on our health and well-being, our lives, and livelihoods. As a subscriber, you are not only a beneficiary of our work but also its enabler.
+We also reiterate here the promise that our team of reporters, copy editors, fact-checkers, designers, and photographers will deliver quality journalism that stays away from vested interest and political propaganda.
+Please enter a valid email address.
+var data = {"email" : email, "category" : "mb"};
+@media ( max-width : 1023px) and (min-width: 768px) {
+@media ( max-width : 767px) and (min-width: 1px) {
+box-shadow: 0 0 4px 0 rgba(0, 0, 0, .328);
+@media ( max-width : 320px) and (min-width: 1px) {
+@media ( max-width : 1023px) and (min-width: 1px) {
+@media ( max-width : 767px) and (min-width: 1px) {

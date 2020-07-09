@@ -1,0 +1,29 @@
+Please consider using a different web browser for better experience.
+Please enable JavaScript in your browser for a better site experience.
+Galen Moore is a member of the CoinDesk Research team. The opinions expressed in this article are the author’s own.
+The following article originally appeared in Institutional Crypto by CoinDesk, a weekly newsletter focused on institutional investment in crypto assets. Sign up for free here .
+It’s a lively time for bitcoin derivatives – or at least for those writing about them. For those trading them, it may be business as usual.
+The Chicago Mercantile Exchange (CME) announced Friday it is preparing to offer options trades on its bitcoin futures contract. It’s a surprising move, because options volume to date rounds to zero, as a percentage of reported volume in futures and swaps.
+Still, nobody in crypto has had an options counterparty as reliable as CME before.
+The announcement gives CME a way to offer options without having to build much anew. Why should it? CME’s bitcoin futures market represents a tiny percentage of its overall volume.
+Nevertheless, CME may be feeling a shade of anxiety about its leadership position in regulated crypto derivatives markets, with Bakkt rolling out a regulated bitcoin futures contract this week that, unlike the Chicago exchange’s, is settled in actual bitcoin rather than cash.
+After all, other people in Chicago who trade a lot of bitcoin seem to think physically settled futures are important . Maybe CME’s announcement lets it steal a little of Bakkt’s thunder.
+Speaking of Bakkt, its October 2019 monthly and daily contracts launched Monday. First-day volume in the monthly contract was just 71 BTC. That’s rather anemic, compared with the start of the CME product in December 2017 , which isn’t necessarily apples to apples, given CME futures launched near bitcoin’s all-time highs.
+The Bakkt one-day futures contract is the more intriguing product of the two. It could be anything from a CFTC-regulated fiat onramp to a duplicate of the popular BitMEX perpetual swap, if traders use its T+2 settlement to build a forward curve and continue to roll the contracts.
+So far, traders aren’t. Volume in Bakkt’s one-day futures was all of 2 BTC on Monday.
+The first regulated bitcoin futures came in December 2017, just before bitcoin’s price began a long slide down 83 percent from its all-time high. With volumes under $100 million, however, it would be hard to argue that futures trading brought sanity to the markets.
+Instead, it’s more likely that slow demand for the new product punctured the myth of institutional demand for bitcoin exposure, pent up behind compliance departments’ insistence on a regulated product.
+That myth is alive and well today among retail-focused crypto “analysts,” as a search for “bakkt volume fail” will show you. If you were around in 2017, you didn’t need time travel to know to short bitcoin on Monday : you had seen this movie before. Even the least-sober among us in 2019 recognize the obvious , that institutional investors’ interest in bitcoin is developing slowly, when it is developing at all.
+For institutional investors, derivatives offer readily understood solutions to operational obstacles related to custody, investability and risk. (Regulated bitcoin futures are structured the same as futures in, say, frozen concentrated orange juice.)
+Still, today the lion’s share of the volume is on unregulated exchanges that don’t operate as clearinghouses and offer leverage up to 100X.
+These products could not be interesting to any regulated asset manager, but they are interesting.
+Despite persistent doubts as to the reliability of their reported volumes ( especially with OKEx and Huobi ), bitcoin traders on the largest over-the-counter (OTC) trading desks know there is liquidity in these markets. Their hedging strategies rely on that liquidity.
+Other than that, volume on these leveraged trades is probably all crypto hedge funds and, as one trader put it to me, “degenerate gamblers,” trading on their own accounts.
+Bitcoin futures are structured much like orange juice concentrate futures, but everyone knows that orange juice concentrate, when mixed with more volatile things can become rather flammable . There are important qualities that set bitcoin apart from other asset categories and these qualities of the underlying are taken into account by institutional investors evaluating bitcoin derivatives.
+For example, there may not be natural hedges in a bitcoin futures market. If you don’t believe that, compare global operating expenditure for gold miners to those of bitcoin miners. This isn’t Kansas.
+Derivatives may be gold bricks paving the road to institutional investment in bitcoin, but it’s a long way to the Emerald City. Right now, the CME futures volume is as good a guide as any to investors’ progress along that road.
+You may have seen charts showing the rise in CME volumes in May. That rise also coincided with a twofold increase in the price of bitcoin. Measured in bitcoin terms, CME futures volume surged in July and is now back trading at a modest growth rate over Q1 levels.
+Meanwhile, no fewer than four other startups are readying new derivatives offerings for the U.S. institutional and other regulated markets. All are focused on physical settlement.
+It remains to be seen whether physical delivery will be a feature that compels market participation. It’s not always very important in derivatives built on other asset categories.
+One thing appears certain: no new financial instrument is likely to “unlock” institutional demand, as most institutions are only beginning to answer the question of why they would invest in bitcoin in the first place.
+This analysis draws on a forthcoming white paper on the state of crypto-asset derivatives. Look for it later this week at coindesk.com/intro-to-crypto-investment .

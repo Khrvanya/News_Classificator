@@ -1,0 +1,40 @@
+Pivot Or Perish Market Dashboard India-China Face-Off The Future Of Covid Tracker Lounge Coronavirus India2Global Emerging Tech Conclave #WFHLife Long Reads Money With Monika, Season 4 Mint 50 - Top Mutual Funds Plain Facts Mark To Market Podcasts Money With Monika, Season 3 Companies Markets Money Start-ups Mutual Funds Insurance Technology Industry Opinion Politics
+2 min read . Updated: 30 Apr 2020, 07:19 AM IST Reuters
+Asian equity markets were poised to gain on Thursday, tracking Wall Street's rally after positive trial results of an experimental COVID-19 treatment, a U.S. Federal Reserve pledge to shore up the economy and a jump in oil prices.
+A top U.S. health official said Gilead Sciences Inc's  antiviral drug remdesivir is likely to become the standard of care for COVID-19 after early results from a clinical trial showed it helped certain patients recover more quickly.
+Investors expect the ensuing virus treatments to be critical in helping countries emerge from self-imposed lockdowns aimed at curbing the outbreak.
+"The markets were up on expectation of the Gilead drug meeting the clinical end point, more regional re-opening in the U.S., and backstopping by the Fed after the chairman said that it will be overly accommodative," said Thomas Hayes, chairman of Green Hill Capital.
+Australian S&P/ASX 200 futures  were up 2.02%, while Japan's Nikkei 225 futures  were down 0.2% at 23:00 GMT.
+The Nikkei 225 index <.N225> closed down 0.06% at 19,771.19​​​ on Tuesday. The futures contract is up 3.26% from that close.​ Japanese markets were closed for a public holiday on Wednesday. Hong Kong's Hang Seng index futures <.HSI> <.HSIc1> were up 1.01%.
+The U.S. economy suffered its sharpest decline in 11 years, with first-quarter gross domestic product contracting 4.8%, marking the end of the longest U.S. economic expansion on record.
+At the conclusion of its two-day monetary policy meeting, the Fed left key interest rates near zero while Chair Jerome Powell warned the economy would drop at an "unprecedented rate" in the current quarter.
+However, Powell also said the economy would pick up as restrictions were lifted and vowed the central bank would continue to support the recovery.
+The safe-haven dollar took a hit from rising risk appetite and the Fed's pledge to shore up the U.S. economy.
+The dollar index, tracking the greenback against six major peers <=USD>, fell 0.3%, with the euro  up 0.5% to $1.0872. Benchmark U.S. 10-year notes  fell 2/32 in price to yield 0.6143%, down from 0.61% late on Tuesday.
+Oil prices surged more than 10% after U.S. crude stockpiles grew less than expected and gasoline posted a surprise draw, feeding optimism that fuel consumption would recover as some European countries and U.S. states ease coronavirus lockdowns.
+U.S. West Texas Intermediate (WTI) crude  futures settled at $15.06 a barrel, jumping $2.72, or 22%. Brent crude futures  settled at $22.54 a barrel, up $2.08, or 10.2%.
+In Europe, automakers shares <.SXAP> were lifted after German carmaker Daimler  forecast operating profit at its Mercedes-Benz Cars & Vans division above the prior-year level and rival Volkswagen  said it expected to be profitable on a full-year basis..
+This story has been published from a wire agency feed without modifications to the text. Only the headline has been changed.
+* Thank you for subscribing to our newsletter.
+Click here to read the Mint ePaperLivemint.com is now on Telegram. Join Livemint channel in your Telegram and stay updated
+You are now subscribed to our newsletters. In case you can’t find any email from our side, please check the spam folder.
+lozad('.lozad', { load: function(el) { el.src = el.dataset.src; el.onload = function() { el.classList.add('fade')}}}).observe()
+.myAccount .planSec, .myAccount a.LinkCTA{padding:16px; margin:16px; box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.1); background-color: #fff;}
+	       		var userData = data;
+	       		var name = userData.name;
+	       		var email = userData.email;
+	       		var signupSource = userData.source;
+	       		var subscribedAtOnce = userData.subscribedAtOnce;
+	       		var plan  = userData.plan;
+	       		document.getElementById('uName').innerHTML = "<strong>"+name+"</strong>" + email;
+		       		var status = planData.status;
+		       		var purchaseSource = planData.source_device;
+			       		var nextActivationDate = planData.current_term_ends_at;
+			       		var planDescription = planData.plan.description;
+			       		var planName = planData.plan.name;
+			       		var planPrice = planData.amount;
+			       		//var planInterval = planData.shipping_interval;
+			       		var planInterval = planData.duration;
+			       		var planUnit = planData.interval_unit;
+			       		//var html = "<strong>Your Subscription Plan</strong>"+planName+" ₹"+planPrice+" / "+planInterval+" " + nextBillingHtml + cancelHtml; 
+			       		var html = "<strong>Your Subscription Plan</strong> "+planDescription + " "+ planName +": ₹"+planPrice + " "+ nextBillingHtml + cancelHtml;

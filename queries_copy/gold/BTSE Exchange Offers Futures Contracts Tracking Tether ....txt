@@ -1,0 +1,23 @@
+Please consider using a different web browser for better experience.
+Please enable JavaScript in your browser for a better site experience.
+BTSE's new perpetual futures contract is priced in bitcoin, and follows the price of gold via Tether's XAUT token. (Credit: Shutterstock)
+Bitcoin has has long been feted as a new form of money, a two-finger salute to the establishment, even as a digital equivalent to gold, but it’s not often prized for its stability. That could change with the introduction of a new futures contract.
+Crypto exchange BTSE has taken the unorthodox decision to price tether gold futures contracts in bitcoin , rather than in the more conventional U.S. dollar.
+Here’s how it works: It’s a perpetual contract – a future without expiry – that tracks the value of one tether gold (XAUT) token, which itself tracks the value of one troy ounce of physical gold. It’s also built on the ERC20 token standard, which means it can be pretty much traded on any crypto exchange.
+Unlike other contracts, this one is priced in bitcoin. While the USD spot price of XAUT tokens is currently $1,720, according to CoinGecko , BTSE’s contracts are trading around the 0.17 BTC mark.
+The contract allows traders to compare and speculate on whether bitcoin or gold will turn out to have the most demand and outperform the other, as a new store of value.
+“Imagine it as gold versus bitcoin,” a BTSE spokesperson said.
+Still, a gold/BTC contract is bound to raise a few eyebrows.
+Like regular futures, perpetual contracts have forced liquidations. If the spot price crosses a certain threshold the contract automatically settles, at a loss to the holder. Crypto observers are all too familiar with these and it’s not unknown for millions of dollars worth of USD-quoted bitcoin contracts to liquidate in one fell swoop.
+Surely, a contract quoted in bitcoin would run the risk of liquidating all the time?
+BTSE reckons that’s not likely because bitcoin and gold have a positive correlation against the dollar.
+“If the two assets are positively correlated, then the price volatility of this new instrument is, by right, even lower than Gold/USD,” a spokesperson said. That’s because the price of gold and bitcoin will likely fall by an equivalent ratio, so the contract remains, more or less, stable.
+Bitcoin has long been dubbed “digital gold” without having any sort of relationship with it. That started to change earlier this year when, against the dollar, it developed a correlation to the yellow metal.
+In a report in April, Coin Metrics said the correlation between bitcoin and gold “suddenly increased” on March 12 – “Black Thursday.” The market, they argued, might be treating both as safe havens during increases in quantitative easing and monetary inflation.
+Revisiting the relationship last week, Coin Metrics said: “The correlation between gold [and bitcoin] has consistently maintained relatively high levels for several months now, a phenomenon that has not been historically observed.”
+See also: Number of Institutions Buying Crypto Futures Doubled in 2020: Fidelity Report
+Not everyone agrees. Charles Bovaird, vice president at Quantum Eco n omics , says the relationship between gold and bitcoin over the past 90 days remains very weak, at under 0.35. “In other words, the correlation has not been high enough to be significant, at least during this particular time frame,” he said.
+But BTSE argues that in a darkening macro backdrop, where central banks are increasingly relied upon to save the day, the market will begin to treat bitcoin more like a store of value.
+As it does, so will its correlation to gold improve, making the prospect of forced liquidations for its gold contract priced in bitcoin less likely. In stark comparison, contracts quoted in dollars, which isn’t correlated to gold and who’s value could change depending on the effects of increased central bank stimulus, might feel the pressure a little more.
+If that happens, bitcoin would become more stable than the greenback.
+The leader in blockchain news, CoinDesk is a media outlet that strives for the highest journalistic standards and abides by a strict set of editorial policies . CoinDesk is an independent operating subsidiary of Digital Currency Group, which invests in cryptocurrencies and blockchain startups.

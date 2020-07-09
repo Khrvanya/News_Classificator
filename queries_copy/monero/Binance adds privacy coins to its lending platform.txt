@@ -1,0 +1,9 @@
+Crypto exchange Binance today launched another batch of lending products. Users of the exchange can now earn interest by lending privacy coins Monero, Dash and Zcash.
+Now in its fifth batch—the total amount of crypto that the exchange will borrow from its users will be 30,000 Monero, 30,0000 Dash and 60,000 Zcash.
+The product also details a strict lending term of 14 days, with annualized interest payable at a rate of 3.5 percent.
+Binance launched its lending platform in August, allowing its users to let their funds be used by margin traders. Previously, the platform had shown support for top cryptocurrencies, Bitcoin, Ethereum and XRP, its own native crypto, Binance Coin, and stablecoins including Tether and USDC. But this is the first time users have been able to do so with privacy coins.
+Given the combined total of $7.8 million worth of privacy coins that the exchange wants to borrow from its users—Binance will pay its lenders a total of around $10,500 in interest payments, at the end of the 14-day lock-up period.
+The annualized interest rate is also different to that of batch four—when Binance was offering 3 percent for Bitcoin and 10 percent for users to lend the exchange their BNB tokens.
+Despite the global limit of tokens that the exchange is willing to borrow, each individual user has their allocation capped at a limit of 300 Monero, 300 Dash and 600 Zcash.
+At the current market prices, that amount of Monero, Dash and Zcash total around $78,000—with an expected interest payout of just over $100 to each user, due when the lending agreement ends in 14 days time.
+The three privacy coins are currently ranked at #11 (Monero), #17 (Dash) and #28 (Zcash) by market cap with a combined valuation of just under $2.5 billion, according to Coingecko.

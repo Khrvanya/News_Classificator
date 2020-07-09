@@ -1,0 +1,15 @@
+According to a post on the website, monero is suitable because it is secure and untraceable.
+The organization consolidated all its BTC into one BTC on the same day it shifted to XMR.
+Per Chainalysis, terrorist groups have not fully adopted cryptocurrencies.
+The Islamic State of Syria and Iraq (ISIS) is slowly shifting into privacy coin monero (XMR) to receive donations from its supporters. Whitestream, a blockchain intelligence firm unveiled this news via a tweet on June 25. The company came to this conclusion after discovering a news website affiliated with the terrorist organization and the jihadist movement. According to Whitestream, the news website updated its donations page on June 21 to only accept donations in XMR.
+Reportedly, the website posts news on the achievements of ISIS, which was ousted from Iraq, Syria, and Libya. At the moment, the organization is running its operations underground in Egypt’s Sinai region and Northern Nigeria.
+Whitestream’s tweet quoted the website which noted,
+“With the awareness we created worldwide, and thanks to our global collaborations, we were able to push ISIS out of the Bitcoin Blockchain.”
+Now it's official, #ISIS moved to @monero to raise funds from the public.
+With the awareness we created worldwide, and thanks to our global collaborations, we were able to push ISIS out of the Bitcoin Blockchain pic.twitter.com/7bDjSH5UTT
+— whitestream – Blockchain Intelligence (@whitestream5) June 25, 2020
+According to the tutorial page that the news website published, XMR offers more security. On top of this, it is untraceable. The page then goes on to explain how supporters of the movement can buy and send XMR. It also included the XMR address that it would use to receive the donations.
+Before switching to XMR, the website has been reportedly accepting donations in BTC since December 2017. Per Whitestream, the organization pooled together its latest BTC donations and transferred the funds to a single BTC address, which currently contains 0.295 BTC worth approximately £2,176.
+“ISIS updated their website on the 21.6.2020, saying that from now on the donation system will move to @monero. On the Bitcoin blockchain we can see that at same date, ISIS grouped together some of their latest donations. Bitcoin address – 38R62BMQG8WyVy8h6VhCQ8B2oYUkSB2PD.”
+While regulators across the globe have been introducing stricter rules to help prevent terrorist financing, a Chainalysis report revealed that there is limited adoption by terrorist organizations. Per the publication, most terrorism financing campaigns have raised less than £8,100 through crypto.
+Do you think ISIS’ open declaration of shifting to XMR will see regulators tighten clampdowns on the privacy-oriented coin? Share your thoughts in the comment section below.

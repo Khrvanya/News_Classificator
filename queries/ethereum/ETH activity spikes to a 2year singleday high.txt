@@ -1,0 +1,28 @@
+Ethereum is a decentralized system, fully independent, and not under anybody’s authority.
+In recent days, ETH transactions and mining activities in the Ethereum market by ETH whales, professional traders, and ETH Miners, show that daily transactions and total ETH gas recorded are being broken.
+Data obtained from Santiment Research company’s Twitter feed revealed that “the number of daily addresses interacting with $ETH has spiked in the past 24 hours to a 2-year single day high of 486,000 addresses! The last time Ethereum’s address activity was this high was on May 5th, 2018.”
+— Santiment (@santimentfeed) June 30, 2020
+The Ethereum network showed high activity by Ethereum miners as “the total ETH gas used on the Ethereum blockchain reached a new all-time high this past week, coinciding with the vote by $ETH miners to increase the block gas limit by 25% (from 10million to 12.5million).”
+— Santiment (@santimentfeed) June 29, 2020
+“The increase in gas usage indicates a continuous growth in the use of Ethereum’s platform, as measured by the number of transactions, as well as demand for block space, as measured via gas per transaction,” said Wilson Withiam, research analyst at data provider Messari.
+Gas is the token that energizes the Ethereum’s blockchain. It is the standard used to calculate the amount of charges an individual needs to pay in order to make transactions on Ethereum’s blockchain.
+Quick fact: Ethereum is a cryptocurrency designed for decentralized applications and deployment of smart contracts, which are created and operated without any fraud, interruption, control or interference from a third party.
+Ethereum is a decentralized system, fully independent, and not under anybody’s authority. It has no pivotal point, and its platform is connected to thousands of its users through their computing systems around the world, which means it’s almost impossible for Ethereum to go offline.
+Like with many other crypto assets, speculating with Ethereum can be highly profitable and has had a good history of giving its investors huge returns. However, there are also many other options to make income from Ethereum. These options include Ethereum mining, Ethereum faucets and Ethereum staking.
+Olumide Adesina a French-born Nigerian, an Investment Professional at Nairametrics Financial Advocates, owners of Nairametrics.com. 
+He is a Certified Investment Trader, with more than a decade working expertise in Investment Trading.
+A member of the Chartered Financial Analyst Society.
+Your email address will not be published.
+Midweek had more volatility in the BTC market than the beginning or end of the trading week.
+Most BTC investors and crypto traders are changing their methods of trading in 2020, preferring to trade around the American trading session because of the high price volatility that occurs at the start of New York stock market trading time, about 2.30 pm local time.
+Data seen on Twitter feeds show that price volatility for the world’s flagship currency by market capitalization is highly correlated with the opening of American financial markets.
+In addition, other trading sessions like the London and Asian financial market openings have considerably little impact on BTC’s price volatility.
+“Can we just halt $BTC trading during Asia + Euro hours,” a crypto trader, Hsaka, said uploading evidence, which relates to the previous few days on U.S. exchange, Coinbase.
+Can we just halt $BTC trading during Asia + Euro hours. pic.twitter.com/X6hp6y9jMC
+— Hsaka (@HsakaTrades) July 3, 2020
+The data may have unearthed changing tendencies among BTC traders, possibly due to the increasing prevalence of institutions within the market.
+Furthermore, Skew.com, a crypto analytic firm, found out that the midweek had more volatility in the BTC market than the beginning or end of the trading week. Weekends were also observed to be quiet.
+Meanwhile, data from Glassnode, a data analytic firm, showed that about 1.8 million Bitcoins are held in miner wallets around 10% of the supply (18.5million BTC). However, around 1.73 million belong to first-time miners (7+ years) and are most likely lost. That leaves only 70k BTC in the hands of current mining pools.
+1.8M $BTC are held in miner wallets – around 10% of the #bitcoin supply.
+However, around 1.73M belong to very early miners (7+ years) and are most likely lost.
+That leaves only 70k BTC in the hands of current mining pools.

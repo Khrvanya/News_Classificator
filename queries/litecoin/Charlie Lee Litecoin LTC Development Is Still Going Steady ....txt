@@ -1,0 +1,33 @@
+Charlie Lee: Litecoin (LTC) Development Is Still Going Steady, Despite Recent FUD
+Launched in October 2011 as a Bitcoin (BTC) fork, Litecoin (LTC) has consistently ranked among the top cryptocurrencies. As a leading peer-to-peer (P2P) digital asset platform, the Litecoin network adopted SegWit (for more efficient transaction data processing) before it was added to the Bitcoin protocol.
+Litecoin’s developers have also integrated the Lightning Network (LN), a layer-two scalability solution for enabling faster transactions.
+Litecoin Has Made No Significant Progress This Year?
+However, recently leaked conversations between Litecoin creator Charlie Lee and other people involved in the crypto’s development indicate that no significant progress has been made with the LTC blockchain project this year.
+A recent Reddit post appears to suggest that Litecoin development has stalled or stagnated during 2019.
+According to Litecoin Foundation director Franklyn Richards:
+“I was extremely disappointed to discover that no progress had been made on CT (confidential transactions) since the announcement, especially when I stand on stage telling everyone it’s happening and we are actively working on it.”
+As Bitcoinist confirms, Lee stated via Twitter eight months back that the CT upgrade would be activated. Lee had noted that the protocol update would be launched toward the end of this year.
+On August 11, 2019, Lee addressed the comments made by Richards by acknowledging that the Litecoin Github might appear to be inactive this year. Lee also claimed that there’s still substantial work being done to improve the cryptocurrency platform.
+The former Coinbase director of engineering pointed out that a new version of Litecoin Core was actually released in May 2019.
+5/ First reason is Litecoin releases lag Bitcoin releases by a few months. So when we do a release, we are releasing code that's been released in Bitcoin months ago.
+We actually did release Litecoin Core 0.17.1 May of this year: https://t.co/q9TLvAorsD
+— Charlie Lee [LTC⚡] (@SatoshiLite) August 11, 2019
+Lee also mentioned that development work on Litecoin had been steady with consistent contributions from certain software engineers who aren’t very active on social media.
+“Adrian Gallagher (AKA thrasher) is leading Litecoin Core development right now and has been for a few years now. You may not know Adrian well as he is not on Twitter much, but he is awesome. He quietly has been working hard behind the scenes on Litecoin Core development.”
+Going on to state that LTC’s development is intentionally similar to that of Bitcoin, Lee explained the crypto’s development process as follows:
+“It’s no secret that we have purposefully kept Litecoin’s code very close to Bitcoin’s code. Since we are mostly just merging in Bitcoin changes, we only need a lead Litecoin Core developer doing the merges and the rest of us help with code reviews, testing, and gitian builds.”
+15/ That said, I believe it's time now for me to shift focus from adoption back to development. I still think fungibility is extremely important and I will get the ball rolling on MW/CT again. This time, I won't make any promises on dates. 😀
+— Charlie Lee [LTC⚡] (@SatoshiLite) August 11, 2019
+On August 13, Lee took to Twitter to share some more pertinent information about the Litecoin network.
+Here's the current state of Scrypt mining after the Litecoin halving.
+Litecoin still dominates the Scrypt mining scene with 98.57% of all Scrypt hashrate pointed at mining Litecoin. 👍
+Note: Merged mined doesn't count towards total. I got the data from: https://t.co/3dcY7yrTGo https://t.co/N2vN6RbVeq pic.twitter.com/LucwNaAthN
+— Charlie Lee [LTC⚡] (@SatoshiLite) August 12, 2019
+Since Litecoin blocks are 4 times faster than Bitcoin’s, the network can handle a sudden decrease in hashrate much better.
+If 75% of hashrate disappears overnight, Litecoin just acts like Bitcoin for 2 wks (10 mins blks) and then diff retargets and everything is back to normal. https://t.co/N2vN6RbVeq
+— Charlie Lee [LTC⚡] (@SatoshiLite) August 12, 2019
+Litecoin's second difficulty retarget since the halving resulted in a difficulty decrease of 12%. We are pretty much back to equilibrium now with blocks mined every ~2.45 mins.
+So, total difficulty change of -15.6% due to the halving, which reflects the total hashrate decrease. pic.twitter.com/tKGOMdmU21
+— Charlie Lee [LTC⚡] (@SatoshiLite) August 12, 2019
+Disclaimer: This article is not meant to give financial advice. Any additional opinion herein is purely the author’s and does not represent the opinion of EWN or any of its other writers. Please carry out your own research before investing in any of the numerous cryptocurrencies available. Thank you.
+The topics that interest me most are crypto regulations, quantum resistant blockchains, Ethereum and Bitcoin Core development, and scams orchestrated under the guise of ICOs. My academic background includes an undergraduate degree in Computer Science, with a minor in Mathematics from the University of Nevada, Las Vegas. I also possess a Master of Science degree in Psychology from the University of Phoenix.

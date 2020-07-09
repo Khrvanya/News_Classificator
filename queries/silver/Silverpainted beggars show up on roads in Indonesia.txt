@@ -1,0 +1,23 @@
+        mail_str += ". You can view it at, " + location.href;
+    var isReady = false;
+                    /* // Small devices (landscape phones, 576px and up) */
+                    /* // Medium devices (tablets, 768px and up) */
+                    /* // Large devices (desktops, 992px and up) */
+                    /* // Extra large devices (large desktops, 1200px and up) */
+                    @media only screen and (min-device-width: 375px) and (max-device-width: 667px) {
+                    @media only screen and (min-device-width: 768px) and (max-device-width: 1024px) and (orientation: portrait) {
+                    @media only screen and (min-device-width: 768px) and (max-device-width: 1024px) and (orientation: landscape) {
+            Cat_update_time = add_update + " " + update_time;
+                Cat_update_time = add_date + " " + add_time;
+               Cat_update_time = add_date + " " + update_time;
+        difference = now - unix_date;
+        difference = unix_date - now;
+    for (var  j = 0; difference >= lengths[j] && j < lengths.length - 1; j++) {
+		tim = add_update + update_time;
+.newx_sld img{ border:#CCC 1px solid; margin:10px; float:left;}
+    background: #06377b none repeat scroll 0 0;
+.newx_sld img{ border:#CCC 1px solid; margin:10px; float:left;}
+    background: #06377b none repeat scroll 0 0;
+.morerednews .detalinext  ol li{ margin-right:8px; margin-bottom:6px; margin-top:10px; border-bottom:#999 1px solid;}
+.morerednews .detalinext ol li span{ color:#b30000; font-weight:800;}
+.morerednews ul li{ list-style:circle ; border-bottom:1px solid #666; margin-bottom:10px; margin-left:10px;}

@@ -1,0 +1,28 @@
+It’s been nearly 30 years since the oldest and most recognised exchange-traded fund (ETF) on the market — SPDR S&P 500 [SPY] — hit the New York Stock Exchange, and 20 years since Deutsche Börse launched Europe’s first ETF product on the London Stock Exchange.
+In 2019, there were 6,970 ETF products globally, data provider Statista shows, while all together ETFs started the new decade with a combined value of around $6.35trn, according to industry trends consultancy firm EFTGI.
+Today, ETFs have become some of the most important and sought-after investment products available. Part of their attraction is that they can be bought and sold on an exchange, giving them the same trading liquidity and advantages as other asset classes.
+Moreover, unlike traditional open-end funds, ETFs can give an investor or trader quick exposure to specific sectors, styles, segments or countries, allowing for a diversified portfolio with less exposure to risk.
+The majority of ETFs are managed passively and used by investors who prefer to buy and hold and have no interest in short-term movements and price fluctuations.
+But for those of you who want to see more than an average return, there are also actively managed ETFs for you to take advantage of.
+A good way to gain access to the stock market is through passive index-tracking ETFs.
+They’re both cheaper and simpler to manage than other types of funds, giving investors and traders the possibility to track everything from equities to gold or bonds.
+Index funds work by tracking functions that seek to replicate a broader market index, such as the S&P 500, the FTSE 100 or a segment of one.
+According to Money Observer, two of the most popular in 2019 were the iShares Core FTSE 100 Ucits ETF [ISF] and the iShares Physical Gold ETC , the former of which tracks the UK blue-chip index and the latter the precious metal.
+Many companies also create their own index funds that are customised for more targeted investments, such as the Fidelity Quality Factor ETF [FQAL], which tracks another one of the firm’s customised indices called the Fidelity Quality Factor Index.
+Whereas passive ETFs track indices, actively managed ETFs don’t. They will often have stocks selected by a fund manager.
+These don’t have to be publicly disclosed and are designed ideally for investors looking to beat the market or make some quick plays.
+There are various strategies that a fund manager uses including quantitative methods — combining mathematical modelling with data analysis — or factor investing, which targets attributes of investments that are associated with higher returns.
+These active ETFs are broad. For example, the SPDR SSGA Multi-Asset Real Return ETF [RLY] offers exposure to inflation-protected securities for times when inflation is high. It combines capital appreciation and current income with at least 80% of net assets in ETFs.
+Another investment area that is a popular target for ETFs involves innovative technology companies.
+The ARK Innovation ETF [ARKK] has performed well with its exposure to the likes of Tesla [TSLA] , as well as stocks in healthcare technology, fintech, next-generation internet and more.
+Another type of ETF has arrived on the scene in more recent years — smart beta. These types of fund also track an index, however, they rely on alternative factors to decide which stocks and securities to pick.
+Rather than the simple market-cap method used to construct indices, smart beta goes one step further by using a more sophisticated means of grouping a collection of equities.
+By the close of 2019, the iShares Edge MSCI World Minimum Volatility ETF [ACWV] was the largest strategic beta fund in Europe — ending up with $4.4bn in assets, Kenneth Lamont, senior analyst at Morningstar writes in ETF Stream.
+The fund has a specific set of criteria it uses to select constituents from its parent index, the MSCI World index, based on a minimum volatility strategy.
+One issue with smart beta ETFs is that holdings have to be disclosed on a daily basis (there are exceptions to the rule, such as in Canada).
+This can be problematic for fund managers who want to play their cards close to their chest so that competitors can’t take advantage of their activity.
+Thanks to regulatory approval, a new type of actively managed ETF has launched. Semi-transparent ETFs offer investors a happy medium. They have all of the attributes of a traditional ETF, but holdings aren’t disclosed daily.
+Precidian Investments was one of the first firms to receive SEC approval for an active share structure that measures the percentage difference between holdings in their own fund to that of a benchmark index.
+The structure is being used by American Century Focused Dynamic Growth ETF [FDG] and American Century Focused Large Cap Value ETF [FLV], both of which made their trading debut in the first week of April this year.
+The pair are listed on Cboe’s BZX Exchange. Even though ETFs are considered a less risky investment than putting your money directly into individual stocks, they aren’t without risk entirely, no matter the structure.
+You can trade certain actively managed ETFs on leverage through the CMC platform. Leveraged ETFs are complex financial instruments that carry significant risks. Certain leveraged ETFs are only considered appropriate for experienced traders.

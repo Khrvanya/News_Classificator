@@ -1,0 +1,12 @@
+2017’s bull run forced the traditional market to take notice of Bitcoin but it was the overall development of the Bitcoin futures market over the past two years, which bolstered Bitcoin’s credibility in the financial industry.
+The digital asset landscape would have been completely different without the involvement of the derivatives market. In order to understand the impact of Bitcoin futures on cryptocurrency returns, a recent study was conducted by Pinar Deniz and Thanasis Stengos, Deptt of Economics at Marmara and Guelph University.
+The study used the principal component of guided sparse regression (PC-LASSO) model to analyze several sample sizes across pre and post (BTC futures) periods.
+In the study, search intensity was identified as an important variable for Bitcoin across both periods. For altcoins the effect was particularly positive after Bitcoin futures was launched.  Additionally, GARCH model, an analysis identifying volatility in macroeconomic trends,  indicated that search intensity increased the volatility of Bitcoin returns after the introduction of Bitcoin futures.
+The study analyzed Bitcoin and Ethereum, XRP, Bitcoin Cash, and Litecoin. After PC-LASSO and GARCH analyses, it was concluded that Google search intensity was the most important variable for different Bitcoin samples pre- and post BTC futures period. However, it was observed that search intensity had more of a negative impact on Bitcoin returns in the post BTC futures period, while it was largely positive in the pre-period.
+On the other hand, for assets such as Ethereum , BCH, Litecoin, and XRP , search intensity was the main driver for their returns. The report indicated that,
+“We may interpret this finding as suggesting that altcoins are substitutes for Bitcoin before the introduction of the futures market; however, this result may not hold during the post-futures period.”
+Do negative Bitcoin returns defeat BTC futures intent?
+It is important to note that Bitcoin returns have been negative since the launch of Bitcoin futures because the first futures product came at the peak of BTC’s valuation at $20,000. BTC has not breached that peak yet, owing to the reason why returns have not been lucrative.
+However, the fact that BTC’s futures market is currently bringing in massive institutional capital is far more important than short-term returns. With a steady flow of “Big Money”, long-term goal of high returns will be satisfied for Bitcoin in the long run.
+Did you like this article?
+Your feedback is important to us!

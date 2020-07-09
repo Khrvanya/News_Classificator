@@ -1,0 +1,19 @@
+Singapore — Australia's biggest grain trader CBH Group acknowledged this week that the use of Chicago wheat futures as a reference in its risk management practices, together with generally unfavorable market conditions including a drought in Australia and China's anti-dumping investigations on barley, had contributed to a record $119.259 million loss for its "Marketing and Trading" business unit in the 2019 financial year.
+The use of the CBOT futures contracts in unfavorable market conditions resulted in a "collapse of basis levels from a high of $154/mt in December 2018 to $43/mt in July 2019," highlighting that Chicago futures were no longer effectively representing Australian wheat market fundamentals.
+CBH is the largest grain handling co-operative in Australia, known for exporting grains mainly out of Western Australia.
+Further adding that "hedging accumulated wheat tonnages on CBOT wheat futures removes a large proportion of the price risk, however, there is a proportion of the price that is not able to be hedged, which is commonly referred to as basis."
+The drought in 2018 had reduced Australia's exports by 39% to 13.8 million mt, according to USDA estimates.
+"When Australian wheat exportable surplus is low, the correlation with CBOT will break up making it very loose," an Asia-based senior grain trader explained, adding that "the Australian wheat market is trading its own fundamentals".
+Australia's geographic location relative to the US is one of the factors playing a significant part in how reflective US-based futures contracts are for Australian traders and growers. In addition, there are other factors such as different logistics mechanisms, regulatory risks and differences in export markets, which further affect basis.
+While eliminating basis completely is hard to achieve, bringing it closer to the region's own fundamentals is paramount.
+"Some basis is good to have as long as it's manageable. Anything lower than 60% correlation is a gamble in trading. We prefer working with correlations at around 80%, which make those tools usable," according to a trader at a multinational trading house.
+CBH's loss comes despite the existence of an alternative domestic wheat futures contract also managed by the CME Group, namely the Australian Wheat FOB (Platts) Futures, launched in July 2017.
+That contract was launched primarily to address the basis risk between Chicago and Western Australia, where CBH operates.
+At the time of the launch of their new Australian Wheat contract, CME said that "low correlations indicate an urgent need for a risk management solution for Australian exporters and importers of Australian wheat."
+This contract, settles against the monthly average of S&P Global Platts APW Wheat assessment on an FOB Kwinana basis.
+"CME's Australian APW Wheat based on Platts spot price index better reflects Australian wheat because there is no basis," a senior Asia-based trader said.
+S&P Global Platts started assessing Australia's benchmark wheat grade, APW, in Western Australia in November 2015. The average correlation measured since 2015 between the Australian Wheat and CBOT's most traded contract Soft Red Wheat, or SRW, is 64%.
+Over CBH's reporting period from October 1, 2018 to September 31, 2019, the correlation between Australian APW Wheat and CBOT's SRW decreased to 45%.
+-- Edited by Norazlina Jumaat, norazlina.jumaat@spglobal.com
+To continue reading you must login or register with us.
+It’s free and easy to do. Please use the button below and we will bring you back here when complete.

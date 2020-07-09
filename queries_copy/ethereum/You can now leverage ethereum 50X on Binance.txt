@@ -1,0 +1,10 @@
+Binance expands its futures trading platform, which continues to break record volumes.
+A blockchain project conceived by Vitalik Buterin that allows developers to build decentralized apps (dapps) using Smart Contracts.
+(ETH) futures contracts with up to 50 times leverage. This means you can now bet for or against the future price of ethereum on Binance Futures.
+The ethereum futures are traded against US dollar-pegged stablecoin Tether (USDT). The amount of leverage offered will start below what’s offered for their bitcoin offering, which allows up to 125 times leverage.
+Binance’s futures trading volumes have been growing recently. Its current daily trading volume for Bitcoin futures is 185,835 bitcoin ($1.4 billion), which is 40% higher than the volume of spot trading—when you trade coins in real time—on its main exchange.
+“In the first two months of its launch, Binance Futures has been breaking its own records in trading volumes, and has witnessed the growth of professional traders,” said Changpeng Zhao, CEO of Binance.
+This sees Binance increase its rivalry with platforms like the Hong Kong-based exchange Bitfinex, which launched 100 times leverage trading for bitcoin and ethereum derivatives against Tether back in September and bitcoin futures exchange BitMEX.
+At the time of writing, Binance’s ETH/USDT future trading has seen an average of 134,396.21 ETH ($20 million).
+Leverage refers to how much leeway a trader has before the trade liquidates automatically. With 50 times leverage, if the price of ETH moves just two percent against the price the trader has bet, the trade will liquidate. Leverage trading is risky in the crypto market , where prices can fluctuate wildly in a matter of minutes.
+Get the best of Decrypt where you want it most.

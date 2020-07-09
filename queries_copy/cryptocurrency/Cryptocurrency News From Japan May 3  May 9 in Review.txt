@@ -1,0 +1,11 @@
+Multiple exchanges posted positive fiscal year end numbers, a self-regulatory agency listed crypto asset market price references, and more headlined news from Japan this past week
+This week’s headlines from Japan included Taotao exchange revealing positive first year numbers, the Japan Crypto Trading Association unveiling crypto asset market rates, Coincheck announcing recent positive fiscal year totals, and Cointelegraph diving into the scene around several exchanges in Japan.
+Check out some of this week’s crypto and blockchain headlines, originally reported by Cointelegraph Japan .
+Taotao, a crypto exchanged backed by Yahoo Japan, saw rising customer figures during Q1 2020, seeing over 7,000 total users by the end of March 2020. Glossing performance from a fiscal year that ended on March 31, data shows the exchange has seen significant growth since its May 2019 inception.
+The outfit also posted $509,955,392 USD in exchange volume during its first year.
+Japanese self-regulatory group, the Japan Crypto Trading Association , or JVCEA, now publicly shares the going market rate for several digital assets traded on exchanges in the country.
+The group formulates a weighted average price for each asset, pulling price data and volume from various trading platforms and entities twice per day. The JVCEA now shares market rates for Bitcoin ( BTC ), Ethereum ( ETH ), Ripple's XRP , Bitcoin Cash ( BCH ), Litecoin ( LTC ), Nem ( XEM ) and Monacoin (MONA).
+Tallying numbers from its fiscal year ending in March 2020, Japan-based exchange, Coincheck, revealed a profit of $2,746,634 USD on the year, with an 83.5% growth in final income compared to the prior year. Coincheck, the daughter company of Tokyo-based financial services company Monex Group, ended the previous year with an overall loss.
+The exchange also touted growth in its U.S. branch, reaching a customer count of 3,782 — a 500% increase since Q4 2019.
+Over the past couple of years , Japanese exchanges have faced various complications , including a blanket statement from the country's Financial Services Agency, or FSA, declaring license requirements.
+This week, Cointelegraph Japan took a dive into the situation around Japan regarding Binance, BitMEX, and Bybit.

@@ -1,0 +1,12 @@
+The country wants a concrete footing and understanding of technical challenges before issuing a digital cryptocurrency.
+The Bank of Japan (BoJ) intends to start experimenting with digital versions of the Japanese Yen to test the feasibility of virtual currencies.
+As reported by Coin Telegraph , the bank issued a report on Thursday -- "Technical Hurdles for CBDC" -- that noted upcoming experiments with a central bank digital currency (CBDC) could provide an alternative to the traditional Yen.
+The bank has no plans -- as of yet -- to issue a digital currency, but says the organization is willing to explore the concept due to the increased use of digital payments, potentially adopted at a higher rate than expected due to the novel coronavirus pandemic and the shift by many vendors to contactless or card-based transactions.
+See also: Executive dies, taking investor cryptocurrency with him. Now they want the body exhumed
+The BoJ wants to research two specific areas which the financial institution believes are the main hurdles to adopting digital currency: resilience and access.
+Resilience relates to scenarios such as a loss of power or access to IT systems -- an important concept in a country that experiences earthquakes frequently. If there is no means to access a currency when systems are down, this could provide economically damaging.
+In addition, a full shift to digital currencies could be a disaster for vulnerable or elderly members of society, who may need to use cash on a daily basis and who may not have access to the mobile technology or apps used to access funds.
+Local publication Nikkei estimates that as of 2018, only 65% of Japanese citizens owned a smartphone.
+CNET: COVID-19 scam seeks your bank info, with false promise of cash deposit
+As a result, the Japanese bank not only needs to find a feasible digital currency that can be used widely, but also one that can be accessed offline, in any environment, and not necessarily require reliance on a mobile device.
+The start date for the experiments is yet to be announced, but the bank intends to work with other financial institutions and technology companies soon to find a balanced way forward. In particular, offline payments that do not encourage or exacerbate fraud are a topic of interest.

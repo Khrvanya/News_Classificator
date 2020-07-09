@@ -1,0 +1,5 @@
+Monthly volumes for both bitcoin spot and futures fell sharply in June, by 31.98% and 40.39%, respectively, according to data collected by The Block.
+The decline of the bitcoin market coincided with a significant increase in trading volumes of Ethereum-based decentralized exchanges (DEXs). Data collected from Dune Analytics reveals that DEXs posted a monthly volume of $1.51 billion for June, a 70% increase from May. This development also represents a 46% jump over the previous all-time high in March.
+The opposite movements of trading volumes on DEXs and bitcoin centralized exchanges (CEXs) also pushed the ratio between the two to an all-time high of 2.1%. The launches of Balancer's and Compound's governance tokens in June boosted trading volumes on AMMs such as Uniswap and Curve.
+Meanwhile, bitcoin futures monthly volumes posted a considerable month-over-month decline, sliding by 40% from $557 billion in May to $332 billion in June.
+© 2020 The Block Crypto, Inc. All Rights Reserved. This article is provided for informational purposes only. It is not offered or intended to be used as legal, tax, investment, financial, or other advice.

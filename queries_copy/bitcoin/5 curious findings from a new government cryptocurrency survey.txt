@@ -1,0 +1,33 @@
+A new survey finds crypto holders to be a savvy but media-influenced group, and small but growing fast.
+The UK's Financial Conduct Authority has authoritatively conducted a financial survey on cryptocurrencies, featuring a nationally representative sample of more than 2,000 respondents.
+It's one of the most comprehensive crypto surveys around, diving deep in an effort to seriously assess the risk cryptocurrencies pose to consumers in order to craft a more informed regulatory response to them.
+It's kind of awkward, then, that the survey found that the vast majority of cryptocurrency owners are very well informed about it, regard it as more of a fun gamble rather than a serious investment, tend to buy only small amounts, very rarely purchase it with borrowed money, are under no illusions as to their lack of legal protections and are mostly perfectly happy with their purchases.
+In this case, the nanny state arrived only to find that the children had already brushed their teeth, tucked themselves into bed and gone to sleep at a sensible hour. It must have come as a real disappointment to everyone hoping for an excuse to whip the brats into shape.
+Still, the FCA's survey is an eye-opener with a few particularly eye-catching results.
+1. 42% of respondents last year said they had heard of cryptocurrency. 73% said so this year.
+Informal estimates say cryptocurrency awareness in late 2017 was at roughly 200% (everyone and their dog), but by 2019, 58% of survey-goers were saying they'd never heard of it. This year only 27% said they'd never heard of it.
+It's a remarkable result for several reasons. Firstly as an example of how quickly something can fade from public consciousness, and secondly because of the recent growth it illustrates.
+Cryptocurrency awareness appears to have grown dramatically over the last year even without any big price bubbles to fuel it. It suggests a healthier, slower-burning type of growth than the industry previously experienced.
+Overall last year's numbers are somewhat lower than what US surveys found with the same question at a similar time, suggesting a lower level of cryptocurrency awareness in the UK than the US.
+While an estimated 73% of people have heard of cryptocurrency, only an estimated 5.35% said they have ever owned any. It's interesting to note that the growth in people who have ever owned cryptocurrency between last year and this year (3% to 5.35%) is almost perfectly equivalent to the growth in awareness in the same time.
+We can't say for sure why this is, but it loosely suggests that many cryptocurrency buyers make their purchases shortly after hearing about it for the first time instead of sitting on the decision for a year or more.
+If you had to guess which cryptocurrencies most people have heard of, you'd probably guess Bitcoin.
+But you probably wouldn't have guessed Bitcoin SV... unless you're a Bitcoin SV enthusiast in which case you're probably surprised it's that low, given that it's obviously the one true Bitcoin and it's going to take over the world and all.
+You'd probably find different results in different countries – Bitcoin SV is largely based in the UK – and it naturally goes hand in hand with interest in Bitcoin Cash.
+The high level of awareness of Libra may not be especially surprising either and really goes to show how impactful it was despite its failure to launch as intended. Although it's still funny to note that more people literally believe in astrology than have heard of Facebook's Libra .
+One of the more surprising results here is the absence of XRP. The former crypto market darling was one of the most popular cryptocurrencies on UK-oriented trading platform eToro in mid 2018 , but now it's relatively unknown.
+However, it's worth emphasising that the above table shows the results among all those who had heard of cryptocurrency, rather than those who own it. Awareness of more coins was significantly higher among those who actually owned crypto, with 77% of crypto owners recognising 3 or more different cryptocurrencies.
+Media coverage, including both traditional media and online media in equal shares, is the main way most people are first introduced to cryptocurrency, especially this year compared to last year.
+Last year more people were hearing about it by word of mouth or advertising, but this year it's mostly in the news.
+Advertising also makes a difference. Assuming the survey results can actually be generalised to the whole country, 45% of all current and previous UK cryptocurrency owners said they had seen a cryptocurrency-related advertisement, and of that, 35 % said it made them more likely to buy cryptocurrency.
+Even though that's less than half of less than half of less than half the country, it still translates to the equivalent of 400,000 people being influenced to buy cryptocurrency by seeing an advertisement.
+The influence of advertising may also be significantly understated if you factor in native advertising, and ever stop to marvel at how many popular crypto brand names you can jam into a piece of news if you try .
+The people who were more likely to hold misapprehensions about cryptocurrency were also more likely to be influenced by advertising. Fortunately...
+Of those who owned cryptocurrencies:
+These results are in part because higher levels of education and higher household earnings are over-represented among cryptocurrency holders compared to the general population. People with higher household earnings and education levels were more likely to "pass" the above test.
+77% of respondents who owned cryptocurrency said they bought through an online exchange. Of those, only 5% used UK-based exchanges exclusively, and only 12% used both UK and overseas exchanges.
+A whopping 83% said they exclusively used overseas exchanges, with the most popular by a very long shot being Coinbase , followed at a fair distance by Binance , Kraken , Bittrex and Bitfinex .
+One big takeaway here is perhaps the scale of Coinbase's first-mover advantage, and how big the UK market is for it. It started serving European users in 2014, back when the UK was still part of Europe, and by 2017 Europe was Coinbase's fastest growing market with the UK being Coinbase's biggest country in Europe.
+That prominent position clearly hasn't gone anywhere.
+Sign up for key cryptocurrency news delivered to your inbox weekly.
+I agree to the Privacy & Cookies Policy , Terms of Use, Disclaimer & Privacy Policy and to receive emails from Finder

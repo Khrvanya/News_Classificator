@@ -1,0 +1,14 @@
+Ethereum co-founder Charles Hoskinson believes Vitalik-centric approach hinders the development of the platform.
+Cointelegraph recently sat down for an interview with Ethereum ( ETH ) co-founder and Cardano ( ADA ) founder Charles Hoskinson . During the interview, he discussed his criticism of the development of the Ethereum platform.
+Hoskinson believes that one of the main reasons why Ethereum’s development has struggled is that too much hinges on Vitalik Buterin personally:
+“So, basically Ethereum moves at the speed of Vitalik. So if he knows how to do something very well and he's become very competent in something, they have a handle on it. But when you're talking about research, when you're talking about actually delivering a product to market, these are things that require experience.”
+According to Hoskinson, it shows that Ethereum is Vitalik’s first major project:
+“He's never done any of this before. This is his first company, his first project. He was never a researcher, was never a CEO.”
+Another major criticism that Cardano founder has for Ethereum is the fact that their project development roadmaps are too optimistic, which leads to unrealistic expectations:
+“I think that the marketing of Ethereum, I think that the culture of Ethereum was not so good at managing expectations and things that are going to take 5, 10, 20 years, whether they be decentralizing the Web, creating a new token economy, scalability of these things are very difficult and each and every one of them requires a lot of very hard work, both on the scientific side and on the engineering side. And there's just this raw belief that exists within the Ethereum community that somehow it's all going to work its way out and it's going to be done in a matter of months or years as opposed to decades.”
+Hoskinson suggested that there may be some also disingenuity involved in the way project is marketed:
+“Why was there such a big fight about ProgPow? Why were they even trying to change the proof of work algorithm if they're switching to proof-of-stake? Why would you even bother? Because you're going to get rid of proof-of-work, right?”
+At the same time, Hoskinson emphasized that he has a lot of respect for Buterin personally:
+“I think you're right that Vitalik is a good guy. I've never once questioned his ethics. I've never once questioned his integrity or his belief in his product or his ecosystem.”
+Despite all the criticism, Hoskinson still sees Ethereum as a major competitor:
+In the next article based on the Hoskinson’s interview, we will reveal what early acquisition could have propelled Ethereum forward.

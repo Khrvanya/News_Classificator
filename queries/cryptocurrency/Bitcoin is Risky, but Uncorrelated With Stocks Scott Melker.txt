@@ -1,0 +1,11 @@
+Bitcoin may be highly volatile, but it offers less systemic risk than assets in legacy markets like stocks, says Scott Melker.
+Crypto trader Scott Melker says that while stocks and Bitcoin ( BTC ) have appeared to move in tandem since Black Thursday: “They are not correlated assets”.
+In a Twitter thread for his 84,000 followers, “The Wolf Of All Streets” outlined his theory about why Bitcoin will tread its own path during the financial crisis. Melker looked at the price of BTC since its creation in 2009 and compared it to assets in legacy markets like stocks. According to Melker, the cryptocurrency has only been moderately correlated with traditional markets for a brief period.
+As Melker explained in detail, “You can compare any 2 assets on a scale of -1 to 1. 1 means correlated.”
+Data from eToro’s just released Q1 2020 report found that BTC and the SPX (Standard and Poor’s 500 index) had a correlation of 0.59 in February 2020. Once the pandemic took hold, the cryptocurrency “became significantly more correlated with gold than with the [SPX],” achieving a correlation of 0.72.
+What about the March 12 downturn?
+While the figures may vary, they don’t invalidate Melker’s argument. BTC bottomed out on Black Thursday in mid-March but the SPX didn’t follow until more than a week later. Melker said traders should take note of the difference between the performance of cryptocurrencies and traditional markets over this period:
+“For that 9 day period, Bitcoin was rising while SPX was falling. Big time. Bitcoin went up 84% in that time. To believe they are correlated directly would mean that Bitcoin was leading the market.”
+Given the risks with stocks in what the IMF predicts will be the biggest downturn since the Great Depression, if Bitcoin is not correlated with stocks, then it could prove to be a good way to diversify an investment portfolio. Bitcoin may not be the safe haven it was touted as, but it does offer a different risk profile.
+“By definition it is uncorrelated [to these markets],” Melker wrote:
+“This is the very reason that all investors should hold some Bitcoin — it offers idiosyncratic risk rather than systematic risk like other assets. Even if it is a RISKIER asset, having it in a portfolio reduces overall portfolio risk due to this lack of correlation.”

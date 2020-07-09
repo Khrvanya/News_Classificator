@@ -1,0 +1,10 @@
+Like bitcoin, Ethereum has increased significantly in value since its introduction in 2015. Photo: AFP
+In a new study published in the Economics Bulletin, researchers at San Jose State University in California analyzed intraday data for Ethereum (ETH), the second-largest cryptocurrency, to see how it measures up as a hedge against volatility in traditional markets, Cointelegraph reported .
+With some investors and traders turning to bitcoin (BTC) amid plummeting stock prices, falling interest rates and failing fiat currencies , researchers Artem Meshcheryakov and Stoyu Ivanov say Ethereum’s potential is underappreciated.
+They stated, “Most prior literature on crypto-currencies focuses on the analysis of Bitcoin and its characteristics.
+“In this paper, we attempt to fill the gap and analyze Ether, the second largest cryptocurrency based on the Ethereum platform. In particular, we study on intraday basis whether Ether is a hedge, diversifier or a safe haven asset.”
+Bitcoin and Ethereum are both based on blockchain technology. Just like bitcoin, Ethereum has increased significantly in value since its introduction in 2015. Both are used as a medium of exchange, but the two cryptocurrencies are not alike. Meshcheryakov and Ivanov say the Ethereum platform offers more secure technology and protocols, as well as advanced functionalities that bitcoin lacks.
+The researchers analyzed Ethereum’s five-minute interval data from December 12, 2017 to December 31, 2018.
+They compared price movements of ETH with those of the S&P 500 index, gold and the USD/euro exchange rate. They conclude that the data supports Ethereum’s potential as a hedge against the stock and gold markets.
+“We find that Ethereum crypto-currency is a hedge against the US stock and gold markets. Also, Ethereum tends to behave as a safe haven for gold markets. When currency markets are concerned, we document that Ethereum is a diversifier for the US dollar.”
+Asia Times Financial is now live. Linking accurate news, insightful analysis and local knowledge with the ATF China Bond 50 Index, the world's first benchmark cross sector Chinese Bond Indices. Read ATF now.

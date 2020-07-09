@@ -1,0 +1,12 @@
+The Philippine Institute for Peace, Violence and Terrorism Research has been tracking transactions made by local terror groups.
+A report published by the Philippine Institute for Peace, Violence and Terrorism Research (PIPVTR) reveals that terrorist groups related to Islamic State (IS) in Southeast Asia have recently made their first transactions using cryptocurrencies.
+According to the report unveiled on May 20, the funds are helping finance regional terror groups like the Jemaah Ansharut Dalauh and the Mujahideen Eastern Timur in Mindanao.
+The report detailed a money-laundering operation’s use of cryptocurrencies, which consisted of two phases according to the PIPVTR. The first was where crypto assets of “suspicious origin” were channeled through unidentified exchanges. This “deliberately obfuscated” transactions and the origins of coins, making tracking them more difficult.
+PIPVTR detailed the following regarding phase two, where the money laundering cycle ended:
+“The second phase refers to an exchange of these crypto assets into fiat money which, then, returns the funds to the legal money cycle. In crypto-only exchanges, cryptocurrencies can be exchanged with one another.”
+The study warns that terror groups in Southeast Asia can trade crypto outside the supervision of regulatory institutions, and this raises concerns, given the loose legal framework.
+The institute calls on the authorities to implement Anti-Money Laundering and Countering Financing Terrorism procedures for cryptocurrencies because the system is fragile, and they accuse the government of losing control of financial flows.
+The report cited the Marawi Siege case that occurred in 2017, where there were unconfirmed reports of private remittances and cash couriers with cryptocurrency helping finance the terrorist groups involved. These reports were “largely ignored” by the authorities.
+PIPVTR also showed concern regarding the increased use of “anonymous crypto-assets” like Monero ( XMR ), which make it easier to hide illegal activity.
+Cointelegraph reported in March about a U.S. ISIS supporter that got a 13-year sentence for funding the terrorist organization using cryptocurrencies, including Bitcoin, back in 2017.
+However, Blockchain forensics firm Chainalysis today published a report debunking numerous stories about terrorist groups using cryptocurrencies. The report said many news stories on the topic were beat-ups or based on incorrect information.

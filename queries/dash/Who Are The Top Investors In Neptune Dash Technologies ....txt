@@ -1,0 +1,29 @@
+Simply Wall St July 13, 2018
+In this analysis, my focus will be on developing a perspective on Neptune Dash Technologies Corp’s ( CVE:DASH ) latest ownership structure, a less discussed, but important factor.
+      Ownership structure has been found to have an impact on shareholder returns in both short- and long-term.
+      The effect of an active institutional investor with a similar ownership as a passive pension-fund can be vastly different on a company’s corporate governance and accountability to shareholders. While this may be more interesting for long-term investors, short-term investors can also benefit by paying attention to when these institutions trade in order to take advantage of the heightened volatility.
+      Therefore, I will take a look at DASH’s shareholders in more detail.
+In DASH’s case, institutional ownership stands at 14.93%, significant enough to cause considerable price moves in the case of large institutional transactions, especially when there is a low level of public shares available on the market to trade.
+			These moves, at least in the short-term, are generally observed in an institutional ownership mix comprising of active stock pickers, in particular levered hedge funds, which can cause large price swings.
+				For shareholders in DASH, sharp price movements may not be a major concern as active hedge funds hold a relatively small stake in the company. Although this doesn’t necessarily lead to high short-term volatility, we should dig deeper into DASH’s ownership structure to find how the remaining owner types can affect its investment profile.
+An important group of shareholders are company insiders. Insider ownership has to do more with how the company is managed and less to do with the direct impact of the magnitude of shares trading on the market.
+				DASH insiders hold a not-so-significant 4.32% stake in the company, which somewhat aligns their interests with that of shareholders. However, a higher level of insider ownership has been linked to management executing on high-returning projects instead of expansion projects for the sake of apparent growth.
+			It would also be interesting to check what insiders have been doing with their shareholding recently. Insider buying can be a positive indicator of future performance, but a selling decision can be simply driven by personal financial requirements.
+A big stake of 66.10% in DASH is held by the general public.
+		This size of ownership gives retail investors collective power in deciding on major policy decisions such as executive compensation, appointment of directors and acquisitions of businesses.
+With a stake of 14.65%, private equity firms form another important class of owners in DASH. With a stake of 14.65%, they can influence DASH’s key policy decisions.
+		This is a positive sign for potential investors as these firms play an important role in aligning company policy with shareholder returns.
+DASH’s considerably high level of institutional ownership calls for further analysis into its margin of safety.
+				This will enable shareholders to comfortably invest in the company while avoid getting trapped in a sustained sell-off that is often observed in stocks with this level of institutional participation.
+	ownership structure should not be the only focus of your research when constructing an investment thesis around DASH.
+	Neptune Dash Technologies’s past track record and financial health.
+	you to complete your research by taking a look at the following:
+Financial Health: Is DASH’s operations financially sustainable? Balance sheets can be hard to analyze, which is why we’ve done it for you. Check out our financial health checks here .
+Valuation: What is DASH worth today? Is the stock undervalued, even when its growth outlook is factored into its intrinsic value? The intrinsic value infographic in our free research report helps visualize whether DASH is currently mispriced by the market.
+Other High-Performing Stocks: Are there other stocks that provide better prospects with proven track records? Explore our free list of these great stocks here .
+NB: Figures in this article are calculated using data from the last twelve months, which refer to the 12-month period ending on the last date of the month the financial statement is dated. This may not be consistent with full year annual report figures.
+Simply Wall St is a financial technology startup focused on providing unbiased, high-quality research coverage on every listed company in the world. Our research team consists of equity analysts with a public, market-beating track record. Learn more about the team behind Simply Wall St .
+Become a better investor Simply Wall St is an award winning start-up aiming to replace human stockbrokers by providing you with high quality financial data and analysis presented in a beautiful visual way everybody can understand, at a fraction of the cost (try our FREE plan).
+						appropriate for your situation and seek appropriate financial, taxation and legal advice. Please read our Financial Services Guide before deciding whether to obtain
+						financial services from us. Simply Wall Street Pty Ltd (ACN 600 056 611), is a Corporate Authorised
+						Representative (Authorised Representative Number: 467183) of Sanlam Private Wealth Pty Ltd (AFSL No.

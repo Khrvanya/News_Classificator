@@ -1,0 +1,15 @@
+Please consider using a different web browser for better experience.
+Please enable JavaScript in your browser for a better site experience.
+The total number of bitcoins held in cryptocurrency exchanges wallets dropped to an 18-month low just above 2.3 million on Monday, according to data estimates from Glassnode . The decline marks an 11% year-to-date reduction in the number of bitcoins held by exchanges.
+Meanwhile, over the same period, the amount of ether in exchange wallets increased by more than 7%. Some market participants see this as a sign that more bitcoin investors are increasingly taking direct possession of their cryptocurrency.
+“People are accumulating aggressively, and the market participants seem to have a higher time preference these days,” said Avi Felman, head of trading at Stamford, Conn.-based BlockTower Capital. “I think the trend is going to continue.”
+A portion of these active and often ideologically motivated bitcoin accumulators are called “holders of last resort,” a label implying they never intend to sell regardless of market movements.
+This type of investor partially contributes to the decline in exchange bitcoin balances by continuing to “accumulate for the long term and self-custody their bitcoins,” said Pierre Rochard, bitcoin strategist at Kraken, the largest U.S.-based cryptocurrency exchange by liquidity according to Cryptowatch .
+It’s important to note that on-chain data analysis of exchange balances is only an estimate given that some exchange addresses may be overlooked by or unknown to data aggregators. The downward-sloped trend, however, is nonetheless pronounced.
+“On-chain data is not perfect and new exchange wallets may be missed,” added Rochard.
+Others see bitcoins leaving exchanges for a reason completely unrelated to strong-willed, die-hard investors, however: the rise of prime brokers.
+Felman added that currently “there are few alternatives to holding bitcoins on an exchange if you want to trade, but new offerings in the prime brokerage space will lead to greater outflows from exchange-specific wallets.”
+On Thursday, for example, trading and lending firm Genesis (like CoinDesk, owned by DCG) acquired Vo1t as part of its strategy to become a full-service prime brokerage. Tagomi, a digital asset prime brokerage, was also recently acquired by Coinbase in the San Francisco-based exchange’s bid to expand its institutional trading service.
+Regardless of the reason, a “consistent decline in the supply of bitcoin on exchanges implies a strong level of confidence from the holder base,” said Yan Liberman, former associate at Deutsche Bank and co-founder of digital asset research firm Delphi Digital.
+Roughly 60% of the issued bitcoin supply hasn’t moved in over 12 months, added Liberman, and that has been a precursor to previous bullish market cycles.
+The leader in blockchain news, CoinDesk is a media outlet that strives for the highest journalistic standards and abides by a strict set of editorial policies . CoinDesk is an independent operating subsidiary of Digital Currency Group, which invests in cryptocurrencies and blockchain startups.

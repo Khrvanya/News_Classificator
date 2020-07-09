@@ -1,0 +1,20 @@
+We will take a more in-depth look at the FTX’s Leverage Tokens, Move & FTT Token in Parts Two & Three of this series.
+FTX is easy - you can access the platform from your computer browser or mobile phone using their iOS or Android App. In this guide, we’ll be sharing with you how to set up your account using your computer. As with all transactions, we recommended that you use incognito mode on your browser of choice for the best performance.
+Click ‘Register’ and key in your email and password. It’s that simple!
+Once you’ve signed up, you will be promoted to setup a 2-Factor Authorization. FTX allows you to use either Authy , Google Authenticator or SMS.
+FTX is beginner-friendly as it does not require KYC verification to get started. Without KYC, you can withdraw up to USD 1000. With basic Tier 1 KYC (Email, Name and Country of Residence and region/province), you can withdraw up to USD 2000 per day. Should you plan on trading more, we recommend that you complete Tier 2 KYC verification for unlimited crypto withdrawals.
+The following are the KYC forms:
+Note: FTX engages Chainalaysis to monitor suspicious cryptocurrency transactions. All deposits and withdrawals are subject to inspection using Chainalaysis and FTX reserves the right to request additional information.
+FTX’s interface is similar to other trading platforms but with additional features catered to derivative traders.
+When you scroll over a particular cryptocurrency, you’ll be able to select the various Futures, Move Contracts, Spot or Token products related to it.
+The Candlestick Chart depicts the price movements of the trading pair., showing how far and the direction the price of an asset is moved during a specific time period. Each “candlestick” shows one day. To learn more, here’s our recommended reference: Introduction to Candlesticks
+This section shares relevant information depending on which asset you’re interested in trading.
+When you select a Perpetual, Move or Futures Product, you will be given provide an option to select the Max account leverage ranging from 1x to 101x.
+An Order Book refers to the list of open orders arranged at different prices. This also refers to the market depth, which can give you a sense of the market’s liquidity, i.e., how much can you buy before your orders start affecting the market price of the asset.
+FTX allows you to execute 6 types of orders:
+Take Profit Order (Like for a Stop-loss order, you directly input the trigger price when creating a Take profit order. If you are buying, the order will get sent when the market price drops below your trigger price. If you are selling, the order will get sent when the market price exceeds below your trigger price).
+Market trades shows all the trades that occurred within the asset’s market by traders across FTX’s userbase.
+Similar to other trading interfaces, you can check for any open orders (Orders that are currently live and not executed), order history (orders that have been executed), as well as a summary of all the assets you currently own. What is unique to FTX is that you can also see your Trigger Orders. When a trigger order becomes triggered, it’s possible for the order it sends to fail. The account may not have enough margin, price bands during sharp market moves might prevent market orders from matching against other orders, etc. In these cases, it may be preferable to retry sending the triggered order until their overall triggered order size is filled. Retried triggers will only be sent when the standard conditions around mark price and trigger price are met. You can see the result of each trigger on the Trigger Order History page by clicking the “+” button on any trigger order set to Retry to view all its triggers.
+There are two types of fees on leveraged tokens:
+Creation & Redemption Free: 0.10% (Note: You only pay this if you create/redeem, not if you buy in a spot market or convert)
+Management Fee: 0.03%/day on leveraged tokens. This is just taken out of the nett asset value of the leveraged token.

@@ -1,0 +1,59 @@
+The coronavirus pandemic continued to weigh on U.S. stocks on Thursday, which opened lower before clawing into positive territory, as heavily weighted technology shares outperformed.
+Earlier, stocks had floundered after new data on the U.S. labor market underscored rising joblessness amid the coronavirus outbreak, and after the European Central Bank launched a multibillion-euro debt purchasing program to provide aid to the virus-stricken region.
+While the gains were a welcomed, if temporary, respite after Wednesday’s steep losses, they did little to replenish the overall declines over the past few weeks. As of yesterday’s close, the Dow had corrected more than 32% from its Feb. 12 high, and whipsaw trading has moved the S&P 500 Index by 4% or more for seven consecutive trading sessions, according to data from BMO Capital Markets — a record.
+A growing pile of disappointing U.S. economic data has weighed on investors already spooked by the public health crisis the coronavirus outbreak has invoked. The U.S. Department of Labor on Thursday reported a surge of 70,000 new jobless claims for the week ending March 14, reflecting a much greater than expected number of individuals filing for unemployment insurance. The total number of initial jobless claims came in at 281,000 for the week – the highest level since September 2017.
+While the report already reflected a weakening labor market, other economists believe the worst is yet to come. Jobless claims next week could “spike by several hundred thousand” and eventually “breach a million,” Ian Shepherdson, chief economist for Pantheon Macroeconomics, wrote in a note Thursday just before the latest report was released.
+The ongoing COVID-19 crisis has pushed policymakers around the world to unleash stimulus measures and impose stiff restrictions on travel and public gatherings to prevent further spreading.
+Late Wednesday, the European Central Bank launched a so-called Pandemic Emergency Purchase Program (PEPP), comprising 750 billion euros ($818 billion) worth of debt purchases aimed at helping the floundering regional economy amid the coronavirus outbreak. The new measures will bring the ECB’s total planned bond purchases this year to 1.1 trillion euros.
+Domestically, the U.S. Senate overwhelmingly passed a bipartisan, multi-billion dollar emergency package that includes expanded unemployment insurance and paid sick leave for hourly workers. President Donald Trump signed the bill into law late Wednesday, as it had already received approval from the House of Representatives.
+Here were the main moves in markets as of 4:02 p.m. ET:
+Oil ( CL=F ) prices rebounded on Wednesday, soaring after The Wall Street Journal reported that the U.S. was considering mediating the Saudi-Russia crude war , which has sent prices into a tailspin. West Texas crude settled up 24.39%, its biggest one day move on record.
+Via Reuters, Credit rating agency Moody's is carrying out a global review of its corporate ratings in light of the coronavirus and oil price slump, with a first mass wave of downgrades or downgrade warnings likely in the coming days.
+On some level, this has been more or less expected — especially in the oil and gas sector, where issuers have been hammered by falling oil and demand. And after having taken extreme criticism during the 2008 crisis, ratings agencies are eager to not get caught flatfooted by the coming economic tsunami.
+The aerospace giant has been hit hard by the coronavirus’ impact on demand, and the fiasco that still dogs its flagship 737 MAX plane. The Wall Street Journal is reporting that Boeing ( BA ) is now weighing possibly cutting its dividend and laying off workers as the coronavirus pandemic hits home.
+The stock, which is down more than 75% from its 52 week highs, is down over 2% in midday dealings, trading under $100 per share.
+Courtesy of BMO Capital Markets, here’s some new data on a market addled by the COVID-19 crisis that puts the recent volatility into perspective:
+For the first time ever, the S&P 500 has moved at least 4% for seven consecutive days
+Stocks are holding gains in midday trading, after riding a roller-coaster after the opening bell. The Nasdaq is leading the charge, helped by Microsoft and Amazon.
+The world’s new working from home reality is benefiting a clutch of tech names (hello Zoom ), but investors can thank Microsoft (and AMZN , which is surging by over 3%) for today’s jump in tech stocks. Teams, the software giant’s competitor to Slack ( WORK ) has seen a boom in paid clients, Microsoft ( MSFT ) disclosed earlier:
+As previously shared, as of March 11, 2020 we counted 32 million daily users of Teams, which was mostly in line with our growth trajectory and projections. As of March 18, 2020, that number has grown by 12 million to 44 million daily users around the world. And we now have 20 customers with over 100k users (vs 14 as previously shared).
+Slack’s shares are also surging on the boost from paid customers, as more companies require employees to work remotely as the coronavirus extends its grip on the global economy.
+The S&P 500 and Dow joined the Nasdaq and rose Thursday morning, steadying after Wednesday’s rout. spx
+As of 10:18 a.m. ET, the S&P 500 was up 11.19 points, or 0.47%, led by gains in the Big Tech-heavy Communications sector. The Dow rose 32.15 points, or 0.16%, as gains in Dow Inc. and Microsoft pulled the index higher.
+The Nasdaq pushed into positive territory Thursday morning as shares of tech heavyweights including Amazon, Apple, Tesla, Microsoft and Facebook all rose.
+The value-weighted index jumped 1.89% as of 10:12 a.m. ET, while the S&P 500 and Dow each held in the red.
+9:55 a.m. ET: Uber shares jump more than 20% after company reassures investors of cash position amid pandemic: reports
+Uber ( UBER ) reportedly said Thursday that it will still have billions of dollars in available cash by year-end, even as the coronavirus outbreak weighs on demand across the transportation industry.
+Uber said it expects to have $6 billion in cash on hand along with a $2 billion debt revolver, Bloomberg reported, citing an Uber call with analysts Thursday. In Uber’s “worst case scenario” outlook, it would still have $4 billion in cash reserves along with the revolver, the report added.
+Providing just one example of the outbreak’s evolving impact on the business, Uber’s CEO Dara Khosrowshahi reportedly said that Hong Kong saw trips fall 45% as the coronavirus overtook the region, and that the city is now 30% off its peak.
+Uber recently joined peer ride-hailing giant Lyft in halting shared rides amid the coronavirus pandemic.
+Stocks extended declines from Wednesday and the overnight session. The losses around market open, however, were much shallower than those seen in recent days.
+Here were the main moves in markets, as of 9:32 a.m. ET:
+9:23 a.m. ET: Slack shares rise after company reports adding thousands of new paid customers, amid widespread work from home phenomenon
+Slack ( WORK ) shares rose 5.5% in early trading, far outperforming the broader market, after the workplace messaging company reported adding thousands of new paid customers between February and mid-March.
+The company added 7,000 paying customers for the period Feb. 1 to March 18 this year, Slack said in a securities filing Thursday. During the third and fourth quarters of the fiscal year ended Jan. 31, Slack added about 5,000 new paid customers per quarter.
+Slack has widely been seen as a beneficiary of the workplace disruptions stemming from companies’ and governments’ responses to COVID-19. Many companies have urged employees to work from home, creating more demand for workplace messaging software.
+While shares of Slack were down19.9% for the year to date through Wednesday’s close, they outperformed the S&P 500, which fell nearly 26% for the same period.
+So much for those shallow recession/V-shaped recovery calls. Bank of America is the latest to take a knife to its growth forecasts, predicting a “brutal” -12% drop in economic activity for the coming quarter:
+We believe that the US economy has fallen into recession, joining the rest of the world , and it is a deep plunge. We now expect the economy to collapse 12% qoq saar in 2Q following only 0.5% growth in 1Q. Although the decline is severe, we believe it will be fairly short lived. We expect the economy to return to growth in 3Q. For the full year, we forecast a contraction of 0.8%. Jobs will be lost, wealth will be destroyed and confidence depressed. The salvation will come if there is a targeted and aggressive policy response to offset the loss of economic activity and ensure a sound financial system.
+8:30 a.m. ET Thursday: New unemployment claims surged last week to the highest level since Sept. 2017.
+Initial jobless claims surged much more than expected last week, reflecting the early impact of the coronavirus on the U.S. labor market.
+New unemployment insurance claims jumped to a seasonally adjusted level of 281,000 for the week ended March 14, the U.S. Labor Department said in its weekly report Thursday. Consensus economists had expected claims to rise to 220,000, according to Bloomberg data.
+The prior week’s level was left unrevised at 211,000.
+“During the week ending March 14, the increase in initial claims are clearly attributable to impacts from the COVID-19 virus,” the Department of Labor said in a statement. “A number of states specifically cited COVID-19 related layoffs, while many states reported increased layoffs in service related industries broadly and in the accommodation and food services industries specifically, as well as in the transportation and warehousing industry, whether COVID-19 was identified directly or not.”
+Continuing jobless claims came in at 1.701 million for the week ended March 7. Consensus economists had expected these claims to rise to 1.738 million. The prior week’s continuing claims were revised down to 1.699 million, from 1.722 million previously reported.
+Here were the main moves in markets as of 7:16 a.m. ET Thursday morning:
+S&P 500 futures ( ES=F ): 2,386.50, -27.50 or -1.14%
+Nasdaq futures ( NQ=F ): 7,202.75, -2.75 or -0.04%
+Crude oil prices ( CL=F ): $22.67 per barrel, up $2.30 or 11.29%
+Futures reversed course Wednesday evening, with the Dow looking to rise above the 20,000 level, after the European Central Bank announced a 750 billion euro bond repurchase program, according to Reuters .
+Here were the main moves in markets, as of 7:19 p.m. ET:
+S&P 500 futures ( ES=F ): 2,433.75, +19.75 or +0.82%
+Dow futures ( YM=F ): 20,157.00, +304.00 or +1.53%
+Nasdaq futures ( NQ=F ): 7,284.75, +59.50 or +0.82%
+Futures for each of the three major indices were lower as overnight trading kicked off for domestic equities.
+Here were the main moves in markets, as of 6:05 p.m. ET:
+S&P 500 futures ( ES=F ): 2,391.25, -22.75 or -0.94%
+Dow futures ( YM=F ): 19,703.00, -150 or -0.76%
+Nasdaq futures ( NQ=F ): 7,145.00, -60.50 or -0.84%
+NEW YORK, NEW YORK - MARCH 18: Traders work on the floor of the New York Stock Exchange (NYSE) on March 18, 2020 in New York City. The Dow fell more than 1,200 points today as COVID-19 fears continue to roil world markets. (Photo by Spencer Platt/Getty Images)

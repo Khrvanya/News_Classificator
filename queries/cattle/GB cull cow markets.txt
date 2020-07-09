@@ -1,0 +1,6 @@
+Average cull cow prices and throughputs at auction markets in Great Britain. This data is updated on a monthly basis.
+The average liveweight price of the dairy sired cull cow for May 2020 was 107.08p/kg, up 2.11p/kg (2.0%) compared to May 2019.
+During May 2020 the average liveweight beef sired cull cow price was 131.53p/kg, an increase of 1.91p/kg (1.5%) compared to May 2019.
+Monthly figures are based on statistical months (January, April, July and October are 5 week months. The remainder are 4 week months)
+© 2020 AHDB. All rights reserved. This information is provided under licence from the Livestock Auctioneers Association (LAA) and Institute of Auctioneers and Appraisers in Scotland (IAAS). No part of this information may be used, reproduced or transmitted in any form by any means, for commercial purposes, without the prior written consent of the LAA and IAAS.
+Whilst all reasonable care has been taken in the preparation of this publication, no warranty is given as to its accuracy, nor liability accepted for any loss or damage caused by reliance upon any statement in or omission from this publication.

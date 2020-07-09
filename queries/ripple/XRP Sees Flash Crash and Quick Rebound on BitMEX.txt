@@ -1,0 +1,12 @@
+Please consider using a different web browser for better experience.
+Please enable JavaScript in your browser for a better site experience.
+XRP , the native asset of the XRP Ledger , experienced a flash crash on Hong Kong-based derivatives exchange BitMEX on Thursday.
+At exactly 14:00 UTC, the price on the XRP/USD pair quickly plummeted from 33 cents to 13 cents, a 60 percent drop. During that minute, volume spiked to $6 million, according to BitMEX data. The cryptocurrency quickly recovered within a second and closed at $0.3277, suggesting a large leveraged trade was quickly wiped out.
+CoinDesk reached out to BitMEX CEO Arthur Hayes via email regarding the incident but has yet to hear back.
+A couple of minutes later in the spot market, XRP (XRP) dropped a little under 4 percent but rebounded two minutes after, according to data from Coinbase Pro .
+XRP/USD perpetual swap contracts, around 14:00 UTC on Feb. 13, 2020
+An all-cryptocurrency platform, BitMEX offers highly leveraged trades of up to 50 times margin on collateral. If a bet goes the wrong way, a trader can be automatically liquidated, wiping out the collateral balance on the exchange instantly.
+BitMEX offers some novel instruments not normally seen in the traditional financial derivatives world, including an innovative “perpetual” swap derivative that does not expire.
+Long known as a bitcoin (BTC)-only derivatives exchange, BitMEX has added additional cryptocurrency assets in the past few years. Ethereum (ETH) trading was launched in 2018.
+XRP is BitMEX’s newest addition, added on Feb. 5. The company has offices in Hong Kong but is licensed and registered in the Seychelles, where its gray-area regulatory status allows it to offer very risky bets on crypto. Bitmex has been investigated by the Commodities Futures Trading Commission and prohibits U.S.-based traders on its platform.
+The leader in blockchain news, CoinDesk is a media outlet that strives for the highest journalistic standards and abides by a strict set of editorial policies . CoinDesk is an independent operating subsidiary of Digital Currency Group, which invests in cryptocurrencies and blockchain startups.

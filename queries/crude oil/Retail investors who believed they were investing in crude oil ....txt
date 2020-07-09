@@ -1,0 +1,24 @@
+The crude oil tanker, Chemtrans Cancale, is seen anchored off shore as it waits to dock at Port Everglades on April 20, 2020 in Fort Lauderdale, Florida.
+"Know what you own" is an old adage when investing, but it is especially important when owning investments that hold futures contracts.
+Just look at the largest oil ETF, the United States Oil Fund (USO) .  Many retail investors mistakenly believe this is a proxy for investing in the "spot" (cash) price for oil.
+But it isn't, and never has been. The purpose of the fund was to track as closely as possible the front-month oil futures contract, not the spot price.
+True, the prices for spot oil and USO have been reasonably close — until the oil market imploded.
+In theory, USO works in a very simple manner.  Every month, about two weeks before that "front month" contract expired, USO and similar funds began buying the next futures contract.
+Sounds like a good way to bet on oil, right?  Except it isn't — because it owns futures contracts, not the spot price of oil.
+Most futures markets are in "contango" — the price of contracts farther out in time are more expensive than the earlier or "front-month" contracts due to the cost of storing the commodity.  That is certainly true of oil.
+So every month USO and other similarly structured ETFs have to close out their futures positions by buying the next month's contract, and since it is almost always a higher price an investor over time — many months — will lose money.
+The mother of all contangos?
+As the short-term demand for oil has collapsed, the front-month contracts have collapsed, and the "spread" between the front-month contracts and those farther out have gotten huge:  the June contract is at $13, the July is at $23.  That means that investors — like USO — that will eventually roll over from the June to the July contract are having to pay a huge premium.
+Investors, in these circumstances, are guaranteed to lose money.  A lot of it, especially if it is repeated for several months.
+What's the bottom line?  These kinds of vehicles are primarily meant to be used by active traders to hedge or short positions.  They are not meant as long-term buy and hold vehicles.
+This information has been known — and disseminated — for years.  But recent developments have brought in a whole new group of retail "tourists" who may not be as well informed, and the coronavirus epidemic — and the resulting collapse in oil demand — has put new pressures on the oil business.
+On Friday, USO announced it was no longer buying solely the front month futures contract, but would also hold 20% of their assets in the "second month" futures contract.
+The result?  USO said it could no longer guarantee that it would meet its objective of trying to track the front month futures contract.
+A second warning sign came when USO experienced an enormous influx of new money last week, resulting in the creation of many new shares, which were accomplished by buying futures contracts.  The result:  USO came to own about 25% of the front month futures contracts.
+It's not unusual for commodity funds to attract new money when prices are down.  But these were big drops in the price of oil that attracted a lot of people wanting to make bets, from hedge funds looking to hedge or short to retail investors hoping to profit from a bounce in oil down the road.
+Except some retail investors did not understand they were not buying the spot price of oil.
+Tuesday morning, USO announced it was halting all new creations of shares in the fund .  USO is only authorized to issue a limited number of shares, and they have hit the limit.  They have gone to the SEC to ask permission to create new shares, which is pending.
+The immediate effect of this is that USO — likely the largest owner of front-month futures contracts — will not be buying more futures contracts, at least not immediately, which may put additional pressure on oil.
+Dave Nadig, CIO and director of research of ETF Trends, has been grappling with these issues for years.  For him, it's simple:  "The way to solve this problem is to gate access.  FINRA should make you fill out the same forms you have to fill out when you open a futures market.  I feel sorry for those people who didn't bother to understand about what they are investing in.  We should be regulating access to these products the way we regulate access to the underlying.  If my mom wants to buy USO, she should have to fill out the same papers she has to fill out to trade futures."
+The ETF industry itself has some responsibility to self-regulate.  For example, it became very aggressive in pointing out the perils of leveraged and inverse-ETFs when investors did not understand the perils of investing in those products.
+It may have to do the same with ETFs that own futures products.

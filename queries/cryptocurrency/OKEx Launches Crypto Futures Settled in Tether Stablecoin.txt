@@ -1,0 +1,9 @@
+Please consider using a different web browser for better experience.
+Please enable JavaScript in your browser for a better site experience.
+The exchange will support USDT pairs including bitcoin (BTC), ether (ETH), bitcoin cash (BCH), EOS, XRP, bitcoin SV (BSV) and Tron (TRX) with leverage between 1 and 100x when trading commences on Nov. 6, according to a press release issued Tuesday.
+The firm claims its linear futures contracts will be easier for newbie traders to handle, as holders do not have to hedge the margin risk as they would with inverse contracts.
+“Most of the time, users are not willing to hold altcoins as margin, and they also see inverse contracts itself are complicated to understand. We see this linear contract would be an open door to many new retail traders,” said OKEx’s financial market director, Lennix Lai.
+A stablecoin linked ( or supposed to be ) to the U.S. dollar, tether hasn’t yet been widely used as the basis for futures contracts, though CoinFLEX announced a similar product in January.
+OKEx said it will continue looking into adding more stablecoin-based trading products in the near future. “We would continue to research and add stablecoin-based derivatives so to offer a simpler hedging instrument for traders who normally book their profit and loss in USD value,” Lai added.
+To ensure price fairness across the market, OKEx’s tether futures contracts will be an average of cryptocurrency exchanges Huobi, Coinbase, Bittrex and Binance’s tether spot prices. Contract settlement will occur daily at 8:00 UTC.
+The leader in blockchain news, CoinDesk is a media outlet that strives for the highest journalistic standards and abides by a strict set of editorial policies . CoinDesk is an independent operating subsidiary of Digital Currency Group, which invests in cryptocurrencies and blockchain startups.

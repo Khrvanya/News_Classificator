@@ -1,0 +1,18 @@
+While remaining interoperable with Ethereum, DapperLabs' CryptoKitties are moving on over their new blockchain home, Flow.
+CryptoKitties are coming to the Flow blockchain with new features and upgrades.
+Dapper Labs CEO Roham Gharegozlou explains why it was important to expand to Flow to grow the product into new directions.
+The company has been making waves in digital collectables with its partnerships with the NBA and famous artists.
+collectible craze, are getting a blockchain makeover.
+Dapper Labs, the creators of CryptoKitties, today announced that the digital collectibles will be migrating away from the Ethereum network and moving on over to its own custom-built blockchain, Flow, which launched last year.
+The move to Flow will see CryptoKitties get new features, such as animated 3D attributes, the ability for these digital assets to be playable within other games on Flow, and—perhaps most importantly—become scalable.
+When CryptoKitties first launched in 2017, they became so popular that they crashed the Ethereum network . In an interview with Decrypt, Dapper Labs CEO Roham Gharegozlou explained that “breeding” CryptoKitties on Ethereum had also become prohibitively expensive for potential users, at around $1 per cat. By moving to Flow, Gharegozlou expects these digital cats to find some new owners—as well as keep the existing ones.
+“Everyone on Ethereum will be able to take their cat to Flow,” Gharegozlou said. “They'll get upgraded powers, and will be able to be used on all kinds of Flow applications.”
+By being a part of its new “open state asset compliant environment” on Flow, these non fungible tokens (NFTs) will be able to interact with other virtual worlds in development on Flow, such as NBA Top Shot , said Gharegozlou.
+“The vision we had with KittyVerse: Hats on Cats, Kitty Races...will be much easier to be created around the kitties, in a way that millions of people, hundreds of millions of people can actually play with,” he said.
+Gharegozlou explained that the whole idea with Crypto Kitties, and collectables being built in association with the NBA, is to give users an on-ramp to true ownership of in-game digital assets and the ability to trade and play with peers, rather than “buying into a black box you can never sell out to.”
+For now, Dapper Labs is focused on bringing CryptoKitties to Flow and building out the network itself. But Gharegozlou said going forward he would love to see third parties build similar NFTs on Flow, creating a vast, interoperable marketplace.
+Dapper Labs has been busy in recent months building out and promoting its new network. In March, it invited developers to a new platform, PlayGround, and a new programming language, Cadence, to ease the process of creating new smart contract-enable NFTs on Flow.
+And last week, Dapper Labs showed the promise of interoperable digital marketplaces when it debuted a new CryptoKitty designed by Chinese Artist Momo Wang on the Winklevoss-backed crypto fine art collectables marketplace: Nifty Gateway.
+Will CryptoKitties be able to rekindle the imaginations of crypto enthusiasts like they did in 2017? Whatever the answer, lack of a scalable network won’t be the reason.
+Editor's note: This article was updated to remove mention of an outdated auction held in Queens in 2018. We regret the error.
+Get the best of Decrypt where you want it most.

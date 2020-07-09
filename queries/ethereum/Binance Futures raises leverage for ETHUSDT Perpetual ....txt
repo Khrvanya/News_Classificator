@@ -1,0 +1,8 @@
+Malta-based cryptocurrency exchange, Binance, has been testing out multiple new high-leverage contracts for its Futures platform. It’s in the news again after on 19 December, the platform officially announced the roll-out its Ethereum (ETH) Futures contracts with up to 75 times leverage.
+ETH/USDT contracts with up to 75x leverage enable users to trade with a significant margin without risking any real assets. The ETH Futures are traded against the US dollar-pegged stablecoin Tether (USDT).
+Binance Futures has thus proved to be one of the most desirable products in the market, allowing traders to hedge positions and manage risk.
+Binance Futures’ trading volumes have been growing recently. At the time of writing, Binance’s ETH/USDT Future trading has seen an average of $113.65 million in volume. Despite the growth, however, Binance is still behind BitMEX as it offers up to 100x leverage on a few of its products. Several other platforms including ByBit and Stormgain also offer up to 100x leverage.
+Other crypto-exchange platforms like Huobi DM  and OKEx have not been able to take over Binace Futures.
+Binance launched BTC and ETH Futures trading just three months ago and hit a daily trading volume of over $ 3 billion. CME Bitcoin Futures and Bakkt Bitcoin Futures are the other major players in the industry. Bakkt Bitcoin Futures was recently in the news for having set a new ATH with $5o million traded in one day.
+Did you like this article?
+Your feedback is important to us!

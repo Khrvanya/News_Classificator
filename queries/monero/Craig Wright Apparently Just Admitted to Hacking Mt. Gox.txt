@@ -1,0 +1,8 @@
+Craig Wright Apparently Just Admitted to Hacking Mt. Gox
+Craig Wright's legal team appears to alleged that he controls one of the Bitcoin addresses affiliated with an old Mt. Gox hack.
+One of the faces of the anonymous Monero coin, Ricardo Spagni, also known as Fluffy Pony, tweeted out information indicating Craig Wright's affiliation with a Mt. Gox-related Bitcoin wallet.
+"Just so we're clear, Craig Wright has just openly admitted (via his lawyers) to be the guy that stole 80k BTC from Mtgox," Spagni said in a June 12 tweet , including court documents in the post.
+"The screenshots below show the court documents indicating the '1Feex' address is where the stolen Mt Gox funds were sent. What do you have to say, Calvin Ayre ?"
+As part of an ongoing legal battle , Wright claims to have at least part ownership of the Tulip Trust — a list of numerous Bitcoin wallet addresses holding an allotment of roughly 1.1 million Bitcoin that he and his business associate, Dave Kleiman, reportedly mined in Bitcoin's earliest days.
+Kleiman passed away in 2013, leaving Wright unable move the funds on his own, as of recent reporting .
+Spagni's claims and court document screenshots indicate one of the alleged Tulip Trust wallet addresses contains stolen funds from the 2014 Mt. Gox hack.

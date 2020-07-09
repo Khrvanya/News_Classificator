@@ -1,0 +1,17 @@
+Please consider using a different web browser for better experience.
+Please enable JavaScript in your browser for a better site experience.
+Coinbase is getting in on the government blockchain analytics game.
+The behemoth cryptocurrency exchange has initiated procurement deals with a number of U.S. agencies, including the Drug Enforcement Administration (DEA) and the Internal Revenue Service (IRS), for a cryptocurrency investigations tool called “Coinbase Analytics,” according to publicly available documents. The Block first reported on the prospective deals Friday.
+Coinbase Analytics has close ties with Coinbase ’s entire product ecosystem, as its Senior Product Manager “collaborates” with “Coinbase Consumer, Coinbase Pro, and Coinbase Custody as well as” Coinbase’s payments and crypto division, according to an undated but now closed job posting .
+In an emailed statement, Coinbase said its Analytics product does not and has never used any internal customer data.
+“Coinbase Analytics data is fully sourced from online, publicly-available data, and does not include any personally-identifiable information for anyone, regardless of whether or not they use Coinbase,” a spokesperson told CoinDesk.
+Coinbase joins a crowded field of cryptocurrency analytics companies – Chainalysis, Elliptic, CipherTrace and others – vying for a piece of the federal pie. Agencies from all corners of the U.S government regularly contract with crypto intel firms, inking deals for their tracing software worth millions, and sometimes stretching years.
+Apparently, Coinbase, who bought blockchain intelligence firm Neutrino in February 2019, is about to undercut the competition.
+“This is the least expensive tool on the market and has the most features for the money,” read a DEA May notice so heavily redacted that those features’ specifics are unclear. But they are unique, as the IRS notice , published in April, notes Coinbase Analytics has “enhanced law enforcement sensitive capabilities that are not currently found in other tools on the market.”
+Coinbase confirmed that it developed the Analytics product from Neutrino. It further stated that Analytics is available for financial institutions and law enforcement agencies alike, and is used in internal investigations.
+“It’s an important tool to meet our regulatory requirements and protect our customers’ funds,” Coinbase said.
+The DEA’s interest appears to stem in part from Coinbase Analytics’ pinpoint accuracy. It has “some of the most conservative heuristics used in commercial blockchain tracing tools,” a “critical” distinction in avoiding false positives, the DEA notice read.
+Neither the DEA or IRS disclosed the bottom-line value of their prospective deals, which federal contract websites indicate have not been finalized yet. Both agencies seek year-long contacts with Coinbase, and the DEA deal is not more than $250,000.
+The IRS has recently begun ramping up its activities in the cryptocurrency space, sending tax firms notices last month requesting proposals for auditing support .
+UPDATE: (June 6, 2020 1:58 UTC): This article has been updated to include comment from Coinbase.
+The leader in blockchain news, CoinDesk is a media outlet that strives for the highest journalistic standards and abides by a strict set of editorial policies . CoinDesk is an independent operating subsidiary of Digital Currency Group, which invests in cryptocurrencies and blockchain startups.

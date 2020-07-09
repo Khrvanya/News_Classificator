@@ -1,0 +1,11 @@
+Please consider using a different web browser for better experience.
+Please enable JavaScript in your browser for a better site experience.
+Mobile wallet provider BRD is partnering with Ripple’s Xpring to boost XRP adoption.
+The companies announced Friday that Xpring would invest some $750,000 into BRD as part of its efforts to “build the internet of value.” As part of this new “strategic partnership,” BRD will integrate XRP and begin building on Xpring’s developer platform.
+“The partnership and investment will enable BRD users to hold, buy, sell and send XRP to anyone in the world,” a press release noted.
+Ethan Beard, senior vice president of Xpring, praised BRD as “one of the oldest and most respected” mobile wallet providers in the space. He said in a statement that the wallet is aiding in mainstream adoption of cryptocurrencies, adding:
+“The BRD team has helped consumers on-ramp $6 [billion] worth of traditional currencies into digital currency, making them an ideal partner to continue the proliferation and adoption of cryptocurrencies like XRP to solve real-world problems.”
+“We’re incredibly excited about joining forces with Ripple to bring XRP to our user base,” BRD CEO and co-founder Adam Traidman said in a statement. “Ripple understands the need for a strong wallet partner as they push into key markets like cross-border banking and remittance, so we are thrilled to help them achieve their goals. In addition, it is our plan to have BRD be the cheapest and easiest place to buy XRP moving forward.”
+BRD announced support for XRP earlier this month, after Xpring began offering a software development kit for companies to integrate XRP and fiat payments into different applications. The wallet already supported bitcoin, bitcoin cash, ethereum, ERC-20 tokens and DAI, with customers able to purchase bitcoin, ethereum and DAI using ACH wire transfers .
+The company currently offers its iOS and Android apps in some 170 countries.
+The leader in blockchain news, CoinDesk is a media outlet that strives for the highest journalistic standards and abides by a strict set of editorial policies . CoinDesk is an independent operating subsidiary of Digital Currency Group, which invests in cryptocurrencies and blockchain startups.

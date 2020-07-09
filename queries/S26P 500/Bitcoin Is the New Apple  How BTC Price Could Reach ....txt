@@ -1,0 +1,28 @@
+Bitcoin hangs near the chasm of the adoption curve and its price looks similar to Apple’s stock in 2008 before it broke out with a 520% rally.
+In 1962 sociologist Everett Rogers published the well-known book Diffusion of Innovations in which he classified consumers in the following five groups: Innovators, Early Adopters, Early Majority, Late Majority, and Laggards.
+Since its creation, the above chart has become widely used among many industries, although new technologies have better synthesized such research. The graphic flawlessly describes how each group's psychological profile reflects on consumer habits and how they approach innovative products and services. One of the most important areas to note is the clear breaking point known as the chasm.
+This gap between early adopters and the early majority exists because consumers prefer to listen and copy references from their group. This leap represents the transition to a mainstream market and bears many similarities to current cryptocurrencies life cycle.
+Therefore, crossing the chasm is of utter importance for any product or service willing to serve a more pragmatism client base.
+Geoffrey A. Moore's book, Crossing the Chasm, states that to surpass the void the product should offer a complete solution, provide a high service level to entice pragmatists and establish a strong word-of-mouth reputation.
+Global smartphone sales (millions). Source: Statista
+Even though smartphones are a household name now, their growth over the first two years of this industry averaged a mere 20% per year. Over the subsequent five years, a 50% growth rate indicated that the technology had moved a much wider group of users.
+Apple's iPhone was launched in June 2007, selling over 300,000 units in the first weekend, while the iPhone 3G came one year later and set a record of 1 million units sold in its debut weekend.
+In such a scenario, one would expect a steady and healthy price chart for Apple (AAPL) during that period, but that's not what happened.
+As shown above, a 63% rally occurred during the second half of 2007, but even that period faced a 22% price drop in just five days. Early 2008 also marked some difficult time for stockholders as AAPL dropped to $18 from $28 in less than a month.
+During this period Apple shares underperformed the S&P 500 by 29.5% in the first quarter of 2008.
+US smartphone penetration of the mobile phone market. Source: ComScore
+Data from ComScore shows that in 2008 the U.S. smartphone penetration was struggling to reach the 10% mark. Consumers were indisputably at the 'early adopters' phase, so investors had reasons to doubt optimistic expectations even if they were coming from reputable investment firms.
+S&P 500 (2008) comparison to BTC-USD (2020). Source: Cointelegraph
+As shown in the chart above, recent polling shows that 11% of Americans own Bitcoin which is the same level as smartphone penetration in December 2008. Similar trends can be found in the price volatility and the correlation between Bitcoin and the S&P 500.
+Apple (AAPL) and S&P 500 90-day correlation. Source: TradingView
+Bitcoin and S&P 500 90-day correlation. Source: TradingView
+Although Bitcoin can be deemed an innovative technology with indisputable advantages over traditional financial instruments and gold itself, it has yet to prove its trillion-dollar potential. Changing human patterns, and more importantly, beliefs, is a herculean task.
+The definition of money has been deeply engraved in society by fiat systems which are dependent on intermediaries. Furthermore, ‘money’ is frequently subject to the erratic control of governments and central banks. Bitcoin may undergo a metamorphosis of sorts to reach an early majority of pragmatists.
+The June 2010 launch of the iPhone 4 finally set the spark for these pragmatists. Was it the 5-megapixel camera with 720p resolution? Could it have been the FaceTime launch? Perhaps it was the App Store reaching 5 billion downloads or the reduced $99 two-year contract for the old 3GS model?
+It’s possible that it was a combination of each of these product offerings and milestones, which allowed Apple to bypass the chasm.
+It is a fruitless exercise to imagine what it will take to shift an entire niche of participants who are already aware of Bitcoin’s benefits but so far remain unmoved.
+Minor adoption catalysts for merchants and investors have already been put in place. For example, BitPay and Coinbase Commerce, but there is still plenty of room for improvement.
+Apple investors who fled in 2008 due to stock price volatility, 20% drops in value, or the mainstream adoption uncertainties that lay ahead are likely quite regretful now. This is because AAPL shares skyrocketed 520% over the next three years to reach $78 in early 2012.
+A similar growth outcome for Bitcoin would drive its price to $59,900, amounting to a $1.1 trillion market capitalization in 2023. Of course, to many, that sounds incredibly unreasonable.
+A potential trillion-dollar valuation for Bitcoin represents only 10% of gold's $11 trillion total market capitalization. Although it might seem like an impossible figure, it is a mere 3% of the current global supply of banknotes, coins, and checking deposits.
+The views and opinions expressed here are solely those of the author and do not necessarily reflect the views of Cointelegraph. Every investment and trading move involves risk. You should conduct your own research when making a decision.

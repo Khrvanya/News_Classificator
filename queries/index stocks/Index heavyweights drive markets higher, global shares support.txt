@@ -1,0 +1,34 @@
+Index heavyweights drive markets higher, global shares support
+2 min read . Updated: 05 Jun 2020, 06:51 PM IST Nasrin Sultana
+Aggressive buying in index heavyweight stocks, drove Indian markets higher on Friday while shares also added strength. Both the benchmark indices ended nearly 1% higher. The BSE Sensex ended at 34,287.24, up 306.54 points or 0.90%. The Nifty was at 10,142.15, up 113.05 points or 1.13%.
+Indian markets , led by financials, came back strongly from yesterday’s indecisiveness. Investors are banking on a global economic recovery, fuelled by central bank policy measures to support the respective economies. The European Central Bank said that it will increase its Pandemic Emergency Purchase Programme by 600 billion euros.
+Stocks in Asia Pacific were higher on Friday, while markets in Japan, Hong Kong and Korea were up nearly 1%.
+Siddhartha Khemka, Head - Retail Research, Motilal Oswal Financial Services Ltd said, “Indian equities followed positive global cues, which was driven by ECB’s additional stimulus boost. Investors are pricing in a global economic recovery, supported by central banks’ policy measures across geographies. Strong FII inflows over past few days have also provided support to the market.’
+Khemka said that given the sharp rally witnessed over last few days, markets may be consolidating or taking a breather, before starting the next leg of rally. “Even valuations have turned expensive at 21xFY21E earnings and any negative development on the global front might derail the momentum," he said.
+Others concur. “While the government has announced unlock-1, a worrisome factor is that the number of daily covid-19 cases are not showing any signs of peaking out. Investors should be watchful now as weak economic growth coupled with premium near-term valuations could be headwinds for the market," said Sanjeev Zarbade, VP Research, Kotak Securities.
+Reliance Industries shares hit record high on widespread optimism. Abu Dhabi-based sovereign investor Mubadala Investment Company announced a 1.85% stake purchase in Mukesh Ambani's Jio Platforms for ₹9,093.60 crore, the Reliance Industries Ltd subsidiary said. The latest transaction gives Jio Platforms an equity valuation of ₹4.91 trillion and an enterprise value of ₹5.16 trillion.
+As Indian economy opened gradually this week after almost two months of strict lockdown across the country, Avneesh Sukhija, Senior Analysts, BNP Paribas said that most industry participants believe that demand can revive only in second half of FY21.
+He said that sentiment is no longer bearish and economic activities have started picking up in most parts of the country. “Total loans under moratorium have started to come down or are stable now, there is enough liquidity in the market for banks and tier 1 non-banking and financial companies (NBFCs) , real estate, hospitality, tourism and entertainment sectors could take longer to recover," Sukhija added. Some more measures from the government to address short-term demand is still expected.
+* Thank you for subscribing to our newsletter.
+Click here to read the Mint ePaperLivemint.com is now on Telegram. Join Livemint channel in your Telegram and stay updated
+You are now subscribed to our newsletters. In case you can’t find any email from our side, please check the spam folder.
+lozad('.lozad', { load: function(el) { el.src = el.dataset.src; el.onload = function() { el.classList.add('fade')}}}).observe()
+.myAccount .planSec, .myAccount a.LinkCTA{padding:16px; margin:16px; box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.1); background-color: #fff;}
+	       		var userData = data;
+	       		var name = userData.name;
+	       		var email = userData.email;
+	       		var signupSource = userData.source;
+	       		var subscribedAtOnce = userData.subscribedAtOnce;
+	       		var plan  = userData.plan;
+	       		document.getElementById('uName').innerHTML = "<strong>"+name+"</strong>" + email;
+		       		var status = planData.status;
+		       		var purchaseSource = planData.source_device;
+			       		var nextActivationDate = planData.current_term_ends_at;
+			       		var planDescription = planData.plan.description;
+			       		var planName = planData.plan.name;
+			       		var planPrice = planData.amount;
+			       		//var planInterval = planData.shipping_interval;
+			       		var planInterval = planData.duration;
+			       		var planUnit = planData.interval_unit;
+			       		//var html = "<strong>Your Subscription Plan</strong>"+planName+" ₹"+planPrice+" / "+planInterval+" " + nextBillingHtml + cancelHtml; 
+			       		var html = "<strong>Your Subscription Plan</strong> "+planDescription + " "+ planName +": ₹"+planPrice + " "+ nextBillingHtml + cancelHtml;

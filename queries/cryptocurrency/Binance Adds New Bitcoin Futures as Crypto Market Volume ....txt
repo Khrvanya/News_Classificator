@@ -1,0 +1,15 @@
+A cautious mood in the Bitcoin futures markets contrasts with Binance’s optimistic launch of quarterly contracts.
+Cryptocurrency exchange Binance has launched a new Bitcoin ( BTC ) futures product despite institutional investors showing fresh uncertainty about the future.
+In a blog post on June 11, Binance revealed its quarterly futures contracts had gone live, with settlement due in September.
+The move marks Binance’s latest venture into Bitcoin derivatives, a market currently dominated by fellow exchanges OKEx and Huobi.
+Users will be able to deploy up to 125x leverage, with the rollout first being desktop only before a mobile version comes online.
+Speaking to Bloomberg , CEO Changpeng Zhao , said that user demand had fuelled the decision.
+“We have the perpetual futures, so we wanted to go from longer term to shorter,” he told the publication.
+“We have a lot of users who trade futures on other platforms with delivery futures, and they are asking us to launch delivery futures so they can trade in one place. We launch products relative to user demand.”
+The timing of the launch underscores Binance’s faith in the potential of the Bitcoin derivatives market, just at the time when analysts are warning of bearish signs among institutions.
+Overall volumes are down in the weeks following the third halving event, despite open interest on Bitcoin options hitting a record $1.5 billion this week.
+Bitcoin futures volume 1-month chart. Source: Skew
+Reduced volumes coincide with similar calm on markets, with BTC/USD lingering in a corridor under $10,000 and a popular sentiment indicator, the Crypto Fear & Greed Index , staying in the “neutral” zone for multiple days.
+Cointelegraph contributor filbfilb suggests that in the meantime, only growth in the market cap of Tether ( USDT ) could make up for the impression that the trading environment was “otherwise bearish.”
+“The most bullish thing right now that can be said after seeing institutions going bearish, is the implied demand in undeployed tether,” he said in private comments.
+Tether demand tends to produce an overall correlation with Bitcoin price strength. This week, the stablecoin’s market cap is on track to cross the $10 billion mark for the first time.

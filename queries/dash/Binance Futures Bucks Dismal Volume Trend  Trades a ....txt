@@ -1,0 +1,11 @@
+Most crypto exchanges put in fresh trading volume lows, with the exception of Binance’s Bitcoin futures, which conversely set record highs.
+Binance’s Bitcoin futures product is the only winner in a lackluster market this week as trading volume hits local lows.
+Analysis of various platforms’ trading volumes by exchange eToro’s senior market strategist Mati Greenspan on Oct. 15 revealed cryptocurrency markets had all but bottomed out in terms of activity.
+From a peak of around $4 billion per day several months ago, Bitcoin ( BTC ) now sees less than $200 million change hands, he said referencing data from research outlet Messari.
+Other players told a similar story, including derivatives giant BitMEX and P2P exchange Localbitcoins .
+Futures providers likewise have not escaped; both CME Group and newly-launched Bakkt continue to see what Greenspan describes as “very low” activity.
+The downtrend follows fresh losses across crypto assets in recent weeks. As Cointelegraph reported , Bitcoin remains down around 20% versus levels several weeks ago.
+Binance Bitcoin futures trading volume. Source: Skew Markets, Twitter
+Despite the difficult conditions, not every business appears equally affected. As analyst Skew Markets noted on Twitter, Binance’s futures product in fact set a new daily trading volume record on Tuesday.
+More than $700 million of activity occurred on its BTC/USD futures product, making it the third most traded behind Huobi and BitMEX’s offerings. By comparison, Bakkt managed 10 BTC ($81,000).
+Skew previously noted last Saturday was a particularly slow day for BitMEX — its volumes dipping to $1 billion versus $14 billion highs in late June.

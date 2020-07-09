@@ -1,0 +1,14 @@
+Ethereum (ETH) co-founder Vitalik Buterin has no love for the stock-to-flow model when it comes to predicting the price of the world's most popular cryptocurrency, bitcoin (BTC) . But some believe this dislike has roots much closer to home.
+Sharing two article titles on the possible effect of coronavirus outbreak on BTC price, Buterin commented that "95%+ of articles of the form "event X will make crypto go (up | down)" are post-hoc rationalized bullshit."
+While the Bitcoin evangelist at Kraken , Pierre Rochard, thought that the stock-to-flow model may be a part of the other 5%, Buterin very much disagreed.
+— vitalik.eth (@VitalikButerin) February 27, 2020
+Rochard also previously pointed out that the coronavirus is not a factor in the stock-to-flow model and should just be considered “noise” for bitcoin investors.
+While Buterin certainly has his supporters, Blockstream’s CEO Adam Back, finds that Buterin's dislike of the model stems from Ethereum's own inadequacies. "[Of course] you can't have a stock2flow when your altcoins stock is undefined and its flow is adjusted ad hoc on the whims of a few programmers," argues Back.
+Well it's just a back tested curve fit to historic data, affirmed by co-integration stats test. What's not to believe? More interesting is interpreting why, given good fit. It does seem logical that rate of supply halving, other things being equal, would tend to drive up price.
+— Adam Back (@adam3us) February 27, 2020
+Meanwhile, Buterin previously said that a lot of cryptos are committed to a capped issuance schedule and the "idea that issuance is evil, and we must have a hard cap, and because a hard cap is the Austrian way , and we must take a strong stance that we are not like those hyperinflations fiat goldbugs.” As a reminder, Bitcoin's issuance is capped at almost 21 million, while Ethereum does not have a fixed supply.
+The stock-to-flow model, created by anonymous analyst PlanB, measures the bitcoin price by using the number of BTC in circulation (stock) and the number of new BTC entering that circulation (flow). While some find it quite accurate, predicting a new high between 2021 and 2020, climbing to some USD 100,000 and accelerating, others are concerned by the growing stock-to-flow hype.
+Furthermore, hardware wallet manufacturer Trezor urged to "forget about stock-to-flow," adding: "Using stock-to-flow to predict prices is absolute nonsense. "
+PlanB and Back shortly commented on Trezor's post at the time.
+There are a number tautologtical throwaway or flippant comments don't support the claim. Eg "price depends on supply and demand" yes, and what do you think happens if demand is constant and supply halves? That's the point!
+At pixel time (13:24 UTC), bitcoin trades at c. USD 8,848 and is down 4% in a day and 8% in a week. ETH is down 4% in a day and 9% in a week.

@@ -1,0 +1,16 @@
+UPDATE 3-CME mulls price fluctuation limits for gold, silver futures
+NEW YORK, April 29 (Reuters) - U.S. futures exchange CME Group Inc is considering the introduction of daily limits on price moves in gold and silver futures in a bid to rein in wild volatility that has spooked investors in recent years, a CME official said on Tuesday.
+CME at present has price fluctuation limits for futures contracts in some energy, agricultural commodities and financial products, but none for its precious and base metals products.
+The possible move reflects growing concern at the largest U.S. exchange of futures and options about big bouts of buying or selling that have caused huge fluctuations in prices without any apparent fundamental reason.
+“We don’t have price limits in gold and silver. That’s something that we are looking into,” Miguel Vias, CME Group’s director of metal products, said in a panel discussion at an industry event, in response to a question about how the exchange protects investors from excessive volatility.
+U.S. exchange operators are already edgy about allegations over high-speed traders rigging the Wall Street stock markets and the so-called dark pools, or trading outside of exchanges, in the wake of the recently published book “Flash Boys: A Wall Street Revolt,” by Michael Lewis.
+The biggest concern for the exchange is the array of sophisticated trading programs that are capable of significantly pushing the market higher or lower, Vias said.
+Unusually big moves and the fears of price “slippage” - the difference between the price at which a market player wants to execute an order and the price at which they are able to do so - have turned some gold and silver futures investors away, he said.
+In the first four months of the year, COMEX gold futures volume dropped 10 percent from a year ago, while turnover of silver contracts gained about 7.5 percent.
+The gold and silver futures are the most-traded commodity contracts after crude oil and other energy products.
+Dealers say the frequency of wild price movements has increased, roiling trading. The exchange introduced circuit breakers, such as “stop logic,” which prevents cascading stop orders that could exaggerate price movements in illiquid markets.
+But support for setting limits on price moves does not appear to be universal.
+“I think the breaks in trading are good, but I wouldn’t support fixing price moves,” said one U.S. trader.
+The price of gold suffered a record two-day drop of $225 an ounce on April 12 and April 15 of last year amid fears of the U.S. Federal Reserve starting to unwind its market stimulus and news that Cyprus could sell some of its gold reserves.
+In October, many traders and investors were rattled by a series of abrupt, and largely unexplained, trade surges that whipsawed prices and disrupted trade in CME Group’s COMEX gold futures.
+Unlike the meteoric declines in April and June, when institutional investors exited en masse in a two-day selloff, these seemingly sporadic trades lasted only minutes but overwhelmed volumes and price direction on each occasion.   (Additional reporting by Josephine Mason; editing by G Crosse)

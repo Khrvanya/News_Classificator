@@ -1,0 +1,15 @@
+By Juha Saarinen on Jul 1, 2020 11:43AM
+Victim's details show up on the web.
+Personal details of tens of thousands of Australians who fell for a fraudulent cryptocurrency investment scheme that used fake media sites and celebrity endorsements have been leaked onto the web.
+Singaporean security vendor Group-IB discovered 248,926 sets of personally identifable information, of which 82,263 records were from Australian users, leaked by an unknown party.
+Details leaked include names, email addresses and phone numbers.
+Apart from Australian victims, Group-IB also found details on Britons, South Africans, Americans, Singaporeans, Malaysians, Spanish and citizens of other countries.
+The scam operates under different names, including Crypto Cash, Bitcoin Rejoin, Bitcoin Supreme and Banking on Blockchain, Group-IB said .
+Group-IB said the scam is a three-stage fraud similar to the prior Bitcoin Evolution scheme.
+Victims first receive a text message, purporting to come from a well-known media outlet, with a unique short link.
+The short link takes victims to another URL that has a form already populated with some of the user's data, and which redirects to fake websites masquerading as local media outlets.
+Australians would see a fake version of the ABC website.
+Group-IB believes the user data on the scam sites was obtained in a separate fraud, or simply purchased from a third party.
+Clicking on any link would take users to a bitcoin investment scheme, where they are asked to part with existing cryptocurrency.
+The security vendor warned users to stay vigilant and to check the details of the sites they connect. It also said that long redirect chains are a red flag to stay away.
+Copyright  © iTnews.com.au . All rights reserved.

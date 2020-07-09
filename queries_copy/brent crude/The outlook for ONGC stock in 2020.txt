@@ -1,0 +1,31 @@
+1 min read . Updated: 31 Dec 2019, 07:00 AM IST Pallavi Pengonda
+For the six months ended September, standalone gas production rose by a mere 1% year-on-year, while crude oil production declined by 4.7%
+ONGC Oil and Natural Gas Corp. Ltd
+Shares of Oil and Natural Gas Corp. Ltd (ONGC) lacked the energy in 2019. The stock has declined by nearly 15% so far this year, while the Nifty 100 index has increased by 11%. What gives?
+For one, production performance has been nothing to write home about. For the six months ended September, standalone gas production rose by a mere 1% year-on-year, while crude oil production declined by 4.7%. Second, outlook on crude oil prices isn’t spectacular, as global oil demand is not expected to be robust from a near to medium term perspective. Brent crude oil prices are currently hovering around $68 a barrel and analysts don’t expect meaningful upsides from these levels.
+The good news is that valuations are not demanding, what with the stock trading at 5.4 times estimated earnings for FY20, based on Bloomberg data.
+What should investors watch out for in the coming year? “Any divestment in government’s stake in ONGC via offer for sales or ETF would hit its stock performance," said analysts from ICICI Securities Ltd in a 12 December report. Further, muted outlook on crude prices is another risk for ONGC. Investors will watch production trajectory closely, too. Meanwhile, news reports indicated that the government was contemplating gas price deregulation. News flow on that remains crucial.
+ICICI Securities expects ONGC to benefit if gas prices are deregulated. “ONGC would be a hedge against investment in city gas distribution (CGD) firms as it would gain the most from gas price deregulation, while CGD firms would be hit by it," the broking firm said.
+* Thank you for subscribing to our newsletter.
+Click here to read the Mint ePaperLivemint.com is now on Telegram. Join Livemint channel in your Telegram and stay updated
+You are now subscribed to our newsletters. In case you can’t find any email from our side, please check the spam folder.
+lozad('.lozad', { load: function(el) { el.src = el.dataset.src; el.onload = function() { el.classList.add('fade')}}}).observe()
+.myAccount .planSec, .myAccount a.LinkCTA{padding:16px; margin:16px; box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.1); background-color: #fff;}
+	       		var userData = data;
+	       		var name = userData.name;
+	       		var email = userData.email;
+	       		var signupSource = userData.source;
+	       		var subscribedAtOnce = userData.subscribedAtOnce;
+	       		var plan  = userData.plan;
+	       		document.getElementById('uName').innerHTML = "<strong>"+name+"</strong>" + email;
+		       		var status = planData.status;
+		       		var purchaseSource = planData.source_device;
+			       		var nextActivationDate = planData.current_term_ends_at;
+			       		var planDescription = planData.plan.description;
+			       		var planName = planData.plan.name;
+			       		var planPrice = planData.amount;
+			       		//var planInterval = planData.shipping_interval;
+			       		var planInterval = planData.duration;
+			       		var planUnit = planData.interval_unit;
+			       		//var html = "<strong>Your Subscription Plan</strong>"+planName+" ₹"+planPrice+" / "+planInterval+" " + nextBillingHtml + cancelHtml; 
+			       		var html = "<strong>Your Subscription Plan</strong> "+planDescription + " "+ planName +": ₹"+planPrice + " "+ nextBillingHtml + cancelHtml;

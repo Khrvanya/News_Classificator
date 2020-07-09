@@ -1,0 +1,10 @@
+Litecoin and Grin++ developer, David Burkett, has posted an April progress update on Litecoin’s Mimblewimble integration, claiming that a testing framework has been built and codebase integration has started.
+The lead developer on the Litecoin Mimblewimble (MW) project, David Burkett, has now built a functional testing framework and started to integrate the development work done so far into the Litecoin codebase.
+According to a May 1 report on the Litecointalk forums, the project to implement the MW privacy enhancements into Litecoin has reached an important milestone with the build of a test-bed. Burkett claims that he has also run some end-to-end validation tests through the framework.
+“I’ve built out a functional testing framework that builds valid headers, blocks, and transactions. I’ve now got some (mostly) complete end-to-end block validation tests,” he said.
+As Cointelegraph reported in March, Burkett predicted that MW would be running on the Litecoin testnet by the end of the summer. This is a significant step towards that goal.
+Burkett has also begun to integrate his work with the Litecoin codebase, initially focusing on the ConnectBlock logic. This part of the code validates blocks before adding them to the chain.
+While Burkett was still unsure as to which specific area to tackle next, he did state that his high-level plan involved continued codebase integration and “lots more testing.”
+Burkett also gave an update on his other project, Grin++, which has just achieved release candidate v1.0.0 status, marking its “first non-beta version.” Grin++ featured the first implementation of the Mimblewimble privacy protocol, back in January 2019.
+Mimblewimble was first revealed in 2016 when its white paper — authored by an individual acting under the pen name Tom Elvis Jedusor — appeared on a Bitcoin research channel.
+The protocol aims to improve blockchain privacy, scalability, and fungibility by combining transactions in a CoinJoin. As a result, blocks on the network comprise a list of all input, output, and signature data, which obscure transaction data for any third party monitoring the network.

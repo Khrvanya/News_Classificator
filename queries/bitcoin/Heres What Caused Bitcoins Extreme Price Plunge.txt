@@ -1,0 +1,13 @@
+On BitMEX users can borrow against their deposits up to a ratio of 100:1, providing traders the opportunity to amplify their gains, as well as potential losses.
+During last week's crash, BitMEX users saw $750 million in bitcoin liquidated in a matter of minutes.
+BitMEX has claimed its outage was caused by a planned DDoS attack against the exchange.
+"At 02:16 UTC a botnet began a DDoS attack against the BitMEX platform," BitMEX chief executive Arthur Hayes wrote in a blog post this week.
+"We discovered shortly afterward that this botnet had been responsible for a similar, yet unsuccessful, attack a month ago on 15 February."
+Deribit, a smaller bitcoin and crypto exchange in the Netherlands, also experienced outages during bitcoin's flash crash last week, one during the sell-off and another after the recovery began.
+BitMEX and Deribit, acting as two of the largest liquidity providers, experienced technical issues which may have likely contributed to the extreme volatility, Digital Assets Data researchers found.
+Last year, the chief executive of the world's largest bitcoin and crypto exchange by volume, Binance, Changpeng Zhao warned the bitcoin price was potentially being inflated by the increased use of leveraged trades .
+The bitcoin price continued to fall on Bitmex after it stabilized on other exchanges.
+Bitcoin and and other major cryptocurrencies saw some $100 billion worth of value erased in just a week, with some senior figures in the crypto community warning confidence in digital assets has "evaporated"—potentially leaving bitcoin and crypto vulnerable .
+I am a journalist with significant experience covering technology, finance, economics, and business around the world. As the founding editor of Verdict.co.uk I reported
+I am a journalist with significant experience covering technology, finance, economics, and business around the world. As the founding editor of Verdict.co.uk I reported on how technology is changing business, political trends, and the latest culture and lifestyle. I have covered the rise of bitcoin and cryptocurrency since 2012 and have charted its emergence as a niche technology into the greatest threat to the established financial system the world has ever seen and the most important new technology since the internet itself. I have worked and written for CityAM, the Financial Times, and the New Statesman, amongst others. Follow me on Twitter @billybambrough or email me on billyATbillybambrough.com.
+Disclosure: I occasionally hold some small amount of bitcoin and other cryptocurrencies.

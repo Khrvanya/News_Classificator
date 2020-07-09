@@ -1,0 +1,16 @@
+ETC Labs projects that the hard fork will happen on June 3, but the date is subject to change.
+The Phoenix hard fork will make Ethereum Classic fully compatible with Ethereum.
+Phoenix follows the successful Atlantis and Agharta hard forks in the previous months.
+Ethereum Classic Labs (ETC Labs) and its ETC Core developer team recently announced that Ethereum Classic (ETC) will undergo a hard fork dubbed Phoenix. Per the announcement on May 14, this network upgrade is scheduled to take place at block 10,500,839. The organization approximates that this event will take place on June 3. The publication further cited that this system-wide upgrade is a result of a consensus among stakeholders in the Ethereum Classic community.
+Per the announcement , this hard fork is set to improve the network’s EVM capabilities. On top of this, the upgrade will make Ethereum Classic fully compatible with its sister-chain Ethereum . Reportedly, Phoenix will be inclusive of the Ethereum Istanbul network upgrades on the Ethereum Classic network. This update will facilitate the addition of several opcodes, which have been in use on Ethereum networks since the end of 2019 to Ethereum Classic. The Phoenix update comes after Ethereum Classic completed two hard forks in the past few months. These are Atlantis and Agharta.
+Commenting on the upcoming Phoenix hard fork, ETC Labs’ CEO, Terry Culver said,
+“This upgrade demonstrates the robust development underway on Ethereum Classic, as it is the third hard fork in the last year; and reflects the strong community consensus among ETC stakeholders. The upgrade also marks an important turning point for Ethereum Classic, where now the community is in a position to drive more innovation, to collaborate, and to make fresh technical contributions to the ETC and ETH communities,”
+James Woo, the founder and chairman of ETC Labs added that,
+“This supports the founding mission of ETC Labs and reinforces our values of transparency, collaboration and accessibility for all,”
+In the announcement, ETC Labs unveiled that it had successfully implemented all testnets in the Phoenix upgrade. The firm added that the ETC Core development team was preparing for the mainnet activation. Providing details of the upcoming Phoenix hard fork, ETC Labs noted that the schedule is as follows,
+Mordor TestNet activation at block 999,983, successfully activated on March 09, 2020.
+Kotti TestNet activation at block 2,200,013, successfully activated on April 15, 2020.
+Ethereum Classic MainNet activation at block 10,500,839 around June 03, 2020.
+However, this schedule is not fixed. ETC Labs stated that the provided mainnet activation date is subject to change as the network inches closer to the activation date.
+ETC Labs went on to urge consumers to upgrade their node software to fork compatible versions. These include Core-geth, v1.11.0 or later and Hyperledger Besu, v1.4.1, or later. In so doing, they would help ensure a successful fork.
+Do you think the upcoming Phoenix hard fork will help boost the price performance of ETC? Share your thoughts in the comment section below.

@@ -1,0 +1,14 @@
+Over 150 different Ethereum (ETH) projects have acquired almost $25 million in total grant funding to date.
+The Ethereum Foundation , a Switzerland-based non-profit entity supporting the ongoing development of Ethereum, is the largest donor. The foundation has allocated more than $21 million (of the total amount) to various initiatives. This, according to research conducted by The Block.
+the Ethereum Community Fund – a fund that aims to award over $100 million to innovative projects in the Ethereum ecosystem,
+Aragon Foundation – an entity focused on the development of Aragon, a decentralized app (dApp) launched on the Ethereum blockchain that allows users to create and manage a decentralized organization,
+ConsenSys – a leading Ethereum development studio, and
+Protocol Labs – a research and development (R&D), and deployment institution for improving Internet technology.
+In addition to providing the most funding, the Ethereum Foundation reportedly supports the largest number of grants issued. The foundation has awarded 94 different grants to date.
+Initiatives that managed to acquire the largest amount of grant funding (to date) include:
+Parity Technologies – an entity that is focused on infrastructure and developing Ethereum-based platforms and applications. Parity builds solutions by leveraging advanced cryptography, cellular system, peer-to-peer technology and decentralized consensus architectures,
+Starkware – a project focused on blockchain scalability techniques,
+Prysmatic Labs – a dedicated team of application developers that aim to improve Ethereum-based smart contracts,
+L4 Research – an organization focused on Web 3.0 development, and
+Status – a decentralized mobile and desktop client for Ethereum that allows users to send encrypted messages, access dApps, and a cryptocurrency wallet.
+ETH 2.0 or ETH 1.x, which are both focused on launching upgraded versions of Ethereum, have received the largest amount of funding.

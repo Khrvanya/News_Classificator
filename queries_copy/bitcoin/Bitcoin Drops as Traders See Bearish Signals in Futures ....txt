@@ -1,0 +1,20 @@
+Please consider using a different web browser for better experience.
+Please enable JavaScript in your browser for a better site experience.
+Bitcoin slid Monday to its lowest point in the past seven days, with traders saying bearish signals are appearing after the cryptocurrency’s 30 percent rebound from a market bottom in mid-March.
+After recovering from the depths of the coronavirus-induced sell-off, bitcoin repeatedly failed to break above a price of $7,400.
+Bitcoin (BTC) prices fell Monday by 1.6 percent to 20:45 UTC (4:45 p.m. EDT) while ether fell 1.8 percent.
+Most major digital assets were down on the day. Bitcoin cash (BCH) was down 4.8 percent, EOS (EOS) dipped 2.6 percent and bitcoin sv (BSV) lost 1.9 percent. All price changes are from 0:00 UTC.
+Bitcoin futures contracts for June on exchanges such as Kraken are trading around $6,750, which suggests traders are pricing in further downside. Such “backwardation” — where futures trade at a discount to the spot price — represents a shift from last week, when futures were trading at a premium.
+“Futures and our own activity indicate that speculators expect to see lower prices in the short term,” said Maxine Boonen, CEO of over-the-counter (OTC) bitcoin liquidity provider B2C2. “One particular hedge fund sold us $20 million of bitcoin today and they have usually been right.”
+One month annualized rolling futures on Kraken. Source: Skew
+Early losses on Monday triggered $29 million in position liquidations for futures traders on the BitMEX exchange, exacerbating the sell-off. Hourly liquidations on BitMEX had averaged just $200,000 over the past few days.
+BitMEX liquidations since April 10. Source: Skew
+In traditional markets, the S&P 500 of large U.S. stocks fell 1 percent as the death toll from the coronavirus continued to cast a pall. New York state, now the epicenter of the pandemic, surpassed 10,000 deaths , Gov. Andrew Cuomo said Monday.
+Constantine Kogan, a partner at crypto fund BitBull Capital, said the “macroeconomic trend isn’t positive so it will continue to put pressure on crypto,” Kogan said.
+Bitcoin trading on Coinbase since April 11. Source: TradingView
+Elsewhere, gold, a classic haven asset and hedge against inflation, is currently trading up at 1.2 percent.
+Contracts-for-difference on gold since April 9. Source: TradingView
+Although some cryptocurrency analysts and investors think bitcoin could prove to be a hedge against inflation, the yellow metal is outperforming it.
+“A break below $6,500 will likely lead to another round of liquidations and send the price towards the $6,100 to $6,200 area,” said Denis Vinokourov, head of research at crypto investment brokerage Bequant, said of bitcoin.
+“For the bulls, a break below will be particularly painful,” he said. “There really isn’t much support until the $5,000 zone. This cautious tone is supported by a shift in the futures curve.”
+The leader in blockchain news, CoinDesk is a media outlet that strives for the highest journalistic standards and abides by a strict set of editorial policies . CoinDesk is an independent operating subsidiary of Digital Currency Group, which invests in cryptocurrencies and blockchain startups.

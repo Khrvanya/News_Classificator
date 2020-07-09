@@ -1,0 +1,11 @@
+Singapore Grants Crypto License Exemptions to Ripple, Coinbase and Binance
+The Monetary Authority of Singapore exempted a number of crypto payment services from holding a financial license under the Payment Services Act.
+While Singapore recently adopted specific cryptocurrency legislation — the Payment Services Act (PSA) — in January 2020, it turns out that some crypto firms like Ripple, Coinbase and Binance have been exempt from the law since the beginning of the year.
+The Monetary Authority of Singapore (MAS), the country’s central bank and major financial regulatory authority, exempted a number of major payment services from holding a financial license under the PSA.
+According to a statement released on March 24, the listed companies are allowed to continue to provide specific payment services without holding a PSA license for a limited period of time.
+As such, local subsidiaries of major crypto companies like Ripple, Coinbase and Binance are officially authorized to provide digital payment token service in Singapore starting from January 2020. According to the MAS, Ripple Labs Singapore, Coinbase Singapore and Binance Asia Services can provide services without a PSA license until July 28, 2020.
+The MAS noted that the exemption will cease after the specified period or if the entity submits a licence application under the PSA.
+Some crypto companies were granted a longer exemption period. BitGo Singapore, a local subsidiary of one of the world's biggest Bitcoin ( BTC ) payment processors, and Gemini Trust Company, a crypto exchange and custody service led by the Winklevoss twins, were given a 12-month exemption.
+According to the MAS notice, the companies are allowed to provide account issuance services, domestic money transfer services, and inward cross-border money transfer services until Jan. 28, 2021.
+Other crypto companies in the list include cryptocurrency exchange OKCoin , decentralized offline cryptocurrency sales network Pundi X and Cumberland, a cryptocurrency trading unit of DRW Holdings.
+As reported by Cointelegraph, a number of local crypto businesses in Singapore have praised the PSA as a legal instrument that will attract crypto and blockchain-related business, not chase them away.

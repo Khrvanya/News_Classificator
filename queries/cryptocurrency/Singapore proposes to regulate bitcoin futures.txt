@@ -1,0 +1,11 @@
+Singapore's central bank plans to bring bitcoin and other similar cryptocurrency futures traded on approved exchanges under its regulation in response to interest from international institutional investors, it said on Wednesday (Nov 20).
+SINGAPORE: Singapore's central bank plans to bring bitcoin and other similar cryptocurrency futures traded on approved exchanges under its regulation in response to interest from international institutional investors, it said on Wednesday (Nov 20).
+Market watchdogs worldwide have been debating whether and how they should regulate the cryptocurrency industry. Many have focused their attention initially on investor protection issues given concerns about market manipulation and cryptocurrencies' volatility.
+In a consultation document, the Monetary Authority of Singapore (MAS) said that it had seen interest from institutional investors in trading "payment tokens" like bitcoin and ether, who "have a need for a regulated product to gain and hedge their exposure to the payment tokens."
+The consultation will close on Dec 20.
+Derivatives products are a particular concern for regulators looking to protect investors, and MAS said that it did not consider bitcoin and other similar derivatives to be suitable for trading by retail investors.
+"The underlying payment tokens tend to exhibit high volatility and are intrinsically difficult to value ... Losses also amplified due to the leveraged nature of derivatives, and investors may even lose more than the whole amount they had put in," MAS said.
+Some US-based exchanges including the Chicago Mercantile Exchange and ICE Futures US, already allow trading of bitcoin futures.
+MAS only proposes to regulate futures traded on exchanges it already regulates. It warned investors it did not regulate token derivatives not traded on approved exchanges.
+"The inclusion of these products in the approved exchanges will certainly provide new opportunities for all regulated exchanges. This may create liquidity for these products," David Gerald, president of the Securities Investors Association (Singapore), said in a statement.
+He also warned retail investors of the high risk involved in investing in these products.

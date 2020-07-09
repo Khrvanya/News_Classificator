@@ -19,6 +19,8 @@ __pycache__
 conda-env
 .idea
 
+*.ipynb
+
 # Executables
 *.swf
 *.air

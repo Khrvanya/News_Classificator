@@ -1,0 +1,29 @@
+Ethereum transaction volume tops Bitcoin – but does that matter?
+One of the most heated topics of discussion in the cryptocurrency space is whether Ethereum provides more value than Bitcoin due to its higher number of transactions.
+Because “value” can refer to both market cap and transaction volume, discussions can quickly escalate.
+Today, my goal is to take a look at Bitcoin and Ethereum in terms of transaction volumes and price appreciation.
+Is there a link between price and the number of transactions?
+If not, what could the long-term price impact of more transactions be? Does it matter at all?
+The price of $ETH has been lagging the fundamentals for at least two years.
+— Stacking Gwei (@stacking_gwei) December 17, 2019
+Even though Bitcoin has always been the top coin in terms of total market cap, the same cannot be said about transaction volumes.
+Arguably, Bitcoin maximalists don’t understand the importance of usability since BTC is seen currently as a store of value. Bitcoin does not require high transaction throughput or large transaction volumes (like P2P digital cash would) if it is a store of value.
+Moreover, since there is little correlation between actual usability and price appreciation – look at EOS for example – it’s easy to dismiss the importance of higher transaction volumes.
+Nevertheless, I’m a strong believer that long-lasting network effects are given a boost by an increasing number of transactions.
+Before I dive into a transaction volume comparison, let’s take a minute to understand the current panorama:
+As such, we could argue that Bitcoin also dominates in terms of transaction volume since it has the most price appreciation, right?
+Interestingly, Ethereum has dominated Bitcoin in terms of transaction volume since 2017.
+Looking at the chart above, courtesy of Bitinfocharts , ETH currently seems to be experiencing 150% more transactions than BTC.
+At its peak, during early January 2018, the number of daily Ethereum transactions was close to 1.4 million, while Bitcoin was around 400,000. Essentially, ETH was experiencing 3.5 times more on-chain transactions than BTC.
+To me, this chart is quite important since it shows there’s increasingly more activity on Ethereum. I cannot say if more activity will translate into a higher price. However, I argue that it will at least translate into higher adoption.
+Since adoption might explain a minor or major percentage of price appreciation (we cannot know for sure), I argue long-term activity will most likely translate into a higher price.
+As such, ETH seems to be undervalued versus BTC given the number of transactions, even though Bitcoin has more value than Ethereum.
+If this seems hard to grasp, it’s because it is. Let me try to put it as simple as possible:
+If we believe value should be a mix of market cap and adoption, which translates into price appreciation and transaction volumes, we could argue there is a chance for ETH to overtake BTC.
+However, I personally don’t think that will happen since Ethereum does not have a fixed supply.
+At best, I believe ETH might behave like fiat currencies. Fiat currencies have the highest adoption rate but not the highest value. Gold and silver are more valuable, for instance.
+The question that remains is to determine what’s best for each project: to be a big fish in a small pond or a small fish in a big pond.
+With Bitcoin, since there’s a limited supply, price will have a tendency to increase assuming demand remains equal.
+With Ethereum, price will have a tendency to decrease given the velocity and the non-hard supply.
+While in BTC terms your value will have a tendency to increase, at the same time, it will be prohibitively more expensive to add an additional unit to your portfolio (small fish in a big pond). In Ethereum, I expect the opposite to happen.
+It might be that the overall price of ETH will decrease long term vs BTC. However, you’ll be able to add extra units to your portfolio with extra ease (big fish in a small pond).

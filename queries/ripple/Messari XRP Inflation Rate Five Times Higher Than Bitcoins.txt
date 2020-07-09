@@ -1,0 +1,10 @@
+According to data research firm Messari, Ripple’s selloff causes inflation to hit 20% — five times that of Bitcoin, inflicting downward price pressure.
+Data from research firm Messari indicates that Ripple’s circulating supply ( XRP ) inflation rate is coming up to 20% for the latest financial year. Highest among the large-cap crypto assets, it is five times that of Bitcoin’s ( BTC ).
+Messari researcher Florent Moulin shared the information on Twitter stating that Bitcoin is up 20% since last year, but in contrast, XRP is down 47% —- alluding to some correlation between their price and circulating supply inflation rates.
+Moulin also compared how much of the max supply is in circulation, stating that Ripple has only 30% of their max supply released, while Bitcoin has already released 87.5%.
+Kyle Samani of Multicoin Capital aligned with this correlation, specifically mentioning the increasing sale of XRP as the key facilitator to driving the price down:
+“The company has been steadily increasing their sales of XRP over the previous three quarters, likely inflicting downward price pressure on XRP.”
+Ripple executives maintain that the continual selling of XRP don’t have a tangible effect on the underlying market. Ripple CEO Brad Garlinghouse has previously explained :
+“In the XRP community, Ripple is the largest owner, and we are the most interested party in the success of the XRP ecosystem […] Ripple can’t control the price of XRP anymore than a whale controls the price of Bitcoin.”
+The inflation rates of other prominent cryptocurrencies like Tezos ( XTZ ), Litecoin ( LTC ) and Ether ( ETH ) are sitting at 13%, 5.1% and 4.7% respectively. Unlike XRP however, XTZ has increased by almost 180%, but Litecoin has dropped by 63%.
+The inflation rates calculated by Messari have been queried by the wider community as the circulating supplies vary by up to 50% compared to other popular sites such as Coin360 and CoinMarketCap causing some to even question the legitimacy of their methodology.

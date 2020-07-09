@@ -1,0 +1,15 @@
+FTX debuts a product which delivers quarterly settlements based on Bitcoin’s hash rate, calculated using the average difficulty.
+Bitcoin ( BTC ) holders now have a new tool to leverage the largest cryptocurrency’s growing ecosystem as two new futures markets go live.
+In a blog post on May 15, derivatives platform FTX confirmed it had launched a futures product which tracks not Bitcoin’s price, but hash rate.
+Simply dubbed “hashrate futures,” the contracts track the average difficulty of the Bitcoin network each day from the start to the end of each quarter.
+“However, given that difficulty adjustments attempt to maintain 10m block times, over long periods of time the average hashrate will be proportional to the average difficulty,” the blog post explains.
+So that means that, roughly speaking, difficulty futures should behave similarly to hashrate futures.
+Hash rate refers to the computing power dedicated to the Bitcoin network at a given time. The more hashing power there is, the stronger and more secure the network.
+The mining difficulty is an expression of how complex it is to solve equations, which validate Bitcoin transactions.
+Bitcoin 7-day average hash rate 1-month chart. Source: Blockchain
+Both were hovering near all-time highs , but the hash rate tailed off following Bitcoin’s block subsidy halving this week. At press time, however, FTX’s hash rate product was outperforming, with Q1 2021 contracts climbing from a value of around 16 to 21.5 on the day.
+Contracts due to expire in Q3 and Q4 2020 rose by 6% and 13% respectively.
+The contract value is calculated using the difficulty on a certain day, dividing the figure by 1 trillion to arrive at a two-figure number.
+FTX joins cryptocurrency exchange Bitfinex in expanding the futures market. Last week, the platform unleashed futures related to Bitcoin’s dominance versus altcoins.
+That relationship is also undergoing a change in favor of BTC, which now accounts for 67.4% of the cryptocurrency market according to data from CoinMarketCap . Bitcoin has managed to maintain at least 60% dominance since July last year.
+At the same time, commentators note citing data, the amount of Bitcoin held on exchanges is falling, something they theorize tends to improve price performance.

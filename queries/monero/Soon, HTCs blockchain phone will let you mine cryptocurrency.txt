@@ -1,0 +1,18 @@
+HTC's Exodus line of smartphones, aimed at cryptocurrency users, is set to get the ability to mine digital coins.
+The feature, which typically requires hefty PC hardware, would be a big plus for the blockchain devices, but it will not be turning your phone into a hand-held money-making machine anytime soon.
+Here's all you need to know about it.
+In the second quarter of 2020, entry-level blockchain phone Exodus 1s and its elder, more powerful siblings will get an app called DeMiner, The Block reports.
+The app is currently in development by Midas Labs and will eventually do the job of mining Monero on Exodus phones.
+It will work only when the device is plugged and idle, not when being used extensively.
+According to Midas Labs, the company developing the app, typical mining activity on an average laptop takes place at a loss of more than 50%.
+However, the new blockchain phone and its efficient processor consumes much less power, letting you run the whole mining operation at a profit of about 50%.
+This means, in terms of power, it makes a better option for crypto-mining.
+While power-efficiency is a tempting prospect, it must be noted that the mining capabilities of Exodus phones will not be impressive.
+Midas Labs' estimates indicate you could mine just $0.0038 worth of Monero (without factoring in power costs) with Exodus 1s, which runs on entry-level Snapdragon 435 processor.
+This converts into a little more than a dollar ($1.387) every year.
+In contrast, an average laptop (without factoring power costs) makes about $0.06 every day or more than a dollar in less than 20 days.
+Basically, it all comes down to whether you want to earn more and spend even more, or earn less but at a profit.
+At Exodus 1s's rate of mining, the phone would take about 170 years to pay itself off.
+Along with a little money-making, crypto-mining on smartphones can also create a large decentralized mining network that may stop large mining pools from controlling a cryptocurrency's blockchain.
+"The crypto world is under threat from the domination of the hashrate by giant mining pools," HTC's Phil Chen said, noting that devices like these can make mining available to masses and tackle this problem.
+Last updated on Apr 30, 2020, 01:46 am

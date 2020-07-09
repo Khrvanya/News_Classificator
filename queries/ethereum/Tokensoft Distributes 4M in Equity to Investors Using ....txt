@@ -1,0 +1,13 @@
+Please consider using a different web browser for better experience.
+Please enable JavaScript in your browser for a better site experience.
+TokenSoft CEO Mason Borda (Credit: CoinDesk archives)
+Tokensoft, a digital securities platform for enterprises and financial institutions, has used blockchain tech to distribute equity to investors in a $4 million funding round.
+The seed round, which commenced in July 2018, was co-led by Base10 and e.ventures, with Coinbase Ventures and Fidelity-affiliate Avon Ventures also participating.
+The investors receive a digital representation of their investments (based on a Simple Agreement for Future Equity, or SAFE, model) on the Ethereum blockchain using the ERC-1404 tokens to ensure the SAFE agreements will be enforced on-chain. The ERC-1404 standard is used for accounting and compliance purposes.
+“While many in the industry speak of the benefits of digitizing private capital markets, Tokensoft has actually done this with its own shares,” said investor Meltem Demirors, a who has been working with the Tokensoft team since 2018, in a press release.
+“I have the ability to hold shares in my wallet, receive dividends, bids or offer shares and gather real-time market data that facilitates price discovery,” Demirors added.
+According to the company, investors in TokenSoft equity can or will soon be able to benefit from real-time authenticated access to ownership information, with the provenance of transactions recorded on the Ethereum blockchain.
+In addition, investors will receive real-time periodic dividend payments in the form of U.S. dollars through integration with Signature Bank’s digital payments platform, Signet, as well as DTAC, a Securities and Exchange Commission-registered transfer agent.
+When activated under the SAFE agreement, shareholders will have access to a secondary market where they can buy and sell their shares.
+“We have proven with our customers that the blockchain can streamline and automate secondary transfers,” said Tokensoft CEO Mason Borda.
+The leader in blockchain news, CoinDesk is a media outlet that strives for the highest journalistic standards and abides by a strict set of editorial policies . CoinDesk is an independent operating subsidiary of Digital Currency Group, which invests in cryptocurrencies and blockchain startups.

@@ -1,0 +1,33 @@
+Who is the ATO targeting this year?
+Finance reporter Alexis Carey explains who the ATO is targeting this year, what changes are coming on July 1st, and how to avoid getting caught out by the tax man.
+Hundreds of thousands of Australians are set to receive a stern warning from the Australian Taxation Office in the coming weeks as the tax man takes on cryptocurrency traders.
+The ATO is in the process of contacting up to 350,000 individuals either by letter or email to “remind them” of their taxation obligations when they trade in cryptocurrency, such as bitcoin.
+Cryptocurrencies are considered to be a form of property and therefore an asset for capital gains tax purposes.
+That means any financial gains made from the buying and selling of cryptocurrencies will generally be subject to capital gains tax and must be reported to the ATO.
+Examples include selling, trading or exchanging cryptocurrency, converting it into Australian dollars or a foreign currency or using it to obtain goods or services.
+An ATO spokesman told news.com.au investors in cryptocurrency should ensure they keep good records when they buy, sell or trade cryptocurrencies to make it a lot easier come tax time.
+Those records should include receipts of purchase or transfer of cryptocurrency, exchange records, records of agent, accountant and legal costs, digital wallet records and keys, the date of the transactions, the value of the cryptocurrency in Australian dollars at the time of the transaction and what the transaction was for and who the other party was.
+“In April last year we published our Data Matching Protocol for cryptocurrency . Under this program we obtain cryptocurrency transaction data from currency exchanges on taxpayers who have bought and sold cryptocurrency,” the ATO spokesman said.
+“Using this data we’ve found that due to the complex nature of cryptocurrencies, some people may not be aware that there may be tax obligations, so our campaign is designed to help raise awareness and give people the opportunity to fix any mistakes.
+“You can read more about your obligations in respect to cryptocurrency on our website or if you use a tax agent, you can discuss your obligations with them.”
+The spokesman said taxpayers who sold cryptocurrency during the 2017/18 financial year may be contacted by the tax office asking them to review their return and ensure they have reported the correct capital gains amounts on their return.
+Those who correct their return will not receive any penalties, but those who fail to fix it could be audited.
+“For other taxpayers where we can see they hold cryptocurrency, but may not have sold or traded any during the (financial) year, we will be writing to them to remind them of their tax obligations and the records they should be keep,” the spokesman said.
+“Over the next two months we expect to contact as many as 350,000 individuals who have traded in cryptocurrency in the last few years.
+If you’ve failed to report your crypto earnings, you could be in the ATO’s firing line. Picture: Karen Bleier/AFPSource:AFP
+Mark Chapman, H & R Block’s director of tax communications, told news.com.au the ATO had been looking into discrepancies between people’s tax returns and their income from cryptocurrency “in the background” for months after announcing the crackdown last year.
+“We’ve had a handful of people coming into our offices (after receiving an email) but it’s difficult to gauge how many of them have actually been sent,” Mr Chapman said.
+“But the ATO estimates up to a million people have had some dealings with cryptocurrency buying and selling, so it would be a substantial number of emails received in the past week or so.
+“The most common reason people have received one is because they have dabbled in this thing and not realised the tax implications – potentially they’ve done their tax return themselves and not included any profits they may have made, or they may not have told their tax agent.”
+But Mr Chapman said others may have knowingly failed to report their crypto dealings.
+“You do also get people who may well have known the tax implications, but assumed the ATO would never find out because it is all done online and it is not in Aussie dollars – it is very much a virtual transaction, so some people out there have assumed the ATO couldn’t follow the money, which is obviously not correct. The ATO gets information directly from these cryptocurrency exchanges,” he said.
+“If you are buying or selling shares, you probably know there’s the potential to have to pay capital gains, and it’s the exact same situation with bitcoin or other cryptocurrencies – so if you are buying or selling them and you’re not sure of the tax implications, speak to a tax agent and don’t ever assume you can do this sort of thing and avoid scrutiny.
+He said if you do receive an ATO letter or email, one of two scenarios could play out.
+“It may well be that the individual genuinely doesn’t have any tax obligations and the ATO simply made a mistake, but if you get an email and it rings a bell that ‘Yep, I may have done something in the crypto world this year or last year or the year before,’ you probably need to go back and change your return,” he said.
+“The ATO is giving you the chance to fix it, but if you choose not to, what normally happens is you will go through the formal audit process. If you’ve done the wrong thing, you will have to pay the tax you should have the first time which can be pretty expensive and there might also be some interest on top of that, so the financial downsides of not doing this right are considerable.”
+Mr Chapman said those who intentionally failed to declare their crypto income were ripping off fellow Aussies.
+“People who are investing in other assets will have the exact same tax obligations so it’s really not fair on taxpayers if some people are making potentially quite big profits dabbling in cryptocurrency and not paying the tax that is due,” he said.
+“If you sell property or shares you have to pay capital gains tax, so why should it be different for crypto investors who are in exactly the same situation?”
+The emails come hot on the heels of similar letters sent by the ATO last October as part of a clampdown on the sharing economy.
+That month, the ATO announced it would carefully double check the details of Australians who earn an income from short-term rental platforms such as Airbnb against the income declared on their tax returns.
+Those who made the mistake of failing to report that income received a stern warning letter a part of the ATO’s effort to make sure every Australian was reporting their correct income — and paying their fair share.

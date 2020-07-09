@@ -1,0 +1,21 @@
+With DeFi applications rapidly growing in recent months, there's been an influx of tokenized Bitcoin on the Ethereum blockchain.
+Tokenized Bitcoins are ERC-20 tokens  that represent the cryptocurrency on the Ethereum blockchain (Image: Shutterstock)
+The total value of tokenized Bitcoin on Ethereum has exceeded $100 million.
+The amount of WBTC tokens increased more than sixfold over the past month.
+Launched in mid-May, renBTC has already taken second place among tokenized Bitcoin projects.
+The total amount and value of tokenized Bitcoin on the Ethereum blockchain has sharply increased since mid-May, with over $101 million worth of BTC now held in tokens such as Wrapped Bitcoin (WBTC), renBTC, HBTC, imBTC, sBTC and others.
+There is now over $101 million worth of tokenized Bitcoin on Ethereum (Image: BTC on Ethereum)
+WBTC and similar tokens represent Bitcoin on the Ethereum blockchain. One tokenized BTC equals one “regular” BTC; Bitcoin can be converted into these tokens, and vice-versa.
+To achieve this, users lock up their BTC on the Bitcoin blockchain using specialized custodian services or smart contracts. After that, the corresponding amount of tokenized BTC is created on Ethereum, which can then be used on its blockchain.
+WBTC, being the most popular tokenized Bitcoin by far, accounts for the lion’s share of this niche—there are currently around 8,200 BTC converted into Ethereum tokens, worth roughly $74.9 million, according to DeFi Pulse. Notably, the amount of Bitcoin locked as WBTC has surged sharply over the past month and a half.
+As Decrypt reported on May 11, the amount and value of WBTC tokens locked in Ethereum saw a new all-time high—at the time, at least—reached around 1,300 tokenized Bitcoin —or $11.4 million in total. Since then, the number of WBTC has grown more than sixfold to hit 8,200.
+The amount of WBTC locked on Ethereum surged from 1,300 to 8,200 tokens over the past month (Image: DeFi Pulse)
+RenBTC, another tokenized Bitcoin that was launched in mid-May, is currently in second place, with just over 1,000 tokens on Ethereum right now (worth around $9.9 million according to Etherscan ).
+Launched in mid-May, renBTC already took the second place by its value and amount. Image: Etherscan
+The third, fourth and fifth places are occupied by HBTC, imBTC and sBTC, accounting for 710 ($6.45 million), 608 ($5.53 million) and 512 ($4.65 million) tokenized Bitcoin, respectively.
+Other tokens amount to nearly $350,000 worth of Bitcoin or less.
+DeFi driving tokenized Bitcoin adoption?
+One of the main reasons for the surge in tokenized BTC is likely down to the growth of decentralized finance ( DeFi ) applications.
+DeFi has come into the spotlight in recent weeks, after lending platform Compound ’s COMP token became the largest DeFi token by market capitalization in just one day in mid-June, increasing its price by 62%.
+Since Bitcoin doesn’t have the DeFi infrastructure that allows Ethereum token holders to lend their assets and receive passive yields, it appears that Bitcoin holders are turning to wrapped BTC tokens in order to use their assets in the rapidly growing DeFi market.
+Get the best of Decrypt where you want it most.

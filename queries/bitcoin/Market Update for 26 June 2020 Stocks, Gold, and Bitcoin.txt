@@ -1,0 +1,32 @@
+In this article, we look at the latest news affecting stocks (mostly focused on the U.S. market), commodities (mainly gold), and cryptoassets (primarily Bitcoin).
+The price information you'll see in this article was taken around 09:30 UTC on 26 June 2020. The data providers used for pre-market trading data are as follows:
+On a global level, of course, what is worrying investors the most is the recent resurgence of COVID-19 cases in United States, China, India, and parts of Europe. And unfortunately, until there is a safe and reliable COVID-19 vaccine, it is hard to see an end to the "whack-a-mole" strategy used by governments for controlling COVID-19 outbreaks.
+For example, in the case of the United States, the number of COVID-19 cases seem to be rising in at least 26 states, with the three most populous states -- California, Texas, and Florida, among the hardest hit.
+According to a report by Reuters, the number of COVID-19 cases across the U.S. went up by over 39,818 on Thursday, which makes it the largest one-day increase since the COVID-19 pandemic reached the country.
+Yesterday, Apple Inc. said that would re-close 14 of its stores in Florida "following an earlier round of re-closures in Texas, Florida, Arizona, North Carolina and South Carolina."
+Another prominent U.S. company impacted by the second wave of COVID-19 or the continuation of the first wave depending on whom you ask is Walt Disney Co, which has been forced to delay the re-opening of its theme parks and resorts in California until it gets the go-ahead from that state's health officials.
+However, in the case of the U.S., there is now a new thing for investors to be concerned about.
+"The banking system has been a source of strength during this crisis, and the results of our sensitivity analyses show that our banks can remain strong in the face of even the harshest shocks."
+The purpose of the Fed's sensitivity analysis was "to assess the resiliency of large banks under three hypothetical recessions, or downside scenarios, which could result from the coronavirus event." These scenarios "included a V-shaped recession and recovery; a slower, U-shaped recession and recovery; and a W-shaped, double-dip recession."
+Here were the results of the sensitivity analysis:
+"In aggregate, loan losses for the 34 banks ranged from $560 billion to $700 billion in the sensitivity analysis and aggregate capital ratios declined from 12.0 percent in the fourth quarter of 2019 to between 9.5 percent and 7.7 percent under the hypothetical downside scenarios.
+"Under the U- and W-shaped scenarios, most firms remain well capitalized but several would approach minimum capital levels. The sensitivity analysis does not incorporate the potential effects of government stimulus payments and expanded unemployment insurance."
+Therefore, the Fed decided to take three actions to ensure resiliency of the banks:
+For Q3 2020 large banks need to "preserve capital by suspending share repurchases, capping dividend payments, and allowing dividends according to a formula based on recent income" as well as "re-evaluate their longer-term capital plans."
+During Q3 2020, banks will not be allowed to buy back their  own shares.
+For Q3 2020, dividend payments by the banks will be limited to what they paid in Q2 and these payments must be based on reported earnings.
+As for the major U.S. stock indices, in pre-market trading, Dow futures are down 69.00 (-0.27%), S&P futures are unchanged, and Nasdaq futures are up 11.75 (+0.12%).
+Spot gold is currently trading at $1,763.19, down $1.45 (or -0.08%).
+On Wednesday (June 24), Dan Oliver, founder of Myrmikan Capital, said during an interview with David Lin of Kitco News that he expected significant upside for gold due to the amount of quantitative easing by the Fed, and offered this startling price target:
+"The Fed, as you know, has been on a massive purchasing spree because of the virus situation, and so therefore the equilibrium price of gold is going up commensurately, and so the numbers now to balance that balance sheet are enormously high...
+"My [forecast for gold prices] has changed. I’m at $10,000 now."
+Oliver is worried about not just the size of the Fed's balance sheet but the health of the assets on its balance sheet:
+"When you project a crash in the value of the other asserts of the Fed, i.e. the mortgage bonds that they own, the Treasury bonds that the own, all these new funky commercial debt that they’re buying, some of it sub-investment grade, when those things crash the Fed will find its assets completely stripped of value…and that will have a big impact on the dollar."
+Bitcoin is trading at $9,198, down 0.76% in the past 24-hour period:
+Around 08:04 UTC on June 26, crypto derivatives exchange Deribit reported that BTC options with a total notional value of around $675 million had just expired; this represented 74K BTC out of the 138K BTC total open interest in BTC options:
+— Deribit (@DeribitExchange) June 26, 2020
+Yesterday, Nicholas Pelecanos , Head of Trading at NEM Ventures told Decrypt that he did not expect today's expiration of Bitcoin options contracts to affect the Bitcoin price in a significant way:
+“I don't expect that the expiration will have a massive impact on the BTC price. The open interest is largest on calls around $10k and puts below $9K."
+A short time ago, Mike McGlone, Senior Commodity Strategist at Bloomberg Intelligence, Bloomberg's research arm on the Bloomberg Terminal, offered his latest price analysis for Bitcoin:
+#Bitcoin a Caged Bull Set for Breakout, Eying $13,000 Resistance --
+The more disdain from bulls should be for the better, keeping the price tilted upward for the consolidating crypto. Declining Bitcoin volatility reflects maturation toward a digital version of gold. pic.twitter.com/2CqGEx95JS

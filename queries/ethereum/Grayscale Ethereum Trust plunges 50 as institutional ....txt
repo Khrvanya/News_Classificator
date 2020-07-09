@@ -1,0 +1,23 @@
+Nick Chong · June 24, 2020 at 8:00 pm UTC · 3 min read
+In May and early in June, the second flagship fund of Grayscale Investments, the Ethereum Trust, saw a surge in demand.
+Shares of the trust (ETHE) traded on OTC markets reached an extremely high value as retail investors piled in. At one point, buyers of the trust were buying exposure to ETH at an implied market capitalization of $230 billion — more than that of BTC.
+“This means $ETHE investors are buying $ETH at an implied ~$230B market cap, a 725% premium,” an analyst said in regards to the premium.
+Yet at long last, the premium has begun to unwind. Here’s why.
+Grayscale Investments is a cryptocurrency fund manager best known for its Bitcoin Trust (GBTC) and Ethereum Trust.
+One can obtain shares of the Ethereum Trust in two primary ways:
+Accredited ( institutional ) investors can buy shares of the trust in private placements at market prices. As each ETHE share represents ~0.094 ETH, these investors can buy each share for the market price of 0.094 ETH.
+Any investor, whether accredited or not, can buy the shares on the secondary OTC market.
+The stipulation with the first method is that investors are subject to lock-up the ETHE they purchase for one year.
+This lock-up period entices the creation of a premium in the secondary-market price of ETHE. That’s the 725 percent premium mentioned earlier.
+As observed by Joseph Todaro , ETHE has collapsed nearly 50 percent from the highs of Jun. 4, resulting in a 350 percent premium over the spot Ethereum price.
+According to a data analyst in the space, the crash in the shares of Grayscale Ethereum Trust coincides with the end of a lock-up period for the “first big tranche” of ETHE shares.
+That’s to say, accredited investors likely liquidated the ETHE shares just unlocked to capture the premium over the spot price of Ethereum.
+According to Avi Felman, a trader at BlockTower Capital , ETHE’s recent price action to the downside may be driving Ethereum higher, as paradoxical as that sounds.
+He explained that the way in which the ETHE market is structured creates a scenario in which borrowers are short on ETH despite not adding supply to the market.
+This creates a dynamic where Ethereum gets a “sustained bid” while ETHE is pressured lower with time.
+Some have attributed ETHE’s recent collapse as the reason why Ethereum is approaching its high of $250 while Bitcoin stalls in the mid-$9,000s.
+The immediate appeal of investing in Grayscale’s Ethereum Trust has diminished with the collapse of the premium. Yet the company is doing just fine.
+Digital Currency Group chief executive Barry Silbert announced on Jun. 23: “Record fundraising day today for Grayscale Investments.” This comment was made a day after the firm’s asset under management metric ticked over $4 billion.
+Grayscale net assets under management data (Jun. 22)
+It can be postulated that investors who cashed out on their unlocked ETHE have redeposited the capital into the product.
+The premise of this investment is to capture the premium should the shares of the trust trade much higher than spot Ethereum in the months ahead.

@@ -1,0 +1,19 @@
+How are stock indices calculated?
+It is important for a stock market to be transparent. Transparent in what stocks are included in the index and how the index is calculated. Transparent indices are easier for ETF’s to track because they help ETF managers allocate the right weights to the different stocks in the ETF.
+There are many ways to calculate the value of a stock index, but the most popular methods are:
+The Market Capitalization Weighted Method whereby the stocks in the index are weighted using the market capitalization of the individual companies. The largest company in the index by market cap will generally lead to the most movement in the index. The S&P 500 is an example of a market capitalization weighted index.
+The Price Weighted Method whereby the stocks in the index are weighted by the price of the stock. This can lead to companies with smaller market capitalizations but higher stock prices having a bigger effect on the overall index. The DJIA is an index weighted using the price-weighted method.
+The Equal Weighted Method whereby the return of each stock in the index is calculated and then summed and divided by the amount of stocks in the index.
+The Fundamental Weighted Method whereby the index is constructed using fundamental aspects like price to earnings ratios, earnings, book values and others.
+Most indices are calculated using the market capitalization weighted method.
+An index moves as its constituents move whether they be market caps, fundamentals, or just the prices of the stocks. The method used to calculate the index can also lead to different results.
+Indices rates are influenced by a few things, mainly:
+The index constituents. The companies that make up an index will affect its price. The largest contributors to the index should be always be monitored as they will move the index the most.
+Economic Data. If, for example, the index is based mostly on US stocks like the S&P 500 then economic data on the US economy will most likely affect the price of the index. The data that investors will look at include inflation, unemployment, inventory levels and treasury yields. amongst others. All this economic data can be found on our Economic Calendar .
+Politics. Trade wars and regulation can have adverse effects on indices. Generally, indices will benefit from talk of free trade, talk of de-regulation and lower taxes.
+Trading indices is like trading other financial assets. Traders will try to predict if the index will go up or down and then either buy or sell the index. The reasons for entering the trade are of utmost importance and keeping up to date on market events is crucial.
+To stay ahead of the market, see our Equities Forecast where experts analyze some of the major indices like the S&P 500, DAX, and the FTSE 100.
+Before entering a trade, decide on a risk-reward ratio. At DailyFX we recommend using a positive risk-reward ratio, see our Traits of Successful Traders guide for more information on this.
+Keep an eye on economic data to be released. Economic data can have an impact on spreads and volatility and traders should avoid trading before high-impact economic data releases. See our economic calendar for the dates and times of important data releases.
+Traders should always update their knowledge and skills. DailyFX experts host webinars that cover trading strategies and tips, see our webinar calendar to learn more.
+Indices can be traded using futures or the underlying cash index. Futures trade almost 24/5 while the underlying cash indices trade on different times depending on the broker. The table below shows the main market trading hours of the popular cash indices market provided by IG. The indices do trade outside the main market hours but with an increased spread due to the lack of liquidity.

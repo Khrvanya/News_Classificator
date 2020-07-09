@@ -1,0 +1,12 @@
+Bitcoin Accounts for 98% of Crypto-Denominated Ransomware Payments, Study
+Bitcoin continues to account for the lion’s share of crypto-denominated ransomware payments — 98% as compared with just 2% for privacy coins like dash and monero.
+Bitcoin ( BTC ) continues to account for the lion’s share of crypto-denominated ransomware payments, according to Coveware’s Q1 2019 Global Ransomware Marketplace report, published on April 15.
+The report — reportedly based upon aggregated ransomware data from cases tackled by Coveware’s Incident Response Team — indicates that in Q1 2019 the ransomware landscape saw a sharp increase in the average ransom demanded by threat actors.
+The average sum — demanded in exchange for the ostensible delivery of a decryptor tool that can help victims recover data after a ransomware attack — rose 89% from a median $6,733 in Q4 2018 to $12,762 in Q1 2019, the report states.
+Of these ransoms that were paid in cryptocurrency, 98% were payable in bitcoin. The report outlines that in Q1 2019:
+“[H]andling cryptocurrency continued to be a major source of friction for victims, and thus the threat actors as well. It is unlikely that ransomware rotates towards a different cryptocurrency anytime soon as they are even more nuanced to procure and handle.”
+Privacy coins are thus used for only 2% of ransomware payments, according to Coveware’s data, and are largely used later in the process, once the payment has been received and threat actors subsequently attempt to obfuscate the transfer of their ill-gotten funds.
+GandCrab — a strain of ransomware that accounts for 20% of the market, according to Coveware’s data — was the only prevalent strain where threat actors accept payment in either dash or bitcoin.
+Moreover, the report notes, GandCrab victims who pay with bitcoin face a 10% additional fee due to the costs incurred by the threat actors’ use of mixing services to anonymize the cryptocurrency after payment.
+As reported earlier this week, digital payments giant PayPal recently won a cybersecurity patent to protect users from crypto ransomware .
+In March, Big Four auditor PwC linked Iranian nationals behind the bitcoin ransomware scheme SamSam — which reportedly damaged multiple American companies, government agencies, universities, and hospitals —  to the crypto exchange WEX.

@@ -1,0 +1,24 @@
+What’s the difference between trading cryptocurrency and stocks?
+One of the most debated topics in the crypto space is the underlying value of cryptocurrencies.
+Unlike stocks, most cryptocurrencies do not give any legal entitlements to holders.
+Therefore, crypto-asset trading is mostly unregulated opposed to common stock trading on the majority of stock exchanges.
+So what are the key differences between trading stocks and cryptocurrencies?
+The main points I will discuss here are:
+One of the main differences between traditional stocks and cryptocurrencies is ownership.
+Even though a unit of stock grants its owner a piece of a company, cryptocurrency usually does not. I’ll discuss legal rights in depth in the next section.
+For now, what matters is ownership. Remember the famous Andreas Antonopolous quote, “not your keys, not your coins”?
+Well, that’s exactly my point. Cryptocurrencies are much easier to own than stock. Even though most investors and traders do purchase a derivative of stock, the stock itself is not with the user.
+This means to properly own stock, you cannot just purchase the asset on an exchange. You must make sure you get the actual paper-stock.
+With cryptocurrencies, the process is usually much easier. First, there are plenty of ways to trade crypto-assets peer-to-peer (P2P). Decentralised and non-custodial exchanges are becoming more common by the day.
+Second, in less than 10 minutes, we’re able to transfer assets from exchanges to private wallets. The process is much faster and simpler with cryptocurrencies than with stock.
+Exceptions are STOs, or Security Token Offerings, which grant the owner an equity share of a company. However, I’m ignoring those for the purpose of the article as they represent a very small share of the overall cryptocurrency pie.
+As mentioned above, stock usually entitles owners to legal rights, such as dividends (a share of the company profits).
+However, imagine a cryptocurrency like Bitcoin or Ethereum. Ownership is quite easy to have, but that does not entitle users to legal rights.
+Remember the DAO hack? Or the Mt Gox hack?
+Even though people tried to get their funds back, the majority was lost. And there are much fewer legal recourses for cryptocurrency investors and traders.
+The advantage is the insane amount of volatility in the cryptocurrency market, which helps traders get rich (or lose everything) much quicker.
+To conclude, I would like to draw attention to the Howey test. Even though it’s not essentially 100% accurate to use it for cryptocurrencies, it’s still the best we’ve got.
+What the Howey test defines is whether or not an asset will be categorised as a security by financial regulators.
+Put simply, the Howey test asks whether the value of a transaction for one of the participants is dependent upon the other’s work.
+Essentially, if an asset, digital or not, falls into any of the below categories, it will be labeled a security:
+If any of these categories apply to the asset in question, the cryptocurrency will most likely be a security and should be treated as common stock.

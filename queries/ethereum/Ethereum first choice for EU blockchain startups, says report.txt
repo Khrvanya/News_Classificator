@@ -1,0 +1,18 @@
+Ethereum first choice for EU blockchain startups, says report
+A lack of funding in the rapidly growing EU blockchain sector has created many new opportunities for investors, says LeadBlock Partners.
+Ethereum dominates the rapidly growing blockchain industry in Europe. (Image: Shutterstock)
+Nearly one-third of European blockchain startups are using Ethereum for their projects.
+Despite its rapid growth, the EU blockchain industry is still lacking major investments.
+Financial services are the go-to sector for the majority of EU startups.
+Ethereum is the blockchain of choice for the majority of European startups and corporations involved in the rapidly growing blockchain industry—yet the region is severely lagging behind the US in terms of funding, according to the latest report by LeadBlock Partners , a London and Paris based venture capital fund.
+“Blockchain protocols now have three dominant players with Ethereum, Hyperledger, and Corda accounting for [around] 65% of the protocols used by enterprise blockchain start-ups,”  the report noted. “These protocols are also favored by corporates which are increasingly bringing blockchain into production.”
+Around 63% of EU blockchain startups use Ethereum, Hyperledger or Corda. (Image: LeadBlock Partners)
+According to LeadBlock Partners’ data, 27% of EU enterprise blockchain startups and corporations that have decentralized solutions in the works are using Ethereum for their projects. In their turn, both Hyperledger and Corda attracted around 20% and 16% of developers each.
+Almost one-third—28% of 200 startups surveyed by LeadBlock—are working in the financial services sector. Healthcare, energy and food/agriculture accounted for 11%, 10% and 7% of EU blockchain firms, respectively.
+Nearly one-third of EU blockchain startups work in the field of financial services. (Image: LeadBlock Partners)
+The researchers also highlighted a big gap between the amount of funds being invested in blockchain startups in the US and Europe. Their data showed that currently there is less than €100 million ($113 million) in assets managed by EU venture capital blockchain funds. In comparison, this figure exceeds $2 billion in the US.
+Combined, 200 firms surveyed by LeadBlock need an additional €350 million ($395 million) of investments for the next 18 months. One of the reasons for such disparity is investors’ unfamiliarity with blockchain technologies, the report explained.
+“The knowledge gap is also apparent as many investors do not differentiate between Blockchain from cryptocurrencies and its associated negative perceptions,”  the researchers noted, adding that as investors continue to learn about blockchain, an increase in investments will follow.
+According to LeadBlock, the EU startup ecosystem is mainly composed of early-stage startups at the pre-seed to series A stages. Of the start-ups surveyed, 60% are generating revenues; a third of them are generating revenues of €250,000 or more.
+To take advantage of the opportunities that the blockchain industry currently presents, LeadBlock urged entrepreneurs, incubators, corporations and others “to embrace blockchain and launch projects.” Similarly, strategic and financial investors as well as entrepreneurs, corporates, governments and regulators should consider launching investment and education projects in this “uncrowded market,” the report concluded.
+Get the best of Decrypt where you want it most.

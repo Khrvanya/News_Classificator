@@ -1,0 +1,12 @@
+CEO Arthur Hayes appeared to describe the altcoin as a “turd” hours before traders saw the XRP price flash crash by more than half.
+The crash, which occurred at 14.00 UTC on Feb. 13, saw XRP/USD fall 60% from $0.33 to just $0.13 — for two seconds.
+In that time, traders complain, measures designed to prevent liquidations of positions failed to activate, and BitMEX automatically erased their entire balances.
+BitMEX is well known for offering trades with significant leverage. In the case of XRP, traders are able to leverage by up to 50 times.
+Following the event, the company issued a statement defending its reaction, saying its platform was functioning as normal.
+“We understand traders' frustration when prices move quickly against their positions,” a tweet read.
+At press time, XRP/USD was back at $0.33, a seven-month high, having instantly rebounded after the sudden dip. Nonetheless, those affected had anything but recovered.
+“Not getting back a penny. Outright criminal,” startup investor Marc de Koning wrote on Twitter.
+“This ONLY occurred on Bitmex, nowhere else. All in a matter of seconds. No liquidity to back up the move.”
+BitMEX launched a new XRP product earlier this month. At the time, CEO Arthur Hayes appeared to joke about the coin’s legitimacy.
+Hours before the flash crash, he issued another post about XRP price growth, which has topped 25% in the past few days alone. Hayes tweeted :
+BitMEX’s insurance fund, which the company says is “not intended for use” in situations such as the XRP event, currently stands at 34,328 BTC ($352.2 million).

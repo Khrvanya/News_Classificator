@@ -1,0 +1,24 @@
+The crypto market has just experienced one of the most violent crashes in recent years.
+As a result of the panic surrounding the coronavirus, the price of Bitcoin has dropped by over USD 1,700 within an hour.
+March 2020 will probably go down in history as the “bloodiest March” ever. After Bitcoin had traded more than 10,000 USD in the last week of February, the BTC price had collapsed to 5,980 USD at the time of writing. Between 11 and 12 a.m. (UTC) the BTC price fell from over 7,300 USD to below 5,600 USD.
+Admittedly, the crash did not come as a surprise after the prevailing mood on the crypto market was strongly depressed by the negative headlines about the spread of the coronavirus, similar to the global stock market. Nevertheless, the severity of today’s crash may have surprised almost all experts and analysts, as Mati Greenspan, founder of Quantum Economics and former eToro expert, also noted. Greenspan announced via Twitter that he had traded all his altcoins against Bitcoin due to the uncertainty on the market caused by the coronavirus.
+In lieu of the #coronavirus uncertainty, I've moved my entire portfolio @eToro to $BTC until further notice. https://t.co/GNNTCIrm7P pic.twitter.com/bRzyCMCw38
+— Mati Greenspan (tweets are not trading advice) (@MatiGreenspan) March 11, 2020
+Vitalik Buterin, the inventor and co-founder of the Ethereum Foundation, said a few days ago that the impact of the coronavirus on the cryptocurrency market is greatly overestimated. When asked which cryptocurrencies are best in times of crisis, Buterin said that he “does not believe that the crypto markets are interested in the coronavirus”.
+The price doesn’t go down $2,000 because normal people take the risk. The whales pick the easiest times to move through a smooth order book and bring retail on board. Maximum pain.
+Despite all the panic and noise surrounding the coronavirus, it should not be forgotten that the PlusToken scammers became active a few days ago. Last Saturday, it became known that PlusToken’s masterminds sent a total of 13,000 Bitcoin (BTC) to a mixer in several transactions. As Chainalysis noted in a December study , the last major transactions by the fraudsters are believed to have caused the USD 13,000 Bitcoin crash in June 2019.
+Bitcoin exchanges at their limits: Liquidations and technical problems
+Messari CEO Ryan Selkis simply said : “This is crazy! “Holy liquidation.” On the derivative exchange BitMEX alone, over $636 million of Bitcoin Longs have been liquidated in the last few hours, the second highest level in the last year. On OKEx, there were even 716 million USD in Bitcoin Longs liquidated.
+— skew (@skewdotcom) March 12, 2020
+The CEO of Binance, Changpeng Zhao, also spoke of a “bloodbath”. As a result of the high number of traders who became active, the exchange experienced some delays on the spot exchange as well as on the Binance futures platform, which suffered from over 500 errors. Overall, according to Zhao, the system load on Binance increased fivefold compared to the previous peak.
+🔶spot depth push experienced some delays, fixed
+🔶futures UI 500 errors for a few minutes, fixed
+🔶some futures ADL and margin calls, no cyclic crashes.
+Overall 5x system load than all previous peaks. Holding up so far, monitoring all systems.
+— CZ Binance 🔶🔶🔶 (@cz_binance) March 12, 2020
+Bitcoin price at the abyss?
+Another crypto expert on Twitter, “The Moon”, wrote that despite the crash, the fundamentals remain strong and untouched. In his opinion, it is wrong to sell Bitcoin now . He stated:
+If you sell now, two months before the $BTC halves, you need to do more research on Bitcoin!
+Charlie Morris, CEO of the crypto company ByteTree, pointed out that now could be the “least risky” time to buy Bitcoin. Referring to his company’s statistics on the “fair value” of Bitcoin, which is the ratio of transactions to transaction value, he explained :
+With weekly spending of 18 billion dollars, the network is thriving. As for the valuation, it is back to fair value. This is the “least risky” time to buy Bitcoin! It doesn’t get much better than that.
+Follow us on Facebook and Twitter and don’t miss any hot news anymore! Do you like our price indices ?

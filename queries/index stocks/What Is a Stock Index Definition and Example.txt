@@ -1,0 +1,33 @@
+What Is a Stock Index? Definition and Example
+Stock indexes are an aggregated measurement of the underlying stocks that comprise the index.
+A stock index is an indicator based on a hypothetical portfolio of stocks. Indexes can track the broad stock market or a particular market sector.
+What Is a Stock Index?
+A stock market index is a benchmark for the stock market as a whole or for a segment of the market. Common U.S. stock market indexes include the S&P 500, the NASDAQ, the Dow Jones Industrial Average and the Russell 2000 among others.
+Stock indexes can serve as benchmarks for investors measuring the performance of their own investment portfolio. An index like the S&P 500 is a common benchmark against which the performance of professional investment managers is judged.
+How Does a Stock Index Work?
+Stock indexes are an aggregated measurement of the underlying stocks that comprise the index. Various indexes work in various ways.
+For example, the widely followed S&P 500 index is an index of the 500 largest U.S. stocks. A committee selects the 500 stocks that are represented in the index, the stocks must meet certain criteria set by Standard and Poor's, the index provider. These include liquidity, the company's size and its industry group.
+There are literally several thousand stock indexes covering the U.S. market. Here a few examples of stock indexes.
+The S&P 500 is a widely followed index of large-cap U.S. stocks. It follows the 500 largest U.S. stocks and is often used as a benchmark for investment managers as well as for many mutual funds and ETFs . The S&P 500 is market cap weighted, meaning that large components of the index can have a disproportionate impact on its performance.
+At the time of this writing, the top 10 holdings of the index were:
+*Alphabet is the parent of Google.
+The Dow Jones Industrial Average is a widely followed index of 30 very large industrial stocks. The definition of industrial has evolved over the years. Previously the index almost exclusively consisted of companies that most of us would easily consider as industrials. These companies included business sectors like manufacturers of steel, autos and other types of heavy industry.
+Over the years, the composition of the index has evolved with the economy. Today major firms like Apple, McDonald's ( MCD ) - Get Report and UnitedHealth Group ( UNH ) - Get Report are all index components.
+The index is price weighted, but the calculation of the level of the index is complex at best.
+The Dow as it is often referred to, is widely followed but is not really an indicator of the broad stock market as are some other benchmarks.
+The NASDAQ Composite Index is a market cap weighted index of the more than 3,300 stocks that are traded on the NASDAQ exchange. Stocks traded on the NASDAQ include some shares in non-U.S. companies. The NASDAQ index is very tech-heavy with over 46% of the index value in technology stocks.
+The Russell 2000 index is comprised of the smallest 2,000 U.S. stocks by market capitalization. These are the 2,000 smallest stocks of the Russell 3000 index. The Russell 2000 is often used as a benchmark for small cap stock performance by mutual funds and ETFs in that space.
+The Wilshire 5000 Index is a total market index. It is comprised of 5,000 U.S. stocks, these stocks run the gamut from large cap, to mid-cap to small cap . The index is market-cap weighted, meaning that larger stocks will have a larger influence on the movement of the index.
+How Is a Stock Index Calculated?
+Various stock market indexes are calculated using a variety of methods. Three common types of index calculations are:
+Market cap weighted. The S&P 500 is an example of a market cap weighted index. The stocks held in the index are weighted by their market capitalization. This means that the largest components of the index can have a disproportionate impact on the movement of the index, up or down. As mentioned above, the top ten holdings in the index comprised about 22% of the index at the time of this writing.
+Price weighted. The Dow Jones Industrial Average is an example of a price weighted index. Stocks with higher share prices have a larger weight within the index.
+Equal-weight. In recent years some equal-weighted indexes have come onto the scene. In an equal-weighted index all of the stocks in the index are weighted equally, regardless of the stock's market cap or relative price. For example, the S&P 500 Equal Weight Index is comprised of the same 500 stocks at the S&P 500 Index. However, in the equal-weight version each stock comprises the same 2% of the index regardless of its market capitalization.
+In reality, investors cannot invest directly into an index. There are many index mutual funds and ETFs that track a multitude of indexes. Some of these indexes are widely followed benchmarks like the Russell 2000 and the S&P 500. Some funds and ETFs track proprietary indexes that in some cases are designed around the fund.
+Some of the advantages of buying an index fund include:
+There is no risk that an active manager's strategy will yield sub-par results because their strategy is out of favor with the current market direction.
+Index funds generally carry a lower cost than actively managed funds. This is due to the lower costs of passive management versus those of active management.
+Some disadvantages of buying an index fund include:
+In a fund that tracks a market cap weighted index, a drop in several of the largest holdings can result in a steep decline in the value of the fund.
+Index funds are average, in other words the fund will track the index and that's it. A top active manager offers the opportunity to outperform the market.
+It's never too late - or too early - to plan and invest for the retirement you deserve. Get more information and a free trial subscription to TheStreet's Retirement Daily to learn more about saving for and living in retirement. Got questions about money, retirement and/or investments? Email Robert.Powell@TheStreet.com .

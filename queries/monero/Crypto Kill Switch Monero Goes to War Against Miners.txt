@@ -1,0 +1,30 @@
+Please consider using a different web browser for better experience.
+Please enable JavaScript in your browser for a better site experience.
+Developers are preparing to go to lengths to keep one of the world’s largest cryptocurrencies free from the encroaching interests of big business.
+While a high-speed hardware known as an ASIC has been used to secure bitcoin transactions for years , mining hardware manufacturer Bitmain recently announced a new model, the Antminer X3, that has been purpose-built for mining the privacy-oriented cryptocurrency monero.
+Yet rather than greeting the hardware as a welcome sign of increased interest, monero will go so far as to enact an emergency software upgrade in April meant specifically to change the rules of the system so as to block the effort entirely.
+Largely referred to as monero’s first move in a “war” against ASICs, the upcoming software upgrade will render the Antminer X3 ineffective. Not only that but to keep hardware manufacturers from catching up, these algorithm edits are planned to continue with bi-annual networks upgrades.
+Stepping back, the move is a defense of the mining made possible by monero’s current algorithm, Cryptonight, which can successfully mine monero on consumer-grade laptops. Faced with competition by highly efficient ASICs, the fear is affordable laptop mining would be silenced.
+And that’s not a development developers are taking lightly.
+Currently issued by a sole supplier, Bitmain, concerns exist that the Antminer X3 could lead to certain kinds of attacks, namely ones in which a mining pool takes over the majority of a cryptocurrency’s hashrate, creating false transaction histories, double spending coins and censoring payments.
+And while there’s debate that highly efficient ASICs are, by and large, good for security, many in the monero community are standing in opposition.
+“If you’re worried about an attack from, say, someone using lots of Amazon servers to 51 percent the coin, then forking away from ASICs is a bad move,” core developer “moneromooo” told CoinDesk.
+”If you’re worried about an attack from someone like Bitmain, then not forking away from ASICs means you’re already pwned, since Bitmain will likely have 51 percent very, very soon.”
+Last year, concerns were raised that Bitmain was secretly exploiting a weakness in bitcoin’s proof-of-work algorithm, through a process called ASICBoost , which supposedly enabled its three mining pools to mine roughly 20 percent faster than competitors. Not long after this controversy came the discovery of a mining chip vulnerability called Antbleed , which some believed Bitmain had implanted purposefully so it could forcibly shut down any of its miners at will.
+Then, late last year, Bitmain produced an ASIC that was capable of mining siacoin, a small cryptocurrency, in a move that was widely regarded as a takeover.
+All these things allowed Spagni to defend his cryptocurrency’s ASIC-resistance on Twitter , writing, “Their actions with the bitcoin community and more recently the sia community are clearly those of a bad actor.”
+But even without the concerns about Wu and Bitmain, enabling ASICs to be used to mine monero could potentially pose a bigger risk, since censorship-resistance is so key to its success, monero core developer “binaryFate” explained.
+“Maybe even more so than for other cryptocurrencies, decentralization is key to monero for ensuring censorship resistance,” binaryFate said.
+For instance, censorship would destroy a key promise of the private cryptocurrency – fungibility, or the ability to use one coin just as any other.
+In an announcement , the monero team extrapolated on the risks of ASIC centralization, writing that until ASIC hardware is widespread, it is of high-security risk, including the potential of government bribery or even the introduction of a “kill switch” that could shut down miners remotely.
+As such, monero will continue to fight against the hardware.
+“I believe this has set a precedent that we are serious about ASIC resistance, can react quickly if we are forced to and do not mind manufacturers losing money,” binaryFate said. “In the foreseeable future, I doubt any ASIC manufacturer will want to give a try at monero again.”
+However, the move has shown to be divisive as well, primarily because monero’s proof-of-work algorithm is not without its critics. While it’s key to the cryptocurrency’s accessibility, others feel that the low barrier to entry lowers the cost of attack.
+For one, a javascript implementation of the protocol, named Coinhive, was labelled the sixth most popular malware worldwide in a study by cybersecurity firm Check Point last November . Further, in February this year , the algorithm enacted botnet attacks to the scale of over half a million mining machines.
+“In which a small-cap cryptocurrency desperately tries to destroy their security by fighting actively against economies of scale,” Philip Daian, an ethereum researcher, wrote on Twitter , about the community’s moves to stop ASICs.
+Echoing a similar sentiment, Andrew Poelstra, a mathematician at Blockstream, argued in a 2015 research paper that while anti-ASIC code can delay manufacturers, “ultimately ASIC resistance is futile.”
+Plus, there are concerns that ongoing edits to the underlying algorithm could weaken the code, opening doors to vulnerabilities. Addressing this, developer “iamsmooth” suggested an “ASIC-friendly” approach, that would focus on lowering the cost and accessibility of the hardware.
+In conversation with CoinDesk, even moneromooo agreed, stating that bi-annual edits “is a bit of a shitty method, so hopefully, a better algorithm can be found.”
+But until then, Spagni and many others defend monero’s actions.
+“This is a matter of choosing the lesser of two evils,” Spagni wrote on Github , weighing botnets against ASICs.
+And ultimately, Spagni took to Twitter to say: “It might entirely be less secure, but the community has made the hard call.”

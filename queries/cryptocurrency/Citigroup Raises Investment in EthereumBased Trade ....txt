@@ -1,0 +1,8 @@
+Major investment bank Citigroup announced it has increased its equity stake in Ethereum-based trade finance platform Komgo.
+U.S.-headquartered bank Citi has upped its investment in the Ethereum-based decentralized trade financing startup Komgo.
+Kris van Broekhoven, the global head of commodity trade finance at Citigroup, revealed that the bank has “topped up” its equity in Komgo “to allow the company to continue developing,” while speaking with ConsenSys on March 10.
+Komgo was launched in 2018 in partnership with ConsenSys, and seeks to streamline trade financing in the commodities markets. Komgo’s platform allows equities traders, financial institutions, and trade service providers to communicate across blockchain technology.
+Broekhoven asserted that distributed ledger technologies create opportunities for modernising trade finance, stating: “the industry has been heavily dependent on the exchange and manual processing of paper documents" for over a century.
+"Now blockchain technology serves as a catalyst to disrupt the industry towards the processing of electronic data," he added. Broekhoven also noted that the blockchain startup’s connections and backing from the legacy financial industry was a major factor in Citi’s decision to partner with Komgo. He stated:
+In addition to increasing its equity stake in Komgo, Citi has begun integrating its trade engine with the startup’s blockchain. “Komgo helps to speed up turnaround times, improve data reconciliation, and reduce the risk of fraud and human error,” Broekhoven stated.
+In the past, the startup has secured backing from a number of leading financial institutions, including ING Group, Sumitomo Mitsui Banking Corporation, and Societe Generale.

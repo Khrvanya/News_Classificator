@@ -1,0 +1,12 @@
+What's hot in crypto this week?
+Kyber Network. It's an on-chain exchange that allows instant trading and conversion of cryptocurrencies and tokens with high liquidity. It does so by aggregating liquidity from a wide range of reserves. KNC is an Ethereum token that fuels operations on the decentralized exchange, or "DEX."
+The team recently released updates for its upcoming protocol upgrade, Katalyst, which will allow KNC holders to earn yield by staking their tokens. In layman’s terms, this is similar to earning interest on a fixed income investment like bonds. The new staking model is due for release at the end of Q2.
+Holders of KNC can also earn Ethereum (ETH) for participating in KyberDAO votes.
+How has KNC’s scores changed?
+Our data shows a spike in KNC Fundamental Crypto Asset Score in the past two weeks, up 35-points (4.32%) due to a 70-point climb in User Activity (8.96%).
+What's Flipside's take on all this?
+The key difference between Kyber and other decentralized exchange’s staking mechanisms is that KNC holders will only earn rewards if they vote on network issues on the new KyberDAO (decentralized autonomous organization), which is to launch simultaneously with the Katalyst upgrade.
+John Ng Pangilinan, a managing partner at Signum Capital, which is an investor in Kyber Network, put it this way: “The fact that holding KNC will allow investors to participate in developing the protocol could also be a prominent reason for the rise in addresses with KNC balances.”
+Kyber, being an on-chain liquidity protocol, is also benefiting from the growth in the decentralized finance -- also known as "DeFi "-- space, where there is an increased need to swap assets. New projects to integrate the protocol in March and April including Rarible, Unstoppable Domains, Bullionix, Gelato, and Idle Finance.
+In a similar vein, the high volatility across crypto markets this year led to more transactions on the Kyber Network as traders sought to escape risky ERC-20 tokens for less volatile stablecoins. On March 13, as holders experienced a painful 40% drop, Kyber recorded its highest daily activity with $33.7 million traded over a single 24 hour period.
+The Flipside Crypto Asset Score Tracker provides institutional and sophisticated retail investors the ability to track over 500 cryptocurrencies' fundamentals. FCAS Tracker is currently free to a select group of new users as it continues to develop the product. Visit Flipside here to gain access to Flipside Analytics.

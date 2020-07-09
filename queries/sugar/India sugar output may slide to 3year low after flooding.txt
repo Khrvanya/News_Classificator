@@ -1,0 +1,32 @@
+1 min read . Updated: 05 Nov 2019, 06:11 PM IST Pratik Parija , Bloomberg
+India sugar production may slide to 26.85 million metric tons in the year that began on Oct. 1, down from an earlier estimate of 28.2 million tons
+Sugar stockpiles are seen rising to a record 14.58 million tons in the year ending 30 Sept, the Indian Sugar Mills Association said
+Sugar output in India, one of the world’s biggest producers, may hit a three-year low this season after flooding damaged crops in areas that had earlier escaped droughts.
+Production in the country, which vies with Brazil as the No. 1 grower, may slide to 26.85 million metric tons in the year that began on Oct. 1, down from an earlier estimate of 28.2 million tons, the Indian Sugar Mills Association said in a statement on Tuesday. The country produced a record 33.2 million tons in 2018-19, it said.
+The slide in production could reduce the nation’s sugar stockpiles, which surged to a near record last year, as well as help curb exports and support global prices. Sugar futures have fallen almost 5% in the past year as India boosts exports despite criticism from other producers that the outflow is depressing prices.
+Sugar farmers in India had been hit by adverse weather this year. First, the annual monsoon, which waters more than half the nation’s farmland, arrived later than normal. As rainfall increased, flooding then hurt crops in some areas of Maharashtra and Karnataka, the country’s second and third-biggest producing regions. Meanwhile, precipitation in Uttar Pradesh, the biggest grower, was 9% below normal.
+A separate industry body also estimated that Indian output will drop. Sugar production could slide to between 26 million tons to 26.5 million tons in 2019-20, compared with 33.1 million tons a year earlier, the National Federation of Cooperative Sugar Factories Ltd. said on Monday.
+Sugar stockpiles in India are seen rising to a record 14.58 million tons in the year ending 30 September, the Indian Sugar Mills Association said.
+* Thank you for subscribing to our newsletter.
+Click here to read the Mint ePaperLivemint.com is now on Telegram. Join Livemint channel in your Telegram and stay updated
+You are now subscribed to our newsletters. In case you can’t find any email from our side, please check the spam folder.
+lozad('.lozad', { load: function(el) { el.src = el.dataset.src; el.onload = function() { el.classList.add('fade')}}}).observe()
+.myAccount .planSec, .myAccount a.LinkCTA{padding:16px; margin:16px; box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.1); background-color: #fff;}
+	       		var userData = data;
+	       		var name = userData.name;
+	       		var email = userData.email;
+	       		var signupSource = userData.source;
+	       		var subscribedAtOnce = userData.subscribedAtOnce;
+	       		var plan  = userData.plan;
+	       		document.getElementById('uName').innerHTML = "<strong>"+name+"</strong>" + email;
+		       		var status = planData.status;
+		       		var purchaseSource = planData.source_device;
+			       		var nextActivationDate = planData.current_term_ends_at;
+			       		var planDescription = planData.plan.description;
+			       		var planName = planData.plan.name;
+			       		var planPrice = planData.amount;
+			       		//var planInterval = planData.shipping_interval;
+			       		var planInterval = planData.duration;
+			       		var planUnit = planData.interval_unit;
+			       		//var html = "<strong>Your Subscription Plan</strong>"+planName+" ₹"+planPrice+" / "+planInterval+" " + nextBillingHtml + cancelHtml; 
+			       		var html = "<strong>Your Subscription Plan</strong> "+planDescription + " "+ planName +": ₹"+planPrice + " "+ nextBillingHtml + cancelHtml;

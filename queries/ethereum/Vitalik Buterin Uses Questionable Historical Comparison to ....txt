@@ -1,0 +1,9 @@
+The Ethereum co-founder cites an unlikely source to explain blockchain in-fighting.
+Ethereum ( ETH ) co-founder Vitalik Buterin tweeted that TRON ( TRX ) sympathizers within the Bitcoin ( BTC ) community are a “perfect example” of German Nazis aligning with Japan during the Second World War.
+Vitalik drew the questionable comparison in a reply to Bitcoin activist and independent developer Udi Wertheimer, who tweeted: “#Tron > #Ethereum”.
+He also attached a number of screenshots from a 2014 article that was originally posted on Slate Star Codex — a now-deleted blog created by a San Francisco psychiatrist known by his partial name, Scott Alexander.
+Titled “I Can Tolerate Anything Except The Outgroup”, the article describes how Germany and Japan were both part of the Axis powers despite sharing racial, cultural and linguistic differences.
+When asked why he chose to invoke that reference, Vitalik told Cointelegraph that there was “definitely no intent to make any comparison to genocidalness”.
+“That analogy is slatestarcodex's, not mine, and he's clearly talking about cultural aspects of that historical situation that have nothing to do with the genocidalness itself. Unfortunately those paragraphs of Scott's are so good that nothing else I can find illustrates his broader point as well as he can :(“
+Vitalik additionally argued that “from any serious point of view, any flaw that ETH has from the perspective of BTC community values, Tron has 10x more”.  He added:
+“And yet, ETH is often a mortal enemy, and yet Tron, at least psychologically, is viewed as a distant crazy uncle it's cool to be kinda friends with.”

@@ -1,0 +1,28 @@
+Billionaire industrialist Anil Agarwal, chairman of Vedanta Limited, has written to Prime Minister Narendra Modi on June 4, requesting to allow the opening of its Sterlite Copper plant in Tamil Nadu in the overall interests of the economy.
+According to Mr. Agarwal, India has lost over ₹40,000 crore due to closure of this plant, of which $1.2 billion was lost in foreign exchange alone.
+Citing media reports in Pakistan, Mr. Agarwal said in his letter that Islamabad’s copper shipments to China had increased 400% in the last three years to $550 million last year, boosting Pakistan’s local economy even as Chinese firms were vying to capture India’s copper market.
+“My care and concern is that the closure has impacted our country in multiple ways; country has become, for the first time in the last two decades, a net importer rather than an exporter of copper resulting in a heavy import bill,” Mr. Agarwal said in his letter, a copy of which was reviewed by The Hindu.
+Due to the closure of the plant, thousands of workers had been rendered jobless, aggravating the unemployment situation and adding to the exodus of the migrants.
+“The closure has led to idling and rusting of precious machinery and materials and loss of revenue to the exchequers of both the Centre and the Government of Tamil Nadu in the form taxes, cess, etc,” Mr. Agarwal said in the letter.
+You have reached your limit for free articles this month.
+Start your 14 days trial now. Sign Up
+Find mobile-friendly version of articles from the day's newspaper in one easy-to-read list.
+Enjoy reading as many articles as you wish without any limitations.
+A select list of articles that match your interests and tastes.
+Move smoothly between articles as our pages load instantly.
+A one-stop-shop for seeing the latest updates, and managing your preferences.
+We brief you on the latest and most important developments, three times a day.
+Not convinced? Know why you should pay for news.
+*Our Digital Subscription plans do not currently include the e-paper ,crossword, iPhone, iPad mobile applications and print. Our plans enhance your reading experience.
+We have been keeping you up-to-date with information on the developments in India and the world that have a bearing on our health and wellbeing, our lives and livelihoods, during these difficult times. To enable wide dissemination of news that is in public interest, we have increased the number of articles that can be read free, and extended free trial periods. However, we have a request for those who can afford to subscribe: please do. As we fight disinformation and misinformation, and keep apace with the happenings, we need to commit greater resources to news gathering operations. We promise to deliver quality journalism that stays away from vested interest and political propaganda.
+Your support for our journalism is invaluable. It’s a support for truth and fairness in journalism. It has helped us keep apace with events and happenings.
+The Hindu has always stood for journalism that is in the public interest. At this difficult time, it becomes even more important that we have access to information that has a bearing on our health and well-being, our lives, and livelihoods. As a subscriber, you are not only a beneficiary of our work but also its enabler.
+We also reiterate here the promise that our team of reporters, copy editors, fact-checkers, designers, and photographers will deliver quality journalism that stays away from vested interest and political propaganda.
+Please enter a valid email address.
+var data = {"email" : email, "category" : "newsletter"};
+@media ( max-width : 1023px) and (min-width: 768px) {
+@media ( max-width : 767px) and (min-width: 1px) {
+box-shadow: 0 0 4px 0 rgba(0, 0, 0, .328);
+@media ( max-width : 320px) and (min-width: 1px) {
+@media ( max-width : 1023px) and (min-width: 1px) {
+@media ( max-width : 767px) and (min-width: 1px) {

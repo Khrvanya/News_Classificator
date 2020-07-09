@@ -1,0 +1,28 @@
+As yield farming takes DeFi by storm, Ethereum miners are testing a new way to increase transaction throughput: raising the block gas limit.
+Ethereum miners are testing a way to increase transaction throughput: raising the block gas limit.
+Since last Thursday, the network's top mining pools have been quietly signalling to increase the limit from 10,000 to 12,500 per block—the highest block gas limit the network has ever operated.
+It’s a move which could increase the transaction throughput of the network, helping it handle new bouts of transaction activity—but that won’t necessarily mean transacting on Ethereum is getting any cheaper
+Just like any network participants, miners can’t change Ethereum’s code directly - at least, not without first going through Ethereum’s code acceptance process, called Ethereum improvement proposals (EIPs). Still, they have the power to adjust the block gas limit by raising or lowering it by 0.1 % of the previous block.
+At the time of writing, the vote from miners to raise the block gas limit appeared to be unanimous.
+Data from Etherscan shows top mining pools, Ethermine, Spark Pool, and F2Pool, which together account for roughly 57.2% of the network, all working together to increase the overall block gas limit.
+Bitfly, the mining company behind Ethermine, tweeted that the move could benefit Ethereum users.
+"In theory, this means that the Ethereum network now has the capabilities to handle ~44 transactions per second, instead of ~35," the company wrote , calling it "another huge milestone for the community."
+Stepping back, the block gas limit refers to the maximum amount of gas, or transaction fees, that can be included in a single block. In theory, that means that miners can process more transactions per block without impacting the gas prices that Ethereum users are paying.
+And that's notable because, at the time of writing, daily transaction counts are on the rise. On Tuesday, transaction volume climbed to the highest so far this year, a 140% increase since January.
+But while changing the block gas limit might make the network process transactions faster, it’s unlikely to lower gas costs - something that has been an increasing burden to DeFi users.
+And that’s because raising the block gas limit changes the amount of gas that can be accepted into a block, without changing the gas limit for transactions. This leads to an overall increase in gas usage while gas costs remain stable.
+Speaking on Twitter, Ethereum developers warned that an increase in the block gas limit could even lead to higher gas prices overall.
+Citing recent gas costs of 56 gwei per transaction, or $0.281, Ethereum core developer Peter Szilagyi said “People will use whatever gas is available and fill it with whatever junk... If scaling relies on adding more gas to the fire, I have bad news.”
+Last week, Szilagyi also warned against increasing the block gas limit, stating that it could make the network more vulnerable to denial-of-service (DOS) attacks.
+That’s because the block gas limit acts as a cap to the amount of computation the Ethereum network can handle. By increasing the limit, you also open the door to more computationally intensive attacks.
+“Unfortunately there's short term profit and long term investment. Almost none of the original miners are still in the ecosystem, but the original devs still have to pick up the crap after everyone,” he continued .
+And raising the block gas limit comes with other risks as well.
+For example, raising the limit could increase the number of uncle blocks - duplicate blocks that are mined in exchange for rewards but are rejected from the actual blockchain.
+Because uncle’s are equally hard to mine but have lower rewards, having more uncles may lower miner’s paychecks. However, this might balance out by the increase in profits that miners are gaining from transaction fees.
+But a higher block gas limit could lead to other problems as well.
+A higher limit means information is being added to the Ethereum blockchain at a faster rate. Overtime, this will make it more expensive to store a copy of the Ethereum network, increasing the centralization of the network.
+“It's as if they want ETH1.x to become unusable asap,” Ethereum developer Lefteris Karapetsas, responding to the block gas limit increase, said .
+It's not the first time that ethereum miners have voted to increase the block gas limit. Commonly viewed by miners as an easy way to increase transaction capacity, the block gas limit has been changed five times in Ethereum's history.
+During the 2017 ICO craze, miners voted to increase the limit from 4,000 to 6,500 per block. Most recently, miners voted to increase from 8,000 to 10,000 in September 2018. Gas prices remained stable or higher each time, which may not bode well for those expecting these changes would bring cheaper farming.
+[This story was written and edited by our friends at The Defiant , and also appeared in its daily email. The content platform focuses on decentralized finance and the open economy and is sharing stories we think will interest our readers. You can subscribe to it here .]
+Get the best of Decrypt where you want it most.

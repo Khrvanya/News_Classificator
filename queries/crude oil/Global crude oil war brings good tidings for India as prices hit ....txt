@@ -1,0 +1,40 @@
+Pivot Or Perish Market Dashboard India-China Face-Off The Future Of Covid Tracker Lounge Coronavirus India2Global Emerging Tech Conclave #WFHLife Long Reads Money With Monika, Season 4 Mint 50 - Top Mutual Funds Plain Facts Mark To Market Podcasts Money With Monika, Season 3 Companies Markets Money Start-ups Mutual Funds Insurance Technology Industry Opinion Politics
+2 min read . Updated: 09 Mar 2020, 12:50 AM IST Utpal Bhaskar
+Crude prices are on a tailspin after Russia did not agree to Opec’s proposal for an additional production cut of 1.5 million bpd, amid a slump in demand following the Covid-19 outbreak
+Crude prices are on a tailspin after Russia did not agree to Opec’s proposal for an additional production cut of 1.5 million barrels per day (mbpd), amid a slump in demand following the Covid-19 outbreak, at the Opec plus meeting in Vienna on Friday.
+Prices are expected to witness more volatility, given Russia’s geo-strategic play in denying the production cut benefits to US shale oil producers and Saudi Arabia increasing production.
+Amidst turbulence and the virus, some good news - oil at $45/ barrel. Recent $20 drop saves India $30 billion per annum. Also global interest rates have collapsed making money cheap.
+Let’s leverage these for policy to boost growth.
+— Uday Kotak (@udaykotak) March 8, 2020
+The supply glut will have a wide-ranging impact on energy markets. The impact is already evident with the international benchmark Brent crude trading at $45.27 per barrel, far lower than the highs of $147 per barrel in July 2008. The West Texas intermediate (WTI) was at $41.28 per barrel.
+“Amidst turbulence and the virus, some good news - oil at $45/ barrel. Recent $20 drop saves India $30 billion per annum. Also global interest rates have collapsed making money cheap. Let’s leverage these for policy to boost growth," Uday Kotak, managing director and chief executive officer of Kotak Mahindra Bank tweeted on Sunday.
+Every dollar per barrel drop in crude prices reduces India’s import bill by ₹10,700 crore on an annualized basis. Retail prices of petrol and diesel in India track global retail prices of these products, not crude, but are broadly linked to price trends in crude oil.
+With India spending $111.9 billion on oil imports in FY19, analysts are expecting a perfect storm in the energy markets that will help major consumers such as India manage inflationary and fiscal pressures. India is the world’s third-largest oil buyer, and the fourth-largest liquefied natural gas (LNG) importer.
+The cost of the India’s crude basket, which averaged $56.43 and $69.88 per barrel in FY18 and FY19, respectively, averaged $65.52 in December 2019, according to data from the Petroleum Planning and Analysis Cell.
+The price was $51.03 a barrel on 5 March. The Indian basket represents the average of Oman, Dubai and Brent crude. India has already begun to reap the gains with the three state-run oil marketing firms, Indian Oil Corp. Ltd, Bharat Petroleum Corp. Ltd and Hindustan Petroleum Corp. Ltd reducing the price of non-subsidized domestic cooking gas.
+The outbreak of Covid-19 in China has forced energy firms there to suspend delivery contracts and reduce output. This has impacted both global oil prices and shipping rates, with the Paris-based International Energy Agency (IEA) and the Opec cutting global oil demand growth outlook. Trade tensions and a slowing global economy also have an overhang on energy markets.
+The growth concerns are also triggering worries about a possible recession along the lines of the 2008 global financial crisis.
+Opec accounts for around 83% of India’s total crude imports and around 40% of global output. India is a key Asian refining hub with an installed capacity of more than 249.4 million tonnes per annum (mtpa) through 23 refineries.
+* Thank you for subscribing to our newsletter.
+Click here to read the Mint ePaperLivemint.com is now on Telegram. Join Livemint channel in your Telegram and stay updated
+You are now subscribed to our newsletters. In case you can’t find any email from our side, please check the spam folder.
+lozad('.lozad', { load: function(el) { el.src = el.dataset.src; el.onload = function() { el.classList.add('fade')}}}).observe()
+.myAccount .planSec, .myAccount a.LinkCTA{padding:16px; margin:16px; box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.1); background-color: #fff;}
+	       		var userData = data;
+	       		var name = userData.name;
+	       		var email = userData.email;
+	       		var signupSource = userData.source;
+	       		var subscribedAtOnce = userData.subscribedAtOnce;
+	       		var plan  = userData.plan;
+	       		document.getElementById('uName').innerHTML = "<strong>"+name+"</strong>" + email;
+		       		var status = planData.status;
+		       		var purchaseSource = planData.source_device;
+			       		var nextActivationDate = planData.current_term_ends_at;
+			       		var planDescription = planData.plan.description;
+			       		var planName = planData.plan.name;
+			       		var planPrice = planData.amount;
+			       		//var planInterval = planData.shipping_interval;
+			       		var planInterval = planData.duration;
+			       		var planUnit = planData.interval_unit;
+			       		//var html = "<strong>Your Subscription Plan</strong>"+planName+" ₹"+planPrice+" / "+planInterval+" " + nextBillingHtml + cancelHtml; 
+			       		var html = "<strong>Your Subscription Plan</strong> "+planDescription + " "+ planName +": ₹"+planPrice + " "+ nextBillingHtml + cancelHtml;

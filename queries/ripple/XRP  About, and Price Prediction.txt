@@ -1,0 +1,16 @@
+Across the board, the digital assets market has witnessed massively negative volatility over the past 30 days, and Ripple’s XRP token is no different.
+But what exactly is XRP, and how has it fared in June? Also, what are the factors that may influence its market cap?
+XRP is the proprietary token of the Ripple network. XRP was originally just the ticker for the token which was generally referred to as Ripple, however, it was rebranded in May 2018 to better distinguish the token from the company itself which shares the same name.
+Many in the community do not believe that XRP is a ‘true’ cryptocurrency. These enthusiasts are sceptical of XRP and because of this: its status as either centralized or decentralized is highly debated.
+Another reason for this scepticism is the fact that many of Ripple’s key partners and objectives/initiatives surround centralized banking.
+The general consensus appears to be that it is a centralized token, and does not represent the core tenets of crypto as represented in Bitcoin and its seminal whitepaper (penned by Satoshi Nakamoto ).
+Converse to what seems to be a sizable number of peoples’ opinions, Ripple claims that it's XRP ledger is decentralized and not centralized. Ripple argues that its consensus protocol is “an inherently decentralized, democratic, consensus mechanism — which no one party can control.
+The XRP ledger’s consensus protocol is different from the more common proof-of-stake and proof-of-work consensus mechanisms as used by Bitcoin and Ethereum, respectively.
+Ripple actually argues that its ‘consensus protocol’ offers greater protection against centralization than PoS and PoW. The company states that the reason for this is that: because the other consensus mechanisms offer rewards to their miners for validating and recording data to the ledger.
+This attracts a high level of competition for achieving the greatest share of mining power / or stakes for maximum returns. It is also theoretically possible for somebody to achieve a 51%+ dominance over the network by owning more than half of the processing power on the network (at least with PoW).
+Unlike those other consensus mechanisms: there are no miners and no rewards for validators (when they verify transaction data on the ledger) on Ripple’s ‘Consensus Protocol’ - removing any incentive for any party to want to accomplish any dominance.
+XRP currently holds a respectable fourth place on CoinMarketCap’s top 100 cryptocurrencies , ranked by size of market cap.XRP sits just below Tether (#3 ranked) which tops it by approximately $1.4m at $9,196,438,510.
+It should be noted that Tether claims a greater 24hr volume than not just XRP, but also frontrunners Ethereum (#2) and Bitcoin (#1).
+Both value and market cap for XRP has suffered significantly over the course of the past 30 days - even worse than the likes of Bitcoin.
+On June 1st the XRP Market cap was $9,029,604,118 USD and price per token was $0.204693, which means that the market cap has fallen by $1,231,073,700. A loss of 13.63%.
+Many experts and pundits predict further doom and gloom, however, also believe a possibility for outperforming bitcoin in the short term if a predicted XRP retracement is to be believed.

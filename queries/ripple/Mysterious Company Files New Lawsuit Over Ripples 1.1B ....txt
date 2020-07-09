@@ -1,0 +1,14 @@
+Please consider using a different web browser for better experience.
+Please enable JavaScript in your browser for a better site experience.
+Ripple CEO Brad Garlinghouse (Credit: Zack Seward/CoinDesk archives)
+A little-known Puerto Rico-based company has gone after Ripple in court, accusing the blockchain firm of running an unregistered securities sale of the XRP cryptocurrency.
+The company, Bitcoin Manipulation Abatement (BMA), filed a lawsuit Friday in San Francisco, alleging both Ripple and its CEO, Brad Garlinghouse, had violated federal and Californian laws on seven counts when hosting its $1.1 billion XRP sale.
+BMA accuses Ripple of publicly promoted the sale to investors to drive up demand and maximize profits, without registering the sale with the relevant regulator. It also claims the company purposefully misled investors with false announcements to “artificially inflate the price at which they can sell XRP.”
+The plaintiff adds that XRP had no utility at the time of the first sale in 2013, with its sole value coming from being a speculative investment, and that the $1.1 billion Ripple made from the token sale was more than the rest of the company’s combined revenue and cash flow.
+Very little is known about BMA. The company was incorporated in Puerto Rico in March 2019 and has one sole director, Pavel Pogodin, named on the corporation registry . It first made headlines after filing a suit against FTX in November, accusing the derivatives exchange of manipulating the price of bitcoin . The case was thrown out in mid-December.
+BMA appears to represent Pogodin. The filing says he had purchased XRP from Ripple but lost money from relying on Ripple’s “misrepresentations” that the “adoption of XRP by financial institutions and banks would drive demand for XRP.”
+As well as requesting Ripple return all money made in the illegal sale, BMA is also asking the court to award “compensatory damages.”
+CoinDesk reached out to Ripple for comment but had not received a reply by press time.
+This isn’t the first lawsuit alleging Ripple sold XRP tokens as unregistered securities. Other investors have accused the San Francisco-based company of breaking California’s securities legislation.
+Ripple tried unsuccessfully to put a cap on new cases last December, arguing one suit, filed last August, came too late after the original sale and should, therefore, be dismissed.
+The leader in blockchain news, CoinDesk is a media outlet that strives for the highest journalistic standards and abides by a strict set of editorial policies . CoinDesk is an independent operating subsidiary of Digital Currency Group, which invests in cryptocurrencies and blockchain startups.

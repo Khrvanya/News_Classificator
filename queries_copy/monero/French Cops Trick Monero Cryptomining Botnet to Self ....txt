@@ -1,0 +1,10 @@
+french cybercops have neutralized nearly a million computers infected by a crypto-mining mega botnet dubbed 'Retadup'.| Source: Shutterstock
+The Retadup malware which had been deployed on hundreds of thousands of computers around the world to secretly mine the Monero cryptocurrency and commit other illegal acts may finally be over.
+Cybercrime Fighting Center (C3N) of the French police service.
+the botnet’s location by Avast cybersecurity software firm. Retadup’s backend infrastructure
+was located in the Paris region.
+After accessing Retadup’s backend infrastructure, Avast and
+While the malware was globally prevalent, most of the infected computers were located in Central and Latin America. The hardest-hit country was Peru followed by Venezuela, according to Avast .
+According to the C3N commander, Colonel Jean-Dominique
+Seized servers showed only a tiny fraction of Monero mined | Source: Avast
+According to Avast, the Monero cryptojacker had a preference for computers with multiple cores due to the higher computing power. Virtually all the infected computers were running Windows operating system. Over 50 percent of the computers infected with the Monero cryptojacker were running Windows 7 OS.

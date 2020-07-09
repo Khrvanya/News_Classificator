@@ -1,0 +1,3 @@
+View and download data for our daily exchange rates. Use our lookup tool to search historical data.
+All Bank of Canada exchange rates are indicative rates only, obtained from averages of aggregated price quotes from financial institutions. For details, please read our full Terms and Conditions .
+The daily average exchange rates are published once each business day by 16:30 ET. Exchange rates are expressed as 1 unit of the foreign currency converted into Canadian dollars.

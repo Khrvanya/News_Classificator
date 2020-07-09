@@ -1,0 +1,18 @@
+Incognito doesn’t collect personal information or transaction records, meaning that Bitcoin swaps stay private.
+Monero leads the crypto market today. Image: Shutterstock.
+Incognito is a decentralized exchange that collects neither personal information nor transaction records.
+It can be used to privately swap Bitcoin for Monero.
+One critic argued exchanges could refuse to serve customers who've used the service.
+It's now easy to swap Bitcoin for privacy coin Monero in a completely anonymous fashion, according to Andrey Bugaevski, growth lead at privacy-focused crypto company Incognito.
+Incognito is a way of transferring cryptocurrencies on a separate blockchain—one that is much harder to observe. The company has announced it has added the privacy-first cryptocurrency Monero to its privacy-centered decentralized exchange (pDEX).
+“This means that anyone can buy and sell Monero anonymously, without a trace,” Bugaevski wrote in the announcement.
+Users on the pDEX don’t have to submit personal information to participate (that means none of the KYC, or Know-Your-Customer checks, that centralized exchanges require), and the exchange doesn’t keep records of buyers, sellers, or transaction amounts. And, because it’s a non-custodial exchange, “you control your money and hold your own private keys,” wrote Bugaevski.
+Customers can swap Monero with hundreds of other assets, including Bitcoin, ETH, USDT, DAI, and BNB. All ERC20 and BEP2 tokens are supported, and token operators don’t have to ask the exchange to list their pairings or pay a fee; all they have to do is provide the liquidity.
+In theory, Incognito thus makes crypto private again, skirting around recent regulation designed to identify senders and recipients of crypto transactions. For instance, the Fifth Anti Money Laundering Directive , which was implemented earlier this year, and the Financial Action Task Force’s “Travel Rule” , which was implemented in mid-2019, both require crypto exchanges to collect more information about their customers.
+But Incognito’s promise is too good to be true, said the pseudonymous “Alex” co-founder of LocalMonero , a peer-to-peer trading network for the privacy coin. “The ‘anonymization’ process requires entry and exit into and out of Incognito,” he told Decrypt after reviewing Bugaevski’s post, “immediately drawing attention to Bitcoin or other public ledger cryptocurrencies' addresses and transactions that are in any way linked to the incognito project.”
+“The only way privacy can be fully realized” is if there’s no black hole like Incognito to enter and exit, which only draws attention to the user, he sad. “If you have a trace in the BTC ledger, you are no longer private,” he added. Instead, he suggests users make all the transactions equally and uniformly private by only transacting within the Monero network.
+Bugaevski turned the weakness into an advantage of the platform, saying that all he’s doing is building “a privacy tool which can be used when it is needed,” and letting value be transferred between blockchains.
+The LocalMonero co-founder also said that it’s not inconceivable that BTC addresses that are linked to the incognito project will automatically get blacklisted (Binance, for instance, blocked withdrawals to the privacy-focused Bitcoin wallet, Wasabi). This would make any Bitcoin coming out of Incognito “worth less than ‘clean’ bitcoins.”
+Bugaevski said the service isn’t illegal, and wallets have “Read Only” keys that can be submitted to, say, tax authorities. He dismissed the argument about price as hypothetical speculation.
+In any case, what’s important is that “it gives people more freedom, and do[es] not go against any laws,” he said.
+Get the best of Decrypt where you want it most.

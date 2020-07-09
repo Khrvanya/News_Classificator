@@ -1,0 +1,10 @@
+— BitMEX (@BitMEXdotcom) November 1, 2019
+“Our team have (sic) acted immediately to contain the issue and we are taking steps to understand the extent of the impact. Rest assured that we are doing everything we can to identify the root cause of the fault and we will be in touch with any users affected by the issue.”
+The privacy of our users is a top priority and we are very sorry for the concern this has caused to our users,” the post concluded.
+BitMEX’ mistake has already been picked up by crypto twitter.
+At roughly 07:30 GMT, a twitter user operating under the handle @sakuraricebird posted an image of the BitMEX users’ revealed email addresses.
+About 15 minutes later, self-described “Lawyer, but not yours” and General Counsel at Compound Finance Jake Chervinsky wrote that “BitMEX just doxxed its users in the most outrageously incompetent way imaginable: forgetting to use blind copy on mass email. Someone must be cleaning out their desk already.”
+BitMEX just doxxed its users in the most outrageously incompetent way imaginable: forgetting to use blind copy on mass email. Someone must be cleaning out their desk already. https://t.co/KmARzImxnk
+— Jake Chervinsky (@jchervinsky) November 1, 2019
+Binance and OKEx also tweeted about the incident without naming BitMEX specifically out of apparent concern for their users–after all, hackers who target cryptocurrency hodlers could see the leaked email addresses as an opportunity to use those addresses on other exchanges to try and gain access to accounts.
+If you are one of the affected users and you also have a Binance account under the same email address, we recommend changing your email immediately using the below steps: https://t.co/sgEr5sqleg

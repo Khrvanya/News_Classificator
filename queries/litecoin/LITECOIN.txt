@@ -1,0 +1,6 @@
+Cryptocurrencies on Markets are sorted by market capitalization by default, but they can also be sorted by other factors such as price and volume.Rank
+The price of a cryptocurrency is jointly determined by those buying and selling coins, and is calculated as an average recent price from open exchanges.Price
+Market capitalization (often shortened to market cap) is the approximate total value of a cryptocurrency, typically shown in US dollars.
+Cryptocurrencies work on a consensus algorithm (proof type) that lets those using the network reach an agreement about which transactions can be trusted.
+Supply is the amount of cryptocurrency in existence either through mining or issuance.
+With Bitcoin, supply represents the number of coins which have already been mined. The supply of Bitcoin increases as more of it is mined.Supply

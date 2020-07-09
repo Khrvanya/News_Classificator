@@ -1,0 +1,33 @@
+1 min read . Updated: 30 Jun 2020, 01:48 PM IST Clifford Alvares
+While production volume growth was good, its sales volume growth was tepid
+MUMBAI: In the fourth-quarter Coal India Ltd usually ramps up production, and has often been able to surprise the Street with production and better sales volume growth.
+This time the lockdown due to the covid-19 pandemic has put Coal India’s operations on the back burner. While production volume growth was good, its sales volume growth was tepid. Coal demand was sluggish and is expected to remain soft in FY21. Shares of Coal India were flat in trade on Tuesday.
+Coal India’s 3% year on year (y-o-y) revenue growth during the quarter also reflects the lower e-auction realisations and is a worry. The about 8.8% drop in its operating margin is also a reflection of the lower operating leverage. The Ebitda margin in Q4 came in at 34.5%, against 36.5% during the year-ago quarter. Ebitda is earnings before interest, tax, depreciation and amortization.
+After its Q4 figures were lower, the coming quarters seem to pose challenges. The lockdown in April and May pulled down Coal India production. Besides, power companies having sufficient stocks of coal has led to shrinking demand.
+“With power plants currently at peak coal stocks (30-32 days), any recovery in power demand (as the lockdown is relaxed) may not reflect in higher coal demand in 1HFY21. Also, 2Q is seasonally a weak quarter with the monsoons hampering mining and higher hydro-power generation offsetting demand for thermal power," pointed out analysts at JM Financial Institutional Equities in a note to clients.
+Even so, a demand pickup is expected only in the second half once power companies clear inventories and lockdown restrictions are lifted. That would still drag on profit growth in FY21. In fact, analysts have forecast an about 47% plunge in FY21 profitability, a huge reduction.
+The recent auction of coal mines may not impact Coal India much in the near term. According to analysts, most of these mines will take about 5-7 years to begin commercial production as land acquisition and other clearances will be required. As such, competition from the new auctions will not hamper Coal India’s growth.
+But the stock may meander for some time as demand for coal remains weak. The stock quotes at a price-earnings multiple of 5.2 times its FY20 earnings. But that’s set to expand considerably as earnings slip in FY21.
+* Thank you for subscribing to our newsletter.
+Click here to read the Mint ePaperLivemint.com is now on Telegram. Join Livemint channel in your Telegram and stay updated
+You are now subscribed to our newsletters. In case you can’t find any email from our side, please check the spam folder.
+lozad('.lozad', { load: function(el) { el.src = el.dataset.src; el.onload = function() { el.classList.add('fade')}}}).observe()
+.myAccount .planSec, .myAccount a.LinkCTA{padding:16px; margin:16px; box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.1); background-color: #fff;}
+	       		var userData = data;
+	       		var name = userData.name;
+	       		var email = userData.email;
+	       		var signupSource = userData.source;
+	       		var subscribedAtOnce = userData.subscribedAtOnce;
+	       		var plan  = userData.plan;
+	       		document.getElementById('uName').innerHTML = "<strong>"+name+"</strong>" + email;
+		       		var status = planData.status;
+		       		var purchaseSource = planData.source_device;
+			       		var nextActivationDate = planData.current_term_ends_at;
+			       		var planDescription = planData.plan.description;
+			       		var planName = planData.plan.name;
+			       		var planPrice = planData.amount;
+			       		//var planInterval = planData.shipping_interval;
+			       		var planInterval = planData.duration;
+			       		var planUnit = planData.interval_unit;
+			       		//var html = "<strong>Your Subscription Plan</strong>"+planName+" ₹"+planPrice+" / "+planInterval+" " + nextBillingHtml + cancelHtml; 
+			       		var html = "<strong>Your Subscription Plan</strong> "+planDescription + " "+ planName +": ₹"+planPrice + " "+ nextBillingHtml + cancelHtml;

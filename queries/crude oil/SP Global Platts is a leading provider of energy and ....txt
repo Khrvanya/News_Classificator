@@ -1,0 +1,4 @@
+Enter your Email ID below and we will send you an email with your password.
+Email Address* Please enter email address. <errorMsgPremium>You are a premium subscriber, we are unable to send you your password for security reasons.</errorMsgPremium>
+If you are a premium subscriber, we are unable to send you your password for security reasons. Please contact the Client Services team .
+If you are a Platts Market Center subscriber, to reset your password go to the Platts Market Center to reset your password.

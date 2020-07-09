@@ -1,0 +1,48 @@
+Litecoin is a peer-to-peer cryptocurrency that enables instant, near-zero cost payments. Litecoin describes itself as an open source, global payment network that is fully decentralized.
+The litecoin blockchain is capable of handling higher transaction volume than bitcoin. Furthermore, due to a more frequent block generation, the network supports more transactions without a need to modify the software in the future.
+Litecoin was released via an open-source client on GitHub on October 7, 2011 by Charlie Lee, a Google software engineer. The litecoin network that went live on October 13, 2011, was a fork of the bitcoins core client.
+Charlie, who describes litecoin as “silver” to bitcoin being “gold”, has cloned bitcoins core source code and made a number of adjustments to improve some of bitcoins issues.
+Litecoin reached $1bn market capitalization in November 2013. In May 2017 it became the first cryptocurrency in top 10 to adopt a Segregated Witness (SegWit), and the first Lightning Network transaction was completed through litecoin later in the month. This saw 0.00000001 LTC being transferred from Zurich to San Francisco in under one second.
+Blockstream's Christian Decker @Snyke completes first Lightning network payment on Litecoin. See https://t.co/IV2e97gwgV . Blog post soon!
+— Blockstream (@Blockstream) May 10, 2017
+The litecoin creator believes his currency is useful for payments, while bitcoin is better for storage of value.
+“I've always known that it would be hard for bitcoin to scale and be the one coin that does everything for everyone. So my vision for litecoin has always been to complement bitcoin — to be the payments currency. Where bitcoin would be digital gold, litecoin would be silver,” Lee said in an interview with the Business Insider .
+Litecoin was not Charlie Lee’s first attempt to create a cryptocurrency. In September 2011 he created fairbix that used a Proof-of-Work hashing protocol that ran on scrypt which Charlie would later use when creating litecoin.
+The development team pre-mined about 7 million fairbix coins prior to its release, which led to dismay among the community. The multicoin client that was used on the altcoin also had a few major software bugs which rendered it unable to withstand a 51% attack.
+Two years after creating litecoin, Charlie left Google to go work at Coinbase. On June 10, 2017 he stepped down as Director of Engineering at Coinbase to work fulltime on litecoin. He is currently the Managing Director of the Litecoin Foundation.
+"Some people even think I short LTC! So in a sense, it is conflict of interest for me to hold LTC and tweet about it because I have so much influence,” he said.
+Lee added: "I have always refrained from buying/selling LTC before or after my major tweets, but this is something only I know. And there will always be a doubt on whether any of my actions were to further my own personal wealth above the success of litecoin and cryptocurrency in general."
+I'm glad to see that the market is not overacting to this news.
+You can't compare me to a CEO selling all his shares. I'm the creator. Litecoin is like my kid. I'm more invested in it than someone holding 1MM LTC. For me, it was never about the money or I would have pre-mined!😀 https://t.co/efKxK3coV4
+— Charlie Lee [LTC⚡] (@SatoshiLite) December 20, 2017
+Price tracker CoinMarktCap.com lists litecoin as the 6th largest cryptocurrency with a total market cap of over $5.7 billion and a daily trading volume of $364 million. The price can be tracked here.
+According to other data, on April 20, 2018 EOS ousted litecoin as the fifth largest cryptocurrency with market capitalization.
+Litecoin can be easily purchased and sold on a number of exchanges using all types of currencies. It’s listed on world’s largest exchanges such as Binance, OKEx, Huobi, Bitfintex, Poloniex and others. The full list of exchanges can be found here.
+The cryptocurrency can be identified on exchanges under the symbols LTC or XLT.
+One of the most convenient methods of buying litecoins is through a Credit/Debit card. Changelly is one of the most reliable resources of buying litecoins, as it accepts various currencies as payment. To buy litecoins, one will have to register on the website. No registration fee will be charged.
+Changelly accepts any currency from any country, converting it into a USD equivalent. Once the currency has been selected, pressing the buy tab will take the user to the order confirmation page. Changelly offers all the details once again on the confirmation screen.
+Litecoin can be stored securely in a wallet or on the user’s computer, tablet, phone or laptop. The original wallet for the cryptocurrency is Litecoin Core , which can be installed for free.
+Litecoin Core is maintained by the Litecoin Core development team. The wallet is the pillar of the litecoin p2p transaction network. Its referred to as a "full node" and once installed synchronizes with the network and joins it to relay transactions to other nodes.
+Electrum-LTC is a lighter version of the walletthat doesn’t require downloading the entire blockchain or waiting forsynchronization.
+Loafwallet is a mobile litecoin storage solution, developed by Charlie Lee.
+For those who prefer hardware wallets, Trezor and the Ledger Nano support a number of cryptocurrencies, including litecoin.
+There are also paper wallets for litecoin, such as Liteaddress .
+Litecoin mining is done by a specialized computer and hardware. Mining can either be done individually or through a mining 'pool', where a number of people combine their processing resources and take a share of the rewards.
+Miners are currently awarded with 25 new litecoins per block, an amount which gets halved roughly every 4 years (every 840,000 blocks). The litecoin network is therefore scheduled to produce 84 million litecoins, which is 4 times as many tokens as bitcoin.
+In the early days people could make a profit by mining with their CPUs and GPUs, but that is no longer a case today. Nowadays one can make profit by using ASIC (application-specific) hardware. Meanwhile, ASICs designed for bitcoin are not suitable for litecoin,as the two use very different hashing algorithms.
+A number of merchants worldwide accept litecoin as a means of payment. Some are listed below:
+RE/MAX - a global estate agency network that spreads across over 100 countries on six continents.
+eGifter – buy eGift cards for friends and family, choose from hundreds of brands.
+MercadoViagens.com - a Spanish travel agency.
+Nuciya Beauty - online beauty retailer that focuses on natural and organic cosmetics.
+ShinyBars - buy gold, silver and other precious metals.
+Shirtwascash - unusual t-shirt designs created by Reddit users.
+Common Spark Media - a photography studio.
+BTCTrip - book flights and hotels.
+Techno Tourist - a dance oriented travel agency.
+San Marino Coffee - buy fresh roasted coffee to order.
+Litecoin was originally a fork of bitcoin and as a result the two currencies still share many characteristics such as that both are generated by mining and both have their own supply limitations.
+However, the hashing algorithm used for mining bitcoin (SHA-256) makes it very difficult to create a new block and thus to receive profits. Meanwhile, litecoin uses the algorithm that simplifies the mining process (Scrypt) and makes it possible to create new coins on usual PCs (although it could turn unprofitable).
+Litecoin uses a different proof of work algorithm, so those mining bitcoin cannot mine litecoin, and vice versa. Therefore, it doesn't compete with bitcoin for miners.
+Transaction speed is the main difference between bitcoin and litecoin, with the latter being able to confirm transactions much faster.
+Litecoin can handle a higher volume of transactions thanks to its faster block generation. Transactions happen on average every 2.5 minutes versus every 10 minutes for bitcoin.

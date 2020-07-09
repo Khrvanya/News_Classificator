@@ -1,0 +1,33 @@
+Please consider using a different web browser for better experience.
+Please enable JavaScript in your browser for a better site experience.
+The Swiss government is encouraging blockchain startups to set up shop with new laws that lower legal barriers to such businesses while leaving favorable tax laws untouched.
+The National Council, Switzerland’s equivalent of the U.S. House of Representatives, unanimously passed a legislative package changing about a dozen financial laws on June 17. The changes, proposed by the Swiss Federal Council, are intended to remove legal barriers to applications of blockchain and distributed ledger technology.
+On June 19, the Federal Council acknowledged a report prepared by the Federal Department of Finance that concluded there was no need to make special amendments to existing tax laws with regard to blockchain. The report was commissioned by the Federal Council in 2018 when the government decided to examine existing tax laws and assess any need for amendments.
+Switzerland has long been a blockchain startup magnet. The city of Zug, in particular, was a popular location for token-funded projects during the initial coin offering (ICO) boom of 2017, earning it the nickname Crypto Valley.
+While ICOs have faded, Switzerland’s enthusiasm for blockchain technology has not.
+“It’s known that Switzerland is very much trying to encourage blockchain business. It’s a political objective,” said Rolf H. Weber, professor of financial market law and chair of the working group for regulatory issues at the Swiss Blockchain Federation .
+The changes were largely based on a Federal Council proposal filed last year, and will now be passed on to the upper chamber, the Council of States, for a final vote this fall.
+Through communications specialist Joel Weibel, the Swiss Federal Tax Administration said that Swiss laws must guarantee legal certainty and the openness of authorities to new technologies.
+As it exists now, Swiss law is cumbersome, particularly when applied to the transfer of security tokens, Weber said. All transfers must be done in writing, like the traditional exchange of hands of a bond. But the new legislation will make the transfer of security tokens easier, Weber said.
+“In my opinion, the most important changes are in company and securities law,” Weber said.
+Unlike any digital asset before it, a token has the same characteristics of a piece of paper, or written agreement, said Christian Meisser, CEO of Swiss blockchain legal consultancy fim LEXR AG .
+“Why not give it the same properties as a piece of paper? If you transfer a token, you also transfer any right of ownership linked to it. That is the revolutionary aspect of the new Swiss law,” Meisser said.
+According to Weber, as soon as the law is enacted, owners will be able to freely register and transfer their security tokens within distributed electronic ledgers, and providers of ledger technology will be allowed to offer those services without legal ramifications.
+New provisions made to bankruptcy laws would allow owners to appeal to authorities to reclaim their assets.
+“This is not possible today with digital tokens because with tokens you don’t have proof of ownership. It’s similar to cash. You can never extract or withdraw cash from a bankrupt estate,” Weber said.
+The new laws also contain eight provisions describing how providers of digital ledger technology and trading platforms can obtain a license from the financial authority.
+Even though the legislative package passed without opposition, according to Meisser, left-leaning politicians raised concerns that the new laws failed to address the environmental impact of bitcoin mining, a process that requires large quantities of energy and resources.
+Instead of proactively regulating new financial instruments, lawmakers in Switzerland typically try first to apply existing laws, said Luzius Meisser, founder of Bitcoin Association Switzerland
+“Once that doesn’t work anymore, then we create a new law,” Luzius said.
+In his view, Switzerland does not look at blockchain technology or crypto assets as unique entities, but as extensions of existing instruments.
+According to Weber, the new laws would change the broader framework to improve conditions for owners and providers of crypto assets.
+“You may say this is a ‘blockchain law’ because all changes relate to blockchain business models. But in contrast to a few other countries like Malta or the Principality of Liechtenstein, Switzerland is not going to implement blockchain law in a narrow sense,” Weber said.
+Two days after the National Council vote on June 17, the Federal Council decided that prevailing Swiss tax laws will not need to be amended to include special considerations for blockchain technology.
+As things stand in Switzerland, bitcoin mining is exempt from Value Added Tax (VAT) while some security tokens are exempt from withholding tax, and there is no capital gains tax on investments.
+According to Luzius, Switzerland has a withholding tax placed on dividends earned from traditional securities such as bonds or shares. Weibel from the tax authority said that this tax also applies to “shares in tokenized form” to ensure all investors are treated equally.
+“But current Swiss law also allows participation in the company’s profit without levying the withholding tax on the income related to this profit. This option is now also available in the attractive form of tradable participation tokens,” Weibel said.
+In simpler terms, there are certain special taxes in Switzerland that do not apply to security tokens but apply for securities, Luzius said.
+“Lawmakers say they are okay with not filling this gap for now because the market for security tokens is still very small,” Luzius said.
+To encourage earnings through investment, the country does not tax capital gains on any investment, and the Department of Finance report assessing the need for new tax laws concluded that there was no need to start with crypto.
+“This is very good news for the crypto space because it means less taxes at least for now,” Luzius said.
+The leader in blockchain news, CoinDesk is a media outlet that strives for the highest journalistic standards and abides by a strict set of editorial policies . CoinDesk is an independent operating subsidiary of Digital Currency Group, which invests in cryptocurrencies and blockchain startups.

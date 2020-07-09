@@ -1,0 +1,31 @@
+1 min read . Updated: 01 Jul 2020, 05:56 PM IST Edited By J. Jagannath
+Now the customer can avail a gold loan from the comfort of his or her home without having to visit the branch at any stage of the procedure, says MD George Alexander Muthoot
+Kochi: Muthoot Finance, country’s largest gold loan NBFC, has launched Loan@Home service. This service enables customers to avail themselves of a gold loan without stepping out of his/her home. Dedicated Loan@Home staff will visit the customer’s home at the appointed date and time, carry out required digital checks, verify the customer’s gold ornaments at the customer’s premises, create the loan, generate loan documentation and the loan amount is credited to the customer’s bank account.
+Considering the challenges faced by the customers during pandemic, Muthoot Finance launched the “Loan@Home" service, a fit-for-purpose innovation that helps customers monetise their gold ornaments without stepping out of their homes.
+According to George Alexander Muthoot, Managing Director, Muthoot Finance, “With Loan@Home, we are taking Muthoot Finance to the customer’s home. Now the customer can avail a gold loan from the comfort of his or her home without having to visit the branch at any stage of the procedure."
+He further said: “As a leading financial services enterprise, we find that, under such circumstances, a large swathe of our customers (existing and prospective), across India may be finding it difficult to approach our branches to do business due to the restrictions. Such apprehensions are especially apparent among higher net worth customers."
+Loan@Home is principally an app-based digital service. The customer can apply for a Loan@Home through the dedicated Loan@Home Mobile App and Web Portal, or the iMuthoot Mobile App, online.muthootfinance.com or the Muthoot Finance Call Centre.
+As soon as a Loan@Home enquiry is verified and accepted, a real-time customer due diligence will take place through a video-based KYC process. This is followed by an appointment for the visit by the company's executives.
+* Thank you for subscribing to our newsletter.
+Click here to read the Mint ePaperLivemint.com is now on Telegram. Join Livemint channel in your Telegram and stay updated
+You are now subscribed to our newsletters. In case you can’t find any email from our side, please check the spam folder.
+lozad('.lozad', { load: function(el) { el.src = el.dataset.src; el.onload = function() { el.classList.add('fade')}}}).observe()
+.myAccount .planSec, .myAccount a.LinkCTA{padding:16px; margin:16px; box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.1); background-color: #fff;}
+	       		var userData = data;
+	       		var name = userData.name;
+	       		var email = userData.email;
+	       		var signupSource = userData.source;
+	       		var subscribedAtOnce = userData.subscribedAtOnce;
+	       		var plan  = userData.plan;
+	       		document.getElementById('uName').innerHTML = "<strong>"+name+"</strong>" + email;
+		       		var status = planData.status;
+		       		var purchaseSource = planData.source_device;
+			       		var nextActivationDate = planData.current_term_ends_at;
+			       		var planDescription = planData.plan.description;
+			       		var planName = planData.plan.name;
+			       		var planPrice = planData.amount;
+			       		//var planInterval = planData.shipping_interval;
+			       		var planInterval = planData.duration;
+			       		var planUnit = planData.interval_unit;
+			       		//var html = "<strong>Your Subscription Plan</strong>"+planName+" ₹"+planPrice+" / "+planInterval+" " + nextBillingHtml + cancelHtml; 
+			       		var html = "<strong>Your Subscription Plan</strong> "+planDescription + " "+ planName +": ₹"+planPrice + " "+ nextBillingHtml + cancelHtml;

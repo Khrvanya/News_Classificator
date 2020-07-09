@@ -1,0 +1,21 @@
+In new guidance for mathematical modelers and public health officials, the US Centers for Disease Control and Prevention is estimating that about a third of coronavirus infections are asymptomatic.
+The CDC also says its "best estimate" is that 0.4% of people who show symptoms and have Covid-19 will die, and the agency estimates that 40% of coronavirus transmission is occurring before people feel sick.
+The agency cautions that those numbers are subject to change as more is learned about Covid-19, and it warns that the information is intended for planning purposes. Still, the agency says its estimates are based on real data collected by the agency before April 29.
+The numbers are part of five planning scenarios that "are being used by mathematical modelers throughout the federal government," according to the CDC. Four of those scenarios represent "the lower and upper bounds of disease severity and viral transmissibility."
+The fifth scenario is the CDC's "current best estimate about viral transmission and disease severity in the United States." In that scenario, the agency described its estimate that 0.4% of people who feel sick with Covid-19 will die.
+For people age 65 and older, the CDC puts that number at 1.3%. For people 49 and under, the agency estimated that 0.05% of symptomatic people will die.
+Under the most severe of the five scenarios outlined -- not the agency's "best estimate" -- the CDC lists a symptomatic case fatality ratio of 0.01, meaning that 1% of people overall with Covid-19 and symptoms would die.
+In the least severe scenario, the CDC puts that number at 0.2%.
+One expert quickly pushed back on the CDC's estimates.
+"While most of these numbers are reasonable, the mortality rates shade far too low," biologist Carl Bergstrom of the University of Washington told CNN.
+Bergstrom, an expert in modeling and computer simulations, said the numbers seemed inconsistent with real-world findings.
+"Estimates of the numbers infected in places like NYC are way out of line with these estimates. Let us remember that the number of deaths in NYC right now are far more than we would expect if every adult and child in the city had been infected with a flu-like virus. This is not the flu. It is COVID," Bergstrom said.
+"As I see it, the 'best estimate' is extremely optimistic, and the 'worst case' scenario is fairly optimistic even as a best estimate. One certainly wants to consider worse scenarios," Bergstrom said of CDC's numbers.
+"By introducing these as the official parameter sets for modeling efforts, CDC is influencing the models produced by federal agencies, but also the broader scientific discourse because there will be some pressure to use the CDC standard parameter sets in modeling papers going forward," he said.
+"Given that these parameter sets underestimate fatality by a substantial margin compared to current scientific consensus, this is deeply problematic."
+Numbers are for planning purposes, CDC says
+"The scenarios are intended to advance public health preparedness and planning. They are not predictions or estimates of the expected impact of COVID-19," the CDC says.
+It says the numbers do not "reflect the impact of any behavioral changes, social distancing, or other interventions," which would be relevant for some of the agency's estimates -- such as how many infections stem from each case.
+Sign up here to get The Results Are In with Dr. Sanjay Gupta every Tuesday from the CNN Health team.
+Still, the CDC is characterizing the numbers as preliminary estimates from federal agencies, including the CDC and the HHS Office of the Assistant Secretary for Preparedness and Response, that are "designed to help inform decisions by modelers and public health officials who utilize mathematical modeling."
+Under the best estimate scenario, the guidance says 3.4% of symptomatic people with Covid-19 will require hospitalization, with that number rising to 7.4% in people 65 and older. The CDC also says it assumes that people without symptoms are just as infectious as those with symptoms.

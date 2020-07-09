@@ -1,0 +1,22 @@
+By Ken Trester , Editor, Power Options Weekly Mar 3, 2020, 9:13 am EDT
+The price of gold dropped by over 3.5% last Friday, and though the market bounced yesterday, gold prices pushed higher as well. It seems investors are feeling better about the market, but some are still interested in hedging with positions in safe havens like gold and bonds.
+The central banks around the world are considering taking action to stimulate their respective economies in the wake of the COVID-19 outbreak, and that news helped stocks push higher.
+Some investors remain unconvinced, and gold’s volatility makes this an excellent time for a put write on SPDR Gold Shares (NYSEARCA: GLD ).
+Are we in the Clear?
+As discussed on Friday , the market was oversold after last week. In some sense, the bounce was inevitable. Still, the S&P 500’s 4.6% gain was surprising, and it pushed the index above its 200-day moving average.
+COVID-19 cases in China are rapidly decreasing, which is good news.
+This morning officials from the G-7’s member countries gathered and affirmed their commitment to using policy tools to combat virus-related economic issues.
+However, the virus is still spreading through the U.S., Italy, South Korea and Japan. We aren’t done with disruptions yet, even if China’s control over the situation is a reason to be optimistic.
+And that G-7 meeting may have been good news, but the global leaders of monetary policy offered few specific plans for how they would actually combat economic weakness.
+The slow trickle of information from policymakers means that Wall Street is still uncertain about what’s next, and that caused futures to pull back this morning — though they are still positive as of this writing.
+Gold futures are also higher this morning, which is a sign investors aren’t fully confident in the market’s recovery bounce. I don’t think gold prices will fall until we have a clearer picture of what the central banks are planning.
+GLD is a fund that tracks the price of gold, so as the precious metal rose, so did GLD. In the chart below, you can see that the fund has been bouncing around the last few days. Still, even after the price drop on Feb. 28, it didn’t cross below its up-trending support.
+Daily Chart of SPDR Gold Shares (GLD) — Chart Source: TradingView
+If you look closely at the chart above, you can see that GLD’s 50-day moving average and up-trending support intersected on the Feb. 28, forming a strong base.
+GLD will shift as the news does, but with a sufficiently out-of-the-money strike price — around $140 — we can take advantage of the recent push into this safe-haven asset. The COVID-19 scare won’t end all at once, and even as the situation resolves, I don’t think GLD will fall as fast as the market did last week.
+Sell to open the GLD April 3rd $140 put at about $0.33.
+Note: Be sure you are opening the weekly GLD options that expire on Friday, April 3, 2020.
+This is a high-risk trade, so take a small position.
+A naked put write is a bullish position in which you expect the price of the underlying stock to increase.
+InvestorPlace advisor Ken Trester also brings you Power Options Weekly, which delivers 5 new options trades and his latest trading advice to you each Friday. Trester has been trading options since the first exchanges opened in 1973 with a winning streak that goes back to 1984 with money-doubling average annual profits since 1990.
+Article printed from InvestorPlace Media, https://investorplace.com/2020/03/gold-prices-show-investors-arent-settled-yet-spdr-gold-share-gld/.

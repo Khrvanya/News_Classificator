@@ -1,0 +1,9 @@
+The three planned proposals—Schnorr signatures, Taproot schemes and Tapscript language—could be incorporated into the bitcoin network by the fourth quarter of 2020.
+"Bitcoin will soft-fork this year. It will be one of the most innovative additions to [bitcoin's layer one] thus far," Lucas Nuzzi, an analyst from Digital Assets Research, said this week via Twitter , adding the soft fork will likely happen in the final three months of the year.
+"These are powerful foundational technologies that will bring novel smart contracts to bitcoin's base layer," Nuzzi said. "2020 will be good."
+Meanwhile, a survey by bitcoin and cryptocurrency news and analysis site The Block found that the coming upgrade is being closely followed by bitcoin community with some high profile bitcoin developers predicting it will make transactions cheaper and enable the development of new features, such as the somewhat controversial Lightning network .
+"There will no longer be any penalties in terms of fees for multisig and that should lead the industry toward using best practices,” Jimmy Song, a Bitcoin Core developer and Bitcoin Fellow at Blockchain Capital told The Block.
+"We expect that this will create more interest in Lightning in general as the bleeding edge of bitcoin will be a little less bloody. Finally, we expect Taproot to be incorporated by more wallets and more interesting features built for those who are securing their bitcoin."
+The bitcoin price has more than doubled over the last month but bitcoin remains far from its 2019 ... [+] highs.
+In other major bitcoin developments this year, Bakkt, a New York Stock Exchange-owner backed bitcoin and cryptocurrency venture, is planning to launch a consumer app for cryptocurrency purchases in 2020 .
+U.S. coffee chain Starbucks will be its first launch partner, with the company one of the original backers of the crypto project, along with software giant Microsoft and Boston Consulting Group.

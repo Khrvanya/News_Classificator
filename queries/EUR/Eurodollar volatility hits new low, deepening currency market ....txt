@@ -1,0 +1,12 @@
+Euro-dollar volatility hits new low, deepening currency market misery
+LONDON, Nov 28 (Reuters) - As 2019 heads into its final month, currency markets show no sign of waking from their slumber, with key gauges of expected swings in the euro-dollar rate plumbing new record lows this week.
+Implied volatility gauges embedded in currency options markets have been bumping along at multi-year lows as central bank stimulus policies since 2009 flooded financial markets with liquidity. The listless markets have dismayed traders who make money when there are big exchange rate swings, as that raises demand from clients to hedge currency exposure.
+But hopes of a pick-up in volatility have been dashed as U.S. interest rate cuts this year were followed by monetary policy easing from other central banks worldwide. The Federal Reserve has even resumed its balance sheet expansion.
+Trading ranges in the euro/dollar pair this week were the narrowest in 20 years, falling to around 20 pips on Monday, analysts at Nordea pointed out.
+And implied euro/dollar volatility, calculated using option prices on a three-month horizon, is trading at 4.27%, the lowest on record, having fallen from 7.16% in January.
+One-year volatility — or vol in traders’ parlance, is also at a record low of 5.48%, down two percentage points this year .
+Market participants reported relentless demand to sell options which are often used to hedge against unexpected currency moves. Option sellers can then collect premiums — a steady income stream — from the buyers.
+“Basically people are chasing yield and one of the ways you could generate a yield (is) if you could write options,” said John Stopford, fund manager at Investec Asset Management.
+Uncertainty about the political and economic outlook remains high, said Stopford, citing trade wars, Brexit and protests in Hong Kong and across emerging markets. But “the pricing of insuring against those kind of events has actually just got stuck,” he added.
+Low vol begets more of the same. That’s because option buyers by default are ‘long’ volatility but they tend to hedge that position by trading the underlying currencies in spot markets, selling when the currency goes up and buying as it falls.
+That in turn lowers actual volatility and further reduces the incentive to buy hedges, a circle which Stephen Gallo, currency strategist at BMO Capital Markets, described as a “self-feeding doom loop”.

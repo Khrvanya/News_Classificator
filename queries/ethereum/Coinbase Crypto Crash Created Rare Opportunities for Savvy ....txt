@@ -1,0 +1,10 @@
+Coinbase identifies derivative arbitrage and stablecoin speculation opportunities created amid the recent crash.
+Despite the volatility of the March 12 - 13 crypto market meltdown, Coinbase has identified several unusual methods through which traders were profiting amid the chaos.
+The crash saw rare profits being generated through ‘crypto-and-carry’ derivatives arbitrage, stablecoin speculation, and the failure of MakerDAO’s auction protocol.
+Coinbase asserts that the sudden flip in market sentiment from bullish to bearish created opportunities for derivative arbitrage through “crypto-and-carry” trades.
+With the exchange estimating that the crypto market is usually net-60% bullish with futures prices higher than spot prices, Coinbase asserts that arbitrage through derivatives is typically executed through ‘cash-and-carry’ trades.
+When derivative prices widen relative to spot prices, traders can borrow fiat to go long on Bitcoin ( BTC ) while simultaneously going short on futures to lock-in profits from the spread at the time that the futures contract expires. As the strategy necessitates a significant spread in order to cover maintenance fees, opportunities for derivatives arbitrage are typically the most abundant during periods of peak volatility.
+With the markets suddenly turning bearish, traders were transversely able to long BTC while selling on the spot market in order to lock in profits through ‘crypto-and-carry’ trades during the March crash.
+The report notes that multiple stablecoins broke their fiat-peg to the upside as traders rushed to lock in value as crypto asset selling escalated amid the crash.
+While USD Coin (USDC) briefly traded at a 2% premium and Tether (USDT) tagged $1.05 during peak volatility, a failure in the liquidation engine underpinning MakerDAO’ s protocol has left DAI trading at a premium of multiple percent for weeks.
+The difficulties created a unique opportunity for the sole bidder who participated in Maker’s auctions for 3 hours by himself, who purchased batches of Ethereum ( ETH ) for $1 each — making out with $4 million worth of ETH for virtually free.

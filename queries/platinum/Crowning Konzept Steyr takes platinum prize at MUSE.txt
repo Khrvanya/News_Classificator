@@ -1,0 +1,11 @@
+A concept tractor from Steyr has been announced as the winner of the Platinum Award in the 2020 MUSE Design Awards competition in the concept design category.
+Conferred by a jury composed of international design professionals and industry specialists, the “Steyr Konzept” was chosen in a field of some 3,000 entrants.
+The MUSE Creative and MUSE Design Awards, established by the International Awards Associate Inc, “recognise the achievements of design professionals from around the world hailing from a range of disciplines”, according to Steyr’s parent company CNH International.
+CNH describes the Konzept as a “sustainable and potentially zero emission package”, noting that it was the result of collaboration between Steyr and sister powertrain brand FPT Industrial.
+The Steyr Konzept tractor “employs a serial hybrid approach whereby the diesel engine, a compact 4.5L four-cylinder unit, works at optimal speed as an energy generator, charging batteries”, CNH says.
+Depending on the application, the concept can achieve a 10% fuel saving versus pure diesel, the machinery giant says.
+The Konzept was one of the more eye-catching exhibits shown at Agritechnica 2019, in Germany – as reported by AgriLand .
+The (150kW/204hp) tractor is powered by a four-cylinder FPT engine, which drives an electric generator. This generator then powers four electric wheel-motors, plus a fifth electric motor for the PTO.
+This ‘hybrid’ tractor also has an on-board battery – with a capacity of 30kWh. The manufacturer says that a 60kWh version is possible too.
+As well as having an electrically-driven PTO, the tractor can also supply electricity to power suitable implements/machines at the rear.
+Interestingly, the tractor is also designed to operate whilst in ‘real-time’ communication with a drone – to enable it to process a greater array of (in-field) data.

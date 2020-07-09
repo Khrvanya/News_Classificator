@@ -1,0 +1,13 @@
+Please consider using a different web browser for better experience.
+Please enable JavaScript in your browser for a better site experience.
+ErisX Releases API for Bulk Trading of Bitcoin, Ether
+ErisX CEO Thomas Chippas said the new block trading API would improve its over-the-counter trading services. (Credit: CoinDesk archives)
+ErisX Releases API for Bulk Trading of Bitcoin, Ether
+Crypto derivatives platform ErisX said Tuesday it launched an application programming interface (API) for bitcoin, bitcoin cash, ether and litecoin block trading, allowing for bulk trades.
+The API provides greater integration of the firm’s block trading facility, a service for spot and futures market crypto traders looking to strike private, high-volume deals. This applies to spot trades of at least 10 bitcoin , 100 bitcoin cash , 100 ether or 250 litecoin , and futures trades of at least 10 bitcoin contracts or 50 ether contracts, according to a Tuesday blog post .
+Such orders might quickly rock those cryptos’ prices if the taker was to place them on the open market. This could trigger price volatility.
+By negotiating a trade privately with other ErisX registered members, clearing and settling it through ErisX’s in-house service and then reporting it only at or soon after the fact, the parties avoid destabilizing their own trade.
+“They eliminate counterparty settlement risk while limiting market impact,” Carlos Mosquera, Benatuil, CEO of Solidus OTC said in a press statement.
+Parties report their trades at the trade date or within 15 minutes of execution, the blog post said.
+“We are removing the friction and risks associated with OTC based workflows and expanding the universe of potential counterparties for our Members with a competitively priced service,” CEO Thomas Chippas said in the release.
+The leader in blockchain news, CoinDesk is a media outlet that strives for the highest journalistic standards and abides by a strict set of editorial policies . CoinDesk is an independent operating subsidiary of Digital Currency Group, which invests in cryptocurrencies and blockchain startups.

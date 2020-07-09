@@ -1,0 +1,23 @@
+Analysts and investors have been wondering if the same will happen to Europe's Brent oil futures, but most agree that while there are no technical obstacles for the contract going the same way, it is hard to see why it would
+LONDON: The expiry of the June contract for Brent oil futures in Europe on Thursday will possibly be the most watched event in oil markets for some time after the US benchmark plummeted below zero for the first time in history last week.
+The coronavirus pandemic has killed oil demand as over four billion people are in lockdown and last week, ahead of its contract expiry, US West Texas Intermediate (WTI) futures crashed deep into negative territory making it a liability for anyone holding it.
+Analysts and investors have been wondering if the same will happen to Europe's Brent oil futures, but most agree that while there are no technical obstacles for the contract going the same way, it is hard to see why it would.
+Brent is considered to be the international marker by the oil industry as it is linked to seaborne crude so has fewer storage limitations than WTI, which is settled against a major landlocked storage site in Oklahoma.
+Brent is run by the Intercontinental Exchange (ICE) in Europe and other crudes are unofficially pegged to it, so there is more vested interest in keeping it stable.
+Nevertheless, last week, ICE said it was ready to switch mathematical models, from Black-76 to Bachelier, to settle contracts at negative prices if needed.
+HOW DO BRENT OIL FUTURES WORK?
+Brent oil futures are indirectly linked to the physical oil market, specifically the oil pumped out of the depths of the North Sea.
+The contract takes its name from the Brent oilfield off the Shetland Islands.
+It is a cash settled contract rather than a contract that is settled with a physical cargo of crude.
+If a market participant holds the contract to expiry, ICE uses the ICE Brent Index as the final cash settlement price.
+The Index is published by ICE on the day after expiry. WHAT IS THE ICE BRENT INDEX?
+The Index represents the average price of trading in the North Sea forward market, also known as the cash market, in the relevant delivery month on expiry day.
+The forward market consists of physical North Sea cargoes that trade before producers of those grades issue their monthly loading programmes.
+The Index specifically follows five crude grades: Brent, Forties, Oseberg, Ekofisk and Troll.
+These grades are also used to set Dated Brent - a physical benchmark used to price most of the world's crude deals.
+The record disconnect between Brent futures and the physical market has narrowed considerably since mid-April, making a total collapse less likely.
+The spread between Dated Brent and Brent futures has narrowed to around $5 a barrel from $8 to $9 a barrel.
+Dated Brent was more than $11 a barrel cheaper than futures earlier in the month.
+"The arguments that Brent crude won't go to negative prices are solid. Crude oil in the North Sea is produced directly onto ships which then can sail all around the world and utilise the last remaining pockets of free inventories," Bjarne Schieldrop, chief commodities analyst at SEB, said.
+"Brent is not immune to a negative price possibility...Overall, however, Brent should be more resilient," Louise Dickson, oil market analyst at consultancy Rystad Energy , said.
+"There are also fewer players with a vested interest in seeing Brent collapse - Saudi and Russian crudes are both unofficially pegged to Brent, for example. WTI is mostly affecting the US interests, so if that collapses competing countries benefit."

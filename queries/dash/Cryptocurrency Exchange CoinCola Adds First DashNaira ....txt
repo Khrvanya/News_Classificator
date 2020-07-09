@@ -1,0 +1,13 @@
+Posted by Joël Valenzuela | Aug 12, 2019 | News |
+This post is also available in:
+Peer-to-peer cryptocurrency exchange CoinCola has added Dash-naira trading, bringing Dash access to a country with heavy over-the-counter (OTC) crypto economy.
+— CoinCola (@CoinCola_Global) August 12, 2019
+A platform for peer-to-peer trading of cryptocurrencies, CoinCola first added Dash last October, which notably provided valuable access to Dash for the emerging Venezuelan market. Now, thanks to a partnership with Dash Nigeria, Dash has been added to Nigerian naira pairs, adding the first peer-to-peer Dash-naira pair in the country. According to Dash Nigeria team lead Nathaniel Luz, the addition may help Dash’s continuing chipping away of Bitcoin’s dominance in the region:
+“Dash is sought as a means of saving their purchasing power and possibly make profits from an increase in price over time. People are using Dash for cross border remittances and payments also. Bitcoin has the first mover advantage, has a higher awareness and liquidity, but we are now seeing a growing demand for Dash, especially for savings and international payments.”
+The CoinCola partnership with Dash Nigeria was announced this week.
+While numerous established cryptocurrency exchanges exist in the country, OTC trading remains a strong segment of the marktes in Nigeria. Luz believes that platforms like CoinCola assist in bringing much of this trading under a more stable and trustworthy umbrella:
+“Despite the millions of dollars declared by exchanges and P2P platforms, most of crypto transactions in Nigeria happen P2P via WhatsApp and Telegram groups. There are obvious issues with such platforms such as: trust, lack of dispute resolving mechanism, etc. That paves the way for P2P platforms like CoinCola to fill in the gap, by being the escrow/ trusted 3rd party in these transactions.”
+Africa has remained a hotbed for OTC trading, with Paxful reporting a monthly average of $64.5 million in Bitcoin trading volume . Monthly LocalBitcoins trading volume for Nigeria alone has reached 1.5 billion naira ($4.12 million USD).
+According to Luz, the biggest challenges to Dash adoption in Nigeria is education, with expanded access to liquidity as a second:
+“The biggest barriers: Liquidity. Education. People need to be aware of the obvious pros of Dash over Bitcoin. That’s the easiest way to get a switch. We’ve been having a successful run though and we expect more results over time.”
+As part of a continued educational effort to bring higher awareness about Dash in the country, Dash Nigeria has launched a pidgin English video series to aid in spreading educational initiatives in the country.

@@ -1,0 +1,10 @@
+Alphabet Inc. (NASDAQ: GOOGL ) owned Google has become a member of the Hedera Governing Council responsible for the planning of Hedera’s blockchain network.
+Google will be joining the governing council for Hedera that includes 39 “term-limited and highly diversified” organizations enterprises. Present members include Boeing Co (NYSE: BA ), IBM (NYSE: IBM ), and Tata Communications, among others.
+Allen Day, developer advocate for Google, wrote in a blog post , “We’re inspired by what Hedera has accomplished to date, and look forward to providing the infrastructure and technologies to support what’s possible with distributed ledger technology.”
+All members of the governing council participate equally in approving updates to Hedera’s codebase as well as for making policies for the nodes that constitute Hedera’s blockchain network.
+Hedera Hashgraph was launched in September 2019 and claimed to process up to 10,000 transactions per second, which is faster than most current blockchains .
+According to Google’s blog post, Hedera has already been leveraging Google Cloud Platform (GCP), and Premium Network Tier — a highly provisioned, low-latency global fiber-optic network.
+Now that Google has come on board Hedera’s governing council, they will operate a Hedera node and make the ledger’s data available for analytics alongside GCP’s other public blockchain datasets.
+Alphabet Class A shares traded unchanged at $1,510 in the after-hours session on Tuesday. The shares had closed the regular session 0.093% higher at $1,510.06.
+The company’s Class C shares traded lower by 0.038% at $1,508.22 in the after-hours session on Tuesday. The shares had closed the regular session 0.0073% at $1,508.79.
+© 2020 Benzinga.com. Benzinga does not provide investment advice. All rights reserved.

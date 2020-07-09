@@ -1,0 +1,11 @@
+A single transaction today has created more Wrapped Bitcoin on the Ethereum network, than the total amount of BTC locked in the Lightning Network.
+One thousand Wrapped Bitcoin (WBTC) were minted today on the Ethereum network ( ETH ) —  a single transaction that represents more U.S dollar value than the entire Lightning Network.
+It brings the total amount of Bitcoin now locked in WBTC tokens to 2,300, compared to the roughly 927 Bitcoin ( BTC ) locked on the Lightning Network .
+According to decentralised finance data aggregator DeFi Pulse , the USD value of wBTC is $20.7 million, making it the eighth-largest decentralized finance ( DeFi ) protocol.
+Wrapped Bitcoin is an ERC-20 token that allows users to access popular ETH-based DeFi protocols using the value represented by their Bitcoin holdings.
+Users’ Bitcoin is held by custodian BitGo, while eight ‘initial merchants’ act as middlemen between the users and the custodian, including Dharma, Kyber, Ren, DiversiFi, Set Protocol, Gopax, AirSwap, and Prycto.
+The Wrapped Bitcoin protocol is operated by a decentralized autonomous organization comprising 16 projects including the initial merchants, Compound, and MakerDAO.
+BTC can be redeemed by burning wBTC tokens.
+The recent growth in popularity of DeFi has driven an expansion in the number of DeFi projects offering Bitcoin tokenization on the Ethereum network.
+At the start of April, PieDAO launched its first fund, PieDAO BTC++. The fund provides exposure to a diversified basket of synthetic BTC protocols, allowing users to access DeFi using its token while also hedging against failure or the targeting of any single synthetic BTC project. PieDAO BTC++ comprises 25% Wrapped BTC, 25% Synthetix BTC, 25% Provable BTC, and 25% imBTC.
+In November 2019, decentralized exchange Tokenlon launched the synthetic BTC protocol imBTC. However, the tokens have recently garnered controversy after being used in attacks targeting Uniswap and DForce last month.

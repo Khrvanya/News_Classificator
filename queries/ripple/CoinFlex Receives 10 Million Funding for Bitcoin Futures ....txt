@@ -1,0 +1,11 @@
+Physical Bitcoin futures settlement exchange CoinFlex has received $10 million in funding from Roger Ver, Polychain Capitals and other investors.
+Hong Kong-based cryptocurrency futures exchange CoinFlex has received $10 million through a funding round that closed last week.
+Asia-focused newspaper South China Morning Post (SCMP) reported the news on Aug. 26. According to the report, CoinFlex received funding from Bitcoin Cash ( BCH ) advocate and Bitcoin.com CEO Roger Ver, as well as Polychain Capital, NGC Ventures and Divergence Digital Currency.
+Polychain Capital and Digital Currency Group joined CoinFlex’s investment consortium back in March. CoinFlex is now reportedly looking to increase business from Asian retail investors.
+A safe haven from price manipulation?
+Per SCMP, CoinFlex describes itself as the world’s first exchange to offer a physical delivery for Bitcoin ( BTC ) futures contracts. According to Coinflex CEO Mark Lamb, physical delivery of the contracts ensures that neither spot nor futures prices have been manipulated. He said:
+“Professional and retail traders alike are affected by price manipulation in the cash settled futures market. In physical delivered contracts, anyone long at expiry receives the underlying bitcoin. There are no formulas involved.”
+Lamb believes that price manipulation attempts have been on the rise recently, saying that traders have been changing spot prices to exploit the fact that the trading volume of the crypto futures market is 1.5 larger than the crypto spot trading market.
+Benjamin Roth, the global head of trading at Kenetic Capital — a digital asset trading and investment firm — disagreed with this contention. Roth said he had not seen much evidence of price manipulation, and further noted that, “as traders we do not particularly worry about increased volatility going into a contract’s expiry, because traders naturally like to trade on volatility.”
+As previously reported by Cointelegraph, crypto trader Peter Brandt accused Ripple, the issuer of XRP, of manipulating the XRP price. Brandt wrote:
+“The chart pattern for many, many months has shown the distribution of XRP by Ripple – it has manipulated the price to hold support. But if support gives way Ripple will be forced to dump in a major way.”

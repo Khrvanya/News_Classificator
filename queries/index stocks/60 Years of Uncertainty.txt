@@ -1,0 +1,53 @@
+Kristalina Georgieva, Managing Director of the IMF, Peterson Institute for
+    and invest and of consumers to spend. Yet it is a nebulous concept, because
+    it reflects uncertainty in the minds of consumers, managers, and
+    relied on different methods to measure uncertainty. One approach is based
+    based on text-searching newspaper archives, for example, the Baker, Bloom
+    and Davis (2016) Economic and Policy Uncertainty index. However, these
+    approaches share an important limitation: they are typically limited to a
+    set of mostly advanced economies, and for many of these countries the data
+    are available only after the early 1990s.
+    countries in the world with a population of at least 2 million. It goes
+    back in time, providing data for the past 60 years. The index uses a single
+    source for all countries, which allows us to compare the level of
+    economic and political events, regarding both near-term (e.g., uncertainty
+    international forces in Afghanistan, or tensions between the Democratic
+    People’s Republic of Korea and the Republic of Korea) concerns.
+    provides country reports on a quarterly basis. These reports cover the
+    economy, policies, and politics of each country. We follow three steps in
+    quarterly basis from the EIU from the mid-1950s onward for 143 countries.
+    variants) is mentioned in these reports. Third, we normalize the total
+To address potential concerns regarding the accuracy, reliability, and
+    consistency of our dataset, we evaluate the index in several ways. First,
+    we examine the narrative associated with the largest global spikes. Second,
+    to rise close to political elections.
+This new data set allows us, for the first time, to examine the historical
+    evolution of uncertainty around the globe. Several interesting stylized
+First, global uncertainty has increased significantly since 2012. The latest data for the fourth quarter of 2019 show that, after dipping in
+    the third quarter of 2019, the aggregate index—a GDP-weighted average of
+    143 countries—is at an all-time high.
+    historical context. Looking back at the past 60 years, we see few episodes
+    1960s and the oil crises in the 1970s.
+    historically high for all countries in the world. They reflect, to a large
+    in the late 1960s, a period when China was less connected to the rest of
+        than in emerging market and low-income economies. Our analysis finds that uncertainty in emerging market and low-income
+    economies mostly follows the global average. This is because individual
+    country shocks are not synchronized, so they get averaged away. In
+    contrast, uncertainty in advanced economies spikes sharply, because these
+    countries tend to move together. Within advanced economies, uncertainty
+    synchronization is higher among euro area countries. In addition, we find
+        economies than in emerging market and advanced economies. One potential reason for this is that developing countries appear to have
+    more domestic political shocks like coups, revolutions, and wars; are more
+    susceptible to natural disasters like epidemics and floods; and their
+    shocks and have more limited capacity to manage these shocks.
+        and democracy. As countries move from a regime of autocracy and anocracy toward democracy,
+Finally, increases in the index foreshadow significant output declines,
+        with the effect being larger in countries with weaker institutions.
+This data set can be extremely valuable for researchers. For instance, the
+    across countries on key macroeconomic outcomes, such as foreign direct
+HITES AHIR is a senior research officer in the IMF’s Research Department, NICHOLAS BLOOM is professor of economics at Stanford
+    the IMF’s Asia and Pacific Department.
+    Uncertainty. ” Quarterly Journal of Economics 131 (4): 1593–1636.
+Leahy, J., and T. Whited. 1996. “ The Effect of Uncertainty on Investment:
+Cycles: Exogenous Impulse or Endogenous Response?” American Economic Journal: Macroeconomics , forthcoming.
+Opinions expressed in articles and other materials are those of the authors; they do not necessarily reflect IMF policy.

@@ -1,0 +1,24 @@
+4 Reasons Bitcoin Price Suddenly Slid Below $9K, Liquidating $55M
+The price of Bitcoin dropped below $9,000 as several factors put pressure on BTC/USD, including correlation with global stock markets.
+The price of Bitcoin ( BTC ) dropped below $9,000 from $9,660 within seven hours. The 7% plunge comes as $55 million worth of long futures contracts were liquidated on BitMEX.
+Four factors are likely behind the sudden decline in the price of the top cryptocurrency by market capitalization. Namely: stocks sliding, selling pressure from miners, an extended period of low volatility, and repeated rejection of $10,000.
+The price of Bitcoin drops 7% in 17 hours. Source: TradingView.com
+Stocks’ futures opened slightly higher Wednesday evening after a sharp sell-off during the regular market session, with the Dow dropping 2.72% — its worst day in two weeks.
+As regularly reported , Bitcoin and cryptocurrencies dropping with global markets has been a common theme in recent months. The realized one-year correlation between Bitcoin and the S&P500, for instance, has spiked during this time to nearly 40%.
+As pointed out by analyst Filbfilb last Friday, from a technical point of view, the market remains overall bullish despite consolidating below resistance at $10,000.
+Various data points from Glassnode, CryptoQuant and ByteTree indicate miners are selling Bitcoin en masse. According to researchers from Glassnode, the largest inflow of Bitcoin to exchanges was observed on June 24.
+“Yesterday we observed the largest flow of Bitcoin from miners to exchanges in over a year. This was primarily due to large miner transfers to Bitfinex, totalling 2,650 BTC.”
+Bitcoin inflow of miners to exchanges. Source: Glassnode
+When miners start to sell their Bitcoin reserves, specifically after a key difficulty adjustment , it can leave the Bitcoin exchange market vulnerable to a short-term pullback.
+Previously, Willy Woo explained that miners account for one of the two types of unmatched selling pressure for Bitcoin. Woo wrote :
+“There’s only two unmatched sell pressures on the market. (1) Miners who dilute the supply and sell onto the market, this is the hidden tax via monetary inflation. And (2) the exchanges who tax the traders and sell onto the market.”
+If miners sell tens of millions of dollars worth of Bitcoin when volatility has been low for weeks, it can trigger a massive price movement in a short period of time.
+Traders expected the price of Bitcoin to see an abrupt increase in volatility in the short-term since mid-June.
+Bitcoin showed lackluster price movements in the past month, while the open interest of futures exchanges continued to increase. That means a growing number of investors have anticipated Bitcoin to move, but the uncertainty between buyers and sellers at a pivotal point caused volatility to remain low.
+Bitcoin realized volatility hits a year-to-date low. Source: Skew
+Data provider Skew said the realized volatility of Bitcoin dropped to 30%, the lowest so far this year. Hence, the resulting lull finally ended for the first time since the last break from low volatility on June 12.
+The price of Bitcoin has ranged between $10,000 and $6,000 for most of the time in the past ten months.
+The three consecutive rejection of the $10,000 price level since October 2019 led Bitcoin to see a potential triple top, which would materialize if BTC falls below $8,000 in the near-term.
+At the same time, many traders remain optimistic for multiple reasons . Cryptocurrency trader Satoshi Flipper, for example, believes that even if Bitcoin drops to the $7,000s in the second half of 2020, BTC is on track to test $14,000. He said :
+“There’s an excellent chance we can dip into the 8k’s, even 7k’s on our way to test 14k ... that path doesn’t make me any less bullish than if we went up straight from here. I still think we’ll test 14k before the end of the year. It really all depends on stocks.”
+A confluence of fundamental factors, including the current correlation with stocks, the unexpected selling of miner reserves, may weaken the short-term trend of Bitcoin. Over the long-term, however, analysts generally anticipate a positive trend heading into the year’s end.

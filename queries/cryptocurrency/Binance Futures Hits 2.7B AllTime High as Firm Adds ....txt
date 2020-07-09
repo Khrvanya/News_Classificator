@@ -1,0 +1,9 @@
+Major cryptocurrency exchange Binance now supports Bitcoin and Ether futures trading on its new iOS app.
+Binance, the second -biggest cryptocurrency exchange by daily trading volume at press time, now supports Bitcoin ( BTC ) futures trading on its new iOS app.
+After Binance initially launched its two futures testnet platforms on Sept. 2, the exchange now allows its users to trade Bitcoin and Ether ( ETH ) futures contracts via its newly released iOS application, according to a blog post on Dec. 9.
+According to the firm, Binance iOS app users can now trade BTC/USDT contracts at up to 125x leverage, while ETH/USDT contracts are capped at 50x leverage.
+The news comes after Binance launched futures trading on its Android app in October 2019, the company noted . Bitcoin and Ether futures trading is now also available on Android, Binance stated in the blog post.
+Since Binance started rolling out Bitcoin futures trading in September 2019, its daily trading volume on Binance Futures platform reportedly hit an all-time of than 370,000 BTC. The blog post reads:
+“Within its first two months of operations, Binance Futures reached an all-time high (ATH) daily trading volume of more than 370,000 BTC (approximately $2.7 billion USD at date).”
+In mid-September, users reported that 24-hour trading volume of Binance Futures exceeded $150 million denominated in Tether. By mid-October, the platform set another futures trading record of $700 million, as reported by Cointelegraph.
+Bakkt, another major player on crypto derivatives markets to date, set a 5,600 BTC record for its futures contracts trading, equivalent to $42.5 million at the time of the report . Bakkt’s futures trading was launched on Sept. 23.

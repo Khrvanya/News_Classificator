@@ -1,0 +1,35 @@
+Please consider using a different web browser for better experience.
+Please enable JavaScript in your browser for a better site experience.
+Few investors ever get into bitcoin hoping for stability, but over the past eight or so weeks that’s pretty much what they’ve got.
+Since the start of May, bitcoin’s price has rarely strayed outside its $9,000 to $10,000 range. Occasions where it has crossed the $10,000 boundary, or sunk beneath $9,000 have, so far, remained short lived.
+“Despite a few large fluctuations, bitcoin’s price has been surprisingly stable for the past 2 months, rarely leaving the $9k-10k range,” wrote analysts at Glassnode in a newsletter Monday.
+You’re reading First Mover, CoinDesk’s daily markets newsletter. Assembled by the CoinDesk Markets Team, First Mover starts your day with the most up-to-date sentiment around crypto markets, which of course never close, putting in context every wild swing in bitcoin and more. We follow the money so you don’t have to. You can subscribe here .
+The idea bitcoin might be some sort of new, stable asset has been gaining followers; most of the time it’s tied to the idea that bitcoin is a new form of “digital gold.”
+The “Black Thursday” crash in mid March led all asset classes to move together, temporarily spiking correlations. But some argue that the correlation between gold and bitcoin has stayed particularly strong months after the crash.
+“The correlation between gold [and bitcoin] has consistently maintained relatively high levels for several months now, a phenomenon that has not been historically observed,” data provider Coin Metrics said in its June report.
+Analysts suggested the market might be treating both bitcoin and gold as safe-haven assets during unprecedented market disruption and volatility.
+But not everyone agrees with the digital gold narrative. Most notably, in a note to investors earlier this month, U.S. investment bank JPMorgan said bitcoin still remains a “vehicle of speculation” and rejected the idea it was becoming a new type of macro hedge.
+In recent months, the relationship between bitcoin and the stock market has “moved sharply higher,” analysts said. “There is little evidence that bitcoin and others served as a safe haven (i.e., ‘digital gold’) – rather, its value appears to have been highly correlated with risky assets like equities.”
+Coin Metrics shows the 90-day correlation between bitcoin and the S&P 500 – the world’s leading stock index – remained “very weak” at around 0.17, while that with gold came in at -0.07, a converse relationship that is virtually non-existent.
+However, data from CoinDesk indicates that, on a shorter 60-day rolling average, the relationship between the stocks and bitcoin was consistently stronger than that with the precious metal.
+As the graph below shows, the correlation between the S&P 500 and bitcoin has floated around 0.30 for most of June.
+In contrast, that between gold and bitcoin was in at just over 0.2, having fluctuated between a 0.15 trough and 0.45 peak across June.
+“We have seen a relatively steady increase in the S&P 500 index in the past couple of months which correlated with BTC’s trading range-bound around $8,600-$10,000,” said Bobby Ong, co-founder and COO of price aggregator site CoinGecko, in an email.
+This connection might help explain why the bitcoin price has stayed relatively stable and unaffected by industry-centric developments.
+The halving event in mid-May, which slashed block rewards from 12.5 BTC to 6.25 BTC, increased scarcity and was widely expected to drive prices higher – or, at least, increase volatility.
+But that didn’t happen. On the contrary, bitcoin’s price has stayed flat and volatility fell to an eight-month low, earlier this week.
+Bitcoin barely budged 1% on the news PayPal might be rolling out direct sales of cryptocurrency to its more than 325 million users worldwide.
+“Movements in the S&P 500 will play a major role in BTC price movement so changes in macroeconomic conditions is something we should keep an eye on,” Ong said. “I think BTC price may correlate with the stock market for the foreseeable future.”
+While the 0.30 correlation between bitcoin and the S&P 500 is still relatively weak, it’s still stronger and more consistent than with gold.
+Should the stock market rally continue, and bitcoin continue to track it, the original cryptocurrency could even be looking to break out of its established price range.
+However, as on Black Thursday, concerns around the global effects of the coronavirus and the ensuing economic turmoil could potentially also send both stocks and bitcoin tumbling once more.
+BTC: Price: $9,381 ( BPI ) | 24-Hr High: $9,699 | 24-Hr Low: $9,338
+Trend: Bitcoin is facing selling pressure on Wednesday despite a key indicator eyeing a bullish shift.
+The cryptocurrency is trading near $9,400 at press time, a -2.6% decline on the day, having faced rejection at $9,800 on Monday.
+However, the 100-day moving average (MA) of bitcoin’s price is on track to cross above the 200-day MA in the next 24 hours or so. The resulting bull cross of the two averages would be the first since early April.
+The cross comes on the heels of a so-called golden crossover of the 50- and 200-day MAs seen a month ago . Bullish MA crossovers are widely followed and often invite stronger chart driven buyers. So far, however, the cryptocurrency has failed to pick up a strong bid.
+On-chain developments, too, have been calling for an extended move higher for some time. For instance, the number of bitcoin “whales,” or entities holding at least 1,000 BTC , recently rose to 1,844. That’s the highest level since November 2017, suggesting continued buying pressure from wealthy investors.
+Even so, bitcoin remains trapped in the narrow range of $9,000 to $10,000. Moreover, the consolidation has gone far too long despite bullish technical and fundamental developments, and the bears may feel emboldened in the absence of quick progress to the higher side.
+The immediate support is seen at $9,000, which, if breached, would expose the 200-day MA located at $8,291. On the higher side, $10,000 is still the resistance to beat for the bulls.
+Sign up to receive First Mover in your inbox, every weekday.
+The leader in blockchain news, CoinDesk is a media outlet that strives for the highest journalistic standards and abides by a strict set of editorial policies . CoinDesk is an independent operating subsidiary of Digital Currency Group, which invests in cryptocurrencies and blockchain startups.

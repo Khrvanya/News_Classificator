@@ -1,0 +1,28 @@
+Last week, I had the pleasure of speaking to Crypto Lark , a popular YouTuber who first started broadcasting about two years ago.
+Lark Davies is New Zealand’s most popular crypto and Bitcoin personality. He grew up on a small organic farm reading Mad magazine and dreaming of space travel.
+Now known for his articulate, entertaining style, Crypto Lark combines his political science background, critical thinking skills, and bright sense of humour to produce content that explains blockchain solutions to the world.
+During the interview, we discussed the future of cryptocurrencies, the current economic panorama, how the Bitcoin protocol is developing, interesting projects in the space, and the impact smart contracts will have on the cryptocurrency ecosystem in the near future.
+You can watch the full interview below, available on YouTube.
+We started our conversation by jumping into the projects Lark currently supports.
+In his view, although Bitcoin is the most secure and robust, other contenders (like Ethereum) are aiming to seriously disrupt the space.
+Given the trade-off between scalability and security, Crypto Lark mentioned something Ethereum is keen on doing.
+I’m also quite interested to see how Proof-of-Stake will evolve in the Ethereum ecosystem. I tend to agree with him that this new consensus algorithm will help with adoption.
+However, ETH is hardly the only coin he’s taken a keen interest in.
+In terms of further cryptocurrency adoption, Lark immediately mentioned Binance .
+“Binance has been a monumental force in the space. Binance has been a major trend setter, with the Binance Chain and a massive ecosystem.”
+Binance is indeed one of the major players in the space. For instance, it has enabled an array of new functionalities such as IEOs and margin trading – something users quite adore. Lark added why:
+Of course, with great power comes great responsibility. We discussed the DeFi space since most exchanges are still quite centralised (remember guys: not your keys, not your coins).
+Non-custodial exchanges, such as Binance’s DEX, are a great first step towards a more decentralised future. Especially if we’re looking to promote the right sort of adoption.
+Will cryptocurrencies be the future?
+This greatly depends on how the world evolves. For example, will an economic recession play out and impact the crypto space?
+“Even though nobody wants to see an economic recession, that’s what’s most likely to happen in the near future,” Lark stated.
+He added, however, that Bitcoin should benefit from such an outcome.
+Another issue with the world economy currently is the ongoing trade wars between the United States, China, and many other countries.
+“The power of US dollars comes from violence. What has China been doing? China entered Africa and started developing other countries rather than going to war like the US.”
+Could the USD lose its place as the standard global currency in the future? Who knows, but surely that can only be achieved if crypto takes over instead.
+However, I did not want to end the interview on such a negative topic. We instead finished by discussing some other up-and-coming projects in the space.
+We touched on the Basic Attention Token, Chainlink, and some other projects like Enjin and the impact of non-fungible tokens.
+In Lark’s opinion, blockchain gaming will be key to future adoption.
+“With the adoption of NFTs, gaming will be huge.”
+I couldn’t agree more. Protocols like Enjin and Loom are definitely building the future. In fact, you can read more about pioneering blockchain games such as Gods Unchained, CryptoKitties, and NBA TopShot in my interview with Dapper Labs founder Roham Gharegozlou.
+Check out some more exclusive Coin Rivet interviews:

@@ -1,0 +1,7 @@
+On 18 November, somebody swapped out the legitimate command line wallet binaries for the Monero (XMR) cryptocurrency and replaced them with software that stole users’ funds.
+The malicious versions of the Linux and Windows binaries were first spotted by a user on Monday who noticed that the software failed an integrity check.
+Like a lot of software vendors, The Monero Project publishes SHA-256 hashes of its software. Users can check their software download by running it through a SHA-256 hashing function to see if it matches the published hash.
+The Monero team confirmed the swap on Tuesday, assuring users that the malicious wallet binaries were up for only a short time – 35 minutes, to be precise.
+The malware-impregnated binaries were immediately dealt with, according to binaryFate – a member of the XMR core team who said on Tuesday that the binaries were now being served from a new, safe, “fallback” source.
+A half hour was long enough to lead to at least one wallet getting drained, however: one user claimed on Reddit that 9 hours after they ran the binary, a single transaction scooped $7,000 worth of coins out of their wallet.
+As of Wednesday, there were a number of unanswered questions. It wasn’t clear how the attacker(s) pulled off the compromise of the Monero site, nor how many users were affected, nor the total value of cryptocoins that were stolen. There are several people investigating the incident, Monero said.

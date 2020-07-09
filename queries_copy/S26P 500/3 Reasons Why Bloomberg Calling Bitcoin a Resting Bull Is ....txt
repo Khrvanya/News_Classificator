@@ -1,0 +1,26 @@
+A recent Bloomberg report says Bitcoin is a resting bull but improperly interprets key metrics to paint a bullish case for BTC.
+Bloomberg senior commodities strategist Mike McGlone recently released a midyear crypto outlook , which states that Bitcoin volatility should continue to decrease as the asset behaves more like gold. The report also says that primary demand and adoption indicators remain positive.
+The report concludes that Bitcoin is set for a breakout with a target at the $13,000 resistance. Although this perspective is defensible, the arguments presented in the article seem flawed. Correlation metrics for the past six months have drawn Bitcoin away from gold’s hedge status, as it has been trading in sync with the S&P 500 most of the time.
+Regarding the oft-mentioned surge in demand, the recently reported inflow to Grayscale Investment’s funds cannot be interpreted as new money entering the space. The same can be said about the record-breaking increases in Bitcoin futures open interest as every derivative instrument needs a buyer and seller of the exact same size.
+One of the reasons Bitcoin caught investors’ eyes during the past couple of years is the digital asset’s lack of correlation to traditional investments.
+There have been periods of parallel performance, mostly caused by the same socio-political and economic headwinds that impact every major asset class.
+Bitcoin 30-day correlation to gold (red) and S&P 500 (blue). Source: TradingView
+The story to be told in 2020 is the increasing correlation between Bitcoin and S&P 500. No clear trend has been found with gold prices, although recent data points to the highest negative figure since December 2018.
+Negative correlation implies opposite direction performances, so there’s just no case to build an argument the other way around.
+The Bloomberg report states that increasing inflow to Grayscale Investments’ funds is a sign of bullish investor sentiment. The funds are akin to an ETF and could be considered a good indicator of investor demand. GBTC's large appetite is unquestionable, having added over 53k Bitcoins post-halving , as reported by Cointelegraph.
+Grayscale Bitcoin Trust GBTC premium to Net Asset Value (NAV). Source: YCharts
+This fund has historically traded with a significant premium over its net asset value (NAV), or the market value for the Bitcoin contained within, as shown on the chart above.
+Such a difference is caused mostly due to retail investors inability to purchase shares directly from Grayscale Investments, whose funds are aimed exclusively for accredited investors.
+The two ways professional investors acquire GBTC shares directly from Grayscale is by transferring USD, or making ‘in-kind’ contributions by transferring over their BTC.
+Grayscale Investments products inflow by type. Source: Grayscale
+The latest data from late 2019 shows that almost 80% of Grayscale Investments’ inflows have been ‘in-kind,’ meaning there hasn’t necessarily been any buying activity. Those BTC could have been acquired earlier by professional investors or borrowed from large over-the-counter trading desks.
+For example, Genesis, a leading OTC and lending firm, closed the fourth quarter of 2019 with $545 million worth of active loans , as reported by Cointelegraph.
+Although there’s clearly a final buyer for these GBTC shares, it can’t be said that this flow is adding buying pressure to the market.
+Effectively, BTC are moving out of professional clients’ hands to Grayscale Investments as a custodian. This is a regular trade, similar to the $82 billion trading volume seen in the last 30 days on regular exchanges.
+The Bloomberg report also cites growing CME Bitcoin futures open interest as a signal of asset maturation and a positive price indicator. This misses the mark in so many ways as Medallion Funds recent $10 billion entry in this market definitively can’t be pegged to long-term investment or even some fundamental bullish case.
+Such quantitative arbitrage trading desks make both long and short trades, so it is impossible to correlate such increasing activity with either bull or bearish cases.
+Not to mention, CME Bitcoin futures are financially liquidated instruments, meaning no actual BTC is moved on contract expiry.
+To conclude, the Bloomberg report indicates that futures trading on a U.S. regulated exchange is vital for mainstream adoption. Even if one considers BAKKT physical futures with BTC settlement, the BTC in their custody are not accepted as margin.
+Mainstream adoption has nothing to do with derivatives trading as Bitcoin has been designed to work independently, without the need of ETF and financial instruments.
+In fact, mainstream adoption is more likely to happen when major investment funds create direct exposure to Bitcoin.
+The views and opinions expressed here are solely those of the author and do not necessarily reflect the views of Cointelegraph. Every investment and trading move involves risk. You should conduct your own research when making a decision.

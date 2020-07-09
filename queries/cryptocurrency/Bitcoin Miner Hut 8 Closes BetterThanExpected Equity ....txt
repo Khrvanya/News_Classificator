@@ -1,0 +1,18 @@
+Please consider using a different web browser for better experience.
+Please enable JavaScript in your browser for a better site experience.
+Miner Hut 8 said last week it had raised a total of $8.3 million from selling a 6% equity stake to investors, approximately $800,000 more than the original $7.5 million funding target.
+The Toronto-listed mining company says the funding will keep it competitive as smaller entities with older equipment feel the pinch from last month’s halving.
+“We’re proud to close the first prospectus offering by a cryptocurrency mining company in Canada and further improve Hut 8’s lead as one of the largest public bitcoin miners,” said Jimmy Vaiopoulos, Hut 8’s interim CEO, in a statement.
+Overall, investors purchased a total of 5.7 million “units” in Hut 8, at $1.45 apiece. Each unit contains one common share in Alberta-based Hut 8, as well as the option to purchase another share in the next 18 months at $1.85.
+The funding will be invested in new equipment. Ryleigh Ebron, an external spokesperson for Hut 8, said the company be able to increase mining capacity by more than a fifth to 1,150 petahash (PH/s). Once installed, the company could comprise just under 1% of the total hash rate for the bitcoin blockchain, currently around 115,200 PH/s according to Blockchain.com.
+“This financing is expected to strengthen Hut 8’s cash flows and balance sheet,” Ebron added.
+Hut 8’s finances have been the subject of much discussion. It saw a $116.6 million loss just in Q4 2019. As a report from CoinDesk Research highlighted earlier this year, the company made a wafer-thin gain of just over $2 million in 2019.
+The stock price says it all : In April 2018, Hut 8 traded at CAD $4.50 (~$3.28) but has since spiraled downwards, hitting a low of CAD $0.59 ($0.43) by mid-March this year. At the time of writing, shares were at CAD $0.98 (~$0.72).
+Hut 8 has attributed this poor performance to a deleterious agreement that obliged them to only buy mining equipment from manufacturer Bitfury, its single biggest investor. That prevented it from accessing the faster miners coming from Bitfury’s rivals, leaving it with rapidly aging equipment.
+Over time, that meant it made up less of the total hashrate and won far fewer blocks, which hit revenue. In January, Hut 8 amended the agreement so it could buy mining equipment elsewhere.
+Interestingly, Hut 8 said it will use all the new funding to buy mining equipment from Bitfury’s rival, MicroBT. Most of the new rigs will arrive between July and November.
+Hut 8 hopes the halving will make it harder for some of their competitors, the ones operating with older equipment, to stay in the game, said Ebron.
+“The halving is arguably better for miners who can get access to the latest generation of bitcoin mining equipment as they are far more profitable and will benefit from the drop in network difficulty as older equipment continues to be turned offline,” Ebron said.
+Ebron also pointed out the miner is in a particularly advantageous position because lower electricity rates in Alberta mean Hut 8 can better weather fluctuations in the volatile bitcoin price.
+Hut 8 listed on the Toronto Securities Exchange in October 2019. The exchange has already approved the listing of newly sold shares, subject to the mining company meeting listing conditions, which include having more than CAD $7.5 million (~$5.5 million) in net tangible assets, such as new mining equipment.
+The leader in blockchain news, CoinDesk is a media outlet that strives for the highest journalistic standards and abides by a strict set of editorial policies . CoinDesk is an independent operating subsidiary of Digital Currency Group, which invests in cryptocurrencies and blockchain startups.

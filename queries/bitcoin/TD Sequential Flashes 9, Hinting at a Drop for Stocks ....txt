@@ -1,0 +1,14 @@
+The U.S. stock market is at a major pivotal point as the TD Sequential indicator has lit up, suggesting a possible sell off in major markets and correlated assets like Bitcoin.
+The U.S. stock market is at a major pivotal point as a TD9 sell indicator has lit up while the Dow Jones remains at the 0.618 Fibonnaci level. There is a strong possibility that a pullback of equities would translate to increased selling pressure on Bitcoin.
+The TD sequential is an indicator that identifies a turning point in the price trend of an asset or an index. Essentially, on any time frame, if the chart of an asset shows nine consecutive candles above or below the closure of four candles prior, then it prints a TD9.
+For instance, in 2018, a TD sequential chart by Tone Vays showed the Bitcoin price flashing nine consecutive candles on a 4-hour chart that was above the closure of four candles before the nine candles. Since the price increased, it indicated a TD9 sell signal.
+Tone Vays’ TD Sequential Bitcoin chart. Source: Hackernoon
+Currently, the Dow Jones Industrial Average (DJIA) is similarly showing a TD9 on the 4-hour chart. On higher time frame charts, it is still not demonstrating a clear TD9 sell signal. This would indicate that selling pressure is mounting and it is portraying early signs of a potential reversal to see a bearish retest of recent lows.
+Dow Jones Industrial Average 4-hour chart prints TD9. Source: TradingView
+In a Fibonacci system, the 0.618 level indicates a reversal point in a price range. It typically decides whether an asset or an index like Bitcoin or the Dow remains in a downtrend or breaks out to see an extended rally.
+The Dow is slightly below the 0.618 Fibonacci level, which could mean that there is an overhead resistance that may temporarily halt the recovery of the U.S. stock market.
+With two widely adopted technical indicators pointing toward the resumption of a bearish trend for the Dow Jones, the Bitcoin price could see a retest of the $4,000 to $5,000 range in the near-term if the frantic sell-off of major asset classes continue.
+On higher time frames, the TD9 signal tends to be highly accurate. The last time the Dow Jones saw a TD9 on a high time frame was on the daily chart on March 18 as a buy signal. Since then, the Dow rallied by more than 27 percent in a single month.
+The TD9 indicator tends to be accurate on high time frames because it requires 13 candles to close within a certain structure. For example, on a daily chart, 13 candles represents 13 days, so it evaluates a relatively longer price trend than other technical indicators.
+Dow Jones Industrial Average chart. Source: Tradingview
+Whether the TD9 on a 4-hour Dow chart will eventually lead to a 9 on the daily chart remains to be seen. But, it coincides with the failed attempts of Bitcoin to break out of the $7,200 to $7,400 resistance area in the past two weeks, showing stagnancy.

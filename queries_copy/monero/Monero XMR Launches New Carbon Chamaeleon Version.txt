@@ -1,0 +1,13 @@
+Monero (XMR) has announced the release of CLI v0.15.0.0 Carbon Chamaeleon on the programmed date.
+The new Monero (XMR) Carbon Chamaeleon version comes amidst plans of the network’s hard fork scheduled for 30 November 2019.
+The official post said: “CLI v0.15.0.0 ‘Carbon Chamaeleon’ released. Please be reminded that a user, service, merchant, pool operator, or exchange must run this version (v0.15) to be sufficiently prepared for the scheduled protocol upgrade of November 30.”
+The announcement on Reddit also recorded guidelines to download the new binaries. It suggested that after downloading the latest version, resync of blockchain wouldn’t be necessary. Hence, immediately a user opens the latest version, v0.15.0.0, it’ll continue from its last stop.
+Besides, to upgrade, users need to take the following steps. First, download the new binaries (the .zip file (Windows) or the tar.bz2 file (Mac OS X and Linux)) from the official website . The direct download links in this thread, or Github . Next, extract the new binaries to a new directory of your liking. Then, copy over the wallet files from the old directory (i.e. the v0.14.x.x directory). Then, start monerod (Note: a database conversion is required if you are upgrading from v0.14.x.x. Although it should be relatively fast) and monero-wallet-cli (in case you have to use your wallet).
+Importantly, a blockchain resync isn’t needed. Thus, if you open monerod-v.0.15.0.0, it’ll simply pick up from where it left off. However, an upgraded daemon (monerod) database version must take place.
+Additionally, concerning the GPG-signed hashes, the network advised users to examine the integrity of binaries. By verifying that they were signed in by Fluffypony aka Riccardo Spagni’s GPG key.
+Furthermore, users can also make use of the prune-blockchain tool for pruning. But, before using the tool, close all Monero-oriented processes. Also, if a user stores his/her blockchain file in a non-default directory, there’ll be a need to utilize the –data-dir flag.
+RandomX, a new proof-of-work algorithm, happens to be the result of the imminent hard fork.
+Besides, the network disclosed next week as the expected date for GUI v0.15.0.0.
+Cryptocurrency exchanges, like KuCoin, that support Monero said that they prefer to put a hold on Monero deposit services until the network regained stability. Although, cryptocurrency exchanges like Huobi , Bittrex and more don’t have an official response yet.
+To remind, Monero (XMR) Futures announced it’ll commence trading on Dubai-based crypto exchange, BTSE.
+Currently, Monero (XMR) trades at $63.57, with a 2.27% price increase over the last 24 hours.

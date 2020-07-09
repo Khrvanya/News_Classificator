@@ -1,0 +1,13 @@
+Today, we wade the reader through silver futures traded on commodity exchanges like MCX.
+Contracts that facilitate hedging and/or speculation by allowing a trader to buy or sell the underlying commodity at a fixed price on a future date.
+In previous editions of classroom, ET has dwelt on the basics of gold futures. Today, we wade the reader through silver futures traded on commodity exchanges like MCX.
+Contracts that facilitate hedging and/or speculation by allowing a trader to buy or sell the underlying commodity at a fixed price on a future date.
+2. How many contracts are available for trading?
+Five contracts are launched as per the launch calendar. Currently, five have been launched for 2020 – March, May, July, September and December. The liquid contracts are those for March and May next year.
+3. What are the contract specifications?
+The contracts are launched on the 16th day of the launch month and expiry is on the 5th of the expiry month. If the 16th is a holiday, the launch is on the following day, and if the 5th is a holiday, the expiry is on the preceding day. Trading is on from Mon-Fri, 9 am -11:30 pm/11:50 pm daylight saving.
+One contract is of 30 kg. The maximum order size is 600 kg. The margin is 5 per cent plus additional or special margin in case of excessive volatility. The maximum allowable position limit for an individual client is 100 metric tonnes or 5 per cent of market-wide position limits, whichever is higher. Delivery of LBMA (London Bullion Market Association)-approved silver bars of 99.99 per cent purity is from Ahmedabad.
+Assume you want to buy a silver March 2020 contract trading at Rs 45,419 per kilo intraday Monday. A lot (30 kg) will be worth Rs 13,62,570. Assume you have to put up a 5 per cent margin to trade; you will require Rs 68,128 (broker might take extra depending on volatility). That gives a trader 20 times leverage. The seller bets the price will fall by or before expiry on March 5, while the buyer thinks it will rise.
+Now assume on Friday, the contract jumps to Rs 46,000, the seller’s account is debited to Rs 581 a kg while the buyer’s trading account is credited with Rs 581. On contract level, the gain is Rs 17,430, or a gross return of 26 per cent on the margin to trade. For the seller, the loss is equally great as futures is a zero sum game.
+Yes. Profits and losses can be huge, unless a strict stop loss is placed.
+Your broker should have a unified licence to trade equity and commodity segments and should be registered with exchanges like MCX to offer broking.

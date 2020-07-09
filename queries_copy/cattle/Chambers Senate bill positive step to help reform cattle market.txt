@@ -1,0 +1,35 @@
+I have put off writing about these problems for months, just hoping more of you farmers, ranchers and cattle feeders would wake up and see the light
+I have several friends and customers that are big believers in the National Cattlemen’s Beef Association and Kansas Livestock Association and other state organizations that put total belief in what NCBA puts out for facts. This market or predicament, whichever you want to call it, is the direct result of what the NCBA has accomplished for you. They have ownership of this mess. The above mentioned friends and customers are good, hardworking people. I hate to see them, their children, their grandchildren and their neighbors up and down the road cheated.
+I saved the Dec. 31, 2019, copy of High Plains Journal because of an article on pages 43 and 44 titled “Blach issues outlook.” The article summarized some information Cattle FAX gave to some producers at the KLA convention Dec. 5, 2019, in Wichita, Kan.
+I don’t believe very much of the fluff or excuses for us being cheated but when he got to “packer for profits” on page 44 … he says and I quote, “Even though the packers are going to make $20, $30 or $40 a head this year on average, even though they’re going to make you understand, we don’t have to find that demand. That demand is already in the system. They’re keeping a little more of the margin, but it is already there.”
+The truth is they have been stealing $200 to $700 a head all year and it has only gotten worse before the current disruption. Even Drovers reported the packer margin had been over $770 a head for the week ending April 24, 2020, while the feeders were bearing $200 a head losses.
+What is being done is totally illegal but the laws are not being enforced. Thanks (Secretary of Agriculture) Sonny Perdue and our legislators who have sold most of us out. My favorite saying is “You can’t be that stupid for free.”
+The cattle people are not the only ones being cheated. The nation’s consumers are being completely ripped off as well. The packers have increased imports and some are reportedly putting meat into cold storage to further increase their margins.
+However, there is still time to fix this broken system but we need to act fast. The first place to start is by supporting the bipartisan bill introduced by Sens. (Charles) Grassley and (Jon) Tester on May 12. That bill would require all large packers to procure at least 50% of their cattle from the cash cattle market. This would be a great first step toward ensuring a competitive cattle market and the livelihood of all these independent producers who depend on it. Pick up the phone of your local representative and voice your support for independent cattle producers. ❖
+Readers like you make the Fence Post’s work possible. Your financial contribution supports our efforts to deliver quality, locally relevant journalism.
+Now more than ever, your support is critical to help us keep our community informed about the evolving coronavirus pandemic and the impact it is having locally. Every contribution, however large or small, will make a difference.
+Each donation will be used exclusively for the development and creation of increased news coverage.
+Start a dialogue, stay on topic and be civil.
+If you don't follow the rules , your comment may be deleted.
+						var vf_adctr = 0;
+								if (++vf_adctr > 10) { return; }
+								var vf_slot_div_id = "ad-comment-" + vf_adctr;
+						var form = this;
+						// after 1/2 second, submit the form
+					return ( currentSubscriptions || [] ).filter( elem => elem.topic_id === node.dataset.topic ).length > 0;
+					topic.classList.toggle( 'vf-follow-toggle-on', getTopicSubscriptionStatus( topic, currentSubscriptions ) );
+						var node = evt.target;
+								console.log( 'failure to unsubscribe: ' + err );
+							var promise = window.viafoura.topics.subscribe( node.dataset.topic, node.dataset.topicname, node.dataset.topictype || 'topic' );
+								console.log( 'failure to subscribe: ' + err );
+					const vfUUID = document.querySelector('meta[name="vf:uuid"]').content,
+					      if (response.status !== 200) return;
+/* <![CDATA[ */ var tribe_l10n_datatables = {"aria":{"sort_ascending":": activate to sort column ascending","sort_descending":": activate to sort column descending"},"length_menu":"Show _MENU_ entries","empty_table":"No data available in table","info":"Showing _START_ to _END_ of _TOTAL_ entries","info_empty":"Showing 0 to 0 of 0 entries","info_filtered":"(filtered from _MAX_ total entries)","zero_records":"No matching records found","search":"Search:","all_selected_text":"All items on this page were selected. ","select_all_link":"Select all pages","clear_selection":"Clear Selection.","pagination":{"all":"All","next":"Next","previous":"Previous"},"select":{"rows":{"0":"","_":": Selected %d rows","1":": Selected 1 row"}},"datepicker":{"dayNames":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"dayNamesShort":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"],"dayNamesMin":["S","M","T","W","T","F","S"],"monthNames":["January","February","March","April","May","June","July","August","September","October","November","December"],"monthNamesShort":["January","February","March","April","May","June","July","August","September","October","November","December"],"monthNamesMin":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"nextText":"Next","prevText":"Prev","currentText":"Today","closeText":"Done","today":"Today","clear":"Clear"}}; /* ]]> */
+/* <![CDATA[ */ var pollsL10n = {"ajax_url":"https:\/\/www.thefencepost.com\/wp-admin\/admin-ajax.php","text_wait":"Your last request is still being processed. Please wait a while ...","text_valid":"Please choose a valid poll answer.","text_multiple":"Maximum number of choices allowed: ","show_loading":"1","show_fading":"1"}; /* ]]> */
+ga('set', {'dimension1': 'Opinion','dimension2': 'None','dimension3': 'Opinion/None','dimension5': loggedIn,'dimension6': 'Richard C. Chambers','dimension7': '','dimension8': '2020-06-11','dimension9': '40442749','dimension10': '','dimension12': '2020-06-11 16:38:01','dimension13': '501','dimension14': 'article','dimension15': '465','dimension16': '','dimension18': swiftLanguage});
+ga('newTracker.set', {'dimension1': 'Opinion','dimension2': 'None','dimension3': 'Opinion/None','dimension5': loggedIn,'dimension6': 'Richard C. Chambers','dimension7': '','dimension8': '2020-06-11','dimension9': '40442749','dimension10': '','dimension12': '2020-06-11 16:38:01','dimension13': '501','dimension14': 'article','dimension15': '465','dimension16': '','dimension18': swiftLanguage});
+      var emailRegex = /([a-zA-Z0-9_\.-]+)@([\da-zA-Z\.-]+)\.([a-zA-Z\.]{2,6})/i;
+      var cleanPageLocation = currLocation.replace(emailRegex, "");
+	        _sf_async_config.uid = 57640; _sf_async_config.domain = 'swiftcom.com'; _sf_async_config.useCanonical = true; _sf_async_config.useCanonicalDomain = true;
+	      	_sf_async_config.authors = 'Richard C. Chambers';
+	          var oldonload = window.onload;

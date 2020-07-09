@@ -1,0 +1,21 @@
+This article provides an overview of how Bitcoin (BTC), XRP, Litecoin (LTC), Tezos (XTZ), and Chainlink (LINK) have been doing over the past 24-hour period, covers recent news that might have affected their prices (or might do so in the future), and looks at interesting tweets about these cryptoassets from prominent members of the crypto community.
+To give you a rough idea of how well the crypto markets are doing today, 14 out of the top 20 cryptoassets (by market cap) are currently in the green (against the dollar).
+All market data used in this article was taken between 12:20 UTC and 13:05 UTC on 3 May 2020 from CryptoCompare , which also provided the price charts shown in this article.
+Bitcoin, which stated the year at $7,183, is current at $8,984, which means that it is up 25.07% so far in 2020. In contrast to the cryptocurrency that is quite often referred to as "digital gold", physical gold is up 12.06% for the year-to-date (YTD) period, according to data from GoldPrice.org.
+Earlier today, Scott Melker , a crypto trader at Texas West Capital, made these observations about Bitcoin:
+$10,000 —> $3,800 —> $9,000 in the blink of an eye.
+Even if you’re not a believer, Bitcoin’s volatility is a trader’s wet dream.
+— The Wolf Of All Streets (@scottmelker) May 3, 2020
+Everyone is a genius in a bull market. Traders make money, but usually less than investors. If you think $BTC volatility is bad for traders, then you (like most people) are far better off as an investor.
+— The Wolf Of All Streets (@scottmelker) May 3, 2020
+Bottom line - there has never been a better asset for traders than Bitcoin. You don’t need to understand fundamentals or study news. All you need is a chart and good risk management. The volatility and potential for winning are built in.
+— The Wolf Of All Streets (@scottmelker) May 3, 2020
+Bitcoin's next (third) halving event is on May (i.e. in less than nine days), and there are many who are expecting in the run-up to this event. However, this is by no means a certainly since during the current COVID-19 pandemic, Bitcoin has been showing a moderate amount of positive correlation to the S&P 500 index, and if there is more bad news about COVID-19 cases or the U.S. economy, this could negatively impact the price of Bitcoin.
+XRP, which started the year at $0.1927, is currently at $0.2218, which means that it is up 15.10% so far in 2020.
+On Thursday (April 30), Ripple released its "Q1 2020 XRP Markets Report". Ripple publishes this quarterly report to "voluntarily provide transparency and regular updates on the company’s views on the state of the XRP market, including quarterly programmatic and institutional sales updates, relevant XRP-related announcements such as Xpring and RippleNet partnerships and commentary on previous quarter market developments."
+Ripple reminded us that since Q2 2019, it has been using "a more conservative volume benchmark for XRP sales, away from CoinMarketCap and to CryptoCompare Top Tier (CCTT)."
+In Q2 2019, Ripple "significantly reduced XRP sales." And in Q3 2019 and Q4 2019, Ripple "further reduced XRP sales and paused programmatic sales."
+This appraoch was maintained in Q1 2020, with total XRP sales for this quarter coming to $1.75 million vs. $13.08 million in Q4 2019. Programmatic sales of XRP stayed paused, with the company "focusing solely on its over-the-counter (OTC) sales to build XRP utility and liquidity in strategic regions including EMEA and Asia."
+Litecoin, which is the 7th most valuable cryptoasset by market cap, began the year at $41.20 and is currently at $48.67, which means that it is up 18.13% so far in 2020.
+Weiss Crypto Ratings , a crypto-focused division of ratings agency Weiss Ratings, has an overall rating of "B-" for Litecoin (same as XRP).
+On Friday (May 1), David Burkett, the Grin developer who is leading the project to add privacy support to Litecoin via the MimbleWimble (MW) protocol, provided an update on the progress achieved in April 2020:

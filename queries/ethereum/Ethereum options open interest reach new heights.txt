@@ -1,0 +1,16 @@
+Options contracts for ETH are more popular than ever. And with Ethereum 2.0 around the corner, ETH holders may have reason to be bullish.
+Skew analytics recorded all-time-high open interest for Ethereum options on Deribit today.
+Deribit is by far the largest ETH options exchange, but competitors like Binance are fighting for market share.
+Options help users hedge their investments or allow issuers to earn a premium from non-executed contracts.
+A blockchain project conceived by Vitalik Buterin that allows developers to build decentralized apps (dapps) using Smart Contracts.
+options among traders has never been greater.
+According to data provided through Skew analytics earlier today, option contracts for Ethereum on leading options exchange Deribit have reached a new all-time high of more than $108 million of open interest.
+That means more investors are hedging their bets when it comes to the price of Ethereum over the next few months, while those issuing the contract are out to make a quick buck based on their confidence in how ETH prices will behave.
+It all adds up to levels of activity not seen since this time last year, when ETH was valued at more than three times the price today. It’s a sign that something’s up—and with the Ethereum 2.0 release scheduled for release in just a few months, the sky high options interest is potentially another bullish signal for Ethereum.
+Launched in June 2016, Derbit has grown to become by far the largest Ethereum options exchange. The vast majority of options contracts on Derbit are settled in USD, meaning no ETH changes hands when a contract expires. Instead, the market price of ETH is used to determine payouts if an options contract is executed. Options contracts give holders the right (but not the obligation) to buy or sell ETH at a given price before a given date in the future.
+Competition in the Etherum options space has been heating up in recent months, with Binance adding Ethereum options trading to its platform earlier this month. (And, in related crypto derivatives news, TD-Ameritrade backed ErisX launched physically delivered ETH futures just two weeks ago as well)
+Decrypt earlier reported on Derbit’s integration with Copper’s ClearLoop , enabling instant transfers from custody accounts to reduce the risk inherent to options trading. Opyn, a decentralized options platform, also launched ETH options trading in March.
+Prior to the recent run-up, Ethereum options saw spikes of activity in September 2019 when ETH rose nearly 20%, from under $170 to over $200, over the course of three weeks and again in February 2020, after ETH prices increased nearly 125% in six weeks. Options traders are keen to take advantage of such price swings because options contract prices are derived from the market price at the time the contracts are issued.
+Editor's note: This article was updated to clarify that ErisX now offers ETH futures, not options, on its exchange.
+The views and opinions expressed by the author are for informational purposes only and do not constitute financial, investment, or other advice.
+Get the best of Decrypt where you want it most.

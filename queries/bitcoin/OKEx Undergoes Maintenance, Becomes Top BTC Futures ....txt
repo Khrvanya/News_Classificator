@@ -1,0 +1,12 @@
+OKEx completed maintenance to find its trading volumes increased and the platform became the top Bitcoin futures exchange.
+OKEx completed a short maintenance yesterday at a time of great volatility in the cryptocurrency market. The exchange also just recently overtook competitor BitMEX and became the top Bitcoin futures trading platform.
+On Mar. 12, OKEx announced that the platform would be down for system maintenance starting at midnight UTC for about half an hour. Later the same day, the exchange announced that trading activity had resumed.
+The maintenance took place at a time of great volatility in the cryptocurrency market which was accompanied by unusually high volumes on cryptocurrency exchanges. Bitcoin (BTC) started Mar. 12 at nearly $8,000 and ended the day at around $5,300.
+OKEx adapting to high trading volumes?
+According to cryptocurrency market data website CoinGecko, on Mar. 12 OKEx saw a high of $3.1 billion in trading volume, a nearly 160% increase compared to the day before. In recent months, the exchange was already managing higher-than-usual volumes.
+Furthermore, OKEx recently overtook BitMEX as the crypto exchange with the highest Bitcoin futures volume, according to Skew. The exchange leads by over 40%.
+Bitcoin futures trading volumes on top exchanges. Source: Skew .
+It is unclear whether the maintenance which OKEx engaged in on such short notice was meant to prevent rising trading volumes from interfering with the correct functioning of the platform. The firm just explains that the maintenance is meant to ensure “better service quality and trading experience.”
+The boom and bust recently experienced by the cryptocurrency market at large were accompanied by a major and sudden rise in trading volume and web traffic related to cryptocurrency exchanges. This resulted in an unexpected high strain on trading infrastructure and some major hiccups.
+As Cointelegraph reported in late February, major cryptocurrency exchange Binance halted trading on its platform to resolve an unexpected technical issue with its infrastructure. The unscheduled maintenance followed weeks during which the exchange’s users had to endure a number of performance issues on the platform.
+Earlier this month, Binance halted trading after its infrastructure malfunctioned once again. Jay Hao, CEO of OKEx, extended a tongue-in-cheek offer of technical help to Binance’s CEO.

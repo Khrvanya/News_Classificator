@@ -1,0 +1,11 @@
+A newly amended lawsuit filed against NVIDIA Corporation (NASDAQ: NVDA ) alleges the chipmaker misrepresented about $1.126 billion in crypto revenues as belonging to the gaming segment in 2017.
+Nvidia shareholders filed a lawsuit in U.S. District Court in the Northern District of California alleging the company misled investors by classifying revenues from the sale of cryptocurrency mining chips as gaming revenues, according to court documents shared by the British publication The Register.
+The lawsuit was filed in 2017 and amended May 13.
+Although the purpose of use for the gaming cards is different, there is a view that Nvidia is justified in classifying them under gaming revenue.
+When contacted by Benzinga, a Nvidia spokesman declined to comment on the matter.
+Despite getting a boost from the sales of its GeForce GPUs to cryptocurrency miners, Nvidia refused to acknowledge its proliferating sales were due to the result of fickle crypto revenues, the lawsuit said.
+"Instead, Defendants opted for a strategy that would capitalize on miners' fervent demand for GeForce GPUs while falsely telling investors that the spike in GeForce sales came from gamers, not miners, and making it appear that NVIDIA's core Gaming business was immune from the volatility of the cryptocurrency market," the plaintiffs said in the lawsuit.
+The complaint also said sales data for 2017 showed that 60-70% of Nvidia's GeForce revenue in China came from sales to crypto miners and not gamers.
+This staggering percentage, according to the complaint, demonstrated that a substantial portion of the total gaming segment revenues actually came from crypto-related sales in that one region alone.
+The plaintiffs have sought damages and other remedies available under the Exchange Act in an amount to be proven at trial, including interest.
+Nvidia shares were trading 2.76% higher at $359.68 at the time of publication Tuesday.

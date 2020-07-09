@@ -1,0 +1,32 @@
+For many, the beauty of blockchain is its immutable nature: blockchain networks are created and upheld through distributed networks; therefore, in order to change something about a blockchain, at least 50 percent of the computers that uphold the network would have to consent (or be compromised, in some cases.)
+However, the face that governance happens in a decentralized manner on blockchain networks can also mean that changes are, at times, happen slowly; because there isn’t just one small group of individuals making decisions about the future of a network from the top down, it can take time to gather support, for example, to changes in a network’s protocol.
+In some cases, this is why major technical issues have remained alive and well on blockchain networks for years, ultimately having major influences on a network’s destiny: for example, on the Bitcoin network, a lack of consensus over how transaction speeds should be improved has caused BTC to fill a role as a sort of ‘digital gold’ rather than a digital cash.
+On the Ethereum network, these issues have manifested in other ways: while transaction speed may not be much of a concern on Ethereum as it is on Bitcoin, there has been quite a bit of chatter about another aspect of Ethereum’s protocol: the ability to manually set transaction fees.
+What kinds of problems does this cause? And can Ethereum’s governance system efficiently implement a mechanism that will stop the problem from taking place in the future?
+Transaction fees on the Ethereum network are referred to as “gas”, which is Priced in sub-units of the cryptocurrency ether, known as ‘gwei’. Users can manually set the price of gas on each transaction.
+The ability to manually set transaction fees was included in the Ethereum protocol as a way for users to be able to have a higher degree of control over the speed of their transactions. However, this can go awry.
+In June, when an Ethereum user paid a $2,600,000 fee to send just $130 worth of ETH ; the fee was worth roughly 2,000,000% more than the transaction itself.
+The next day, the same user paid the same amount of fees on a transaction worth $86,400.
+(To be clear, many Bitcoin wallets also allow transaction senders to manually set their fees ; as such, there have been incidents on the Bitcoin network in which, for example , a transaction sender paid a $137,081.31 fee on a transaction that amounted to $5.)
+However, regarding the most recent Ethereum incident–it was later theorized that the massive fees may have either been accidental or the result of a malfunction in the users’ digital wallet; others theorized that the massive fees could have been an attempt at money laundering or some other kind of foul play.
+The transaction fees were sent to two mining pools: Bitfly and Sparkpool. Both of the companies announced on twitter that they were working to seek a solution from the transaction sender, presumably so that the funds could be returned.
+“We believe that this was an accident and in order to resolve this issue the tx sender should contact us at via DM or our support portal at http://support.bitfly.at immediately!,” Bitfly wrote.
+Today our Ethermine ETH pool mined a transaction with a ~10.000 ETH fee ( https://t.co/B5gRWOrcPf ). We believe that this was an accident and in order to resolve this issue the tx sender should contact us at via DM or our support portal at https://t.co/JgwX4tGYr4 immediately! pic.twitter.com/sWxVRx5muv
+SparkPool tweeted that it was “further investigating the incident of unusually high tx fee, and you are welcome to provide clues to support@sparkpool.com.”
+“[…] There will be a solution in the end,” the mining pool said.
+We are further investigating the incident of unusually high tx fee, and you are welcome to provide clues to support@sparkpool.com. SparkPool has had the experience of handling similar issues properly. There will be a solution in the end. https://t.co/mZc49Q0Y4r
+— SparkPool.eth (@sparkpool_eth) June 10, 2020
+Getting into the belly of the beast: Ethereum’s protocol may need to change
+While it certainly may be positive to see these mining pools exhibiting such ethical behavior, the fact remains that the mechanism that allowed the incident to happen in the first place is still there.
+Indeed, Evgen Verzun, cybersecurity expert, inventor, serial entrepreneur and founder of HyperSphere.ai, explained to Finance Magnates that “the main issues are connected to the current transaction inclusion system.”
+Evgen Verzun, cybersecurity expert, inventor, serial entrepreneur and founder of HyperSphere.ai.
+“Users are able to encourage miners to add their transactions to the next block,” and thereby speeding up their transaction time, “by increasing the gasPrice parameter, identified as the ‘price of transaction’.”
+“Miners, being rational, will always try to fill the new blocks with transactions that make more money, that’s why transactions with higher than average gasPrice parameters are usually included in the first available block (auction model),” Verzun explained.
+EIP-1559 can make mass-exit games viable because it is the first secure oracle for on-chain congestion. https://t.co/rKun24a0Aj
+— Hasu (@hasufl) June 26, 2020
+This can lead to confusion. Even if users don’t go so far as to accidentally set their gas price to $2.6 million, “in times of high network congestion, especially when blocks are close to full, required gasPrice may spike dramatically as users try to out-bid each other for inclusion,” Verzun said.
+When this happens, “even if your wallet uses some transaction pricing algorithms, users still may pay too much to get their transaction into an almost full next block.”
+In other words, “currently, wallets do their best to calculate the estimated gas fee on the spot, which isn’t always 100% accurate, resulting in overpayment on fees,” explained Olivia Lovenmark, Director of Content at cryptocurrency exchange OKCoin.
+Olivia Lovenmark, Director of Content at cryptocurrency exchange OKCoin.
+However, the Ethereum community is working on a solution. Vitalik Buterin, the creator of the Ethereum network, said that the massive transaction fees were “definitely a mistake”, and that Ethereum Improvement Proposal (EIP) 1559 should “greatly reduce the rate of things like this happening by reducing the need for users to try to set fees manually.”
+The original paper from 2018 that introduced EIP 1559: https://t.co/eav6Y1MtIR

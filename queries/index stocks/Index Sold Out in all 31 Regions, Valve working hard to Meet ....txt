@@ -1,0 +1,37 @@
+You sound like a Trump Republican.
+still bitter about the hag losing in 2016 in spectacular fashion?? buck up buttercup you only have another 5 years of him and then he will be gone.
+Lol!!!  He said another five years! Lol… If that man-hag wins again I guess I’ll be jumping off the Empire State building a second time!
+Lmao. NPC mentality is as true as they say.
+Remove your politics from my VR ingestion.
+TRUMP 2020 ALL THE WAY, BUTTERBALLS.
+There are two kinds of people in the world!
+Those that can extrapolate from incomplete information.
+It’s the same for sarcasm. No matter how obvious you make it.
+But … what is the other kind of person?
+Hah! Agree completely. And I hate having to explain that I’m being sarcastic, or even worse, asked to add the s/ preemptively. Swift would now need to write “jk” at the end of his proposal.
+To be fair these days it’s nearly impossible to tell who’s being sarcastic and who’s truly insane.
+You can never be 100% certain if a stranger on the net is sarcastic or just a troll. That’s why we use smileys.
+Only annoying teens use smileys.
+Dumb comment. Valve is not a massive hardware manufacturing company, in fact they only started up their own manufacturing center in the US where as most companies end up relying entirely on chinese manufacturing. Not saying that this is the case here, but clearly their line of product is not on some massive global scale and it is incremental. VR is still in the early adoption phase.
+You can clearly see they are expanding the range of regions they have headsets in. If its not in the region you want, then you just have to be patient or find someone/retailer who is willing to bring those headsets over and resell them locally.
+Valve partnered with Flex to make the Steam controller in the US at a factory in buffalo grove Illinois. That’s the factory in the video from a few years back, and it’s where the 2.0 base stations are manufactured.
+Headsets and controllers are marked as “made in china” my understanding is their partner is ODM (original design manufacturer) Goertek who used to make the Rift CV1 amongst other VR headsets.
+No need to take out your frustrations on the author of this article. This is perfectly reasonable stuff to report on. The lack of availability in some regions is another (related) story well worth exploring as well, but that doesn’t invalidate this article.
+I’m in Australia and therefore also affected by the lack of availability here. There must be a reason and I’m interested to know what it is, and even more interested in seeing the unit sold here.. but either way it should be possible (at least when there is more stock in circulation) to import one through other channels, no?
+Even though my headset shipped out fairly late because of American Thanksgiving & Black Friday its still available here in Canada.
+I’m still not sure if I would buy the HTC Vive Pro starter kit (black friday) or the Valve Index. I hate that the original vive doesn’t support the 2.0 lighthouses, otherwise it wouldn’t be that hard of a choice (I’m wanting one for development, but I want to do more headsets than the index alone).. vive headsets are cheaply available due to people selling their headsets/controllers without the lighthouse..
+as far as quality of the optics, I recommend the index (higher refresh rates make all the difference)… also those controllers are a delight to use compared to the vive wands
+@andrew jacobs. Buy an Index full kit and pick up a Vive Pro headset which works with index kit. I was tempted during black Friday as Vive Pro headset was selling for £599…
+I bought myself the Vive Pro starter kit due them having the 1.0 lighthouses and the original wand controllers, so I can pickup a cheap original vive headset for testing purposes (as that’s still a pretty large group of people). Will buy the Index early next year when I’m a bit further along with my development. (but will keep the extra functionalities of the knuckle controllers in mind during current development).
+I think you made the right choice, simply because the Index has a terrible contrast ratio (600:1) and terrible black levels.  This really makes a huge difference in VR immersion.  LCD screens like this make dark scenes feel more like looking at a cheap computer monitor than like being in a place, and make brighter scenes less aesthetic and lifelike.
+Problem for me was the Odyssey+ was very hard to come by in The Netherlands, and very expensive if you wanted to import it.
+Yeah I heard about that.  It’s unfortunate.  But I like the Vive Pro.
+Pimax XR also has an OLED screen and best consumer level FOV available AND native integration with Vive or Index base stations and controllers. Best consumer VR experience you can get if you know what you are doing.
+Yeah, but that headset costs just as much as the Vive Pro Full kit here in the netherlands, 1399 euro’s, and that’s the pimax headset only, so you’ll need to drop a lot of money for the basestations and controllers too.
+I bought myself the Vive Pro starter kit at black friday which was 899 euro’s (including shipping and 1 full year of infinty), and I’m pretty happy with it for the time being. I can now develop for the Pro, and the original Vive, and once I’ve got a decent prototype working I’ll buy myself the Index (with controllers) and some other headsets.
+Of course you should recommend the Odyssey–it has an OLED screen. Much better than the LCD screen in the Index which can’t depict dark environments AT ALL.
+I really like the Index, but there’s a crack by the nose that I can see out of no matter how I adjust the headset. The Vive Pro is my favourite as it’s comfortable & has a (Though expensive) wireless option. I’m going to pair it with the Valve controllers & base stations.
+I ended up buying the starter kit, and I really like the headset, I love that i can tighten it very firmly to my head. I’m not gonna buy the wireless option, I’ll leave that for another new headset in the future. Once I’ve got some time to continue development I might look into buying the Index with its controllers..
+I’m hooked on the controllers for the finger tracking, tightening strap & overall comfort. Best of luck on whatever you may be developing (Guessing software/gaming) What I’ve read is that Valve has now moved onto a newer version of the controllers that address the original issues there were. Here’s hoping.
+You can check availability for yourself in any country. Just open Steam page in browser incognito mode and add ?cc=[country code] to the address.
+So far it seems like Index is available in most of the countries.

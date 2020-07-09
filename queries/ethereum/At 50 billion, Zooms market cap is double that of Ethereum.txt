@@ -1,0 +1,15 @@
+Zoom proved to the world that remote work was possible all along. Despite privacy concerns, the market lapped it up.
+The video conferencing software has become so popular, that its market cap on Friday soared above $50 billion. Image: Shutterstock
+Zoom has hit a market cap of $50 billion.
+That’s double the market cap for Ethereum.
+Both blockchain and remote working stand to decentralize the economy.
+For the hundreds of millions living under lockdown due to the coronavirus pandemic, Skype, Facetime, WhatsApp or the trusted telephone will not suffice. Only Zoom will do.
+So popular has the video conferencing software become, that its market cap on Friday soared above $50 billion. That's a record high. It’s also around 28% of Bitcoin’s entire market cap, or almost double Ethereum’s, which is $26 billion.
+Shares in Zoom rose by 9.7%, from $164 at the market close on Thursday to $179 at market close on Friday. Its share price in January—well before the pandemic—was around $72. Its market cap has increased by over $30 billion this year.
+For many, Zoom has become the glue that holds life during the pandemic together. The British government has held cabinet meetings on it; families use it to speak to loved ones and friends use it as a replacement to the pub.
+Even blockchain came to Zoom . One Israeli company, 2Key, launched SmartSessions, a Zoom app that introduces crypto paywalls to Zoom calls. A yoga teacher, for instance, could charge his yogis 0.5 ETH for access to his class.
+Zoom’s share price kept rising despite privacy concerns . Back in March, The Intercept reported that Zoom could access to the video and audio feeds of its users. (Zoom’s stock price then took a major dip, but has since recovered).
+In response, some blockchain companies positioned themselves as privacy-first alternatives to Zoom. Brave, which develops a crypto-friendly browser, this week launched Brave Together , an end-to-end encrypted video conferencing app based on technology favored by NSA whistleblower Edward Snowden . (However, it only supports two participants. Zoom supports 1,000).
+But the impetus to keep working at home kept Zoom’s stock price high. Alongside other tools, Zoom makes remote working viable. Several major tech firms have vowed never to send some of their employees back to the office. Crypto exchange Coinbase, for instance, has declared itself a “remote-first” company, and Facebook, Twitter and others have also said that employees can keep working at home.
+Disappointing, then, that the biggest cultural shift toward decentralization in years had little to do with blockchain.
+Get the best of Decrypt where you want it most.

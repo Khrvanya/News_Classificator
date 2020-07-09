@@ -1,0 +1,20 @@
+Bitcoin? Ether? Ripple? Meh. During a month where cryptocurrencies zoomed, the lesser-known Tezos beat them all.
+Tezos (XTZ), one of the largest and most prominent among a fast-growing roster of digital coins known as “staking tokens,” jumped 83% in April, the most among cryptocurrencies with a market value of at least $1 billion, based on data from Messari .
+You’re reading First Mover, CoinDesk’s daily markets newsletter. Assembled by the CoinDesk Markets Team, First Mover starts your day with the most up-to-date sentiment around crypto markets, which of course never close, putting in context every wild swing in bitcoin and more. We follow the money so you don’t have to. You can subscribe here .
+That’s more than double the 37% gain for bitcoin ( BTC ), the largest cryptocurrency by market value, which benefited from speculation that an inflation hedge will come in handy as the Federal Reserve and other central banks inject trillions of dollars of emergency liquidity into the global financial system.
+Ether ( ETH ) rose 62% alongside a surge in growth for U.S. dollar-linked stablecoins built atop the Ethereum blockchain, and as investor interest grew in the white-hot arena of decentralized finance. Ripple’s XRP , a payments token, rose 30%.
+Staking tokens give holders the right to weigh in on a blockchain’s governance — similar to the way shareholders vote for a company’s board of directors — while also giving them the ability to earn a share of newly minted tokens, in the manner of a dividend or bond coupon.
+The strong performance of Tezos is “likely in part due to increased investor interest in staking-based returns,” said Joseph Todaro, managing partner at Blocktown Capital , an investment firm specializing in digital currencies. 
+Some cryptocurrency exchanges offer staking as a service to make it easier for investors to participate, and Tezos has benefited recently from new listings on the exchanges Bitfinex and Binance. It’s been on Coinbase, another exchange, since last year.
+Ethereum, whose native token ether is the second-biggest cryptocurrency after bitcoin, plans to upgrade to a staking model in July. Some analysts say ether has generated additional enthusiasm among speculators due to the transition to staking.
+Tezos has doubled on a year-to-date basis, despite a bout of volatility along with bitcoin, ether and other tokens earlier this year.
+One caveat for traders is that Tezos has a market value of just $2.1 billion, less than 1/70th of bitcoin. So Tezos has the potential for big losses alongside any fast gains, even when compared with the notoriously volatile bitcoin; in March, Tezos tumbled 41% as bitcoin slid 24%.
+“The price movement of any given crypto asset is partially dependent on current investing narratives,” said Todaro.
+BTC: Price: $8,995 ( BPI ) | 24-Hr High: $8,9958 | 24-Hr Low: $8,415
+Trend: Bitcoin is on the rise, having bounced up from its key average support early Friday.
+The original cryptocurrency is trading near $8,995 at press time (updated), representing over 4% gains. Prices defended an ascending 50-hour average support during Asian trading hours.
+The average has consistently restricted downside and reversed pullbacks in the recent rally that pushed bitcoin from $6,800 to $9,400. As a result, the immediate bias will remain bullish as long as prices are trading above the 50-hour average, which is currently at $8,751.
+If the latest bounce from the average support ends up clearing the immediate resistance at $8,913, bitcoin will likely revisit $9,200.
+While the hourly chart is reporting bullish conditions, the daily chart studies also show buyer exhaustion. It’s possible there could be a break below the 50-hour average support, which would take bitcoin down to $8,500.
+Sign up to receive First Mover in your inbox, every weekday.
+The leader in blockchain news, CoinDesk is a media outlet that strives for the highest journalistic standards and abides by a strict set of editorial policies . CoinDesk is an independent operating subsidiary of Digital Currency Group, which invests in cryptocurrencies and blockchain startups.

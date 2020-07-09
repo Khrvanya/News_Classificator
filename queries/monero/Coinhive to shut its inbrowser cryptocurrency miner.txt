@@ -1,0 +1,16 @@
+By Ry Crozier on Feb 28, 2019 10:37AM
+Coinhive, the maker of an in-browser cryptocurrency miner that became a staple of cryptojacking campaigns, is set to close down.
+The company said in a blog post that current prices for Monero, its favoured cryptocurrency, made mining operations unviable.
+“Some of you might have anticipated this, some of you will be surprised,” it said.
+“The decision has been made. We will discontinue our service on March 8, 2019.
+Coinhive said that the cryptocurrency crash had shaved off 85 percent of Monero’s value in the space of a year.
+In addition, Coinhive blamed a hard fork of Monero - a code change to the underlying protocol that essentially splits the currency into old and new versions - in October last year for the currency’s woes.
+It was reported at the time that trading volumes halved after that fork, and Coinhive said “[that] hit us hard”.
+Another hard fork is planned for March 9 this year, and Coinhive said that had also played a role in its decision to close down.
+However, many people exposed to Coinhive’s code may not remember the times so fondly.
+One of the main uses of Coinhive’s code was as part of cryptojacking campaigns, where the code was secretly stitched into hacked websites.
+Visitors to those sites had their compute power used to mine Monero for the attackers.
+“Much like a malware infection by a malicious bot or Trojan, Coinhive’s code frequently locks up a user’s browser and drains the device’s battery as it continues to mine Monero for as long a visitor is browsing the site,” security journalist Brian Krebs said.
+Coinhive later made a specific opt-in version of its code, which is called AuthedMine.
+It was used by the likes of charities, such as Unicef Australia , as an experimental fundraising mechanism.
+Copyright  © iTnews.com.au . All rights reserved.

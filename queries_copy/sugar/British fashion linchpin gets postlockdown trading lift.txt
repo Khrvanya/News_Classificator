@@ -1,0 +1,32 @@
+Primark ‘back to business’ as curbs ease, but still faces full-year profit slump
+LONDON: Trading in British fashion chain Primark’s reopened stores has been encouraging, but the prolonged coronavirus lockdown means the retailer’s full-year profit is likely to slump by about two-thirds, owner Associated British Foods said.
+All 375 Primark stores were shuttered in March as the pandemic spread. As governments eased lockdown restrictions the stores reopened, including all 153 stores in England on June 15.
+AB Foods said on Thursday that since the reopening of the first Primark stores on May 4, cumulative sales for the seven weeks to June 20 were £322 million ($403 million) and were 12 percent lower than last year on a like-for-like basis.
+It said sales in the week ended June 20, with more than 90 percent of selling space reopened, were £133 million, and trading in England and Ireland was ahead of the same week last year.
+“We’re really getting back to business here. That number (down 12 percent) is much better than people were expecting,” AB Foods finance chief John Bason told Reuters.
+Primark like-for-like sales down 12 percent in seven weeks.
+Primark’s annual profit seen down by two-thirds.
+Placed £800m of orders for autumn/winter season.
+However, the lockdown means Primark’s profit will be substantially down. The retailer has no online offer.
+For the full 2019-20 year, Primark forecast adjusted operating profit in a range of £300-£350 million, down from the £913 million made in 2018-19.
+Bason said that Primark has also placed more than £800 million of orders for the autumn/winter season and expects the total to exceed £1 billion.
+AB Foods said that overall group revenue from continuing businesses for the 40 weeks to June 20 was 13 percent lower than the same period last year at constant currency.
+For 2019-20 it expects “strong progress” in adjusted operating profit at its sugar, grocery, agriculture and ingredients businesses.
+The grocery division, whose brands include Kingsmill bread, Twinings tea, Ovaltine and Jordans cereal, had a 9 percent increase in third-quarter revenue, with higher sales through retail channels more than offsetting weaker demand from foodservice businesses closed during the lockdown.
+The group expects to end the year with net cash of more than £750 million.
+NEW YORK: Every day, energy merchants collect and scrutinize whatever information they can find on fuel demand to get a trading edge: From satellite data tracking oil tankers worldwide to thermal images from cameras on pipelines and storage tanks.
+Real-time data on fuel demand would be the ultimate prize.
+On-the-spot gasoline consumption figures would change the way oil markets trade, because it is “the holy grail of metrics,” said Patrick DeHaan, head of petroleum analysis at GasBuddy.
+A few weeks ago, the market thought it had found it. In mid-April, Apple Inc. unveiled new data tracking human mobility trends, capturing user activity in searching for directions on smartphones.
+The timing was perfect. Traders were chasing any clue to fathom the speed of recovery from the fastest and deepest collapse in fuel demand in history during coronavirus lockdowns. They relished the chance to incorporate mobility data into trading models.
+But US Memorial Day came, and the search data did not translate into activity. The US Energy Information Administration (EIA) proxy for gasoline demand fell nearly 6 percent for the week including the holiday. Gasoline futures, which had rallied into Memorial Day, fell after the holiday that kicks off the summer driving season.
+That disappointed traders, given roughly 70 percent of oil consumption worldwide is via vehicles, and as current data for retail demand generally looks either at the previous week or earlier periods. Several traders told Reuters on background that the discrepancy caused them to discount Apple’s index. The sticking point, they said, was that Apple’s mobility data is based on search information rather than miles traveled. Matt Sallee, managing director of investment firm Tortoise Capital Advisers, said that data has not correlated as strongly to demand as other indexes.
+Apple declined to comment. Settings for the iPhone include an option to limit notifications when the device perceives someone is driving, but it is unclear if Apple intends to use that data to enhance its mobility index.
+Sallee said that he was still using Apple’s figures, but combining them with other datapoints to make decisions as an energy-focused stock fund manager.
+“The pandemic made everyone a lot smarter about sourcing and using real-time demand data, a trend I think is here to stay even after it subsides,” Sallee said.
+He also uses data from TomTom, the global location technology company, which monitors real-time traffic congestion in major world cities, along with the Dallas Federal Reserve Bank’s mobility and engagement index. That index tracks various mobility metrics, including how far user devices travel in a day and how long they stay away from home. The figures are reported on a lagging basis.
+On the retail side, the mainstays have long been GasBuddy, which monitors fuel prices and transaction volume at gas stations across the United States and Canada, and Oil Price Information Service (OPIS), which provides pricing and news information for a variety of refined products.
+Apple’s data purports to capture everyone that owns an iPhone, about 100 million people in the US alone.
+RBC analyst Michael Tran said that currently he finds TomTom more reliable than Apple searches, in part because most people do not use apps to map out their commute. RBC combines TomTom data with other geolocation data compiled in-house for research purposes.
+John Kilduff, partner at hedge fund Again Capital in New York, said he can foresee a time when retail gasoline trackers are as abundant as companies tracking pipeline flows. Still, those reports can send contradictory signals or end up at odds with official EIA figures.
+“For now, I will stick to the EIA report,” Kilduff said.

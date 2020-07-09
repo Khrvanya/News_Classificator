@@ -1,0 +1,20 @@
+Can’t remember crypto addresses? Ripple’s new partnership makes XRP, RippleNet payments simpler
+Shaurya Malwa · June 21, 2020 at 1:00 pm UTC · 2 min read Insights via
+A newly-formed group of 40 startups, tech, and crypto firms is joining the Open Payments coalition — with the latter providing unique, simple to read, payment identifiers that open inter-operability between SEPA, bank, and crypto payments.
+Making this possible is the launch of PayID, the universal identifier solution of the Open Payments Coalition.
+Part of the group is Ripple , the San Francisco-based payments protocol, along with other crypto-firms like BitGo, BitPay, and Brave.
+Together with over 40 global companies and nonprofits, Ripple joins the Open Payments Coalition to help drive innovation forward and simplify global payments for all. Discover the coalition’s #PayID , an exciting step for global interoperability. https://t.co/LU0WcxDftV
+— Ripple (@Ripple) June 18, 2020
+In a blog on Friday, Ripple said it was joining the launch of PayID, with the latter envisioned as a global payments network that allows any individual/business to pay any other entity seamlessly and without middlemen.
+Part of the appeal is cutting out types of complex bank addresses and identifiers, such as bank numbers and long cryptocurrency addresses.
+The coalition is open-for-all. Ripple noted PayID allows for organic growth and no single organization can control the joining process. The latter’s site features a developer kit for those interested in proving the option for their respective users.
+The below graphic shows how PayID identifiers could look, and collate various payment options into one:
+Ripple said it was integrating PayID into RippleNet, the firm’s blockchain framework that enables interoperability for cross-border payments used by financial enterprises worldwide.
+RippleNet’s On-Demand Liquidity (ODL), which CryptoSlate recently reported was moving from larger treasury payments in favor of smaller enterprises, also uses XRP to instantly settle global transactions.
+Ripple’s ODL corridors experienced big growth last month. The framework saw significant adoption, and transfers, in developing markets and even developed countries like Australia.
+Meanwhile, Ripple CTO David Schwartz tweeted in the regard:
+C) PayID gives cryptocurrency companies a way to meet regulatory requirements such as the travel rule.
+— David Schwartz (@JoelKatz) June 18, 2020
+Cryptocurrency addresses are infamous for their long, complex, difficult-to-remember alphanumeric phases that can extend to well beyond 25 characters.
+This, understandably, makes cryptocurrency transfers a process that requires undue user attention, dissimilar to how conventional payments work in broader society. Funds once lost, in the crypto market, cannot be recovered or returned to sender accounts — there’s no margin for error when it comes to digital asset transfers.
+While the narrative of being one’s own bank, which the crypto industry pushes, holds true — most users do not want to deal with complicated wallet addresses, with some research even suggesting users may feel “anxious” while transacting with cryptocurrencies.

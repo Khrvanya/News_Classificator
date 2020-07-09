@@ -1,0 +1,18 @@
+Please consider using a different web browser for better experience.
+Please enable JavaScript in your browser for a better site experience.
+Bank of America, the second-largest bank in the U.S., has quietly tested out Ripple’s distributed ledger technology – and may be planning to do more with it.
+Ripple went so far as to identify B of A as a “customer” in a presentation given at a seminar held by the International Monetary Fund (IMF) late last year.
+When asked about this, a Ripple spokesperson would neither confirm nor deny whether B of A was a customer – but said the companies had conducted a pilot together.
+“Bank of America has been part of Ripple’s Global Payment Steering Group since 2016 and we did a pilot with them,” she told CoinDesk.
+The spokesperson would not provide any further details about the pilot, which was not previously reported. Bank of America declined to comment.
+It was previously known that B of A is a member of the steering group that advises on rules and standards for Ripplenet, the network of financial institutions using Ripple products. But the news of the pilot is the strongest indication yet that the bank’s relationship with the startup goes beyond friendly advice.
+That would be a departure for the bank, whose chief technology officer, Cathy Bessant, has said she’s bearish on the technology and that B of A’s portfolio of blockchain patents (the most of any financial institution) exists only so it can pivot to blockchain quickly if the need arises.
+One more sign B of A is warming to the sector is a job opening the bank posted earlier this month, for a product manager who would lead the team for a “ Ripple project .”
+The project was described as “a decentralized ledger technology-based solution to cross border payments marketed to GTS clients.” (GTS stands for global transaction services, a division of B of A that works with the treasury departments of large companies and financial institutions.)
+Saga Sarbhai, Ripple’s head of government and regulatory affairs for the Asia-Pacific region, made the presentation in December 2018, at a seminar convened by the IMF in Samoa on fintech and financial inclusion in the Pacific Islands.
+The section of the presentation devoted to Ripple’s xCurrent service includes a slide entitled “A Snapshot of Our Customers.” The logo for Bank of America Merrill Lynch (B of A’s investment bank) appears at the top, followed by those of 15 other financial institutions from around the globe. They are not in alphabetical order.
+The presentation was later published on IMF.org  and recently circulated on Twitter. The IMF confirmed to CoinDesk that the document was genuine and that a Ripple executive gave the talk.
+xCurrent, the service that B of A appears to have at least tested out, does not involve XRP, the cryptocurrency that Ripple periodically sells to fund operations and that powers its separate xRapid product .
+In August, Spanish banking giant Santander revealed to CoinDesk that xCurrent would enable the first online international transfers to the U.S. for some of its Latin American customers.
+Bank of America image via Shutterstock.
+The leader in blockchain news, CoinDesk is a media outlet that strives for the highest journalistic standards and abides by a strict set of editorial policies . CoinDesk is an independent operating subsidiary of Digital Currency Group, which invests in cryptocurrencies and blockchain startups.

@@ -1,0 +1,20 @@
+London — Volumes traded on EEX's new Japanese power derivatives market have exceeded expectations in the first full month of business, the European commodity exchange told S&P Global Platts July 1.
+In May EEX launched cleared trading services for the Japanese power market, with base and peak products for week, month, quarter, season and year contracts.
+"We've just finished a first full month on the platform and already we've exceeded the volume on the domestic power futures exchange, TOCOM [Tokyo Commodities Exchange]," Steffen Riediger, EEX Director European Power Derivatives, said in an interview.
+Volumes remain relatively modest on both platforms, but this was an encouraging start in an emerging market, Riediger said.
+Over 104 GWh cleared on the EEX platform in June versus slightly less than 100 GWh on TOCOM, which launched last September.
+Both exchanges offer a similar suite of contracts settled against the JEPX spot power market.
+EEX and its clearing bank ECC have waived trading and clearing fees for its Japanese power futures until October 31 this year.
+While the Japanese market has 10 different price zones, futures contracts on both exchanges cover two main regions, east (Tokyo) and west (Kansai), serving as benchmarks for interconnected regions, Riediger said.
+"The Japanese power market is the fourth largest in the world [behind China, the US and India], with consumption of 1,000 TWh/year -- twice the size of the German market," he said. "In 2018 we started doing due diligence, then in March 2019 over 100 people came to Tokyo to hear of our plans, confirming international interest."
+Participation on the platform has been roughly half international, half domestic. The first trade on the platform, between Japanese utility Tohoku EPCO Energy Trading Co and Engie of France, with brokering services provided by Japanese commodity brokerage firm, enechain Corporation, was a good example, he said.
+"There are nine brokers active in the market; this is unheard of," Riediger said. "In addition to the big, familiar names [Tullet Prebon, ICAP, GFI, Marex Spectron] we are seeing a number of new players joining EEX specifically for Japanese power -- like enechain and Amerex, smaller boutique shops."
+There has been a steep learning curve for EEX in building a Japanese-centric product, Riediger said.
+A power working group including the largest Japanese utilities has helped to shape contracts, which are traded on a ¥/kWh basis for volumes over 1 MW.
+Liquidity has focused initially on the front-quarter contract as Japanese participants are used to hedging season-ahead, but Riediger expected the shorter end of the curve to develop as Japanese traders did increasing business with international partners.
+"We've seen transactions in base weeks, months and quarters, and we've seen trades in peak so I have no doubt the market will evolve successfully over time," he said.
+"It took years following deregulation and unbundling before there was a really liquid German power market," he said. "What we see here, following deregulation in 2016, is a highly liquid spot market trading on JEPX, with daily volumes higher than those in Germany."
+As with elsewhere, a coronavirus lockdown in Japan has seen spot prices fall to historic lows. This had only increased the need for hedging, Riediger said.
+"The market is on a learning curve. We get feedback that transparency and data provision needs to increase in Japan," he said. "We're a willing advisor with a good dialogue with METI [the ministry of economy, trade and industry], where we try to share solutions we've seen in other markets."
+To continue reading you must login or register with us.
+It’s free and easy to do. Please use the button below and we will bring you back here when complete.

@@ -1,0 +1,10 @@
+Although scant on details, South Korea’s finance minister has confirmed that taxes will be imposed on cryptocurrency in the country.
+The South Korean Finance Minister, Hong Nam-Ki, announced plans to impose a tax on cryptocurrency, while speaking to the parliamentary finance committee on June 17.
+According to a report from local news outlet, Korea JoongAng Daily, the ministry will reveal further details of the plan next month. Hong told the committee that the government:
+“Has continued to realign its tax system to reflect changes in market conditions, but it is especially working to refine its list of taxable items and types of tax this year.”
+As Cointelegraph reported, the ministry was considering a 20% tax on cryptocurrency income back in January this year. This led some to speculate that such gains would be considered as “other income” for tax purposes and not attract capital gains tax.
+However the Korean Tax Policy Association then proposed a two-stage taxation structure , initially bringing in a low-level trading tax, before later implementing a cryptocurrency income tax.
+No further information was given as to which, if any, of these proposals was to be imposed.
+The minister also said that the government had been in discussions internationally over a new digital tax structure.
+He expressed his personal support for such a tax, noting that it may increase the country’s tax revenue from foreign firms. However, he admitted that it could also make some local firms liable for foreign taxation.
+The move to formalize a tax structure for cryptocurrency in South Korea comes after major exchange Bithumb decided to contest a $69 million tax bill , based on the grounds that cryptocurrency is not legally recognized as currency in the country.

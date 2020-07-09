@@ -1,0 +1,13 @@
+UMA has launched the ETHBTC token, a novel DeFi derivative product that allows holders to track the competition between Bitcoin and Ethereum.
+UMA has launched the first priceless synthetic token, ETHBTC, via Uniswap V2.
+ETHBTC tracks the price ratio between Ethereum and Bitcoin.
+The new token is experimental, but opens the door for even more DeFi derivative products.
+DeFi is unlocking never-before-seen ways to do derivatives.
+The Universal Market Access (UMA) Project announced Wednesday the launch of the ETHBTC synthetic token on the Ethereum mainnet, initially available via Uniswap V2 . This “Ethereum-Bitcoin” token is the first real-world test of UMA’s “priceless” synthetic token smart-contract design and marks the beginning of a new era of derivative products made possible by blockchain technology.
+The ETHBTC token tracks the price ratio between Ethereum and Bitcoin . If ETH rises faster (or falls slower) than BTC, the token value will increase, and vice versa if Bitcoin leads. The tokens are considered “priceless” because they don’t rely on data from oracles to price swaps, relying instead on a community-driven dispute mechanism .
+ETHBTC tokens can be exchanged with DAI on Uniswap V2 and initially cost about 0.02 DAI per token. Anyone can create and sell ETHBTC tokens using UMA’s open source command line tool by depositing DAI as collateral. Tokens expire August 1 and can be redeemed depending on the final ETH to BTC price ratio.
+In the announcement, UMA co-founder Hart Lamber explained ETHBTC was chosen as the first mainnet priceless synthetic token because it’s related to DeFi while highlighting the friendly competition between the two leading cryptocurrencies. ETHBTC also offers exposure to large-scale success or adoption of one crypto over the other without actually holding either one, a novel product in the DeFi landscape.
+Uniswap V2 launched just days ago with a host of new features, including direct ERC20 token swaps that allow ETHBTC tokens to be swapped directly for DAI. In the previous version of Uniswap, ERC20 token swaps were routed through ETH transactions, increasing fees and making pair trades less viable.
+Lamber warned in the release that the ETHBTC priceless synthetic token is an experimental alpha product and should be approached with caution and small amounts of money to start. The smart contract code has been audited by OpenZepplin and an emergency shutdown can be initiated by UMA token holders.
+The views and opinions expressed by the author are for informational purposes only and do not constitute financial, investment, or other advice.
+Get the best of Decrypt where you want it most.

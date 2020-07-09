@@ -1,0 +1,19 @@
+XRP has had a hard time recovering from the Coronavirus crash of mid-March whereas XLM seems to have fully recovered.
+The Coronavirus crash of mid-March shook up the crypto markets in a huge way.
+A quick analysis of Stellar and XRP results in the conclusion that XLM has outperformed XRP since then.
+With staking of XLM now available, more hodlers might be shifting their interest away from XRP.
+The end of the first quarter of 2020 was marked by a massive drop in both the stock and crypto markets due to the panic surrounding the global economic effects of the Coronavirus. The selling panic in mid-March was nicknamed the Coronavirus Crash and was characterized by all digital assets – such as Bitcoin, Ethereum, XRP, Litecoin, and Stellar (XLM) – experiencing a massive dip on or around the 13th of March.
+During the crash, XRP dipped to as low as $0.10 from steady levels around $0.25. At the time of writing this, XRP is valued at $0.192 indicating that it has recovered by a factor of 0.768x (76.8%) of the value before the Coronavirus crash.
+Further checking the daily XRP/USDT chart courtesy of Tradingview.com, the following can be concluded.
+The crucial $0.20 support price has once again been lost.
+MACD and MFI indicate that XRP/USDT might be headed towards bear territory for the rest of the month of June.
+$0.18 to $0.17 provides the next level of valuable support failure to which, XRP could revisit either $0.15, $0.12, or the earlier mentioned $0.10 support zone.
+XRP’s current price is slightly above the 50-Day (white) moving average but below both the 100-Day (yellow) and 200-Day (green) moving averages. This further pleads the case of a bearish scenario for the remittance coin.
+Doing a similar analysis of XLM, we find that during the Coronavirus crash, the digital asset dropped  from a value of $0.06 to around $0.026. At the time of writing this, XLM/USDT is trading at a value of $0.0729. This indicates that XLM has more than recovered from the Coronavirus crash by a factor of 1.215x (121.5%) and thus succeeded in outperforming XRP in the same time period.
+Further checking the daily XLM/USDT chart courtesy of Tradingview.com, the following can be concluded.
+XLM/USDT is in a clear downtrend indicated by a red trade volume.
+The MACD has crossed in a bearish manner above the baseline with the MFI also pointing towards a retracement.
+However, the current price of $0.0729 is above the 50-day, 100-day and 200-day moving average further providing some adequate support zones at $0.070 and $0.058 respectively.
+One possible reason for XLM outshining XRP, besides a relatively more bullish chart, is the fact that staking Stellar has been made easier by Binance. The latter exchange facilitates an estimated annual yield of between 2 – 4% in XLM from staking the digital asset.
+Summing it up, Stellar (XLM) has had a perfect recovery since the Coronavirus crash when compared to XRP. Stellar’s performance might be further boosted by the ease of staking XLM via Binance. Additionally, XRP has had a rough few months in the crypto markets with its former number 3 spot on Coinmarketcap now permanently occupied by Tether (USDT) . However, there could be hope for XRP as it is still in an earlier observed falling wedge that could resolve to the upside .
+Disclaimer: This article is not meant to give financial advice. Any additional opinion herein is purely the author’s and does not represent the opinion of EWN or any of its other writers. Please carry out your own research before investing in any of the numerous cryptocurrencies available. Thank you.

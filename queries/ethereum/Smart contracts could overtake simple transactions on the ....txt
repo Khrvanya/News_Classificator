@@ -1,0 +1,16 @@
+Priyeshu Garg · March 27, 2020 at 6:41 pm UTC · 2 min read
+This Exchange News was brought to you by OKCoin, our preferred Exchange Partner.
+Complex transactions on Ethereum are on their way to overtake simple transfers, data has shown, pointing to the fact that the network could be regaining dominance from Bitcoin. According to an analysis from Defiant, transactions with smart contract executions have grown relative to transactions with simple token transfers.
+The rivalry between Bitcoin and Ethereum has been rampant in the crypto industry for the past six years. It caused a schism between those that believe blockchain technology was set for more than just token transfers and those that support the original vision for cryptocurrencies.
+In the industry, the switch between the market capitalizations of Bitcoin and Ethereum is often referred to as “The Flippening,” illustrating the shifting tide between the two world’s largest coins. For those that lean more on the side of Bitcoin, a recent report from the Defiant showed that Ethereum offered more real-world usability and utility.
+Ganesh Swami, the co-founder of crypto analytics company Covalent, studied how fast Ethereum was diverging from Bitcoin from both a use-case and traction perspectives. He explained that Bitcoin, and other first-generation blockchains, support the payment use-case, while the second-generation blockchains like Ethereum are focused more on smart contracts.
+Swami found that transactions with smart contract executions have grown significantly over the past few years and could be on their way to overtake simple token transfers on the blockchain.
+To find out what type of transactions are more dominant on the Ethereum network, Swami decided on a data-heavy approach. Namely, the analyst used data from Covalent to sum up the gas consumed for each transaction type aggregated monthly for all transactions on Ethereum from the Genesis block to Mar. 25.
+The data looked at around 665 million transactions, and showed that all of them were transactions with ether ( ETH ).
+Graph showing the gas costs of all transactions on the Ethereum network from 2016 to 2020. (Source: The Defiant )
+The chart produced an interesting find—that there seems to be a natural ceiling to the total gas consumed across all types of transactions. Swami said that this points to the network’s inherent lack of scalability.
+A more interesting conclusion came from converting the data shown above into a proportional area chart, which highlighted how much each of the transaction types contributed to the whole.
+Chart showing gas costs of Ethereum transfers sorted by transaction type. (Source: The Defiant )
+“The answer is clear,” Swami said. “There’s a continually increasing number of transactions that are of the more complex kind (green area). If anyone were to question the utility of Ethereum – simply point them to this chart.”
+He believes that Ethereum’s utility in 2019 came from DeFi. In 2020, however, the utility will mostly come from DAOs, games, and security tokens, Swami explained.
+This Analysis was brought to you by OKCoin, our preferred Exchange Partner.

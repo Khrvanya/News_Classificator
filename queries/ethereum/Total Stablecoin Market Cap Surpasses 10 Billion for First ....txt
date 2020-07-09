@@ -1,0 +1,10 @@
+Total Stablecoin Market Cap Surpasses $10 Billion for First Time, Ethereum Network Activity Spikes Due to New Coins
+The total or combined stablecoin supply reached an all-time high of around $10.4 billion on May 12, 2020. It’s notably the first time that the total market cap of all stablecoins has exceeded the $10 billion mark.
+According to Stablecoinindex.com data, Tether’s (USDT) market capitalization stands at about $9 billion. USDT continues to dominate the stablecoin ecosystem, with around 85% of the total market share. Meanwhile, Circle and Coinbase’s USDC stablecoin ranks second with a market cap of approximately at $708 million which accounts for about 7.2% of the stablecoin market share.
+The total supply of stablecoins has increased significantly this year, growing by nearly 80% since the beginning of February 2020.
+The Ethereum (ETH) blockchain network recently experienced its most active period in the past 10 months due to a substantial increase in the issuance of new stablecoins.
+This, as Ethereum, the world’s second-largest distributed ledger technology (DLT) network prepares for a transition to Ethereum 2.0, a major system-wide upgrade of the blockchain which will involve a transition from proof of work (PoW) consensus to proof of stake (PoS).
+On April 30, 2020, the seven-day moving average of the total confirmed transactions on Ethereum surged to 845,400, which is notably the highest since July 1 of last year, Coin Metrics revealed.
+The transaction count on Ethereum had reached 12-month lows back in February 2020, however, it has now increased by 72%.
+Lucas Nuzzi, the network data product manager at Coin Metrics confirmed:
+Stablecoins aim to function as digital currencies that provide price stability by pegging their value to real world assets such as the US dollar, British pound (GBP), the Euro, etc.

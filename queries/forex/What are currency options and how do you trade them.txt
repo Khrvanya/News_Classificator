@@ -1,0 +1,31 @@
+What are currency options and how do you trade them?
+Currency options can seem intimidating at first, but they’re easy to understand once you’ve got the basics. Here, we go through what currency options are, the essentials of FX options trading, and how to open an account.
+Callum Cliffe | Financial writer, London
+What are currency or forex options?
+Currency options – or forex options – give the holder the right, but not the obligation, to buy or sell a currency pair at a given price before or on a set expiry date.
+To be granted this right, the buyer of the option pays a premium to the seller. When trading options, it’s important to know that the buyer is often referred to as the ‘holder’, and the seller is often referred to as the ‘writer’.
+Before trading forex options, there is some essential terminology that you’ll need to be familiar with:
+Expiry date – the date at which your options contract will need to be settled, but it can be closed before the expiry date arrives
+Implied volatility (IV) – is a measure of the implied risk in an options contract, relative to the price of the underlying market. Implied volatility will affect the price of an options contract
+At the money – an options contract is at the money when its strike price is the same or similar to the price of the underlying market – meaning it could expire with value, or worthless
+How do currency options work?
+There are two types of currency options: calls and puts. Buying a call option gives the holder the right to buy a currency pair for the strike price on or before the expiry date, and buying a put option gives the holder the right to sell a currency pair for the strike price on or before the expiry date.
+If the expiry arrives and the market price of a currency pair is above the strike price when buying calls, or below the strike price when buying puts, a trader can choose to exercise it. This means they can buy or sell the currency for a better price than what is currently available in the underlying market.
+But if this doesn’t happen, a trader can let their option expire, and they’ll only lose the value of the premium. As a result, buying call or put options means that a trader’s upside is potentially unlimited, and their downside is capped at the premium.
+On the other hand, traders can also sell call options and put options – which obliges them to sell a currency pair in the case of a call, and to buy a currency pair in the case of a put. For taking on this obligation, the seller of a call or put option will receive a premium.
+If a trader is taking on the obligation to sell an options contract, their losses are potentially unlimited – and profits are capped at the total value of the option premium. When selling options, a trader is hoping that the price of a call option remains below the strike price, and the price of a put option remains above the strike price.
+There is more information about the mechanics of buying or selling call and put options below.
+Buying call options gives a trader the right but not the obligation to buy a currency pair for a predetermined price, at or before a set date in the future
+Selling call options gives a trader the obligation to sell a currency pair for the predetermined price, if the buyer executes their right to buy – and they’ll receive a premium for doing so
+Buying call options gives unlimited upside with a capped loss, while selling call options gives an unlimited downside and a capped gain – the option premium
+Buying put options gives a trader the right but not the obligation to sell a currency pair for a predetermined price, at or before a set date in the future
+Selling put options gives a trader the obligation to buy a currency pair for the predetermined price, if the buyer executes their right to sell – and they’ll receive a premium for doing so
+Buying put options gives unlimited upside with a capped loss, while selling put options gives an unlimited downside and a capped gain – the option premium
+An example of the IG options deal ticket can be seen below, with different columns for buying or selling call and put options.
+Why trade currency options with IG?
+With IG, you’ll be using spread bets and CFDs to speculate on the price of options contracts, rather than buying or selling the underlying contracts themselves. This means that you can go short as well as long on both call and put options – with zero overnight funding charges and no spread to pay on expiry.
+If you choose to speculate on the price of an options contract with spread bets and CFDs, you’ll be trading with leverage. This enables you to receive greater market exposure for an initial deposit, known as margin.
+IG offers daily, weekly and monthly options, as well as a range of in-platform tools to help you manage your risk.
+When you trade currency options with IG, you’ll get access to the UK’s best web-based trading platform and mobile trading app. You’ll also be able to trade on a large range of forex markets including some of the most popular pairs on the market.
+This information has been prepared by IG, a trading name of IG Markets Limited. In addition to the disclaimer below, the material on this page does not contain a record of our trading prices, or an offer of, or solicitation for, a transaction in any financial instrument. IG accepts no responsibility for any use that may be made of these comments and for any consequences that result. No representation or warranty is given as to the accuracy or completeness of this information. Consequently any person acting on it does so entirely at their own risk. Any research provided does not have regard to the specific investment objectives, financial situation and needs of any specific person who may receive it. It has not been prepared in accordance with legal requirements designed to promote the independence of investment research and as such is considered to be a marketing communication. Although we are not specifically constrained from dealing ahead of our recommendations we do not seek to take advantage of them before they are provided to our clients.
+Discover the range of markets and learn how they work - with IG Academy's online course.

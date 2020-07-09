@@ -1,0 +1,11 @@
+The electronics giant will enable the option of mining Monero through a mobile application in its blockchain phone.
+Mobile phone manufacturer giant HTC will allow users to mine Monero ( XMR ) cryptocurrency through its blockchain phone, Exodus, according to an announcement made on April 10.
+The announcement said that thanks to the partnership with the ASIC chip design firm Midas Labs, the Taiwanese company would be able to mine Monero through an application called DeMiner, which will be available for download in Q2 2020.
+Due to growing concerns that cryptocurrency mining activity involves high energy consumption, and therefore high costs, HTC ensures that these levels can be reduced by transferring work to mobile devices.
+The application would be designed to automatically inactivate mining regardless of whether the mobile phone is in use or when the charger is not plugged.
+Phil Chen, decentralized chief officer at HTC, added:
+“Mining on mobile is an important research topic in understanding the development of secure crypto networks. The number of mobile phones in 2020 is approaching 3.5 Billion, which would further decentralize and distribute the hash rate and mining power of such crypto networks.”
+The HTC executive also claimed that the crypto world is “under threat” from hashrate dominance by giant mining pools, so he believes democratizing access via mobile phones is one way to eliminate the problem.
+About the DeMiner app, Dr. Jri Lee, CEO and founder of Midas Labs, commented as follows:
+“We developed the DeMiner app such that a smartphone device will have a hashrate comparable to a desktop, while consuming much less power. This enables mobile devices to be suitable for cryptocurrency mining (in a plugged-in state) for the first time. Starting from open source frameworks, we restructured and optimized mining for mobile.”
+Cointelegraph reported last year that HTC had released its first blockchain-based smartphone, Exodus 1s, which enables running a full Bitcoin ( BTC ) node on the device.

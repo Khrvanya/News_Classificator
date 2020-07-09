@@ -1,0 +1,11 @@
+The 500 Ethereum Developer program which was launched in Nigeria has officially kicked off and is now open to the rest of Africa after a successful pilot program.
+Registration for this phase opened on Monday 3rd February, 2020 and will close on Friday 6th March, 2020.
+With the announcement of ConsenSys Founder, Joe Lubin, during Devcon 5 launching the drive to increase the Ethereum developer community to one million, a pilot project which was sponsored by ethereum.network, Cryptographic Development Initiatives in Nigeria(CDIN), Crevatal, and hosted by Bloceducare was initiated.
+The pilot project turned out to be an amazing learning experience for the participants who in the coming days will be releasing their codes to show the world how impactful the project was. Also the pilot project presented an opportunity to do an holistic review and come up with an even more impactful and organized teaching and learning program.
+With a careful review done on the pilot project and increased support from the global Ethereum community, the first Phase of 500 Nigeria Devs for Ethereum project has now officially kicked off. This phase promises to welcome more participants from Nigeria and other African countries, mentors from the global Ethereum community, and improved partnerships both within and out of Nigeria.
+The focus of this phase is primarily to have developers already using various other programming languages to learn solidity, the core programming language for Ethereum blockchain, and allow for global interaction of participants and notable Ethereum personalities.
+Partners for this phase of the project includes:
+Cryptographic Development Initiatives in Nigeria(CDIN) – a non-profit professional organization founded to address the gaps in the learning and practice of cryptography in Nigeria.
+Crevatal which was birthed out of passion for excellence in user experience delivery.
+Precise Financial Systems LTD – an indigenous software development company that has provided innovative and world-class solutions over the past 25 years across 27 African countries.
+Are you an African developer interested in blockchain? Register Here

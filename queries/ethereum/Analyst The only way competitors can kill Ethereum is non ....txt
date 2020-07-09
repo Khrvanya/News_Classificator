@@ -1,0 +1,20 @@
+Ethereum is by far the leader in the smart contract blockchain space. The image below of CryptoSlate’s leaderboard of smart contract cryptocurrencies shows this dominance as clear as day.
+As the data suggests, the market capitalization of ETH is an order of magnitude larger than that of its closest competitor, Cardano’s ADA, and two orders of magnitude larger than other competitors like Digibyte’s DGB and Zilliqa’ ZIL .
+With such a large lead, some have questioned if it will ever be overtaken.
+According to a prominent crypto trader, it’s possible. But it can only be done through somewhat of an unexpected way: non-U.S. dollar stablecoins.
+One of Ethereum’s biggest value propositions at the moment is that it is a platform for the transaction of U.S. dollar stablecoins such as Tether’s USDT , USD Coin (USDC) , True USD (TUSD) , and many others.
+According to estimates, there is now approximately $8-9 billion worth of stablecoins based on the Ethereum blockchain.
+This is important as there are days, according to Messari , when the value of Ethereum-based stablecoins transactions is higher than the value of ETH transactions. That’s to say, stablecoins are now a crucial economic driver on Ethereum.
+Not to mention, stablecoins are what make decentralized finance — better known as “ DeFi ” — possible.
+What Ethereum is missing, though, is non-USD stablecoins, according to former Messari executive Qiao Wang, who is also a trader of cryptocurrency and stocks.
+Had an epiphany. Whichever ETH killer successfully launches a non-USD stablecoin has the best chance to kill ETH. I would venture to say it's the only way to kill ETH given the network effect. It's the most blatantly obvious missing piece in the Ethereum ecosystem.
+— Qiao Wang (@QWQiao) July 4, 2020
+He explained the following on Jul. 4:
+“Had an epiphany. Whichever ETH killer successfully launches a non-USD stablecoin has the best chance to kill ETH. I would venture to say it’s the only way to kill ETH given the network effect. It’s the most blatantly obvious missing piece in the Ethereum ecosystem.”
+He added that unless so-called “ETH killers” begin to move away from effectively copying Ethereum’s ethos and vision, they’re doomed to fail.
+“You can’t copy the leader and still hope that you’ll beat it. That’s what virtually all ETH killers are doing now. It just won’t work. You have to do something differentiated,” Wang remarked.
+The investor did note that due to negative interest rates and other macroeconomic factors, stablecoins backed by other currencies — be it the Pound Sterling, the Euro, the Japanese Yen, or otherwise — are hard to implement.
+Yet he said that once a project working on such stablecoins can get off the ground, it will see adoption in DeFi, remittance, and international payment “organically.”
+While Cardano hasn’t implemented non-USD stablecoins just yet, it is Ethereum’s closest competitor in terms of market capitalization and technology.
+With the imminent launch of its “Shelley” upgrade , Cardano’s founder Charles Hoskinson thinks it can begin to encroach on Ethereum’s market capitalization.
+But considering what Qiao Wang said, unless Cardano begins to really differentiate itself from other smart contract platforms, it may suffer.

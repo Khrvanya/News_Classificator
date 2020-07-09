@@ -1,0 +1,12 @@
+Bitcoin Miner Stumbles Upon $8M Stash From 2010, Sells Before Crash
+A hobbyist miner from 2010 recently discovered a wallet containing 1,000 Bitcoins, apparently managing to sell the coins before the March 13 crypto market massacre.
+A former Bitcoin miner hobbyist has stumbled on an old wallet containing 1,000 Bitcoins, in addition to many Bitcoin forks.
+On March 10, a thread was posted to Bitcointalk by a self-described “newbie” making their first return to crypto after a “long hiatus,” seeking advice on accessing an old Bitcoin stash.
+The user “whoamisoon” claimed to have mined some Bitcoin “a long time ago” using a GPU and had recently located the wallet.dat file on a USB storage device.
+The former-miner sought advice on how to move the Bitcoins to sell, also asking if they held the same quantity of Bitcoin Cash in the wallet, and how they might be able to sell the BCH.
+The user was pleasantly surprised to discover that they would be able to access a myriad of forked coins, writing:
+“Didn't know there have been so many forks! Awesome! Love it!”
+Later that day, 1,000 Bitcoins that had been mined on August 24, 2010, were identified to be moving on the Bitcoin blockchain — leading many to speculate that the coins may have belonged to whoamisoon. The coins appeared destined for Coinbase.
+On March 12, the user returned to thank the forum members who had assisted him in realizing his Bitcoin bounty, stating:
+“Thank you all for all the suggestions. It was overall a great return and the best welcome one can get! Keep it up; I can see it helping others that are in my shoes as well.”
+The post suggested that whoamisoon may have liquidated their holdings prior to March 13 — meaning that they may have cashed out in the $7,500 to $8,000 price range, equating to $7.5 million to $8 million. The value of their corresponding BCH and BSV forked coins would have added roughly $500,000 to their payday.

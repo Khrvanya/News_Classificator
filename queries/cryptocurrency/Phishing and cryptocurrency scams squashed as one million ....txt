@@ -1,0 +1,8 @@
+'Vast number of frauds stopped' say police as people flag up dodgy emails.
+A service that allows people to flag phishing and other suspicious emails has been sent over a million reports of scam messages so far.
+In two months since the service was launched by the UK's National Cyber Security Centre (NCSC) it has been receiving 16,500 emails on average every day, which has resulted in 10,000 links to online scams either blocked or taken down by authorities.
+A wave of cryptocurrency investment scams makes up more than half of all online scams detected as a result of reporting, the agency said .
+Cryptocurrency investment scams have been recognised as a growing problem, leading to millions of pounds in losses annually as scammers masquerading as a crypto exchanges or traders trick people into handing over money. Over £27 million was lost to scams involving crypto and foreign exchange investments in 2018/19 according to the Financial Conduct Authority, with victims losing on average over £14,600.
+Other scams detected include fake online shops and bogus messages claiming to come from TV Licensing, HMRC, Gov.uk and the DVLA.
+To use the reporting service, people are asked to forward suspect emails to report@phishing.gov.uk. If they are found to link to malicious content, it will be taken down or blocked.
+Commander Karen Baxter, from the City of London Police, said phishing emails are often the first step in a lot of fraud cases because they provide the initial gateway for criminals. "Unquestionably, a vast number of frauds will have been prevented," she said.

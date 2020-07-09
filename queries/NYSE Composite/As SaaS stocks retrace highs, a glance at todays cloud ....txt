@@ -1,0 +1,10 @@
+As SaaS stocks retrace highs, a glance at today’s cloud fundamentals
+If you were hoping for Q3 SaaS IPOs, here's some good news
+The domestic stock market is advancing today on the back of some better-than-anticipated economic recovery data in the United States. While retail spending is still lower compared to the year-ago period, gains in May from April were better than anticipated.
+The American stock market, ready to trade higher on any scrap of good news — even news predicated on economic weakness and the need for continued intervention — shot north, with the tech-heavy Nasdaq Composite index rising 2.3% to 9,947.5 and the SaaS-focused BVP Nasdaq Emerging Cloud Index ( EMCLOUD ) rising 1.6% to 1,719.2.
+From Bessemer, a venture capital firm that invests in cloud startups, here’s some data on today’s SaaS market:
+Median enterprise value/annualized revenue multiple for public SaaS/cloud companies: 12.6x
+Median forward enterprise value/annualized revenue multiple for public SaaS/cloud companies: 10.5x
+We’re marking this moment in time, just days after the Nasdaq Composite index crossed the 10,000 point mark , as it’s a useful yardstick for us to use in the future. Today, the above median results were enough to push EMCLOUD back to within a fraction of a point of its all-time highs.
+What surprised me in this data is that the resulting revenue multiples haven’t gone completely bonkers; I expected more extreme figures going into preparing this post.
+In fairness, by looking at median results instead of average results, we’re skewing the multiples a bit. Here’s the same data, with average results on top and the previously mentioned medians down below:

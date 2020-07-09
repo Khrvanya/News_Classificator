@@ -1,0 +1,12 @@
+A Seoul court granted the petition demanded by the prosecutors to freeze crypto wallets owned by the head of the Nth Room case.
+On June 2, a South Korean court ordered a freeze on all the cryptocurrency wallets, securities deposits, and stocks account owned by Cho Ju-bin, the suspected head of Nth Room. Nth Room is a Telegram channel under investigation for circulating child pornography.
+According to KBS Korea , the Seoul Central District Court Criminal Settlement Division 30, led by Judge Lee Hyun-woo, accepted the request from prosecutors in the South Korean capital to freeze 15 cryptocurrencies wallets that reportedly belong to Cho.
+The funds within the confiscated are suspected of clarifying the profits that the defendant would have obtained as the mastermind behind the Telegram Nth Room.
+The court mentioned the 130 million won ($106,734) in Cho’s house in April as one of the critical pieces of evidence establishing the magnitude of the criminal’s gains.
+Cho is accused of leading a network of sexual exploitation and of broadcasting videos of child rape.
+The authorities behind the investigation revealed that the child porn ring gathered thousands of members who paid in cryptos to access the chat room.
+Both the local law enforcement authorities and the crypto industry have been taking steps to help with the investigation and to reduce these crimes committed with cryptocurrency transactions.
+Cryptocurrency exchange Bithumb announced the official delisting of Monero ( XMR ) from their trading platform on June 1, as part of the efforts in the Nth Room case’s investigation as that cryptocurrency was primarily used in the child ring’s transactions.
+Cointelegraph reported on May 6 about comments from South Korean IT experts, who assured the local press that investigators could have trouble with users who used anonymous crypto payments to access illicit videos via the Nth Room chat platform.
+South Korean authorities managed to trace the digital fingerprints of at least 40 people suspected of having paid with cryptos to access videos of child rape and sexual exploitation in the case.
+Although there was no official confirmation, local media suspect that such identification of the alleged users was made possible by the assistance provided by four South Korean crypto exchanges (Upbit, Bithumb, Coinone, and Korbit) to local law enforcement authorities in the investigation.

@@ -1,0 +1,9 @@
+Data released by the Bureau of Labor Statistics on Friday showed that the economy lost a staggering 20.5 million jobs during the month of April and the unemployment rate rose to 14.7 percent.
+But it’s not just the depth of job loss that became clear this week. It’s also the breadth. “I really almost don’t have words to express how mind-bogglingly widespread this job loss is,” said Martha Gimbel, manager of economic research at Schmidt Futures.
+One indicator that economists use to gauge how widely job gains and losses are spread across industries is the BLS’ diffusion index.
+“It’s not a measure of the magnitude of job loss. It’s a measure of how broadly spread it is,” said John Mullins, an economist at the Bureau of Labor Statistics’ Current Employment Statistics program.
+If the diffusion index is above 50, that means more private industries added jobs that month than lost jobs. And if it’s below 50, that means more industries lost jobs.
+The diffusion index on the April jobs report was 4.8 , showing that only a handful of industries were able to add jobs. For context, the lowest it got during the Great Recession was around 15.5.
+The drop in the diffusion index over the past couple months shows that job losses from the coronavirus crisis are not limited to hard-hit industries like leisure and hospitality, but spread widely across the economy.
+“Right now, there really is just no place to hide,” Gimbel said. “There are a lot of people who thought their jobs were safe because they could do the work from home. Unfortunately, someone has to pay you to do that job. And if there’s an overall economic contraction, those jobs that are ‘safe’ because they are jobs where you can work remotely, may not actually be safe from an economics perspective.”
+If you’ve got a question about something in the April jobs report, ask us using the form below.

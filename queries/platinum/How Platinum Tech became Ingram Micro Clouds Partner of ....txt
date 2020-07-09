@@ -1,0 +1,20 @@
+By Chris Player on Jun 24, 2020 1:23PM
+Sydney-based Platinum Technology has been named Ingram Micro Cloud Partner of the Year following three years of strong growth.
+Platinum Tech’s sales and operations director Joseph Girgis spoke to CRN about the company’s journey to the top of the cloud pile and how it developed some of its current offerings.
+Platinum Tech acts as a managed service provider for medium sized organizations that have 20 to 200 staff members and also does enterprise consulting.
+“The last three years have been somewhere between 30 to 50 percent growth year-on-year revenue wise,” he said.
+This period also saw the Sydney-based company assist one of the country’s two top retailers in its move to cloud. The other saw Platinum Tech expand into Asia through a rebuild of IT infrastructure at the JTrust Royal Bank Cambodia.
+According to Girgis, The first day he went to meet the CEO and CIO of the bank, the first question they asked was why they should choose Platinum Tech over IBM.
+“What we said to him was there's three main reasons, one we're going to be more cost effective two, we're going to be more agile, and three, we're going to be more flexible,” Girgis explained.
+The project has since developed into a managed services play and has been well received by the client.
+“And at the end of the project, the CIO sent a bit of a thank you and said, you know, we certainly wouldn't have been able to do that with an IBM. They just wouldn't have been as flexible and as agile as what we were,” Girgis said.
+While these awards are certainly about sales performance, for Girgis the marketplace has been not just a sales tool but a platform from which to build a business.
+“I remember, going back probably seven years ago, cloud takeoff.  At the time, Ingram Micro out of the, three or four largest distributors in the country were early movers.
+“At that time a lot of people were thinking, right now I sell a $30,000 server, I made some money, or do some implementation work and I make more money. Now, Microsoft is going to stop us from selling the servers and we're going to move to a $25 per user model.”
+Girgis explained that Platinum took a different approach which saw the benefits of this new model, and embraced them. Now the company is reaping the rewards.
+“We sort of sit back and watch the recurring revenue come in, getting users running or shutting them down is very easy,” he said.
+“We've moved from a model of people ringing up saying, ‘you know, my infrastructure is down,’ towards the model of, ‘guys, we've got this request, we want to buy something,’ it's not about the server down.”
+While cloud platforms are no strangers to outages , Girgis said that there is a lot less pressure on his organisation from customers when this does occur.
+“[During the recent Microsoft outage] we got calls from people and we explained that we were across it, There were millions of people affected. It'll be up shortly. We sort of waited it out, waited for Microsoft to fix it and then we contacted all those customers. and told them they were back up and running.”
+Platinum Technology partners with Microsoft, HPE, Trend Micro, NBN Business and Billion.
+Copyright © CRN Australia .  All rights reserved.

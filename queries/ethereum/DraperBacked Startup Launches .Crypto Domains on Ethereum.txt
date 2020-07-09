@@ -1,0 +1,15 @@
+Please consider using a different web browser for better experience.
+Please enable JavaScript in your browser for a better site experience.
+A startup building domains on blockchains has just launched a .crypto name registry on ethereum.
+Unstoppable Domains – a firm backed in May to the tune of $4 million by Draper Associates and Boost VC  – said Friday that the new .crypto extension can be connected to users’ public cryptocurrency address, allowing third-parties to more easily send funds.
+Doing away with long, complex crypto address (for example, a bitcoin address will look something like “1BvBMSEYstWetqTFn5Au4m4GFg7xJaNVN2”) in favor of a more memorable and less mistake-prone domain will “simplify cryptocurrency payments and lead to mainstream adoption,” Unstoppable Domains claimed.
+The firms indicated it’s already seen a high level of interest in its first domain extension, .zil, with over 100,000 having been sold.
+The original service was built on the Zilliqa blockchain (hence the .zil domain) and the website content was stored on the InterPlanetary File System (IPFS) or other decentralized storage networks, the company said at the time.
+While the new registry is built on ethereum, it isn’t restricted to payments in ether.
+Co-founder and CEO Matthew Gould commented:
+“We believe that tribalism in the crypto community is slowing down adoption of the technology. .Crypto is a domain name system meant to be used for any cryptocurrency payment and with any cryptocurrency wallet. Sending money to a .crypto domain is a way simpler user experience for the millions of cryptocurrency users that currently have to copy/paste and type in long addresses in order to transact.”
+The firm’s blockchain domains can also be used to provide “uncensorable” websites, it says on its website. Linking the domain to content on a decentralized storage network results in pages that “no one” can take down.
+Using an immutable blockchain for web domains can have its downside, however.
+As reported last week, a hacker exploited a bug in an auction run by OpenSea for the Ethereum Naming Service (ENS) resulting in a number of top level names – including apple.eth, defi.eth, wallet.eth, and pay.eth. – being nabbed with no way to retrieve them.
+After OpenSea appealed to the hacker and offered a reward, the domains were handed back .
+The leader in blockchain news, CoinDesk is a media outlet that strives for the highest journalistic standards and abides by a strict set of editorial policies . CoinDesk is an independent operating subsidiary of Digital Currency Group, which invests in cryptocurrencies and blockchain startups.

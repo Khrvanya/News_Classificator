@@ -1,0 +1,23 @@
+Please consider using a different web browser for better experience.
+Please enable JavaScript in your browser for a better site experience.
+Open interest in CME bitcoin futures are up, signaling more investors want to buy the cryptocurrency. (Chicago Board of Trade, 1973, photo courtesy of National Archives and Records Administration.)
+Open interest in bitcoin futures listed on the Chicago Mercantile Exchange (CME) has recovered significantly from the March lows, indicating a resurgence in institutions that want to buy the cryptocurrency.
+As of Wednesday, open interest, or the number of futures contracts outstanding, was $181 million, a 70 percent increase from $106 million recorded on March 22.
+The number stood at $196 million nine days ago. That was the highest since March 7, according to data provided by the crypto derivatives research firm Skew.
+“The growth in open interest from CME may indicate that entities from traditional finance are more open to add bitcoin exposure to their portfolios, whilst retail investors are seemingly more reluctant to indulge in the futures market,” cryptocurrency platform Luno noted in its latest weekly market report.
+An increase in open interest along with an increase in price is said to confirm an upward trend. Put simply, bitcoin’s recent rally has legs.
+Bitcoin futures listed on the CME are widely considered to be synonymous with the institutional activity and macro traders. The CME is the largest futures exchange in the world, providing institutions access to derivatives on equities, commodities, foreign exchange pairs and bonds, and was one of the first exchanges to launch bitcoin futures in December 2017.
+Open interest had dropped sharply from $316 million to $107 million during the three weeks to March 12, as institutions treated bitcoin as a source of liquidity during the coronavirus-led “Black Thursday” crash in the global equity markets. Investors generally prefer to hold cash, mainly U.S. dollars, during a  crisis situation.
+The financial markets have stabilized somewhat over the last couple of weeks, mainly due to the unprecedented monetary and fiscal lifelines launched by the Federal Reserve and the U.S. government. The S&P 500 is currently reporting a rise of more than 25 percent from the multi-year low of 2,192 registered on March 24.
+Bitcoin has seen a solid price rally over the past four weeks. The cryptocurrency is trading near $7,050 at press time, representing an 82 percent increase on the low of $3,867 reached on March 12, according to CoinDesk’s Bitcoin Price Index.
+The price rise is accompanied by an uptick in open interest in futures listed on the CME, as noted earlier. Total open interest on other major exchanges including Bakkt, Kraken, ByBit, Huobi, BitMEX, OKEx, Deribit, Binance, FTX and Bitfinex also increased, from $1.7 billion on March 13 to $2.3 billion on March 15.
+An increase in open interest along with an increase in price is said to confirm an upward trend. Put simply, bitcoin’s recent rally has legs.
+The rally is said to be driven by short covering, or bears taking profits, when the price increase is accompanied by a drop in open interest, and it is often short-lived.
+Some observers, especially chart analysts, look at the trading volumes to confirm price trends. Trading volume refers to the number of contracts traded during a given period of time.
+A rise in volume along with a rise in price is said to validate the uptrend. However, in bitcoin’s case trading volumes are on a declining trend, as seen below.
+Total daily trading volume in futures listed across the globe topped out above $45 billion in mid-March and stood below $10 billion on Wednesday. Meanwhile, daily volume fell to a 4.5-month low of $83 million in CME’s futures, according to Skew data.
+See also: Bitcoin Price Spikes Above $7.1K, Liquidating $23M on BitMEX
+Hence, chart analysts may put a question mark on the sustainability of the recent price rally.
+However, futures trading volume has dropped amid a rise in open interest. “It is often the result of investors holding on to their positions,” said Emmanuel Goh, CEO of Skew, in a Telegram chat in February, when the futures market was facing a similar situation.
+In such cases, the market usually extends the preceding move, which is bullish in this case.
+The leader in blockchain news, CoinDesk is a media outlet that strives for the highest journalistic standards and abides by a strict set of editorial policies . CoinDesk is an independent operating subsidiary of Digital Currency Group, which invests in cryptocurrencies and blockchain startups.

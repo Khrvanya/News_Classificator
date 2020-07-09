@@ -1,0 +1,16 @@
+Domestic stock exchanges having commodity segments offer crude futures for trading.
+These are contracts that allow you to purchase or sell a set quantity of crude at a pre-set price for delivery on a future date.
+The Covid-19-induced global market selloff has caused crude oil prices to plunge. Domestic stock exchanges having commodity segments offer crude futures for trading. ET explains the basics of crude oil derivatives trading for entities wanting to hedge and those wanting to take contra bets to commercial users.
+These are contracts that allow you to purchase or sell a set quantity of crude at a pre-set price for delivery on a future date. In the Indian context, no delivery takes place. Contracts are cash-settled.
+2. How does a trade play out?
+Assume you’re bullish on crude. One contract (100 barrels) at Monday intraday prices costs Rs 3,26,300. If you put up 5 per cent margin to buy, you pay Rs 16,315 – 20 times leverage. A counterparty sells you crude at Rs 3,263/ bbl. If crude rises by Rs 50, you make Rs 5,000 per contract. The seller loses that much. If the price falls by Rs 50, you lose and and your counterparty gains. It’s a zero-sum game with money moving from one pocket to another.
+3. Can a retail client trade these futures?
+Yes, provided her broker offers commodity broking services.
+Sebi has allowed brokers to offer unified services, allowing them to merge their commodity broking subsidiaries with their equity broking arms. Some still have separate subsidiaries.
+4. What are the margins I need to put up for trade?
+Around 5 per cent of the contract value on MCX , the most liquid exchange for metals and energy. In case of additional volatility, an additional margin (on both buy & sell side) and/or special margin (on either buy or sell side) at such percentage, as deemed fit, will be imposed in respect of all outstanding positions.
+5. What is the maximum position an individual client and a member can take?
+For individual clients, 4,80,000 barrels or 5 per cent of the market wide open position, whichever is higher, for all crude oil contracts combined together. For a member collectively for all clients, 48,00,000 barrels or 20 per cent of the market wide open position, whichever is higher, for all crude oil contracts combined together.
+6. What is the underlier to these contracts?
+Light sweet crude traded on Comex, part of the CME Group.
+7. How many contracts trade concurrently and what are the trade timings?

@@ -1,0 +1,33 @@
+Pivot Or Perish Market Dashboard India-China Face-Off The Future Of Covid Tracker Lounge Coronavirus India2Global Emerging Tech Conclave #WFHLife Long Reads Money With Monika, Season 4 Mint 50 - Top Mutual Funds Plain Facts Mark To Market Podcasts Money With Monika, Season 3 Companies Markets Money Start-ups Mutual Funds Insurance Technology Industry Opinion Politics
+Home > News > India >Petrol, diesel price unchanged for a week now. Check latest rates here
+Petrol, diesel price unchanged for a week now. Check latest rates here
+1 min read . Updated: 06 Jul 2020, 09:09 AM IST Staff Writer
+Petrol and diesel prices were las changed on June 29.
+Amid protests in several parts of the country, petrol and diesel prices have been left untouched for a week now. Fuel rates were last hiked on 29th June after petrol hit a 19-month high and diesel touched a new record high in Delhi. From June 7 to 29, the price of petrol has increased by ₹9.17 a litre and that of diesel by ₹11.14 a litre.
+Latest petrol, diesel prices in top cities:
+For the first time, the price of diesel is more than that of petrol in Delhi. It is, however, not the case in other cities as the Delhi government had hiked VAT on diesel. About 70% of fuel prices comprise taxes.
+In the international market, oil prices offered up a mixed market snapshot on Monday, with Brent crude edging higher, supported by tighter supplies, while U.S. benchmark WTI futures dropped on concern that a spike in coronavirus cases could curb oil demand in the United States.
+Brent crude rose 18 cents, or 0.4%, to $42.98 a barrel by 0252 GMT after a 4.3% gain last week, while U.S. West Texas Intermediate crude was at $40.42, down 23 cents, or 0.6%, from its previous settlement on Thursday. U.S. markets were closed on Friday to mark July 4 holiday celebrations.
+* Thank you for subscribing to our newsletter.
+Click here to read the Mint ePaperLivemint.com is now on Telegram. Join Livemint channel in your Telegram and stay updated
+You are now subscribed to our newsletters. In case you can’t find any email from our side, please check the spam folder.
+lozad('.lozad', { load: function(el) { el.src = el.dataset.src; el.onload = function() { el.classList.add('fade')}}}).observe()
+.myAccount .planSec, .myAccount a.LinkCTA{padding:16px; margin:16px; box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.1); background-color: #fff;}
+	       		var userData = data;
+	       		var name = userData.name;
+	       		var email = userData.email;
+	       		var signupSource = userData.source;
+	       		var subscribedAtOnce = userData.subscribedAtOnce;
+	       		var plan  = userData.plan;
+	       		document.getElementById('uName').innerHTML = "<strong>"+name+"</strong>" + email;
+		       		var status = planData.status;
+		       		var purchaseSource = planData.source_device;
+			       		var nextActivationDate = planData.current_term_ends_at;
+			       		var planDescription = planData.plan.description;
+			       		var planName = planData.plan.name;
+			       		var planPrice = planData.amount;
+			       		//var planInterval = planData.shipping_interval;
+			       		var planInterval = planData.duration;
+			       		var planUnit = planData.interval_unit;
+			       		//var html = "<strong>Your Subscription Plan</strong>"+planName+" ₹"+planPrice+" / "+planInterval+" " + nextBillingHtml + cancelHtml; 
+			       		var html = "<strong>Your Subscription Plan</strong> "+planDescription + " "+ planName +": ₹"+planPrice + " "+ nextBillingHtml + cancelHtml;

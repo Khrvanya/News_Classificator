@@ -1,0 +1,37 @@
+The importance of forex reserves for RBI, economy
+2 min read . Updated: 15 Jun 2020, 10:27 PM IST Karan Bhasin
+India’s forex reserves recently crossed the $500-billion mark for the first time in history due to higher foreign direct investment, foreign institutional investment. Low oil prices also helped reduce outflows. Mint explains this development and the importance of forex reserves.
+What  are  forex  (foreign exchange) reserves?
+Forex or foreign exchange reserves are essentially assets held by the central bank in foreign currencies as a reserve. They are usually used for backing the exchange rate and influencing monetary policy. In the case of India, our forex reserves include dollars, gold, and the International Monetary Fund’s quota for Special Drawing Rights. Most of the reserves are usually held in US dollars given the currency’s importance in the international trading and financial system. Some central banks also hold reserves in British pounds, euros, Chinese yuan, or the Japanese yen, in addition to their US dollar reserves.
+Why are the reserves so important?
+All international transactions are settled in US dollars and are therefore needed to support our imports. More importantly, they are needed to support, maintain confidence for central bank action, whether monetary policy action or any exchange rate intervention to support the domestic currency. It also helps limit any vulnerability because of a sudden disruption in foreign capital flows, which could happen during a crisis. Holding liquid forex thus provides a cushion against such effects and gives the confidence that there would still be enough forex to support the country’s crucial imports in case of external shocks.
+Have  other  nations  also  seen an increase in reserves?
+Countries witness significant cash outflows during an economic crisis, resulting in a reduction in dollar reserves. This causes a devaluation of domestic currencies forcing central banks to deploy reserves to support their currencies. Bank of America said Emerging Markets burned $240 billion in reserves to support domestic currencies.
+How did India increase its  reserves  amid  crisis?
+The increase in India’s reserves is an outcome of an increase in FDI. This comes along with FIIs pouring money into markets expressing confidence in the economy. The increase in FDI, however, is primarily an outcome of the successful capital raise by Reliance Industries’ Jio Platforms amidst this global pandemic. Another reason is that a slowdown means lower domestic consumption, which implies lower imports. This coincides with low crude oil prices which further help on the current account front.
+Does this mean India’s economy is healthy?
+The increase in reserves does give India adequate cushion to combat external shocks. India is one of the few nations whose forex reserves are more than forex debt. The increase in FDI signals faith in the future of the economy, rather than a commentary on its present state. Lower imports are a result of lower domestic demand, but currently, it is due to the lockdown too. It is, therefore, difficult to consider the increase in reserves as a direct sign of a healthy economy.
+*Karan Bhasin is a New Delhi-based policy researcher.
+* Thank you for subscribing to our newsletter.
+Click here to read the Mint ePaperLivemint.com is now on Telegram. Join Livemint channel in your Telegram and stay updated
+You are now subscribed to our newsletters. In case you can’t find any email from our side, please check the spam folder.
+lozad('.lozad', { load: function(el) { el.src = el.dataset.src; el.onload = function() { el.classList.add('fade')}}}).observe()
+.myAccount .planSec, .myAccount a.LinkCTA{padding:16px; margin:16px; box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.1); background-color: #fff;}
+	       		var userData = data;
+	       		var name = userData.name;
+	       		var email = userData.email;
+	       		var signupSource = userData.source;
+	       		var subscribedAtOnce = userData.subscribedAtOnce;
+	       		var plan  = userData.plan;
+	       		document.getElementById('uName').innerHTML = "<strong>"+name+"</strong>" + email;
+		       		var status = planData.status;
+		       		var purchaseSource = planData.source_device;
+			       		var nextActivationDate = planData.current_term_ends_at;
+			       		var planDescription = planData.plan.description;
+			       		var planName = planData.plan.name;
+			       		var planPrice = planData.amount;
+			       		//var planInterval = planData.shipping_interval;
+			       		var planInterval = planData.duration;
+			       		var planUnit = planData.interval_unit;
+			       		//var html = "<strong>Your Subscription Plan</strong>"+planName+" ₹"+planPrice+" / "+planInterval+" " + nextBillingHtml + cancelHtml; 
+			       		var html = "<strong>Your Subscription Plan</strong> "+planDescription + " "+ planName +": ₹"+planPrice + " "+ nextBillingHtml + cancelHtml;

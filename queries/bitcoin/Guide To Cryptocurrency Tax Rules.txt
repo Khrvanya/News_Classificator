@@ -1,0 +1,55 @@
+Bitcoin and its competitors look a lot like money: they’re a store of value and a means of exchange. But the Internal Revenue Service has decreed that these assets are not currency and not securities either. They are property. More like a shopping mall than like a $100 bill.
+As capital assets, they give rise to capital gains and losses when disposed of. A profit is taxable as a short-term gain if a position has been held for a year or less, as long-term if held for more than a year. If a coin is held for profit rather than amusement, which is presumably almost always the case, then a loss on it is a deductible capital loss.
+In computing a gain or loss you use as your starting point the “basis” of an asset, tax lingo for your original purchase price (after, occasionally, some adjustments).
+2. Sales are not the only form of taxable transaction.
+You have to report the disposition of a virtual coin if it is:
+But merely transferring coins, such as from a wallet to an exchange or vice versa, is not a disposition. Nor do investors who buy and hold owe a tax.
+3. The tax code’s wash sale rule does not apply.
+This rule forbids the claiming of a loss on sale of a security if you bought that security within 30 days before or after. If, for example, you buy a Tesla share at $800, sell it at $720, then buy it back quickly, the $80 loss is suspended.
+But bitcoins and the like are not “securities.” They’re pieces of “property.” So you can go out at a loss and then right back in without losing the right to immediately claim the loss.
+Coin exchanges based in the U.S. file information returns on customers with a lot of trades. The 1099-K is mandatory for a customer who in one calendar year does at least 200 transactions with proceeds totalling at least $20,000. This is the same cutoff for other intermediaries handling property transactions, such as Ebay. (Some states have lower thresholds.)
+The 1099-K form is rather like the 1099-B that stockbrokers file, except that the latter form doesn’t have the 200-trade minimum and the K probably won’t tell you what your cost basis was for a coin.
+As with 1099-Bs, so with the Ks, the fact that you didn’t get the form (because you didn’t do a lot of trading or for any other reason) does not absolve you of the obligation to report all sales and other dispositions.
+5. Forks can create ordinary income.
+When a share of stock splits in two, by and large, there’s no taxable transaction. Its purchase price gets carved up and assigned to the two pieces; you declare a sale on either of those pieces only when you dispose of it. If and when you do sell a piece at a gain you’ll get the favorable capital gain treatment. This is what would happen if one share of Exxon Mobil split into one share of Exxon and one share of Mobil.
+The IRS has a different view of coin splitups that occur when a blockchain forks into two chains. It thinks that the split creates a windfall equal to the starting value of the newly created coin, and that this windfall should be taxed at high ordinary-income rates.
+This is what happened when bitcoin (BTC) spun off bitcoin cash (BCH) in 2017. Each old BTC coin continued to live on one chain while one newly created BCH, on a new chain, was dropped into the lap of the BTC owner. You were supposed to declare the value of BCH as ordinary income. It’s a good bet that many coin holders neglected to do so.
+How does the tax agency justify its rule? With some very strained logic. It sees a coin split as less like an oil company splitting in two than it is like a taxpayer stumbling on a $100 bill in a parking lot.
+The new currency created by a fork is income when you can get your hands on it. This is true even if you hold on to the new currency. The cost basis for the new coins is whatever you had to report as income.
+An “airdrop” is the random distribution of coins in the course of a marketing effort. (The IRS has also used the term, incorrectly, to describe the spin-off explained in the previous section.) With considerably more justification than it has taxing forks, the IRS considers marketing giveaways to be ordinary income.
+You report the income from a marketing scheme as soon as you get the freebie. That reported income becomes the cost basis if you later dispose of the coins. The dollar amount will probably be small; people don’t give away valuable coins.
+Suppose you join a mining pool, spend $8,000 on electricity and get rewarded with a bitcoin worth $9,800. Even if you don’t sell the coin, you have to report a $1,800 profit and that profit is ordinary income.
+Your new possession has a basis of $9,800 and any gain or loss from that point is a capital gain or loss. That could create a painful result. If the coin collapses in value to $8,000 and you sell it then, you have broken even, but you’ll probably owe tax. That’s because you’d be combining $1,800 of ordinary income, taxed at a high rate, with $1,800 of capital loss, which may be worth considerably less on your tax return.
+The profit and loss described here applies if you are mining with the aim of making money. If, in contrast, the IRS can show that your mining is no more than a hobby, then you get stuck with hobby accounting. That’s a disaster. Hobbyists must report all their revenue as income but can’t deduct any of their costs.
+8. Staking gives rise to ordinary income.
+Some crypto chains, like tezos, reward participants for putting up their coins as collateral and then certifying transactions. The reward coins are treated, like bank interest, as ordinary income. Some exchanges handle this work for you and then split the revenue. In that case your income is your share of the fee, not the gross amount.
+9. Gifts of crypto to charity get treated like gifts of stock, up to a point.
+Buy a coin at $4,000, wait more than a year and donate when it’s worth $9,000, and you get a $9,000 deduction without having to pay tax on the $5,000 gain. But gifts of property (as opposed to securities) worth more than $5,000 need appraisals, so this can get messy.
+If you donate appreciated property after holding it for less than a year, your deduction is limited to your cost basis.
+What about depreciated property? Don’t give it away. Sell it and take the capital loss.
+10. Gifts of crypto to friends and relatives are treated like gifts of stock.
+A donee’s cost basis and holding period are the same as if you still held the coins, but with one small distinction: If the property has fallen in value during your ownership, then a special rule comes into play.
+Say you bought a bitcoin at $12,000 and give it to your niece when it’s worth $11,000. If she sells at more than $12,000, then she uses $12,000 as her basis. If she sells at less than $11,000, she has to use $11,000 as her basis, reducing the capital loss that she can claim. Any sale between $11,000 and $12,000 is in a dead zone that creates neither a gain nor a loss.
+11. Like-kind tax postponement doesn’t work.
+With the like-kind rule, people aimed to treat the exchange of one crypto for another as a nontaxable event, postponing tax until sale of the new coin. It probably didn’t work for tax years before 2018, because coin exchanges didn’t meet the exacting requirements for like-kind intermediaries. It definitely doesn’t work for 2018 and later years because a new statute limits like-kind treatment to real estate swaps.
+12. Bitcoin futures are Section 1256 contracts.
+Futures on bitcoins, traded on the Chicago Mercantile Exchange, get the peculiar tax treatment of commodity futures: (a) Positions are “marked to market” on Dec. 31, with paper gains and losses recognized as if the futures position were sold and immediately bought back. (b) The gains and losses are assumed to be 60% long-term, 40% short-term, no matter how long the position has been held.
+13. Crypto is probably subject to the straddle rule.
+This rule forbids you to deduct a loss on closing a position in an actively traded investment (stock, option, whatever) while you maintain an open position that runs in the opposite direction. Thus, if you own an S&P 500 fund while simultaneously holding a short position in S&P futures, you can’t sell just one of these to claim a capital loss while still holding the offsetting position.
+You could run into a problem here if you have multiple positions in bitcoin, bitcoin futures or bitcoin options.
+14. Offshore crypto is probably not subject to FBAR and Fatca reporting.
+These two regulatory regimes compel you to disclose cash and securities held in offshore accounts. They don’t, however, apply to property that isn’t cash or securities. So your bitcoin account at Malta-based Binance is not covered by these rules.
+Some lawyers advise you to file the reports anyway. If you trade during the year into conventional currencies (like dollars or euros) you might cross a threshold and be required to file. The labor cost of filing is small; the penalties for not complying are severe.
+The FBAR (Foreign Bank & Financial Accounts form), which kicks in if an offshore account tops $10,000 at any point during the year, must be filed electronically.
+The Fatca (Foreign Account Tax Compliance Act), has different thresholds that start at $50,000. The form, number 8938 , can be filed on paper.
+You don’t need to file these reports for assets held at a U.S.-regulated exchange like Coinbase.
+Exemption from account disclosure does not confer an exemption from the rule mandating the reporting of any sale at a gain. If you have a profit from crypto, even a dollar, then it has to go on your tax return no matter where the coin is held.
+15. Identifying lots works as it does with securities.
+Say you buy 5 bitcoins at $6,000 and 5 more at $8,000. Now you sell one coin for $9,000. Was it one of the early ones (creating a $3,000 gain) or one of the late ones (a $2,000 gain)? The IRS gives you two choices.
+The default choice is first-in-first-out. In a rising market, that tends to give you high tax bills.
+The second choice is “specific identification.” You maintain meticulous records enabling you to spell out which coin was sold. This enables you to make a selection that minimizes your tax bill (usually, the coin with the highest purchase price). It helps to have a coin tracking service handle the dirty work.
+For articles by this author on tax-wise investing, go here .
+For news on crypto and blockchain, go here .
+For a helpful Q&A from the tax police, go here .
+I aim to help you save on taxes and money management costs. I graduated from Harvard in 1973, have been a journalist for 45 years, and was editor of Forbes magazine from
+I aim to help you save on taxes and money management costs. I graduated from Harvard in 1973, have been a journalist for 45 years, and was editor of Forbes magazine from 1999 to 2010. Tax law is a frequent subject in my articles. I have been an Enrolled Agent since 1979. Email me at williambaldwinfinance -- at -- gmail -- dot -- com.

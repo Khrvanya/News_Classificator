@@ -1,0 +1,15 @@
+Ethereum Compatible SKALE Network Is Now Live on Mainnet, Is Designed to Improve UX for Decentralized Applications
+ConsenSys Codefi, which provides the blockchain “operating system” for running commerce and finance applications, announced in February 2020 that the SKALE Network became the first “decentralized” network to issue a token on the Activate platform.
+As explained in a blog post published the ConsenSys Codefi team:
+“The SKALE Network exists both on the Ethereum Mainnet and on SKALE Network nodes, and is designed specifically to improve the user experience of decentralized applications (dApps), while significantly increasing transaction speeds, dramatically lowering costs, and creating seamless workflows for end users and devs.”
+This is just the first phase of SKALE Network’s mainnet, the Codefi team noted. Since we’re in the initial stage, staking and transfers have not yet been enabled. But SKALE’s incentivized test network (testnet) is operating normally with more than 12 (transaction) validators since May 20, 2020 without any downtime.
+Activate is accepting early registrations for anyone interested in the SKALE Network Launch ( register here ). Registered users can buy SKL tokens at any time during a 3-day dutch auction.
+As noted by the Codefi team, the price of the tokens will be set during the dutch auction, which should allow the free market to determine the price of SKL tokens.
+At the end of the sale, everyone who properly submitted a bid should get the SKL tokens at the same rate. As explained by Codefi, Dutch auctions are “demand-based and at a first come, first served basis, which means the sale will conclude once A) demand for the available token supply has been met or B) the 3-day auction period has elapsed.”
+(For more details about the token sale, click here ).
+The Codefi team further noted:
+“Gas fees to send transactions across the Ethereum network are quite high, which is a positive indicator about the demand of ETH and improving the security of the network. But it’s not so great if you are trying to use your favorite dApps without breaking the bank.”
+“Ethereum needs more flexible Layer 2 technology. The SKALE Network is specifically designed to solve these problems.”
+“SKALE will be orders of magnitude less expensive to run transactions, while not losing sync with the Ethereum mainnet.”
+They add that SKALE is Ethereum Virtual Machine (EVM) compatible, and that dApp developers may integrate their Ethereum (ETH) smart contracts with SKALE.
+There are dApps that are part of SKALE’s innovator program that are now running their smart contracts on SKALE’s “elastic” sidechains.

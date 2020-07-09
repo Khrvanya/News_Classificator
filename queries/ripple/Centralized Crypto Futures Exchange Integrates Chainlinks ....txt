@@ -1,0 +1,11 @@
+Chainlink’s decentralized price oracles will be used as an "anchor" by the forthcoming derivatives exchange Digitex Futures to protect traders against slippage.
+Forthcoming Seychelles-based crypto derivatives trading exchange Digitex Futures has announced it will integrate Chainlink’s ( LINK ) decentralized price reference contracts on its platform.
+Chainlink's decentralized price oracles are typically utilized by decentralized finance ( DeFi ) applications.
+With the integration, Digitex claims to comprise the first centralized crypto futures exchange to decentralized oracles. The integration will be used as an anchor to detect internal deviations over a defined percentage.
+Chainlink describes its price feeds as “security reviewed, sybil resistant, fully independent.” The index is informed by “a variety of trusted spot market sources.”
+Digitex asserts that the price reference contracts provide traders “with strong protection against price manipulation,” and “overexpos[ure] to slippage” should the firm’s internal index produce extreme fluctuations.
+The contracts will be used to support Digitex’s initial Bitcoin ( BTC )/U.S. dollar perpetual contracts, before incorporating additional feeds alongside other crypto assets in the future.
+Adam Todd, the founder and chief executive of Digitex, stated that “Chainlink provides Digitex with highly reliable and transparent price feeds that protect our users against the negative outcomes of abnormal market conditions or internal complications.”
+Digitex’s futures exchange opened on mainnet to selective user onboarding at the end of April. The platform currently plans to publicly launch during summer.
+At the end of April, it was announced that leading Tezos ( XTZ ) developer teams Cryptonomic and SmartPy had begun working to bring Chainlink’s price oracles to the Tezos network .
+The move followed Coinbase’s launch of its own price oracle for the DeFi ecosystem.

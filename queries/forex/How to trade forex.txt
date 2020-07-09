@@ -1,0 +1,30 @@
+A lot of forex trading takes place between major banks and financial institutions, which buy and sell massive amounts of currency every single day. For individual traders who don’t have the means to make billion-dollar forex trades, though, there are two main ways to get involved: forex CFDs or trading forex via a broker.
+What is a forex CFD?
+A forex CFD is a contract in which you agree to exchange the difference in price of a currency pair from when you open your position to when you close it. Open a long position, and if the forex position increases in price you’ll make a profit. If it drops in price, you’ll make a loss. Open a short position, and the opposite is true.
+Forex is just one of the markets you can trade using CFDs.
+Forex trading via a broker – or sometimes via a bank – works in a broadly similar way to CFD trading. You’re speculating on the price movements of currency pairs, without actually taking ownership of the currencies themselves. If you think a currency pair’s price is headed down, you can go short instead of long.
+When you trade forex via a broker, though, you won’t have access to other markets.
+One of the first things to learn when you want to trade currencies is how the forex market operates, which is very different to exchange-based systems such as shares or futures.
+Instead of buying and selling currencies on a centralised exchange, forex is bought and sold via a network of banks. This is called an over-the-counter, or OTC market. It works because those banks act as market makers – offering a bid price to buy a particular currency pair, and a ask price to sell a forex pair.
+Most retail traders won’t buy and sell forex directly with one of the major banks – they’ll use a forex trading provider. Forex trading providers deal with the banks on your behalf, finding the best available prices and adding on their own market spread.
+Some providers will allow you to interact directly with market makers’ order books. This is called direct market access , or DMA, and means advanced traders can buy and sell forex without the spread – instead trading at the prices offered by currency providers, plus a variable commission.
+If you want to trade forex via CFDs, you’ll need an account with a leveraged trading provider.
+You can open an IG account in minutes, and there’s no obligation to add funds until you want to place a trade.
+Building a trading plan is particularly important if you’re new to the markets. A trading plan helps take the emotion out of your decision making, as well as providing some structure for when you open and close your positions. You might also want to consider employing a forex trading strategy, which governs how you find opportunity in the market.
+Once you have chosen a particular forex trading strategy, it’s time to apply it. Use your favoured technical analysis tools on the markets you want to trade and decide what your first trade should be.
+Even if you want to be a purely technical trader, you should also pay attention to any developments that look likely to cause volatility. Upcoming economic announcements, for instance, might well reverberate across the forex markets – something your technical analysis might not consider.
+Our trading platforms can provide you with a smart and faster way to trade forex. You can trade via the IG trading platform in:
+​Each of our CFD trading platforms can be personalised to suit your trading style and preferences, with personalised alerts, interactive charts and risk management tools.
+Once you have chosen your platform, you can start trading. Just open the deal ticket for your chosen market, and you’ll see both a buy and a sell price listed. You’ll also be able to decide the size of your position and add any stops or limits that will close your trade once it hits a certain level. Hit buy to open a long position or sell to open a short position.
+You can monitor the profit/loss of your position in the ‘open positions’ section of the dealing platform.
+Once you’ve decided it’s time to close your position, just make the opposite trade to when you opened it. Now, let’s take a look at some examples of forex trades and their possible outcomes.
+GBP/USD has a sell price of 1.35540, and a buy price of 1.35560. You think the pound will lose value against the US dollar, because the Bank of England might cut interest rates, so you decide to sell five standard lots at 1.35540.
+Each contract is equal to 100,000 of the base currency of the pair. In this case, selling a single GBP/USD standard contract is equivalent to trading £100,000 for $135,540 so your total position is worth $677,700 (£500,000).
+CFDs are a leveraged product, so you don’t have to put down the full value of your position upfront. A deal of this size on GBP/USD has a margin requirement of 0.50%, so your margin would be 0.50% of the total exposure of your trade, which is $3,388.50 (£2,500).
+The pound falls as you predicted. You decide to close your position when the buy price reaches 1.35440.
+To calculate your profit, you multiply the difference between the closing price and the opening price of your position by its size. 1.35540 – 1.35440 = 10 points, which you multiply by five CFDs to get a profit of $500.00 (minus any overnight charges). Another way to think about it is that your $677,700.00 is now worth £500,369.17 ($677,700/1.35440), so your profit is £369.17 (£500,369.17 – £500,000.00).
+1.35540 – 1.35440 = 10 points, which you multiply by five CFDs to get a profit of $500.00.
+Just remember that you only need to pay overnight funding charges if your position is held overnight. Commission fees apply only if your trading FX direct.
+GBP/USD rises instead. You decide to cut your losses and reverse your trade when the buy price is 1.35700.
+Your position has moved 16 points against you, meaning you make a loss of $800.00 (in addition to any overnight charges).
+1.35540 – 1.35700 = -16 points, which you multiply by $50.00 to give you a loss of $800.00.

@@ -1,0 +1,15 @@
+Please consider using a different web browser for better experience.
+Please enable JavaScript in your browser for a better site experience.
+Bitcoin’s mining difficulty just posted the smallest percentage change in 10 years.
+The Bitcoin network adjusted its difficulty level at 01:18 UTC on July 1 to 15.7842 trillion – down a mere 0.0033% from the previous level of 15.7847 trillion set June 17. The percentage change is small enough that it is rounded up to a zero, data from BTC.com shows .
+Bitcoin mining difficulty measures how hard it is to compete for block rewards on the network. The measure is designed to adjust every 2,016 blocks, roughly every two weeks, based on the total computing power that’s participating in the mining game.
+The negligible adjustment on Wednesday means the total average computing power connected to Bitcoin over the past 14 days has barely changed, either due to the lack of new mining devices plugging in or any newly added computing power being offset by those that are squeezed out after Bitcoin’s halving .
+Historically, difficulty remaining steady at the initial level of 1 for a year after the genesis block was mined, before starting to rise in early 2010. The last time the measure posted a 0% change was in March 2010.
+Since then, there have been only eight instances where the difficulty change, both negative and positive, was below 0.1%, with today’s being the smallest adjustment.
+All told, while the total mining power on the Bitcoin network has largely recovered from the deep drop following the network’s halving event in May, it’s still to surpass an all-time high was recorded in early March.
+Today’s small change comes at a time of extremely low volatility, with the cryptocurrency having traded in the range of $9,000 to $10,000 for the last two months.
+The latest difficulty adjustment also comes amid recent news of shipment issues regarding the latest equipment from major bitcoin miner manufacturers.
+An internal power struggle between the two co-founders at Beijing-based Bitmain, the world’s largest bitcoin miner maker, has affected the company’s shipment logistics as well as its mining chip supply chain. Some customers indicated they were hesitant to bulk purchase miners from Bitmain before the situation settled.
+Although Bitmain did publish an article on June 23 in an effort to reassure customers that a tentative deal had been reached to resolve the shipment issue, the article was deleted within four hours.
+That didn’t stop some from buying machines from Bitmain, though. Core Scientific, a U.S.-based bitcoin mining hosting provider, said in a recent announcement that it has bought 17,595 units of Bitmain’s latest AntMiner S19 on behalf of its clients. These machines are to be delivered and deployed in the next four months.
+The leader in blockchain news, CoinDesk is a media outlet that strives for the highest journalistic standards and abides by a strict set of editorial policies . CoinDesk is an independent operating subsidiary of Digital Currency Group, which invests in cryptocurrencies and blockchain startups.

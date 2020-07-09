@@ -1,0 +1,15 @@
+Major mining chip manufacturer Ebang has filed for an IPO in the United States.
+Ebang is seeking to distribute Class A ordinary shares at a face value $of 0.00013 per share. The firm plans to list on either Nasdaq Global Market or the New York Stock Exchange under the ticker EBON.
+The move comes nearly two years after the company sought to conduct a $1 billion IPO in Hong Kong. After submitting its filing in June 2018, the offering had been halted by the end of the year.
+In 2019, 82% of Ebang’s revenues came from its application-specific integrated circuit (ASIC) chips and fabless integrated circuits for miners.
+Ebang’s annual revenue was $109 million last year. Declining demand for mining hardware amid falling crypto prices resulted in a 66% drop in growth from $319 million in 2018.
+Gross profits swung from $24.4 million in 2018 to $30.6 million in gross losses during last year Ebang’s chip sales fell from 415,930 at an average price of $737 to 289,953 chips for $304 on average.
+Ebang’s filing asserts that demand for its products is directly tied to fluctuations in the price of Bitcoin:
+Market demands and unit price of Bitcoin mining machines correlate with the economic returns of Bitcoin mining machines and are primarily affected by the Bitcoin price. A rise in the Bitcoin price will generally increase the market demand for Bitcoin mining machines, which in turn will allow us to price our products higher, and vice versa.
+“The decrease in the Bitcoin price in 2018 and the first quarter of 2019 resulted in a material decrease in our sales volume and in the average selling price of our Bitcoin mining machines,” said Ebang, adding:
+Although the Bitcoin price started to recover in the second quarter of 2019, our operations generally lag behind the increase of Bitcoin price.
+The filing states that Ebang has completed the design for its proprietary 8 nanometer (nm) and 7 nm ASC chips, adding that it is ready to mass-produce the 8 nm units “when the market conditions become suitable.”
+Ebang is also working on the development of “proprietary 5 nm ASIC chips and mining machines” for altcoins, including Litecoin ( LTC ) and Monero ( XMR ).
+The company states that it intends to begin “applying blockchain technology into non-cryptocurrency industries, such as the financial services and healthcare industries.”
+In November 2019, mining manufacturer Canaan Creative raised $90 million in an IPO — less than one-quarter of its $400 million target.
+Since launching on Nasdaq for $9 per share, Canaan’s stock price has fallen over 50% to trade for $4.23.

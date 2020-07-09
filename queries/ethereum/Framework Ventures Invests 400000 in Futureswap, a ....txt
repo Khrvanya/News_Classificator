@@ -1,0 +1,14 @@
+Framework Ventures , a tech investment firm that focuses on decentralized finance (DeFi) solutions, revealed on March 10, 2020, that it has invested $400,000 in Futureswap , a decentralized (or non-custodial) futures exchange.
+Framework Ventures has also invested $500,000 in Commonwealth Labs, the creator of Edgeware , which is Polkadot’s first smart contract chain.
+As mentioned in a press release shared with Crowdfund Insider:
+“In addition to holding tokens, Framework Ventures will be supplementing their investments with additional assistance to these ecosystems, be it in terms of providing liquidity, developing an application toolkit, and more.”
+Michael Anderson , co-founder at Framework Ventures, said that he believes these two initiatives are ideal fits for his firm’s “Network Capital” investment thesis.
+The Futureswap platform allows investors to acquire leveraged crypto futures contracts at competitive rates. It’s a hybrid or mix between a decentralized exchange and a leveraged trading platform.
+As noted in the announcement:
+“Futureswap aims to disrupt the multi-billion dollar leverage trading market currently dominated by centralized exchanges like BitMEX. Futureswap substitutes order books with automated market making, provides incentives to liquidity providers, and uses a ‘Dynamic Funding Rate’’ for systemwide balance between longs and shorts.”
+Framework Ventures confirmed that it would be offering liquidity to the Futureswap platform by adding digital assets to the initial liquidity pools.
+Edgeware is a proof-of-stake blockchain platform created by Commonwealth Labs. It’s notably the first smart contract layer developed on Polkadot, a solution that “empowers blockchain networks to work together under the protection of shared security.”
+As explained in the release, Edgeware’s platform grows through “recursive self-improvement with a focus on on-chain governance.” Network participants are able to vote, delegate, and fund improvements and updates via distributed autonomous organizations, or DAOs, economic mechanisms, and cryptographically secured voting systems.
+Framework Ventures has reportedly locked up 20,000 ETH (appr. $1.1 million at the time of lockup) in Edgeware’s lockdrop , in order “to promote distribution of its network.”
+Dillon Chen , CEO at Edgeware, remarked:
+“Our relationship with Framework is unlike any investor-startup relationship I’ve been a part of. They have far exceeded our expectations by acting as a network validator, engaging in on-chain governance, participating in community conversations, and launching protocol tools.”

@@ -1,0 +1,10 @@
+IRS wants tracing tools for privacy coins, Bitcoin Lightning Network
+The US agency puts out a call for prototypes to trace Monero, Zcash, OmiseGo, and other cryptocurrency tokens and platforms.
+The IRS is on the hunt for new crypto tracing tools.
+The request is focused on privacy-centric coins, as well as off-chain/side-chain protocols.
+Interactive prototypes can be submitted until July 14.
+A catch-all term for tokens used by networks as either a store of value, resources or information.
+The agency issued a Request for Information earlier this week for the pilot program initiated by the IRS Criminal Investigations Division. The IRS is seeking an interactive prototype with a graphical interface that will let it cluster together transactions from a user, as well as associate “user distributed addresses with distributed ledger addresses” of criminal suspects. The news was first reported by industry publication The Block.
+Additionally, the agency wants a prototype that can provide a library of suspects’ distributed ledger addresses, uses open-source intelligence data, and lets agents share data between investigations, as well as export data into various file formats.
+The request specifically calls out the cryptocurrencies Monero (XMR), Zcash (ZEC), Dash (DASH), Grin (GRIN), Komodo (KMD), Verge (XVG), and Horizon (ZEN). In addition to Lightning, it also mentions Layer 2 protocol networks Raiden Network and Celer Network, as well as side-chains such as Plasma and OmiseGo (OMG).
+The IRS admits that it doesn’t have a lot of options on those particular fronts.

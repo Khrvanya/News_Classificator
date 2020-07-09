@@ -1,0 +1,12 @@
+Dash has announced a 104% rise in commercial payments through Q1 2020, along with increased adoption, trading volume and price performance.
+Privacy-oriented cryptocurrency Dash has announced its first quarter of 2020 financial report to investors, revealing solid growth in adoption and commercial payments.
+According to the report, commercial payments using Dash grew 104% for Q1, helped by a number of partnerships in the Latin American region.
+During Q1 2020 the number of active Dash wallets installed on mobile devices reached 101,747, representing a 214% increase year-over-year and a 21% increase on the previous quarter.
+In the same period, the median number of daily commercial payments using Dash grew to 17,127, a growth of 104% year-over-year.
+This growth has been spurred by several partnerships in Latin American countries, notably in Venezuela and Brazil.
+As Cointelegraph reported, in January a collaboration with Burger King in Venezuela enabled payments using Dash and other cryptocurrencies. Additionally, thousands of merchants in the country are now accepting Dash thanks to local advocacy programs and a recent integration with MegaSoft point-of-sale terminals.
+In Brazil, over 2.5 million merchants can now take Dash as a means of payment through solutions such as ATAR Pay.
+Dash also performed exceptionally well on price during the period, with appreciation close to 60% making it one of the top performing cryptocurrencies and marking its best quarterly growth since Q4 2017.
+Though volatility can be a deterrent for cryptocurrency adoption, Dash Core Group chief marketing officer Fernando Gutierrez felt that the positive trend had helped to encourage the growth in commercial payments:
+“Users spend more when the price is going up because they become wealthier, and because they feel they get a better deal. Price-performance probably added more than a few transactions to the general long term trend in day-to-day usage.”
+The average daily trading volume on exchanges saw the biggest gains reaching $37 million, which represents a 987% growth on the previous quarter and a 686% growth year-over-year.

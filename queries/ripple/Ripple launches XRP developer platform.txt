@@ -1,0 +1,8 @@
+Editorial | what does this mean?
+This content has been selected, created and edited by the Finextra editorial team based upon its relevance and interest to our community.
+Ripple has launched a developer platform to help third parties build new products using its private cryoptocurrency XRP.
+Billed by Ripple as the 'open developer platform for money', the Xpring Developer Platform aims to make it easier for third party coders to send and receive payments by building on the XRP Ledger and leveraging Interledger Protocol (ILP) as a bridge to any currency, fiat or blockchain.
+"Payments today are broken," states Ripple by way of explanation. "They can take days to arrive and operate in a maze of silo’d networks. This is because traditional payment rails were not built to meet today’s business and consumer demands for reliable, fast, convenient and low-cost payments. The time for change is now. In the same way the Internet unlocked economic growth through democratisation of information, the Internet of Value will unlock economic value through global access and digitisation of money."
+The firm says the Xpring SDK will arm developers with the tools and technology to move money instantly across a range of industries and use cases, from banking and financial services to micropayments, Web monetisation and gaming.
+Users will be able to build features for new use cases on the XRP Ledger (XRPL), send test payments with ILP and run validation programmes.
+"Only by growing the developer ecosystem around fast and low-cost payments technology will the real power of XRP and ILP will be realised," Ripple states. "We are building products that address developer needs and are working to create utility for XRP and drive adoption for ILP."

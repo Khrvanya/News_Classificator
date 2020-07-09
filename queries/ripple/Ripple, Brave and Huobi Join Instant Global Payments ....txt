@@ -1,0 +1,9 @@
+Ripple, Brave, Huobi and 40 other companies have joined the Open Payment Coalition to launch instant payment network PayID worldwide.
+More than 40 companies including Ripple, Brave and Huobi have joined forces to form the Open Payments Coalition and launch universal payments system PayID.
+Reaching more than 100 million consumers, the new payment process will allow users to send or receive money anywhere in the world across any payment network in real time.
+Users can provide an email address or a phone number linked to their bank account to instantly receive money without requiring complicated bank account numbers, international codes, routing numbers or SWIFT IDs.
+Cryptocurrency and blockchain companies involved include BitGo, BitPay, Bitrue, Bitso, Bitstamp, Blockchain.com, Brave, BTC Markets, CipherTrace, Coinone, Crypto.com, Huobi, Independent Reserve, Liquid, Ripple and many more.
+Ripple’s Ethan Beard said PayID aims to make global payments simple and fast. “If sending a payment were as seamless as sending an email or text, we would all send more payments quickly and easily around the world,” he said.
+Liquid Group Inc. CEO Mike Kayamori said cryptocurrency would be a key component: “Payments will need to be interoperable between fiat and cryptocurrency, and easy to send and receive across the globe.”
+PayID is already in wide use in Australia, where it was progressively introduced over the last three years. The majority of bank and crypto exchange users in the country can send and receive instant money transfers at any time, 24/7.
+Caroline Bowler, CEO of Australian-based exchange BTC Markets, said that the global PayID system followed Australia’s 2018 introduction of the New Payments Platform:

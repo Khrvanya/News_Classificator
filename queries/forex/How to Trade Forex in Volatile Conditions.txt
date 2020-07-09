@@ -1,0 +1,34 @@
+Forex is the perfect market for volatile conditions. There are no circuit breakers, and you can go long and short with ease. The stock and futures markets have daily caps on how much they can move. If you have a position when they get halted, you are at the mercy of where they reopen.
+With forex, you also have leverage and a 24-hour market. In volatile conditions, you can trade any hour of the day between Sunday and Friday.
+Trading in volatility currencies presents huge opportunities, but it also requires adaptability. Newer traders have likely never seen the price moves that are being seen as a result of the coronavirus and stock market(s) meltdown in March of 2020.
+In such an environment, my strategies don't change, but I do a few things differently and I also keep a few thoughts in my mind so that I can trade efficiently, capitalize on the big moves, and keep risk small.
+Below is a list of a few of the things I do and keep in mind while trading in crazy times.
+Use a higher time frame to find trades, and a very low time frame to find entries and place stop losses.
+Under normal conditions, I will often use the daily or 4-hour chart to find trade setups. I will then drop to the hourly or 15-minute to find my entries and stop loss locations .
+In volatile conditions, I will usually start with the hourly (4-hour or daily is fine too). I look for the price near support or resistance or another important technical level. Preferably it is consolidating on the hourly chart near that level. I then drop down to the 5-minute and find a consolidation there, which is closest to the technical level. The two charts below exemplify.
+If the price breaks lower from the consolidation, and a stop loss is placed just above it, the hourly consolidation means risking 50 pips, while the 5-minute chart risks only 15. The smaller risk means a bigger reward:risk whether the price moves 30, 50, 100 or 200 pips in your favor after entry.
+There are a few reasons for doing this.
+Because the market is volatile, the hourly chart is usually showing enough price action to warrant a high-profit trade. Using a daily or 4-hour chart is also fine.
+The 5-minute chart keeps our stop loss small. In volatile conditions, I would rather use a small stop loss and lose a few more small trades because I know that eventually, the big move is coming.
+I set the stop loss and entry based on the 5-minute, but I can take profits based on the hourly chart. More on that below when we talk about trailing stop losses. This 2-timeframe approach results in huge reward-to-risk trades.
+I have no idea how far prices may run. Use a trailing stop loss.
+A couple weeks ago the EURUSD was moving 50 pips per day. As of March 12, 2020, the average is 150 pips per day. Some other pairs are moving 200 or more pips a day. Over the course of a week, a trend can run for far longer than I could reasonably anticipate.
+For that reason, I don't think about profit targets much. Rather I use a trailing stop loss.
+I like Renko charts . I will build them to capture the bulk of a move. This means setting up each pair with specific Renko parameters. One setting will not work for all pairs. I exit when the Renko reverses.
+ATR stops, or using any type of Average True Range (ATR) multiple can work well. When the price reverses more than 1.5x ATR for example, exit the trade. This is based on the longer time frame! If you are taking a trade that looks good on the hourly, use the hourly for taking profit. The 5-minute is only used to find an entry with small risk.
+Exit on "extreme" price moves.
+If the price moves way more than I ever even dreamed possible, I usually just close it out or trail in my trailing stop very close. If your optimistic view was that maybe the pair would move 100 pips, and it just moved 300 pips in 5 minutes, close it out. Chances are, if you are licking your chops, so is everyone else and the move is close to over.
+I am not talking about sustained moves. I am talking about moves that happen in seconds or minutes. Moves that produce a big amount of money to you. If you see a massive spike/drop on the chart, close it out. The market gave a gift. Don't let it take it away.
+This is why trailings stop losses are nice, because typically they will get you out with most of that profit intact.
+The market is not volatile every minute or every day.
+When you make a lot on a few trades one day, it is easy to start thinking trading is easy, and that the next day will be the same. It probably won't. Just because a pair moved 300 pips today doesn't mean it will move 300 pips or more tomorrow. It may, but it may only move 100.
+We don't know what tomorrow brings, or even the next trade, so trade the strategy and try to limit your expectations. Just take trades as they come, and follow your entry and exit rules. Pick your trades selectively, always.
+One day the price may move in long trends, the next day the price action is choppy and rangey. As discussed above, we can't assume that just because the market is volatile, and we are expecting the price to move in one direction, that it will. Prices will do whatever they want. Our job is not to impose our expectations on them, but rather to trade what is provided using our systems.
+Watch what the price action is actually doing, and limit expectations for what it should do.
+In volatile markets, I don't assume to know which way the price is going to go.
+Typically, when the financial markets are in panic mode, money flows into JPY, CHF, and EUR (this time round ), but that doesn't mean because the stock market is dropping JPY, CHF, and EUR will rally. Markets are more dynamic than that. Currency pairs can get overbought or oversold, and move the other way in seemingly irrational moves.
+The point is, we can't know for sure which way the price is going to go. And it doesn't matter. I wait for my trade signals, and I take them, regardless of which direction they point. I am willing to trade in either direction, in volatile conditions, because I know the price move is likely big enough to warrant a profitable trade (assuming the price is making larger moves around the time of the trade).
+Review your strategy before trading each day.
+Clarify that you will stick to your system, and that the market needs to produce certain criteria in order to get you into a trade.
+Limit biases and expectations. Trade what the market provides, and trade with it.
+Disclaimer: Nothing in this article is personal investment advice, or advice to buy or sell anything. Trading is risky and can result in substantial losses, even more than deposited if using leverage.

@@ -1,0 +1,10 @@
+Ripple announced on Tuesday (April 21) that it is filing a lawsuit against YouTube , alleging that the popular video platform isn’t doing its due diligence to identify and remove crypto-related scams, according to a company blog post .
+Ripple said it wants to protect its customers from disingenuous online giveaways and impersonations pretending to be from the company.
+YouTube, Ripple said, needs to be more aggressive in finding the scams and quicker in removing them from the platform.
+The giveaways, Ripple explained, constitute fraudulent online contests where people are told if they send money, they could get more in return, usually through airdrop. The scams often impersonate legitimate companies and have fake social media accounts.
+In the crypto and blockchain sphere, Ripple said integrity is important — and hard to attain with the presence of so many fraudulent actors and predatory scams.
+Ripple has been walking the walk in terms of its complaints, hiring a team of experts in cybersecurity and digital threat intelligence to combat fraud and implementing a new submission form online for users to report instances of fraud they’ve seen.
+Also, Ripple noted the work of XRP Forensics, which analyzes potential scam transactions, tracks stolen funds in real time and makes it possible for digital wallets and others to help identify whether other wallets have been involved in scams in real time.
+Ripple said the coronavirus pandemic has only expedited the problem, with a new rash of scams online related to the virus. More than $13 million has been lost overall due to coronavirus-related fraud.
+Ripple said whenever one scam is taken down, more immediately arise in its place.
+Crypto-related scams have become common in recent years as digital currency has grown in popularity. Some other scams tend to involve blackmail situations where bitcoin or other cryptocurrency is extorted through threats.

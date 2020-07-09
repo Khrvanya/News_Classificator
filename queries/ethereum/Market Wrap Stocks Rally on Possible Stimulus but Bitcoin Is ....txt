@@ -1,0 +1,22 @@
+Please consider using a different web browser for better experience.
+Please enable JavaScript in your browser for a better site experience.
+Stocks are up on fresh government stimulus expectations but when it comes to bitcoin, things are uncertainty in the near term.
+Bitcoin (BTC) was trading around $9,500 as of 20:00 UTC (4 p.m. ET), gaining less than a percent over the previous 24 hours.
+At 00:00 UTC on Tuesday (8:00 p.m. Monday ET), bitcoin was changing hands around $9,414 on spot exchanges such as Coinbase. It then climbed 2% to as high as $9,591 before sell volumes pushed bitcoin back down. The price is now above the 50-day moving averages but below the 10-day moving average. For technicians, this signals prices are expected to move sideways for a bit.
+Stocks were the real movers on Tuesday. The possibility of another fresh fiscal stimulus proposal in the United States, to the tune of $1 trillion for infrastructure projects like wireless networks and roads , helped fuel an equities rally. The U.S. S&P 500 index gained 1.9%. Since the start of June, bitcoin has underperformed the equities markets.
+In Asia, the Nikkei 225 index of publicly traded companies in Japan ended trading up 4.8%, buoyant on stocks in the industrial and transportation sectors . In Europe, the FTSE 100 index closed in the green 2.9% as stocks in the travel sector surged .
+Traders in the crypto sector continue to talk about “weakness” in the market as spot exchanges like Coinbase see a dip in volume. “Our prop [proprietary trading] desk is seeing a significantly weaker flow in bitcoin pairs on centralized exchanges lately,” said Peter Chan, a trader at Hong Kong-based OneBit Quant.
+Over the past six months, average volumes on Coinbase have been $133 million. In the past week, the average has been $116 million, a 12% drop, according to data from aggregator Skew.
+“I think there’s a general loss of interest, mostly due to how volatile the external environment has become on the margin,” said Vishal Shah, an options trader and founder of derivatives exchange Alpha5. “The aggregate open interest across derivatives exchanges is now the same as it was at the beginning of June and implied volatility is hitting cyclical lows.”
+Indeed, after total bitcoin futures open interest on the 11 biggest exchanges spiked to almost $4 billion June 1, it has hovered around $3.5 billion for most of the month.
+Sell pressure on bitcoin is expected to continue in this lower-volume environment, according to Neil Van Huis, director of sales and institutional trading at liquidity provider Blockfills.
+“The whole sector is really sitting watching mining, in my opinion,” Van Huis told CoinDesk Tuesday. “Miners may need to sell a bit to raise cash for new machines, unless they can secure financing from firms like ours – and we are not financing anyone in China.”
+Monthly share of total hashrate from ViaBTC, Poolin and BTC.com
+China dominates the bitcoin mining market with 65% of machines located there, according to data from the Cambridge Centre for Alternative Finance .
+Digital assets on CoinDesk’s big board are mostly in the green Tuesday. The second-largest cryptocurrency by market capitalization, ether (ETH), is trading around $233 and climbed less than a percent in 24 hours as of 20:00 UTC (4:00 p.m. ET).
+The decentralized exchange (DEX) Curve has taken over Uniswap for the top spot in terms of 24 hour volume on the Ethereum network. In the past day, Curve had over $21 million in volume compared to Uniswap’s $11 million, giving it over 40% of the DEX trading market.
+The biggest cryptocurrency winners on the day include lisk (LSK) climbing 2.4%, qtum (QTUM) up 2.1% and stellar (XLM) in the green 1.6%. The biggest loser on the day was iota (IOTA) in the red 1%. All price changes were as of 20:00 UTC (4:00 p.m. ET).
+In commodities, oil is gaining 2.9% as a barrel of crude was priced at $38 as of press time.
+Gold is trading flat as the yellow metal climbed less than a percent, trading around $1,726 for the day.
+U.S. Treasury bonds all climbed Tuesday. Yields, which move in the opposite direction as price, were up most on the 30-year, in the green 4.8%.
+The leader in blockchain news, CoinDesk is a media outlet that strives for the highest journalistic standards and abides by a strict set of editorial policies . CoinDesk is an independent operating subsidiary of Digital Currency Group, which invests in cryptocurrencies and blockchain startups.

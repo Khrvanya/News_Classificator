@@ -1,0 +1,18 @@
+The PlusToken funds are on the move again and this time they’ve been split between more than 6,000 different addresses.
+PlusToken funds have been split up into 6,000 addresses to avoid detection. Image: shutterstock
+Funds from the suspected Ponzi scheme PlusToken are on the move.
+Analysts say that funds have been split between over 6,000 addresses.
+The move appears to be a way to evade detection.
+Funds connected to the alleged PlusToken Ponzi scheme have been filtered through 6,000 separate addresses and counting. Experts believe this may be an attempt to evade detection.
+In July 2019, PlusToken, a now-defunct, South Korean-based crypto wallet was accused of appropriating over $3 billion from users in what's been dubbed the biggest Ponzi scheme in crypto history.
+Yesterday, $185 million worth of Ethereum originating from a PlusToken wallet sprung to life. The funds were divided among 52 addresses. Now it seems that the funds have split up even further, spreading across to 6,000 addresses.
+"It would be speculation, but it certainly seems like they are trying to obfuscate the funds," said data scientist Alex Svanevik, co-founder of blockchain analytics platform Nansen .
+"It seems like a highly orchestrated operation to move these funds, but it's still relatively easy to track the new wallets. exchanges that accept funds from these new wallets can be easily tracked," he added.
+According to Svanevik, the funds were sent out in waves, with each surge sending the funds to a swathe of new addresses. At press time there have been approximately five waves, but Svanevik believes there will be more.
+With every wave, funds are split up into smaller amounts, making it hard to keep track of them. Svanevik suggested that eventually, most wallets will end up with 100 - 200 ETH apiece.
+The amount of ETH per PlusToken address. Image: Nansen
+"This shows the number of addresses for different ETH balances,” he explained. “You see how it's concentrated in 100-200 ETH, and that there are some addresses between 500 and 1000 as well."
+"Funds have been moving almost continuously in the last 18 hours," Svanevik said, adding that funds are likely still being moved at this moment.
+Svanevik found no signs to suggest any funds had been moved to exchanges. And although the funds have been split up across thousands of addresses, it’s still relatively easy to keep track of them, in order to stop them going to exchanges and getting sold.
+"Now that we have them tracked, we'll be able to see right away what they do next," he said. Perhaps having a transparent blockchain isn’t so bad after all.
+Get the best of Decrypt where you want it most.

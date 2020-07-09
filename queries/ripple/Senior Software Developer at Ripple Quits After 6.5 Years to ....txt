@@ -1,0 +1,9 @@
+Senior software developer at major crypto firm Ripple announced that he is leaving the company after six and a half years to focus on work at Coil.
+Evan Schwartz, senior software developer at major crypto firm Ripple announced that he is leaving the cryptocurrency company after six and a half years.
+On Jan 2, the software engineer took to Twitter to announce that after working 2,328 days at the blockchain giant, today will be his last. Schwartz tweeted:
+“After 2328 days, or just under 6.5 years, today is my last day at @Ripple. Thank you to everyone who helped make it such an exciting ride; I'll be cheering the team on from the outside. Keep on building the #InternetOfValue!”
+Schwartz co-invented the Interledger protocol, which is an open suite of protocols for connecting ledgers of all types and a payment solution that is at the base of Ripple's vision of the internet-of-value.
+Cointelegraph contacted Schwartz regarding these latest developments but had yet to receive a response as of press time. This article will be updated if new comments come in.
+After thanking everyone for the "exciting ride" Schwartz assured the XRP community that he will be staying involved in the Interledger project and web monetization platform Coil.
+Schwartz’s LinkedIn profile reveals that he is serving as a board member for Coil, which is a platform that provides an alternative method for creators to monetize their content online. As subscribing fans consume content, the platform uses an open API called web monetization to stream micropayments to creators instantaneously. The API is built on the Interledger protocol that Schwartz helped to create.
+Cointelegraph reported on Aug. 15 that Ripple’s investment arm, Xpring, participated in Coil’s $4 million seed round and provided a 1 billion XRP grant to the platform this August, worth around $265 million at the time. Ethan Beard, senior vice president of Xpring, commented on the investment at the time:

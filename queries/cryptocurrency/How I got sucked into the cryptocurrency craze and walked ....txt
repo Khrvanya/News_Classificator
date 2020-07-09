@@ -1,0 +1,74 @@
+This is the first-person account of Dan Conway, an ex-middle manager in corporate America who made a fortune betting his life savings on cryptocurrency.
+On a gray morning in May 2016, I left my office in downtown San Francisco and walked down Montgomery Street, to Wells Fargo.
+I swiveled open the two gigantic doors, walked up to the counter, and explained to the teller that I needed to send a money wire to Gemini Trust Company, LLC., a cryptocurrency exchange based in New York City.
+“Certainly,” she said. “How much will you be sending today, Mr. Conway?”
+My voice sped up as I said it: $100k. This represented my family’s entire life savings. It was money my wife and I planned to use to pay for our 3 kids’ college tuition, our eventual retirement, and emergency expenses. I was a middle-aged guy with a family who had never been on the cutting edge of anything. But I was about to bet everything I had on an unproven virtual currency called Ethereum.
+This could only end two ways: I’d lose everything I owned, or make a fortune.
+Up to that point, my professional life was one of quiet desperation.
+I was a 45-year-old middle manager at a major multi-media company in San Francisco. Though I earned a respectable $150k per year, I hated the fake company culture, the bureaucracy, and the endless chains of command.
+Like so many others, I was looking for some kind of escape. And soon, I found one.
+One early morning in mid-2015, before anyone else was in the office, I was browsing online and stumbled upon an article about Bitcoin .
+I’d heard about Bitcoin years earlier when I was preoccupied with climbing the corporate ladder. Back then, it seemed ludicrous to spend money — real currency that I could hold in my hands — on some digital token that existed on a public ledger in the cloud. To be frank, I thought it was complete bullshit.
+But that morning, I had a sudden change of heart.
+Bitcoin, the article read, was going through an especially rough patch. Its price, which was in a constant state of volatility, had fallen from a high of $1.2k in 2013 to $300. My mind raced: What if it goes up again? What if I put everything I had into this? I could get rich and never work another day in corporate America…
+A part of me recognized these thoughts as destructive mania. My addictive personality had landed me in trouble before — first with alcohol, then with harder drugs. My 12-step sponsor wasn’t going to pat me on the back and say, “Go buy that Bitcoin, Dan! Sounds like a fantastic plan!”
+At the same time, my wife Eileen and I were raising 3 children and had a big mortgage on our home in the Bay Area. The Great Recession had snatched away most of Eileen’s PR consulting clients. We were privileged, of course, but money was tighter than usual.
+Sitting in my empty office, I began to go down the crypto rabbit hole. And the more I learned, the more I was pulled in.
+Through early research, I gravitated from Bitcoin to Ethereum (ETH), a then-newly launched coin that debuted in July 2015.
+Blockchain, the technology underlying Ethereum and other cryptocurrencies, promised to one day decentralize corporations. As TechCrunch wrote, it would offer the “stability of an organization but without the hierarchy.” It seemed almost too good to be true, but a lot of smart, future-forward people were getting behind it.
+As a disenfranchised suit-and-tie, I was enraptured by the possibility of a decentralized future. As a greedy speculative investor, it gave me a rush.
+In short order, I developed an Ethereum obsession.
+I listened to Ethereum podcasts while walking the dog. I read about Ethereum during every spare minute I had at work. I rejiggered my Twitter feed to follow mostly Ethereum-related accounts. I absorbed hours of Ethereum commentary on YouTube.
+My biggest source of conviction was Ethereum’s developers. In the ‘90s, I’d worked in PR at Macromedia . The company’s product, Flash, had dominated the web graphics market after catching the attention of the most forward-thinking web designers. In the same sense, the smartest developers were now flocking to Ethereum.
+Occasionally, my Ethereum fever broke and I wondered if I’d gone off the deep end.
+Was my growing desire to invest in Ethereum a desperate attempt by a desperate man to find some kind of midlife salvation? Was this whole thing some kind of elaborate ruse to scam people like me out of their nest eggs?
+Most of my friends in tech — folks working at places like Google, Apple, and Uber — were dismissive of blockchain. Few of them had heard of Ethereum. When I told a buddy of mine that I was considering investing in cryptocurrency, he broke out in laughter, as if I’d admitted I was hedging my future on Smurfberries or Scooby Snacks.
+But my mind was made: I was going to put everything I had into this.
+Less than a year later, I found myself standing at a Wells Fargo desk, transferring our life savings to Gemini in exchange for 6,993 ETH, at an average price of $14.
+Eileen had been rightfully resistant to the idea. Eventually, though, she agreed to a deal: I could make the transfer, but I had to promise my children that I’d take them on a number of expensive trips.
+Texts exchanged between Dan and his wife, Eileen (courtesy of Dan Conway; illustration by The Hustle)
+After watching me go through years of addiction issues, depression, and corporate misery, Eileen was happy to see me excited about something — even if it was some virtual coin. Never for a moment did she think we’d get rich off of it. But she didn’t want to break the spell I was under.
+Unfortunately, it wasn’t long before I experienced the Earth-shaking volatility of the crypto market.
+In June 2016, a high-visibility project was hacked and Ethereum tanked: By December, our original $100k investment was worth less than $40k.
+Though I was $60k in the hole, my confidence in Ethereum was stronger than ever… and it was now at a bargain-basement-level price. So, I decided to double down.
+We didn’t have the cash. The only pool of funds available was the line of credit on our home. Racking up a big debt on our home equity line would very likely set us up for an unhappy ending.
+But I felt in my bones that this was my shot and I might not get another one.
+In December of 2016, I visited Wells Fargo 3 times, transferring an increasing amount of money from our home equity line to Gemini. After each transfer, I went home and bought ETH slowly so I didn’t cause a run-up. (The order books were thin with limited liquidity in those days; a rush of sales could cause the other traders and their bots to snatch up all the available coins.)
+That winter, I borrowed $200k on my home and used it to buy more ETH. I now owned 26,750 ETH total, at an average buy-in of $11.21/coin.
+And I was $300k in the hole.
+In February 2017, during our first negotiated ‘trip of a lifetime’ in Mexico, Ethereum came back to life.
+It was the middle of the night, and I was in the back of a cab battling a nasty bout of food poisoning. I was puking my guts out, foaming at the mouth, and delirious — but I didn’t care because our ETH was up $50K. We were in the black for the first time.
+Then, something miraculous happened: It kept going up… and up… and up. Between February and March of 2017, ETH shot from $15 to $50 per coin. By April, it was at $70; by May, $230.
+In a span of 4 months, my $300k investment ballooned to $6m.
+Every investor’s dream (The Hustle; historical ETH data via Coinmarketcap.com)
+I’d seen a story at some point about someone who had spontaneous orgasms at random times throughout the day. That’s the best way I can describe the feeling. When I checked my phone, I’d be up another 6 figures since the last time I looked. I couldn’t resist stopping whatever I was doing to pump my fist and shout, “YEESSSS!”
+But other times, ETH would dip, and the value of my stack would plummet by more than $1m in less than an hour. The “orgasms” were replaced by brutal withdrawals. The volatility was a narcotic, shooting up my brain with boosts of dopamine and serotonin.
+The coins consumed me and changed my entire persona.
+When ETH stopped going up or had a mild dip, I’d get snappy with the kids. I donned a hoodie and stared into the void for hours, my mind enslaved to the promise of Ethereum and its price variations. I was fired from my job of 6 years.
+In the midst of a particularly volatile week, I found myself in the emergency room, struggling to breathe. The doctor diagnosed me with a panic event. “Is anything making you anxious?” he asked.
+There was also the constant, looming fear that my crypto account could be hacked at any moment. In 2017 alone, hundreds of millions of dollars in crypto were stolen from accounts — and there wasn’t any regulatory body to protect victims.
+From June to October of 2017, ETH floated between $200 to $400 per coin — an increase of 2,000% since the beginning of the year. That summer, many of the early HODLers (the folks who were holding for the long-term) began to cash out.
+My coins were now worth millions, but I continued to hold the majority of them. This decision would soon pay off in a bigger way than I ever could’ve imagined.
+In the course of 2 weeks in December 2017, ETH nearly doubled in price from $430 to $830. On January 3, 2018, it hit $900; 3 days later, it passed $1k.
+It was an unprecedented burst — so monumental in scope that it temporarily froze the exchanges. It was like a 9.0 earthquake with an infinite number of aftershocks.
+In the midst of this madness, I received an email from my financial advisor, who I’d hired months earlier to oversee my growing funds.
+The alarm bells were sounding.
+Sitting on my couch in sweaty workout clothes, I turned to my favorite subreddit, r/EthTrader. The message board was full-on mayhem, with 1.4k comments that morning alone. Grandparents, and taxi drivers, and anyone else who’d gotten a hot tip was buying in without even knowing what crypto was. Even for hardcore HODLers like me, it was too much, too fast.
+I frantically logged into my Gemini account and weighed my options.
+If I didn’t sell and ETH tanked, I’d lose it all. I’d have to tell Eileen and the kids that dad had dropped the golden goose egg, that I’d squandered my lottery ticket.
+Watching the greedy masses pile into ETH reminded me of the famous battle scene from Braveheart: While the hordes rush forward in full sprint, lances atilt, the defenders sit still, unflinching and calm, waiting for the signal to attack.
+I watched the price climb to $915. Then, over the course of two hours, I sold 11k ETH, the majority of my remaining stack, for $10m.
+I sent Eileen a text: We are done.
+Shortly after we cashed out, the cryptocurrency market took a nosedive.
+Ethereum dropped from a high of $1,396 in January to $385 in April. By December of 2018, it was back below $100.
+Eileen and I paid off our $950k mortgage. We booked a trip to Africa we’d always dreamed of. Hell, we even bought a second home in Ireland.
+Nearly 2 years later, it’s still surreal looking at our bank account and seeing high 7-figures, post-tax. It all happened so quickly that it feels like a dream.
+Top: Dan’s bank statement from December 2017 to January 2018, showing a Gemini transfer of $10.7m; Bottom: The family in Italy — one of the agreed-upon destinations (Courtesy of Dan Conway)
+I still believe crypto will open up new possibilities for organizing the world in the decades ahead, and I’m confident it will pop again as a result. But I don’t recommend that anyone try to replicate what I did.
+Luck played a significant role in my success.
+I banked everything I had on a relatively unproven technology and got out at the right time. For every story like mine, there are hundreds of others about people who lost it all. I know that could’ve easily been me.
+At the same time, I’m no blackjack player. My investment wasn’t purely a blind gamble that came up aces. I was, and am, a true believer in crypto — and I had the right mix of courageousness and craziness to take a big risk.
+I’ve since turned my efforts toward making the concept of crypto-based decentralization more accessible to the general public. My recent book, which chronicles my wild journey, encourages people to think about their own risk parameters.
+Today, I’ve settled back into a normal life. I make dinner, do odd-jobs around the house, and live a very pleasant life by almost any measure. I still drive a minivan every day. Crypto no longer consumes me.
+But every now and then, after the kids are asleep, I lie awake thinking back on the rush of the market. And I miss it like hell.
+Interested in learning more about Dan’s story? He recently chronicled his entire journey in a full-length book, Confessions of a Crypto Millionaire .

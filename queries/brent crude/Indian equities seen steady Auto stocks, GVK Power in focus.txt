@@ -1,0 +1,36 @@
+2 min read . Updated: 02 Jul 2020, 08:22 AM IST Nasrin Sultana
+On Wednesday, Sensex ended at 35,414.45, up 498.65 points or 1.43%, while Nifty closed at 10,430.05, up 127.95 points or 1.24%
+Indian stock markets may edge higher on Thursday tracking firm cues from global peers. Trends in SGX Nifty also indicate a firm opening for the India benchmark indices. On Wednesday, the BSE Sensex ended at 35,414.45, up 498.65 points or 1.43% and the Nifty closed at 10,430.05, up 127.95 points or 1.24%.
+Asian stocks gained in the morning trade as investors cheered signs the global economy was emerging from its coronavirus hibernation although trade is likely to be choppy as fresh concerns about Hong Kong keep investors cautious.
+Also adding to market apprehension is June US employment data due later in the day, which will show if the world's largest economy can sustain its fragile recovery as new covid-19 cases accelerate in several southern states. The US House of Representatives passed legislation on Wednesday that would penalize banks doing business with Chinese officials who implement a national security law.
+On Wall Street, however, the focus was on positive data. The MSCI's gauge of stocks across the globe gained 0.45% and the S&P 500 rose 0.50%.
+India’s top automakers posted sharply higher sequential increases in wholesales, or factory dispatches, in June as they ramped up production though it remained a far cry from the pre-covid-19 levels. Sales at Maruti Suzuki India Ltd and Hyundai Motor India Ltd, the country’s top two carmakers, were nearly half of their year-ago volumes. Tractor and two-wheelers, however, saw a sharp recovery because of rural demand.
+India’s petroleum product consumption has sharply recovered from the lowest slump recorded since 2007, after the world’ longest lockdown ended and reached 88% last month, the petroleum ministry said on Wednesday.
+The CBI has booked Venkata Krishna Reddy Gunupati, the chairman of the GVK Group of Companies and his son G V Sanjay Reddy, Managing Director of Mumbai International Airport Ltd among others for alleged irregularities to the tune of ₹705 crore in running of the airport. GVK Power and Infrastructure Ltd stock may be in focus today.
+The increase in manufacturing activity also propelled oil prices higher in anticipation of increased demand while gold and the dollar fell as the encouraging reports caused investors to take on more risk.
+Brent crude LCOc1 rose 76 cents, or 1.8%, to settle at $42.03 a barrel. U.S. crude CLc1 rose 55 cents, or 1.4%, to settle at $39.82 a barrel.
+The improved sentiment weighed on the safehaven greenback with the dollar index down 0.265% and the euro up 0.03% to $1.1253. The Japanese yen strengthened 0.05% to 107.42 per dollar, while sterling was last trading at $1.2477, up 0.06% on the day.
+The benchmark 10-year yield was last up 2.9 basis points at 0.6824% on Wednesday.
+* Thank you for subscribing to our newsletter.
+Click here to read the Mint ePaperLivemint.com is now on Telegram. Join Livemint channel in your Telegram and stay updated
+You are now subscribed to our newsletters. In case you can’t find any email from our side, please check the spam folder.
+lozad('.lozad', { load: function(el) { el.src = el.dataset.src; el.onload = function() { el.classList.add('fade')}}}).observe()
+.myAccount .planSec, .myAccount a.LinkCTA{padding:16px; margin:16px; box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.1); background-color: #fff;}
+	       		var userData = data;
+	       		var name = userData.name;
+	       		var email = userData.email;
+	       		var signupSource = userData.source;
+	       		var subscribedAtOnce = userData.subscribedAtOnce;
+	       		var plan  = userData.plan;
+	       		document.getElementById('uName').innerHTML = "<strong>"+name+"</strong>" + email;
+		       		var status = planData.status;
+		       		var purchaseSource = planData.source_device;
+			       		var nextActivationDate = planData.current_term_ends_at;
+			       		var planDescription = planData.plan.description;
+			       		var planName = planData.plan.name;
+			       		var planPrice = planData.amount;
+			       		//var planInterval = planData.shipping_interval;
+			       		var planInterval = planData.duration;
+			       		var planUnit = planData.interval_unit;
+			       		//var html = "<strong>Your Subscription Plan</strong>"+planName+" ₹"+planPrice+" / "+planInterval+" " + nextBillingHtml + cancelHtml; 
+			       		var html = "<strong>Your Subscription Plan</strong> "+planDescription + " "+ planName +": ₹"+planPrice + " "+ nextBillingHtml + cancelHtml;

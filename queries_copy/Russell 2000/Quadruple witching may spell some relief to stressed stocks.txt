@@ -1,0 +1,12 @@
+LONDON (Reuters) - In calm markets "quadruple witching" usually passes unnoticed, but some market players are hoping this Friday's concurrent quarterly expiration of U.S. options and futures contracts could shake some sense back into stocks.
+The expiration of stock options, stock index futures and index option contracts on the same day on the third Friday of the last month each quarter usually heralds hectic trading and volatility as investors unwind old positions and take new ones.
+But after one of the most violent sell-offs in stock market history, some traders say those expiries may bring some relief as a large number of short positions rolling off could ease some of the recent selling pressure.
+A build-up in index futures contracts to multi-year highs before the sell-off has meant investors have become more sensitive to the move in market prices and the impact on these underlying contracts.
+For example, the open interest on March expiries of the popular S&P 500 futures contract stands at its highest level in three years, indicating that leveraged bets on U.S. stocks have ramped up rapidly in recent months.
+While those positions can be rolled over or unwound smoothly in calm markets, this can become very difficult in volatile markets where the average move of the daily stock index is above 2.5%, its biggest since the 2008 global financial crisis.
+That makes it difficult for traders whose job is to ensure that the sensitivity of the price of a derivative to a change in the underlying market has a relationship of one or "delta one" as they have to trade stocks in large quantities to ensure the relationship holds.
+Market analysts expect about 40% of the expected price swings to roll over in the quadruple witching hours and that should bring some calm to markets.
+"Potentially this cleaner dealer positioning may lead to less drastic market swings," one trader said.
+But some market watchers like Marija Veitmane, a multi-asset strategist at State Street Global Market say it is still too early to say whether markets have bottomed as an internal index of market fragility is still at extreme highs.
+"The market is extremely narrow and panic driven, so I suspect those wild moves will stay with us for some time," Veitmane said.
+(Reporting by Saikat Chatterjee, additional reporting by Thyagaraju Adinarayan; Editing by Alexander Smith)

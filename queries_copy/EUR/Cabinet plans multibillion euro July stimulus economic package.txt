@@ -1,0 +1,27 @@
+Some FF TDs unhappy at inclusion of Stephen Donnelly, Norma Foley in Cabinet
+New Taoiseach Micheál Martin travelled to Cork on Sunday where he was greeted by his family and neighbours in an emotional homecoming. Photograph: Michael Mac Sweeney/Provision
+Taoiseach Micheál Martin will chair the first full meeting of the new three-party Cabinet on Monday to plan the “July stimulus” – a multibillion euro package aimed at restarting the economy and protecting small business due to be launched in the coming weeks.
+Ministers will arrive at their new departments on Monday morning to meet their senior officials and receive briefings on the immediate issues they will face. Arrangements for a new series of Cabinet committees will also be made in the coming days, as well as a new group comprising the three party leaders and their senior officials that will meet every week before the Cabinet.
+Mr Martin will also seek to deal with the internal and external fallout from his Cabinet appointments. There has been criticism that there is no full Cabinet minister based in the west or northwest of the country, though two “super-junior” ministers – who sit at Cabinet but do not head Government departments – are from Connacht.
+Some of Mr Martin’s TDs are also unhappy at the inclusion of both a first-time TD, Norma Foley, and Stephen Donnelly, who joined the party in 2017.
+Mr Martin will seek to soothe the unrest with the appointment of junior ministers, due to be announced after another Cabinet meeting on Wednesday.
+On Sunday, the Green Party leader and new Minister for Climate Action and Transport Eamon Ryan confirmed that responsibility for the direct provision system will be transferred to the control of the Department of Children and Integration which will be headed by Green minister Roderic O’Gorman.
+However, The Irish Times understands that responsibility for immigration and asylum policy, implemented by the Irish Naturalisation and Immigration Service, will remain with the Department of Justice.
+The new Seanad will meet on Monday at the National Convention Centre where it is expected to vote in favour of an extension of the Offences Against the State Act, ahead of a midnight deadline for the expiry of several of its provisions.
+Mr Martin announced his 11 nominees to the Seanad on Saturday night, which included Travellers’ rights activist Eileen Flynn, who will be the first Traveller to sit in the Oireachtas. Nine of the nominees were women.
+Mr Martin travelled to Cork on Sunday where he was greeted by his family and neighbours in an emotional homecoming. He was formally appointed as Taoiseach by President Michael D Higgins at Áras an Uachtaráin on Saturday after the Dáil voted in favour of his nomination by 93 votes to 63.
+Both Mr Martin and the Fine Gael leader Leo Varadkar, who was appointed Tánaiste, stressed the need for co-operation and common purpose to their parties.
+Government sources said Mr Martin told the newly appointed Cabinet in Dublin Castle on Saturday night that ministers from the three different parties must work together and not seek to undermine each other.
+Tánaiste Leo Varadkar also told Fine Gael TDs and senators over the weekend that his ministers should “outshine” but not “undermine” their colleagues in Fianna Fáil and the Green Party.
+“The message from all three leaders is: this will only work if we work together,” said one Minister. Mr Martin also, according to sources, made a noticeable effort to mingle and mix with his new ministers from the Greens and Fine Gael at a number of events throughout Saturday, such as around the Cabinet meeting in Dublin Castle.
+Mr Varadkar also told his ministers and TDs he will reshuffle the Cabinet when he takes over the position of Taoiseach in December 2022.
+/* Any CSS that needs to be patched put here with date and jira ref.
+  @media only screen and (max-width: 767px){.span2 .soa.feature_box .feature_text:before {top: 70px;}}
+    var minWidth = 1100;
+    var shouldShow = jq('body.isArticle.anonymous')[0] != undefined;
+  	var tab = '<div class="floating_tab slideFromLeft"><a class="gtm-event" data-evt-category="/digital-subscriptions" data-evt-action="Go to StoreFront" data-evt-label="Subscribe Now: Floating Tab" href="/digital-subscriptions"><b>Subscribe Now</b></a></div>';
+ -webkit-box-shadow: 5px 0px 20px 0px rgba(81, 81, 81, 0.7); -moz-box-shadow:    5px 0px 20px 0px rgba(81, 81, 81, 0.7); box-shadow: 5px 0px 20px 0px rgba(81, 81, 81, 0.7);}
+@media only screen and (max-width: 1101px) { .floating_tab{display:none !important;} }    
+            var lazyAds = adLazyloaded;
+            var active = false;
+                                    return ad !== lazyAd;

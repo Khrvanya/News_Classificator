@@ -1,0 +1,8 @@
+Tether Plans to Issue CNHT, a CNY-Pegged Stablecoin
+Home » Crypto News » Tether Plans to Issue CNHT, a CNY-Pegged Stablecoin
+Tether Plans to Issue CNHT, a CNY-Pegged Stablecoin
+Controversial stablecoin issuer Tether is seemingly working on a new stablecoin project dubbed “CNHT”. The new stablecoin will be pegged to China’s official fiat currency, the renminbi.
+This was confirmed today by Dong Zhao, a shareholder of Bitfinex, a cryptocurrency exchange owned by iFinex Inc., which is the parent company of Tether. Dong is also the founder of the digital asset management platform RenrenBit. According to local media, he stated that “his company would be one of the first to invest and test the upcoming CNHT stable coin which will be launched in the near future.”
+Even though Tether has yet to make an official announcement, it seems the company has been working on its Chinese stablecoin since April, according to information on the Etherscan block explorer.
+Data from Etherscan indicates that the token has a total supply of 10,000,000 CNHT held in a single smart contract address.
+With the People’s Bank of China (PBoC) edging closer to launching a central bank digital currency (CBDC) that would act as a digital yuan both within and outside the country, Tether may struggle to obtain regulatory approval for its CHNT stablecoin. Even if it won approval, the stablecoin might not be as successful as Tether’s USDT, as almost all crypto trading platforms in China currently offer support for USDT.

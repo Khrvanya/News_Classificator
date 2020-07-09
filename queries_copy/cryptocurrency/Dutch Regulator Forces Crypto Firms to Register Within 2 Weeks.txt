@@ -1,0 +1,10 @@
+The companies will face cease and desist orders if they fail to register.
+The De Nederlandsche Bank (DNB) has given an ultimatum to crypto companies operating within the country to register with the central bank by May 18.
+The move was made to comply with the latest Dutch anti-money laundering (AML) laws passed by the country’s parliament last month. The new laws are in compliance with the Financial Action Task Force-recommended AML directives and standards.
+To enforce the new framework, the Dutch lawmakers amended the already existing Fourth Anti-Money Laundering Directive (AMLD4) laws. It is, however, not clear why the regulator or the lawmakers are still highlighting them as AMLD4, instead of the recent AMLD5.
+According to the new laws, crypto companies must register with the central bank or face immediate cease and desist of their operations and will also face fines and “enforcement action.”
+The enhanced laws are only applicable to platforms offering conversion of digital currency to fiat and also to crypto custodians. Exchanges offering crypto-to-crypto trading services are kept outside the purview of this, meaning they need not have to register.
+The crypto companies operating in the country have been critical about the laws since the beginning and believe that FATF’s AMLD5 will become a barrier to their operation.
+Deribit, a major cryptocurrency derivatives exchange, also moved its base from the Netherlands to Panama , citing the adaptability of the harsh FATF recommendations.
+Notably, the Dutch regulator also issued such registration notices to the crypto companies last September, but they were not properly enforced then.
+Meanwhile, the Dutch central bank published a report last month revealing its intent to lead Europe’s push to create a digital euro . This came when the Chinese central bank has already put its digital currency on trial.

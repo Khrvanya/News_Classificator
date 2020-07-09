@@ -1,0 +1,22 @@
+Researchers have identified a metal that conducts electricity without conducting heat - an incredibly useful property that defies our current understanding of how conductors work.
+The metal, found in 2017, contradicts something called the Wiedemann-Franz Law , which basically states that good conductors of electricity will also be proportionally good conductors of heat, which is why things like motors and appliances get so hot when you use them regularly.
+"This was a totally unexpected finding," said lead researcher Junqiao Wu from Berkeley Lab's Materials Sciences Division back in January 2017.
+"It shows a drastic breakdown of a textbook law that has been known to be robust for conventional conductors. This discovery is of fundamental importance for understanding the basic electronic behaviour of novel conductors."
+Not only does this unexpected property change what we know about conductors, it could also be incredibly useful - the metal could one day be used to convert wasted heat from engines and appliances back into electricity, or even create better window coverings that keep buildings cool.
+Researchers already knew of a handful of other materials that conduct electricity better than heat, but they only display those properties at temperatures hundreds of degrees below zero, which makes them highly impractical for any real-world applications.
+Vanadium dioxide, on the other hand, is usually only a conductor at warm temperatures well above room temperature, which means it has the ability to be a lot more practical.
+To uncover this bizarre property, the team looked at the way that electrons move within vanadium dioxide's crystal lattice, as well as how much heat was being generated.
+Surprisingly, they found that the thermal conductivity that could be attributed to the electrons in the material was 10 times smaller than that amount predicted by the Wiedemann-Franz Law.
+The reason for this appears to be the synchronised way that the electrons move through the material.
+"The electrons were moving in unison with each other, much like a fluid, instead of as individual particles like in normal metals," said Wu.
+"For electrons, heat is a random motion. Normal metals transport heat efficiently because there are so many different possible microscopic configurations that the individual electrons can jump between."
+"In contrast, the coordinated, marching-band-like motion of electrons in vanadium dioxide is detrimental to heat transfer as there are fewer configurations available for the electrons to hop randomly between," he added.
+Interestingly, when the researchers mixed the vanadium dioxide with other materials, they could 'tune' the amount of both electricity and heat that it could conduct - which could be incredibly useful for future applications.
+For example, when the researchers added the metal tungsten to vanadium dioxide, they lowered the temperature at which the material became metallic, and also made it a better heat conductor.
+That means that vanadium dioxide could help dissipate heat from a system, by only conducting heat when it hits a certain temperature. Before that it would be an insulator.
+So that means it could even be used as a window coating that reduces the temperature without the need for air conditioning.
+"This material could be used to help stabilise temperature," said one of the researchers, Fan Yang .
+"By tuning its thermal conductivity, the material can efficiently and automatically dissipate heat in the hot summer because it will have high thermal conductivity, but prevent heat loss in the cold winter because of its low thermal conductivity at lower temperatures."
+A lot more research needs to be done on this puzzling material before it's commercialised further, but it's pretty exciting that we now know these bizarre properties exist in a material at room temperature.
+The research was published in Science in 2017.
+A version of this article was first published in January 2017.

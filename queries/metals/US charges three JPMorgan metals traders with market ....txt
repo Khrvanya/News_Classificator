@@ -1,0 +1,16 @@
+Along with HSBC, JPMorgan is one of the banks that dominates global flows of gold and silver trading.
+The global head of precious metals trading at JPMorgan, one of the biggest bullion banks, has been charged by US prosecutors with running an eight-year conspiracy to manipulate the global precious metals markets and defraud its customers.
+Michael Nowak, 45, a JPMorgan veteran who ran the bank’s global precious metals trading desk, was charged along with two traders of a “massive, multiyear scheme to manipulate the market for precious metals futures contracts and defraud market participants”, assistant attorney-general Brian Benczkowski said.
+The indictment alleges the three traders engaged in “widespread spoofing, market manipulation and fraud”, while working at JPMorgan. They placed orders they intended to cancel before execution in an effort to “create liquidity and drive prices toward orders they wanted to execute on the opposite side of the market”, it said.
+They placed deceptive orders for gold, silver, platinum and palladium futures contracts on the New York Mercantile Exchange, it alleges.
+Along with HSBC , JPMorgan is one of the banks that dominates global flows of gold and silver trading.
+/* Any CSS that needs to be patched put here with date and jira ref.
+  @media only screen and (max-width: 767px){.span2 .soa.feature_box .feature_text:before {top: 70px;}}
+    var minWidth = 1100;
+    var shouldShow = jq('body.isArticle.anonymous')[0] != undefined;
+  	var tab = '<div class="floating_tab slideFromLeft"><a class="gtm-event" data-evt-category="/digital-subscriptions" data-evt-action="Go to StoreFront" data-evt-label="Subscribe Now: Floating Tab" href="/digital-subscriptions"><b>Subscribe Now</b></a></div>';
+ -webkit-box-shadow: 5px 0px 20px 0px rgba(81, 81, 81, 0.7); -moz-box-shadow:    5px 0px 20px 0px rgba(81, 81, 81, 0.7); box-shadow: 5px 0px 20px 0px rgba(81, 81, 81, 0.7);}
+@media only screen and (max-width: 1101px) { .floating_tab{display:none !important;} }    
+            var lazyAds = adLazyloaded;
+            var active = false;
+                                    return ad !== lazyAd;

@@ -1,0 +1,10 @@
+BlackRock has introduced a new share class for the iShares China CNY Bond UCITS ETF, providing currency-hedged exposure to renminbi-denominated government and policy bank bonds issued in China.
+The new share class hedges currency exposure between renminbi and the US dollar.
+The new share class, which hedges exchange rate risk between renminbi and the US dollar, trades on Euronext Amsterdam under the ticker CYBU NA.
+The fund tracks the Bloomberg Barclays China Treasury + Policy Bank Index through physical replication using a stratified sampling technique.
+The index reflects the performance of fixed-rate RMB-denominated treasury bonds and policy bank bonds listed on the China interbank bond market.
+Eligible securities must be rated investment grade and have a minimum of one year to maturity. The index currently contains over 300 bonds.
+Nearly half (46.6%) of the index is allocated to bonds issued by the Chinese government, with the remaining weight assigned to bonds from China Development Bank, Agricultural Development Bank, and Export-Import Bank of China. These three policy banks are responsible for financing economic and trade development as well as state-invested projects.
+The ETF may appeal to investors searching for increased yield without wanted to venture into junk bond territory – the underlying index is currently yielding 3.3%. It can also serve as a portfolio diversifier with BlackRock noting that Chinese bond yields have historically exhibited a near-zero correlation with government bonds of developed countries.
+The fund comes with moderate interest rate risk with the underlying index showing an effective duration of 5.5 years.
+The fund houses $130 million in assets under management.

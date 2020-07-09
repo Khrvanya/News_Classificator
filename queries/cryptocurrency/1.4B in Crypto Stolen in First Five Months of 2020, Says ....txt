@@ -1,0 +1,17 @@
+$1.4B in Crypto Stolen in First Five Months of 2020, Says CipherTrace
+Researchers say 2020 is on track to becoming the second-worst year for cryptocurrency-related thefts, hacks and fraud.
+Researchers say 2020 is on track to become a second-worst year for cryptocurrency-related thefts, hacks and fraud.
+Digital asset intelligence firm CipherTrace released a report on June 2 revealing that in the first five months of this year so far, the value of ill-gotten funds siphoned through cryptocurrency crimes has reached almost $1.4 billion.
+This makes it possible that the amount of funds lost to bad actors in 2020 will outstrip the $4.5 billion lost in 2019,
+This makes it possible that 2020 will be the worst year for cryptocurrency losses to crime behind 2019, which saw net losses of $4.5 billion. CipherTrace then attributed the losses to an uptick of “insider jobs” at businesses such as crypto exchanges.
+This year, CipherTrace notes that criminals are capitalizing on the coronavirus crisis to target more victims and are propagating new crypto-related phishing campaigns, ransomware and darknet marketplace fraud.
+CipherTrace has identified multiple scams this year involving email campaigns that impersonate coronavirus-related official groups in order to solicit personal information and/or payments in cryptocurrency.
+Mimicked entities have included the World Health Organization, the Red Cross and the Centers for Disease Control and Prevention.
+Other COVID-19-related applications and sites include purported virus trackers for smartphones, which enable criminals to spy on users or to install ransomware and later demand payment in cryptocurrency to decrypt users’ files.
+New darknet markets have also emerged requesting payment in crypto for COVID-19 diagnostic tests, ostensible vaccines and “cures,” or sought-after personal protective equipment.
+Of the $1.36 billion in crypto stolen so far this year, 98% of the total value ($1.3 billion) was accounted for by fraud and misappropriation, rather than by hacks and direct thefts.
+CipherTrace notes that evolving Anti-Money Laundering measures have proved reasonably effective, causing the global average of illicit funds received by exchanges to drop by 47% in 2019.
+Challenges remain, however, with “regulatory arbitrage” — i.e., high-risk crypto firms relocating to less regulated jurisdictions. This, the report claims, is still prevalent ahead of the forthcoming enforcement of the Financial Action Task Force’s travel rule in June.
+CipherTrace indicates that 74% of the Bitcoin ( BTC ) moved in exchange-to-exchange transactions was cross-border, a fact that points to the urgency of establishing global AML and counterterrorism standards such as those set out by the FATF.
+The report further points to the amplifying effect of the global public health and economic crisis, noting that “in the rush to institute government programs, there will inevitably be corruption and misallocated funds, creating a ripe environment for money laundering.”
+Another striking finding in the report involves the “exponential” rise of funds being sent to high-risk exchanges from United States Bitcoin ATMs in 2019 rather than to lower-risk entities, prompting CipherTrace to predict that ATMs could be the next target for financial regulators.

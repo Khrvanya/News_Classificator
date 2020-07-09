@@ -1,0 +1,19 @@
+DeFi-favorite Ethereum wallet MetaMask gets Version 8 update, new features
+Shaurya Malwa · July 3, 2020 at 8:05 am UTC · 2 min read Insights via
+Popular non-custodial wallet MetaMask announced it will roll out a Version 8 update for the wallet in the coming weeks, promising increased privacy, a better UI, and other user-centric features.
+The wallet is popular on all DeFi exchanges and applications and may see increased installations as the broader DeFi sector grows.
+If you’ve used UniSwap, Balancer , or Compound ; the role of MetaMask should have struck out as evidently significant.
+Via a blog post on June 2, ConsenSys engineer Dan Finlay wrote on the new features of MetaMask touting the latter is what “no wallet has done before.”
+Today we are beginning to roll out a big update: MetaMask Version 8! https://t.co/N5ztv2pZGd
+— MetaMask (@metamask_io) July 2, 2020
+First up is enhanced privacy. Finlay said most crypto wallets either manage a single account or show current account information to all websites/applications associated with that account, revealing sensitive private information.
+But MetaMask V8 introduces customized privacy control for each linked account, i.e. creating a new wallet for each website or selecting what wallet interacts with which website. Users can dictate their data sharing on their terms.
+To smoothen the above, account switching will be enabled to allow for quick shifting between two wallets on their respectively linked platforms.
+As part of MetaMask’s EIP-2255 permissions system, new and enhanced permissions will enable powerful features like decryption, access to wallet information (like tagging a user’s favorite tokens or contacts), and eventually introducing the MetaMask “Snaps” extension — the latter is a plugin system currently in beta mode.
+A newer UI promises greater accessibility for users, mainly under the “assets” and “activity” sections. New iconography helps in making transactions more recognizable, says Finlay.
+Ethereum developers have something new as well. MetaMask now features Web 3.0 encryption, which allows websites to transfer data using state-of-the-art encryption measures.
+“For now, these decryption requests each require user confirmation, so it’s mostly ideal for decrypting infrequent, important messages, like emails.”
+He adds developers have an opportunity “later on” to build a decryption strategy available with a permissions system. More information on the decryption API is available here .
+Finlay said the team has, via the update, addressed past issues of developers finding it difficult to onboard users onto MetaMask, courtesy a slightly intimidating installation process.
+To ease the above, a new onboarding library enables applications to implement their own connect button. This allows users to land on a site, install MetaMask, and be automatically redirected back to the application.
+Last is the ERC-1193 Provider API meant for developers. This EIP “formalizes a JavaScript Ethereum Provider API for consistency across clients and applications,” creating a friendlier-to-user, extensible API for developers.

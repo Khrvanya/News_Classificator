@@ -1,0 +1,4 @@
+The central parity rate of the yuan against the U.S. dollar is based on a weighted average of prices offered by market makers before the opening of the interbank market each business day.
+The central parity rate of the yuan against the Hong Kong dollar is based on the central parity rate of the yuan against the U.S. dollar and the exchange rate of the Hong Kong dollar against the U.S. dollar at 9 a.m. in international foreign exchange markets on the same business day.
+The central parity rates of the yuan against the other 22 currencies are based on the average prices offered by market makers before the opening of the interbank foreign exchange market.
+BEIJING, June 30 (Xinhua) -- The following are the central parity rates of the Chinese currency renminbi, or the yuan, against 24 major currencies announced on Tuesday by the China Foreign Exchange Trade System:

@@ -1,0 +1,55 @@
+Bitfarms Ltd. ( TSXV:BITF ), one of the cryptocurrency stocks, is making money hand over fist, says DJ Dunkerley
+DJ Dunkerley, New Currency Frontier Research | June 18, 2020 | SmallCapPower: Year-to-date, bitcoin is up more than 25% (from $7K USD to more than $9K), easily beating the S&P 500, which is still down more than 8% for the year.
+Leave this field empty if you're human:
+Even gold is up “only” 11% this year.
+Some bitcoin stocks have been doing very well—like RIOT-NASD—but most others are surprisingly not. I mean, technically, a lower hash rate and a higher BTC price should equal higher cash flow and profits and one would think stock prices.
+I’ll explain to you why one company—Bitfarms Ltd. ( TSXV:BITF ) is trading flat for its investors, yet is making money hand over fist and has more scale than RIOT.
+I went looking as to why that is, and Consider the case of RIOT Blockchain ( NASDAQ:RIOT ):
+In late March, it was trading at 65 cents. Now it’s trading above $2. That is more than a triple in less than two months.
+These companies are literally digital cash mining machines. They house servers that “protect” the bitcoin network by validating and processing transactions.
+In return, these miners are awarded bitcoin by the network that the miners can keep or sell for US dollars (or for any other world currency, for that matter).
+But it’s risky business for the following reasons:
+Mining rigs – the processors – are capital intensive and must be paid for upfront.
+Electricity contracts with the local utility must signed and paid for. In many cases, a fixed monthly cost is mandated whether you use the electricity or not.
+You have to build or rent the facilities.
+All these costs are fixed: There is no room to maneuver if the business goes downhill. And it can.
+If the price of bitcoin drops, you make less money.
+If the bitcoin network hashrate increases, you make less money.
+What is hashrate? It is simply sum of all computing power on the bitcoin network, ie the sum total of all the mining rigs currently active.
+The rewards given out by the network are fixed at 6.25 bitcoin on average every ten minutes. The more miners on the network, the smaller slice of pie for each mining entity.
+Here is a chart of the bitcoin network hashrate over the last three years:
+In three years, the total computing power of the bitcoin network has grown from 5 EH/s to 95 EH/s, as more mining rigs have been added to the network and more powerful mining rigs have been built.
+Obviously, it is no longer profitable to use the mining rigs of 2017 on today’s network: They consume too much electricity relative to the computing power they generate.
+Every month the network hashrate increases, with rare exceptions, like the last six months:
+Note the sudden rise and then sudden fall in the month of May. That’s because of the bitcoin halving.
+For the first four years of its existence, the bitcoin system paid out 50 bitcoin every ten minutes. Four years later it cut production in half to 25.
+With rewards cut in half, miners with a higher electricity bill than their peers and/or older mining rigs are forced out of the network.
+They won’t come back unless the price of bitcoin goes up.
+The bitcoin halving is the major reason why investors have avoided bitcoin miners in 2020. Until now.
+Barring a prolonged drop in the price of bitcoin, the miners in production today should stay in business for the foreseeable future. They are making enough money to survive.
+If the price of bitcoin goes up, they should make more money. If the price of bitcoin goes WAY up, they should make a LOT of money.
+Think of bitcoin miners as a call option on the price of bitcoin.
+Hence the bump in the price of RIOT Blockchain. It has not shut off its mining rigs.
+That’s a strong signal it’s going to stay in production for the foreseeable future.
+But we missed buying RIOT at 65 cents. What else is out there?
+RIOT has a market cap of $71.2 million USD.
+RIOT is currently operating approximately 4,000 S17s with an aggregate hashing power capacity of 248 Petahash per second (“PH/s”) between the Riot Oklahoma City, Oklahoma and the Coinmint Massena, New York locations.
+According to Bitfarms’ company presentation, they have 813 petahash of computing power.
+Yes, that is correct, Bitfarms has more than three the processing power of RIOT, and trades at half the valuation.
+There are reasons for this.
+The first is that is RIOT trades on NASDAQ and Bitfarms trades on the Toronto Stock Venture Exchange, and most US investors can’t trade there. Instead, they have to trade on the OTC (over-the-counter) equivalent, which is not easy.
+But in the boom of 2017, RIOT was one of the first crypto-stocks to take off. It led the way.
+It was only later that publicly-listed blockchain/bitcoin mining stocks on the Canadian exchanges popped 5x-10x in a matter of months.
+Based on the discrepancy of valuation between RIOT and Bitfarms, the latter looks very undervalued.
+But there could be another issue as to why investors are waiting on the sidelines before jumping in with both feet to buy Bitfarms as Bitfarms has not yet released their first quarter 2020 earnings.
+They also have a $20 million (CAD) loan on the books for the purchase of the latest and greatest mining rigs.
+Finally, to date, Bitfarms has not held bitcoin, it has sold the coins as soon as they were mined to fund further expansion, and also because financial auditors in Canada insist that the bitcoin be sold as soon as it is mined.
+RIOT has chosen to hold some of its bitcoin, hence it’s more attractive to investors who just think of these companies as holding entities for bitcoin.
+As of first quarter, RIOT had 821 bitcoin in inventory, roughly worth $7.8 million USD or a little more than 10% of the stock’s market cap.
+Is RIOT’s bitcoin inventory enough to give it that much of a higher valuation than Bitfarms? I don’t think so, but apparently the market disagrees.
+But to me it just looks like Bitfarms is in a bit of a news drought.
+If the latest financial update looks solid with no nasty surprises, and management is showing positive cash flow even after the halving, then that’s a good sign a floor is under the stock.
+And with crypto-stocks that’s the first and most important item in the checklist.
+If the fundamentals are solid, you can hold it and just wait for the next boom in the price of bitcoin, and then reap those asymmetrical returns.
+To read our full disclosure, please click on the button below:
+The Content contained on this page (including any facts, views, opinions, recommendations, description of, or references to, products or securities) made available by SmallCapPower/Ubika Research is for information purposes only and is not tailored to the needs or circumstances of any particular person. Any mention of a particular security is merely a general discussion of the merits and risks associated there with and is not to be used or construed as an offer to sell, a solicitation of an offer to buy, or an endorsement, recommendation, or sponsorship of any entity or security by SmallCapPower/Ubika Research. The Reader should apply his/her own judgment in making any use of any Content, including, without limitation, the use of any information contained therein as the basis for any conclusions. The Reader bears responsibility for his/her own investment research and decisions. Before making any investment decision, it is strongly recommended that you seek outside advice from a qualified investment advisor. SmallCapPower/Ubika Research does not provide or guarantee any financial, legal, tax, or accounting advice or advice regarding the suitability, profitability, or potential value of any particular investment, security, or information source. Ubika and/or its affiliates and/or their respective officers, directors or employees may from time to time acquire, hold or sell securities and/or commodities and/or commodity futures contracts in certain underlying companies mentioned in this site and which may also be clients of Ubika’s affiliates. In such instances, Ubika and/or its affiliates and/or their respective officers, directors or employees will use all reasonable efforts to avoid engaging in activities that would lead to conflicts of interest and Ubika and/or its affiliates will use all reasonable efforts to comply with conflicts of interest disclosures and regulations to minimize the conflict.

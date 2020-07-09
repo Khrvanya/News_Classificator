@@ -1,0 +1,13 @@
+When the VIX spiked north of 80 earlier in March, several leveraged ETFs and ETNs either reduced their leverage exposure or closed shop altogether.
+ETFs and ETNs, which are more likely to be impacted since they tend to have language built into their contracts about triggers that could force a redemption, have seen the number of closures skyrocket as liquidity has dried up and losses in some products have exceeded 90%.
+Here's a partial list of ETP products that have closed in the past several weeks.
+The list covers an impressive number of sectors, including financials, energy, biotech, volatility, REITs and Treasuries. Even products that utilize a low volatility strategy have fallen victim.
+With crude oil prices crashing and market risk still high, another pair of high profile ETFs could join the list.
+The Direxion Daily S&P Oil & Gas Exploration & Production Bull 2X Shares (GUSH) and the Direxion Daily S&P Oil & Gas Exploration & Production Bear 2X Shares (DRIP) are over-exposed to the worst areas of the market right now. They've already reduced their exposure to the oil space from +/- 300% to +/- 200% in response to the lack of liquidity affecting the funds' ability to cost-effectively establish the mandated leverage.
+While it's mostly ETNs that are at risk of closing in a highly volatile environment, it wouldn't be unprecedented for ETFs to shut down as well. We've already seen both the ProShares UltraPro 3X Crude Oil ETF (OILU) and the ProShares UltraPro 3X Short Crude Oil ETF (OILD) close earlier this year.
+The United States Oil Fund (USO), the largest oil-related ETF, announced that it will change its structure in order to target later-dated crude derivatives contracts. In markets, such as these, wild swings in price can also lead to wild swings in assets, something that fund managers may have difficulty managing in volatile times.
+So we're seeing not just volatility in the price of crude, but the current environment putting a lot of strain on the structural integrity of several of these products. As the structure breaks down, fund companies may be forced to consider shutting these products down if they can't effectively accomplish their objectives.
+Year-to-date, DRIP is up more than 160%, but GUSH has lost 98% of its value.
+If you liked this article/video, please click the LIKE button or share it on Twitter, Facebook, etc. using the buttons below.
+Feel free to leave any comments, questions, or thoughts on the ideas presented here (and sign-up if you haven't already).
+Follow me and receive periodic notifications when I post here by clicking the FOLLOW button at the top of the page!

@@ -1,0 +1,17 @@
+What Is The Monero (XMR) Cryptocurrency?
+Monero is a cryptocurrency (XMR) and blockchain. It was created in April 2014: meaning that XMR is older than Ethereum, the second highest-ranked cryptocurrency by Market cap on data aggregates such as CoinMarketCap, which launched in July 2015.
+On the other hand, Monero blockchain and token are younger than Litcoin, a popular Bitcoin fork which was released in October 2011. Like Litecoin, Monero is largely posited as a viable alternative to Bitcoin - which still reigns supreme in terms of market cap and 24-hour trade volume.
+Where Litecoin focuses on competing through relatively short transaction times and low fees however, Monero seeks to establish itself as the reigning cryptocurrency with privacy considerations in mind.
+So what is Monero in detail, and how does it stack up by comparison with its peers?
+Generally, cryptocurrencies and blockchain networks are dichotomised into two distinct categories: centralized and decentralized...
+Centralized blockchains can offer benefits such as third party custody (assuming liability from the customer for lost funds), however, the entire network is fully owned and managed by one or more private entities.
+Decentralized blockchains offer a lot more independence and sovereignty of accounts data, with the security that the ledger is being updated accurately; all transaction records written to a public ledger via distributed consensus.
+In a world of increasing regulatory scrutiny, anti-crypto bank policies & actions: neither of these manages to offer a solution which offers the advantages of those privacy and anonymity factors afforded by decentralized systems whilst also ensuring data written to the ledger (even anonymised) is not publicly viewable.
+This is where Monero comes in with its ‘obfuscated public ledger’ which, according to the official Monero website, offers features such as:
+“Ring signatures, ring confidential transactions, and stealth addresses to obfuscate the origins, amounts, and destinations of all transactions… Sending and receiving addresses as well as transacted amounts are obfuscated by default.
+The actual Monero token (XMR) is the 16th top cryptocurrency in terms of total market cap, according to CoinMarketCap.
+XMR is a form of transferring funds between two parties with the utmost focus on privacy including obfuscation of transaction data (sender, recipient, the value of funds transferred, etc).
+Recently, Monero has suffered (like much of the market of top market-cap tokens) as a result of the blow that first hit Bitcoin prior to its halving. The token is following a similar trajectory to BTC at present, with both having yet to recover from their losses.
+Whilst the ethos behind Monero is admirable, it does not prevent it from coming under scrutiny by regulators and critical pundits for its potential illegal uses - from money laundering to the purchase of contraband such as drugs.
+Despite the edge that Monero has on many other tokens and blockchains regarding privacy and security of account data, some flaws have been found with concerns being raised as far back as April 2017.
+Looking back on Monero news and XMR news, we can see that Reuters published a report last year (May 2019) highlighting ways in which Monero can and has been exploited for illicit activities. Subsequently, Monero published a rebuttal which included an emphasis on the positive aspects of the token and network.

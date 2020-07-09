@@ -1,0 +1,11 @@
+Speaking at Cointelegraph’s BlockShow conference, Dr. Pavel Kravchenko said major uptake by institutions would be worse for Bitcoin than banning it.
+Bitcoin ( BTC ) price could “crash to zero” in the event of mass adoption by institutions, an industry expert has warned.
+Speaking at Cointelegraph’s ongoing BlockShow conference on Nov. 14, Dr. Pavel Kravchenko , CEO and co-founder at Distributed Lab and author of “Blockchain and Decentralized Systems,” revealed a rare bearish stance on the increasing institutional interest in Bitcoin.
+Kravchenko was sitting on a panel focusing on blockchain projects and their associated cryptocurrency tokens: “Creating token value — are monetary gains hindering blockchain innovation?” He summarized:
+“Bitcoin is censorship resistant money, the first in the world. I don’t believe in institutional adoption. If this happens, Bitcoin will become not censorship-resistant. Then it won’t have this feature anymore and will crash to zero.”
+Institutions’ role in Bitcoin trading and investing continues to form a point of debate among market participants and experts. This year, new offerings have surfaced, with Bitcoin futures and custody solutions attempting to woo major players.
+Some have warned about the detrimental impact of institutional involvement, while others are bullish about the future.
+As Cointelegraph reported, venture capitalist Mike Novogratz highlighted trading platform Bakkt in particular as having the potential to boost, not crash, the Bitcoin price.
+On the BlockShow panel, Matthew Rosak, CEO of enterprise blockchain startup Bloq, added that store-of-value use case for Bitcoin was furthering the appeal of the industry as a whole.
+“Bitcoin as a store-of-value continues to be a freight train of momentum,” he said.
+Conversely, Kravchenko argued governments trying to ban Bitcoin altogether would help the price more than institutional acceptance. As a currency, Bitcoin must attempt to become more private — and introduce anonymizing features such as those in Zcash or Monero — or it will lose its censorship resistance feature, he added.

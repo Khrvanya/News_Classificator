@@ -1,0 +1,8 @@
+Travelex computer systems have been down for more than a week since a malware attack on New Year's Eve, leaving Lloyds, Barclays, HSBC and the Royal Bank of Scotland, among others, unable to process transactions.
+Britain's largest retail banks have been forced to halt processing foreign currency orders after a cyberattack on exchange provider Travelex.
+Computer systems at the travel money firm have been down for more than a week since a malware attack on New Year's Eve, leaving Lloyds , Barclays , HSBC and the Royal Bank of Scotland , among others, unable to process transactions.
+The hackers have reportedly demanded $6 million in return for encrypted customer data. But in a statement late on Wednesday, Travelex said the system had been taken down as a "precautionary measure" following the discovery of the virus, and that its investigation had shown that customer data had not been compromised.
+"We have now contained the virus and are working to restore our systems and resume normal operations as quickly as possible," the statement said, adding that "Travelex's network of branches continue to provide foreign exchange services manually."
+The attack was carried out by a ransomware gang known as Sodinokibi. The hackers told the BBC that they have downloaded 5GBs of customer data and plan to sell it online in six days' time, unless Travelex pays the ransom.
+Travelex said it is in discussions with the U.K.'s National Crime Agency (NCA) and London's Metropolitan Police, both of which are conducting criminal investigations.
+The banks have issued apologies for the inconvenience to customers on their respective travel money websites.

@@ -1,0 +1,16 @@
+The value of cryptocurrencies locked in DeFi applications has skyrocketed to $1.65 billion, 65% higher than this metric was just 12 days ago. Simultaneously, the number of users leveraging applications like Compound, Maker, and Synthetix has skyrocketed.
+Unfortunately, a purported hack just took place that may temporarily slow DeFi’s growth.
+Early Sunday afternoon, reports started to spread via social media that a DeFi hack/attack took place.
+Word first spread via Telegram, according to The Block’s Steven Zheng . An admin of a Telegram group noticed that there was an issue with Balancer, a DeFi protocol focused on facilitating token swaps.
+“Apparently someone drained a Balancer Pool made up of WETH and STA and got away with $500k worth of WETH,” Zheng wrote, becoming one of the first to spread news of this via Twitter.
+Hours after Zheng’s tweet, the attack was confirmed by Ethereum-based decentralized exchange 1inch and Mike McDonald, co-founder of Balancer Labs. Balancer Labs is the entity that is behind Balancer’s development; the former is a company, the latter is an Ethereum-based protocol.
+According to a breakdown of the situation by 1inch, Zhang was correct: more than $500,000 worth of Ethereum and other altcoins were drained during this attack.
+The exchange’s research found that the attacker used a smart contract to manipulate the Balancer Pool so that it went into debt:
+“These funds were used to swap WETH to STA token back and forth 24 times which drained STA balance from the pool. […] Every time the attacker swapped WETH to STA, the Balancer Pool received 1% less STA than was expected.”
+After this, the Ethereum user leveraged a vulnerability to drain Wrapped Ethereum, Wrapped Bitcoin, Synthetix, and Chainlink from the pool. As aforementioned, the value of the stolen funds amounts to ~$500,000.
+For some context, the issue was a byproduct of the built-in deflation of STA. The token has an algorithm designed to “ensure that for every transaction, 1% of the amount transacted is destroyed.”
+1inch has classified the attacker as a “very sophisticated smart contract engineer with extensive knowledge and understanding of the leading DeFi protocols” due to the exploits used. The attacker is currently at large because they used an Ethereum mixer to obfuscate their identity/ties to exchanges.
+Hacks aren’t the only issues that DeFi is currently facing.
+Larry Sukernik, an investor at Digital Currency Group, argued that DeFi products are too complicated for their own good.
+“A very high IQ can be a headwind to building massively successful products. You get people with a big brains that need to be put to work. And when they’re put to work, the result is often a complex, brilliant, but massively unusable product. Lots of that in DeFi now,” he explained.
+“If fees move higher or even maintain this level, I expect $ETH competitors focused on scalability to see increased attention.”

@@ -1,0 +1,37 @@
+3 min read . Updated: 30 Jun 2020, 11:08 AM IST Bloomberg
+Its spread prompted states including Maharashtra, home to the finance hub of Mumbai, to extend the lockdown curbs imposed since March to beyond June
+Hedge fund managers in India are joining global peers in preparing for another rout in equities, as the rally in local stocks overlooks the pandemic and a dim economic outlook.
+The cautious stance has cost some professional investors so far as the S&P BSE Sensex index has rebounded 34% from a March low, helped by a flurry of stimulus measures from the Indian government and its central bank. But the jury is still out with the International Monetary Fund cutting India’s economic growth outlook for the year to March by the most among all major economies.
+“Liquidity is covering up underlying pain in terms of both economic growth and corporate profitability," said Vaibhav Sanghavi, co-fund manager of the Avendus Absolute Return Fund. “We will stay in a relatively hedged position, and not take any long call on the market until there’s a clear signal about treatment or vaccine for the virus."
+Moving into cash before the meltdown helped Avendus, India’s largest hedge fund with 50 billion rupees ($662 million) in assets, limit losses to about 1% in March versus the 23% swoon in the NSE Nifty 50 Index. While Sanghavi has begun to invest some of that cash, the net exposure is still at 5%, versus an average 20% the manager has typically taken over the last few years.
+Avendus isn’t alone in bracing for another selloff. Vijay Krishna Kumar, who runs the IDFC India Equity Hedge Tactical Fund and India Equity Hedge Conservative Fund, is pivoting to high-dividend companies in the utilities and energy sectors. He is skeptical of the rally in some consumer-facing stocks as the recovery in growth is still some way away.
+“The damage is deep and pervasive, and even more so for emerging markets such as India, which are still in the first wave of coronavirus infections and may take longer to open up fully," said Krishna Kumar.
+India has the world’s fourth-highest number of virus infections and its spread prompted states including Maharashtra, home to the finance hub of Mumbai, to extend the lockdown curbs imposed since March to beyond June.
+To be sure, one of India’s newest long-short funds is betting the stocks rally will extend. Launched in August, the 3-billion rupee ($40 million) True Beacon One fund, run by Nikhil Kamath, has cut its bearish wagers since the middle of March and is now fully invested.
+“The selloff has priced in much of the pandemic’s impact and is undervaluing many firms that will continue to grow revenue and operations even in a muted global environment," said Kamath, co-founder and chief investment officer of True Beacon.
+Still, wariness displayed by Avendus and IDFC is shared by many of their global peers who have loaded up on protection. For instance, a ratio tracking their long versus short positions has kept falling since late March through June, according to data compiled by JPMorgan Chase & Co.’s prime brokerage unit.
+“Our fair value estimates and macro analysis suggest markets will eventually bottom out lower," IDFC’s Krishna Kumar said.
+This story has been published from a wire agency feed without modifications to the text.
+* Thank you for subscribing to our newsletter.
+Click here to read the Mint ePaperLivemint.com is now on Telegram. Join Livemint channel in your Telegram and stay updated
+You are now subscribed to our newsletters. In case you can’t find any email from our side, please check the spam folder.
+lozad('.lozad', { load: function(el) { el.src = el.dataset.src; el.onload = function() { el.classList.add('fade')}}}).observe()
+.myAccount .planSec, .myAccount a.LinkCTA{padding:16px; margin:16px; box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.1); background-color: #fff;}
+	       		var userData = data;
+	       		var name = userData.name;
+	       		var email = userData.email;
+	       		var signupSource = userData.source;
+	       		var subscribedAtOnce = userData.subscribedAtOnce;
+	       		var plan  = userData.plan;
+	       		document.getElementById('uName').innerHTML = "<strong>"+name+"</strong>" + email;
+		       		var status = planData.status;
+		       		var purchaseSource = planData.source_device;
+			       		var nextActivationDate = planData.current_term_ends_at;
+			       		var planDescription = planData.plan.description;
+			       		var planName = planData.plan.name;
+			       		var planPrice = planData.amount;
+			       		//var planInterval = planData.shipping_interval;
+			       		var planInterval = planData.duration;
+			       		var planUnit = planData.interval_unit;
+			       		//var html = "<strong>Your Subscription Plan</strong>"+planName+" ₹"+planPrice+" / "+planInterval+" " + nextBillingHtml + cancelHtml; 
+			       		var html = "<strong>Your Subscription Plan</strong> "+planDescription + " "+ planName +": ₹"+planPrice + " "+ nextBillingHtml + cancelHtml;

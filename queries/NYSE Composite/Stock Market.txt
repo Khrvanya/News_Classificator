@@ -1,0 +1,18 @@
+Indexes illustrate stock prices for a variety of companies across industries.
+How are prices determined on a stock market?
+Stock prices on exchanges are governed by supply and demand -- plain and simple. At any given time, there's a maximum price someone else is willing to pay for a certain stock and a minimum price someone else is willing to sell shares of the stock for. Think of stock prices as an auction, with some investors bidding for the stocks that other investors are willing to sell.
+If there is a lot of demand for a stock, investors will buy shares quicker than sellers want to get rid of them, and the price will move higher. On the other hand, if more investors are selling a stock than buying, the market price will drop.
+Taking it a step further, it's important to consider how it's possible to always buy or sell a stock you own. And that's where market makers come in.
+In order to ensure that there's always a liquid marketplace for stocks on an exchange, individuals known as market makers act as intermediaries between buyers and sellers. Market makers buy and hold shares and continually list buy and sell quotations for shares. The highest offer to buy shares listed from a market maker at any given time is known as the bid and the lowest offered selling price is known as the ask. The difference between the two is called the spread.
+The main reason for using the market maker system as opposed to simply letting investors buy and sell shares directly to one another is to ensure that there is always a buyer to match with every seller, and vice versa. If you want to sell a stock, you don't need to wait until a buyer wants your exact number of shares -- a market maker will buy them right away.
+What happens when you buy a stock?
+Investors must carry out the transactions of buying or selling stocks through a broker, which is simply an entity that is licensed to trade stocks on an exchange. A broker may be an actual person who you tell what to buy and sell, or more commonly, this can be an online broker that processes the entire transaction electronically.
+When you buy a stock, here's the simplified version of how it works:
+You tell your broker what stock you want to buy and how many shares you want.
+Your broker relays your order to the exchange and a market maker sells you shares at the current market price.
+The shares are then delivered to your account.
+How does a stock index track the stock market?
+You've probably heard statements such as "the market is up" or that a stock "beat the market." Often, when discussing the stock market, people generalize "the market" to a stock index . Stock indexes, such as the S&P 500 or Dow Jones Industrial Average , are a representation of the performance of a large group of stocks (but often not an entire stock exchange) and are often used as a benchmark to compare the performance of individual stocks or an entire portfolio. For example, the S&P 500 index tracks the performance of 500 of the largest publicly traded companies in the United States.
+Indexes are a convenient way to discuss an approximation of what is happening in the market, but they do not fully represent the entire stock market.
+There are three different terms here with similar and often misunderstood meanings. A stock market refers to the process of investors buying and selling stocks with one another. A stock exchange is the actual intermediary that connects buyers with sellers, such as the NYSE. A stock index is a numerical representation of a group of stocks that is used to track their collective performance.
+Our goal is to help you become smarter, happier, and richer!

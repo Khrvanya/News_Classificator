@@ -1,0 +1,27 @@
+Tezos (XTZ, Rated “B-”) is on fire.
+It has surged by more than 190% in the past five weeks.
+And now, it's breaking out to new bull-market highs well ahead of the other altcoins — even ahead of Bitcoin (BTC, Rated “A-”), the reigning King of Crypto.
+Without good governance, decision-making goes into limbo. The community of participants, developers and sponsors can rupture and split. Two or more competing blockchains can emerge.
+Indeed, that’s exactly what once plagued Bitcoin, prompting Bitcoin Cash to split off from the original Bitcoin. It’s also what caused Ethereum Classic to break away from the original Ethereum (ETH, Rated “B+”). It was tantamount to civil war.
+But such an outcome is extremely unlikely at Tezos, thanks to a governance structure that is both flexible and democratic at its core. Any token holder can propose an upgrade, which is then voted upon by other token holders. If enough vote in favor, or “Yea”, then the upgrade is implemented across the network.
+Tezos has already done this twice, and token holders are voting on a third upgrade even as I write.
+Unlike first- or second-generation cryptocurrencies like Bitcoin and Ethereum, which use Proof of Work, Tezos, like most third-generation cryptocurrencies, uses Proof of Stake.
+In both cases, participants validate transactions on the network and get rewarded with new tokens for doing so.
+The difference is that with Proof of Work, they have to solve cryptographic puzzles, which can consume a tremendous amount of energy and require large warehouses full of expensive computer hardware to operate. With Proof of Stake, all they have to do is vote for their tokens. The more tokens they hold, the more voting power they have.
+And if you hold Tezos tokens, you have a choice:
+You can either participate directly and validate the transactions yourself. Or …
+You can delegate your tokens to someone else who will validate the ledger and share the reward.
+The reason a token holder would delegate would be to pool resources with others. After all, to validate a transaction, you need to “purchase a ticket”. And as with any lottery, the more tickets you have, the greater your chances of winning.
+So, unless you’re a big player, it makes sense to pool resources. And you can do that by delegating your tokens.
+This kind of token delegation is fast becoming a big business: Crypto exchange giants, such as Coinbase and Binance, run their own Tezos validators. They use tokens delegated to them by their customers. Then they share the rewards, like a dividend.
+As I write, delegating your XTZ tokens to Coinbase nets you a 5% annual return.
+That's about five times more than what you can get on an average U.S. money market account or money market fund.
+Generally speaking, the broader the participation in the validation process, the more decentralized and secure a crypto network is going to be.
+With a Proof-of-Stake crypto, one of the keys to success is to get at least two-thirds of the tokens actively engaged in validating the blockchain.
+So, in this respect, the 80% participation that Tezos has achieved is stellar. Heck, even EOS (EOS, Rated “C”), which has done pretty well in this regard, barely makes it to 50%.
+Not only is the participation high, the number of validators on the Tezos network (which Tezos calls "bakers") is well-distributed: The biggest Tezos “baker” controls only 6.57% of the token supply, and the second biggest controls just 4.30%.
+Compare that to Bitcoin, where the largest miner controls 18.2% of mining capacity … or to EOS, where top validators control about one third of all the EOS tokens.
+This means that Tezos stands alone as the most decentralized Proof-of-Stake crypto on the planet. By far. It is one of the key factors why Tezos has become so successful as a smart-contract platform in less than two years of operation.
+These strengths all add up to give Tezos a Weiss Crypto Rating of “B-”. It still has a few shortcomings, like its slow processing speed. But last week, these strengths helped push Tezos ahead of the altcoin pack and lead the run to new bull-market highs.
+I’ll be keeping an eye on its progress. You should, too.
+Check out Weiss Crypto Ratings and Indexes:

@@ -1,0 +1,7 @@
+A company called Jet Token hopes to raise $10m for an Ethereum-powered private jet leasing marketplace.
+Flyers will be able to pay for charters using ERC-20 tokens . The company claims it will be able to reduce costs and implement simpler booking, as well as slash the amount of time planes are sitting idle.
+A statement said: “We believe the tokenisation of flight hours and (as we mature) fractional membership programmes offers the possibility of reduced transaction costs and, through the evolution of a marketplace, higher industry fleet utilisation.
+The statement says Jet Token has negotiated terms with Honda Aircraft Company for four HondaJets and with Gama Aviation for the maintenance, management, and operation of the leased aircraft.
+The company has also launched an iOS app, which functions as a prospecting and quoting platform to arrange private jet travel with third-party carriers.
+The statement added: “Our next step is the creation and sale of Jet Tokens and the sale of blocks of 50 hours of flight time on our leased HondaJets.
+“We will accept cash or blockchain currencies, such as Bitcoin, in exchange for service and will maintain client funds in digital wallets on our platform until clients redeem Jet Tokens for travel.

@@ -1,0 +1,27 @@
+Facebook's Mark Zuckerberg wants to launch a global currency and change the world of finance for billions of people. But many - including powerful politicians, bank chiefs and regulators - don't like the idea one bit. Why?
+Libra, Facebook's proposed new digital currency, is not receiving a balanced response.
+"I don't think you should launch Libra at all," said US congresswoman Carolyn Maloney at a hearing in Washington in July . US President Donald Trump, leaders of the G7 nations, and the head of the Bank of England, Mark Carney, have all expressed concerns about Libra, too.
+Now the UK's Information Commissioner's Office has joined the chorus of sceptics.
+Some bystanders assume that because Facebook has used terms like "blockchain" and "decentralised" in its statements about Libra, that it is a system like Bitcoin.
+In other words, that it would be a grassroots digital currency that anyone can buy into and which would be extremely difficult to shut down.
+But Libra really isn't anything like Bitcoin. It will, in fact, be managed centrally - a basket of other currencies and assets will be used to set the value of Libra, keeping it much more stable than highly volatile Bitcoin.
+And, of course, Calibra - a digital wallet for Libra - will be built directly into some of the world's most popular apps: Facebook, WhatsApp and Instagram. Facebook Inc owns them all.
+Financial bigwigs are upset because Facebook, a corporation, appears to want to take on a government-like role, creating a currency and perhaps even influencing monetary policy.
+Everyone invested in that currency then becomes subject to the whims of the Libra Association. And should Libra become popular, it could end up impacting other currencies and national economies, critics fear.
+Those, like Carolyn Maloney, who think this should all be stopped in its tracks, do have some tricks up their sleeves. That's probably why Facebook has promised to come to an agreement with regulators before launching Libra.
+"This is an alternative money," says Prof Ross Buckley at the University of New South Wales. "It's not going to get the easy treatment that coins in a game get."
+Virtual currencies you use to trade items in online games such as World of Warcraft, or commodity-like cryptocurrencies such as Bitcoin and Ethereum, are essentially exempt from the strict regulations that can be applied to national currencies and stocks and shares.
+Prof Buckley and his colleagues recently published a paper all about the various regulatory stumbling blocks in Facebook's path. The conclusion is that Libra will have to face some kind of regulation - it can't be ignored.
+"Libra is perhaps the ultimate example of something that is highly likely to move from 'too small to care' to 'too big to fail' in a very short period of time," the paper notes.
+Prof Buckley gives the example of developing countries, where many living there rely on payment transfers from citizens working abroad. These transfers, known as remittances, are subject to high fees that the G20 nations have promised to tackle .
+But Facebook could disrupt the whole system overnight, if people in those countries switch to Libra instead. It could do what M-Pesa, a digital currency popular in some African countries, has long sought to do - but on a much bigger scale.
+That might be useful in the short term for those so reliant on remittances. But widespread use of Libra could also affect the economy of an entire developing nation, some believe - for better or for worse.
+To supervise Libra properly, regulators everywhere must ask themselves what sort of financial instrument it is. No-one has a good answer yet. Prof Buckley thinks Facebook's own white paper about Libra is deliberately vague.
+Regulators and politicians have essentially been thrown a gauntlet by the tech giant: you tell us what sort of scrutiny our brand new currency might receive, and we'll respond accordingly.
+But not all roads lead to success, says Jerry Brito, executive director of cryptocurrency research agency Coin Center.
+Image caption If regulators decide Libra is more like a share or bond, it will be very tightly regulated
+"If, at the end of the day, it is [classed as] a security, then it may not work as a currency and we might see Facebook abandon the project," he explains.
+That's because securities, tradeable financial assets like stocks and bonds, are very tightly regulated.
+But Mr Brito thinks Facebook aims to persuade regulators to class Libra as a payment instrument or, possibly, a new kind of security that faces slightly less draconian regulation.
+Once national regulators decide how they want to treat Libra, the main tool they can use to ratify it is licensing, explains Prof Buckley.
+Facebook would need to apply for a licence in any country where it wants to offer Calibra as a payment tool. And to get those licences the company would have to show that it can detect and stop money laundering, and the financing of terrorism, for example.

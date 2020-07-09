@@ -1,0 +1,11 @@
+SBI Holdings plans to integrate Ripple-powered settlement across Japanese ATMs.
+The news was revealed in SBI’s latest financial report , announcing a plan to integrate the Ripple-powered settlements platform MoneyTap with ATMs run by various banks across Japan.
+The integration is intended to provide consumers with easier access to funds at ATMs regardless of their banking affiliation.
+SBI claims that integrating MoneyTap will also allow banks to reduce the costs incurred through operating an ATMs, stating:
+“Currently, each bank has an ATM with its own bank app, but with a common web app, the same ATM may be used as its own jointly operated multi-bank ATM.”
+MoneyTap launched in October 2019 on iOS and Android, facilitating instant money transfers via QR Code or phone number.
+During September 2019, SBI chief executive and Ripple board member Yoshitaka Kitao stated that the firm was planning to utilize XRP for remittance in the future.
+In other news regarding Ripple adoption, self-described digital asset bank Sygnum has launched support for XRP trading, custody, and credit services.
+Sygnum co-founder, Mathias Imbach, stated that he has been impressed by Ripple’s global traction — emphasizing that more than 300 financial institutions have joined the RippleNet payments network.
+“The company’s XRP-based solutions address the pain points of the fast growing USD 700 billion global remittance market,” added Imbach.
+Despite Ripple gaining payment market share, XRP has ranked among the weakest performing crypto assets year-to-date among the top ten by capitalization.

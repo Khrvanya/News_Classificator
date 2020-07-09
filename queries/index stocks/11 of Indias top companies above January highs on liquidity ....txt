@@ -1,0 +1,33 @@
+2 min read . Updated: 24 Jun 2020, 10:46 PM IST Nasrin Sultana
+Mumbai: Abundant liquidity injection has led to a pullback rally in stock markets and a recovery from the losses seen in March. Despite bleak growth outlook, ongoing geopolitical tensions, uncertainty of peaking global and domestic covid cases along with ongoing trepidations regarding the return of labour back to urban areas, benchmark indices have seen a jump of 40% from the lows seen in March.
+Data showed that around 11% of NSE500 index which comprises nearly 97% of total market cap have surpassed their January highs after they sank to new lows in March. Surge in these stocks may mean that investors are gradually building confidence in recovery of business growth as unlocking of the country started this month. Data showed 54 stocks on the NSE 500 made new highs in April to June period while all stocks in the index have recovered all losses incurred in March this year when the benchmark index itself tanked over 20%. NSE500 index itself has gained over 40% from March lows.
+With this recovery rally, Edelweiss Securities believes the valuation trade is certainly behind and that the breadth as well as the quantum of this recovery rally stands out.
+“In our past research, we had argued that high-quality stocks across and irrespective of market caps lead recoveries from bottoms. This played out in the first half of this recovery rally. Our analysis indicates almost 70% of the top 350 Indian stocks are back to one year forward valuations that are within a 10-15% range of or higher than January valuations. In our view, the valuation trade is behind us, it is again time to focus on business models, post-covid-19 prospects and competitive landscapes," Edelweiss Securities said.
+Post covid-19 outbreak and lockdown measures new business categories came to the fore with resilience, while analysts at Edelweiss feel that classic defensives offer downside protection only in demand downturns, the virus defensives’ proved to be a hedge against the supply disruption as well.
+Hence stocks in agri-inputs, power, telecom, freight rail, private security, facility management, dairy, express services, among others have seen good traction during the last few months and analysts expect them to be re-rated.
+Stocks which have touched new 52-week highs in June are Adani Green Energy, Aurobindo Pharma Ltd, Dixon Technologies (India) Ltd, Infibeam Avenues Ltd, Laurus Labs Ltd, EID Parry (India) Ltd, Bayer CropScience Ltd, Cipla Ltd, Kaveri Seed Company Ltd, Escorts Ltd
+However, despite the recent run up, Indian equity markets have underperformed global markets due to the absence of meaningful fiscal support so far, imposition of the most stringent lockdown across the globe along with the increasing pace of daily reported cases that continue to show no signs of ebbing, said research firms.
+“In addition, with the most stringent lockdown, impact on economic activity was also substantial as indicated by April-May PMIs that registered the lowest figures amongst the major regions of the globe. This also constrained the performance," Centrum Institutional Research said.
+* Thank you for subscribing to our newsletter.
+Click here to read the Mint ePaperLivemint.com is now on Telegram. Join Livemint channel in your Telegram and stay updated
+You are now subscribed to our newsletters. In case you can’t find any email from our side, please check the spam folder.
+lozad('.lozad', { load: function(el) { el.src = el.dataset.src; el.onload = function() { el.classList.add('fade')}}}).observe()
+.myAccount .planSec, .myAccount a.LinkCTA{padding:16px; margin:16px; box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.1); background-color: #fff;}
+	       		var userData = data;
+	       		var name = userData.name;
+	       		var email = userData.email;
+	       		var signupSource = userData.source;
+	       		var subscribedAtOnce = userData.subscribedAtOnce;
+	       		var plan  = userData.plan;
+	       		document.getElementById('uName').innerHTML = "<strong>"+name+"</strong>" + email;
+		       		var status = planData.status;
+		       		var purchaseSource = planData.source_device;
+			       		var nextActivationDate = planData.current_term_ends_at;
+			       		var planDescription = planData.plan.description;
+			       		var planName = planData.plan.name;
+			       		var planPrice = planData.amount;
+			       		//var planInterval = planData.shipping_interval;
+			       		var planInterval = planData.duration;
+			       		var planUnit = planData.interval_unit;
+			       		//var html = "<strong>Your Subscription Plan</strong>"+planName+" ₹"+planPrice+" / "+planInterval+" " + nextBillingHtml + cancelHtml; 
+			       		var html = "<strong>Your Subscription Plan</strong> "+planDescription + " "+ planName +": ₹"+planPrice + " "+ nextBillingHtml + cancelHtml;

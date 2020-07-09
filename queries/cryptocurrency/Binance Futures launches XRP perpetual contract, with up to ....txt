@@ -1,0 +1,6 @@
+Binance Futures launches XRP perpetual contract, with up to 75x leverage
+Binance Futures, the cryptocurrency exchange’s futures trading platform, has rolled out a perpetual contract for the XRP cryptocurrency.
+The contract, paired against Tether (USDT), offers leverage of up to 75 times, according to an announcement Monday.
+The XRP/USDT contract appears to be the first such contract from a notable exchange. Currently, little-known Delta and BaseFEX exchanges offer XRP perpetual contracts.
+The Binance Futures platform went live last September and currently offers three more contracts - bitcoin (BTC), bitcoin cash (BCH) and ether (ETH) - all tied against USDT.
+The platform offers maximum leverage of up to 125 times. Binance CEO Changpeng “CZ” Zhao recently said that the leverage was increased due to growth in institutional participation. "These professional traders seek out the most efficient ways to trade very quickly, both in terms of cost and performance," said CZ.

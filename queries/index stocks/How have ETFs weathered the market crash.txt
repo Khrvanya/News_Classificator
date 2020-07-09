@@ -1,0 +1,52 @@
+How have ETFs weathered the market crash?
+The investment success story of the past 25 years, the passive index trackers have been tested by the effects of Covid-19
+Credit agency Moody’s said some ETFs may prove “illiquid" in a bear market, meaning investors could struggle to get their money in a crash. Associated Press
+Exhchange traded funds are bought and sold like shares, but operate as index-tracking funds, passively following their chosen indices, such as the S&P 500, FTSE 100 and the FTSE All World, plus a vast range of smaller exchanges and commodities, such as gold, silver, copper sugar, coffee and oil.
+ETFs have zero upfront fees and annual charges as low as 0.07 per cent a year, which means you get to keep more of your returns, as actively managed funds can charge as much as 1.5 per cent a year.
+There are thousands to choose from, with the five biggest providers BlackRock’s iShares range, Vanguard, State Street Global Advisors SPDR ETFs, Deutsche Bank AWM X-trackers and Invesco PowerShares.
+Exchange traded funds have been the big investment success story of the last 25 years, attracting huge sums from private investors. But there has always been a question mark hanging over the sector: how would it perform in a market crash?
+Last year, Wall Street guru Michael Burry said the flood of money going into index-tracking ETFs will reverse at some point and when that happens, “it will be ugly”.
+“Like most bubbles, the longer it goes on, the worse the crash will be," he said.
+The ETF market has been stable during the pandemic. No big stock or bond fund has collapsed and some even saw their most active trading days.
+Many heeded Mr Burry’s warning because this is the man who made $1 billion (Dh3.67bn) by accurately predicting the 2008 market collapse, and was famous enough to be played by Christian Bale in the Hollywood film The Big Short.
+Credit agency Moody’s also warned some ETFs may prove “illiquid" in a bear market, meaning investors could struggle to get their money in a crash, if nobody wants to buy the underlying assets.
+The big test finally came in March, when markets crashed due to Covid-19, and several ETFs investing in oil and corporate bonds hit liquidity problems. So is it still safe to hold them?
+Between the launch of the first ETF in 1993 and the end of last year, an incredible $6.35 trillion was invested in the sector, according to figures from ETFGI.com. Then came this year's crash.
+Inevitably, any investor who holds ETFs will be hurting right now. As passive tracking funds, all they can do when stock markets crash is passively follow share prices downward.
+Which assets are still shining in this crisis?
+Stuart Ritchie, director of wealth advice at AES International and an advocate of ETFs, says investors had an easy run after 2008, as low interest rates and central bank stimulus packages drove asset prices higher and higher, and ETFs passively followed as they are designed to do.
+The big worry was that when the crash came, investors would panic and sell everything at the same time, accelerating the downturn and leaving investors in a liquidity trap, unable to withdraw their funds.
+With one or two notable exceptions, this hasn't happened, Mr Ritchie says. “The ETF market has been stable during the pandemic. No big stock or bond fund has collapsed and some even saw their most active trading days.”
+He says they continue to prove their worth over actively managed funds, which once again have fallen short.
+Fund managers argued that while ETFs may do well in a bull market, active funds offer far more protection against a crash, as managers could take evasive action by shifting into safer assets. Mr Ritchie says this didn’t happen in practice.
+“More than two thirds of actively managed funds fell in line with their benchmarks, or worse. No active manager can guarantee to outperform the market,” he says.
+ETFs have not emerged totally unscathed, though. The unprecedented scale of the oil price crash hit the United States Oil Fund, the largest oil-focused ETF, which attempts to track daily price movements by purchasing oil futures contracts. However, its performance diverged sharply, falling 7 per cent last week even as US crude futures climbed 11 per cent, Reuters reports.
+Barclays is now shutting down a similar fund, the iPath Series B S&P GSCI Crude Oil Total Return Index ETN.
+Peter Garnry, head of equity strategy at Saxo Bank, says liquidity problems created a large "deviance" between the quoted fund price and the value of the underlying assets.
+"The United States Oil Fund exposed private investors to market dynamics they didn't understand, and investors need to be aware of the danger before the next crisis comes.”
+In March, ETFs investing in company bonds suffered similar pricing problems, with the iShares iBoxx Investment Grade Corporate Bond ETF closing 4.5 per cent below its fair value at one point. The Pimco Investment Grade Corporate Bond Index ETF (LQD) traded at a similar discount.
+The Vanguard Total Bond Market Index fund and Fidelity US Bond Index also fell sharply. The sector was ultimately saved by the US Federal Reserve’s pledge on March 23 to buy investment-grade credit and certain ETFs. This provided the liquidity needed to rescue bonds that had been floundering in a market with no buyers.
+Matt Brennan, head of passive portfolios at UK-based investment platform AJ Bell, says despite these isolated issues, the vast majority of ETFs have proved
+their worth and the long feared sell-off has not happened.
+but use derivatives or other securities to replicate performance.
+For added security, look for ETFs that are compliant with the European Union’s investment fund rules, known as UCITS funds, typically domiciled in tax-neutral jurisdictions such as Ireland or Luxembourg.
+Most private investors use ETFs to track mainstream stock markets such as the US S&P 500, FTSE 100, euro Stoxx 50 and MSCI global indices, and Mr Garnry says these funds have had no liquidity issues. “The ETF market has for the most part weathered the crisis well, with just a few hiccups,” he says.
+Vijay Valecha, chief investment officer at Century Financial in Dubai, says fears that ETFs would hinder "price discovery”, the process by which investors work out how much assets are worth, have proved
+“When China closed its financial markets during January's lunar holiday as protection against the pandemic, the US-listed ETF that tracks Chinese securities declined 9.6 per cent in the week to January 31," he says. "When the CSI 300 Index opened for trading, it had fallen by roughly the same amount.”
+Investors still have to accept that if they are holding, say, an ETF investing in the S&P 500, it will fall alongside the market.
+As we saw in March, those falls can be severe. However, that is exactly what ETFs are supposed to do: track what is happening in the wider market.
+Listen: Ramadan car deals - can you buy or sell a motor during Covid-19?
+You can reduce investment risk through the old-fashioned method of investing in a diversified spread of ETFs, Mr Valecha says.
+He suggests starting with a spread of good quality larger company funds, such as Pro Shares S&P 500 Dividend Aristocrats ETF (NOBL), Van Eck Gold Miners ETF (GDX) and Utilities Select Sector SPDR Fund (XLU).
+Then spread your wings by investing in alternative ETFs and Mr Valecha tips Fidelity MSCI Health Care Index (FHLC) right now.
+“This gives investors a simple way to invest in pharmaceuticals, biotechnology, medical device makers and other companies that could benefit from the pandemic threat, notably Pfizer, Merck and Johnson & Johnson," he says.
+Finally, he tips Vanguard Small Cap ETF (VB), for those happy with the higher risk of investing in smaller companies, which fall faster in a bear market and rise faster when shares recover.
+Dr Ryan Lemand, senior executive officer of ADS Investment Solutions, says ETFs remain “brilliant products” for individual investors because they are cheap and easy to access.
+Fears that investors would run to their smartphones and start selling ETFs when markets crashed, worsening any sell-off, have not been realised. “That would have triggered a failure of market-makers, typically large investment banks that intervene when buy and sell orders are unbalanced. Thankfully, this did not happen, and ETFs did not cause any market disruptions or market breakdown.”
+Despite this, Mr Lemand says some investors may return to active fund managers if current volatility continues. “This could help them weather the choppy period with limited losses, or potentially even some gains,” he says.
+Others may prefer sophisticated “quantitative” ETFs, that can rapidly switch from aggressive to defensive strategies, based on high-frequency market data. “These are more expensive, but offer good protection during volatile markets,” Mr Lemand says.
+The Covid-19 stock market crash was ugly and a handful of oil and corporate bond ETFs have struggled, but Mr Ritchie says investors are standing by passive funds, which have come through their test in good shape. He remains an advocate.
+“It is onwards and upward for ETFs,” he says.
+Exhchange traded funds are bought and sold like shares, but operate as index-tracking funds, passively following their chosen indices, such as the S&P 500, FTSE 100 and the FTSE All World, plus a vast range of smaller exchanges and commodities, such as gold, silver, copper sugar, coffee and oil.
+ETFs have zero upfront fees and annual charges as low as 0.07 per cent a year, which means you get to keep more of your returns, as actively managed funds can charge as much as 1.5 per cent a year.
+There are thousands to choose from, with the five biggest providers BlackRock’s iShares range, Vanguard, State Street Global Advisors SPDR ETFs, Deutsche Bank AWM X-trackers and Invesco PowerShares.

@@ -1,0 +1,20 @@
+Please consider using a different web browser for better experience.
+Please enable JavaScript in your browser for a better site experience.
+The number three decentralized finance (DeFi) application, Synthetix, is also enjoying the current boom times in bankless banking.
+(Warning: This post is going to go a lot of places, so buckle in.)
+Synthetix is a platform for minting and exchanging synthetic tokens that mirror the price of other assets. On June 19, Synthetix joined the Ren Project and BitGo in creating a pool of bitcoin-backed tokens, for smooth liquidity between three crypto products that should be all but interchangeable. Plus, each of the DeFi platforms is promising token rewards in order to get more participation in the pool.
+This pool of sBTC, renBTC and WBTC lives on Curve , an automated market maker that has extremely low price slippage thanks in part to its specialization in stablecoins.
+Note: The three versions of BTC are distinct. WBTC is minted by BitGo, which serves as a centralized custodian; renBTC is minted with a trustless smart contract; and sBTC never touches BTC – it is synthetic, backed by an 800% collateralization of Synthetix Network Token (SNX).
+The promotion will run till Sept. 28. And though it started on June 19 , the hockey stick growth on Synthetix only got going on June 22.
+In short, Synthetix appears to have successfully attracted the itinerant and growing horde of yield farmers , each doing their best to outrun the coming DeFi dust bowl.
+There are many incentives to joining the pool on Curve. Participants will split up a weekly award of 10,000 SNX and 25,000 REN, plus BAL from a liquidity pool of REN and SNX that the two teams made. Users also get promises for CRV, the forthcoming governance token from Curve.
+The new interest in Synthetix has strengthened its position relative to Compound and MakerDAO, the top two DeFi protocols. Synthetix has never previously had more than $200 million in assets on the application. As of this writing, it has an all-time high of $263 million, according to DeFi Pulse .
+That said, it’s unclear how much of that is due to this specific promotion. SNX is the asset one stakes to use Synthetix, and its price is at $1.88 as of this writing, up from $1.15 before the promotion began.
+“I think there is a general surge in DeFi awareness and this new incentive taps into a number of aspects of it. BTC on ETH, yield farming and AMMs,” Kain Warwick, founder of Synthetix, told CoinDesk via email. “So I think they are probably somewhat related but it is always hard to pinpoint a specific reason for a sudden spike in project awareness.”
+The promotion has also benefited Ren, whose renBTC token went live on May 22 .
+“We’ve seen a large growth in volume on Ren this week,” Ren CEO Taiyang Zhang told CoinDesk in an email. “Since launch a few weeks ago we’ve had $19 million volume flow through RenVM and over $8 million locked up now. $15 million in volume is from the last week, with users mostly tokenizing BTC.”
+The promotion is not the whole story for Ren, however; DeFi is experiencing a rising tide moment .
+“Seems like COMP mining created a large demand for WBTC and renBTC is the easiest on-ramp into it via the Curve pool,” Zhang added.
+Users just need to deposit any of the three Ethereum-based versions of BTC onto Curve’s BTC pool, and then account for their contribution on Synthetix. The new pool currently shows a daily USD volume of $774,577 or 83.18 BTC.
+“This pool does a great deal of stabilizing sBTC price which is very valuable for Synthetix, as well as makes it possible to enter the Synthetix ecosystem right from Bitcoin – very valuable for both REN and Synthetix,” Michael Egorov of Swiss Stake, the company behind Curve, explained to CoinDesk in an email.
+The leader in blockchain news, CoinDesk is a media outlet that strives for the highest journalistic standards and abides by a strict set of editorial policies . CoinDesk is an independent operating subsidiary of Digital Currency Group, which invests in cryptocurrencies and blockchain startups.

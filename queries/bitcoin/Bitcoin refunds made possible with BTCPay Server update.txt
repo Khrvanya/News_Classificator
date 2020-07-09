@@ -1,0 +1,16 @@
+Hot on the heels of a $150,000 grant, BTCPay server has added support for notifications and easy refunds to the open source BTC payment processing platform
+Bitcoin refunds made possible with BTCPay. Image: Shutterstock
+BTCPay Server has released update 1.0.5 of its open-source BTC payment processing software.
+Major additions include notifications for payment status updates and streamlined refunds.
+BTCPay Server has already received commitments of more than $250,000 for 2020.
+It keeps getting easier to use Bitcoin for everyday payments.
+BTCPay Server, a free open source Bitcoin payment processing server, announced on Friday the addition of several new features that make it easier for online merchants to handle crypto-payments on their sites.
+BTCPay Server helps merchants process Bitcoin payments. Its system helps them keep invoices organized. The transaction handling software, which launched in 2017, also offers a built-in wallet for storing and sending BTC.
+Update 1.0.5 brings many new features, chief among them pull payments, notifications, and refunds.
+To issue refunds, merchants can now authorize a given amount of BTC to be ‘pulled’ from escrow. In the current design, senders still need to manually authorize the payment, plans to fully automate the process are on BTCPay's roadmap.
+Before the addition of refunds, senders and receivers had to coordinate addresses and payment amounts, often requiring multiple back-and-forth messages. Now, merchants can generate refunds directly from invoices—no additional communication or slowdowns.
+BTCPay Server has also added notifications for merchants using the service. Notifications will be available for payment confirmations, partial payments, and more, managed through a dedicated notifications page. Additional future updates will add notification preference options and API support for BTCPay Server notifications.
+Decrypt reported earlier in June on a $150,000 grant made to BTCPay server by crypto exchange Kraken , in honor of the UN’s Micro-, Small, and Medium-Sized Enterprises Day .
+The grant was awarded to the BTCPay Server Foundation , launched in 2019 to manage such contributions. The award follows a May 2020 commitment of $100,000 over 12 months by OKCoin, and an $80,000 March 2020 donation directly to core contributor Andrew Camilleri to support full-time work on the project.
+As the software becomes more robust, there’s a good chance savvy e-commerce sellers will increasingly be drawn to the open-source, fee-less alternative to centralized payment processors.
+Get the best of Decrypt where you want it most.

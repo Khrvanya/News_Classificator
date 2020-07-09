@@ -1,0 +1,57 @@
+Bitcoin Halvening and The Future of Crypto: What to Do on Tuesday
+It’s been an incredible four years.
+And I’m pumped about the next four.
+You’ll find out why exactly shortly.
+First, let’s just get right to the point here. On Tuesday, bitcoin — the controversial and much debated cryptocurrency — is about to see its third ‘halvening’.
+Note the masses call it ‘the halving’. Us nerds, we call it ‘the halvening’. Feel free to call it whatever you like.
+It’s a big event, but not for the reasons you might think.
+But before I explain what those reasons are, you need a fundamental understanding of what the halvening is. I’ve heard some people say they think the current bitcoin in circulation will be cut in half.
+No, that’s not right at all. So, to understand, you need to know why bitcoin does what it does.
+In order to secure its blockchain, add blocks to it, verify transactions — to keep the system running — there needs to be an economic incentive for peers on the network, the ‘miners’.
+They ‘mine’ by solving a mathematical algorithm that’s incredibly complex and hard to solve. By solving it, they ‘mine’ a block, which is added to the blockchain. Within that block are all the transactions that have taken place during that particular block.
+Mining has costs. Energy costs, time costs…hardware costs. So, there must be some economic incentive for miners to continue to keep the network running. And there is.
+The block reward is the number of bitcoin that miners are rewarded with for mining and adding blocks to bitcoin’s blockchain, for keeping the network running.
+When bitcoin first started the bitcoin block reward was 50 bitcoin.
+And in bitcoin’s code, that cannot be changed, the bitcoin block reward would be cut in half every 210,000 blocks.
+Another part of bitcoin’s code is known as the difficulty adjustment. This is a dynamic system that adjusts depending on the speed at which blocks are mined.
+The ‘target’ speed of block mining is 10 minutes. That means the bitcoin blockchain is set to add one new block every 10 minutes.
+If average block speed is nine minutes, the difficulty will adjust higher to make it harder to solve the difficulty algorithm, to get back closer to the target 10 minutes.
+Likewise, if the average block speed is 11 minutes, the adjustment lowers to makes it easier to solve the algorithm — always aiming for that 10-minute target.
+This difficulty adjustment happens every 2016 blocks. So quite frequently.
+That’s important because it means that roughly every four years, we get 210,000 blocks with the 10-minute block target. And that roughly every four years we will see the bitcoin block reward halve again and again until all bitcoin are in circulation.
+The halving is set to continue to take place until all bitcoin are eventually mined — which is estimated to be sometime around the year 2140. Economic incentive from there, becomes transaction fees that are included in each block.
+The difficulty and the block reward dictate that on Tuesday late morning, Aussie time, bitcoin will go from block 630,000 to 630,001 and the block reward will drop from 12.5 BTC to 6.25 BTC.
+Right now, we’re still in the early days of bitcoin’s progress and the wider crypto ecosystem’s development.
+But so far, roughly every four years, every 210,000 blocks, marks a new halving event.
+And what I’m saying is this event practically means little, but it remains a catalyst for the start of a new bitcoin and crypto mega cycle.
+So far, each halvening period has led to a boom, bust, and growth cycle in crypto awareness, adoption, and importantly, value creation. Each period magnitudes higher than the previous.
+The first one back in 2012 cut the block reward from 50 BTC to 25. I remember it being a really big deal at the time. Subsequently, this proved to be a catalyst for the first real crypto boom and subsequent crypto winter bust.
+This period from the first halvening in 2012 to the next one in July 2016 was about four years. And during that first wave, bitcoin’s fiat-converted price went from $12 in November 2012 to a bit over $650 in July 2016 — a 5,316% rise.
+But that wasn’t the only thing going on.
+During that first halvening period we also saw the creation, development, and innovation of other crypto — new crypto that hadn’t existed before.
+Crypto like Ripple (now XRP) founded in 2012, expanded their codebase, built partnerships, and their ecosystem. By the time the next halving in July 2016 was about to take place, Ripple had built a crypto network with a market cap of around $200 million.
+Today, it stands with a market cap of $9.5 billion, all within the space of just eight years.
+Stellar formed off the back of Ripple when Jed McCaleb left Ripple. Stellar would debut in 2014 and by the 2016 halving, two short years later, created $11 million in value from nothing.
+Today, Stellar exists with a crypto market cap of $1.5 billion, all within the space of just six years.
+These are just two examples of the big cryptocurrencies that exist today that were spawned in the innovation and development melting pot that took place during the first halvening period. And these two will continue through the next cycle, possibly adding greater value to their networks again, as will others.
+Then, we had the next halvening in July 2016. And for the last four years since, we’ve seen the value of bitcoin’s fiat-converted prices rise again. From around $650 in July 2016 to over $9,300 today.
+Another 1,330% rise over that time frame…and 77,400% higher since the first halvening event.
+But it’s not the real story, it’s not what I consider to be the real opportunity.
+What we know is that during this last halvening cycle from July 2016 to this coming Tuesday, we’ve seen more development, innovation, and wealth creation than the first halvening period.
+During this current window set to end on Tuesday, we’ve seen the creation of crypto like Binance, EOS, Tezos, Crypto.com, Chainlink, and Tron. All of these from nothing to crypto market cap valuations of their tokens in excess of $1 billion.
+Together these six account for over $10.3 billion in wealth creation, mainly in the space of just three years.
+It’s the development of crypto like these, and others in the flourishing crypto space, that’s the real story and real opportunity in play here.
+Bitcoin will be the preeminent crypto for some time, maybe forever. But the real opportunity for investors from the halvening on Tuesday rests with other key crypto in this next mega cycle.
+That’s why it’s so important to know what exists in the crypto world, beyond bitcoin.
+The crypto mentioned above, could be some to really see huge rises if the next mega cycle eventuates. But I also expect smaller, lesser crypto to join the party, and very likely ones that don’t even exist yet.
+This will come as the space develops, matures, and continues its innovation and development. The horizon has in store exciting developments in everything from tokenised funds and issuance of security tokens and equity on blockchains, to privacy, identity, and data control.
+Yes, there’s a big fat disclaimer that there’s no guarantee of what’s coming over the next four years will be by any measure based on what we’ve seen happen twice before. And crypto are as risky an asset as any risk asset from stocks to unlisted securities and even property.
+But if I’m right and we do see another crypto mega cycle unfold in the next four years, do you think you’d want to have a stake in it (even just a small stake), or would you be willing to watch it sail past?
+Tuesday is a day where you really need to have made a decision on all this, and hopefully are ready to take some action.
+PS: Want to learn how to buy crypto? Download this free report for everything you need to know
+Sam Volkering is an Editor for Money Morning and is small-cap, cryptocurrency and technology expert.
+He’s not interested in boring blue chip stocks. He’s after explosive investments; companies whose shares trade for cents on the dollar, cryptocurrencies that can deliver life-changing returns. He looks for the ‘edge of the bell curve’ opportunities that are often shunned by those in the financial services industry.
+If you’d like to learn about the specific investments Sam is recommending in either small-cap stocks or cryptocurrencies, take a 30-day trial of his small-cap investment advisory Australian Small-Cap Investigator here , or a 30-day trial of his industry leading cryptocurrency service, Sam Volkering’s Secret Crypto Network here.
+But that’s not where Sam’s talents end. Sam specialises in finding new, cutting edge tech and translating that research into how the future will look — and where the opportunities lie. It’s his job to trawl the world to find, analyse, research and recommend investments in the world’s most revolutionary companies.
+He recommends the best ones he finds in his premium investment service, Revolutionary Tech Investor. Sam goes to the lengths of the globe and works 24/7 to get these opportunities to you before the mainstream catches on. Click here to take a 30-day no-obligation trial of Revolutionary Tech Investor today .
+Websites and financial e-letters Sam writes for:

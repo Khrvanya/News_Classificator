@@ -1,0 +1,16 @@
+What an irony — someone hacked the official website of the Monero cryptocurrency project and quietly replaced legitimate Linux and Windows binaries available for download with malicious versions designed to steal funds from users' wallets.
+The latest supply-chain cyberattack was revealed on Monday after a Monero user spotted that the cryptographic hash for binaries he downloaded from the official site didn't match the hashes listed on it.
+Following an immediate investigation, the Monero team today also confirmed that its website, GetMonero.com, was indeed compromised, potentially affecting users who downloaded the CLI wallet between Monday 18th 2:30 am UTC and 4:30 pm UTC.
+At this moment, it's unclear how attackers managed to compromise the Monero website and how many users have been affected and lost their digital funds.
+According to an analysis of the malicious binaries done by security researcher BartBlaze, attackers modified legitimate binaries to inject a few new functions in the software that executes after a user opens or creates a new wallet.
+The malicious functions are programmed to automatically steal and send users' wallet seed—sort of a secret key that restores access to the wallet—to a remote attacker-controlled server, allowing attackers to steal funds without any hassle.
+"As far as I can see, it doesn't seem to create any additional files or folders - it simply steals your seed and attempts to exfiltrate funds from your wallet," the researcher said.
+At least one GetMonero user on Reddit claimed to have lost funds worth $7000 after installing the malicious Linux binary.
+"I can confirm that the malicious binary is stealing coins. Roughly 9 hours after I ran the binary, a single transaction drained my wallet of all $7000," the user wrote . "I downloaded the build yesterday around 6 pm Pacific time."
+GetMonero officials assured its users that the compromised files were online for a very short amount of time and that the binaries are now served from another safe source.
+The officials also strongly advised users to check the hashes of their binaries for the Monero CLI software and delete the files if they don't match the official ones.
+"It's strongly recommended to anyone who downloaded the CLI wallet from this website between Monday 18th 2:30 am UTC and 4:30 pm UTC, to check the hashes of their binaries," GetMonero said.
+"If they don't match the official ones, delete the files and download them again. Do not run the compromised binaries for any reason."
+To learn how to verify hashes of the files on your Windows, Linux, or macOS system, you can head on to this detailed advisory by the official GetMonero team.
+The identity of hackers is still unknown, and since the GetMonero team is currently investigating the incident, The Hacker News will update this article with any new developments.
+Found this article interesting? Follow THN on Facebook , Twitter  and LinkedIn to read more exclusive content we post.

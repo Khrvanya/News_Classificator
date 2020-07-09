@@ -1,0 +1,21 @@
+What is the Cryptocurrency Act 2020?
+Yesterday, I wrote an article about new cryptocurrency regulations popping up around the world.
+One of the main pieces of legislation I discussed was the Cryptocurrency Act 2020, a new bill being proposed in the United States.
+The goal of the new legislation is to provide additional clarification on digital asset regulations. The bill has some wide-ranging regulations that, if voted into law, could reshape the crypto landscape moving forward – at least in the United States, that is.
+The US senator who put forward the Cryptocurrency Act 2020, Paul Goser, stated that it was his desire to attribute regulatory clarity to the market.
+In this article, I will dive deeper into what the Cryptocurrency Act 2020 is, how it will affect Americans, and what to expect from regulatory bodies.
+The Cryptocurrency Act 2020 begins with the categorisation of digital assets into three main groups. These groups are then used to determine which agencies are responsible for the creation of regulation and legislation. The first group described in the new bill is cryptocurrencies.
+The crypto class includes Bitcoin, Bitcoin Cash, Litecoin, and any other cryptocurrencies that don’t fall under the current securities regulations. The bill classifies these tokens as any digital asset that “includes representations of United States currency or synthetic derivatives resting on a blockchain or decentralised cryptographic ledger”.
+Smart contracts and oracles fall under the cryptocurrency category as well.
+The next class described in the bill is crypto-commodities. A key aspect of these tokens is the fact that they contain some form of substantial fungibility.
+Fungible assets are interchangeable, such as the USD. These assets must reside on a blockchain or decentralised cryptographic ledger to fall under this classification.
+The final type of coin described in the bill is crypto-securities. These tokens are simply any coin that fails the Howey Test .
+Who oversees and enforces regulations?
+These groups will gain sole authority over their respective digital asset types. Let’s explore how each regulatory body operates.
+The CFTC would gain jurisdiction of the crypto-commodities class. The group will need to develop the framework for these tokens from the ground up if the legislation passes. Due to the rise of cryptocurrencies, it is expected crypto-commodities will play a major role in the space going forward.
+The Cryptocurrency Act 2020 keeps security tokens under the watchful eye of the SEC. The SEC recently began cracking down on what it considers illegal securities offerings from the 2017 ICO craze. Two examples I mentioned yesterday were EOS and Telegram. Ethereum was also slapped on the wrist by the SEC for conducting an unregistered securities sale.
+Last but not least, FinCEN will be in charge of cryptocurrencies that are used as e-money. FinCEN will need to collaborate with the Secretary of the Treasury to enforce AML and KYC protocols in the market. Primarily, regulators want to develop a way to trace all cryptocurrency transactions, which seems highly questionable.
+A great deal of crypto enthusiasts point to the new legislation as a means to combat Facebook’s proposed digital asset Libra. Ever since Facebook announced its goals to produce a stablecoin that will operate on its network, lawmakers have been in a rush to configure some form of framework to contain the company’s potentially game-changing product.
+Multiple senators have called for Libra to be categorised as a security. Last year, a group of bipartisan US senators proposed a bill that would place all stablecoins into the securities category. The bill – the Token Taxonomy Act of 2019 – would firmly place Facebook’s latest crypto under the regulatory supervision of the SEC.
+I personally believe the objective of the Cryptocurrency Act 2020 is to enforce regulations and to force crypto companies to play by the same rules.
+Will the Cryptocurrency Act 2020 make changes that will ripple throughout the space? It is too early to tell. However, from experience, it seems regulatory bodies enable new money to come into the space, so let’s hope for the best.

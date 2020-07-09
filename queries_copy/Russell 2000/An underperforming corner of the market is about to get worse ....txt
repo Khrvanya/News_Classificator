@@ -1,0 +1,9 @@
+The major indexes are within reach of record highs, but one technician sees trouble brewing in the market that could lead to a pullback.
+"We're starting to see hesitation here in the broader indexes … and so far earnings season has been greeted with a bit of a thud," said TradingAnalysis.com founder Todd Gordon said Thursday on CNBC's " Trading Nation ." "If you look at the S&P here in blue, you're starting to see some hesitation. Each rally that we've seen has been shorter than the prior, momentum indicators are starting to roll over indicating ... buying interest is waning."
+The S&P 500 has hit a series of all-time highs this month, most recently on Monday. Since hitting a 52-week low in December, it has surged nearly 30%.
+Now, Gordon sees weakness coming to equities, and he's taking advantage of a retreat in one of the worst-performing corners of the market.
+"I do believe a pullback is coming. Rather than shorting the relatively stronger S&P, Nasdaq, or the Dow — let's focus and pick on the weak one, which is the Russell," the index composed of small-cap stocks, Gordon said.
+While the rest of the market has rallied to records, the Russell 2000 has not hit a new high since August. It is also negative for the past three months, while the S&P 500 has added more than 3%.
+"Prior to 2019, the Russell was right on top of the S&P. But, recently as the S&P has gone to a new high, the Russell has not. I would like to take advantage of a potential move back down towards these lows," he said.
+Gordon sees a drop to $145 on the IWM Russell 2000 ETF , which mirrors the index. That implies 7% downside from the levels of the ETF. He said to see this happen he would also need the S&P 500 to weaken.
+To take advantage of a move lower, Gordon is buying the August 16 expiration 150 put and selling the 145 put. This spread pays off if the IWM ETF falls as low as $145 by expiration.

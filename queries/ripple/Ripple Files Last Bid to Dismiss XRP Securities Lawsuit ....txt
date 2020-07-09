@@ -1,0 +1,18 @@
+Please consider using a different web browser for better experience.
+Please enable JavaScript in your browser for a better site experience.
+Even if XRP were a security, the investors suing Ripple brought their case far too late for it to proceed, the company said in a new filing.
+Further, subsequent arguments made by the plaintiffs contradict their original claims, Ripple said in the Dec. 4 filing with the U.S. District Court for the Northern District of California.
+It’s the latest document filed in the back-and-forth since a federal court appointed Bradley Sostack the lead plaintiff in the ongoing case. Sostack filed his initial amended complaint in August 2019. The plaintiffs claim the company sold XRP as an unregistered security to retail investors.
+The filing largely reiterated arguments Ripple made in an earlier motion to dismiss the case: that the amended complaint filed in August missed a legal deadline to pursue claims after an event; that the lead plaintiff still hasn’t been able to show that he bought XRP from any of the defendants (or during an initial offering); and that the claims that XRP is a security conflict with the plaintiff’s claims under California’s state consumer protection law.
+As such, Ripple once again has sidestepped the most important question the case poses for the digital asset industry: whether XRP, the third largest cryptocurrency by market capitalization, is a security under U.S. law.
+“XRP is not a security, but that is irrelevant for purposes of this motion. Even if XRP were a security, Plaintiff’s claims still fail as a matter of law,” the filing said (emphasis from the original document).
+The filing is the last before the parties meet in court next month to argue over the motion to dismiss.
+Despite the plaintiff’s claims that Ripple’s engaged in an ongoing offering of securities, the filing said, Ripple first began selling XRP in 2013, meaning any case brought after the three-year statute of repose should be dismissed.
+“The Court’s passing reference to the statute of repose running ‘from the defendant’s last culpable act (the offering of the securities),’ … does not upend the ‘first-offered’ rule,” the filing said, referencing a number of other court cases which supported this argument.
+The statute of repose argument was successfully used by defendants in a number of mortgage-backed securities cases several years ago, Rebecca Rettig, a partner at FisherBroyles, previously told CoinDesk .
+Ripple reply also took aim at a line in the plaintiff’s response , filed Nov. 4, which said “Ripple issues new XRP from escrow for the first time each month for sale to the public.”
+According to the Dec. 4 filing, this argument contradicts the plaintiff’s original amended complaint , which said “all 100 billion XRP were created out of thin air by Ripple in 2013, prior to its distribution to investors.”
+The filing also takes aim once again at claims that Ripple sold the XRP to the plaintiff, claiming that there was a “one-in-ten-thousand chance” that this could have occurred.
+According to the filing, “Ripple’s alleged exchange sales of XRP accounted for .095 percent—less than one-tenth of one percent—of the total volume of XRP sold on exchanges” during the time period Sostack said he bought XRP.
+The parties will meet in court on Jan. 15, 2020.
+The leader in blockchain news, CoinDesk is a media outlet that strives for the highest journalistic standards and abides by a strict set of editorial policies . CoinDesk is an independent operating subsidiary of Digital Currency Group, which invests in cryptocurrencies and blockchain startups.

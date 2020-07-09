@@ -1,0 +1,15 @@
+Drones carrying soap bubbles may help pollinate flowers where bees cannot: Study
+Researchers combined an automatic bubble maker that blew 5,000 bubbles per minute with a GPS-controlled drone to create the robotic pollinator.
+The decline in active bee populations in the past decade has prompted researchers have been looking at different ways of achieving pollination.
+Soap bubbles, which facilitated pollination of a pear orchard could actually pollinate fruit-bearing plants, a new study argues. The study conducted by researchers from the Japan Advanced Institute of Science and Technology (JAIST) in Nomi, Japan was published 17 June in the journal iScience .
+According to a Science Daily report on the study, authors have suggested that soap bubbles may present a low-tech complement to robotic pollination technology designed to supplement the work of bees.
+Senior author Eijiro Miyako from JAIST explained that soap bubbles allow effective pollination and assure that the quality of fruits is the same as with conventionally hand-pollinated fruit-bearing plants.
+Miyako had initially tested the ability of a drone to deliver the pollen, but found that it repeatedly damaged flowers. While watching his son play, Miyako had a moment of clarity.
+A majestic bubble approaches a Campanula flower to pollinate it in a lab test. Image: Eijiro Miyako/Science
+Speaking to BBC , he said that while playing soap bubbles with his son one of the bubbles accidently hit his son's face.
+"There was no damage because soap bubbles are soft, light, and flexible," he said. "But I got an inspiration because I thought the bubbles won't damage the flowers and would be an ideal material for pollination."
+"In comparison with other types of remote pollination, functional soap bubbles have innovative potentiality and unique properties, such as effective and convenient delivery of pollen grains to targeted flowers and high flexibility to avoid damaging them," Miyako told BBC .
+Miyako and colleagues started testing various surfactants and picked one that had the least effect on germination, According to a report in Science Mag .
+In subsequent lab tests, they bombarded pear flowers with pollen-laden bubbles and found that when the pollen landed on the pistil, the female reproductive part, and the grains grew pollen tubes. Subsequent studies by authors found that when they used a toy bubble gun to blow pollen-laden bubbles on flowers in three trees, it showed that the resulting fruit was just as good as that of flowers that had been pollinated by hand.
+The researchers combined an automatic bubble maker that produced about 5,000 bubbles per minute with a GPS-controlled drone to create a robotic pollinator.
+When bubbles were shot on to fake lilies, with the movement of the drones fairly slow, researchers found that the pollination showed an 87 percent success rate , indicating that a drone with a soap bubble maker could successfully pollinate flowers.

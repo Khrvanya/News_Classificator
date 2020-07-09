@@ -1,0 +1,13 @@
+Open interest hovers around $237 million with trajectory clearly pointing to a fresh record coming in January, with volume at three-month highs.
+Bitcoin ( BTC ) derivatives trading looks set to reach record levels this month as volume spikes and open interest hovers near all-time highs.
+Data from CME Group shows that as of Jan. 16, open interest for its futures products alone totaled 5,328 contracts — or 26,640 BTC ($237 million).
+The figure is higher than any monthly close CME has seen since it debuted in December 2017, with July 2019 currently in the lead with 5,252 contracts.
+Open interest did surpass current levels earlier in January, reaching around 5,400 according to the latest data from United States regulator the Commodity Futures Trading Commission, or CFTC , published on Jan. 7.
+As Cointelegraph reported , futures offerings have received significant attention from both investors and commentators as new participants appeared to fuel a Bitcoin price rise in 2020.
+Bitcoin futures 1-month overall volume. Source: Skew Markets/ Twitter
+As BTC/USD accelerated towards $9,000 this week, overall futures trading volume likewise saw a significant uptick. According to unofficial data from monitoring resource Skew Markets , worldwide volume hit $25 billion — the most since late October.
+“I think that's a strong signal indicating that we're reversing now and probably have bottomed out,” regular Cointelegraph contributor Michaël van de Poppe commented about the latest data.
+CME launched a new product in the form of options on Bitcoin futures earlier in January. The release came just days after competitor FTX did likewise .
+The company said it considered the options a “success” as volumes reached 275 BTC by day two.
+Catering to long-term demand from institutional investors has long been a preoccupation for cryptocurrency businesses. In its 2019 retrospective this week, venture capital giant Grayscale revealed annual investment totals of over $1 billion .
+A record for the firm, executives announced they now it was “clear” that the industry was seeing institutional adoption.

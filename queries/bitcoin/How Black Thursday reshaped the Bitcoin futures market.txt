@@ -1,0 +1,12 @@
+Black Thursday will be remembered for many things. But for crypto investors, the March 12 crash has dramatically changed the landscape of Bitcoin derivatives.
+BitMEX is platform for trading Bitcoin. Image: Shutterstock.
+Following the Black Thursday market crash, Bitmex, once the king of Bitcoin futures, has lost market share.
+The Bitcoin derivatives market landscape is changing, and Binance is now emerging as the new leader.
+If the trend continues, will we see a more evenly distributed market? Or will Binance replace Bitmex as the dominate player?
+Bitcoin’s precipitous price drop on Black Thursday dramatically shifted market share distribution in the Bitcoin futures landscape.
+A report today from the crypto research firm Coin Metrics confirms what Bitcoin market professionals had previously told Decrypt: The Bitcoin futures market has been fundamentally altered by one of the worst days in the history of global markets.
+Black Thursday was a defining blow in a fight for market share among crypto exchanges that began in 2019, which precipitated the struggle for control over the Bitcoin futures market once dominated by the Seychelles-based Bitmex.
+The Bitcoin Mercantile Exchange (more commonly known as Bitmex) was the first exchange of its kind when it launched in 2014; the nascent Bitcoin market now had a derivatives platform. Bitmex positioned itself as the leader in Bitcoin futures, once settling billions of dollars in contracts daily during peak volume, until OKex, Huobi and, most notably, Binance began eating into its market share.
+And in the fallout of Black Thursday, Bitmex has now decisively lost its share of the market to Binance, who continues to make moves into Bitcoin derivatives.
+This may have a significant impact on the Bitcoin market landscape, according to Coin Metrics, considering “Bitmex’s outsized influence on price discovery.”
+Indeed, the report detailed how the price of Bitcoin rose after Bitmex experienced a DDoS attack on Black Thursday, which rendered its services inaccessible. Before the DDoS attack grounded Bitmex’s trading engine to a halt, its liquidation features— an insurance policy that auto-liquidates certain positions to offset losses on the platform—likely had trouble keeping up with liquidations as the price tanked; this created a cycle of cascading sell orders that may have driven prices down further.

@@ -1,0 +1,8 @@
+Decentralized cryptocurrency exchanges based on the Ethereum blockchain platform recorded all-time high transaction volumes in February, according to data from Dune Analytics.
+The decentralized exchanges, better known by the acronym DEX, recorded $372.2 million in transaction volume in the month, as first reported by The Block, up 62% from January's $229.2 million.
+The highest ever transaction volume recorded by the DEXs, according to Dune Analytics, ahead of February was the $358.5 million posted in July last year.
+DEXs allow peer-to-peer trading of cryptocurrencies without intervention or moderation from centralized authorities. Such exchanges also typically have lesser know-your-customer requirements. Despite the fact that DEXs embody the very sense of the crypto industry, they have failed to attract a lot of volume compared to centralized exchanges.
+The TRON network-based decentralized exchange desk of Poloniex, for example, recorded $501,732 in volume in the last seven days, according to Dapp.com , less than 0.1% of the $503 million transaction volume recorded on the centralized exchange.
+Seven out of the ten largest decentralized cryptocurrency exchanges are based on the Ethereum protocol, according to data from Dapp.com, including dYdX, Kyber Network, and Uniswap.
+Ethereum (ETH) traded 0.24% higher at $221.33 at press time on Monday. Bitcoin (BTC) was up 0.98% at $8,653.03.
+© 2020 Benzinga.com. Benzinga does not provide investment advice. All rights reserved.

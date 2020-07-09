@@ -1,0 +1,21 @@
+The Stantinko botnet, which is thought to have infected at least 500,000 devices worldwide, has now added cryptomining to its toolset — and it’s been using YouTube to evade detection.
+According to researchers at cybersecurity solutions provider ESET , the botnet’s operators are now distributing a module which mines privacy-focused coin Monero.
+The botnet, which is known to have been active since at least 2012 and typically targets users in Russia, Ukraine, Belarus and Kazakhstan, had previously resorted to other methods, including click fraud, ad injection, social network fraud, and password stealing attacks to generate income.
+ESET researchers say that the module’s most notable feature is how it obfuscates itself to thwart analysis and avoid detection.
+“Due to the use of source level obfuscations with a grain of randomness and the fact that Stantinko’s operators compile this module for each new victim, each sample of the module is unique,” they explained.
+The botnet’s cryptomining module is a highly modified version of the xmr-stak open-source cryptominer, researchers noted.
+The botnet‘s creators have even removed certain functionality from the malware in a bid evade detection.
+“The remaining strings and functions are heavily obfuscated. ESET security products detect this malware as Win{32,64}/CoinMiner.Stantinko,” the researchers added.
+Interestingly, CoinMiner.Stantinko doesn’t communicate directly with its mining pool , instead it uses proxies whose IP addresses are acquired from the description text of YouTube videos.
+ESET says it alerted YouTube of this abuse; and all the channels containing these videos have now been taken down.
+“At the very core of the cryptomining function lies the process of hashing, and communication with the proxy […] CoinMiner.Stantinko sets the communication with the first mining proxy it finds alive,” the researchers said.
+Then, the code of the hashing algorithm is downloaded from the mining proxy at the beginning of the communication and loaded into memory.
+By downloading the hashing code with each execution, the Stantinko group is able to change this code on the move.
+“This change makes it possible, for example, to adapt to adjustments of algorithms in existing currencies and to switch to mining other cryptocurrencies in order, perhaps, to mine the most profitable cryptocurrency at the moment of execution,” explained the researchers.
+“The main benefit of downloading the core part of the module from a remote server and loading it directly into memory is that this part of the code is never stored on disk. This additional adjustment is aimed at complicating detection because patterns in these algorithms are trivial for security products to detect,” they added.
+For now, analysis undertaken by ESET’s researches shows that all instances of Stantinko’s cryptomining module mine Monero.
+They’ve reached this conclusions by looking at the jobs provided by the mining proxy and the hashing algorithm:
+Example mining job received from a mining pool proxy. Courtesy of ESET.
+But, it’s worth noting that there are several other cryptocurrencies that use this algorithm, meaning its recognition is not enough. It simply just shortens the list.
+“Unlike the rest of CoinMiner.Stantinko, the hashing algorithm isn’t obfuscated, since obfuscation would significantly impair the speed of hash calculation and hence overall performance and profitability. However, the authors still made sure not to leave any meaningful strings or artefacts behind,” they concluded.
+Do you want to get the sassiest daily tech newsletter every day, in your inbox, for FREE? Of course you do: sign up for Big Spam here .

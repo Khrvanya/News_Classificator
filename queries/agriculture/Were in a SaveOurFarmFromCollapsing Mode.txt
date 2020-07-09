@@ -1,0 +1,2526 @@
+{"@context":"http://schema.org","@type":"NewsArticle","articleSection":"Food","dateCreated":"2020-04-12T13:00:00+00:00","headline":"“We’re in a Save-Our-Farm-From-Collapsing Mode”","url":"https://slate.com/human-interest/2020/04/csa-farmers-markets-coronavirus-demand-rise.html","thumbnailUrl":"https://compote.slate.com/images/c726741d-7b54-4d42-99b7-f59603f6d62e.jpeg?width=780&height=520&rect=3000x2000&offset=0x0","keywords":["coronavirus","farming","economy","redux","Section:human-interest","AdNode:human_interest/food"],"datePublished":"2020-04-12T13:00:00+00:00","image":"https://compote.slate.com/images/c726741d-7b54-4d42-99b7-f59603f6d62e.jpeg?width=780&height=520&rect=3000x2000&offset=0x0","publisher":{"@type":"Organization","name":"Slate","logo":{"@type":"ImageObject","url":"https://slate.com/media/sites/slate-com/icon.400x400.png"}},"author":{"@type":"Person","name":"Chloe Hadavas"},"about":"Farmers can’t keep up with surging demand for local produce, but they’re still struggling to replace lost revenue."}
+            window.AS_OIL.CONFIG = {"timeout":0,"config_version":2,"advanced_settings":false,"advanced_settings_purposes_default":false,"publicPath":"https://slate.com/media/components/oil/","preview_mode":false,"cookie_expires_in_days":390,"default_to_optin":true,"customVendorListUrl":"https://slate.com/media/components/oil/customvendorlist.json","poi_activate_poi":true,"poi_hub_origin":"https://slate.com","poi_hub_path":"/media/components/oil/hub.html","poi_subscriber_set_cookie":true,"poi_group_name":"Slate","locale":{"localeId":"enEN_01","version":1,"texts":{"label_intro_heading":"We Use Cookies and Related Technology","label_intro":"Slate and our <a href=\"https://slate.com/thirdpartypartners\"> partners </a> use cookies and related technology to deliver relevant advertising on our site, in emails and across the Internet. We and our partners also use these technologies to personalize content and perform site analytics. You can change your mind and choices at any time by accessing your <a  class=\"as-js-advanced-settings\" >Settings</a>. For more information, see our <a href=\"https://slate.com/terms\">terms</a> and <a href=\"https://slate.com/privacy\">privacy policy</a>.","label_button_advanced_settings":"No, take me to settings","label_button_yes":"OK","label_cpc_activate_all":"Turn on all","label_cpc_deactivate_all":"Turn off all","label_cpc_purpose_01_text":"Information storage and access","label_cpc_purpose_01_desc":"The storage of information, or access to information that is already stored, on your device such as advertising identifiers, device identifiers, cookies, and similar technologies.","label_cpc_purpose_02_text":"Personalization","label_cpc_purpose_02_desc":"The collection and processing of information about your use of this service to subsequently personalize advertising and/or content for you in other contexts, such as on other websites or apps, over time. Typically, the content of the site or app is used to make inferences about your interests, which inform future selection of advertising and/or content.","label_cpc_purpose_03_text":"Ad selection, delivery, reporting","label_cpc_purpose_03_desc":"The collection of information, and combination with previously collected information, to select and deliver advertisements for you, and to measure the delivery and effectiveness of such advertisements. This includes using previously collected information about your interests to select ads, processing data about what advertisements were shown, how often they were shown, when and where they were shown, and whether you took any action related to the advertisement, including for example clicking an ad or making a purchase. This does not include personalization, which is the collection and processing of information about your use of this service to subsequently personalize advertising and/or content for you in other contexts, such as websites or apps, over time.","label_cpc_purpose_04_text":"Content selection, delivery, reporting","label_cpc_purpose_04_desc":"The collection of information, and combination with previously collected information, to select and deliver content for you, and to measure the delivery and effectiveness of such content. This includes using previously collected information about your interests to select content, processing data about what content was shown, how often or how long it was shown, when and where it was shown, and whether the you took any action related to the content, including for example clicking on content. This does not include personalization, which is the collection and processing of information about your use of this service to subsequently personalize content and/or advertising for you in other contexts, such as websites or apps, over time.","label_cpc_purpose_05_text":"Measurement","label_cpc_purpose_05_desc":"The collection of information about your use of the content, and combination with previously collected information, used to measure, understand, and report on your usage of the service. This does not include personalization, the collection of information about your use of this service to subsequently personalize content and/or advertising for you in other contexts, i.e. on other service, such as websites or apps, over time.","label_cpc_heading":"Privacy settings:","label_cpc_purpose_desc":"Purposes","label_button_back":"Back","label_third_party":"IAB 3rd Parties","label_custom_thirdparty_heading":"Publisher 3rd Parties","iabVendorListUrl":"https://vendorlist.consensu.org/vendorlist.json"}}};
+    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.defer = true;
+  if (domEventData) return domEventData;
+ * This function wraps the call to amplitude's logEvent method, but always looks for and adds the data in
+var track = function track(event, properties, callback) {
+var page = function page(properties, callback) {
+  amplitude.getInstance().logEvent("Loaded a Page", properties, callback);
+window.modules["2"] = [function(require,module,exports){/* globals document: false */
+  var enabled = tempAd.offsetHeight === 0;
+  var isMember = false;
+  var myslateUrl = document.documentElement.dataset.myslateurl;
+  for (var i = 0; i < podcastsList.length; i++) {
+  for (var i = 0; i < shareLinks.length; i++) {
+  var el = this;
+  var platform = el.dataset.share;
+  var shareURL = el.href;
+  var dropdownEl = el.matches(dropdownSelector) ? el : el.querySelector(dropdownSelector); // some views have conditional dropdowns, e.g. based on whether the user is logged in
+  }; // let listeners = 0;
+    } // console.debug("listeners", --listeners); // should always settle at zero!
+function _slicedToArray(arr, i) { return _arrayWithHoles(arr) || _iterableToArrayLimit(arr, i) || _nonIterableRest(); }
+function _iterableToArrayLimit(arr, i) { if (!(Symbol.iterator in Object(arr) || Object.prototype.toString.call(arr) === "[object Arguments]")) { return; } var _arr = []; var _n = true; var _d = false; var _e = undefined; try { for (var _i = arr[Symbol.iterator](), _s; !(_n = (_s = _i.next()).done); _n = true) { _arr.push(_s.value); if (i && _arr.length === i) break; } } catch (err) { _d = true; _e = err; } finally { try { if (!_n && _i["return"] != null) _i["return"](); } finally { if (_d) throw _e; } } return _arr; }
+function _arrayWithHoles(arr) { if (Array.isArray(arr)) return arr; }
+function ownKeys(object, enumerableOnly) { var keys = Object.keys(object); if (Object.getOwnPropertySymbols) { var symbols = Object.getOwnPropertySymbols(object); if (enumerableOnly) symbols = symbols.filter(function (sym) { return Object.getOwnPropertyDescriptor(object, sym).enumerable; }); keys.push.apply(keys, symbols); } return keys; }
+function _objectSpread(target) { for (var i = 1; i < arguments.length; i++) { var source = arguments[i] != null ? arguments[i] : {}; if (i % 2) { ownKeys(Object(source), true).forEach(function (key) { _defineProperty(target, key, source[key]); }); } else if (Object.getOwnPropertyDescriptors) { Object.defineProperties(target, Object.getOwnPropertyDescriptors(source)); } else { ownKeys(Object(source)).forEach(function (key) { Object.defineProperty(target, key, Object.getOwnPropertyDescriptor(source, key)); }); } } return target; }
+function _defineProperty(obj, key, value) { if (key in obj) { Object.defineProperty(obj, key, { value: value, enumerable: true, configurable: true, writable: true }); } else { obj[key] = value; } return obj; }
+    if (newParams) url.search = updateParams(url.search, newParams);
+  var updatedParams = new URLSearchParams(_objectSpread({}, oldParamsObj, {}, newParams));
+ * Converts a string like "?foo=1&bar=2" into { foo: 1, bar: 2 }
+  var _iteratorNormalCompletion = true;
+  var _didIteratorError = false;
+  var _iteratorError = undefined;
+    for (var _iterator = params[Symbol.iterator](), _step; !(_iteratorNormalCompletion = (_step = _iterator.next()).done); _iteratorNormalCompletion = true) {
+      var _step$value = _slicedToArray(_step.value, 2),
+ * `undefined`, the `defaultValue` is returned in its place.
+ * @param {Object} object The object to query.
+ * @param {Array|string} path The path of the property to get.
+ * @param {*} [defaultValue] The value returned for `undefined` resolved values.
+ * @returns {*} Returns the resolved value.
+  var result = object == null ? undefined : baseGet(object, path);
+  return result === undefined ? defaultValue : result;
+		var OldCookies = window.Cookies;
+		var i = 0;
+		for (; i < arguments.length; i++) {
+				stringifiedAttributes += '; ' + attributeName;
+				// Considers RFC 6265 section 5.2:
+				// Consume the characters of the unparsed-attributes up to,
+				// not including, the first %x3B (";") character.
+			// in case there are no cookies at all.
+			var i = 0;
+			for (; i < cookies.length; i++) {
+					cookie = (converter.read || converter)(cookie, name) ||
+			return key ? jar[key] : jar;
+		api.remove = function (key, attributes) {
+    for (i = 0; i < args.length; i++) {
+        return args[i]; //do not cast to jq, because we can't assume that it exists
+          // event is defined on the component el, e.g. 'click'
+          // event is defined on a child el, e.g. 'div a click'
+          for (i = 0; i < elList.length; i++) {
+   * Basically any kind of stand-alone singleton.
+    var service = new (Function.prototype.bind.apply(definition, [null].concat(dependencies)));
+   * Mimics both AngularJS controllers and directives, since we don't need double-binding or scopes
+      controller = new (Function.prototype.bind.apply(constructor, [null].concat(instanceArguments)));
+    //we handle event registration, ala Marionette
+   * NOTE: Visitor pattern.  Can jump from module to module, do not reference 'this'.
+    for (i = 0; i < dependencies.length; i++) {
+     * Only create if exists in DOM.  Has distinct graphical attachment.  Scope represents container for thing on the
+  // support for es2015 module strictness (this will be undefined, so explicitly add it to window)
+// Copyright(c) 2010-2012 Jeremy Ashkenas, DocumentCloud
+// to an event; trigger`-ing an event fires all callbacks in succession.
+   //  global[name] = definition(name, global);
+    // Save the previous value of the `Eventify` variable.
+    // Run Eventify in *noConflict* mode, returning the `Eventify`
+    // variable to its previous owner. Returns a reference to
+    // the Eventify object.
+    idCounter = idCounter + 1;
+    return prefix ? prefix + id : id;
+    var ran = false,
+    // by your application and you want a different name. For example:
+    // Create a safe reference to the Eventify object for use below.
+    // Bind an event to a `callback` function. Passing `"all"` will bind
+    // the callback to all events fired.
+    // Bind an event to only be triggered a single time. After the first time
+    // the callback is invoked, it will be removed.
+      var self = this,
+    // Remove one or many callbacks. If `context` is null, removes all
+    // callbacks with that function. If `callback` is null, removes all
+    // callbacks for the event. If `name` is null, removes all bound
+    // callbacks for all events.
+      if (!this._events || !eventsApi(this, 'off', name, [callback, context])) {
+      for (i = 0, l = names.length; i < l; i += 1) {
+            for (j = 0, k = events.length; j < k; j += 1) {
+    // Trigger one or many events, firing all bound callbacks. Callbacks are
+    // passed the same arguments as `trigger` is, apart from the event name
+      // #6 arguments should not be leaked in order to allow V8 optimizations.
+    // to every object it's currently listening to.
+      deleteListener = !name && !callback;
+  // names `"change blur"` and jQuery-style event maps `{change: action}`
+  // in terms of the existing API.
+    // Handle event maps.
+    // Handle space separated event names.
+      for (i = 0, l = names.length; i < l; i += 1) {
+    Eventify.prototype[method] = function (obj, name, callback) {
+  // backwards-compatibility for the old `require()` API. If we're in
+  // the browser, add `Eventify` as a global object via a string identifier,
+  // for Closure Compiler "advanced" mode.
+  // Adds the methods on, off and trigger to a target Object
+    for (i = 0, len = methods.length; i < len; i = i + 1) {
+  // Establish the root object, `window` in the browser,
+  // or `global` on the server.
+ * every `wait` milliseconds. The throttled function comes with a `cancel`
+ * immediately invoke them. Provide `options` to indicate whether `func`
+ * result of the last `func` invocation.
+ * is invoked more than once during the `wait` timeout.
+ * until to the next tick, similar to `setTimeout` with a timeout of `0`.
+ * @param {Function} func The function to throttle.
+ * @param {number} [wait=0] The number of milliseconds to throttle invocations to.
+ * @param {Object} [options={}] The options object.
+ *  Specify invoking on the leading edge of the timeout.
+ *  Specify invoking on the trailing edge of the timeout.
+ * @returns {Function} Returns the new throttled function.
+ * // Avoid excessively updating the position while scrolling.
+ * // Invoke `renewToken` when the click event is fired, but not more than once every 5 minutes.
+ * var throttled = _.throttle(renewToken, 300000, { 'trailing': false });
+ * // Cancel the trailing throttled invocation.
+  var leading = true,
+    leading = 'leading' in options ? !!options.leading : leading;
+    trailing = 'trailing' in options ? !!options.trailing : trailing;
+ * Creates a function that is restricted to invoking `func` once. Repeat calls
+ * to the function return the value of the first invocation. The `func` is
+ * invoked with the `this` binding and arguments of the created function.
+ * @param {Function} func The function to restrict.
+ * @returns {Function} Returns the new restricted function.
+ * truthy for. The predicate is invoked with two arguments: (value, key).
+ * @param {Object} object The source object.
+ * @param {Function} [predicate=_.identity] The function invoked per property.
+ * @returns {Object} Returns the new object.
+ * var object = { 'a': 1, 'b': '2', 'c': 3 };
+ * // => { 'a': 1, 'c': 3 }
+	var lazySizes = factory(window, window.document);
+	var docElem = document.documentElement;
+	var Date = window.Date;
+	var supportPicture = window.HTMLPictureElement;
+	var setTimeout = window.setTimeout;
+	var requestAnimationFrame = window.requestAnimationFrame || setTimeout;
+	var requestIdleCallback = window.requestIdleCallback;
+	var regPicture = /^picture$/i;
+	var forEach = Array.prototype.forEach;
+	var hasClass = function(ele, cls) {
+	var addClass = function(ele, cls) {
+	var removeClass = function(ele, cls) {
+			ele.setAttribute('class', (ele[_getAttribute]('class') || '').replace(reg, ' '));
+	var addRemoveLoadEvents = function(dom, fn, add){
+	var triggerEvent = function(elem, name, detail, noBubbles, noCancelable){
+	var updatePolyfill = function (el, full){
+	var getCSS = function (elem, style){
+	var getWidth = function(elem, parent, width){
+		width = width || elem.offsetWidth;
+		var fns = firstFns;
+			var runFns = fns;
+			fns = firstFns.length ? secondFns : firstFns;
+		var rafBatch = function(fn, queue){
+	var rAFIt = function(fn, simple){
+				var that = this;
+				var args = arguments;
+		var lastTime = 0;
+		var gDelay = lazySizesConfig.throttleDelay;
+		var rICTimeout = lazySizesConfig.ricTimeout;
+		var wait = 99;
+			var last = Date.now() - timestamp;
+		var regImg = /^img$/i;
+		var regIframe = /^iframe$/i;
+		var shrinkExpand = 0;
+		var currentExpand = 0;
+		var isLoading = 0;
+		var lowRuns = -1;
+			return isBodyHidden || (getCSS(elem.parentNode, 'visibility') != 'hidden' && getCSS(elem, 'visibility') != 'hidden');
+		var isNestedVisible = function(elem, elemExpand){
+			var parent = elem;
+			var lazyloadElems = lazysizes.elements;
+				preloadExpand = defaultExpand * lazySizesConfig.expFactor;
+				for(; i < eLlen; i++){
+						elvH = innerHeight + elemExpand;
+						elemNegativeExpand = elemExpand * -1;
+			var elem = e.target;
+		var changeIframeSrc = function(elem, src){
+		var lazyUnveil = rAFIt(function (elem, detail, isAuto, sizes, isImg){
+				// Part of this can be removed as soon as this fix is older: https://bugs.chromium.org/p/chromium/issues/detail?id=7731 (2015)
+				var isLoaded = elem.complete && elem.naturalWidth > 1;
+			//allow using sizes="auto", but don't use. it's invalid. Use data-sizes="auto" or a valid value for sizes instead (i.e.: sizes="80vw")
+			if( (isAuto || !isCompleted) && isImg && (elem[_getAttribute]('src') || elem.srcset) && !elem.complete && !hasClass(elem, lazySizesConfig.errorClass) && hasClass(elem, lazySizesConfig.lazyClass)){return;}
+					new MutationObserver( throttledCheckElements ).observe( docElem, {childList: true, subtree: true, attributes: true} );
+		var sizeElement = rAFIt(function(elem, parent, event, width){
+		var getSizeElement = function (elem, dataAttr, width){
+			var parent = elem.parentNode;
+			var len = autosizesElems.length;
+				for(; i < len; i++){
+  for (var i = 1; i < arguments.length; i++) {
+    var handler = arguments.length > 1 && arguments[1] !== undefined ? arguments[1] : false;
+    var _this = this;
+    for (var _len = arguments.length, args = Array(_len > 1 ? _len - 1 : 0), _key = 1; _key < _len; _key++) {
+    // cache the events, to avoid consequences of mutation
+      // set 'this' context, pass args to handlers
+  var ticking = void 0;
+  var nodes = void 0;
+  var windowHeight = void 0;
+  var dpr = window.devicePixelRatio || window.screen.deviceXDPI / window.screen.logicalXDPI;
+    return window.scrollY || window.pageYOffset;
+    return node.getBoundingClientRect().top + prevLoc;
+    var viewTop = prevLoc;
+    var viewBot = viewTop + windowHeight;
+    var nodeBot = nodeTop + node.offsetHeight;
+    var offset = settings.threshold / 100 * windowHeight;
+    return nodeBot >= viewTop - offset && nodeTop <= viewBot + offset;
+/* Built-in method references that are verified to be native. */
+var freeSelf = typeof self == 'object' && self && self.Object === Object && self;
+/** Used as a reference to the global object. */
+ * @param {Object} object The object to query.
+ * @param {string} key The key of the method to get.
+ * @returns {*} Returns the function if it's native, else `undefined`.
+  var value = getValue(object, key);
+  return baseIsNative(value) ? value : undefined;
+ * Creates a hash object.
+ * @param {Array} [entries] The key-value pairs to cache.
+  var index = -1,
+      length = entries == null ? 0 : entries.length;
+ * Removes `key` and its value from the hash.
+ * @param {Object} hash The hash to modify.
+ * @param {string} key The key of the value to remove.
+ * @returns {boolean} Returns `true` if the entry was removed, else `false`.
+  this.size -= result ? 1 : 0;
+ * Removes all key-value entries from the hash.
+/** Used to stand-in for `undefined` hash values. */
+/** Used for built-in method references. */
+/** Used to check objects for own properties. */
+ * @param {string} key The key of the value to get.
+ * @returns {*} Returns the entry value.
+  var data = this.__data__;
+    return result === HASH_UNDEFINED ? undefined : result;
+  return hasOwnProperty.call(data, key) ? data[key] : undefined;
+/** Used to stand-in for `undefined` hash values. */
+ * @param {string} key The key of the value to set.
+ * @param {*} value The value to set.
+ * @returns {Object} Returns the hash instance.
+  var data = this.__data__;
+  this.size += this.has(key) ? 0 : 1;
+  data[key] = (nativeCreate && value === undefined) ? HASH_UNDEFINED : value;
+/** Used for built-in method references. */
+/** Used to check objects for own properties. */
+ * Checks if a hash value for `key` exists.
+ * @param {string} key The key of the entry to check.
+ * @returns {boolean} Returns `true` if an entry for `key` exists, else `false`.
+  var data = this.__data__;
+  return nativeCreate ? (data[key] !== undefined) : hasOwnProperty.call(data, key);
+ * Creates an list cache object.
+ * @param {Array} [entries] The key-value pairs to cache.
+  var index = -1,
+      length = entries == null ? 0 : entries.length;
+ * Removes all key-value entries from the list cache.
+ * Checks if a list cache value for `key` exists.
+ * @param {string} key The key of the entry to check.
+ * @returns {boolean} Returns `true` if an entry for `key` exists, else `false`.
+ * @param {string} key The key of the value to get.
+ * @returns {*} Returns the entry value.
+  var data = this.__data__,
+ * @param {string} key The key of the value to set.
+ * @param {*} value The value to set.
+ * @returns {Object} Returns the list cache instance.
+  var data = this.__data__,
+/** Used for built-in method references. */
+ * Removes `key` and its value from the list cache.
+ * @param {string} key The key of the value to remove.
+ * @returns {boolean} Returns `true` if the entry was removed, else `false`.
+  var data = this.__data__,
+  var lastIndex = data.length - 1;
+/* Built-in method references that are verified to be native. */
+ * Creates a map cache object to store key-value pairs.
+ * @param {Array} [entries] The key-value pairs to cache.
+  var index = -1,
+      length = entries == null ? 0 : entries.length;
+ * @param {string} key The key of the value to get.
+ * @returns {*} Returns the entry value.
+ * Checks if a map value for `key` exists.
+ * @param {string} key The key of the entry to check.
+ * @returns {boolean} Returns `true` if an entry for `key` exists, else `false`.
+ * @param {string} key The key of the value to set.
+ * @param {*} value The value to set.
+ * @returns {Object} Returns the map cache instance.
+  var data = getMapData(this, key),
+  this.size += data.size == size ? 0 : 1;
+ * Removes `key` and its value from the map.
+ * @param {string} key The key of the value to remove.
+ * @returns {boolean} Returns `true` if the entry was removed, else `false`.
+  var result = getMapData(this, key)['delete'](key);
+  this.size -= result ? 1 : 0;
+ * Removes all key-value entries from the map.
+/* Built-in method references that are verified to be native. */
+/* Built-in method references that are verified to be native. */
+ * Creates an array cache object to store unique values.
+ * @param {Array} [values] The values to cache.
+  var index = -1,
+      length = values == null ? 0 : values.length;
+  this.__data__ = new MapCache;
+SetCache.prototype.add = SetCache.prototype.push = setCacheAdd;
+ * Checks if `value` is in the array cache.
+ * @param {*} value The value to search for.
+ * @returns {number} Returns `true` if `value` is found, else `false`.
+window.modules["516"] = [function(require,module,exports){/** Used to stand-in for `undefined` hash values. */
+ * Adds `value` to the array cache.
+ * @param {*} value The value to cache.
+ * @returns {Object} Returns the cache instance.
+ * Creates a stack cache object to store key-value pairs.
+ * @param {Array} [entries] The key-value pairs to cache.
+ * Removes `key` and its value from the stack.
+ * @param {string} key The key of the value to remove.
+ * @returns {boolean} Returns `true` if the entry was removed, else `false`.
+  var data = this.__data__,
+ * @param {string} key The key of the value to get.
+ * @returns {*} Returns the entry value.
+ * Checks if a stack value for `key` exists.
+ * @param {string} key The key of the entry to check.
+ * @returns {boolean} Returns `true` if an entry for `key` exists, else `false`.
+ * Removes all key-value entries from the stack.
+  this.__data__ = new ListCache;
+/** Used as the size to enable large array optimizations. */
+ * @param {string} key The key of the value to set.
+ * @param {*} value The value to set.
+ * @returns {Object} Returns the stack cache instance.
+  var data = this.__data__;
+    var pairs = data.__data__;
+/* Built-in method references that are verified to be native. */
+ * @param {Array} [array] The array to iterate over.
+ * @param {Function} iteratee The function invoked per iteration.
+  var index = -1,
+      length = array == null ? 0 : array.length;
+ * @param {Array} [array] The array to iterate over.
+ * @param {Function} predicate The function invoked per iteration.
+ * @returns {Array} Returns the new filtered array.
+  var index = -1,
+      length = array == null ? 0 : array.length,
+/** Used for built-in method references. */
+/** Used to check objects for own properties. */
+ * @param {*} value The value to query.
+ * @param {boolean} inherited Specify returning inherited property names.
+ * @returns {Array} Returns the array of property names.
+      skipIndexes = isArr || isArg || isBuff || isType,
+      result = skipIndexes ? baseTimes(value.length, String) : [],
+    if ((inherited || hasOwnProperty.call(value, key)) &&
+           // Safari 9 has enumerable `arguments.length` in strict mode.
+           // Node.js 0.10 has enumerable non-index properties on buffers.
+           // PhantomJS 2 has enumerable non-index properties on typed arrays.
+           // Skip index properties.
+/** Used for built-in method references. */
+/** Used to check objects for own properties. */
+ * Checks if `value` is likely an `arguments` object.
+ * @param {*} value The value to check.
+ * @returns {boolean} Returns `true` if `value` is an `arguments` object,
+ * _.isArguments(function() { return arguments; }());
+var isArguments = baseIsArguments(function() { return arguments; }()) ? baseIsArguments : function(value) {
+  return isObjectLike(value) && hasOwnProperty.call(value, 'callee') &&
+ * Checks if `value` is classified as an `Array` object.
+ * @param {*} value The value to check.
+ * @returns {boolean} Returns `true` if `value` is an array, else `false`.
+var freeExports = typeof exports == 'object' && exports && !exports.nodeType && exports;
+var freeModule = freeExports && typeof module == 'object' && module && !module.nodeType && module;
+var moduleExports = freeModule && freeModule.exports === freeExports;
+var Buffer = moduleExports ? root.Buffer : undefined;
+/* Built-in method references for those with the same name as other `lodash` methods. */
+var nativeIsBuffer = Buffer ? Buffer.isBuffer : undefined;
+ * Checks if `value` is a buffer.
+ * @param {*} value The value to check.
+ * @returns {boolean} Returns `true` if `value` is a buffer, else `false`.
+var isBuffer = nativeIsBuffer || stubFalse;
+window.modules["533"] = [function(require,module,exports){/** Used as references for various `Number` constants. */
+/** Used to detect unsigned integer values. */
+ * Checks if `value` is a valid array-like index.
+ * @param {*} value The value to check.
+ * @param {number} [length=MAX_SAFE_INTEGER] The upper bounds of a valid index.
+ * @returns {boolean} Returns `true` if `value` is a valid index, else `false`.
+  var type = typeof value;
+  length = length == null ? MAX_SAFE_INTEGER : length;
+var nodeIsTypedArray = nodeUtil && nodeUtil.isTypedArray;
+ * Checks if `value` is classified as a typed array.
+ * @param {*} value The value to check.
+ * @returns {boolean} Returns `true` if `value` is a typed array, else `false`.
+var isTypedArray = nodeIsTypedArray ? baseUnary(nodeIsTypedArray) : baseIsTypedArray;
+ * or max array length checks.
+ * @param {Function} iteratee The function invoked per iteration.
+ * @returns {Array} Returns the array of results.
+  var index = -1,
+ * @param {Array} [array] The array to iterate over.
+ * @param {Function} iteratee The function invoked per iteration.
+ * @returns {Array} Returns the new mapped array.
+  var index = -1,
+      length = array == null ? 0 : array.length,
+    result[index] = iteratee(array[index], index, array);
+ * @param {Array} array The array to modify.
+ * @param {Array} values The values to append.
+  var index = -1,
+ * @param {Array} [array] The array to iterate over.
+ * @param {Function} predicate The function invoked per iteration.
+ * @returns {boolean} Returns `true` if any element passes the predicate check,
+  var index = -1,
+      length = array == null ? 0 : array.length;
+ * comparison between two values to determine if they are equivalent.
+ * @param {*} value The value to compare.
+ * @param {*} other The other value to compare.
+ * @returns {boolean} Returns `true` if the values are equivalent, else `false`.
+ * @param {Object} object The object to modify.
+ * @param {string} key The key of the property to assign.
+ * @param {*} value The value to assign.
+/** Used for built-in method references. */
+/** Used to check objects for own properties. */
+ * for equality comparisons.
+ * @param {Object} object The object to modify.
+ * @param {string} key The key of the property to assign.
+ * @param {*} value The value to assign.
+ * Gets the index at which the `key` is found in `array` of key-value pairs.
+ * @param {Array} array The array to inspect.
+ * @param {*} key The key to search for.
+ * @returns {number} Returns the index of the matched value, else `-1`.
+  var length = array.length;
+    var func = getNative(Object, 'defineProperty');
+ * of `Object`. (e.g. arrays, functions, objects, regexes, `new Number(0)`, and `new String('')`)
+ * @param {*} value The value to check.
+ * @returns {boolean} Returns `true` if `value` is an object, else `false`.
+  var type = typeof value;
+ * The base implementation of `_.forEach` without support for iteratee shorthands.
+ * @param {Array|Object} collection The collection to iterate over.
+ * @param {Function} iteratee The function invoked per iteration.
+ * The base implementation of `_.forOwn` without support for iteratee shorthands.
+ * @param {Object} object The object to iterate over.
+ * @param {Function} iteratee The function invoked per iteration.
+  return object && baseFor(object, iteratee, keys);
+ * Creates a `baseEach` or `baseEachRight` function.
+ * @param {Function} eachFunc The function to iterate over a collection.
+ * @param {boolean} [fromRight] Specify iterating from right to left.
+ * @returns {Function} Returns the new base function.
+    var length = collection.length,
+        index = fromRight ? length : -1,
+ * properties returned by `keysFunc` and invokes `iteratee` for each property.
+ * @param {Object} object The object to iterate over.
+ * @param {Function} iteratee The function invoked per iteration.
+ * @param {boolean} [fromRight] Specify iterating from right to left.
+ * @returns {Function} Returns the new base function.
+    var index = -1,
+ * **Note:** Non-object values are coerced to objects. See the
+ * for more details.
+ * @param {Object} object The object to query.
+ * @returns {Array} Returns the array of property names.
+ *   this.a = 1;
+ *   this.b = 2;
+ * Foo.prototype.c = 3;
+ * The base implementation of `_.get` without support for default values.
+ * @param {Object} object The object to query.
+ * @param {Array|string} path The path of the property to get.
+ * @returns {*} Returns the resolved value.
+  var index = 0,
+  return (index && index == length) ? object : undefined;
+/** Used as references for various `Number` constants. */
+var INFINITY = 1 / 0;
+ * Converts `value` to a string key if it's not a string or symbol.
+ * @param {*} value The value to inspect.
+ * @returns {string|symbol} Returns the key.
+  return (result == '0' && (1 / value) == -INFINITY) ? '-0' : result;
+ * Casts `value` to a path array if it's not one.
+ * @param {*} value The value to inspect.
+ * @param {Object} [object] The object to query keys on.
+ * @returns {Array} Returns the cast property path array.
+ * @param {Object} object The object to query.
+ * @returns {Array} Returns the array of property names and symbols.
+  return isArray(object) ? result : arrayPush(result, symbolsFunc(object));
+var symToStringTag = Symbol ? Symbol.toStringTag : undefined;
+ * The base implementation of `getTag` without fallbacks for buggy environments.
+ * @param {*} value The value to query.
+    return value === undefined ? undefinedTag : nullTag;
+window.modules["568"] = [function(require,module,exports){/** Used for built-in method references. */
+ * @param {*} value The value to convert.
+ * @returns {string} Returns the converted string.
+/** Used for built-in method references. */
+/** Used to check objects for own properties. */
+var symToStringTag = Symbol ? Symbol.toStringTag : undefined;
+ * A specialized version of `baseGetTag` which ignores `Symbol.toStringTag` values.
+ * @param {*} value The value to query.
+  var isOwn = hasOwnProperty.call(value, symToStringTag),
+    var unmasked = true;
+ * The base implementation of `_.hasIn` without support for deep paths.
+ * @param {Object} [object] The object to query.
+ * @param {Array|string} key The key to check.
+ * @returns {boolean} Returns `true` if `key` exists, else `false`.
+ * @param {*} value The value to check.
+ * @returns {boolean} Returns `true` if `value` is an `arguments` object,
+  return isObjectLike(value) && baseGetTag(value) == argsTag;
+ * Checks if `value` is object-like. A value is object-like if it's not `null`
+ * @param {*} value The value to check.
+ * @returns {boolean} Returns `true` if `value` is object-like, else `false`.
+ * and tracks traversed objects.
+ * @param {*} value The value to compare.
+ * @param {*} other The other value to compare.
+ * @param {boolean} bitmask The bitmask flags.
+ * @param {Function} [customizer] The function to customize comparisons.
+ * @param {Object} [stack] Tracks traversed `value` and `other` objects.
+ * @returns {boolean} Returns `true` if the values are equivalent, else `false`.
+    return value !== value && other !== other;
+/** Used to compose bitmasks for value comparisons. */
+/** Used for built-in method references. */
+/** Used to check objects for own properties. */
+ * references to be compared.
+ * @param {Object} object The object to compare.
+ * @param {Object} other The other object to compare.
+ * @param {number} bitmask The bitmask flags. See `baseIsEqual` for more details.
+ * @param {Function} customizer The function to customize comparisons.
+ * @param {Function} equalFunc The function to determine equivalents of values.
+ * @param {Object} [stack] Tracks traversed `object` and `other` objects.
+ * @returns {boolean} Returns `true` if the objects are equivalent, else `false`.
+  objTag = objTag == argsTag ? objectTag : objTag;
+  othTag = othTag == argsTag ? objectTag : othTag;
+  var objIsObj = objTag == objectTag,
+      othIsObj = othTag == objectTag,
+      isSameTag = objTag == othTag;
+    var objIsWrapped = objIsObj && hasOwnProperty.call(object, '__wrapped__'),
+        othIsWrapped = othIsObj && hasOwnProperty.call(other, '__wrapped__');
+      var objUnwrapped = objIsWrapped ? object.value() : object,
+          othUnwrapped = othIsWrapped ? other.value() : other;
+/** Used to detect maps, sets, and weakmaps. */
+ * @param {*} value The value to query.
+// Fallback for data views, maps, sets, and weak maps in IE 11 and promises in Node.js < 6.
+        Ctor = result == objectTag ? value.constructor : undefined,
+/** Used to compose bitmasks for value comparisons. */
+/** Used to convert symbols to primitives and strings. */
+var symbolProto = Symbol ? Symbol.prototype : undefined,
+    symbolValueOf = symbolProto ? symbolProto.valueOf : undefined;
+ * @param {Object} object The object to compare.
+ * @param {Object} other The other object to compare.
+ * @param {string} tag The `toStringTag` of the objects to compare.
+ * @param {number} bitmask The bitmask flags. See `baseIsEqual` for more details.
+ * @param {Function} customizer The function to customize comparisons.
+ * @param {Function} equalFunc The function to determine equivalents of values.
+ * @param {Object} stack Tracks traversed `object` and `other` objects.
+ * @returns {boolean} Returns `true` if the objects are equivalent, else `false`.
+      // Coerce booleans to `1` or `0` and dates to milliseconds.
+      return object.name == other.name && object.message == other.message;
+      // Coerce regexes to strings and treat strings, primitives and objects,
+      // for more details.
+      var convert = mapToArray;
+      var isPartial = bitmask & COMPARE_PARTIAL_FLAG;
+      // Assume cyclic values are equal.
+        return stacked == other;
+      var result = equalArrays(convert(object), convert(other), bitmask, customizer, equalFunc, stack);
+/** Used to compose bitmasks for value comparisons. */
+/** Used for built-in method references. */
+/** Used to check objects for own properties. */
+ * partial deep comparisons.
+ * @param {Object} object The object to compare.
+ * @param {Object} other The other object to compare.
+ * @param {number} bitmask The bitmask flags. See `baseIsEqual` for more details.
+ * @param {Function} customizer The function to customize comparisons.
+ * @param {Function} equalFunc The function to determine equivalents of values.
+ * @param {Object} stack Tracks traversed `object` and `other` objects.
+ * @returns {boolean} Returns `true` if the objects are equivalent, else `false`.
+  var isPartial = bitmask & COMPARE_PARTIAL_FLAG,
+  var index = objLength;
+    if (!(isPartial ? key in other : hasOwnProperty.call(other, key))) {
+  // Assume cyclic values are equal.
+    return stacked == other;
+  var result = true;
+  var skipCtor = isPartial;
+          ? (objValue === othValue || equalFunc(objValue, othValue, bitmask, customizer, stack))
+    var objCtor = object.constructor,
+    // Non `Object` object instances with different constructors are not equal.
+/** Used to compose bitmasks for value comparisons. */
+ * partial deep comparisons.
+ * @param {Array} array The array to compare.
+ * @param {Array} other The other array to compare.
+ * @param {number} bitmask The bitmask flags. See `baseIsEqual` for more details.
+ * @param {Function} customizer The function to customize comparisons.
+ * @param {Function} equalFunc The function to determine equivalents of values.
+ * @param {Object} stack Tracks traversed `array` and `other` objects.
+ * @returns {boolean} Returns `true` if the arrays are equivalent, else `false`.
+  var isPartial = bitmask & COMPARE_PARTIAL_FLAG,
+  // Assume cyclic values are equal.
+    return stacked == other;
+  var index = -1,
+      seen = (bitmask & COMPARE_UNORDERED_FLAG) ? new SetCache : undefined;
+  // Ignore non-index properties.
+                (arrValue === othValue || equalFunc(arrValue, othValue, bitmask, customizer, stack))) {
+/** Used to compose bitmasks for value comparisons. */
+ * The base implementation of `_.isMatch` without support for iteratee shorthands.
+ * @param {Object} object The object to inspect.
+ * @param {Object} source The object of property values to match.
+ * @param {Array} matchData The property names, values, and compare flags to match.
+ * @param {Function} [customizer] The function to customize comparisons.
+ * @returns {boolean} Returns `true` if `object` is a match, else `false`.
+  var index = matchData.length,
+      var stack = new Stack;
+        var result = customizer(objValue, srcValue, key, object, source, stack);
+/** Used for built-in method references. */
+/** Used to resolve the decompiled source of functions. */
+/** Used to check objects for own properties. */
+/** Used to detect if a method is native. */
+ * The base implementation of `_.isNative` without bad shim checks.
+ * @param {*} value The value to check.
+ * @returns {boolean} Returns `true` if `value` is a native function,
+  var pattern = isFunction(value) ? reIsNative : reIsHostCtor;
+ * Checks if `value` is classified as a `Function` object.
+ * @param {*} value The value to check.
+ * @returns {boolean} Returns `true` if `value` is a function, else `false`.
+  // in Safari 9 which returns 'object' for typed arrays and other constructors.
+  return tag == funcTag || tag == genTag || tag == asyncTag || tag == proxyTag;
+window.modules["586"] = [function(require,module,exports){/** Used for built-in method references. */
+/** Used to resolve the decompiled source of functions. */
+ * Converts `func` to its source code.
+ * @param {Function} func The function to convert.
+ * @returns {string} Returns the source code.
+/** Used to detect methods masquerading as native. */
+ * Checks if `func` has its source masked.
+ * @param {Function} func The function to check.
+ * @returns {boolean} Returns `true` if `func` is masked, else `false`.
+/** Used to identify `toStringTag` values of typed arrays. */
+ * The base implementation of `_.isTypedArray` without Node.js optimizations.
+ * @param {*} value The value to check.
+ * @returns {boolean} Returns `true` if `value` is a typed array, else `false`.
+window.modules["589"] = [function(require,module,exports){/** Used as references for various `Number` constants. */
+ * Checks if `value` is a valid array-like length.
+ * @param {*} value The value to check.
+ * @returns {boolean} Returns `true` if `value` is a valid length, else `false`.
+    value > -1 && value % 1 == 0 && value <= MAX_SAFE_INTEGER;
+ * @param {*} [value=_.identity] The value to convert to an iteratee.
+ * @returns {Function} Returns the iteratee.
+  // Don't store the `typeof` result in a variable to avoid a JIT bug in Safari 9.
+  // See https://bugs.webkit.org/show_bug.cgi?id=156034 for more details.
+ * This method returns the first argument it receives.
+ * @param {*} value Any value.
+ * Creates a function that returns the value at `path` of a given object.
+ * @param {Array|string} path The path of the property to get.
+ * @returns {Function} Returns the new accessor function.
+ * // => [2, 1]
+ * // => [1, 2]
+ * @param {Object} source The object of property values to match.
+ * @returns {Function} Returns the new spec function.
+    return object === source || baseIsMatch(object, source, matchData);
+/** Used to compose bitmasks for value comparisons. */
+ * @param {string} path The path of the property to get.
+ * @param {*} srcValue The value to match.
+ * @returns {Function} Returns the new spec function.
+    var objValue = get(object, path);
+/** Used for built-in method references. */
+/** Used to check objects for own properties. */
+ * The base implementation of `_.keys` which doesn't treat sparse arrays as dense.
+ * @param {Object} object The object to query.
+ * @returns {Array} Returns the array of property names.
+window.modules["596"] = [function(require,module,exports){/** Used for built-in method references. */
+ * Checks if `value` is likely a prototype object.
+ * @param {*} value The value to check.
+ * @returns {boolean} Returns `true` if `value` is a prototype, else `false`.
+  var Ctor = value && value.constructor,
+      proto = (typeof Ctor == 'function' && Ctor.prototype) || objectProto;
+  return value === proto;
+/* Built-in method references for those with the same name as other `lodash` methods. */
+/** Used for built-in method references. */
+/** Used to check objects for own properties. */
+ * The base implementation of `_.keysIn` which doesn't treat sparse arrays as dense.
+ * @param {Object} object The object to query.
+ * @returns {Array} Returns the array of property names.
+    if (!(key == 'constructor' && (isProto || !hasOwnProperty.call(object, key)))) {
+ * except that it includes inherited enumerable properties.
+ * @param {Object} object The object to query.
+ * @returns {Array} Returns the array of property names.
+ * Checks if `value` is array-like. A value is considered array-like if it's
+ * @param {*} value The value to check.
+ * @returns {boolean} Returns `true` if `value` is array-like, else `false`.
+ * for strict equality comparisons, i.e. `===`.
+ * @param {string} key The key of the property to get.
+ * @param {*} srcValue The value to match.
+ * @returns {Function} Returns the new spec function.
+ * Gets the property names, values, and compare flags of `object`.
+ * @param {Object} object The object to query.
+/** Used to match property names within property paths. */
+ * Checks if `value` is a property name and not a property path.
+ * @param {*} value The value to check.
+ * @param {Object} [object] The object to query keys on.
+ * @returns {boolean} Returns `true` if `value` is a property name, else `false`.
+  var type = typeof value;
+ * Checks if `value` is suitable for strict equality comparisons, i.e. `===`.
+ * @param {*} value The value to check.
+ * @param {Object} object The object to query.
+ * @param {Array|string} path The path to check.
+ * @returns {boolean} Returns `true` if `path` exists, else `false`.
+  return object != null && hasPath(object, path, baseHasIn);
+ * **Note:** Non-object values are coerced to objects.
+ * @param {Object} object The object to query.
+ * @returns {Array} Returns the array of property names.
+ *   this.a = 1;
+ *   this.b = 2;
+ * Foo.prototype.c = 3;
+  return isArrayLike(object) ? arrayLikeKeys(object, true) : baseKeysIn(object);
+ * The base implementation of  `_.pickBy` without support for iteratee shorthands.
+ * @param {Object} object The source object.
+ * @param {string[]} paths The property paths to pick.
+ * @param {Function} predicate The function invoked per property.
+ * @returns {Object} Returns the new object.
+  var index = -1,
+ * @param {Object} object The object to modify.
+ * @param {Array|string} path The path of the property to set.
+ * @param {*} value The value to set.
+ * @param {Function} [customizer] The function to customize path creation.
+  var index = -1,
+      lastIndex = length - 1,
+      newValue = customizer ? customizer(objValue, key, nested) : undefined;
+ * The base implementation of `_.property` without support for deep paths.
+ * @param {string} key The key of the property to get.
+ * @returns {Function} Returns the new accessor function.
+ * A specialized version of `baseProperty` which supports deep paths.
+ * @param {Array|string} path The path of the property to get.
+ * @returns {Function} Returns the new accessor function.
+/** Used as references for various `Number` constants. */
+var INFINITY = 1 / 0;
+/** Used to convert symbols to primitives and strings. */
+var symbolProto = Symbol ? Symbol.prototype : undefined,
+    symbolToString = symbolProto ? symbolProto.toString : undefined;
+ * values to empty strings.
+ * @param {*} value The value to process.
+ * @returns {string} Returns the string.
+  // Exit early for strings to avoid a performance hit in some environments.
+  return (result == '0' && (1 / value) == -INFINITY) ? '-0' : result;
+ * Checks if `value` is classified as a `Symbol` primitive or object.
+ * @param {*} value The value to check.
+ * @returns {boolean} Returns `true` if `value` is a symbol, else `false`.
+ * The base implementation of `_.unary` without support for storing metadata.
+ * @param {Function} func The function to cap arguments for.
+ * @returns {Function} Returns the new capped function.
+ * Checks if a `cache` value for `key` exists.
+ * @param {Object} cache The cache to query.
+ * @param {string} key The key of the entry to check.
+ * @returns {boolean} Returns `true` if an entry for `key` exists, else `false`.
+ * Casts `value` to `identity` if it's not a function.
+ * @param {*} value The value to inspect.
+ * @returns {Function} Returns cast function.
+  return typeof value == 'function' ? value : identity;
+ * Converts `value` to a string. An empty string is returned for `null`
+ * and `undefined` values. The sign of `-0` is preserved.
+ * @param {*} value The value to convert.
+ * @returns {string} Returns the converted string.
+/** Used to match property names within property paths. */
+/** Used to match backslashes in property paths. */
+ * Converts `string` to a property path array.
+ * @param {string} string The string to convert.
+ * @returns {Array} Returns the property path array.
+/** Used to detect overreaching core-js shims. */
+ * Converts `map` to its key-value pairs.
+ * @param {Object} map The map to convert.
+ * @returns {Array} Returns the key-value pairs.
+  var index = -1,
+ * Converts `set` to an array of its values.
+ * @param {Object} set The set to convert.
+ * @returns {Array} Returns the values.
+  var index = -1,
+ * @param {Object} object The object to query.
+ * @returns {Array} Returns the array of property names and symbols.
+/** Detect free variable `global` from Node.js. */
+var freeGlobal = typeof global == 'object' && global && global.Object === Object && global;
+/** Used for built-in method references. */
+/* Built-in method references for those with the same name as other `lodash` methods. */
+ * @param {Object} object The object to query.
+ * @returns {Array} Returns the array of symbols.
+ * @param {Object} object The object to query.
+ * @returns {Array} Returns the array of property names and symbols.
+/* Built-in method references for those with the same name as other `lodash` methods. */
+ * @param {Object} object The object to query.
+ * @returns {Array} Returns the array of symbols.
+ * @param {Object} map The map to query.
+ * @param {string} key The reference key.
+ * @returns {*} Returns the map data.
+  var data = map.__data__;
+ * Checks if `value` is suitable for use as unique object key.
+ * @param {*} value The value to check.
+ * @returns {boolean} Returns `true` if `value` is suitable, else `false`.
+  var type = typeof value;
+ * @param {Object} [object] The object to query.
+ * @param {string} key The key of the property to get.
+ * @returns {*} Returns the property value.
+ * Creates a unary function that invokes `func` with its argument transformed.
+ * @param {Function} func The function to wrap.
+ * @param {Function} transform The argument transform.
+ * @returns {Function} Returns the new function.
+ * This method returns a new empty array.
+ * @returns {Array} Returns the new empty array.
+ * var arrays = _.times(2, _.stubArray);
+ * @param {Object} object The object to query.
+ * @param {Array|string} path The path to check.
+ * @param {Function} hasFunc The function to check properties.
+ * @returns {boolean} Returns `true` if `path` exists, else `false`.
+  var index = -1,
+    if (!(result = object != null && hasFunc(object, key))) {
+  length = object == null ? 0 : object.length;
+  return !!length && isLength(length) && isIndex(key, length) &&
+/* Built-in method references that are verified to be native. */
+/** Used as the maximum memoize cache size. */
+ * @param {Function} func The function to have its output memoized.
+ * @returns {Function} Returns the new memoized function.
+  var result = memoize(func, function(key) {
+  var cache = result.cache;
+ * arguments provided to the memoized function. By default, the first argument
+ * provided to the memoized function is used as the map cache key. The `func`
+ * is invoked with the `this` binding of the memoized function.
+ * @param {Function} func The function to have its output memoized.
+ * @param {Function} [resolver] The function to resolve the cache key.
+ * @returns {Function} Returns the new memoized function.
+ * var object = { 'a': 1, 'b': 2 };
+ * var other = { 'c': 3, 'd': 4 };
+ * // => [1, 2]
+ * // => [3, 4]
+ * object.a = 2;
+ * // => [1, 2]
+ * // Modify the result cache.
+ * _.memoize.Cache = WeakMap;
+    var args = arguments,
+        key = resolver ? resolver.apply(this, args) : args[0],
+    var result = func.apply(this, args);
+var freeExports = typeof exports == 'object' && exports && !exports.nodeType && exports;
+var freeModule = freeExports && typeof module == 'object' && module && !module.nodeType && module;
+var moduleExports = freeModule && freeModule.exports === freeExports;
+/** Detect free variable `process` from Node.js. */
+var freeProcess = moduleExports && freeGlobal.process;
+/** Used to access faster Node.js helpers. */
+    var types = freeModule && freeModule.require && freeModule.require('util').types;
+    // Legacy `process.binding('util')` for Node.js < 10.
+ * of the created function, while it's called less than `n` times. Subsequent
+ * calls to the created function return the result of the last `func` invocation.
+ * @param {number} n The number of calls at which `func` is no longer invoked.
+ * @param {Function} func The function to restrict.
+ * @returns {Function} Returns the new restricted function.
+ * // => Allows adding up to 4 contacts to the list.
+ * Converts `value` to an integer.
+ * @param {*} value The value to convert.
+ * @returns {number} Returns the converted integer.
+      remainder = result % 1;
+  return result === result ? (remainder ? result - remainder : result) : 0;
+/* Built-in method references for those with the same name as other `lodash` methods. */
+ * delayed `func` invocations and a `flush` method to immediately invoke them.
+ * leading and/or trailing edge of the `wait` timeout. The `func` is invoked
+ * with the last arguments provided to the debounced function. Subsequent
+ * is invoked more than once during the `wait` timeout.
+ * until to the next tick, similar to `setTimeout` with a timeout of `0`.
+ * @param {Function} func The function to debounce.
+ * @param {number} [wait=0] The number of milliseconds to delay.
+ * @param {Object} [options={}] The options object.
+ *  Specify invoking on the leading edge of the timeout.
+ *  The maximum time `func` is allowed to be delayed before it's invoked.
+ *  Specify invoking on the trailing edge of the timeout.
+ * @returns {Function} Returns the new debounced function.
+ * // Avoid costly calculations while the window size is in flux.
+ * // Invoke `sendMail` when clicked, debouncing subsequent calls.
+ * // Ensure `batchLog` is invoked once after 1 second of debounced calls.
+ * var debounced = _.debounce(batchLog, 250, { 'maxWait': 1000 });
+ * // Cancel the trailing debounced invocation.
+  wait = toNumber(wait) || 0;
+    maxing = 'maxWait' in options;
+    maxWait = maxing ? nativeMax(toNumber(options.maxWait) || 0, wait) : maxWait;
+    trailing = 'trailing' in options ? !!options.trailing : trailing;
+    var args = lastArgs,
+    lastArgs = lastThis = undefined;
+    // Reset any `maxWait` timer.
+    // Start the timer for the trailing edge.
+    // Invoke the leading edge.
+    return leading ? invokeFunc(time) : result;
+    var timeSinceLastCall = time - lastCallTime,
+        timeSinceLastInvoke = time - lastInvokeTime,
+        timeWaiting = wait - timeSinceLastCall;
+    var timeSinceLastCall = time - lastCallTime,
+        timeSinceLastInvoke = time - lastInvokeTime;
+    // Either this is the first call, activity has stopped and we're at the
+    // it as the trailing edge, or we've hit the `maxWait` limit.
+    // Restart the timer.
+    // debounced at least once.
+    lastArgs = lastThis = undefined;
+    lastArgs = lastCallTime = lastThis = timerId = undefined;
+        // Handle invocations in a tight loop.
+ * @returns {number} Returns the timestamp.
+ * // => Logs the number of milliseconds it took for the deferred invocation.
+/** Used as references for various `Number` constants. */
+var NAN = 0 / 0;
+/** Used to match leading and trailing whitespace. */
+/** Used to detect bad signed hexadecimal string values. */
+/** Used to detect binary string values. */
+/** Used to detect octal string values. */
+ * Converts `value` to a number.
+ * @param {*} value The value to process.
+ * @returns {number} Returns the number.
+    var other = typeof value.valueOf == 'function' ? value.valueOf() : value;
+    value = isObject(other) ? (other + '') : other;
+    return value === 0 ? value : +value;
+ * Iterates over elements of `collection` and invokes `iteratee` for each element.
+ * The iteratee is invoked with three arguments: (value, index|key, collection).
+ * **Note:** As with other "Collections" methods, objects with a "length"
+ * property are iterated like arrays. To avoid this behavior use `_.forIn`
+ * or `_.forOwn` for object iteration.
+ * @param {Array|Object} collection The collection to iterate over.
+ * @param {Function} [iteratee=_.identity] The function invoked per iteration.
+ * _.forEach({ 'a': 1, 'b': 2 }, function(value, key) {
+  var func = isArray(collection) ? arrayEach : baseEach;
+ * // => [false, false]
+/** Used as references for various `Number` constants. */
+var INFINITY = 1 / 0,
+ * Converts `value` to a finite number.
+ * @param {*} value The value to convert.
+ * @returns {number} Returns the converted number.
+    return value === 0 ? value : 0;
+    return sign * MAX_INTEGER;
+  return value === value ? value : 0;
+DS.controller("slate-ad", ["adService", "$visibility", "headerBidding", "adsPlus", function (adService, $visibility, headerBidding) {
+    var visible = new $visibility.Visible(el, {
+          oneDayInMs = 24 * 60 * 60 * 1000,
+          isSponsored = currentTime > sponsorshipStart && currentTime - sponsorshipStart < oneDayInMs;
+  var isRoadblockVisible = articlePaywallData.isRoadblockVisible,
+  var mpv = cookies.getJSON("mpv") ? cookies.getJSON("mpv").pv : 1; // Account for if a user has deleted their cookies
+  var pageTags = slateAmplitude.getDomEventData().tags;
+  var hasExcludedContent = checkExcludedContent(excludedContent, {
+  var commonConditions = [maxMpv !== -1, // A page view limit exists
+    var paywallConditions = mpv >= maxMpv && !hasExcludedContent && !paywallDisabled;
+    var warningConditions = maxMpv - mpv <= 5 && mpv < maxMpv;
+  var isPaywalledOrRoadblocked = arguments.length > 0 && arguments[0] !== undefined ? arguments[0] : false;
+ * Toggle the warning, update its links, and fire the Amplitude event
+ * Toggle the paywall, update its links, and fire the Amplitude event
+  var rubric = _ref.rubric,
+  var hasExcludedTags = checkExcludedTags(excludedContent.tags, pageTags);
+  return hasExcludedTags || hasExcludedRubric;
+  var buttonLink = el.querySelector(".slate-paywall__button").href;
+  var buttonLink = el.querySelector(".slate-paywall__button").href;
+  return adNode.replace("/", "   ").replace(/_/g, " ");
+// todo: should refactor this into a DS.service, especially if we include it anywhere else
+    for (var i = 0; i < sectionLinks.length; ++i) {
+    for (var _i = 0; _i < accountLinks.length; _i++) {
+DS.controller("slate-analytics-js", ["via", "_once", "_throttle", "Cookies", function (via, _once, _throttle, Cookies) {
+  var initialPageViewCount = 0;
+  var RETRY_DELAY = 300,
+   * if it is `undefined`, that means that it was never in the HTML,
+   * so was taken out by the splus or scroll html renderer filters.
+   * if it exists at all, then the view was taboola eligible.
+    return isTaboolaEligible() && window._taboola.registered !== undefined;
+    return window._taboola !== undefined;
+    var nodeList = document.body.querySelectorAll( // not a perfect test of the apex domain, we'll verify just below
+    'a[href*="amazon"]'); // todo: use `Array.from` to simplify this a bit, when we drop support for IE
+    for (var i = 0; i < nodeList.length; i++) {
+      var a = nodeList[i]; // double-check that "amazon" is in the domain, and it's not internal to a product component
+    var pv = pageViewCookie.pv,
+      pv = pv + 1;
+    var domain = document.documentElement.dataset.trackingdomain;
+   * Given the <script> element for the amplitude component,
+   * hit the Amplitude APlog the page view.
+   * with a RETRY_DELAY delay, because the device ID isn't
+   * available right away.
+   * If the device ID isn't found after RETRY_LIMIT times,
+   * then log the page view without the device ID.
+  // returns the component element, or `undefined` if it can't be found or verified
+      var uri = component.dataset.uri;
+    var pageType = el.dataset.pagetype;
+        pageviewProperties["Slate Plus Button Component"] = slatePlusButton.innerText;
+    slateAmplitude.page(pageviewProperties); // after the pageview was logged, trim the "via" from the url to prevent _users from sharing it
+    var isScrollUser = window.Scroll && Scroll.config.detected;
+      var scrollY = "scrollY" in window ? window.scrollY : window.pageYOffset; // non-standard prop for IE11
+// recirc component needs to be before the first graf to align properly when floated,
+    this.el = el; // if the recirc component is in its initial position, directly above the first graf
+    // and has not been manually re-located by copy/production, then spring into action
+    var p1 = el.nextElementSibling;
+      this.updatePosition(); // using setTimeout because it seems necessary for mqs in css to propagate?
+    // when this query finds the element immediately following the recirc,
+    // given a parent node, find the first suitable child element
+      var refCount = 0;
+      var numSibs = this.el.parentNode.children.length;
+      var ref = this.el.parentNode.firstElementChild;
+      for (var i = 0; i < numSibs; i++) {
+        if (refCount === 2) break;
+      var isMobile = !window.matchMedia("(min-width: 1024px)").matches;
+      var el = this.el;
+      var parent = el.parentNode;
+        // if a suitable reference node couldn't be determined, hide recirc on mobile;
+        // and the beginning of the chumbox, and recirc isn't really article content,
+        // so we should try to ensure that recirc is not the last thing on the page.
+    // Amplitude is loaded later, so we have to queue our identify call
+        var amplitudeId = window.amplitude.getInstance().options.deviceId;
+      var pageView = localStorage.pageview || 0;
+      return; // we can't access storage to keep track of pageviews, bail out
+      } catch (e) {// swallow the error, users may disable storage access after the component is constructed
+      return (pageView - 2) % 3 === 0;
+    var _this = this;
+      var button = e.target,
+  } // Temp patch on issue that affected ads. This is not permanent business logic.
+  if (navigator.vendor === "Apple Computer, Inc.") {
+      var _iteratorNormalCompletion = true;
+      var _didIteratorError = false;
+      var _iteratorError = undefined;
+        for (var _iterator = registrations[Symbol.iterator](), _step; !(_iteratorNormalCompletion = (_step = _iterator.next()).done); _iteratorNormalCompletion = true) {
+          var reg = _step.value;
+          var valid = reg && reg.active && reg.active.scriptURL;
+window.modules["aaa-module-mounting.legacy"] = [function(require,module,exports){'use strict'; // blame somebody else for this shit: https://github.com/nymag/sites/blame/master/global/js/aaa-module-mounting.js
+// Note: this mounts before all client.js files, so legacy client controllers may call DS.controller()
+ * Mount all Dollar Slice components.
+  // search page for components, and instantiate their controllers
+  DS.service('components', ['$document', '$module', function ($document, $module) {
+    var controllers = _pickBy($module.definitions, function (definition) {
+      return definition.providerStrategy === $module.providers.controller;
+        list = Object.keys(controllers); // for each component on the page, loop through the instances and kickoff the controller
+  }]); // other components might want to interact with our service, but we'll start it here.
+ * Log an error mounting the client script for the specified element.
+  // element tag will be the full contents of the component's tag such as:
+  var elementTag = el.outerHTML.slice(0, el.outerHTML.indexOf(el.innerHTML));
+  console.error('Error attaching controller to ' + elementTag, error);
+DS.service("adService", ["$window", "headerBidding", "$visibility", function ($window, headerBidding, $visibility) {
+      var slot = event.slot;
+   * If it is, request new ad from the DFP
+    var refreshInterval = 30000;
+    // Nonstandard ad sizes, not allowed to refresh
+    return size !== teadsSize && size !== nativeSize && size !== customSize && size !== podcastTextAdSize;
+    return value === "true" ? true : false;
+    return networkCode + "/" + platform + "/" + adNode;
+    var html = window.document.documentElement,
+      pbjs.addAdUnits([prebidAdUnit]); // cache a reference to the ad data at this time,
+      var data = adData;
+        timeout = prebidTimeout ? prebidTimeout : 800,
+        // cache a reference to the ad data at this time,
+  } // gpt slot is defined here, after header bidding, because we don't
+  // this function will be called from amazon callback, prebid callback and after timeout
+    var isMobile = window.innerWidth < 768,
+      for (var i = 0; i < adData.prebidSizes.length; i++) {
+        // therefore if this is mobile leaderboard, include kargo
+    return isOutstreamSlot && !isMember;
+    return document.cookie.indexOf("GDPR_consent=1") > -1;
+      pSegs = JSON.parse(window.localStorage._papns || "[]").slice(0, 250).map(String);
+function _typeof(obj) { if (typeof Symbol === "function" && typeof Symbol.iterator === "symbol") { _typeof = function _typeof(obj) { return typeof obj; }; } else { _typeof = function _typeof(obj) { return obj && typeof Symbol === "function" && obj.constructor === Symbol && obj !== Symbol.prototype ? "symbol" : typeof obj; }; } return _typeof(obj); }
+  var s = window.pbjsChunk;
+  window.pbjsChunk = function (e, t, n) {
+    for (var r, o, i, a = 0, c = []; a < e.length; a++) {
+      o = e[a], d[o] && c.push(d[o][0]), d[o] = 0;
+    for (s && s(e, t, n); c.length;) {
+    if (n) for (a = 0; a < n.length; a++) {
+    if (n[e]) return n[e].exports;
+  }, f.o = function (e, t) {
+  }), t.getUniqueIdentifierStr = q, t.generateUUID = function e(t) {
+    return t ? (t ^ G() >> t / 4).toString(16) : ([1e7] + -1e3 + -4e3 + -8e3 + -1e11).replace(/[018]/g, e);
+  }, t.getBidIdParameter = function (e, t) {
+  }, t.tryAppendQueryString = function (e, t, n) {
+      e.mediaTypes && e.mediaTypes.banner && Array.isArray(e.mediaTypes.banner.sizes) ? (n = e.mediaTypes.banner.sizes, Array.isArray(n[0]) ? t = n : t.push(n)) : Array.isArray(e.sizes) && (Array.isArray(e.sizes[0]) ? t = e.sizes : t.push(e.sizes));
+      var i = e.length;
+      if (0 < i) if (2 === i && "number" == typeof e[0] && "number" == typeof e[1]) t.push(F(e));else for (var a = 0; a < i; a++) {
+  }, t.parseGPTSingleSizeArray = F, t.parseGPTSingleSizeArrayToRtbSize = function (e) {
+  }, t.getWindowTop = L, t.getWindowSelf = z, t.getWindowLocation = V, t.logMessage = H, t.logInfo = J, t.logWarn = K, t.logError = $, t.hasConsoleLogger = function () {
+  }, t.debugTurnedOn = Q, t.createInvisibleIframe = function () {
+    return e.id = q(), e.height = 0, e.width = 0, e.border = "0px", e.hspace = "0", e.vspace = "0", e.marginWidth = "0", e.marginHeight = "0", e.style.border = "0", e.scrolling = "no", e.frameBorder = "0", e.src = "about:blank", e.style.display = "none", e;
+  }, t.isA = X, t.isFn = Z, t.isStr = ee, t.isArray = te, t.isNumber = ne, t.isPlainObject = re, t.isBoolean = function (e) {
+  }, t.isEmpty = oe, t.isEmptyStr = function (e) {
+  }, t._each = ie, t.contains = function (e, t) {
+    if (oe(e)) return !1;
+    var n = e.length;
+      if (e[n] === t) return !0;
+  }, t._map = function (n, r) {
+  }, t.hasOwn = ae, t.insertElement = ce, t.triggerPixel = ue, t.callBurl = function (e) {
+    var t = e.source,
+    t.id = q(), t.width = 0, t.height = 0, t.hspace = "0", t.vspace = "0", t.marginWidth = "0", t.marginHeight = "0", t.style.display = "none", t.style.height = "0px", t.style.width = "0px", t.scrolling = "no", t.frameBorder = "0", t.allowtransparency = "true", k.insertElement(t, document, "body"), t.contentWindow.document.open(), t.contentWindow.document.write(e), t.contentWindow.document.close();
+  }, t.insertUserSyncIframe = se, t.createTrackPixelHtml = function (e) {
+  }, t.createTrackPixelIframeHtml = de, t.getValueString = fe, t.uniques = le, t.flatten = pe, t.getBidRequest = function (n, e) {
+      var t = s()(e.bids, function (t) {
+          return t[e] === n;
+      return t && (r = t), t;
+    }), r) : void 0;
+  }, t.getKeys = ge, t.getValue = ye, t.getKeyByValue = function (e, t) {
+      if (e.hasOwnProperty(n) && e[n] === t) return n;
+  }, t.isGptPubadsDefined = be, n.d(t, "getHighestCpm", function () {
+    var t = e.length;
+      e[t] = e[n], e[n] = r;
+  }, t.adUnitsFilter = function (e, t) {
+  }, t.deepClone = Ae, t.inIframe = function () {
+  }, t.replaceAuctionPrice = function (e, t) {
+  }, t.checkCookieSupport = Ee, t.delayExecution = function (e, t) {
+    if (t < 1) throw new Error("numRequiredCalls must be a positive number. Got ".concat(t));
+    var n = 0;
+      ++n === t && e.apply(this, arguments);
+  }, t.groupBy = function (e, n) {
+      return (e[t[n]] = e[t[n]] || []).push(t), e;
+  }, t.getDefinedParams = function (n, e) {
+  }, t.getBidderRequest = function (e, t, n) {
+        return e.bidder === t && e.adUnitCode === n;
+  }, t.getUserConfiguredParams = function (e, t, n) {
+      return e.code === t;
+      return e.bidder === n;
+    return "1" === navigator.doNotTrack || "1" === window.doNotTrack || "1" === navigator.msDoNotTrack || "yes" === navigator.doNotTrack;
+  }, t.isSlotMatchingAdUnitCode = Ie, t.getGptSlotInfoForAdUnitCode = function (e) {
+  }, t.unsupportedBidderMessage = function (e, t) {
+    return "\n    ".concat(e.code, " is a ").concat(n, " ad unit\n    containing bidders that don't support ").concat(n, ": ").concat(t, ".\n    This bidder won't fetch demand.\n  ");
+  }, t.isInteger = Te, t.convertCamelToUnderscore = function (e) {
+      return void 0 !== n[t] && (e[t] = n[t]), e;
+  }, t.pick = function (a, c) {
+    return "object" === S(a) ? c.reduce(function (e, t, n) {
+      if ("function" == typeof t) return e;
+      var r = t,
+      return "function" == typeof c[n + 1] && (i = c[n + 1](i, e)), void 0 !== i && (e[r] = i), e;
+          !(e = fe(r + "." + t, e)) && "" !== e || n.push(e);
+        }), e = n;
+        if (!ee(e = fe(r + "." + t, e))) return;
+  }, t.convertTypes = function (r, o) {
+  }, t.isArrayOfNums = function (e, t) {
+  }, t.fill = function (e, t) {
+    for (var n = [], r = 0; r < t; r++) {
+      var o = re(e) ? Ae(e) : e;
+  }, t.chunk = function (e, t) {
+    for (var n = [], r = 0; r < Math.ceil(e.length / t); r++) {
+      var o = r * t,
+          i = o + t;
+      return e[n] < t[n] ? 1 : e[n] > t[n] ? -1 : 0;
+  }, t.parseQS = je, t.formatQS = we, t.parseUrl = function (e, t) {
+    var r = t && "decodeSearchAsString" in t && t.decodeSearchAsString;
+  }, t.deepEqual = Ce, t.mergeDeep = xe;
+      if (Array.isArray(e)) return e;
+    }(e) || function (e, t) {
+      if ("undefined" == typeof Symbol || !(Symbol.iterator in Object(e))) return;
+          i = void 0;
+          if (o) throw i;
+      throw new TypeError("Invalid attempt to destructure non-iterable instance.\nIn order to be iterable, non-array objects must have a [Symbol.iterator]() method.");
+      throw new TypeError("Invalid attempt to spread non-iterable instance.\nIn order to be iterable, non-array objects must have a [Symbol.iterator]() method.");
+      if ("string" == typeof e) return v(e, t);
+      var n = Object.prototype.toString.call(e).slice(8, -1);
+      return "Object" === n && e.constructor && (n = e.constructor.name), "Map" === n || "Set" === n ? Array.from(e) : "Arguments" === n || /^(?:Ui|I)nt(?:8|16|32)(?:Clamped)?Array$/.test(n) ? v(e, t) : void 0;
+    for (var n = 0, r = new Array(t); n < t; n++) {
+    return t in e ? Object.defineProperty(e, t, {
+    }) : e[t] = n, e;
+      for (var t = 1; t < arguments.length; t++) {
+      N = function (e, t) {
+    var t = this,
+      M = (A = 0, function () {
+    Q() && _ && console.log.apply(console, Y(arguments, "MESSAGE:"));
+    Q() && B && console.info.apply(console, Y(arguments, "INFO:"));
+    Q() && R && console.warn.apply(console, Y(arguments, "WARNING:"));
+    Q() && P && console.error.apply(console, Y(arguments, "ERROR:"));
+    return e = [].slice.call(e), t && e.unshift(t), e.unshift("display: inline-block; color: #fff; background: #3b88c3; padding: 1px 4px; border-radius: 3px;"), e.unshift("%cPrebid"), e;
+    if (!e) return !0;
+      if (Z(e.forEach)) return e.forEach(t, this);
+      var n = 0,
+      if (0 < r) for (; n < r; n++) {
+    t = t || document, o = n ? t.getElementsByTagName(n) : t.getElementsByTagName("head");
+        var i = r ? null : o.firstChild;
+    t && k.isFn(t) && (n.addEventListener("load", t), n.addEventListener("error", t)), n.src = e;
+    var n = k.createTrackPixelIframeHtml(e, !1, "allow-scripts allow-same-origin"),
+    var o = r.firstChild;
+    t && k.isFn(t) && (o.addEventListener("load", t), o.addEventListener("error", t)), k.insertElement(o, document, "html", !0);
+    return e ? ((!(1 < arguments.length && void 0 !== arguments[1]) || arguments[1]) && (e = encodeURI(e)), t = t && 'sandbox="'.concat(t, '"'), "<iframe ".concat(t, ' id="').concat(q(), '"\n      frameborder="0"\n      allowtransparency="true"\n      marginheight="0" marginwidth="0"\n      width="0" hspace="0" vspace="0" height="0"\n      style="height:0px;width:0px;display:none;"\n      scrolling="no"\n      src="').concat(e, '">\n    </iframe>')) : "";
+    return null == t ? n : ee(t) ? t : ne(t) ? t.toString() : void k.logWarn("Unsuported type for param: " + e + " required type: String");
+    return n.indexOf(e) === t;
+    if (window.googletag && Z(window.googletag.pubads) && Z(window.googletag.pubads().getSlots)) return !0;
+  var ve = Se("timeToRespond", function (e, t) {
+    return t < e;
+      he = Se("responseTimestamp", function (e, t) {
+    return t < e;
+      me = Se("responseTimestamp", function (e, t) {
+    return e < t;
+      return e.cpm === t.cpm ? r(e[n], t[n]) ? t : e : e.cpm < t.cpm ? t : e;
+    if (window.navigator.cookieEnabled || document.cookie.length) return !0;
+  var Oe = function Oe(e, t) {
+    return e.getAdUnitPath() === t || e.getSlotElementId() === t;
+    return Number.isInteger ? Number.isInteger(e) : "number" == typeof e && isFinite(e) && Math.floor(e) === e;
+    return e ? e.replace(/^\?/, "").split("&").reduce(function (e, t) {
+      return /\[\]$/.test(r) ? (e[r = r.replace("[]", "")] = e[r] || [], e[r].push(o)) : e[r] = o || "", e;
+    for (var t = arguments.length, n = new Array(1 < t ? t - 1 : 0), r = 1; r < t; r++) {
+    if (!n.length) return e;
+      re(o[i]) ? (e[i] || m(e, h({}, i, {})), xe(e[i], o[i])) : te(o[i]) && e[i] ? te(e[i]) && (e[i] = e[i].concat(o[i])) : m(e, h({}, i, o[i]));
+    } : void 0;
+  }, t.newBidder = C, n.d(t, "registerSyncInner", function () {
+  }), t.preloadBidderMappingFile = U, t.getIabSubCategory = function (t, e) {
+          Object(m.logError)("Failed to parse ".concat(t, " mapping data stored in local storage"));
+        return i.mapping[e] ? i.mapping[e] : null;
+  }, t.isValid = _;
+      if (Array.isArray(e)) return e;
+    }(e) || function (e, t) {
+      if ("undefined" == typeof Symbol || !(Symbol.iterator in Object(e))) return;
+          i = void 0;
+          if (o) throw i;
+      if ("string" == typeof e) return E(e, t);
+      var n = Object.prototype.toString.call(e).slice(8, -1);
+      if ("Arguments" === n || /^(?:Ui|I)nt(?:8|16|32)(?:Clamped)?Array$/.test(n)) return E(e, t);
+      throw new TypeError("Invalid attempt to destructure non-iterable instance.\nIn order to be iterable, non-array objects must have a [Symbol.iterator]() method.");
+    for (var n = 0, r = new Array(t); n < t; n++) {
+      for (var t = 1; t < arguments.length; t++) {
+        }), (o = p.buildRequests(t, i)) && 0 !== o.length ? (Array.isArray(o) || (o = [o]), f = Object(m.delayExecution)(r(l), o.length), o.forEach(function (o) {
+              Object(m.logWarn)("Skipping invalid request from ".concat(p.code, ". Request type ").concat(o.type, " must be GET or POST")), f();
+              return Object(m.logError)("Bidder ".concat(p.code, " failed to interpret the server's response. Continuing without bids"), null, e), void f();
+              o ? (e.originalCpm = e.cpm, e.originalCurrency = e.currency, t = I(Object(b.a)(v.a.STATUS.GOOD, o), e), n = o.adUnitCode, r = t, u[n] = !0, _(n, r, [i]) && a(n, r)) : Object(m.logWarn)("Bidder ".concat(p.code, " made bid for unknown request ID: ").concat(e.requestId, ". Ignoring."));
+            c(p.code), Object(m.logError)("Server call for ".concat(p.code, " failed: ").concat(e, ". Continuing without bids.")), f();
+      return !!p.isBidRequestValid(e) || (Object(m.logWarn)("Invalid bid sent to bidder ".concat(p.code, ": ").concat(JSON.stringify(e))), !1);
+  var x = Object(y.b)("async", function (t, e, n, r) {
+    if (!u.b.getConfig("adpod.brandCategoryExclusion")) return e.call(this, t);
+            r = t.refreshInDays ? t.refreshInDays : w,
+            o = t.localStorageKey ? t.localStorageKey : e.getSpec().code,
+          (!(i = i ? JSON.parse(i) : void 0) || Object(m.timestamp)() > i.lastUpdated + 24 * r * 60 * 60 * 1e3) && Object(p.a)(t.url, {
+                Object(m.logError)("Failed to parse ".concat(n, " bidder translation mapping file"));
+              Object(m.logError)("Failed to load ".concat(n, " bidder translation file"));
+          Object(m.logError)("Failed to parse ".concat(n, " bidder translation mapping file"));
+      return "Invalid bid from ".concat(t.bidderCode, ". Ignoring bid: ").concat(e);
+    }) ? "native" !== t.mediaType || Object(i.f)(t, n) ? "video" !== t.mediaType || Object(a.d)(t, n) ? !("banner" === t.mediaType && !function (e, t, n) {
+      if ((t.width || 0 === parseInt(t.width, 10)) && (t.height || 0 === parseInt(t.height, 10))) return t.width = parseInt(t.width, 10), t.height = parseInt(t.height, 10), 1;
+      var r = Object(m.getBidderRequest)(n, t.bidderCode, e),
+          o = r && r.bids && r.bids[0] && r.bids[0].sizes,
+        return t.width = parseInt(c, 10), t.height = parseInt(u, 10), 1;
+    }(e, t, n)) || (Object(m.logError)(r("Banner bids require a width and height")), !1) : (Object(m.logError)(r("Video bid does not have required vastUrl or renderer property")), !1) : (Object(m.logError)(r("Native bid missing some required properties.")), !1) : (Object(m.logError)(r("Bidder ".concat(t.bidderCode, " is missing required params. Check http://prebid.org/dev-docs/bidder-adapter-1.html for list of params."))), !1)) : (Object(m.logWarn)("Some adapter tried to add an undefined bid for ".concat(e, ".")), !1) : (Object(m.logWarn)("No adUnitCode was supplied to addBidResponse."), !1);
+      for (var t = 1; t < arguments.length; t++) {
+  var m = v,
+      j = (I = [], T = null, w(), {
+        var n = t;
+        if ("string" != typeof e && (n = e, e = "*"), "function" == typeof n) {
+        p.isPlainObject(A[e]) && p.isPlainObject(t) && (t = f({}, A[e], t)), r[e] = E[e] = t;
+            for (var e, t = arguments.length, n = new Array(t), r = 0; r < t; r++) {
+            p.isPlainObject(t) ? O[n][e] = f({}, O[n][e] || {}, t) : O[n][e] = t;
+        i(e) && ("string" == typeof e ? this._priceGranularity = o(e) ? e : S.MEDIUM : p.isPlainObject(e) && (this._customPriceBucket = e, this._priceGranularity = S.CUSTOM, p.logMessage("Using custom price granularity")));
+        var r = this;
+        this._mediaTypePriceGranularity = Object.keys(n).reduce(function (e, t) {
+          return i(n[t]) ? "string" == typeof n ? e[t] = o(n[t]) ? n[t] : r._priceGranularity : p.isPlainObject(n) && (e[t] = n[t], p.logMessage("Using custom price granularity for ".concat(t))) : p.logWarn("Invalid price granularity for media type: ".concat(t)), e;
+        h[e] ? this._bidderSequence = e : p.logWarn("Invalid order: ".concat(e, ". Bidder Sequence was not set."));
+        if ("string" == typeof e) o(e) || p.logWarn("Prebid Warning: setPriceGranularity was called with invalid setting, using `medium` as default.");else if (p.isPlainObject(e) && !Object(r.b)(e)) return void p.logError("Invalid custom price value passed to `setPriceGranularity()`");
+    E && x(Object.keys(E).reduce(function (e, t) {
+      return E[t] !== n[t] && (e[t] = n[t] || {}), e;
+    }, {})), E = n, O = {};
+        return void 0 === n[t] ? e[t] = E[t] : void 0 !== E[t] && p.isPlainObject(n[t]) ? e[t] = Object(d.mergeDeep)({}, E[t], n[t]) : e[t] = n[t], e;
+      e.callback((t = {}, n = e.topic, r = o[e.topic], n in t ? Object.defineProperty(t, n, {
+      }) : t[n] = r, t));
+      return "*" === e.topic;
+  }), t.b = o;
+      for (var t = 1; t < arguments.length; t++) {
+    var s = 0 < arguments.length && void 0 !== arguments[0] ? arguments[0] : 3e3,
+          o.readyState === b && ("function" == typeof f && f(a.origin), 200 <= (e = o.status) && e < 300 || 304 === e ? u.success(o.responseText, o) : u.error(o.statusText, o));
+          y.logError("  xhr timeout after ", o.timeout, "ms");
+        }), "GET" === i && n && (p((c = y.parseUrl(e, r)).search, n), e = y.buildUrl(c)), o.open(i, e, !0), l.b.getConfig("disableAjaxTimeout") || (o.timeout = s), r.withCredentials && (o.withCredentials = !0), y._each(r.customHeaders, function (e, t) {
+      if (Array.isArray(e)) return e;
+    }(e) || function (e, t) {
+      if ("undefined" == typeof Symbol || !(Symbol.iterator in Object(e))) return;
+          i = void 0;
+          if (o) throw i;
+      if ("string" == typeof e) return a(e, t);
+      var n = Object.prototype.toString.call(e).slice(8, -1);
+      if ("Arguments" === n || /^(?:Ui|I)nt(?:8|16|32)(?:Clamped)?Array$/.test(n)) return a(e, t);
+      throw new TypeError("Invalid attempt to destructure non-iterable instance.\nIn order to be iterable, non-array objects must have a [Symbol.iterator]() method.");
+    for (var n = 0, r = new Array(t); n < t; n++) {
+      for (var t = 1; t < arguments.length; t++) {
+    var o = e.bidderCode,
+      var t = Object(p.b)(Object(p.a)(c, f), c.mediaTypes, c.sizes),
+      return n ? r && j.logInfo('Size mapping filtered adUnit "'.concat(c.code, '" banner sizes from '), r.before, "to ", r.after) : j.logInfo('Size mapping disabled adUnit "'.concat(c.code, '"')), n && e.push(c.bids.filter(function (e) {
+        return e.bidder === o;
+        var n = c.nativeParams || j.deepAccess(c, "mediaTypes.native");
+        n && (t = b({}, t, {
+        })), t = b({}, t, Object(S.getDefinedParams)(c, ["fpd", "mediaType", "renderer", "storedAuctionResponse"]));
+        var r = Object(p.b)(Object(p.a)(t, f), u),
+        return o ? a && j.logInfo('Size mapping filtered adUnit "'.concat(c.code, '" bidder "').concat(t.bidder, '" banner sizes from '), a.before, "to ", a.after) : j.logInfo('Size mapping deactivated adUnit "'.concat(c.code, '" bidder "').concat(t.bidder, '"')), j.isValidMediaTypes(i) ? t = b({}, t, {
+        }) : j.logError("mediaTypes is not correctly configured for adunit ".concat(c.code)), o && e.push(b({}, t, {
+      return "" !== e;
+    return U && U.enabled && U.testing && T;
+      r && r[n] && "function" == typeof r[n] && (j.logInfo("Invoking ".concat(t, ".").concat(n)), A.b.runWithBidder(t, S.bind.call(r[n], r, e)));
+  f.makeBidRequests = Object(r.b)("sync", function (e, o, i, a, c) {
+    U.enabled && (P() && (b = T.getSourceBidderMap(e)[T.CLIENT]), n = U.bidders, y = t.filter(function (e) {
+    }), Boolean(P() && U.testServerOnly) && (p = e, Boolean(O()(p, function (e) {
+        return (e.bidSource || U.bidderControl && U.bidderControl[e.bidder]) && e.finalSource === T.SERVER;
+    }))) && (y.length = 0), d = e, f = U.bidders, (l = j.deepClone(d)).forEach(function (e) {
+        return e.bid_id = j.getUniqueIdentifierStr(), e;
+      return 0 !== e.bids.length;
+            return e.bidId === t.bid_id;
+        return 0 < e.bids.length;
+        m = (v = e, (h = j.deepClone(v)).forEach(function (e) {
+        return !P() || e.finalSource !== T.SERVER;
+      return 0 !== e.bids.length;
+      r || j.logError("Trying to make a request for bidder that does not exist: ".concat(e)), r && n.bids && 0 !== n.bids.length && u.push(n);
+  }, "makeBidRequests"), f.callBids = function (e, t, o, i, a, c, u) {
+    t.length ? (r = (n = m(t.reduce(function (e, t) {
+      return e[Number(void 0 !== t.src && t.src === w.S2S.SRC)].push(t), e;
+    }, [[], []]), 2))[0], (s = n[1]).length && (d = Object(h.b)(c, a ? {
+    } : void 0), f = U.bidders, l = x[U.adapter], p = s[0].tid, g = s[0].adUnitsS2SCopy, l ? (y = {
+    }), v = y.ad_units.reduce(function (e, t) {
+      return e.concat((t.bids || []).reduce(function (e, t) {
+      var n = Object(S.getBidderRequest)(s, t.bidderCode, e);
+      j.logMessage("CALLING BIDDER ======= ".concat(t.bidderCode)), C.emit(w.EVENTS.BID_REQUESTED, t);
+      var n = Object(h.b)(c, a ? {
+    })) : j.logWarn("callBids executed with no bidRequests.  Were they filtered by labels or sizing?");
+  }, f.videoAdapters = [], f.registerBidAdapter = function (e, t) {
+    var n = (2 < arguments.length && void 0 !== arguments[2] ? arguments[2] : {}).supportedMediaTypes,
+        r = void 0 === n ? [] : n;
+    e && t ? "function" == typeof e.callBids ? (x[t] = e, E()(r, "video") && f.videoAdapters.push(t), E()(r, "native") && g.e.push(t)) : j.logError("Bidder adaptor error for bidder code: " + t + "bidder must implement a callBids() function") : j.logError("bidAdaptor or bidderCode not specified");
+  }, f.aliasBidAdapter = function (t, e) {
+            a = i && i.bidders;
+            s = (n = t, r = [], E()(f.videoAdapters, n) && r.push("video"), E()(g.e, n) && r.push("native"), r);
+        o.constructor.prototype != Object.prototype ? (u = new o.constructor()).setBidderCode(e) : (c = o.getSpec(), u = Object(d.newBidder)(b({}, c, {
+        })), l[e] = t), f.registerBidAdapter(u, e, {
+    var t = e.adapter,
+    t && n ? "function" == typeof t.enableAnalytics ? (t.code = n, c[n] = t) : j.logError('Prebid Error: Analytics adaptor error for analytics "'.concat(n, '"\n        analytics adapter must implement an enableAnalytics() function')) : j.logError("Prebid Error: analyticsAdapter or analyticsCode not specified");
+    j.isArray(e) || (e = [e]), j._each(e, function (e) {
+      t ? t.enableAnalytics(e) : j.logError("Prebid Error: no analytics adapter found in registry for\n        ".concat(e.provider, "."));
+  }, f.callTimedOutBidders = function (t, n, r) {
+      return e.params = j.getUserConfiguredParams(t, e.adUnitCode, e.bidder), e.timeout = r, e;
+    }), n = j.groupBy(n, "bidder"), Object.keys(n).forEach(function (e) {
+  }, f.callBidWonBidder = function (e, t, n) {
+  }, f.callSetTargetingBidder = function (e, t) {
+  }, t.default = f;
+      for (var t = 1; t < arguments.length; t++) {
+  e.exports = (c = {}, (o = {}).on = function (e, t, n) {
+      }), r && u.contains(i, r) && s.apply(a, o[r].que), s.apply(a, o.que), u._each(a, function (e) {
+  }, o.off = function (e, n, r) {
+    u.isEmpty(o) || u.isEmpty(o.que) && u.isEmpty(o[r]) || r && (u.isEmpty(o[r]) || u.isEmpty(o[r].que)) || (r ? u._each(o[r].que, function (e) {
+      var t = o[r].que;
+      var t = o.que;
+  }, t.b = function (e, t) {
+          e && e.valid && (t = u && "" !== u ? " ;domain=".concat(encodeURIComponent(u)) : "", n = a && "" !== a ? " ;expires=".concat(a) : "", r = null != c && "none" == c.toLowerCase() ? "; Secure" : "", document.cookie = "".concat(o, "=").concat(encodeURIComponent(i)).concat(n, "; path=/").concat(t).concat(c ? "; SameSite=".concat(c) : "").concat(r));
+            return t ? decodeURIComponent(t[2]) : null;
+          e && e.valid && window.localStorage.setItem(t, n);
+          return e && e.valid ? window.localStorage.getItem(t) : null;
+                  o = (o = r.indexOf("=")) < 0 ? r.length : o;
+  var l = Object(r.b)("async", function (e, t, n, r) {
+  }, t.b = function (e, t) {
+    var t = this,
+    this.url = r, this.config = n, this.handlers = {}, this.id = o, this.loaded = a, this.cmd = [], this.push = function (e) {
+        return e.code === t;
+      })) && n.renderer && n.renderer.url && n.renderer.render ? s.logWarn("External Js not loaded by Renderer since renderer url and callback is already defined on adUnit ".concat(c)) : Object(u.a)(r, f, this.callback), this._render ? this._render.apply(this, arguments) : s.logWarn("No render function was provided, please use .setRender on the renderer");
+    var t = e.id,
+    "function" == typeof this.handlers[n] && this.handlers[n](), s.logMessage("Prebid Renderer event for id ".concat(t, " type ").concat(n));
+        s.logError("Error processing Renderer command: ", e);
+  }), t.d = function (e, t) {
+    var n = 2 < arguments.length && void 0 !== arguments[2] ? arguments[2] : 15;
+  }, t.c = function (e, n) {
+        }(t) || function (e, t) {
+            if ("string" == typeof e) return i(e, t);
+            var n = Object.prototype.toString.call(e).slice(8, -1);
+            return "Object" === n && e.constructor && (n = e.constructor.name), "Map" === n || "Set" === n ? Array.from(e) : "Arguments" === n || /^(?:Ui|I)nt(?:8|16|32)(?:Clamped)?Array$/.test(n) ? i(e, t) : void 0;
+          throw new TypeError("Invalid attempt to spread non-iterable instance.\nIn order to be iterable, non-array objects must have a [Symbol.iterator]() method.");
+    for (var t = arguments.length, n = new Array(1 < t ? t - 1 : 0), r = 1; r < t; r++) {
+    for (var n = 0, r = new Array(t); n < t; n++) {
+    return e.prototype = r.prototype, e;
+  e.exports = function (e, t) {
+        g = f ? h : l ? h[d] : (h[d] || {}).prototype,
+      n = !S(f ? o : d + (l ? "." : "#") + o, e.forced) && g && I(g, o), a = y[o], n && (c = e.noTargetGet ? (s = m(g, o)) && s.value : g[o]), i = n && c ? c : t[o], n && _typeof(a) == _typeof(i) || (u = e.bind && n ? E(i, h) : e.wrap && n ? v(i) : p && "function" == typeof i ? E(Function.call, i) : i, (e.sham || i && i.sham || a && a.sham) && O(u, "sham", !0), y[o] = u, p && (I(A, r = d + "Prototype") || O(A, r, {}), A[r][o] = i, e.real && b && !b[o] && O(b, o, i)));
+  (e.exports = function (e, t, n, r, o) {
+        for (c = 0, u = b(e.length); c < u; c++) {
+          if ((s = r ? l(g(f = e[c])[0], f[1]) : l(e[c])) && s instanceof p) return s;
+    for (d = i.next; !(f = d.call(i)).done;) {
+      if ("object" == _typeof(s = m(i, l, f.value, r)) && s && s instanceof p) return s;
+      f = u ? d : d && d.withoutSetter || a;
+    return i(s, e) || (c && i(d, e) ? s[e] = d[e] : s[e] = f("Symbol." + e)), s[e];
+  e.exports = function (r, o, e) {
+    if (i(r), void 0 === o) return r;
+      return e && e.Math == Math && e;
+    return "object" == _typeof(e) ? null !== e : "function" == typeof e;
+  var n = {}.hasOwnProperty;
+  e.exports = function (e, t) {
+    return "function" == typeof e ? e : void 0;
+  e.exports = function (e, t) {
+    var e = i()(d, function (e) {
+      return e.getAuctionId() === t.auctionId;
+    e ? (t.status = a.BID_STATUS.RENDERED, e.addWinningBid(t)) : Object(r.logWarn)("Auction not found when adding winning bid");
+    return t = u, d.push(t), u;
+      return e.adId === t;
+  }, c.setStatusForBids = function (e, t) {
+    r && (r.status = t), !r || t !== a.BID_STATUS.BID_TARGETING_SET || (n = i()(d, function (e) {
+      return e.getAuctionId() === r.auctionId;
+    return 7 != Object.defineProperty({}, 1, {
+  e.exports = r ? function (e, t, n) {
+  } : function (e, t, n) {
+    return e[t] = n, e;
+      for (var t = 1; t < arguments.length; t++) {
+            t = t ? t.parent : o;
+              var e = t == o.top,
+              e && (r = c(r, {
+                    if (null !== t) return t.href;
+              }), Object(a.logWarn)("Trying to access cross domain iframe. Continuing without referrer and location");
+      if (t) for (var n = 0, r = t.length; n < r; n++) {
+            n = t.length - 1,
+            r = null !== t[n].location || 0 < n && null !== t[n - 1].referrer,
+          for (var t = [], n = null, r = null, o = null, i = null, a = null, c = null, u = e.length - 1; 0 <= u; u--) {
+  t.f = r ? c : function (e, t, n) {
+    if (i(e), t = a(t, !0), i(n), o) try {
+    return "value" in n && (e[t] = n.value), e;
+  t.a = function (e, t) {
+        r = e || 0;
+    this.bidderCode = t && t.bidder || "", this.width = 0, this.height = 0, this.statusMessage = function () {
+    }(), this.adId = o.getUniqueIdentifierStr(), this.requestId = t && t.bidId, this.mediaType = "banner", this.source = n, this.getStatusCode = function () {
+      return this.width + "x" + this.height;
+    n = n || Function("return this")() || (0, eval)("this");
+      return !(!e || !c()(Object.keys(d), e)) || (Object(a.logError)("".concat(e, " nativeParam is not supported")), !1);
+  }, t.f = function (t, e) {
+    var n = Object(a.getBidRequest)(t.requestId, e);
+    if (!n) return !1;
+    var r = n.nativeParams;
+    if (!r) return !0;
+  }, t.b = function (e, t) {
+    "click" === e.action ? n = t.native && t.native.clickTrackers : (n = t.native && t.native.impressionTrackers, t.native && t.native.javascriptTrackers && Object(a.insertHtmlIntoIframe)(t.native.javascriptTrackers));
+    return (n || []).forEach(a.triggerPixel), e.action;
+  }, t.d = function (r, o) {
+      Object(a.deepAccess)(o, "mediaTypes.native.".concat(e, ".sendId")) && (n = "".concat(t, ":").concat(r.adId)), t && n && (i[t] = n);
+  }, t.c = function (e, r) {
+      var t = Object(a.getKeyByValue)(u.NATIVE_KEYS, e),
+    return "object" === o(e) && e.url ? e.url : e;
+  e.exports = function (e, t) {
+  }), t.d = function (e, t) {
+    var n = Object(i.getBidRequest)(e.requestId, t),
+        r = n && Object(i.deepAccess)(n, "mediaTypes.video"),
+        o = r && Object(i.deepAccess)(r, "context");
+  var s = Object(a.b)("sync", function (e, t, n, r) {
+    return !t || n && r !== c ? o.b.getConfig("cache.url") || !e.vastXml || e.vastUrl ? !(!e.vastUrl && !e.vastXml) : (Object(i.logError)('\n        This bid contains only vastXml and will not work when a prebid cache url is not specified.\n        Try enabling prebid cache with pbjs.setConfig({ cache: {url: "..."} });\n      '), !1) : r !== c || !(!e.renderer && !t.renderer);
+  t.a = function (r, e, t) {
+    if (a[r]) return t && "function" == typeof t && (a[r].loaded ? t() : a[r].callbacks.push(t)), a[r].tag;
+    return i.logWarn("module ".concat(e, " is loading external JavaScript")), function (e, t) {
+      n.type = "text/javascript", n.async = !0, (a[r].tag = n).readyState ? n.onreadystatechange = function () {
+        "loaded" !== n.readyState && "complete" !== n.readyState || (n.onreadystatechange = null, t());
+      return n.src = e, i.insertElement(n), n;
+        for (var e = 0; e < a[r].callbacks.length; e++) {
+      e && clearTimeout(b), void 0 === o && (r = [], n && (D.logMessage("Auction ".concat(p, " timedOut")), t = A, (r = h.map(function (e) {
+          null != g && (e = f.filter(D.bind.call(w.adUnitsFilter, this, d)).reduce(Z, {}), g.apply(pbjs, [e, n, p]), g = null);
+          D.logError("Error executing bidsBackHandler", null, e);
+      D.logInfo("Bids Received for Auction with id: ".concat(p), f), y = W, O(!1, !0);
+      var f = this;
+              u = (n = I, r = f, o = 0, i = !1, a = new Set(), c = {}, {
+                var t = e.adUnitCode,
+                    a = P({}, n, {
+                a.timeToRespond = a.responseTimestamp - a.requestTimestamp, M.emit(q.EVENTS.BID_ADJUSTMENT, a);
+                var c = r.bids && _()(r.bids, function (e) {
+                  return e.adUnitCode == t;
+                    u = c && c.renderer;
+                var s = X(n.mediaType, c, U.b.getConfig("mediaTypePriceGranularity")),
+                return a.pbLg = d.low, a.pbMg = d.med, a.pbHg = d.high, a.pbAg = d.auto, a.pbDg = d.dense, a.pbCg = d.custom, a;
+              "video" === n.mediaType ? function (e, t, n, r) {
+                var o = !0,
+                    a = i && Object(w.deepAccess)(i, "mediaTypes.video"),
+                    c = a && Object(w.deepAccess)(a, "context");
+                U.b.getConfig("cache.url") && c !== B.b && (t.videoCacheKey ? t.vastUrl || (D.logError("videoCacheKey specified but not required vastUrl for video bid"), o = !1) : (o = !1, Q(e, t, r, i))), o && (Y(e, t), r());
+                c[e.bidId] || (r.addNoBid(e), M.emit(q.EVENTS.NO_BID, e));
+            for (var e = arguments.length, t = new Array(e), n = 0; n < e; n++) {
+        var r = !0,
+            o = U.b.getConfig("maxRequestsPerOrigin") || L;
+          var t = 1,
+              n = void 0 !== e.src && e.src === q.S2S.SRC ? "s2s" : e.bidderCode;
+          return V[n] && (!1 === V[n].SRA && (t = Math.min(e.bids.length, o)), z[V[n].origin] + t > o && (r = !1)), !r;
+        }), r && e.run(), r;
+        var e = N.makeBidRequests(v, t, p, m, s);
+        D.logInfo("Bids Requested for Auction with id: ".concat(p), e), e.length < 1 ? (D.logWarn("No valid bid requests returned for auction"), I()) : K.call({
+        S = S.concat(e), N.callBidWonBidder(e.bidder, e, i);
+  }), t.g = s, t.d = Y, n.d(t, "f", function () {
+  }), t.j = l;
+      for (var t = 1; t < arguments.length; t++) {
+  var k = r.a.syncUsers,
+  var L = 4,
+  var J = Object(o.b)("async", function (e, t) {
+      $ = Object(o.b)("async", function (e, t) {
+      return e.bidderCode === t.bidderCode;
+        t.bidderCode && (0 < t.cpm || t.dealId) && (r = _()(e.bids, function (e) {
+          return e.adUnitCode === t.adUnitCode;
+        }), n = function (e, t, n) {
+            o && (i = l(t.mediaType, e, n), p(r, i, t), e && o[e] && o[e][q.JSON_MAPPING.ADSERVER_TARGETING] && (p(r, o[e], t), t.sendStandardTargeting = o[e].sendStandardTargeting));
+          t.native && (r = P({}, r, Object(a.d)(t, n)));
+  var Q = Object(o.b)("async", function (n, r, o, e) {
+      e ? (D.logWarn("Failed to save to the video cache: ".concat(e, ". Video bid must be discarded.")), s(n, r)) : "" === t[0].uuid ? (D.logWarn("Supplied video cache key was already in use by Prebid Cache; caching attempt was rejected. Video bid must be discarded."), s(n, r)) : (r.videoCacheKey = t[0].uuid, r.vastUrl || (r.vastUrl = Object(i.a)(r.videoCacheKey)), Y(n, r), o());
+        var r = Object(w.deepAccess)(t, "mediaTypes.".concat(u.d, ".context"), "instream");
+  var d = function d(e, t) {
+    var n = X(e, t, U.b.getConfig("mediaTypePriceGranularity"));
+      return t === q.GRANULARITY_OPTIONS.AUTO ? e.pbAg : t === q.GRANULARITY_OPTIONS.DENSE ? e.pbDg : t === q.GRANULARITY_OPTIONS.LOW ? e.pbLg : t === q.GRANULARITY_OPTIONS.MEDIUM ? e.pbMg : t === q.GRANULARITY_OPTIONS.HIGH ? e.pbHg : t === q.GRANULARITY_OPTIONS.CUSTOM ? e.pbCg : void 0;
+    return u[q.JSON_MAPPING.BD_SETTING_STANDARD] || (u[q.JSON_MAPPING.BD_SETTING_STANDARD] = {}), u[q.JSON_MAPPING.BD_SETTING_STANDARD][q.JSON_MAPPING.ADSERVER_TARGETING] || (u[q.JSON_MAPPING.BD_SETTING_STANDARD][q.JSON_MAPPING.ADSERVER_TARGETING] = [r(a.BIDDER, "bidderCode"), r(a.AD_ID, "adId"), r(a.PRICE_BUCKET, f(c)), r(a.SIZE, "size"), r(a.DEAL, "dealId"), r(a.SOURCE, "source"), r(a.FORMAT, "mediaType")]), "video" === e && (o = u[q.JSON_MAPPING.BD_SETTING_STANDARD][q.JSON_MAPPING.ADSERVER_TARGETING], [a.UUID, a.CACHE_ID].forEach(function (t) {
+      void 0 === _()(o, function (e) {
+        return e.key === t;
+    }), !U.b.getConfig("cache.url") || t && !1 === D.deepAccess(u, "".concat(t, ".sendStandardTargeting")) || (i = Object(w.parseUrl)(U.b.getConfig("cache.url")), void 0 === _()(o, function (e) {
+      return e.key === a.CACHE_HOST;
+      return D.deepAccess(e, "adserverTargeting.".concat(a.CACHE_HOST)) ? e.adserverTargeting[a.CACHE_HOST] : i.hostname;
+    return i.size = i.getSize(), D._each(e, function (e) {
+      var t = e.key,
+      if (r[t] && D.logWarn("The key: " + t + " is getting ovewritten"), D.isFn(n)) try {
+      for (var t = 1; t < arguments.length; t++) {
+    return t in e ? Object.defineProperty(e, t, {
+    }) : e[t] = n, e;
+    }(e) || function (e, t) {
+      if ("string" == typeof e) return c(e, t);
+      var n = Object.prototype.toString.call(e).slice(8, -1);
+      if ("Arguments" === n || /^(?:Ui|I)nt(?:8|16|32)(?:Clamped)?Array$/.test(n)) return c(e, t);
+      throw new TypeError("Invalid attempt to spread non-iterable instance.\nIn order to be iterable, non-array objects must have a [Symbol.iterator]() method.");
+    for (var n = 0, r = new Array(t); n < t; n++) {
+    var o = 2 < arguments.length && void 0 !== t ? t : 0,
+      }), 0 < o ? (t = a ? t(C(!0)) : t.sort(function (e, t) {
+        return t.cpm - e.cpm;
+    var n = 0 < arguments.length && void 0 !== e && e;
+      return void 0 !== e.adUnitTargeting.hb_deal && void 0 === t.adUnitTargeting.hb_deal ? -1 : void 0 === e.adUnitTargeting.hb_deal && void 0 !== t.adUnitTargeting.hb_deal ? 1 : n ? t.cpm - e.cpm : t.adUnitTargeting.hb_pb - e.adUnitTargeting.hb_pb;
+      p = (f = r.a, l = {}, (x = {}).setLatestAuctionForAdUnit = function (e, t) {
+  }, x.resetPresetTargeting = function (e, t) {
+          (e.code === n.getAdUnitPath() || e.code === n.getSlotElementId() || u.isFn(r) && r(e.code)) && n.setTargeting(t, null);
+        l = (a = f, c = d, u = x.getWinningBids(a, c), s = R(), (u = u.map(function (i) {
+            r = E({}, t.substring(0, 20), n);
+        var o = E({}, "".concat(t, "_").concat(i.bidderCode).substring(0, 20), n);
+    }))).concat(h.b.getConfig("enableSendAllBids") ? (n = f, t = d, r = j.concat(m.a), o = h.b.getConfig("sendBidsControl.bidLimit"), w(t, v.getHighestCpm, o).map(function (t) {
+    })) : function (e, t) {
+        if (t.dealId && U(t, e)) return E({}, t.adUnitCode, D(t, n.filter(function (e) {
+      return e[n] = A({}, e[n], t[n]), e;
+    return b && (Object(v.logInfo)("Detected 'targetingControls.auctionKeyMaxChars' was active for this auction; set with a limit of ".concat(b, " characters.  Running checks on auction keys...")), p = l, g = b, y = Object(v.deepClone)(p), l = Object.keys(y).map(function (e) {
+          i = (o = t.adUnitTargeting, Object.keys(o).reduce(function (e, t) {
+        return e + "".concat(t, "%3d").concat(encodeURIComponent(o[t]), "%26");
+      n + 1 === r.length && (i = i.slice(0, -3));
+      var a = t.adUnitCode,
+      return c <= g ? (g -= c, Object(v.logInfo)("AdUnit '".concat(a, "' auction keys comprised of ").concat(c, " characters.  Deducted from running threshold; new limit is ").concat(g), y[a]), e[a] = y[a]) : Object(v.logWarn)("The following keys for adUnitCode '".concat(a, "' exceeded the current limit of the 'auctionKeyMaxChars' setting.\nThe key-set size was ").concat(c, ", the current allotted amount was ").concat(g, ".\n"), y[a]), n + 1 === r.length && 0 === Object.keys(e).length && Object(v.logError)("No auction targeting keys were permitted due to the setting in setConfig(targetingControls.auctionKeyMaxChars).  Please review setup and consider adjusting."), e;
+  }, x.setTargetingForGPT = function (o, e) {
+            return u.logMessage("Attempting to set key value for slot: ".concat(r.getSlotElementId(), " key: ").concat(t, " value: ").concat(e)), e;
+      return 0 < e.cpm;
+        return e.adUnitCode === t ? e : null;
+        u.logMessage("Attempting to set targeting for targetId: ".concat(n, " key: ").concat(e, " value: ").concat(r[n][e])), (u.isStr(r[n][e]) || u.isArray(r[n][e])) && (t = {}, e.search(/pt[0-9]/) < 0 ? t[e.toUpperCase()] = r[n][e] : t[e] = r[n][e], window.apntag.setKeywords(n, t, {
+    if (window.apntag && u.isFn(window.apntag.setKeywords)) return !0;
+    return e.adserverTargeting && t && (u.isArray(t) && S()(t, e.adUnitCode) || "string" == typeof t && e.adUnitCode === t);
+      return l[e.adUnitCode] === e.auctionId;
+      return "banner" !== e.mediaType || Object(o.c)([e.width, e.height]);
+      r.length && r.filter((n = e, function (e) {
+    t in e && ("function" != typeof (o = r) || "[object Function]" !== u.call(o) || !r()) || (f ? d(e, t, {
+    c && (r = s.call(r, Object.getOwnPropertySymbols(t)));
+    for (var o = 0; o < r.length; o += 1) {
+      for (var t in (d(e, "x", {
+      return e.x === e;
+      if (Array.isArray(e)) return e;
+    }(e) || function (e, t) {
+      if ("undefined" == typeof Symbol || !(Symbol.iterator in Object(e))) return;
+          i = void 0;
+          if (o) throw i;
+      if ("string" == typeof e) return s(e, t);
+      var n = Object.prototype.toString.call(e).slice(8, -1);
+      if ("Arguments" === n || /^(?:Ui|I)nt(?:8|16|32)(?:Clamped)?Array$/.test(n)) return s(e, t);
+      throw new TypeError("Invalid attempt to destructure non-iterable instance.\nIn order to be iterable, non-array objects must have a [Symbol.iterator]() method.");
+    for (var n = 0, r = new Array(t); n < t; n++) {
+      for (var t = 1; t < arguments.length; t++) {
+  }, h = l.config, r.b.getConfig("userSync", function (e) {
+    e.userSync && (t = e.userSync.filterSettings, a.isPlainObject(t) && (t.image || t.all || (e.userSync.filterSettings.image = {
+    }))), h = d(h, e.userSync);
+  }), p.registerSync = function (e, t, n) {
+    return y.has(t) ? a.logMessage('already fired syncs for "'.concat(t, '", ignoring registerSync call')) : h.syncEnabled && a.isArray(g[e]) ? t ? 0 !== h.syncsPerBidder && Number(b[t]) >= h.syncsPerBidder ? a.logWarn('Number of user syncs exceeded for "'.concat(t, '"')) : p.canBidderRegisterSync(e, t) ? (g[e].push([t, n]), (r = b)[o = t] ? r[o] += 1 : r[o] = 1, void (b = r)) : a.logWarn('Bidder "'.concat(t, '" not permitted to register their "').concat(e, '" userSync pixels.')) : a.logWarn("Bidder is required for registering sync") : a.logWarn('User sync type "'.concat(e, '" not supported'));
+    var e = 0 < arguments.length && void 0 !== arguments[0] ? arguments[0] : 0;
+    if (e) return setTimeout(E, Number(e));
+  }, p.canBidderRegisterSync = function (e, t) {
+    return !h.filterSettings || !I(e, t);
+            var t = u(e, 2),
+            a.logMessage("Invoking image pixel user sync for bidder: ".concat(n)), a.triggerPixel(r);
+            var t = u(e, 2),
+            a.logMessage("Invoking iframe user sync for bidder: ".concat(n)), a.insertUserSyncIframe(r);
+    var n = h.filterSettings;
+      if (e.all && e[t]) return a.logWarn('Detected presence of the "filterSettings.all" and "filterSettings.'.concat(t, '" in userSync config.  You cannot mix "all" with "iframe/image" configs; they are mutually exclusive.')), !1;
+          r = e.all ? "all" : t;
+      if (!n) return !1;
+      var o = n.filter,
+      if (o && "include" !== o && "exclude" !== o) return a.logWarn('UserSync "filterSettings.'.concat(r, ".filter\" setting '").concat(o, "' is not a valid option; use either 'include' or 'exclude'.")), !1;
+        return a.isStr(e) && "*" !== e;
+      })) || (a.logWarn('Detected an invalid setup in userSync "filterSettings.'.concat(r, ".bidders\"; use either '*' (to represent all bidders) or an array of bidders.")), !1);
+          o = "*" === r.bidders ? [t] : r.bidders;
+    var n = 2 < arguments.length && void 0 !== arguments[2] ? arguments[2] : 1,
+      low: "" === r ? "" : f(e, i, n),
+      med: "" === r ? "" : f(e, a, n),
+      high: "" === r ? "" : f(e, c, n),
+      auto: "" === r ? "" : f(e, s, n),
+      dense: "" === r ? "" : f(e, u, n),
+      custom: "" === r ? "" : f(e, t, n)
+    if (!h(e)) return o;
+        p = e.buckets.reduce(function (e, t) {
+      return e.max > t.max ? e : t;
+        var t = e.precision;
+        if (n <= e.max * r && g * r <= n) return e.min = g, e;
+    return y && (t = n, a = r, c = void 0 !== (i = y).precision ? i.precision : v, u = i.increment * a, s = i.min * a, d = Math.pow(10, c + 2), f = (t * d - s * d) / (u * d), l = Math.floor(f) * u + s, o = (l = Number(l.toFixed(10))).toFixed(c)), o;
+    if (o.isEmpty(e) || !e.buckets || !Array.isArray(e.buckets)) return !1;
+    var t = !0;
+  e.exports = function (e, t) {
+  var n = {}.toString;
+    return 0 < e ? o(r(e), 9007199254740991) : 0;
+  s = f ? (r = new h(), o = r.get, i = r.has, a = r.set, c = function c(e, t) {
+  }) : (v[d = b("state")] = !0, c = function c(e, t) {
+      return s(e) ? u(e) : c(e, {});
+        if (!p(e) || (t = u(e)).type !== n) throw TypeError("Incompatible receiver, " + n + " required");
+  e.exports = function (e, t) {
+    if (!o(e)) return e;
+    if (t && "function" == typeof (n = e.toString) && !o(r = n.call(e))) return r;
+    if ("function" == typeof (n = e.valueOf) && !o(r = n.call(e))) return r;
+    if (!t && "function" == typeof (n = e.toString) && !o(r = n.call(e))) return r;
+    var g = 1 == p,
+        y = 2 == p,
+        b = 3 == p,
+        v = 4 == p,
+        h = 6 == p,
+        m = 5 == p || h;
+      for (var o, i, a = E(e), c = A(a), u = S(t, n, 3), s = O(c.length), d = 0, f = r || I, l = g ? f(e, s) : y ? f(e, 0) : void 0; d < s; d++) {
+        if ((m || d in c) && (i = u(o = c[d], d, a), p)) if (g) l[d] = i;else if (i) switch (p) {
+        } else if (v) return !1;
+      return h ? -1 : b || v ? v : l;
+  var n = Math.ceil,
+  var n = 0,
+  e.exports = function (e, t) {
+        r = !!s(t = t || {}, "ACCESSORS") && t.ACCESSORS,
+        o = s(t, 0) ? t[0] : a,
+        i = s(t, 1) ? t[1] : void 0;
+      if (r && !c) return !0;
+      }) : e[1] = 1, n.call(e, o, i);
+    return void 0 === e ? "Undefined" : null === e ? "Null" : "string" == typeof (n = function (e, t) {
+    }(t = Object(e), i)) ? n : a ? o(t) : "Object" == (r = o(t)) && "function" == typeof t.callee ? "Arguments" : r;
+  e.exports = function (e, t, n, r) {
+    e && (o = n ? e : e.prototype, u(o, d) || a(o, d, {
+    }), r && !i && c(o, "toString", s));
+  e.exports = function (e, t, n, r, o, i, a) {
+      if (e === o && y) return y;
+        b = "Array" == t && p.entries || g;
+    if (b && (u = S(b.call(new e())), w !== Object.prototype && u.next && (T || S(u) === w || (A ? A(u, w) : "function" != typeof u[x] && O(u, x, v)), E(u, f, !0, !0), T && (j[f] = v))), o == U && g && g.name !== U && (l = !0, y = function y() {
+    }), T && !a || p[x] === y || O(p, x, y), j[t] = y, o) if (s = {
+      !C && !l && d in p || I(p, d, s[d]);
+  e.exports = Function.prototype.bind || r;
+        a = (o = n, i = c[r = e] = c[r] || {
+    return a[t] = (a[t] || 0) + 1, a[t];
+  }), t.executeStorageCallbacks = K;
+      for (var t = 1; t < arguments.length; t++) {
+    e.defaultView && e.defaultView.frameElement && (e.defaultView.frameElement.width = t, e.defaultView.frameElement.height = n);
+    }) ? n = e : Object(o.isArrayOfNums)(e, 2) && n.push(e)), n;
+    var t = e.mediaTypes.banner,
+    0 < n.length ? (t.sizes = n, e.sizes = n) : (E.logError("Detected a mediaTypes.banner object without a proper sizes field.  Please ensure the sizes are listed like: [[300, 250], ...].  Removing invalid mediaTypes.banner object from request."), delete e.mediaTypes.banner);
+    var t = e.mediaTypes.video,
+        n = "number" == typeof t.playerSize[0] ? 2 : 1,
+    0 < r.length ? (2 == n && E.logInfo("Transforming video.playerSize from [640,480] to [[640,480]] so it's in the proper format."), t.playerSize = r, e.sizes = r) : (E.logError("Detected incorrect configuration of mediaTypes.video.playerSize.  Please specify only one set of dimensions in a format like: [[640, 480]]. Removing invalid mediaTypes.video.playerSize property from request."), delete e.mediaTypes.video.playerSize);
+    var t = e.mediaTypes.native;
+    t.image && t.image.sizes && !Array.isArray(t.image.sizes) && (E.logError("Please use an array of sizes for native.image.sizes field.  Removing invalid mediaTypes.native.image.sizes property from request."), delete e.mediaTypes.native.image.sizes), t.image && t.image.aspect_ratios && !Array.isArray(t.image.aspect_ratios) && (E.logError("Please use an array of sizes for native.image.aspect_ratios field.  Removing invalid mediaTypes.native.image.aspect_ratios property from request."), delete e.mediaTypes.native.image.aspect_ratios), t.icon && t.icon.sizes && !Array.isArray(t.icon.sizes) && (E.logError("Please use an array of sizes for native.icon.sizes field.  Removing invalid mediaTypes.native.icon.sizes property from request."), delete e.mediaTypes.native.icon.sizes);
+  Object(u.a)(), S.bidderSettings = S.bidderSettings || {}, S.libLoaded = !0, S.version = "v3.23.0", E.logInfo("Prebid.js v3.23.0 loaded"), S.adUnits = S.adUnits || [], S.triggerUserSyncs = T;
+      var t = e.mediaTypes;
+      return t && 0 !== Object.keys(t).length ? (t.banner && F(e), t.video && t.video.playerSize && W(e), t.native && L(e), !0) : (E.logError("Detected adUnit.code '".concat(e.code, "' did not have a 'mediaTypes' object defined.  This is a required field for the auction, so this adUnit has been removed.")), !1);
+    var n = v.a[e]().filter(E.bind.call(o.adUnitsFilter, this, v.a.getAdUnitCodes())),
+        return e.auctionId === r && e.adUnitCode === t;
+      return e && e[0] && e[0].adUnitCode;
+      return t = {}, n = e[0].adUnitCode, r = {
+      }, n in t ? Object.defineProperty(t, n, {
+      }) : t[n] = r, t;
+    var t = e.reason,
+    r && (i.bid = r), o && (i.adId = o), E.logError(n), I.emit(_, i);
+        e.call(), e.called = !0;
+        return e.adUnitCode === t;
+  }, S.setTargetingForGPTAsync = function (e, t) {
+    E.logInfo("Invoking pbjs.setTargetingForGPTAsync", arguments), Object(o.isGptPubadsDefined)() ? (n = f.a.getAllTargeting(e), f.a.resetPresetTargeting(e, t), f.a.setTargetingForGPT(n, t), Object.keys(n).forEach(function (t) {
+    E.logInfo("Invoking pbjs.setTargetingForAn", arguments), f.a.isApntagDefined() ? (f.a.setTargetingForAst(e), I.emit(U, f.a.getAllTargeting())) : E.logError("window.apntag is not defined on the page");
+  }, S.renderAd = function (e, t) {
+      g ? (g.ad = E.replaceAuctionPrice(g.ad, g.cpm), g.adUrl = E.replaceAuctionPrice(g.adUrl, g.cpm), v.a.addWinningBid(g), I.emit(C, g), n = g.height, r = g.width, o = g.ad, i = g.mediaType, a = g.adUrl, c = g.renderer, u = document.createComment("Creative ".concat(g.creativeId, " served by ").concat(g.bidder, " Prebid.js Header Bidding")), E.insertElement(u, e, "body"), Object(h.c)(c) ? Object(h.b)(c, g) : e === document && !E.inIframe() || "video" === i ? (s = "Error trying to write ad. Ad render call ad id ".concat(t, " was prevented from writing to the main document."), J({
+      })) : o ? (navigator.userAgent && -1 < navigator.userAgent.toLowerCase().indexOf("firefox/") && (d = navigator.userAgent.toLowerCase().match(/firefox\/([\d\.]+)/)[1]) && parseInt(d, 10) < 67 && e.open("text/html", "replace"), e.write(o), e.close(), q(e, r, n), E.callBurl(g)) : a ? ((f = E.createInvisibleIframe()).height = n, f.width = r, f.style.display = "inline", f.style.overflow = "hidden", f.src = a, E.insertElement(f, e, "body"), q(e, r, n), E.callBurl(g)) : (l = "Error trying to write ad. No ad for bid response id: ".concat(t), J({
+      }))) : (p = "Error trying to write ad. Cannot find ad by given id : ".concat(t), J({
+      var y = "Error trying to write ad Id :".concat(t, " to the page:").concat(e.message);
+      var b = "Error trying to write ad Id :".concat(t, " to the page. Missing document or adId");
+      for (var t = S.adUnits.length - 1; 0 <= t; t--) {
+        S.adUnits[t].code === e && S.adUnits.splice(t, 1);
+        r = r || S.adUnits;
+          n = t && t.bidders,
+          return e.bidder !== t;
+      15 < s && E.logInfo("Current auction ".concat(u.getAuctionId(), " contains ").concat(s, " adUnits."), r), o.forEach(function (e) {
+    } else if (E.logMessage("No adUnits configured. No bids requested."), "function" == typeof t) try {
+      E.logError("Error executing bidsBackHandler", null, e);
+    E.logInfo("Invoking pbjs.addAdUnits", arguments), E.isArray(e) ? S.adUnits.push.apply(S.adUnits, e) : "object" === b(e) && S.adUnits.push(e), I.emit(w);
+  }, S.onEvent = function (e, t, n) {
+    E.logInfo("Invoking pbjs.onEvent", arguments), E.isFn(t) ? !n || M[e].call(null, n) ? I.on(e, t, n) : E.logError('The id provided is not valid for event "' + e + '" and no handler was set.') : E.logError('The event handler provided is not a function and was not set on event "' + e + '".');
+  }, S.offEvent = function (e, t, n) {
+    E.logInfo("Invoking pbjs.offEvent", arguments), n && !M[e].call(null, n) || I.off(e, t, n);
+  }, S.registerBidAdapter = function (e, t) {
+    e && !E.isEmpty(e) ? (E.logInfo("Invoking pbjs.enableAnalytics for: ", e), O.enableAnalytics(e)) : E.logError("pbjs.enableAnalytics should be called with option {}");
+  }, S.aliasBidder = function (e, t) {
+    E.logInfo("Invoking pbjs.aliasBidder", arguments), e && t ? O.aliasBidAdapter(e, t) : E.logError("bidderCode and alias must be passed as arguments", "pbjs.aliasBidder");
+      return e.status === A.BID_STATUS.BID_TARGETING_SET;
+      return e.adId === t.adId && e.adUnitCode === t.adUnitCode;
+      return e.adId === t.adId;
+    }) : E.logWarn("Inproper usage of markWinningBidAsUsed. It'll need an adUnitCode and/or adId to function."), 0 < e.length && (e[0].status = A.BID_STATUS.RENDERED);
+  }, S.getConfig = d.b.getConfig, S.setConfig = d.b.setConfig, S.setBidderConfig = d.b.setBidderConfig, S.que.push(function () {
+      E.logError("Error processing command :", e.message, e.stack);
+  }, S.que.push = S.cmd.push, S.processQueue = function () {
+  }, t.default = S;
+  t.a = function (t, n) {
+      i.adServers[t][e] ? Object(o.logWarn)("Attempting to add an already registered function property ".concat(e, " for AdServer ").concat(t, ".")) : i.adServers[t][e] = n[e];
+    return "String" == o(e) ? i.call(e, "") : Object(e);
+  (e.exports = function (e, t) {
+      a = r[i] || o(i, {});
+          if ((r = o[a++]) != r) return !0;
+      } else for (; a < i; a++) {
+        if ((c || a in o) && o[a] === t) return c || a || 0;
+      return !c && -1;
+  n(140), n(142), n(144), n(146), n(148), n(149), n(150), n(151), n(152), n(153), n(154), n(155), n(156), n(157), n(158), n(159), n(160), n(161), e.exports = r;
+      if (!i(e)) return "symbol" == _typeof(e) ? e : ("string" == typeof e ? "S" : "P") + e;
+        if (!l(e)) return !0;
+        if (!t) return !1;
+      return s && p.REQUIRED && l(e) && !a(e, d) && r(e), e;
+  e.exports = function (t, e, n, r) {
+      var o = t.return;
+  e.exports = function (e, t, n) {
+      var t = e.parentWindow.Object;
+      return e = null, t;
+    for (var n = u.length; n--;) {
+  s[y] = !0, e.exports = Object.create || function (e, t) {
+    return null !== e ? (r[p] = a(e), n = new r(), r[p] = null, n[y] = e) : n = _b(), void 0 === t ? n : c(n, t);
+  e.exports = function (e, t, n, r) {
+    r && r.enumerable ? e[t] = n : o(e, t, n);
+  [].keys && ("next" in (i = [].keys()) ? (o = a(a(i))) !== Object.prototype && (r = o) : l = !0), null == r && (r = {}), d || u(r, f) || c(r, f, function () {
+    return e = o(e), r(e, c) ? e[c] : "function" == typeof e.constructor && e instanceof e.constructor ? e.constructor.prototype : e instanceof Object ? u : null;
+  var o = n(136).charAt,
+    } : (e = o(n, r), t.index += e.length, {
+  var r = Array.prototype.slice,
+      return e && e.length === arguments.length;
+    }) : Object.keys = a, Object.keys || a;
+  }, e.exports = a;
+  var r = Object.prototype.toString;
+    return e != e;
+  e.exports = function (e, t) {
+    return "function" == typeof Object.is ? Object.is : r;
+  var r = Object,
+    return this.global && (e += "g"), this.ignoreCase && (e += "i"), this.multiline && (e += "m"), this.dotAll && (e += "s"), this.unicode && (e += "u"), this.sticky && (e += "y"), e;
+      var e = i(RegExp.prototype, "flags");
+      if (e && "function" == typeof e.get && "boolean" == typeof /a/.dotAll) return e.get;
+    var t = e;
+  t.a = function (e, t) {
+        n = void 0 === t ? [] : t,
+        o = void 0 !== r && r,
+        a = void 0 === i ? [] : i,
+        c = 1 < arguments.length ? arguments[1] : void 0,
+        u = 2 < arguments.length ? arguments[2] : void 0,
+    var d = Object(p.deepAccess)(c, "banner.sizes");
+        return "banner" !== e;
+        return "banner" === e;
+      }) && 0 < Object(p.deepAccess)(c, "banner.sizes.length") && (0 === n.length || !o && (n.some(function (e) {
+      })) || o && n.reduce(function (e, t) {
+        return e ? s.labels[t] || g()(a, t) : e;
+        var t = !1;
+          Object(p.logWarn)("Unfriendly iFrame blocks sizeConfig from being correctly evaluated"), t = matchMedia(r.mediaQuery).matches;
+            return n[t][e] = !0;
+    return t = e.sizeConfig, void (y = t);
+  t.b = function (e, t, n) {
+          n(new Error("Error storing video ad in the cache: ".concat(e, ": ").concat(JSON.stringify(t))), []);
+      value: e.vastXml ? e.vastXml : (t = e.vastUrl, n = e.vastImpUrl, r = n ? "<![CDATA[".concat(n, "]]>") : "", '<VAST version="3.0">\n    <Ad>\n      <Wrapper>\n        <AdSystem>prebid.org wrapper</AdSystem>\n        <VASTAdTagURI><![CDATA['.concat(t, "]]></VASTAdTagURI>\n        <Impression>").concat(r, "</Impression>\n        <Creatives></Creatives>\n      </Wrapper>\n    </Ad>\n  </VAST>")),
+    return i.b.getConfig("cache.vasttrack") && (o.bidder = e.bidder, o.bidid = e.requestId, a.isPlainObject(this) && this.hasOwnProperty("auctionStart") && (o.timestamp = this.auctionStart)), "string" == typeof e.customCacheKey && "" !== e.customCacheKey && (o.key = e.customCacheKey), o;
+  t.f = r ? d : function (e, t) {
+    if (e = a(e), t = c(t, !0), s) try {
+  var r = {}.propertyIsEnumerable,
+    var t = o(this, e);
+    return !!t && t.enumerable;
+  e.exports = function (e, t) {
+  e.exports = function (t, n) {
+  e.exports = function (e, t) {
+    return n < 0 ? o(n + t, 0) : i(n, t);
+  e.exports = function (n, e, t) {
+        s = u && u.prototype,
+    })) ? (r = e(function (e, t) {
+      }), null != t && b(t, e[i], e, o);
+      var i = "add" == o || "set" == o;
+      o in s && (!c || "clear" != o) && y(r.prototype, o, function (e, t) {
+        var n = a(this).collection;
+        if (!i && c && !h(e)) return "get" == o && void 0;
+        var r = n[o](0 === e ? 0 : e, t);
+        return i ? this : r;
+    }), c || S(r.prototype, "size", {
+    })) : (r = t.getConstructor(e, n, o, i), p.REQUIRED = !0), m(r, n, !1, !0), d[n] = r, f({
+    }, d), c || t.setStrong(r, n, o), r;
+  }), e.exports = r.inspectSource;
+  var s = n(31).f,
+        }, i.first || (i.first = a), r && (r.next = a), y ? i.size++ : e.size++, "F" !== o && (i.index[o] = a)), e;
+      var a = e(function (e, t) {
+        }), y || (e.size = 0), null != t && g(t, e[o], e, r);
+          u = function u(e, t) {
+        for (n = r.first; n; n = n.next) {
+          if (n.key == t) return n;
+          for (var e = c(this), t = e.index, n = e.first; n;) {
+            n.removed = !0, n.previous && (n.previous = n.previous.next = void 0), delete t[n.index], n = n.next;
+          e.first = e.last = void 0, y ? e.size = 0 : this.size = 0;
+          return o && (t = o.next, n = o.previous, delete r.index[o.index], o.removed = !0, n && (n.next = t), t && (t.previous = n), r.first == o && (r.first = t), r.last == o && (r.last = n), y ? r.size-- : this.size--), !!o;
+          for (var n, r = c(this), o = l(e, 1 < arguments.length ? t : void 0, 3); n = n ? n.next : r.first;) {
+          var t = u(this, e);
+          return t && t.value;
+          return i(this, 0 === e ? 0 : e, t);
+          return i(this, e = 0 === e ? 0 : e, e);
+      }), y && s(a.prototype, "size", {
+        for (var e = i(this), t = e.kind, n = e.last; n && n.removed;) {
+      }, n ? "entries" : "values", !n, !0), c(t);
+  e.exports = r ? Object.defineProperties : function (e, t) {
+    for (var n, r = u(t), o = r.length, i = 0; i < o;) {
+  e.exports = function (e, t) {
+      a(r, n = t[o++]) && (~u(i, n) || i.push(n));
+  e.exports = function (e, t, n) {
+      n && n.unsafe && e[r] ? e[r] = t[r] : o(e, r, t[r], n);
+  var i = n(88).IteratorPrototype,
+  e.exports = function (e, t, n) {
+    return e.prototype = a(i, {
+    return e.prototype.constructor = null, Object.getPrototypeOf(new e()) !== e.prototype;
+      (n = Object.getOwnPropertyDescriptor(Object.prototype, "__proto__").set).call(e, []), r = e instanceof Array;
+      return o(e), i(t), r ? n.call(e, t) : e.__proto__ = t, e;
+    a && t && !t[c] && n(t, c, {
+      return i < 0 || a <= i ? c ? "" : void 0 : (n = o.charCodeAt(i)) < 55296 || 56319 < n || i + 1 === a || (r = o.charCodeAt(i + 1)) < 56320 || 57343 < r ? c ? o.charAt(i) : n : c ? o.slice(i, i + 2) : r - 56320 + (n - 55296 << 10) + 65536;
+        f = d && d.prototype;
+    f && i(f) !== u && a(f, u, s), c[s] = c.Array;
+  }, "values"), i.Arguments = i.Array, o("keys"), o("values"), o("entries");
+  e.exports = function (e, t, n) {
+        u = 1 < c ? t : void 0;
+    return s(this), (r = void 0 !== u) && s(u), null == e ? new this() : (o = [], r ? (i = 0, a = d(u, 2 < c ? n : void 0, 2), f(e, function (e) {
+    for (var e = arguments.length, t = new Array(e); e--;) {
+    for (var e = o(this), t = i(e.add), n = 0, r = arguments.length; n < r; n++) {
+    for (var e, t = a(this), n = c(t.delete), r = !0, o = 0, i = arguments.length; o < i; o++) {
+      e = n.call(t, arguments[o]), r = r && e;
+          o = a(e, 1 < arguments.length ? t : void 0, 3);
+          n = new (u(t, i("Set")))(t),
+          o = d(e, 1 < arguments.length ? t : void 0, 3),
+          i = new (f(n, c("Set")))(),
+          o = a(e, 1 < arguments.length ? t : void 0, 3);
+          n = new (u(t, i("Set")))(),
+        if (!0 === n.call(t, e)) return c.stop();
+      return "function" != typeof r && (n = new (i("Set"))(e), r = c(n.has)), !s(t, function (e) {
+        if (!1 === r.call(n, e)) return s.stop();
+        if (!1 === n.call(t, e)) return c.stop();
+          o = d(e, 1 < arguments.length ? t : void 0, 3),
+          i = new (f(n, c("Set")))(),
+          o = arguments.length < 2,
+          i = o ? void 0 : e;
+        i = o ? (o = !1, e) : t(i, e, e, n);
+          o = a(e, 1 < arguments.length ? t : void 0, 3);
+          n = new (u(t, i("Set")))(t),
+          n = new (u(t, i("Set")))(t);
+  e.exports = function (e, t, n) {
+        d = "function" == typeof this ? this : Array,
+        l = 1 < f ? t : void 0,
+        p = void 0 !== l,
+    if (p && (l = b(l, 2 < f ? n : void 0, 2)), null == g || d == Array && m(g)) for (o = new d(r = S(s.length)); y < r; y++) {
+      u = p ? l(s[y], y) : s[y], A(o, y, u);
+    } else for (c = (a = g.call(s)).next, o = new d(); !(i = c.call(a)).done; y++) {
+      u = p ? h(a, l, [i.value, y], !0) : i.value, A(o, y, u);
+    return o.length = y, o;
+  e.exports = function (e, t, n) {
+    r in e ? i.f(e, r, a(0, n)) : e[r] = n;
+    var r = 0,
+  e.exports = function (e, t) {
+    if (!t && !i) return !1;
+    var n = !1;
+      n[r] = o && "object" == _typeof(o) ? e(o) : o;
+    return !(r.strict ? !o(e, t) : e !== t) || (!e || !t || "object" != _typeof(e) && "object" != _typeof(t) ? r.strict ? o(e, t) : e == t : function (e, t, n) {
+      if (_typeof(e) != _typeof(t)) return !1;
+      if (h(e) || h(t)) return !1;
+      if (e.prototype !== t.prototype) return !1;
+      if (l(e) !== l(t)) return !1;
+      if (i !== a) return !1;
+      if (c !== u) return !1;
+        if (e.length !== t.length) return !1;
+        for (r = 0; r < e.length; r++) {
+          if (e[r] !== t[r]) return !1;
+      if (_typeof(e) != _typeof(t)) return !1;
+      if (s.length !== d.length) return !1;
+      for (s.sort(), d.sort(), r = s.length - 1; 0 <= r; r--) {
+        if (s[r] != d[r]) return !1;
+      for (r = s.length - 1; 0 <= r; r--) {
+        if (o = s[r], !v(e[o], t[o], n)) return !1;
+    return null == e;
+  Object.keys || (l = Object.prototype.hasOwnProperty, p = Object.prototype.toString, g = n(94), r = Object.prototype.propertyIsEnumerable, y = !r.call({
+    var t = e.constructor;
+    return t && t.prototype === e;
+    if ("undefined" == typeof window) return !1;
+        if (!o["$" + e] && l.call(window, e) && null !== window[e] && "object" == _typeof(window[e])) try {
+    var a = b && n;
+    if (o && 0 < e.length && !l.call(e, 0)) for (var c = 0; c < e.length; ++c) {
+    if (r && 0 < e.length) for (var u = 0; u < e.length; ++u) {
+      a && "prototype" === s || !l.call(e, s) || i.push(String(s));
+    }(e), f = 0; f < v.length; ++f) {
+      d && "constructor" === v[f] || !l.call(e, v[f]) || i.push(v[f]);
+  }), e.exports = i;
+  r.isLegacyArguments = o, e.exports = c ? r : o;
+  }), e.exports = u;
+  var u = Array.prototype.slice,
+    var n = this;
+    for (var r, e, o = u.call(arguments, 1), i = Math.max(0, n.length - o.length), a = [], c = 0; c < i; c++) {
+        var e = n.apply(this, o.concat(u.call(arguments)));
+        return Object(e) === e ? e : this;
+    }), n.prototype && ((e = function e() {}).prototype = n.prototype, r.prototype = new e(), e.prototype = null), r;
+    "%ArrayBuffer%": "undefined" == typeof ArrayBuffer ? r : ArrayBuffer,
+    "%ArrayBufferPrototype%": "undefined" == typeof ArrayBuffer ? r : ArrayBuffer.prototype,
+    "%ArrayIteratorPrototype%": a ? s([][Symbol.iterator]()) : r,
+    "%AsyncIteratorPrototype%": d && a && Symbol.asyncIterator ? d[Symbol.asyncIterator]() : r,
+    "%Atomics%": "undefined" == typeof Atomics ? r : Atomics,
+    "%DataView%": "undefined" == typeof DataView ? r : DataView,
+    "%DataViewPrototype%": "undefined" == typeof DataView ? r : DataView.prototype,
+    "%Float32Array%": "undefined" == typeof Float32Array ? r : Float32Array,
+    "%Float32ArrayPrototype%": "undefined" == typeof Float32Array ? r : Float32Array.prototype,
+    "%Float64Array%": "undefined" == typeof Float64Array ? r : Float64Array,
+    "%Float64ArrayPrototype%": "undefined" == typeof Float64Array ? r : Float64Array.prototype,
+    "%Int8Array%": "undefined" == typeof Int8Array ? r : Int8Array,
+    "%Int8ArrayPrototype%": "undefined" == typeof Int8Array ? r : Int8Array.prototype,
+    "%Int16Array%": "undefined" == typeof Int16Array ? r : Int16Array,
+    "%Int16ArrayPrototype%": "undefined" == typeof Int16Array ? r : Int8Array.prototype,
+    "%Int32Array%": "undefined" == typeof Int32Array ? r : Int32Array,
+    "%Int32ArrayPrototype%": "undefined" == typeof Int32Array ? r : Int32Array.prototype,
+    "%IteratorPrototype%": a ? s(s([][Symbol.iterator]())) : r,
+    "%JSON%": "object" == (typeof JSON === "undefined" ? "undefined" : _typeof(JSON)) ? JSON : r,
+    "%JSONParse%": "object" == (typeof JSON === "undefined" ? "undefined" : _typeof(JSON)) ? JSON.parse : r,
+    "%Map%": "undefined" == typeof Map ? r : Map,
+    "%MapIteratorPrototype%": "undefined" != typeof Map && a ? s(new Map()[Symbol.iterator]()) : r,
+    "%MapPrototype%": "undefined" == typeof Map ? r : Map.prototype,
+    "%Promise%": "undefined" == typeof Promise ? r : Promise,
+    "%PromisePrototype%": "undefined" == typeof Promise ? r : Promise.prototype,
+    "%PromiseProto_then%": "undefined" == typeof Promise ? r : Promise.prototype.then,
+    "%Promise_all%": "undefined" == typeof Promise ? r : Promise.all,
+    "%Promise_reject%": "undefined" == typeof Promise ? r : Promise.reject,
+    "%Promise_resolve%": "undefined" == typeof Promise ? r : Promise.resolve,
+    "%Proxy%": "undefined" == typeof Proxy ? r : Proxy,
+    "%Reflect%": "undefined" == typeof Reflect ? r : Reflect,
+    "%Set%": "undefined" == typeof Set ? r : Set,
+    "%SetIteratorPrototype%": "undefined" != typeof Set && a ? s(new Set()[Symbol.iterator]()) : r,
+    "%SetPrototype%": "undefined" == typeof Set ? r : Set.prototype,
+    "%SharedArrayBuffer%": "undefined" == typeof SharedArrayBuffer ? r : SharedArrayBuffer,
+    "%SharedArrayBufferPrototype%": "undefined" == typeof SharedArrayBuffer ? r : SharedArrayBuffer.prototype,
+    "%StringIteratorPrototype%": a ? s(""[Symbol.iterator]()) : r,
+    "%Symbol%": a ? Symbol : r,
+    "%SymbolPrototype%": a ? Symbol.prototype : r,
+    "%TypedArrayPrototype%": f ? f.prototype : r,
+    "%Uint8Array%": "undefined" == typeof Uint8Array ? r : Uint8Array,
+    "%Uint8ArrayPrototype%": "undefined" == typeof Uint8Array ? r : Uint8Array.prototype,
+    "%Uint8ClampedArray%": "undefined" == typeof Uint8ClampedArray ? r : Uint8ClampedArray,
+    "%Uint8ClampedArrayPrototype%": "undefined" == typeof Uint8ClampedArray ? r : Uint8ClampedArray.prototype,
+    "%Uint16Array%": "undefined" == typeof Uint16Array ? r : Uint16Array,
+    "%Uint16ArrayPrototype%": "undefined" == typeof Uint16Array ? r : Uint16Array.prototype,
+    "%Uint32Array%": "undefined" == typeof Uint32Array ? r : Uint32Array,
+    "%Uint32ArrayPrototype%": "undefined" == typeof Uint32Array ? r : Uint32Array.prototype,
+    "%WeakMap%": "undefined" == typeof WeakMap ? r : WeakMap,
+    "%WeakMapPrototype%": "undefined" == typeof WeakMap ? r : WeakMap.prototype,
+    "%WeakSet%": "undefined" == typeof WeakSet ? r : WeakSet,
+  e.exports = function (e, t) {
+    for (var o, n = (o = [], p(e, g, function (e, t, n, r) {
+      o[o.length] = n ? p(r, y, "$1") : t || e;
+    }), o), r = function (e, t) {
+      if (void 0 === l[e] && !t) throw new c("intrinsic " + e + " exists, but is not available. Please file an issue!");
+    }("%" + (0 < n.length ? n[0] : "") + "%", t), i = 1; i < n.length; i += 1) {
+        var a = u(r, n[i]);
+        if (!(t || n[i] in r)) throw new c("base intrinsic for " + e + " exists, but the property is not available.");
+    var t = e.Symbol,
+    if ("function" != typeof Symbol || "function" != typeof Object.getOwnPropertySymbols) return !1;
+    if ("symbol" == _typeof(Symbol.iterator)) return !0;
+    if ("string" == typeof t) return !1;
+    if ("[object Symbol]" !== Object.prototype.toString.call(t)) return !1;
+    if ("[object Symbol]" !== Object.prototype.toString.call(n)) return !1;
+    for (t in (e[t] = 42, e)) {
+    if ("function" == typeof Object.keys && 0 !== Object.keys(e).length) return !1;
+    if ("function" == typeof Object.getOwnPropertyNames && 0 !== Object.getOwnPropertyNames(e).length) return !1;
+    if (1 !== r.length || r[0] !== t) return !1;
+      var o = Object.getOwnPropertyDescriptor(e, t);
+      if (42 !== o.value || !0 !== o.enumerable) return !1;
+        return Object.is !== e;
+    if (!e || "object" != _typeof(e)) return !1;
+    var t = i(e, "lastIndex");
+    return !(!t || !r(t, "value")) && function (e) {
+        var t = e.lastIndex;
+        return e.lastIndex = 0, o.call(e), !0;
+  }), e.exports = u;
+  var r = n(43).supportsDescriptors,
+    return n && n.get === e || a(t, "flags", {
+  var r = Date.prototype.getDay,
+  t.a = function (e, t, n, r, o) {
+    for (t = t.split ? t.split(".") : t, r = 0; r < t.length; r++) {
+      e = e ? e[t[r]] : o;
+    return e === o ? n : e;
+  t.a = function (e, t, n) {
+      r = "2,1,0" === [1].reduce(function (e, t, n) {
+  }, 2).toString() ? Array.prototype.reduce : function (e, t) {
+        o = r.length >>> 0,
+      i in r && (n = e(n, r[i], i, r)), i++;
+      return "function" == typeof e ? f.call(null, "sync", e, t) : "string" == typeof e && "function" == typeof t ? f.apply(null, arguments) : "object" == _typeof(e) ? function (i, e, a) {
+        var t = !0;
+          c[r] || (t = i[r], c[r] = i[r] = f(o, t, a ? [a, r] : void 0));
+            console.error("error adding `remove` to array, did you modify Array.prototype?");
+            -1 !== e && (t.splice(e, 1), c(i, a));
+        return t.push(o), t.sort(function (e, t) {
+          return t.priority - e.priority;
+          return i[t] || Reflect.get.apply(Reflect, arguments);
+      return s || d.push(c), u.useProxy && "function" == typeof Proxy && Proxy.revocable ? o = new Proxy(e, a) : v(o = function o() {
+        return a.apply ? a.apply(e, this, b(arguments)) : e.apply(this, arguments);
+        r = e.length || t.length ? (e.forEach(n), s = d.push(void 0) - 1, t.forEach(n), function (n, r, e) {
+            "sync" === f ? o = e : a && a.apply(null, arguments);
+              return u.bail = c, t.unshift(u), d[i++].apply(r, t);
+            "sync" === f ? o = e : a && a.apply(null, arguments);
+            var e = b(arguments, 1);
+            "async" === f && a && (delete u.bail, e.push(u));
+            var t = n.apply(r, e);
+        }) : void 0;
+          var e = arguments;
+        } : a.apply = r;
+    return (u = v({}, n, u)).ready ? t.ready = function () {
+    } : s = !0, t.get = l, t;
+        return e.adId === f.adId;
+      if (l && "Prebid Request" === f.message && (n = e, r = (t = l).adId, o = t.ad, i = t.adUrl, a = t.width, c = t.height, u = t.renderer, s = t.cpm, Object(m.c)(u) ? Object(m.b)(u, t) : r && (function (e) {
+        var i = e.adId,
+              r = (t = i, n = a, window.googletag ? function (n) {
+            return t && t.targetId;
+              n = c(e + ':not([style*="display: none"])');
+          n ? ((t = n.style).width = r + "px", t.height = o + "px") : Object(b.logWarn)("Unable to locate matching page element for adUnitCode ".concat(a, ".  Can't resize it to ad's dimensions.  Please review setup."));
+      }), n.origin)), v.a.addWinningBid(l), g.a.emit(A, l)), l && "Prebid Native" === f.message) {
+          var p = Object(y.c)(f, l);
+        if ("click" === Object(y.b)(f, l)) return;
+      e = e || window.sessionStorage, t = JSON.parse(e.getItem(u));
+    r = function (e, t, n) {
+      if (y(this.bidders, n.bidderCode)) return void d("bidder '".concat(n.bidderCode, "' excluded from auction by bidder overrides"));
+    }.bind(e), c.c.before(r, 5), o = function (e, t) {
+      var r = this,
+    var n = 1 < arguments.length && void 0 !== t && t;
+      return s("bidder overrides changed '".concat(e.adUnitCode, "/").concat(e.bidderCode, "' ").concat(r, ".").concat(t, " from '").concat(e[t], ".js' to '").concat(n[t], "'")), e[t] = n[t], e;
+        return n[r] = !1, "/./"[t](n);
+    return !r(e) && isFinite(e) && o(e) === e;
+        for (var n = 0; n < f.length; n++) {
+        }, b = !1;
+      u.logMessage("event count sent to Amplitude: " + y);
+      var e = n.provider,
+      v ? (o = a.getEvents(), u._each(o, function (n) {
+        "object" === i(n) && (e = n.args, n.eventType === s ? T(e) : n.eventType === d ? h(e) : n.eventType === c ? S(e) : n.eventType === r && j(e));
+        return u.logMessage("Analytics adapter already enabled, unnecessary call to `enableAnalytics`.");
+    }), e.default = m;
+        for (var r = 1; r < arguments.length; r++) {
+      }(e) || function (e, r) {
+        if ("string" == typeof e) return o(e, r);
+        var t = Object.prototype.toString.call(e).slice(8, -1);
+        if ("Arguments" === t || /^(?:Ui|I)nt(?:8|16|32)(?:Clamped)?Array$/.test(t)) return o(e, r);
+        throw new TypeError("Invalid attempt to spread non-iterable instance.\nIn order to be iterable, non-array objects must have a [Symbol.iterator]() method.");
+      for (var t = 0, a = new Array(r); t < r; t++) {
+            c = E.getCookie("apn_prebid_debug") || null;
+          var l = k()(e, D);
+            g = f ? parseInt(f.params.member, 10) : 0,
+        0 < g && (v.member_id = g), s && (v.device = i), d && (v.app = o), I.b.getConfig("adpod.brandCategoryExclusion") && (v.brand_category_uniqueness = !0), u.enabled && (v.debug = u, _.logInfo("AppNexus Debug Auction Settings:\n\n" + JSON.stringify(u, null, 4))), r && r.gdprConsent && (v.gdpr_consent = {
+        }, v.referrer_detection = m), k()(e, V) && e.filter(V).forEach(function (r) {
+          var e = function (e, r) {
+            var t = r.mediaTypes.video,
+              var r = e.adPodDurationSec,
+              return a ? Math.max(i, t.length) : i;
+              return e.uuid === r.bidId;
+              n ? (p = Math.ceil(i / a.length), u = _.chunk(d, p), a.forEach(function (r, e) {
+            return e.uuid !== r.bidId;
+        }), v.tpuids = b), a[0].publisher_id && (v.publisher_id = a[0].publisher_id), function (e, t) {
+            var r = !0;
+            e && e.gdprConsent && e.gdprConsent.gdprApplies && 2 === e.gdprConsent.apiVersion && (r = !(!0 !== _.deepAccess(e.gdprConsent, "vendorData.purpose.consents.1")));
+            15 < e.tags.length ? (i = _.deepClone(e), _.chunk(e.tags, 15).forEach(function (e) {
+        var i = this,
+              n = (r = e) && r.ads && r.ads.length && k()(r.ads, function (e) {
+          n && 0 !== n.cpm && x()(i.supportedMediaTypes, n.ad_type) && ((t = function (r, e, t) {
+            var a = _.getBidRequest(r.uuid, [t]),
+            e.advertiser_id && (n.meta = b({}, n.meta, {
+                  var o = Object(g.getIabSubCategory)(a.bidder, e.brand_category_id);
+                  n.meta = b({}, n.meta, {
+                  var d = e.deal_priority;
+                  }, n.vastUrl = e.rtb.video.asset_url;
+                  n.adResponse = r, n.adResponse.ad = n.adResponse.ads[0], n.adResponse.ad.video = n.adResponse.ad.rtb.video, n.vastXml = e.rtb.video.content, e.renderer_url && (i = k()(t.bids, function (e) {
+                    return e.bidId === r.uuid;
+                  }), s = _.deepAccess(i, "renderer.options"), n.renderer = function (e, r) {
+              null == c ? c = u : _.isStr(c) ? c = [c, u] : c.push(u), n[y.c] = {
+          }(e, n, s)).mediaType = (a = n.ad_type) === y.d ? y.d : a === y.c ? y.c : y.b, o.push(t));
+        }), e.debug && e.debug.debug_info && (t = (t = "AppNexus Debug Auction for Prebid\n\n" + e.debug.debug_info).replace(/(<td>|<th>)/gm, "\t").replace(/(<\/td>|<\/th>)/gm, "\n").replace(/^<br>/gm, "").replace(/(<br>\n|<br>)/gm, "\n").replace(/<h1>(.*)<\/h1>/gm, "\n\n===== $1 =====\n\n").replace(/<h[2-6]>(.*)<\/h[2-6]>/gm, "\n\n*** $1 ***\n\n").replace(/(<([^>]+)>)/gim, ""), _.logMessage("https://console.appnexus.com/docs/understanding-the-debug-auction"), _.logMessage(t)), o;
+        var a = "in response for ".concat(s.bidderCode, " adapter");
+        return e && e.error && (a += ": ".concat(e.error)), _.logError(a), o;
+        }, t), e && (t.use_pmt_rule = "boolean" == typeof t.usePaymentRule && t.usePaymentRule, t.usePaymentRule && delete t.usePaymentRule, R(t.keywords) && t.keywords.forEach(j), Object.keys(t).forEach(function (e) {
+            if (_.isStr(e) && P(e)) r = e;else if (_.isArray(e)) for (var t = 0; t < e.length; t++) {
+          if (r) for (var t = "pbjs_adid=" + e.adId + ";pbjs_auc=" + e.adUnitCode, a = function (e) {
+            var r = e.indexOf('src="') + 5,
+          }(r), n = a.replace("dom_id=%native_dom_id%", t), i = document.getElementsByTagName("iframe"), s = !1, o = 0; o < i.length && !s; o++) {
+              var p = d.contentDocument || d.contentWindow.document;
+              if (p) for (var u = p.getElementsByTagName("script"), c = 0; c < u.length && !s; c++) {
+              if (!(e instanceof DOMException && "SecurityError" === e.name)) throw e;
+      return _.isArray(e) && 0 < e.length;
+      R(e.value) && "" === e.value[0] && delete e.value;
+          t = null != r && 1 <= r.length,
+          n = null != a && 1 <= a.length;
+      return e.startsWith(l) && n && t;
+      a.sizes = N(r.sizes), a.primary_size = a.sizes[0], a.ad_types = [], a.uuid = r.bidId, r.params.placementId ? a.id = parseInt(r.params.placementId, 10) : a.code = r.params.invCode, a.allow_smaller_sizes = r.params.allowSmallerSizes || !1, a.use_pmt_rule = r.params.usePaymentRule || !1, a.prebid = !0, a.disable_psa = !0, r.params.reserve && (a.reserve = r.params.reserve), r.params.position && (a.position = {
+      }[r.params.position] || 0), r.params.trafficSourceCode && (a.traffic_source_code = r.params.trafficSourceCode), r.params.privateSizes && (a.private_sizes = N(r.params.privateSizes)), r.params.supplyType && (a.supply_type = r.params.supplyType), r.params.pubClick && (a.pubclick = r.params.pubClick), r.params.extInvCode && (a.ext_inv_code = r.params.extInvCode), r.params.publisherId && (a.publisher_id = parseInt(r.params.publisherId, 10)), r.params.externalImpId && (a.external_imp_id = r.params.externalImpId), _.isEmpty(r.params.keywords) || (0 < (e = _.transformBidderParamKeywords(r.params.keywords)).length && e.forEach(j), a.keywords = e), r.mediaType !== y.c && !_.deepAccess(r, "mediaTypes.".concat(y.c)) || (a.ad_types.push(y.c), 0 === a.sizes.length && (a.sizes = N([1, 1])), r.nativeParams && (n = r.nativeParams, i = {}, Object.keys(n).forEach(function (e) {
+            t = c[e] && c[e].serverName || c[e] || e,
+            a = c[e] && c[e].requiredParams;
+        i[t] = b({}, a, n[e]), t !== c.image.serverName && t !== c.icon.serverName || !i[t].sizes || (r = i[t].sizes, (_.isArrayOfNums(r) || _.isArray(r) && 0 < r.length && r.every(function (e) {
+      }), t = i, a[y.c] = {
+      var s = _.deepAccess(r, "mediaTypes.".concat(y.d)),
+      a.hb_source = s && "adpod" === o ? 7 : 1, r.mediaType !== y.d && !s || a.ad_types.push(y.d), (r.mediaType === y.d || s && "outstream" !== o) && (a.require_asset_url = !0), r.params.video && (a.video = {}, Object.keys(r.params.video).filter(function (e) {
+      })), r.renderer && (a.video = b({}, a.video, {
+        return r.transactionId === e.transactionId;
+      return d && d.mediaTypes && d.mediaTypes.banner && a.ad_types.push(y.b), 0 === a.ad_types.length && delete a.ad_types, a;
+      if (_.isArray(e) && 2 === e.length && !_.isArray(e[0])) t.width = parseInt(e[0], 10), t.height = parseInt(e[1], 10), r.push(t);else if ("object" === s(e)) for (var a = 0; a < e.length; a++) {
+      if (e.params) return !!e.params.app;
+      return e.params && e.params.app ? !!e.params.app.id : !!e.params.app;
+      return e.mediaTypes && e.mediaTypes.video && e.mediaTypes.video.context === y.a;
+      _.isEmpty(e.video) && (e.video = {}), e.video[r] = t;
+    }), t.requestBidsHook = M, t.resetConsentData = function () {
+      C = void 0, l = void 0, w = 0, a.gdprDataHandler.setConsentData(null);
+    }, t.setConsentConfig = _;
+          d.logInfo("Received a response from CMP", n), t ? ("tcloaded" === n.eventStatus || "useractioncomplete" === n.eventStatus || "cmpuishown" === n.eventStatus && n.tcString && !0 === n.purposeOneTreatment) && o(n, s) : e("CMP unable to register callback function.  Please check CMP setup.", s);
+            t.getConsentData && t.getVendorConsents && (d.logInfo("Received all requested responses from CMP", t), o(t, s));
+                t = "function" == typeof e.__tcfapi ? (w = 2, e.__tcfapi) : (w = 1, e.__cmp), n = e;
+            if (e === window.top) break;
+        d.isFn(r) ? (d.logInfo("Detected CMP API is directly accessible, calling it now..."), 1 === w ? (r("getConsentData", null, t.consentDataCallback), r("getVendorConsents", null, t.vendorConsentsCallback)) : 2 === w && r("addEventListener", w, n)) : 1 === w && window.$sf && window.$sf.ext && "function" == typeof window.$sf.ext.cmp ? (d.logInfo("Detected Prebid.js is encased in a SafeFrame and CMP is registered, calling it now..."), c("getConsentData", t.consentDataCallback), c("getVendorConsents", t.vendorConsentsCallback)) : (d.logInfo("Detected CMP is outside the current iframe where Prebid.js is located, calling it now..."), 1 === w ? (l("getConsentData", i, t.consentDataCallback), l("getVendorConsents", i, t.vendorConsentsCallback)) : 2 === w && l("addEventListener", i, n));
+          Array.isArray(t) && 0 < t.length && (e = (n = d.getAdUnitSizes(t[0]))[0][0], i = n[0][1]), window.$sf.ext.register(e, i, function (n, t) {
+            "cmpReturn" === n && (e = "getConsentData" === o ? t.vendorConsentData : t.vendorConsents, a(e));
+          window[d] = function (n, t, e) {
+            }, (a = r) in (o = {}) ? Object.defineProperty(o, a, {
+            }) : o[a] = i, o);
+            1 !== w && (c[r].version = w), u[s] = e, l.postMessage(c, "*");
+            var t = "".concat(d, "Return"),
+                e = "string" == typeof n.data && f()(n.data, t) ? JSON.parse(n.data) : n.data;
+              e[t] && e[t].callId && (o = e[t], void 0 !== u[o.callId] && u[o.callId](o.returnValue, o.success));
+      return C ? (d.logInfo("User consent information already known.  Pulling internally stored information..."), A(null, e)) : s()(Object.keys(k), l) ? (k[l].call(this, h, P, e), void (e.haveExited || (0 === u ? h(void 0, e) : e.timer = setTimeout(function (n) {
+      }.bind(null, e), u)))) : (d.logWarn("CMP framework (".concat(l, ") is not a supported framework.  Aborting consentManagement module and resuming auction.")), e.nextFn.apply(e.context, e.args));
+        var t = n && n.getConsentData && n.getConsentData.gdprApplies;
+        var n = e && "boolean" == typeof e.gdprApplies ? e.gdprApplies : g,
+            t = e && e.tcString;
+      d.isFn(t) ? t(e) ? P("CMP returned unexpected value during lookup process.", n, e) : (clearTimeout(n.timer), S(e), A(null, n)) : P("Unable to derive CMP version to process data.  Consent object does not conform to TCF v1 or v2 specs.", n, e);
+      clearTimeout(t.timer), p && S(void 0), A(n, t, e);
+        consentString: n ? n.getConsentData.consentData : void 0,
+        vendorData: n ? n.getVendorConsents : void 0,
+        consentString: n ? n.tcString : void 0,
+      !1 === t.haveExited && (t.haveExited = !0, o = t.context, a = t.args, i = t.nextFn, n ? p ? (d.logWarn(n + " Resuming auction without consent data as per consentManagement config.", e), i.apply(o, a)) : (d.logError(n + " Canceling auction as per consentManagement config.", e), "function" == typeof t.bidsBackHandler ? t.bidsBackHandler() : d.logError("Error executing bidsBackHandler")) : i.apply(o, a));
+      (n = n.gdpr || n.usp ? n.gdpr : n) && "object" === c(n) ? (d.isStr(n.cmpApi) ? l = n.cmpApi : (l = b, d.logInfo("consentManagement config did not specify cmp.  Using system default setting (".concat(b, ")."))), d.isNumber(n.timeout) ? u = n.timeout : (u = v, d.logInfo("consentManagement config did not specify timeout.  Using system default setting (".concat(v, ")."))), "boolean" == typeof n.allowAuctionWithoutConsent ? p = n.allowAuctionWithoutConsent : (p = y, d.logInfo("consentManagement config did not specify allowAuctionWithoutConsent.  Using system default setting (".concat(y, ")."))), g = !0 === n.defaultGdprScope, d.logInfo("consentManagement module has been activated..."), "static" === l && (d.isPlainObject(n.consentData) ? (m = n.consentData, u = 0) : d.logError("consentManagement config with cmpApi: 'static' did not specify consentData. No consents will be available to adapters.")), D || pbjs.requestBids.before(M, 50), D = !0) : d.logWarn("consentManagement config not defined, exiting consent manager");
+    }), t.requestBidsHook = m, t.resetConsentData = function () {
+      l = void 0, c = void 0, o.uspDataHandler.setConsentData(null);
+    }, t.setConsentConfig = P;
+              t && n.uspString && (e.usPrivacy = n.uspString), e.usPrivacy ? a(e, i) : o("Unable to get USP consent string.", i);
+          for (var c = window; !t;) {
+            if (c === window.top) break;
+              var t = n && n.data && n.data.__uspapiReturn;
+              t && t.callId && void 0 !== s[t.callId] && (s[t.callId](t.returnValue, t.success), delete s[t.callId]);
+            window.__uspapi = function (n, t, e) {
+      return l ? y(null, e) : g[c] ? (g[c].call(this, v, b, e), void (e.haveExited || (0 === r ? v(void 0, e) : e.timer = setTimeout(function (n) {
+      }.bind(null, e), r)))) : (s.logWarn("USP framework (".concat(c, ") is not a supported framework. Aborting consentManagement module and resuming auction.")), e.nextFn.apply(e.context, e.args));
+      !n || !n.usPrivacy ? b("USPAPI returned unexpected value during lookup process.", t, n) : (clearTimeout(t.timer), (e = n) && e.usPrivacy && (l = e.usPrivacy, o.uspDataHandler.setConsentData(l)), y(null, t));
+      !1 === t.haveExited && (t.haveExited = !0, a = t.context, o = t.args, i = t.nextFn, n && s.logWarn(n + " Resuming auction without consent data as per consentManagement config.", e), i.apply(a, o));
+      (n = n.usp) && "object" === i(n) ? (s.isStr(n.cmpApi) ? c = n.cmpApi : (c = d, s.logInfo("consentManagement.usp config did not specify cmpApi. Using system default setting (".concat(d, ")."))), s.isNumber(n.timeout) ? r = n.timeout : (r = p, s.logInfo("consentManagement.usp config did not specify timeout. Using system default setting (".concat(p, ")."))), s.logInfo("USPAPI consentManagement module has been activated..."), "static" === c && (s.isPlainObject(n.consentData) && s.isPlainObject(n.consentData.getUSPData) ? (n.consentData.getUSPData.uspString && (u = {
+      }), r = 0) : s.logError("consentManagement config with cmpApi: 'static' did not specify consentData. No consents will be available to adapters.")), f || pbjs.requestBids.before(m, 50), f = !0) : s.logWarn("consentManagement.usp config not defined, exiting usp consent manager");
+    }), e.tryGetCriteoFastBid = x;
+        for (var e = 1; e < arguments.length; e++) {
+    var c = 31,
+          var r = !0;
+            void 0 === f.deepAccess(e, "mediaTypes.video." + t) && (r = !1, f.logError("Criteo Bid Adapter: mediaTypes.video." + t + " is required"));
+            void 0 === f.deepAccess(e, "params.video." + t) && (r = !1, f.logError("Criteo Bid Adapter: params.video." + t + " is required"));
+            if ("instream" == e.mediaTypes.video.context && 1 === e.params.video.placement) return !0;
+            if ("outstream" == e.mediaTypes.video.context && 1 !== e.params.video.placement) return !0;
+        }), T() || (window.Criteo = window.Criteo || {}, window.Criteo.usePrebidEvents = !1, x(), setTimeout(function () {
+        }, e.timeout)), s = T() ? (r = new Criteo.PubTag.Adapters.Prebid(v, c, t, e, "3.23.0"), i = d.b.getConfig("enableSendAllBids"), r.setEnableSendAllBids && "function" == typeof r.setEnableSendAllBids && "boolean" == typeof i && r.setEnableSendAllBids(i), n = r.buildCdbUrl(), r.buildCdbRequest()) : (n = function (t) {
+        }(o = function (t, e) {
+          var i = f.parseUrl(r).search,
+              o = t.params.networkId || o;
+              return t.params.zoneId && (i.zoneid = t.params.zoneId), t.fpd && t.fpd.context && (i.ext = t.fpd.context), t.params.ext && (i.ext = u({}, i.ext, t.params.ext)), t.params.publisherSubId && (i.publishersubid = t.params.publisherSubId), t.params.nativeCallback || f.deepAccess(t, "mediaTypes.".concat(h.c)) ? (i.native = !0, (e = t).nativeParams && (e.nativeParams.image && !0 !== e.nativeParams.image.sendId || e.nativeParams.icon && !0 !== e.nativeParams.icon.sendId || e.nativeParams.clickUrl && !0 !== e.nativeParams.clickUrl.sendId || e.nativeParams.displayUrl && !0 !== e.nativeParams.displayUrl.sendId || e.nativeParams.privacyLink && !0 !== e.nativeParams.privacyLink.sendId || e.nativeParams.privacyIcon && !0 !== e.nativeParams.privacyIcon.sendId) && f.logWarn("Criteo: all native assets containing URL should be sent as placeholders with sendId(icon, image, clickUrl, displayUrl, privacyLink, privacyIcon)"), i.sizes = A(C(t), I)) : i.sizes = A(C(t), S), R(t) && ((r = {
+          r && r.gdprConsent && (i.gdprConsent = {}, void 0 !== r.gdprConsent.gdprApplies && (i.gdprConsent.gdprApplies = !!r.gdprConsent.gdprApplies), i.gdprConsent.version = r.gdprConsent.apiVersion, void 0 !== r.gdprConsent.consentString && (i.gdprConsent.consentData = r.gdprConsent.consentString));
+        var e = t.body || t;
+          if (r) return r.interpretResponse(e, u);
+            if (s.params.nativeCallback) p.ad = (r = a, i = e.native, o = s.params.nativeCallback, n = "criteo_prebid_native_slots", window[n] = window[n] || {}, window[n][r] = {
+            }, '\n<script type="text/javascript">\nfor (var i = 0; i < 10; ++i) {\n var slots = window.parent.'.concat(n, ';\n  if(!slots){continue;}\n  var responseSlot = slots["').concat(r, '"];\n  responseSlot.callback(responseSlot.payload);\n  break;\n}\n<\/script>'));else {
+              if (!0 === d.b.getConfig("enableSendAllBids")) return;
+              }, p.mediaType = h.c;
+          } else e.video ? (p.vastUrl = e.displayurl, p.mediaType = h.d) : p.ad = e.creative;
+      return "undefined" != typeof Criteo && Criteo.PubTag && Criteo.PubTag.Adapters && Criteo.PubTag.Adapters.Prebid;
+      return void 0 !== f.deepAccess(t, "params.video") && void 0 !== f.deepAccess(t, "mediaTypes.video");
+            s = "// Hash: ",
+        null !== a && (t = a.indexOf("\n"), (e = a.substr(0, t).trim()).substr(0, s.length) !== s ? (f.logWarn("No hash found in FastBid"), y.removeDataFromLocalStorage(n)) : (r = e.substr(s.length), i = a.substr(t + 1), Object(p.verify)(i, r, g, b) ? (f.logInfo("Using Criteo FastBid"), (o = document.createElement("script")).type = "text/javascript", o.text = i, f.insertElement(o)) : (f.logWarn("Invalid Criteo FastBid found"), y.removeDataFromLocalStorage(n))));
+    e.verify = function (t, e, r, i) {
+          o = this.DB - i * this.DB % 4;
+      if (0 < i--) for (o < this.DB && 0 < (t = this[i] >> o) && (e = !0, r = c(t)); 0 <= i;) {
+        o < 4 ? (t = (this[i] & (1 << o) - 1) << 4 - o, t |= this[--i] >> (o += this.DB - 4)) : (t = this[i] >> (o -= 4) & 15, o <= 0 && (o += this.DB, --i)), 0 < t && (e = !0), e && (r += c(t));
+        for (var e = t.length, r = !1, i = 0; 0 <= --e;) {
+          var o = p(t, e);
+          o < 0 ? "-" == t.charAt(e) && (r = !0) : (r = !1, 0 == i ? this[this.t++] = o : i + 4 > this.DB ? (this[this.t - 1] |= (o & (1 << this.DB - i) - 1) << i, this[this.t++] = o >> this.DB - i) : this[this.t - 1] |= o << i, (i += 4) >= this.DB && (i -= this.DB));
+        this.clamp(), r && g.ZERO.subTo(this, this);
+      return this.s < 0 ? this.negate() : this;
+      return this.abs().divRemTo(t, null, e), this.s < 0 && 0 < e.compareTo(g.ZERO) && t.subTo(e, e), e;
+      for (var e = this.t - 1; 0 <= e; --e) {
+    }, g.prototype.lShiftTo = function (t, e) {
+      for (var r = t % this.DB, i = this.DB - r, o = (1 << i) - 1, n = Math.floor(t / this.DB), s = this.s << r & this.DM, a = this.t - 1; 0 <= a; --a) {
+        e[a + n + 1] = this[a] >> i | s, s = (this[a] & o) << r;
+      for (a = n - 1; 0 <= a; --a) {
+      e[n] = s, e.t = this.t + n + 1, e.s = this.s, e.clamp();
+      if (this.t < 1) return 0;
+      if (0 == (1 & t)) return 0;
+      var e = 3 & t;
+      return 0 < (e = (e = (e = (e = e * (2 - (15 & t) * e) & 15) * (2 - (255 & t) * e) & 255) * (2 - ((65535 & t) * e & 65535)) & 65535) * (2 - t * e % this.DV) % this.DV) ? this.DV - e : -e;
+    }, g.prototype.dlShiftTo = function (t, e) {
+      for (var r = this.t - 1; 0 <= r; --r) {
+      for (r = t - 1; 0 <= r; --r) {
+      e.t = this.t + t, e.s = this.s;
+      for (var e = this.abs(), r = t.t = 2 * e.t; 0 <= --r;) {
+      for (r = 0; r < e.t - 1; ++r) {
+        var i = e.am(r, e[r], t, 2 * r, 0, 1);
+        (t[r + e.t] += e.am(r + 1, 2 * e[r], t, 2 * r + 1, i, e.t - r - 1)) >= e.DV && (t[r + e.t] -= e.DV, t[r + e.t + 1] = 1);
+      0 < t.t && (t[t.t - 1] += e.am(r, e[r], t, 2 * r, 0, 1)), t.s = 0, t.clamp();
+    }, g.prototype.multiplyTo = function (t, e) {
+      for (e.t = o + i.t; 0 <= --o;) {
+      for (o = 0; o < i.t; ++o) {
+        e[o + r.t] = r.am(0, i[o], e, o, 0, r.t);
+      e.s = 0, e.clamp(), this.s != t.s && g.ZERO.subTo(e, e);
+    }, g.prototype.divRemTo = function (t, e, r) {
+        0 < p ? (i.lShiftTo(p, n), o.lShiftTo(p, r)) : (i.copyTo(n), o.copyTo(r));
+        var u = n.t,
+              h = this.FV / d,
+              f = (1 << this.F1) / d,
+              l = 1 << this.F2,
+              v = m - u,
+              y = null == e ? T() : e;
+          for (n.dlShiftTo(v, y), 0 <= r.compareTo(y) && (r[r.t++] = 1, r.subTo(y, r)), g.ONE.dlShiftTo(u, y), y.subTo(n, n); n.t < u;) {
+            if ((r[m] += n.am(0, b, r, v, 0, u)) < b) for (n.dlShiftTo(v, y), r.subTo(y, r); r[m] < --b;) {
+          null != e && (r.drShiftTo(u, e), s != a && g.ZERO.subTo(e, e)), r.t = u, r.clamp(), 0 < p && r.rShiftTo(p, r), s < 0 && g.ZERO.subTo(r, r);
+    }, g.prototype.rShiftTo = function (t, e) {
+        var i = t % this.DB,
+            o = this.DB - i,
+            n = (1 << i) - 1;
+        e[0] = this[r] >> i;
+        for (var s = r + 1; s < this.t; ++s) {
+          e[s - r - 1] |= (this[s] & n) << o, e[s - r] = this[s] >> i;
+        0 < i && (e[this.t - r - 1] |= (this.s & n) << o), e.t = this.t - r, e.clamp();
+    }, g.prototype.drShiftTo = function (t, e) {
+      for (var r = t; r < this.t; ++r) {
+      e.t = Math.max(this.t - t, 0), e.s = this.s;
+    }, g.prototype.subTo = function (t, e) {
+      for (var r = 0, i = 0, o = Math.min(t.t, this.t); r < o;) {
+        i += this[r] - t[r], e[r++] = i & this.DM, i >>= this.DB;
+        for (i -= t.s; r < this.t;) {
+          i += this[r], e[r++] = i & this.DM, i >>= this.DB;
+        for (i += this.s; r < t.t;) {
+          i -= t[r], e[r++] = i & this.DM, i >>= this.DB;
+      e.s = i < 0 ? -1 : 0, i < -1 ? e[r++] = this.DV + i : 0 < i && (e[r++] = i), e.t = r, e.clamp();
+      for (var t = this.s & this.DM; 0 < this.t && this[this.t - 1] == t;) {
+    }, g.prototype.modPowInt = function (t, e) {
+    }, g.prototype.exp = function (t, e) {
+      if (4294967295 < t || t < 1) return g.ONE;
+          s = C(t) - 1;
+        e.sqrTo(i, o), 0 < (t & 1 << s) ? e.mulTo(o, n, i) : (r = i, i = o, o = r);
+      var e = this.s - t.s;
+      if (0 != e) return e;
+      var r = this.t;
+      if (0 != (e = r - t.t)) return this.s < 0 ? -e : e;
+        if (0 != (e = this[r] - t[r])) return e;
+    }, g.prototype.am1 = function (t, e, r, i, o, n) {
+        var s = e * this[t++] + r[i] + o;
+        o = Math.floor(s / 67108864), r[i++] = 67108863 & s;
+    }, g.prototype.am2 = function (t, e, r, i, o, n) {
+      for (var s = 32767 & e, a = e >> 15; 0 <= --n;) {
+            u = this[t++] >> 15,
+            c = a * p + u * s;
+        o = ((p = s * p + ((32767 & c) << 15) + r[i] + (1073741823 & o)) >>> 30) + (c >>> 15) + a * u + (o >>> 30), r[i++] = 1073741823 & p;
+    }, g.prototype.am3 = function (t, e, r, i, o, n) {
+      for (var s = 16383 & e, a = e >> 14; 0 <= --n;) {
+            u = this[t++] >> 14,
+            c = a * p + u * s;
+        o = ((p = s * p + ((16383 & c) << 14) + r[i] + o) >> 28) + (c >> 14) + a * u, r[i++] = 268435455 & p;
+      return 0 != (e = t >>> 16) && (t = e, r += 16), 0 != (e = t >> 8) && (t = e, r += 8), 0 != (e = t >> 4) && (t = e, r += 4), 0 != (e = t >> 2) && (t = e, r += 2), 0 != (e = t >> 1) && (t = e, r += 1), r;
+    for (var n = [], s = "0".charCodeAt(0), a = 0; a <= 9; ++a) {
+    for (s = "a".charCodeAt(0), a = 10; a < 36; ++a) {
+    for (s = "A".charCodeAt(0), a = 10; a < 36; ++a) {
+      return null == r ? -1 : r;
+      for (var e = "", r = 0, i = 0, o = 0; o < t.length && "=" != t.charAt(o); ++o) {
+        n < 0 || (r = 0 == r ? (e += c(n >> 2), i = 3 & n, 1) : 1 == r ? (e += c(i << 2 | n >> 4), i = 15 & n, 2) : 2 == r ? (e += c(i), e += c(n >> 2), i = 3 & n, 3) : (e += c(i << 2 | n >> 4), e += c(15 & n), 0));
+      return 1 == r && (e += c(i << 2)), e;
+      return t.s < 0 || 0 <= t.compareTo(this.m) ? t.mod(this.m) : t;
+    }, h.prototype.mulTo = function (t, e, r) {
+    }, h.prototype.sqrTo = function (t, e) {
+      return t.abs().dlShiftTo(this.m.t, e), e.divRemTo(this.m, null, e), t.s < 0 && 0 < e.compareTo(o.ZERO) && this.m.subTo(e, e), e;
+      return t.copyTo(e), this.reduce(e), e;
+      for (var e = 0; e < this.m.t; ++e) {
+            i = r * this.mpl + ((r * this.mph + (t[e] >> 15) * this.mpl & this.um) << 15) & t.DM;
+        for (t[r = e + this.m.t] += this.m.am(0, i, t, e, 0, this.m.t); t[r] >= t.DV;) {
+      t.clamp(), t.drShiftTo(this.m.t, t), 0 <= t.compareTo(this.m) && t.subTo(this.m, t);
+    }, l.prototype.mulTo = function (t, e, r) {
+    }, l.prototype.sqrTo = function (t, e) {
+      this.m = t, this.mp = t.invDigit(), this.mpl = 32767 & this.mp, this.mph = this.mp >> 15, this.um = (1 << t.DB - 15) - 1, this.mt2 = 2 * t.t;
+    e.nbv = m, o.ZERO = m(0), o.ONE = m(1), i = "Microsoft Internet Explorer" == navigator.appName ? (o.prototype.am = o.prototype.am2, 30) : "Netscape" != navigator.appName ? (o.prototype.am = o.prototype.am1, 26) : (o.prototype.am = o.prototype.am3, 28), o.prototype.DB = i, o.prototype.DM = (1 << i) - 1, o.prototype.DV = 1 << i;
+    o.prototype.FV = Math.pow(2, 52), o.prototype.F1 = 52 - i, o.prototype.F2 = 2 * i - 52;
+      for (var e = [1116352408, 1899447441, 3049323471, 3921009573, 961987163, 1508970993, 2453635748, 2870763221, 3624381080, 310598401, 607225278, 1426881987, 1925078388, 2162078206, 2614888103, 3248222580, 3835390401, 4022224774, 264347078, 604807628, 770255983, 1249150122, 1555081692, 1996064986, 2554220882, 2821834349, 2952996808, 3210313671, 3336571891, 3584528711, 113926993, 338241895, 666307205, 773529912, 1294757372, 1396182291, 1695183700, 1986661051, 2177026350, 2456956037, 2730485921, 2820302411, 3259730800, 3345764771, 3516065817, 3600352804, 4094571909, 275423344, 430227734, 506948616, 659060556, 883997877, 958139571, 1322822218, 1537002063, 1747873779, 1955562222, 2024104815, 2227730452, 2361852424, 2428436474, 2756734187, 3204031479, 3329325298], r = [1779033703, 3144134277, 1013904242, 2773480762, 1359893119, 2600822924, 528734635, 1541459225], i = (t += String.fromCharCode(128)).length / 4 + 2, o = Math.ceil(i / 16), n = new Array(o), s = 0; s < o; s++) {
+        for (var a = 0; a < 16; a++) {
+          n[s][a] = t.charCodeAt(64 * s + 4 * a) << 24 | t.charCodeAt(64 * s + 4 * a + 1) << 16 | t.charCodeAt(64 * s + 4 * a + 2) << 8 | t.charCodeAt(64 * s + 4 * a + 3) << 0;
+      var p = 8 * (t.length - 1) / Math.pow(2, 32),
+          u = 8 * (t.length - 1) >>> 0;
+      for (n[o - 1][14] = Math.floor(p), n[o - 1][15] = u, s = 0; s < o; s++) {
+        for (var c = new Array(64), d = 0; d < 16; d++) {
+        for (d = 16; d < 64; d++) {
+          c[d] = S.q1(c[d - 2]) + c[d - 7] + S.q0(c[d - 15]) + c[d - 16] >>> 0;
+        for (var h = r[0], f = r[1], l = r[2], m = r[3], v = r[4], y = r[5], b = r[6], g = r[7], d = 0; d < 64; d++) {
+          var T = g + S.z1(v) + S.Ch(v, y, b) + e[d] + c[d],
+              C = S.z0(h) + S.Maj(h, f, l);
+          g = b, b = y, y = v, v = m + T >>> 0, m = l, l = f, f = h, h = T + C >>> 0;
+        r[0] = r[0] + h >>> 0, r[1] = r[1] + f >>> 0, r[2] = r[2] + l >>> 0, r[3] = r[3] + m >>> 0, r[4] = r[4] + v >>> 0, r[5] = r[5] + y >>> 0, r[6] = r[6] + b >>> 0, r[7] = r[7] + g >>> 0;
+      for (var A = new Array(r.length), g = 0; g < r.length; g++) {
+        return new TextEncoder().encode(e).reduce(function (t, e) {
+    }, S.ROTR = function (t, e) {
+      return e >>> t | e << 32 - t;
+      return S.ROTR(7, t) ^ S.ROTR(18, t) ^ t >>> 3;
+      return S.ROTR(17, t) ^ S.ROTR(19, t) ^ t >>> 10;
+    }, S.Ch = function (t, e, r) {
+      return t & e ^ ~t & r;
+    }, S.Maj = function (t, e, r) {
+      return t & e ^ t & r ^ e & r;
+    var o = [y.b, y.d],
+      return r.id = e.bidId, r.ext = {}, r.ext.siteID = e.params.siteId, !e.params.hasOwnProperty("id") || "string" != typeof e.params.id && "number" != typeof e.params.id ? r.ext.sid = "".concat(e.params.size[0], "x").concat(e.params.size[1]) : r.ext.sid = String(e.params.id), e.params.hasOwnProperty("bidFloor") && e.params.hasOwnProperty("bidFloorCur") && (r.bidfloor = e.params.bidFloor, r.bidfloorcur = e.params.bidFloorCur), r;
+      for (var t = 0; t < e.length; t++) {
+        if (e[t][0] === r[0] && e[t][1] === r[1]) return 1;
+      })), r.uspConsent && b.deepSetValue(p, "regs.ext.us_privacy", r.uspConsent), r.refererInfo && (p.site.page = r.refererInfo.referer));
+          var f = m.firstPartyData,
+      return c.s = e[0].params.siteId, c.v = i, c.r = JSON.stringify(p), c.ac = "j", c.sd = 1, 8.1 === i && (c.nf = 1), {
+        if (!d(e.params.size)) return b.logError("ix bidder params: bid size has invalid format."), !1;
+        if (!c(e.sizes, e.params.size)) return b.logError("ix bidder params: bid size is not included in ad unit sizes."), !1;
+        if (e.hasOwnProperty("mediaType") && !b.contains(o, e.mediaType)) return !1;
+        if (e.hasOwnProperty("mediaTypes") && !b.deepAccess(e, "mediaTypes.banner.sizes") && !b.deepAccess(e, "mediaTypes.video.playerSize")) return !1;
+        if ("string" != typeof e.params.siteId && "number" != typeof e.params.siteId) return b.logError("ix bidder params: siteId must be string or number value."), !1;
+        return !!(!i && !a || i && a && (r = e.params.bidFloor, t = e.params.bidFloorCur, Boolean("number" == typeof r && "string" == typeof t && t.match(/^[A-Z]{3}$/)))) || (b.logError("ix bidder params: bidFloor / bidFloorCur parameter has invalid format."), !1);
+        for (var t, i, a = [], n = [], s = [], o = null, d = 0; d < e.length; d++) {
+          (o = e[d]).mediaType !== y.d && !b.deepAccess(o, "mediaTypes.video") || (o.mediaType === y.d || c(o.mediaTypes.video.playerSize, o.params.size) ? s.push(function (e) {
+            var t = b.deepAccess(e, "mediaTypes.video.context");
+            return t && ("instream" === t ? r.video.placement = 1 : "outstream" === t ? r.video.placement = 4 : b.logWarn("ix bidder params: video context '".concat(t, "' is not supported"))), r;
+          }(o)) : b.logError("Bid size is not included in video playerSize")), o.mediaType !== y.b && !b.deepAccess(o, "mediaTypes.banner") && (o.mediaType || o.mediaTypes) || n.push((i = void 0, (i = p(t = o)).banner = {}, i.banner.w = t.params.size[0], i.banner.h = t.params.size[1], i.banner.topframe = b.inIframe() ? 0 : 1, i));
+        return 0 < n.length && a.push(u(e, r, n, 7.2)), 0 < s.length && a.push(u(e, r, s, 8.1)), a;
+        if (!e.hasOwnProperty("body") || !e.body.hasOwnProperty("seatbid")) return t;
+          if (d[p].hasOwnProperty("bid")) for (var c = d[p].bid, u = JSON.parse(r.data.r), m = 0; m < c.length; m++) {
+            var f = function (r, e) {
+              if (r) return l()(e, function (e) {
+                return e.id === r;
+            i = c[m], a = o.cur, n = f, s = void 0, s = {}, P.hasOwnProperty(a) ? s.cpm = i.price / P[a] : s.cpm = i.price / g, s.requestId = i.impid, s.dealId = b.deepAccess(i, "ext.dealid"), s.netRevenue = I, s.currency = a, s.creativeId = i.hasOwnProperty("crid") ? i.crid : "-", b.deepAccess(i, "ext.vasturl") ? (s.vastUrl = i.ext.vasturl, s.width = n.video.w, s.height = n.video.h, s.mediaType = y.d, s.ttl = x) : (s.ad = i.adm, s.width = i.w, s.height = i.h, s.mediaType = y.b, s.ttl = w), s.meta = {}, s.meta.networkId = b.deepAccess(i, "ext.dspid"), s.meta.brandId = b.deepAccess(i, "ext.advbrandid"), s.meta.brandName = b.deepAccess(i, "ext.advbrand"), t.push(s);
+        for (var t = 1; t < arguments.length; t++) {
+        return !(!e || !e.params) && !!e.params.placementId;
+        var r = e.body,
+              i = void 0;
+        if (e.iframeEnabled && r && n) for (var a = 0; a < 5; a++) {
+        if (!u.cookiesAreEnabled()) return null;
+        for (var t = "".concat(e, "="), r = document.cookie.split(";"), n = 0; n < r.length; n++) {
+          if (0 === a.indexOf(t)) return a.substring(t.length, a.length);
+            if (t) return t;
+        return e && (n.tdID = e), n;
+        return i === window.location.pathname ? ++c : (i = window.location.pathname, c = 0);
+          crypto.getRandomValues(e), e[6] = -177 & e[6] | 64, e[8] = -65 & e[8] | 128;
+          return t.slice(0, 8) + "-" + t.slice(8, 12) + "-" + t.slice(12, 16) + "-" + t.slice(16, 20) + "-" + t.slice(20);
+    }), r.hasVideoMediaType = c, r.masSizeOrdering = S, r.determineRubiconVideoSizeId = C, r.getPriceGranularity = j, r.hasValidVideoParams = k, r.hasValidSupplyChainParams = T, r.encodeParam = w, r.resetUserSync = function () {
+        if (Array.isArray(e)) return e;
+      }(e) || function (e, r) {
+        if ("undefined" == typeof Symbol || !(Symbol.iterator in Object(e))) return;
+            o = void 0;
+            if (n) throw o;
+        if ("string" == typeof e) return n(e, r);
+        var t = Object.prototype.toString.call(e).slice(8, -1);
+        if ("Arguments" === t || /^(?:Ui|I)nt(?:8|16|32)(?:Clamped)?Array$/.test(t)) return n(e, r);
+        throw new TypeError("Invalid attempt to destructure non-iterable instance.\nIn order to be iterable, non-array objects must have a [Symbol.iterator]() method.");
+      for (var t = 0, i = new Array(r); t < r; t++) {
+        for (var r = 1; r < arguments.length; r++) {
+      return r in e ? Object.defineProperty(e, r, {
+      }) : e[r] = t, e;
+      return f[e] = r;
+        if ("object" !== x(e.params)) return !1;
+        for (var r = 0, t = ["accountId", "siteId", "zoneId"]; r < t.length; r++) {
+          if (e.params[t[r]] = parseInt(e.params[t[r]]), isNaN(e.params[t[r]])) return g.logError("Rubicon: wrong format of accountId or siteId or zoneId."), !1;
+        var i = m(e, !0);
+            test: b.b.getConfig("debug") ? 1 : 0,
+          "rubicon" !== e.bidder && (i.ext.prebid.aliases = p({}, e.bidder, "rubicon")), t = "function" != typeof e.getFloor || b.b.getConfig("rubicon.disableFloors") ? parseFloat(g.deepAccess(e, "params.floor")) : "object" !== x(r = e.getFloor({
+          })) || "USD" !== r.currency || isNaN(parseInt(r.floor)) ? void 0 : parseFloat(r.floor), isNaN(t) || (i.imp[0].bidfloor = t), i.imp[0].ext[e.bidder].video.size_id = C(e), function (r, t, e) {
+            var t = A(r, "video");
+          o && g.deepSetValue(i, "user.ext.digitrust", o), u.gdprConsent && ("boolean" == typeof u.gdprConsent.gdprApplies && (n = u.gdprConsent.gdprApplies ? 1 : 0), g.deepSetValue(i, "regs.ext.gdpr", n), g.deepSetValue(i, "user.ext.consent", u.gdprConsent.consentString)), u.uspConsent && g.deepSetValue(i, "regs.ext.us_privacy", u.uspConsent), e.userId && "object" === x(e.userId) && (e.userId.tdid || e.userId.pubcid || e.userId.lipb || e.userId.idl_env) && (g.deepSetValue(i, "user.ext.eids", []), e.userId.tdid && i.user.ext.eids.push({
+          }, Array.isArray(e.userId.lipb.segments) && e.userId.lipb.segments.length && g.deepSetValue(i, "rp.target.LIseg", e.userId.lipb.segments)), e.userId.idl_env && i.user.ext.eids.push({
+          })), !0 === b.b.getConfig("coppa") && g.deepSetValue(i, "regs.coppa", 1), e.schain && T(e.schain) && g.deepSetValue(i, "source.ext.schain", e.schain);
+              s = y({}, e.params.inventory, b.b.getConfig("fpd.context")),
+              d = y({}, e.params.visitor, b.b.getConfig("fpd.user"));
+          }, g.isEmpty(s) || (a.config.fpd.site = s), g.isEmpty(d) || (a.config.fpd.user = d), g.deepSetValue(i, "ext.prebid.bidderconfig.0", a));
+          var c = g.deepAccess(e, "fpd.context.pbAdSlot");
+          return "string" == typeof c && c && g.deepSetValue(i.imp[0].ext, "context.data.adslot", c), e.storedAuctionResponse && g.deepSetValue(i.imp[0], "ext.prebid.storedauctionresponse.id", e.storedAuctionResponse.toString()), g.deepSetValue(i.imp[0], "ext.prebid.auctiontimestamp", u.auctionStart), {
+          var i = h.createSlotParams(e, u);
+              return g.isStr(t) && "" !== t || g.isNumber(t) ? "".concat(e).concat(w(r, t), "&") : e;
+          return (e[r.params.siteId] = e[r.params.siteId] || []).push(r), e;
+        }, {}), r.concat(Object.keys(n).reduce(function (r, e) {
+          return t = n[e], i = 10, t.map(function (e, r) {
+            return r % i == 0 ? t.slice(r, r + i) : null;
+                return g.isStr(t) && "" !== t || g.isNumber(t) ? "".concat(e).concat(w(r, t), "&") : e;
+              }, "") + "slots=".concat(e.length, "&rand=").concat(Math.random()),
+        var i = n.reduce(function (r, t, i) {
+            r.hasOwnProperty(e) || (r[e] = new Array(n.length)), r[e].splice(i, 1, t[e]);
+          i[e] = t ? t[1] : r;
+          rp_floor: .01 < (i.floor = parseFloat(i.floor)) ? i.floor : .01,
+        }), c.rp_hard_floor = "object" !== x(t) || "USD" !== t.currency || isNaN(parseInt(t.floor)) ? void 0 : t.floor), c.p_pos = "atf" === i.position || "btf" === i.position ? i.position : "", e.userId && (e.userId.tdid && (c.tpid_tdid = e.userId.tdid), e.userId.lipb && e.userId.lipb.lipbid && (c["tpid_liveintent.com"] = e.userId.lipb.lipbid, Array.isArray(e.userId.lipb.segments) && e.userId.lipb.segments.length && (c["tg_v.LIseg"] = e.userId.lipb.segments.join(","))), e.userId.idl_env && (c["tpid_liveramp.com"] = e.userId.idl_env)), r.gdprConsent && ("boolean" == typeof r.gdprConsent.gdprApplies && (c.gdpr = Number(r.gdprConsent.gdprApplies)), c.gdpr_consent = r.gdprConsent.consentString), r.uspConsent && (c.us_privacy = encodeURIComponent(r.uspConsent));
+        var u = y({}, i.visitor, b.b.getConfig("fpd.user"));
+        var p = y({}, i.inventory, b.b.getConfig("fpd.context"));
+        var f = g.deepAccess(e, "fpd.context.pbAdSlot");
+        var m = _(e, "FASTLANE");
+        return y(c, m), !0 === b.b.getConfig("coppa") && (c.coppa = 1), e.schain && T(e.schain) && (c.rp_schain = h.serializeSupplyChain(e.schain)), c;
+        var r = e.ver,
+        var c = e.bidRequest;
+          var r = g.deepAccess(d, "ext.errors.rubicon");
+          Array.isArray(r) && 0 < r.length && g.logWarn("Rubicon: Error in video response");
+              c && i && (c.serverResponseTimeMs = i), g.deepAccess(e, "ext.prebid.type") === u.d ? (r.mediaType = u.d, (t = g.deepAccess(e, "ext.prebid.targeting")) && "object" === x(t) && (r.adserverTargeting = t), e.ext.prebid.cache && "object" === x(e.ext.prebid.cache.vastXml) && e.ext.prebid.cache.vastXml.cacheId && e.ext.prebid.cache.vastXml.url ? (r.videoCacheKey = e.ext.prebid.cache.vastXml.cacheId, r.vastUrl = e.ext.prebid.cache.vastXml.url) : t && t.hb_uuid && t.hb_cache_host && t.hb_cache_path && (r.videoCacheKey = t.hb_uuid, r.vastUrl = "https://".concat(t.hb_cache_host).concat(t.hb_cache_path, "?uuid=").concat(t.hb_uuid)), e.adm && (r.vastXml = e.adm), e.nurl && (r.vastUrl = e.nurl), !r.vastUrl && e.nurl && (r.vastUrl = e.nurl)) : g.logWarn("Rubicon: video response received non-video media type"), o.push(r);
+        var t = d.ads;
+        return "object" !== x(c) || Array.isArray(c) || "video" !== m(c) || "object" !== x(t) || (t = t[c.adUnitCode]), !Array.isArray(t) || t.length < 1 ? [] : t.reduce(function (e, r, t) {
+          if ("ok" !== r.status) return e;
+              s = Array.isArray(c) ? c[t] : c;
+          }, r.creative_type && (i.mediaType = r.creative_type), r.creative_type === u.d ? (i.width = s.params.video.playerWidth, i.height = s.params.video.playerHeight, i.vastUrl = r.creative_depot_url, i.impression_id = r.impression_id, i.videoCacheKey = r.impression_id) : (i.ad = (o = r.script, a = r.impression_id, "<html>\n<head><script type='text/javascript'>inDapIF=true;<\/script></head>\n<body style='margin : 0; padding: 0;'>\n\x3c!-- Rubicon Project Ad Tag --\x3e\n<div data-rp-impression-id='".concat(a, "'>\n<script type='text/javascript'>").concat(o, "<\/script>\n</div>\n</body>\n</html>")), n = v(f[r.size_id].split("x").map(function (e) {
+          }), 2), i.width = n[0], i.height = n[1]), i.rubiconTargeting = (Array.isArray(r.targeting) ? r.targeting : []).reduce(function (e, r) {
+            return e[r.key] = r.values[0], e;
+          }), e.push(i)) : g.logError("Rubicon: bidRequest undefined at index position:".concat(t), c, d), e;
+          return t && "string" == typeof t.consentString && ("boolean" == typeof t.gdprApplies ? n += "?gdpr=".concat(Number(t.gdprApplies), "&gdpr_consent=").concat(t.consentString) : n += "?gdpr_consent=".concat(t.consentString)), i && (n += "".concat(n ? "&" : "?", "us_privacy=").concat(encodeURIComponent(i))), R = !0, {
+          n = 1 < arguments.length ? r : void 0;
+      if (!n || !d[n]) return null;
+        var e = g.deepAccess(i, "userId.digitrustid.data");
+        if (e) return e;
+        return r && r.success && r.identity || null;
+      if (!a || a.privacy && a.privacy.optout) return null;
+      var s = (p(t = {}, o.id, a.id), p(t, o.keyv, a.keyv), t);
+      return o.pref && (s[o.pref] = 0), s;
+          t = e.params.referrer ? e.params.referrer : t || r.refererInfo.referer;
+      return e.params.secure ? t.replace(/^http:/i, "https:") : t;
+      var t = e.params;
+        return t.video && t.video.playerWidth && t.video.playerHeight ? i = [t.video.playerWidth, t.video.playerHeight] : Array.isArray(g.deepAccess(e, "mediaTypes.video.playerSize")) && 1 === e.mediaTypes.video.playerSize.length ? i = e.mediaTypes.video.playerSize[0] : Array.isArray(e.sizes) && 0 < e.sizes.length && Array.isArray(e.sizes[0]) && 1 < e.sizes[0].length && (i = e.sizes[0]), i;
+      return Array.isArray(t.sizes) ? n = t.sizes : void 0 !== g.deepAccess(e, "mediaTypes.banner.sizes") ? n = s(e.mediaTypes.banner.sizes) : Array.isArray(e.sizes) && 0 < e.sizes.length ? n = s(e.sizes) : g.logWarn("Rubicon: no sizes are setup or found"), S(n);
+        return t && e.push(t), e;
+      return "object" === x(g.deepAccess(e, "params.video")) && void 0 !== g.deepAccess(e, "mediaTypes.".concat(u.d));
+      var t = 1 < arguments.length && void 0 !== r && r;
+      return c(e) ? -1 === ["outstream", "instream"].indexOf(g.deepAccess(e, "mediaTypes.".concat(u.d, ".context"))) ? void (t && g.logError("Rubicon: mediaTypes.video.context must be outstream or instream")) : A(e, "video").length < 2 ? void (t && g.logError("Rubicon: could not determine the playerSize of the video")) : (t && g.logMessage("Rubicon: making video request for adUnit", e.adUnitCode), "video") : 0 === A(e, "banner").length ? void (t && g.logError("Rubicon: could not determine the sizes for banner request")) : (t && g.logMessage("Rubicon: making banner request for adUnit", e.adUnitCode), "banner");
+      var n = [15, 2, 9];
+        return -1 < t || -1 < i ? -1 === t ? 1 : -1 === i ? -1 : t - i : e - r;
+      var r = parseInt(g.deepAccess(e, "params.video.size_id"));
+      return isNaN(r) ? "outstream" === g.deepAccess(e, "mediaTypes.".concat(u.d, ".context")) ? 203 : 201 : r;
+      var t = !0,
+        Object.prototype.toString.call(g.deepAccess(r, "mediaTypes.video." + e)) !== n[e] && (t = !1, g.logError("Rubicon: mediaTypes.video." + e + " is required and must be of type: " + n[e]));
+      var r = !1,
+      return e.nodes && ((r = e.nodes.reduce(function (e, r) {
+      }, !0)) || g.logError("Rubicon: required schain params missing")), r;
+      return "rp_schain" === e ? "rp_schain=".concat(r) : "".concat(e, "=").concat(encodeURIComponent(r));
+    var R = !1;
+    }), t._getPlatform = v;
+        if (Array.isArray(e)) return e;
+      }(e) || function (e, t) {
+        if ("undefined" == typeof Symbol || !(Symbol.iterator in Object(e))) return;
+            s = void 0;
+            if (i) throw s;
+        if ("string" == typeof e) return s(e, t);
+        var r = Object.prototype.toString.call(e).slice(8, -1);
+        if ("Arguments" === r || /^(?:Ui|I)nt(?:8|16|32)(?:Clamped)?Array$/.test(r)) return s(e, t);
+        throw new TypeError("Invalid attempt to destructure non-iterable instance.\nIn order to be iterable, non-array objects must have a [Symbol.iterator]() method.");
+      for (var r = 0, n = new Array(t); r < t; r++) {
+        for (var t = 1; t < arguments.length; t++) {
+      return t in e ? Object.defineProperty(e, t, {
+      }) : e[t] = r, e;
+        if (!e.params) return !1;
+        if (!e.params.ad_unit && !e.params.placement_id) return !1;
+          if (!Object(y.deepAccess)(e, "mediaTypes.banner.sizes") && !e.params.sizes) return !1;
+        } else if (Object(y.deepAccess)(e, "mediaTypes.video")) {
+          if ("outstream" === Object(y.deepAccess)(e, "mediaTypes.video.context") && !e.params.sizes) return !1;
+          if ("instream" === Object(y.deepAccess)(e, "mediaTypes.video.context") && !Object(y.deepAccess)(e, "mediaTypes.video.playerSize")) return !1;
+            if (e.params.ad_unit) return e.params.ad_unit;
+          return /^[\/]?[\d]+[[\/].+[\/]?]?$/.test(t) ? (t = "/" === t.charAt(0) ? t : "/" + t, p({}, "".concat(t, "|").concat(e.bidId), "".concat(f(e)).concat(m(e)))) : /^[0-9a-fA-F]{20}$/.test(t) && 20 === t.length ? p({}, e.bidId, "".concat(t, "|").concat(f(e)).concat(m(e))) : void Object(y.logError)("The ad unit code or Sonobi Placement id for slot ".concat(e.bidId, " is invalid"));
+        c.b.getConfig("userSync") && c.b.getConfig("userSync").syncsPerBidder && (i.us = c.b.getConfig("userSync").syncsPerBidder), d.a.canBidderRegisterSync("iframe", b) ? i.ius = 1 : i.ius = 0, Object(y.deepAccess)(e[0], "params.hfa") && (i.hfa = Object(y.deepAccess)(e[0], "params.hfa")), e[0].params.referrer && (i.ref = e[0].params.referrer), t && t.gdprConsent && (i.gdpr = t.gdprConsent.gdprApplies ? "true" : "false", t.gdprConsent.consentString && (i.consent_string = t.gdprConsent.consentString));
+            return e && e.success && e.identity || null;
+          if (!e || e.privacy && e.privacy.optout) return null;
+        s && (i.digid = s.id, i.digkeyv = s.keyv), e[0].schain && (i.schain = JSON.stringify(e[0].schain)), Object(y.deepAccess)(e[0], "userId") && 0 < Object.keys(e[0].userId).length && (i.userid = JSON.stringify(e[0].userId));
+        var o = e[0].params.keywords;
+        if (o && (i.kw = o), t && t.uspConsent && (i.us_privacy = t.uspConsent), Object(y.isEmpty)(n)) return null;
+        var f = e.body,
+              n = function (e, t) {
+            for (var r = 0; r < e.length; r++) {
+          "video" === t.sbi_ct && (i = "video", "outstream" === Object(y.deepAccess)(n, "mediaTypes.video.context") && (i = "outstream"));
+          t.sbi_aid && t.sbi_mouse && t.sbi_size && (a = void 0 === (o = (s = h(t.sbi_size.split("x"), 2))[0]) ? 1 : o, d = void 0 === (c = s[1]) ? 1 : c, u = {
+          }, t.sbi_dozer && (u.dealId = t.sbi_dozer), "video" === i ? (u.mediaType = "video", u.vastUrl = b(f.sbi_dc, t.sbi_aid), delete u.ad, delete u.width, delete u.height) : "outstream" === i && n && (u.mediaType = "video", u.vastUrl = b(f.sbi_dc, t.sbi_aid), u.renderer = function (e, t) {
+      return Object(y.deepAccess)(e, "mediaTypes.video") ? "" : e.params.sizes ? Object(y.parseSizesInput)(e.params.sizes).join(",") : Object(y.deepAccess)(e, "mediaTypes.banner.sizes") ? Object(y.parseSizesInput)(Object(y.deepAccess)(e, "mediaTypes.banner.sizes")).join(",") : e.sizes ? Object(y.parseSizesInput)(e.sizes).join(",") : void 0;
+    var j = function j(i, s) {
+        return "video" === i || "outstream" === i ? (r = t, n = s, "https://".concat(e, "apex.go.sonobi.com/vast.xml?vid=").concat(r, "&ref=").concat(encodeURIComponent(n))) : '<script type="text/javascript" src="' + "https://".concat(e, "apex.go.sonobi.com/sbi.js?aid=").concat(t, "&as=null&ref=").concat(encodeURIComponent(s)) + '"><\/script>';
+      var r = 0 < arguments.length && void 0 !== e ? e : window;
+        var e = 0 < arguments.length && void 0 !== arguments[0] ? arguments[0] : 0,
+            t = 1 < arguments.length && void 0 !== arguments[1] ? arguments[1] : Number.MAX_SAFE_INTEGER;
+        return r.innerWidth >= e && r.innerWidth < t;
+      var e = 0 < arguments.length && void 0 !== arguments[0] ? arguments[0] : window,
+      return t(0, 768) ? "mobile" : t(n, r) ? "tablet" : "desktop";
+        return void 0 !== e.params && (r = i(d.getValue(e.params, "placementId")), t = i(d.getValue(e.params, "pageId")), a = r && t), a || d.logError("Teads placementId and pageId parameters are required. Bid aborted."), a;
+        return r && s && (n = "boolean" == typeof s.gdprApplies, d = "string" == typeof s.consentString, i = n ? function (e, r, t) {
+          var a = p;
+          e ? function (e, r) {
+            return e && 1 === r ? e.hasGlobalScope || e.hasGlobalConsent : !(!e || 2 !== r) && !e.isServiceSpecific;
+          }(r, t) && (a = o) : a = c;
+      return t.sizes = (r = e, d.parseSizesInput(function (e) {
+        var r = d.deepAccess(e, "mediaTypes.video.playerSize"),
+        return d.isArray(a) || d.isArray(r) || d.isArray(t) ? [a, t, r].reduce(function (r, e) {
+          }) : r.push(e)), r;
+        }, []) : e.sizes;
+      }(r))), t.bidId = d.getBidIdParameter("bidId", e), t.bidderRequestId = d.getBidIdParameter("bidderRequestId", e), t.placementId = parseInt(a, 10), t.pageId = parseInt(n, 10), t.adUnitCode = d.getBidIdParameter("adUnitCode", e), t.auctionId = d.getBidIdParameter("auctionId", e), t.transactionId = d.getBidIdParameter("transactionId", e), t;
+      }(r) || function (r, e) {
+        if ("string" == typeof r) return d(r, e);
+        var t = Object.prototype.toString.call(r).slice(8, -1);
+        if ("Arguments" === t || /^(?:Ui|I)nt(?:8|16|32)(?:Clamped)?Array$/.test(t)) return d(r, e);
+        throw new TypeError("Invalid attempt to spread non-iterable instance.\nIn order to be iterable, non-array objects must have a [Symbol.iterator]() method.");
+      for (var t = 0, n = new Array(e); t < e; t++) {
+    var a = !0,
+        return void 0 !== r.params.inventoryCode;
+          e.imp = r.map(function (r, e) {
+        return n = o.tryAppendQueryString(n, "lib", "prebid"), n = o.tryAppendQueryString(n, "v", "3.23.0"), e && e.refererInfo && (t = e.refererInfo.referer, n = o.tryAppendQueryString(n, "referrer", t)), e && e.timeout && (n = o.tryAppendQueryString(n, "tmax", e.timeout)), e && e.gdprConsent && (void 0 !== e.gdprConsent.gdprApplies && (a = e.gdprConsent.gdprApplies, n = o.tryAppendQueryString(n, "gdpr", a.toString())), void 0 !== e.gdprConsent.consentString && (c = e.gdprConsent.consentString, n = o.tryAppendQueryString(n, "cmp_cs", c))), e && e.uspConsent && (n = o.tryAppendQueryString(n, "us_privacy", e.uspConsent)), !0 === u.b.getConfig("coppa") && (n = o.tryAppendQueryString(n, "coppa", !0)), n.lastIndexOf("&") === n.length - 1 && (n = n.substring(0, n.length - 1)), o.logMessage("tlCall request built: " + n), {
+        var t = e.bidderRequest;
+                n = e.width || 1,
+                i = e.height || 1,
+          return "image" === i && (u = o.tryAppendQueryString(u, "px", 1), u = o.tryAppendQueryString(u, "src", "prebid")), null !== c && (u = o.tryAppendQueryString(u, "gdpr", a), u = o.tryAppendQueryString(u, "cmp_cs", c)), n && (u = o.tryAppendQueryString(u, "us_privacy", n)), [{
+      return r.map((o = e, function (r) {
+          "gross" === e.params.priceType && (l = "gross"), o = e.bidderRequestId;
+          var r = e.params.uid,
+        var s = 2 < arguments.length && void 0 !== t ? t : o.a;
+        e = e && e.body;
+        return e ? e.seatbid && !e.seatbid.length && (n = b) : n = y, !n && e.seatbid && e.seatbid.forEach(function (e) {
+              e.adm ? (i = d[e.auid]) ? (a = "".concat(e.w, "x").concat(e.h), i[a] && (o = i[a][0], p = o.bids.shift(), u = {
+              }, "video" === e.content_type ? (u.vastXml = e.adm, u.mediaType = c.d, u.adResponse = {
+              }, p.renderer || p.mediaTypes && p.mediaTypes.video && "outstream" !== p.mediaTypes.video.context || (u.renderer = function (e, r) {
+              }, s))) : (u.ad = e.adm, u.mediaType = c.b), t.push(u), o.bids.length || o.parents.forEach(function (e) {
+                var r = e.parent,
+                -1 < n && r[t].splice(n, 1), r[t].length || (delete r[t], m.getKeys(r).length || delete d[s]);
+        }), n && m.logError(n), d;
+      r = e.value, m.isArray(r) && 0 < r.length && "" === e.value[0] && delete e.value;
+  "use strict"; // remove `via` from url, to be used after amplitude logs it to prevent users from sharing such urls
+    if (!href || href.substr(0, 1) === "#") {
+      return href; // don't add to jumps on the current page, e.g. "Skip to main content"
+    var tag = node.dataset && node.dataset.via;
+      via = (via.length ? tag + DELIMITER : tag) + via;
+      var node = e.target; // the element where this event originated may have been removed from the dom, e.g. in the case of the OIL CMP which disappears after you interact with it
+          via = pageType + DELIMITER + via;
+      var form = e.target; // collect via directives
+      var node = e.target;
+          via = pageType + DELIMITER + via;
+  } // start listening only once, when first injected
+DS.service("$visibility", ["$document", "$window", "_throttle", "Eventify", function ($document, $window, _throttle, Eventify) {
+    return a < b ? a : b;
+    return a > b ? a : b;
+    var px = evt.visiblePx,
+    if (!item.preload && item.preloadThreshhold && shouldBePreloaded(evt.target, evt.rect, item.preloadThreshhold, innerHeight)) {
+        innerHeight = $window.innerHeight || $document.documentElement.clientHeight,
+    return $window.innerHeight || $document.documentElement.clientHeight || $document.body.clientHeight;
+    return $window.innerWidth || $document.documentElement.clientWidth || $document.body.clientWidth;
+   * Apparently the fastest way...
+        remainder = x % stepSize,
+      result += getLinearSpacialHash(remainder, Math.floor(stepSize / base), optimalK - 1, base);
+    var offsetLeft = el.offsetLeft,
+  Visible = function Visible(el, options) {
+    this.preloadThreshhold = options && options.preloadThreshhold || 0;
+    this.shownThreshold = options && options.shownThreshold || 0;
+    this.hiddenThreshold = options && min(options.shownThreshold, options.hiddenThreshold) || 0;
+  VisibleEvent = function VisibleEvent(type, options) {
+    var _this = this;
+ * mount legacy services from _global.js, if any
+    var elementTag = el.outerHTML.slice(0, el.outerHTML.indexOf(el.innerHTML));
+    console.error("Error initializing controller for \"".concat(name, "\" on \"").concat(elementTag, "\""), e);
+      var _iteratorNormalCompletion = true;
+      var _didIteratorError = false;
+      var _iteratorError = undefined;
+        for (var _iterator = instances[Symbol.iterator](), _step; !(_iteratorNormalCompletion = (_step = _iterator.next()).done); _iteratorNormalCompletion = true) {
+          var el = _step.value;
+      var _iteratorNormalCompletion2 = true;
+      var _didIteratorError2 = false;
+      var _iteratorError2 = undefined;
+        for (var _iterator2 = defaults[Symbol.iterator](), _step2; !(_iteratorNormalCompletion2 = (_step2 = _iterator2.next()).done); _iteratorNormalCompletion2 = true) {
+          var _el = _step2.value;
+} // Make sure that a `window.process.env.NODE_ENV` is available in the client for any dependencies,
+} // note: legacy controllers that require legacy services (e.g. dollar-slice) must
+// wait for DOMContentLoaded to initialize themselves, as the files themselves must be mounted first

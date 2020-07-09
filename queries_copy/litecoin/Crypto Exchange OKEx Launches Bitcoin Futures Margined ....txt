@@ -1,0 +1,8 @@
+Cryptocurrency exchange OKEx announced the launch of its Tether-margined Bitcoin futures contracts.
+Cryptocurrency exchange OKEx has launched Bitcoin ( BTC ) futures contracts that are margined with the Tether (USDT) stablecoin. OKEx announced the new offering in a press release on Nov. 14.
+OKEx first announced its intention to launch USDT-settled futures trading with up to 100x leverage at the end of October. Now, after conducting a simulation that began on Nov. 5, the exchange listed the BTC/USDT offering on its trading platform.
+The exchange previously said that offering a stablecoin-based derivatives contract will make it simpler and more efficient for traders to navigate the market and calculate risk. OKEx CEO Jay Hao commented:
+“The simulation of our USDT Futures Contract was very successful, and we received positive feedback from traders in the OKEx community.”
+The derivative in question is quoted and settled in USDT and each BTC/USDT contract has a face value of 0.0001 BTC and has an available value range of 0.01 to 100 times. The platform’s users can take both long and short positions on the contract.
+In the future, OKEx will also launch USDT-margined futures for other crypto assets. More precisely, the firm announced plans to launch such contracts for EOS , Ether ( ETH ), Litecoin ( LTC ), Bitcoin Cash ( BCH ), XRP , Ethereum Classic ( ETC ), Tron ( TRX ), and Bitcoin SV ( BSV ).
+As Cointelegraph reported yesterday, Bakkt announced that its Bitcoin futures trading on the Intercontinental Exchange will expand to include a cash-settled option.

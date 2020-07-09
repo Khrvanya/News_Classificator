@@ -1,0 +1,36 @@
+Russian oil output jumped to 11.35 million bpd in April, ahead of cuts
+1 min read . Updated: 02 May 2020, 07:23 PM IST Reuters
+A report, which cites Energy Ministry data, shows April's figure was the highest monthly average output since January 2019
+Russia raised oil and gas condensate output in April to 46.45 million tonnes, or 11.35 million barrels per day (bpd), from 11.29 million bpd in March, Interfax reported on Saturday, before it makes cuts this month under a global supply pact.
+The report, which cited Energy Ministry data, showed April's figure was the highest monthly average output since January 2019, when it was 11.38 million bpd.
+Reuters uses the barrels/tonnes ratio of 7.33.
+The Organization of the Petroleum Exporting Countries, Russia and other allied producers, a group known as OPEC+, agreed last month to cut their combined oil output by about almost 10 million bpd, or 10% of global supply in May and June to tackle the economic fallout from the new coronavirus.
+The United States, Norway, Canada and Brazil may add cuts that would bring the total reduction to 20 million bpd, or 20% of global supply, although the coronavirus crisis has driven down demand by as much as 30%, driving down prices.
+Russia is expected to cut its oil production by 2.5 million bpd from a baseline of 11 million bpd in May and June.
+This number exempts production of gas condensate, or light oil. Russian energy ministry does not disclose gas condensate production separately.
+Russia has pledged to meet its commitments in full with output projected to fall to between 480 million and 500 million tonnes, or 9.6 million to 10 million bpd, this year, its first annual decline since 2008.
+Natural gas production in April reached 55.14 billion cubic metres, a decline of 14.3% from the same month a year earlier, the Interfax news agency also reported.
+It also said Russian oil exports increased 2.2% year on year to 83.79 million tonnes in the January-April period.
+* Thank you for subscribing to our newsletter.
+Click here to read the Mint ePaperLivemint.com is now on Telegram. Join Livemint channel in your Telegram and stay updated
+You are now subscribed to our newsletters. In case you can’t find any email from our side, please check the spam folder.
+lozad('.lozad', { load: function(el) { el.src = el.dataset.src; el.onload = function() { el.classList.add('fade')}}}).observe()
+.myAccount .planSec, .myAccount a.LinkCTA{padding:16px; margin:16px; box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.1); background-color: #fff;}
+	       		var userData = data;
+	       		var name = userData.name;
+	       		var email = userData.email;
+	       		var signupSource = userData.source;
+	       		var subscribedAtOnce = userData.subscribedAtOnce;
+	       		var plan  = userData.plan;
+	       		document.getElementById('uName').innerHTML = "<strong>"+name+"</strong>" + email;
+		       		var status = planData.status;
+		       		var purchaseSource = planData.source_device;
+			       		var nextActivationDate = planData.current_term_ends_at;
+			       		var planDescription = planData.plan.description;
+			       		var planName = planData.plan.name;
+			       		var planPrice = planData.amount;
+			       		//var planInterval = planData.shipping_interval;
+			       		var planInterval = planData.duration;
+			       		var planUnit = planData.interval_unit;
+			       		//var html = "<strong>Your Subscription Plan</strong>"+planName+" ₹"+planPrice+" / "+planInterval+" " + nextBillingHtml + cancelHtml; 
+			       		var html = "<strong>Your Subscription Plan</strong> "+planDescription + " "+ planName +": ₹"+planPrice + " "+ nextBillingHtml + cancelHtml;

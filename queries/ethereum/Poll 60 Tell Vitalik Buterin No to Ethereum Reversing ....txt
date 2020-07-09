@@ -1,0 +1,11 @@
+A survey by co-founder Vitalik Buterin drew more ire than feedback, with Twitter users berating him for even suggesting devs could intervene in smart contracts.
+Ethereum co-founder Vitalik Buterin has sparked controversy among cryptocurrency users after suggesting developers could reverse transactions.
+In a Twitter survey on Oct. 26, Buterin quizzed followers about their opinion of reversing chain activity in the event of a major hack of an exchange or similar entity.
+“Suppose a popular smart contract wallet that a large portion of the ETH community uses gets hacked. This could be reverted by reverting all chain activity since the hack and doing a DAO-style HF to recover the funds,” he wrote.
+Continuing, he asked how many coins would need to be stolen in order for followers to support manual reversal.
+The survey appeared to touch a nerve among commentators. Ethically, they argued, the amount of money should not matter — rolling back transactions removes the benefits of a blockchain without centralized control.
+“Failchain,” popular Bitcoin pundit Dennis Parker summarized.
+Correspondingly, more than 60% of the over 10,000 responses to the survey confirmed they would not tolerate remedial measures under any circumstances.
+Ethereum developers have reversed transactions before, notably following the notorious Decentralized Autonomous Organization, or DAO , hack in June 2016, which lost Ether ( ETH ) worth $60 million at the time.
+Ethereum is currently undergoing a major transformation in a long-term upgrade which will ultimately even see it change its algorithm. The changes will help resolve some of the network’s growing pains - in August, Buterin warned its blockchain was almost full.
+The largest altcoin by market cap, ETH has nonetheless fared underwhelmingly this year as Bitcoin ( BTC ) cements its position at the top.

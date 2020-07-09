@@ -1,0 +1,21 @@
+Home » Cryptocurrency » Late Kobe Bryant’s wallpaper infected with crypto-mining malware, warns Microsoft
+Late Kobe Bryant’s wallpaper infected with crypto-mining malware, warns Microsoft
+Microsoft Security Intelligence recently warned about a crypto mining malware posing as a wallpaper of late Kobe Bryant.
+The malware is infecting devices of unsuspecting users, and it then uses the victim's resources to mine Monero (XMR).
+Microsoft claims that the coin-mining script mentions CoinHive, an in-browser miner that shut down operations in March 2019.
+According to a recent warning Microsoft has shared on its Twitter account, there is a crypto-mining malware that is hiding in a wallpaper of late basketball star, Kobe Bryant.
+computing power and other resources in order to make money.
+While the world mourns the loss of an NBA legend, cybercriminals are, as expected, taking advantage of the tragedy. We found a malicious HTML file posing as a Kobe Bryant wallpaper that contains a coin mining script. pic.twitter.com/w2JwPvqFy5
+— Microsoft Security Intelligence (@MsftSecIntel) January 30, 2020
+The tweet mentioned a coin-mining script, which mentions CoinHive — a Monero (XMR) miner that is used within browsers. CoinHive is also known for being rather popular amongst hackers. However, as far as it is known, CoinHive also shut down operation nearly a year ago, in March 2019.
+that Microsoft Defender SmartScreen can block the sites hosting the coin miner.
+Microsoft Defender ATP can detect malicious HTML files, and help users avoid
+Microsoft Defender SmartScreen blocks the website hosting the coin miner. Microsoft Defender ATP detects the malicious HTML file as Trojan:HTML/Brocoiner.N!lib (SHA-256: 86031a7d35968a1ff1f20441afce6eee504cdb98c1fbee9a4708ad989a5f2269)
+— Microsoft Security Intelligence (@MsftSecIntel) January 30, 2020
+software and infect others. This method has proven to be rather effective,
+judging by the number of different cases that were reported recently,
+One example of this was noted only a month ago when security researchers reported that the image of Taylor Swift infected with malware is circling the web. In another report, researchers warned that actress Scarlett Johansson’s photo is also used for distributing crypto -mining malware.
+tend to mine through infected users, is a privacy coin whose transactions are
+difficult to track by the authorities. This makes Monero rather popular with
+hackers, and it is the coin that is targeted more than any other.
+A journalist, with experience in web journalism and marketing. Ali holds a master's degree in finance and enjoys writing about cryptocurrencies and fintech. Ali’s work has been published on a number of cryptocurrency publications. Raza is the co-founder of 5Gist.com, too, a site dedicated to educating people on 5G technology.

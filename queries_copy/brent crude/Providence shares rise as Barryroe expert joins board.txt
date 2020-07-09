@@ -1,0 +1,19 @@
+Shares in Providence Resources rose on Friday as the oil and gas explorer appointed a British industry veteran and expert on its Barryroe project to its board.
+Providence also said that the new non-executive director, Andrew Mackay , founder and chairman of Aberdeen-based oil well management company NRG Group, holds an almost 1.7 per cent stake in the company. It is understood he bought most of the stock as the company completed a $3 million (€2.7 million) fundraise in May.
+Mr Mackay (69) first came to Ireland in the late 1970s with US oil field services company Halliburton and, during his 40 years working in the industry, also worked as a drilling engineer with Saudi Aramco and in the UK government’s oil and gas division.
+NRG provided services on the Barryroe project between 2011 and 2012, when the field was discovered to have 346 million barrels of oil equivalent.
+Mr Mackay’s emergence as a large shareholder and board director is being seen in the market as a strong vote of confidence by a Barryroe expert in the field’s commercial prospects. Shares in Providence closed up 3.4 per cent at 3.8p in London, off its earlier highs.
+Two so-called farm-in agreements – struck in 2015 and 2018, respectively – to develop the project fell through after the selected partners, most recently Chinese company Apec , failed to come up with the necessary funds to complete a transaction.
+In April, Providence selected a preferred new farm-in candidate, Norwegian oil field development company SpotOn, with a view to striking a deal by the end of October.
+Providence’s chief executive Alan Linn estimates an initial phase at Barryroe would at breakeven levels with oil trading at about $26 a barrel. Brent crude is currently trading at about $43 a barrel.
+Mr Linn, who took over as chief executive in January after Tony O’Reilly jnr quit late last year following a tumultuous period for the company, has said that the oil field would be “economically compelling” with oil prices at $50-$60 a barrel.
+/* Any CSS that needs to be patched put here with date and jira ref.
+  @media only screen and (max-width: 767px){.span2 .soa.feature_box .feature_text:before {top: 70px;}}
+    var minWidth = 1100;
+    var shouldShow = jq('body.isArticle.anonymous')[0] != undefined;
+  	var tab = '<div class="floating_tab slideFromLeft"><a class="gtm-event" data-evt-category="/digital-subscriptions" data-evt-action="Go to StoreFront" data-evt-label="Subscribe Now: Floating Tab" href="/digital-subscriptions"><b>Subscribe Now</b></a></div>';
+ -webkit-box-shadow: 5px 0px 20px 0px rgba(81, 81, 81, 0.7); -moz-box-shadow:    5px 0px 20px 0px rgba(81, 81, 81, 0.7); box-shadow: 5px 0px 20px 0px rgba(81, 81, 81, 0.7);}
+@media only screen and (max-width: 1101px) { .floating_tab{display:none !important;} }    
+            var lazyAds = adLazyloaded;
+            var active = false;
+                                    return ad !== lazyAd;

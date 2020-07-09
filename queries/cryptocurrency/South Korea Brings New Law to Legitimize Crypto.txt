@@ -1,0 +1,13 @@
+This mandates licensing for operating crypto exchanges.
+The National Assembly of South Korea’s legislation and judiciary committee has passed a crucial digital currency-related bill on Thursday, legalizing crypto in the country.
+Dubbed Special Financial Information Law, the legislation faced multiple delays and now brings proper guidelines to companies providing crypto-related services.
+Exchanges operating in the country, from now on, have to implement the Financial Action Task Force-recommended anti-money laundering and counter-terror financing provisions.
+The new law also made it mandatory for exchanges to receive approval from the Financial Services Commission and the Korea Internet & Security Agency (KISA) to offer services to Korean nationals.
+The lawmakers also stress on the issue of increasing attacks on the crypto exchanges and precautionary provisions in the new law.
+According to the Special Financial Information Law, digital asset exchanges must obtain an Information Security Management System (ISMS) license from KISA to continue offering their services.
+Did COVID-19 Save the Forex Industry? Go to article >>
+This might weed out many small exchanges that only opened businesses to ride on the bullish trend of crypto.
+Notably, only six exchanges currently operating in South Korea – UpBit, Bithumb, Coinone, Korbit, Gopax, and Hanbitco – have obtained an ISMS license from KISA.
+Multiple major South Korean exchanges, including UpBit were hacked in the past, resulting in the loss of millions in digital currencies.
+The representatives of the crypto industry in the country, including Kim Seong-ah, the chairperson of the Blockchain Association of South Korea and operator of Hanbitco, welcomed these new regulations as they think this will legitimize digital currency in the country.
+Meanwhile, in India, the apex court of the country yesterday squashed the harsh ban of banks offering banking services to crypto businesses, throwing a much-needed lifeline to the growing market.

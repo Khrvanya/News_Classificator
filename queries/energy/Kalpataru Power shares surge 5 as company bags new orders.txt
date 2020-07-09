@@ -1,0 +1,31 @@
+1 min read . Updated: 01 Jul 2020, 02:43 PM IST Ashwin Ramarathinam
+Kalpataru Power Transmission said it secured orders from India, Africa and West Asia in transmission & distribution business
+MUMBAI: Shares of Kalpataru Power Transmission jumped over 5% on Wednesday after the company received new orders worth ₹956 crore.
+The shares were trading at ₹222, up around 3% from its previous close, while the benchmark index, Sensex gained 0.49% to 35086.18.
+In a release to exchange after market hours on Tuesday, Kalpataru Power Transmission (KPTL) said it secured orders from India, Africa and West Asia in transmission & distribution (T&D) business. KPTL's international subsidiary has secured new T&D projects in Europe.
+Manish Mohnot, managing director & CEO said, "We are delighted with the new order wins especially in the face of challenging market conditions. These new order wins help us to consolidate our leadership position in the T&D market in India and Africa. We are very pleased with the way our international subsidiary (Linjemontage) continues to gain market traction in the European T&D market."
+From the beginning of the year, the Kalpataru Power stock has lost 46% against a drop of 15% in the benchmark index, Sensex. The shares gained 31% from the lows touched in March, while Sensex was up 20%.
+On a consolidated basis, Kalpataru Power Transmission reported a 79.5% drop in net profit to ₹31 crore for the quarter ended 31 March. Net sales rose 0.4% to ₹3527 crore.
+* Thank you for subscribing to our newsletter.
+Click here to read the Mint ePaperLivemint.com is now on Telegram. Join Livemint channel in your Telegram and stay updated
+You are now subscribed to our newsletters. In case you can’t find any email from our side, please check the spam folder.
+lozad('.lozad', { load: function(el) { el.src = el.dataset.src; el.onload = function() { el.classList.add('fade')}}}).observe()
+.myAccount .planSec, .myAccount a.LinkCTA{padding:16px; margin:16px; box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.1); background-color: #fff;}
+	       		var userData = data;
+	       		var name = userData.name;
+	       		var email = userData.email;
+	       		var signupSource = userData.source;
+	       		var subscribedAtOnce = userData.subscribedAtOnce;
+	       		var plan  = userData.plan;
+	       		document.getElementById('uName').innerHTML = "<strong>"+name+"</strong>" + email;
+		       		var status = planData.status;
+		       		var purchaseSource = planData.source_device;
+			       		var nextActivationDate = planData.current_term_ends_at;
+			       		var planDescription = planData.plan.description;
+			       		var planName = planData.plan.name;
+			       		var planPrice = planData.amount;
+			       		//var planInterval = planData.shipping_interval;
+			       		var planInterval = planData.duration;
+			       		var planUnit = planData.interval_unit;
+			       		//var html = "<strong>Your Subscription Plan</strong>"+planName+" ₹"+planPrice+" / "+planInterval+" " + nextBillingHtml + cancelHtml; 
+			       		var html = "<strong>Your Subscription Plan</strong> "+planDescription + " "+ planName +": ₹"+planPrice + " "+ nextBillingHtml + cancelHtml;

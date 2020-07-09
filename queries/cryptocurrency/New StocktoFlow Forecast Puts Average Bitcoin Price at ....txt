@@ -1,0 +1,19 @@
+Introducing his latest revamp of the popular price model, analyst PlanB adds gold and silver and almost trebles his previous forecast.
+The latest version of a popular and thus far accurate Bitcoin ( BTC ) price model predicts that the top ranked cryptocurrency on CoinMarketCap should trade for an average price of $288,000 — and it could happen this year.
+In a blog post introducing the third incarnation of the stock-to-flow (S2F) model on April 27, analyst PlanB revealed fresh calculations that are taking his forecast ever higher.
+This time, gold and silver joined in, combining with BTC to create the new BTC S2F cross-asset model or S2FX.
+Stock-to-flow calculates a value based on the supply of new Bitcoins entering circulation through mining versus the existing supply, or “stock.”
+The retroactive application confirms that the model is extremely competent at charting Bitcoin’s growth, with even last month’s 60% drop still falling within its predicted range.
+Prior to S2FX, an “updated” stock-to-flow chart put BTC/USD at an average of around $100,000 between 2020 and 2024. With the release of the new version, however, the prediction has almost tripled overnight.
+“The S2FX model formula can be used to estimate the market value of the next BTC phase/cluster (BTC S2F will be 56 in 2020–2024),” PlanB summarized.
+...This translates into a BTC price (given 19M BTC in 2020–2024) of $288K.
+S2FX introduces the idea of “clusters” for Bitcoin as it moves between various use cases.
+According to PlanB, the cryptocurrency has already been considered as a “proof of concept,” for “payments,” as “E-gold” and currently as a “financial asset.” Each tag accompanies a “cluster” of price points on the S2F chart, and each cluster gives a markedly different price forecast.
+“Each of the four identified BTC clusters has a very different S2F-market value combination that seems to be consistent with halvings and changing BTC narratives,” he continued.
+So far, it is the “financial asset” cluster which has produced the largest S2F value and market value — 25.1 and $114 billion respectively.
+Under S2FX and an S2F value of 56, Bitcoin’s market value should balloon to $5.5 trillion, corresponding to a price per coin of $288,000.
+The update was not without its detractors. Having previously criticized earlier work, the high-volume Bitcoin trader known as J0E007 took a fresh swipe at stock-to-flow, arguing that PlanB should include more “assets” such as controversial altcoin, Bitcoin SV (BSV).
+“I think PlanB made a step in the right direction by including more assets in his model. Solid work,” he tweeted on Tuesday.
+As soon as S2FX is confirmed for a wide range of assets like Pt, W, $BSV and $BCC, it will have my enthusiastic support. Highly scientific!
+In further comments , J0E007 claimed that Bitcoin’s upcoming halving is already “priced in” to BTC/USD, and that next month’s event will precede a price crash.
+Ethereum co-founder Vitalik Buterin meanwhile is also among those with reservations about stock-to-flow.

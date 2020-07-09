@@ -1,0 +1,15 @@
+Can XRP Reclaim the Throne in Japan? BitBank Analyzes the Latest Data
+Yuya Hasegawa, a Market Analyst at an FSA licensed crypto exchange in Japan, analyzed whether XRP will ever reclaim its throne.
+Japanese crypto investors have been known for their passionate support of XRP. Indeed, at one point in Japan, XRP was more popular than Bitcoin. Yet, the official data from the Japan Virtual and Crypto Assets Exchange Association, or JVCEA, the self-regulatory organization approved by the Financial Services Agency, or FSA, shows that XRP is losing its charm in Japan.
+We already saw the "XRP army" shrink in the English speaking region. As XRP's price stagnation continues, the same thing is happening in the Japanese market.
+On June 20th, Yuya Hasegawa, a Market Analyst at the FSA licensed crypto exchange BitBank, analyzed whether XRP will ever reclaim the throne.
+The number of XRP held in Japanese yen dropped significantly over the course of a year.
+Monthly Dominance Chart of User Cryptocurrency Holdings (in JPY). Source: BitBank , JVCEA
+In December 2018, monthly XRP dominance was 51.36% while Bitcoin was at 34.5%. In the latest data available from February 2020, the XRP dominance was 27.54% while Bitcoin at 51.74%.
+Hasegawa explains that one of the reasons for Bitcoin overtaking XRP could be the price disparity. Since January 2019, Bitcoin's price has surged 152.79% while XRP gained only 16.81%.
+Yet this may only be part of the story. Hasegawa also suggests that XRP lacks a significant narrative in the region:
+"The crypto market rally in 2019 was fueled partly by the ‘safe haven’ narrative associated with bitcoin, and the January 2020 rally was also due to a hedge against the geopolitical risk and expectation for multiple halvings scheduled in the spring (again, heavily related to bitcoin). Ethereum also recorded high monthly traded value but it historically has high correlation with bitcoin and it is expected to go through a major network update, Serenity, sometime during Q3 of this year. Therefore, in a way, the popular narratives that drove the market for the past year or so have not exactly been shedding strong lights on Ripple’s XRP."
+Can XRP reclaim the throne again?
+Hasegawa believes that XRP will continue to struggle in the short term, noting that "the market’s attention will likely be kept hooked on bitcoin and Ethereum, because of the current global economic and financial situation, and the Serenity update coming up in the third quarter". In the long term, he expects the demand for XRP to return as the “new normal” of the COVID-19 era" begins:
+"As movements across borders are strictly limited, the demand for cross-border payments and remittances have an opportunity to grow. XRP’s issuer, Ripple, already has a scalable infrastructure to implement fast and cheap cross-border remittances, and its use cases are quietly growing in some parts of the world"
+Cointelegraph recently reported that Ripple, the largest holder of XRP, has initiated the Open Payments Coalition and launched a universal payments system called PayID.

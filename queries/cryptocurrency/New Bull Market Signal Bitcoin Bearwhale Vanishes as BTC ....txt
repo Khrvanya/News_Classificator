@@ -1,0 +1,22 @@
+The most profitable trader on Bitfinex disappeared after the Bitcoin price hit $10K in a stunning 150% rally since the Black Thursday crash.
+The biggest whale on Bitfinex known to the Bitcoin ( BTC ) community as Joe007 vanished, as the price of the top-ranked cryptocurrency by market capitalization hit $10,000.
+Joe007 left with a farewell letter on May 7 on Twitter—which can no longer be seen after he deleted his account—describing his time on Twitter as an “experiment.” He also removed himself from the Bitfinex Leaderboard, no longer showing his trades and the profitability of his positions publicly.
+His departure came after a short contract he placed when Bitcoin was hovering at $6,800 hit $20 million in unrealized loss, resulting in a $15 million loss on paper for the whale. Joe007 realized a $5 million gain in April, reducing the total figure by 25%.
+The whale said in the letter:
+So even though the journey was unexpectedly exciting, it has come to its end. From the very beginning, my CT involvement was a time-limited experiment since my detractors got something right: I can't really afford Twitter. There are many reasons why I can't stay, unfortunately.
+Joe007’s Twitter account before it self-destructed. Source: Joe007
+$60 million profit and counter trader: Why Joe007’s disappearance matters
+Throughout the past six months, Joe007 was arguably the most profitable Bitcoin trader in the cryptocurrency futures market.
+On average, the whale recorded $10 million in gains every month, leading to a staggering $60 million profit within half a year.
+The Bitfinex Leaderboard was created in 2019, allowing anyone to see the performance of traders on the exchange who list themselves on the leaderboard. Users can view weekly and monthly realized profits and unrealized losses of pending trades.
+From September 2019 to April 2020, Joe007 realized $61 million in profit. In the same period, all other whales on Bitfinex realized a $25 million loss. Joe007 outperformed all traders listed on the leaderboard combined by $86 million.
+The disappearance of Joe007 is significant because it occurred as soon as the six-month winning streak was broken. The whale aggressively shorted $6,800 , betting the price of Bitcoin would go down due to low liquidity.
+Joe007’s Bitcoin short at $6,800 was underwater for a loss of $18.3 million. Source: Bitfinex
+The philosophy of Joe007’s trading style ultimately came down to three key data points: liquidity, buying demand and fundamental factors.
+Throughout the past six months, the whale often said that if the Bitcoin price spikes to a local high — such as $10,000 — as a result of whales pumping the price, the lack of actual demand to buy at the top of the cycle often leads BTC to crash.
+It shows ongoing Bitcoin rally is legitimate, unlike previous uptrends
+This time, ahead of the Bitcoin halving, BTC demonstrated a different trend . The spot market accounted for a much larger portion of the daily Bitcoin volume. The futures market, primarily dominated by BitMEX, played a small role in leading the rally from $3,600 to $10,000.
+Meanwhile, Coinbase and Binance saw record-high volumes, with Binance seeing a $23 billion daily value for its BTC-USDT trading pair. At the same time, BitMEX’s open interest and volume struggled to recover to previous levels.
+Binance sees record high spot volume. Source: Tradeblock
+When Bitcoin price spikes substantially within a short time period, it leaves BTC vulnerable to a crash. The reason the risk of a correction increases is because the number of traders longing BTC in the market rises, setting the cryptocurrency up for a long squeeze.
+But, from April to May, the futures market had a relatively small impact on the price trend of BTC. As such, even after a 150% rally, the risk of a Bitcoin long squeeze is not as high as seen in previous price cycles.

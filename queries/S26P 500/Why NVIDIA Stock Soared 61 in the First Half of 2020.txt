@@ -1,0 +1,12 @@
+Shares of the AI leader have been on fire this year while the market has struggled.
+NVIDIA ( NASDAQ:NVDA ) stock rocketed 61.5% higher in the first half of 2020 (January through June), according to data from S&P Global Market Intelligence . The S&P 500 returned negative 3.1% over this period.
+Shares of the artificial intelligence (AI) leader have started July off about on par with the broader market: They're up 1.2% through July 2, while the S&P 500 has gained 1%.
+We can largely attribute NVIDIA stock's powerful 2020 performance to investor optimism throughout April and May that the company's results for fiscal first-quarter 2021, scheduled to be released on May 21, would be robust.
+Investors had good reason to be bullish. Management issued an upbeat outlook in February, when the company released its results for the fourth quarter of fiscal 2020. Moreover, it seemed likely that NVIDIA's gaming platform was getting a boost from the widespread shelter-in-place orders issued in March to help slow the spread of COVID-19.
+Indeed, investors were right to be optimistic. In the company's fiscal first quarter , revenue rose 39% year over year to $3.08 billion. Growth was fueled by the AI -driven data center platform, where revenue surged 80% year over year. Gaming also performed solidly -- thanks to online sales -- with revenue rising 27% over the year-ago period.
+The bottom-line performance was even better. Reported earnings per share (EPS) skyrocketed 130% year over year to $1.47. Adjusted for one-time items, EPS soared 105% year over year to $1.80.
+Results on both the top and bottom lines sped by Wall Street consensus estimates. Analysts were expecting adjusted EPS of $1.68 on revenue of $2.98 billion.
+Data by YCharts. Orange line includes dividends, as NVIDIA pays a very modest dividend.
+For the second quarter, management guided for revenue of $3.65 billion, representing growth of 41.5% year over year. It also expects adjusted EPS of $1.94, according to my calculations using the various inputs that management provides. This represents growth of 56.5% over the year-ago period.
+This outlook includes the contribution from Mellanox Technologies. NVIDIA closed on its acquisition of the maker of high-performance networking products on the first day of its fiscal second quarter.
+Mellanox is expected to contribute a "low-teens percentage" of NVIDIA's Q2 revenue and be immediately accretive to earnings.

@@ -1,0 +1,26 @@
+Please consider using a different web browser for better experience.
+Please enable JavaScript in your browser for a better site experience.
+Colorado Gov. Jared Polis and Ethereum creator Vitalik Buterin read children's books at ETHDenver 2020. (Photo by Will Foxley for CoinDesk)
+The Ethereum community now has a roadmap, albeit a confusing one.
+Dropped Wednesday, Ethereum co-founder Vitalik Buterin’s state of the network map helps contextualize the next five to 10 years for a global community of 20,000 developers while highlighting a key issue for the blockchain’s next version: scalability.
+The Eth 2.0 research team is now leaning into a new concept called “polynomial commitments” to reduce the data used per computation on the network, according to a March 17 blog post by researcher Danny Ryan.
+Dubbed “magic math” by Buterin , polynomial commitments are being eyed as a way to verify the state of the network at low computational cost, a key goal of the future network.
+Still, Buterin’s map tags his magic math for network integration not until at least the third phase in the multi-year push to Eth 2.0.
+“Polynomial commitments could be the major breakthrough we’ve been looking for,” Ryan said, specifically regarding the storage of account data in the next version of Ethereum.
+The Ethereum Foundation did not respond to a request for comment by press time.
+Polynomial commitments are similar to the polynomials we all came to learn and love in elementary school: a math expression with both variables and coefficients (i.e., Y=2X).
+But, again, this is magic math so it’s not quite so simple.
+Buterin describes polynomial commitments as “a sort of ‘hash’ of some polynomial P(x) with the property that you can perform arithmetic checks on hashes.” The original paper on polynomial commitments, meanwhile, synthesizes the math scheme as “six algorithms” that show proof of an event occurring with as little computing data as possible.
+“We suggest replacing Merkle trees by magic math called “polynomial commitments” to accumulate blockchain state,” Buterin said in the Ethereum Foundation blog post. “Benefits include reducing the size of stateless client witnesses (excluding contract code and state data) to near zero.”
+Blockchains record both the ins and outs users create when transacting. On the whole, blockchain accounting systems come in two kinds: the Unspent Transaction Output (UTXO) model and the account-based model. Bitcoin uses the former while Ethereum uses the latter.
+When a user wishes to spend bitcoin in the UTXO model, the transaction drags along with it the entire history of those coins, which is then checked by every peer on the network.
+The account model, on the other hand, records only the transaction between the two peers while directing questions of the transaction’s validity to the Ethereum Virtual Machine (EVM) in conjunction with a proof of the transaction. The EVM executes state changes – the current accounts and balances of the blockchain – on behalf of users.
+Each block on Ethereum – which binds transactions into just that, a block – also contains a proof, a Merkle tree , which connects itself to the beginning of the network’s history. This proof contains the receipt of the state referenced above and is needed for the EVM to execute a transaction.
+This last part has been a sticky issue for Ethereum, however.
+Why? Merkle trees are data-efficient, yet not data-efficient enough for Eth 2.0’s ambitions. This is where the magic happens.
+The current Merkle tree setup takes about 0.5 MB per transaction. Ryan estimates polynomial commitment schemes would reduce the weight of state proofs to between 0.001 and 0.01 MB. For a network that recently averages around 700,000 transactions per day , the savings in terms of data computation add up.
+As such the idea of a stateless client has been in the works since at least October 2017 to reduce the amount of data used for ethereum’s big upgrade.
+Multiple projects outside of Ethereum also lean on polynomial commitments in their own way, including Zcash’s zero-knowledge proof, Halo .
+Buterin said his implementation of polynomial commitments remains one of many. Moreover, it’s still in the research phase.
+“Although incredibly promising, some of this research and magic math is very new. We need to spend more time better understanding the complexities and tradeoffs, as well as just getting more eyes on this new and exciting technique,” Ryan concluded.
+The leader in blockchain news, CoinDesk is a media outlet that strives for the highest journalistic standards and abides by a strict set of editorial policies . CoinDesk is an independent operating subsidiary of Digital Currency Group, which invests in cryptocurrencies and blockchain startups.

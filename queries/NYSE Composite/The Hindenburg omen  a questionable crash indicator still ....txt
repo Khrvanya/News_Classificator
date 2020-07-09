@@ -1,0 +1,16 @@
+MKM Partners' JC O'Hara argues the "Hindenburg Omen," an indicator that sparks fears of an impending market crash, could be wrong this time.
+Many of the New York Stock Exchange issues making new 52-week lows are assets that track international stocks, which have been taking a beating lately because of the trade war.
+"We do note that the Hindenburg Omens have appeared near many market tops, but not every Omen turns into a market top," O'Hara says.
+The Hindenburg disaster at Lakehurst, N.J., which marked the end of the era of passenger-carrying airships.
+The "Hindenburg Omen," an ominous technical indicator that stokes chatter about a market crash possibly looming in the near future, has been triggered. However, the signal may be wrong this time because it's getting skewed by international stocks, which are more prevalent today, according to a technical analyst at MKM Partners.
+MKM's JC O'Hara said the signal was triggered last week at the New York Stock Exchange. For this to happen, four criteria must be met, O'Hara said:
+First, the 10-week moving average of the exchange's composite index must be rising.
+Second, the number of stocks making new 52-week highs and lows must both exceed 2.2 percent of the total issues traded in an exchange.
+Third, the McClellan oscillator — a measure of market breadth based on advancing and declining stocks — must be negative that day.
+Finally, new 52-week highs in an exchange must be less than or equal to twice the new 52-week lows in an exchange.
+These criteria were all met on Sept. 11 at the New York Stock Exchange. But O'Hara notes this may be more of a reflection of weakness overseas than a market crash looming.
+"As the NYSE composite is above its rising 50-day moving average, many securities within the index have made new 52-week lows," he said in a note to clients. "Those securities are predominately ADRs , representing international companies. Of the 2,000+ stocks within the NYSE Composite, 360 are foreign listings."
+"When we examine the largest 100 companies in the index, more than half are non-US issues," O'Hara added. "Thus the international weakness, expressed by ADRs, is a weight for the NYSE Composite." He noted, however, the international weakness is a "growing concern" of his.
+The omen has had a mixed record throughout its lifetime. According to The Wall Street Journal , the indicator has successfully predicted a meaningful pullback less than 30 percent of the time. The omen was triggered in early May 2017, but equities kept marching to record highs.
+However, the signal was triggered leading up to the 1987 market crash and during the 2008 financial crisis.
+"We do note that the Hindenburg Omens have appeared near many market tops, but not every Omen turns into a market top," O'Hara said.

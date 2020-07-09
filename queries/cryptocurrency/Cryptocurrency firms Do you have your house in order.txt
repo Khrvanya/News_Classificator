@@ -1,0 +1,14 @@
+External | what does this mean?
+This content is provided by an external author without editing by Finextra. It expresses the views and opinions of the author.
+Cryptocurrency firms: Do you have your house in order?
+It’s no surprise that the 5th Money Laundering Directive tightened up on the cryptocurrency sector in the EU, finally catching up with the US. There has been a void in regulations in this sector which has certainly enabled bad actors to avoid appropriate
+ checks and allowed fraud and other criminal activity to steam ahead using this currency.
+Both cryptocurrencies that engage in exchange services and custodian wallet providers will be required to fall into line behind this regulation and are required to implement measures to counter money laundering and terrorist financing. Other financial institutions
+ have been successfully carrying out a variety of risk-based identity checks for many years now, and it would be assumed that most EU cryptocurrency companies would have these in place, ready to go this year.
+However, this doesn’t appear to be the case. A recent cryptocurrency report by CipherTrace late last year, found that 2/3rds of 120 of the most popular cryptocurrency exchanges have weak KYC processes. Although it has been reported that only 0.5% of all
+ bitcoin transactions ($829 million) have been spent on the dark web, that doesn’t mean that checks shouldn’t be in place to mitigate the problems.
+There is a nasty taint left on an organisation if it is associated with wrongdoing. In a competitive marketplace you don’t want to be the company seen as having poor checks in place and allowing terrorist financing, fraud and money laundering to take place.
+Many cryptocurrency companies may be worried of the cost associated and also about putting customers off due to lengthy onboarding. However, the cost doesn’t have to be detrimental, since solutions that involve technology such as face matching against identity
+ documents, enabling potential customers to be verified in seconds, allow you to be confident that you’re transacting with the right person.
+But it’s not just reputational cost, UK and US authorities have shown they are not shy about chasing those who have poor controls in place. Just as one example, Standard Chartered were fined $1.1bn last year for money-laundering and sanctions breaches.
+Your house really should now be in order to ensure compliance to these regulations. If not, we suggest that you go through your processes in detail and bring in a standard risk-based approach to your customer on-boarding processes.

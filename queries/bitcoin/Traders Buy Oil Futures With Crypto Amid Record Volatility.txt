@@ -1,0 +1,11 @@
+As oil overtakes Bitcoin for price volatility, FTX has launched oil future contracts pegged to the West Texas Intermediate, plus $100.
+The Binance-owned crypto derivatives exchange, FTX , has introduced oil futures following the recent record crash in U.S. oil prices — which fell as low as minus-$40 on April 20.
+FTX’s contracts will expire at the spot price of West Texas Intermediate, or WTI, plus $100 to protect against negative settlement prices.
+The exchange notes that should the spot price of oil fall below minus-$100, “FTX OIL contracts “can theoretically expire negative.”
+FTX comprises a top-10 ranked Bitcoin ( BTC ) futures exchange by both volume and open interest. The Binance-owned exchange is the largest to offer crypto-based oil contract trading.
+The contracts are not available to account-holders residing in or with an IP address in the United States, Canada, or a number of other verboten locations.
+Despite being known for their volatility , cryptocurrencies have paled in comparison to the price swings posted by WTI since March.
+The contracts will trade until settlement, even if they are settled after the expiration date has expired.
+The first quarter of 2020 saw record trade volume posted by the crypto derivatives sector, driven by new market entrants, Binance and FTX.
+A report published by CryptoCompare earlier this month estimated that the combined market share of Binance and FTX grew from 14% in January to 22% in March amid the dramatic crypto market crash.
+Binance saw the largest volume among derivatives exchanges, with $2.8 billion in futures contracts changing hands during the violent sell-off.

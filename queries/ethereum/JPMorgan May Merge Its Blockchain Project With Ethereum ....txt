@@ -1,0 +1,13 @@
+Please consider using a different web browser for better experience.
+Please enable JavaScript in your browser for a better site experience.
+JPMorgan May Merge Its Blockchain Project With Ethereum Studio ConsenSys: Report
+JPMorgan May Merge Its Blockchain Project With Ethereum Studio ConsenSys: Report
+Banking giant JPMorgan Chase may soon merge its Quorum blockchain project with ConsenSys, the ethereum-focused software developer and investor.
+According to a Reuters report Tuesday citing “people familiar with the plans,” while the terms of the deal currently under discussion are still not set, the merger might happen within the next six months.
+Quorum was first reported in 2016, creating a wave of excitement as it officially connected the bank with ethereum, even if it was a private version of the tech. The firm suggested at the time the open source project was a first step toward building a system that could connect private institutions via distributed networks.
+Since then, Quorum has had privacy features from ethereum added and a major revamp based on the Java programming language in a bid to make it easier for businesses to use and deploy.
+It’s also been used as the basis for JPM’s Interbank Information Network, which now has over 365 banks on board. The platform is aimed at allowing member banks to exchange information in real time, allowing them to verify payments has been approved
+In May 2019, staff at the bank suggested Quorum might be spun off, though it was uncertain if that would be the case at the time.
+Reuters sources added the Quorum unit currently employs roughly 25 people globally, and it’s not yet clear if they would become part of ConsenSys’ team after the merger.
+CoinDesk reached out to both parties to confirm the report. JPMorgan declined to comment.
+The leader in blockchain news, CoinDesk is a media outlet that strives for the highest journalistic standards and abides by a strict set of editorial policies . CoinDesk is an independent operating subsidiary of Digital Currency Group, which invests in cryptocurrencies and blockchain startups.

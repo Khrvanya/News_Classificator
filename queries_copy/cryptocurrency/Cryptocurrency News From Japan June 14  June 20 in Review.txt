@@ -1,0 +1,10 @@
+A new report on Japanese crypto regulation, an institutional crypto custody service, and more headlined news from Japan this past week.
+This week’s headlines from Japan included research company Xangle releasing a report on Japanese crypto regulation, Binance supporting Japan's language but not its residents, SBI Holdings turning gift certificates digital with blockchain, and Nomura Holdings opening a crypto custody service with Ledger and Coinshares.
+Check out some of this week’s crypto and blockchain headlines, originally reported by Cointelegraph Japan .
+A new report surfaced last week from research outfit Xangle regarding Japanese digital asset regulation. Citing multiple examples of already-approved assets listed on exchanges, the report "analyzes the conditions necessary for listing a new virtual currency in Japan," Cointelegraph Japan detailed.
+The report also noted regulation from the country's Financial Services Agency, or FSA, against gambling decentralized applications, or DApps, as well as several other points of importance.
+After banning the Japanese region from trading on its exchange in January, Binance mentioned the return Japanese language functionality last week. The platform, however, still denies Japanese residents from using the platform.
+"Intended as a service for Japanese-speaking users who do not live in Japan," Binance told Cointelegraph Japan.
+The Ukiha Chamber of Commerce, of the Fukuoka Prefecture, unveiled plans to turn local paper-based gift certificates digital, using blockchain as the underlying technology. The product will use a mobile app and QR code.
+Digital asset management company CoinShares, in collaboration with finance firm Nomura Holdings, opened a custody operation involving crypto. Known as Komainu, the custodial service holds and protects institutions' crypto, Reuters Japan said in a June 17 brief . The service also involves hardware wallet provider Ledger.
+The collaboration first unveiled its regulatory-approved service in 2018, following up with several test clients in recent months. As of the announcement, the operation is ready for more customers.

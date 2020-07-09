@@ -1,0 +1,9 @@
+Gear-obsessed editors choose every product we review. We may earn commission if you buy from a link. How we test gear.
+Solution to Riddle of the Week: The Gold Chain Math Problem
+Did you get it right?
+This is a solution to The Gold Chain Math Problem Is Deceptively Simple, part of our Riddle of the Week series.
+You’re rummaging around your great grandmother’s attic when you find five short chains each made of four gold links. It occurs to you that if you combined them all into one big loop of 20 links, you’d have an incredible necklace. So you bring it into a jeweler, who tells you the cost of making the necklace will be $10 for each gold link that she has to break and then reseal.
+How much will it cost?
+Solution: The most straightforward approach would be to break a link on the end of each of the five chains, and then reattach the link to the back of the next chain in the loop. This would cost you $50 for the five links that were broken and resealed.
+But you can actually do it for $40! Instead of breaking a link in each chain, break all four links in one of the chains and then use those four links to attach the remaining four chains together. Now you’ve saved $10. Use it on something nice.
+Want to talk about brain teasers or try to out-riddle the riddler? Find Laura on Twitter at @LauraFeiveson .

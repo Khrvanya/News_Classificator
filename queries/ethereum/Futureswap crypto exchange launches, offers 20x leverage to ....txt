@@ -1,0 +1,20 @@
+A new decentralized derivatives platform that offers 20x leverage has been recently launched on Ethereum — the Futureswap Exchange.
+The Futureswap Exchange was launched on the Ethereum (ETH) mainnet on April 20. The exchange says that it offers futures traders “20x leverage with an automated market-making” system.
+Futureswap is LIVE on Ethereum!!! Trade 20x Perpetual Futures Now!! https://t.co/nsF196oz55
+— Futureswap Exchange (@futureswapx) April 20, 2020
+Additionally, it claims that the platform offers no slippage on any digital asset based on ETH.
+Because Futureswap does not use an order book system but an automated market maker instead, traders do not have to worry about price slippage. They can freely enter long or short positions on different tokens at their “exact market price.”
+“Futureswap’s goal is to fully decentralize an efficient and flexible futures exchange that has zero slippage, lower fees, limitless token pairs, and significant returns for liquidity providers.”
+Futureswap’s platform operates in the same way other decentralized exchanges built on ETH do: It offers community-based liquidity where digital assets deposited by investors are pooled. The investors are called “liquidity providers.”
+Liquidity providers deposit an equal amount of DAI and ETH to back its reserve. In return, they receive incentives amounting to a percentage of the platform’s trading fees.
+Its governance model is also similar to other decentralized exchanges.
+Making decisions such as proposing changes to the network, such as adding asset pairs, updating exchange parameters, and selecting new markets are delegated to a community of users. This community are composed of the users who own FST, its native token
+FSTs are earned from trading, providing liquidity, or by referring others to the exchange. FSTs can be used as a discount token for cheaper trading commissions.
+Futureswap is working with Chainlink oracles through Chainlink’s Price Reference Data Contracts – a network of decentralized oracles that gather 30 different decentralized finance (DeFi) price feeds.
+While its mainnet is already live, they still advise their users to use the platform at their own risk.
+However, this development came at a trying time for the DeFi community. With the recent attack on Uniswap and dForce , it will be easy to assume that even curious traders in the crypto-community will not be so quick in using it.
+According to the announcement, Futureswap’s code is still being audited by Open Zeppelin. Security concerns about coding were among the suspected causes of the Uniswap and dForce hacking.
+Thirty days after its mainnet launch, the exchange will be updated based on the audit result of its code and the feedback of its initial testers on Futureswap’s user interface.
+Images courtesy of Energepic.com /Pexels, Futureswap /Screenshot
+Micky is a news site and does not provide trading, investing, or other financial advice. By using this website, you affirm that you have read and agree to abide by our Terms and Conditions .
+Micky readers - you can get a 10% discount on trading fees on FTX and Binance when you sign up using the links above.

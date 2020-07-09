@@ -1,0 +1,43 @@
+Stock market news live updates: Stocks drift lower as early rally fizzles, Nasdaq 100 bounces off new high
+[Click here to read what’s moving markets heading into Friday, June 5]
+In the S&P 500, the financials and industrials sectors – laggards for the year to date – led advances, and tech stocks held steady after paring some of their recent weeks’ worth of strong gains on Wednesday. The rotation underscored investors’ increasing confidence across industries with an economic reopening under way.
+Market participants mostly shrugged off ongoing unrest across the nation as mass gatherings continued for another day, along with more signs of tensions between the U.S. and China .
+A closely watched monthly report on changes in private payrolls showed far fewer than expected job losses in May, fueling hopes that the labor market was recovering from a nadir in April. The ADP report showed 2.76 million private payrolls lost in May, or less than one-third the 9 million cuts expected.
+“The unexpectedly small 2,760K drop in the ADP measure of May private payrolls is consistent, at least, with the idea that the partial reopening of several states in the early part of the month prompted an immediate wave of rehiring,” Ian Shepherdson, chief economist for Pantheon Macroeconomics, said in a note.
+Still, he said, he urged “caution before assuming” the Labor Department’s official jobs report out Friday will be in-line with ADP’s results due to differences in how the two surveys count furloughed workers, with ADP generally including furloughed workers still on employee lists as employed. Consensus economists expect the Labor Department report will show non-farm payrolls dropped by a net 8 million in May, including a loss of 7.25 million private payrolls, after a decline of more than 20 million in April. The unemployment rate is expected to worsen to 19.5% from 14.7%.
+Signs that the coronavirus outbreak was easing also helped boost investors’ risk appetites. The daily death toll from the coronavirus in New York state fell below 50 on Wednesday, hitting the lowest level in more than two months. Seven regions in the state, all outside of New York City, will reopen outdoor dining at restaurants Thursday, Governor Andrew Cuomo’s said in a press conference. New York City is poised to begin the first phase of its reopening process Monday.
+Across the U.S., new coronavirus cases rose by 1.2% between Tuesday and Wednesday, about matching the average pace of increase of the past seven days, according to Bloomberg and Johns Hopkins data.
+Here were the main moves in markets as of 4:04 p.m. ET:
+U.S. West Texas intermediate crude oil futures ( CL=F ) settled higher by 12 cents, or 0.3%, to $37.41 on Thursday, hitting a fresh three-month high and continuing the commodity’s recent march higher. Brent crude ( BZ=F ), the international standard, also settled slightly higher at $39.99 a barrel.
+12:35 p.m. ET: ZoomInfo Technologies shares open at $40, nearly double IPO price, as 2020 IPO market builds momentum
+ZoomInfo Technologies ( ZI ), software information database company not to be confused with Zoom Video Communications (ZM ), made its public debut Thursday afternoon, with shares opening for trading at $40 apiece on the Nasdaq. The company priced its initial public offering at $21 each, selling 44.5 million shares to raise $935 million.
+The company’s public debut marks the first technology listing in the U.S. since Chinese cloud company Kingsoft Cloud Holdings made its initial public offering in April. It also came a day after Warner Music Group shares rose as much as 23% in its first day of public trading Wednesday, following its $1.9 billion offering for the largest so far this year.
+12:00 p.m. ET: Stocks dip as early rally fizzles, jobless data weigh
+Investors take a breath from a rally that’s lasted four days, booking profits on the run higher but still within striking distance of 2020’s highs reached before the March selloff. Here’s where the market traded around noon Eastern:
+S&P 500 ( ^GSPC ): 3,113.44, off -9.43 (-0.30%)
+Dow ( ^DJI ): 26,268.20, off -1.69 (-0.01%)
+Nasdaq ( ^IXIC ): 9,645.52, off -37.39 (-0.39%)
+Crude ( CL=F ): $36.80, off -0.49 (-1.31%)
+Gold ( GC=F ): $1,719.70, off $14.90 (+0.87%)
+10-year Treasury ( ^TNX ): yielding 0.8050, up 0.0440 basis points
+Jobless claims, protests and the COVID-19 pandemic are not stopping Wall Street from looking beyond the rubble to a brand new day. Stocks struggled at the opening bell, but the Nasdaq 100 quietly set a fresh intraday record — a complete reversal from the grim days of March.
+As some analysts have noted, the harbinger stocks of the ‘new normal’ — i.e. tech names like Amazon ( AMZN ), Apple ( AAPL ) and Netflix ( NFLX ) that have benefited during the lockdown — are helping boost the move higher.
+Here were the main moves in markets, as of 9:32 a.m. ET:
+8:31 a.m. ET: U.S. trade deficit jumped 16.7% in April, matching expectations
+The U.S. trade deficit widened to $49.4 billion in April from $42.3 billion in March, matching consensus economist expectations. The report captures the period when lockdowns in the U.S. were at their most widespread, hindering the global flow of goods and services.
+The increase in the deficit was driven by a drop in exports, which fell 20.5% to $151.3 billion, the lowest since April 2010. Imports also declined, but by a more modest 13.7% in April to $200.7 billion, the lowest since July 2010.
+Weekly initial jobless claims totaled 1.877 million for the week ended May 30, the Labor Department said Thursday. This was slightly above expectations for new jobless claims to come in at 1.833 million, according to Bloomberg data. The prior week’s new unemployment claims were revised to 2.126 million, from the 2.123 million previously reported.
+The new report brought the total number of new claims filed over the past 11 weeks to 42.647 million. Claims first topped a million during the week ended March 20.
+Continuing unemployment claims were at a higher than expected 21.487 million for the week ended May 23. This followed a downwardly revised 20.838 million continuing unemployment claims the prior week.
+The European Central Bank (ECB) said in its monetary policy decision Thursday it would extend the duration of its Pandemic Purchase Program to at least June 2021, and added that it would boost the size of its crisis asset-buying program by 600 billion euros to a total of 1.35 trillion euros. Originally, the program was set to close out at the end of 2020.
+The Pandemic Purchase Program, first introduced in March, has held borrowing costs lower for countries in the 19-member euro zone. The ECB decision came on the heels of grim economic data across the region, with the unemployment rate in the euro zone rising to 7.3% in April from 7.1% in March amid the ongoing pandemic, according to Eurostat data released a day earlier.
+The euro strengthened against the dollar ( EURUSD=X ) following the ECB announcement.
+Here were the main moves in markets, as of 7:20 a.m. ET:
+S&P 500 futures ( ES=F ): 3,103.25, down 14.5 points (-0.47%)
+Dow futures ( YM=F ): 26,118.00, down 110 points (-0.42%)
+Nasdaq futures ( NQ=F ): 9,665.75, down 19 points (-0.2%)
+Here were the main moves at the start of the overnight session for U.S. equity futures, as of 6:03 p.m. ET:
+S&P 500 futures ( ES=F ): 3,112.75, down 5 points (-0.16%)
+Dow futures ( YM=F ): 26,225.00, down 3 points (-0.01%)
+Nasdaq futures ( NQ=F ): 9,679.50, down 5.25 points (-0.05%)
+NEW YORK, June 3, 2020 -- Police officers monitor a protest over the death of George Floyd in New York, the United States, June 2, 2020. New York City will be under a curfew from 8 p.m. to 5 a.m. the next morning till Sunday to curb criminal acts emerging from protests over the death of black man George Floyd, Mayor Bill de Blasio said on Tuesday. (Photo by Wang Ying/Xinhua via Getty) (Xinhua/Wang Ying via Getty Images)

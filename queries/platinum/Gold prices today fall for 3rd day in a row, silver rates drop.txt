@@ -1,0 +1,35 @@
+Gold prices today fall for 3rd day in a row, silver rates drop
+1 min read . Updated: 03 Jul 2020, 10:21 AM IST Edited By Surajit Dasgupta
+Gold prices today fell in India markets, the third decline in a row as improved global risk sentiment and a stronger rupee put pressure on domestic rates. On MCX, gold futures declined 0.2% to ₹48,171 per 10 gram while silver rates fell 0.48% to ₹49,187. Gold had hit a record high of ₹48,982 per 10 gram earlier this week but could not sustain the gains.
+Gold edged lower today as strong U.S. jobs data lifted investors' risk appetite but surging global cases of the novel coronavirus and lingering trade tensions between the United States and China, supported gold at lower levels, said Jigar Trivedi, Research Analyst- Commodities Fundamental, Anand Rathi Shares & Stock Brokers
+Gold edged lower in global markets today after better-than-expected US jobs data lifted investors' risk appetite. Spot gold fell 0.1% to $1,773.13 per ounce while US gold futures shed 0.3% to $1,785.60. Losses were capped as investors continued to worry about surging cases of the coronavirus and trade tensions between the US and China. Earlier this week, on Wednesday, gold prices touched a near eight-year high of $1,788.96.
+Among other precious metals, platinum rose 0.1% to $803.91 while silver was steady at $17.90.
+Also supporting gold is expectations of continuing stimulus measures by central banks and governments to support their economy, Kotak Securities said in a note.
+Data released on Thursday showed the US economy regained 4.8 million jobs in June as businesses began to reopen nationwide, while the unemployment rate fell more than two points to 11.1 percent,
+More than 75 US senators and House members on Thursday urged the Trump administration to take a tougher stance on China over its crackdown in that country's Xinjiang province.
+Gold is often used as a safe store of value during times of political and financial uncertainty.
+Gold ETFs continued to attract investor interest. The holdings of SPDR Gold Trust, the world's biggest gold-backed ETF, rose 0.8% to 1,191.47 tonnes on Thursday.
+Gold may continue to witness volatile trade as market players assess rising challenges to global economy against signs of economic recovery, Kotak Securities added.
+* Thank you for subscribing to our newsletter.
+Click here to read the Mint ePaperLivemint.com is now on Telegram. Join Livemint channel in your Telegram and stay updated
+You are now subscribed to our newsletters. In case you can’t find any email from our side, please check the spam folder.
+lozad('.lozad', { load: function(el) { el.src = el.dataset.src; el.onload = function() { el.classList.add('fade')}}}).observe()
+.myAccount .planSec, .myAccount a.LinkCTA{padding:16px; margin:16px; box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.1); background-color: #fff;}
+	       		var userData = data;
+	       		var name = userData.name;
+	       		var email = userData.email;
+	       		var signupSource = userData.source;
+	       		var subscribedAtOnce = userData.subscribedAtOnce;
+	       		var plan  = userData.plan;
+	       		document.getElementById('uName').innerHTML = "<strong>"+name+"</strong>" + email;
+		       		var status = planData.status;
+		       		var purchaseSource = planData.source_device;
+			       		var nextActivationDate = planData.current_term_ends_at;
+			       		var planDescription = planData.plan.description;
+			       		var planName = planData.plan.name;
+			       		var planPrice = planData.amount;
+			       		//var planInterval = planData.shipping_interval;
+			       		var planInterval = planData.duration;
+			       		var planUnit = planData.interval_unit;
+			       		//var html = "<strong>Your Subscription Plan</strong>"+planName+" ₹"+planPrice+" / "+planInterval+" " + nextBillingHtml + cancelHtml; 
+			       		var html = "<strong>Your Subscription Plan</strong> "+planDescription + " "+ planName +": ₹"+planPrice + " "+ nextBillingHtml + cancelHtml;

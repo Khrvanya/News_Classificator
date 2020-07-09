@@ -1,0 +1,23 @@
+A new genetic analysis of  the virus that causes Covid-19 taken from more than 7,600 patients around the world shows it has been circulating in people since late last year, and must have spread extremely quickly after the first infection.
+Researchers in Britain looked at mutations in the virus and found evidence of quick spread, but no evidence the virus is becoming more easily transmitted or more likely to cause serious disease.
+"The virus is changing, but this in itself does not mean it's getting worse," genetics researcher Francois Balloux of the University College London Genetics Institute told CNN.
+Balloux and colleagues pulled viral sequences from a giant global database that scientists around the world are using to share data. They looked at samples taken at different times and from different places, and said they indicate that the virus first started infecting people at the end of last year.
+"This rules out any scenario that assumes SARSCoV-2 may have been in circulation long before it was identified, and hence have already infected large proportions of the population," Balloux's team wrote in their report, published in the journal Infection, Genetics and Evolution.
+That is one piece of bad news. Some doctors had hoped the virus was circulating for many months and may have quietly infected many more people than has been reported. That would offer the hope that there might be some immunity already built up in some populations.
+"Everyone was hoping for that. I was too," Balloux said.
+Their findings pour cold water on such an idea. At the most, 10% of the global population has been exposed to the virus, Balloux estimated.
+Many different studies have shown that the new coronavirus, often called SARS-CoV-2 by scientists, originated in a bat but had to have infected another animal before it jumped into humans. The first human cases were reported in Wuhan, China, last December.
+Viruses make mistakes every time they replicate themselves, and these mutations can be used as what's called a molecular clock to track a virus through time and geography.
+"Our results are in line with previous estimates and point to all sequences sharing a common ancestor towards the end of 2019, supporting this as the period when SARS-CoV-2 jumped into its human host," the team wrote.
+"It's very recent," Balloux said. "We are really, really, really confident that the host jump happened late last year."
+That's because viral samples taken from all corners of the globe show multiple mutations, and they are similar mutations. "Everything is everywhere," the team wrote.
+"It has been introduced and introduced and introduced in almost all countries," Balloux added.
+They also found genetic evidence that supports suspicions the virus was infecting people in Europe, the US and elsewhere weeks or even months before the first official cases were reported in January and February. It will be impossible to find the "first" patient in any country, Balloux said.
+"All these ideas about trying to find a Patient Zero are pointless because there are so many patient zeros," he said.
+Intel shared among US allies indicates virus outbreak more likely came from market, not a Chinese lab
+Balloux's team's findings were reviewed by other experts, a process called peer review, before they were published in the journal. He said some reports by other teams, published online in what are called pre-print websites, may have drawn incorrect conclusions.
+"All viruses naturally mutate. Mutations in themselves are not a bad thing and there is nothing to suggest SARS-CoV-2 is mutating faster or slower than expected. So far we cannot say whether SARS-CoV-2 is becoming more or less lethal and contagious," Balloux said.
+Lane Warmbrod is an analyst at the Johns Hopkins Center for Health Security who has been tracking the reports on the genetics of the new coronavirus. She said more studies are needed in animals to demonstrate how changes in the genetics of the virus could make it more or less infectious or pathogenic.
+Sign up here to get The Results Are In with Dr. Sanjay Gupta every Tuesday from the CNN Health team.
+"Just because these studies tell us these mutations are quickly spreading or becoming dominant doesn't mean anything except we know it happened. It doesn't actually tell us anything about what's happening biologically," Warmbrod told CNN.
+Reports about mutations can be important for teams working on drugs and vaccines to fight the coronavirus. Vaccines, especially, need to target parts of the virus that are conserved -- that do not change much over time.

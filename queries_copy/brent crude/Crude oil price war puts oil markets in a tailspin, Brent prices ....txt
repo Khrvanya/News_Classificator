@@ -1,0 +1,36 @@
+Pivot Or Perish Market Dashboard India-China Face-Off The Future Of Covid Tracker Lounge Coronavirus India2Global Emerging Tech Conclave #WFHLife Long Reads Money With Monika, Season 4 Mint 50 - Top Mutual Funds Plain Facts Mark To Market Podcasts Money With Monika, Season 3 Companies Markets Money Start-ups Mutual Funds Insurance Technology Industry Opinion Politics
+Home > Industry > Energy >Crude oil price war puts oil markets in a tailspin, Brent prices crash
+Crude oil price war puts oil markets in a tailspin, Brent prices crash
+1 min read . Updated: 09 Mar 2020, 08:05 AM IST Utpal Bhaskar
+Goldman Sachs analysts are predicting that crude oil prices may plunge to $20 per barrel mark.
+The crude oil price war unleashed by Saudi Arabia, post the unravelling of the Organization of the Petroleum Exporting Countries (Opec) plus arrangement has put the oil markets in a tailspin, resulting in one of the biggest one day fall in the international benchmark Brent crude prices.
+The oil markets witnessed the worst price dip since the 1991 Gulf War as Brent prices plunged to $31.02 per barrel. In what may further exacerbate the price situation, Goldman Sachs analysts are predicting that crude oil prices may plunge to $20 per barrel mark.
+Brent was trading at $35.75 per barrel, a sharp fall from $45.27 per barrel and far lower than the highs of $147 per barrel in July 2008. The West Texas intermediate (WTI) was at $32.58 per barrel.
+This has put major consumers such as India in an advantageous position. Saudi Arabia accounts for around 10% of the total global supply of 100 mbpd and is the second largest supplier of crude and cooking gas to India.
+Crude oil prices are on a downward spiral after Russia didn’t agree to the Opec’ proposal for an additional production cut of 1.5 million barrels per day (mbpd), amid the demand slump following the Covid-19 outbreak; at the Opec plus meeting in Vienna on Friday. Russia’s decision was guided by geo-strategic play in denying the production cut benefits to US shale oil producers.
+The supply glut will have a wide-ranging impact on energy markets. Every dollar per barrel drop in crude oil prices reduces India’s import bill by Rs10,700 crore on an annualized basis. Retail prices of petrol and diesel in India track global prices, not crude, but are broadly linked to crude oil price trends.
+Analysts have predicted a perfect storm in the energy markets that will help major consumers such as India manage inflationary and fiscal pressures. India is the world’s third-largest crude oil buyer, and the fourth-largest LNG importer.
+The cost of the Indian basket of crude, which averaged $56.43 and $69.88 per barrel in FY18 and FY19, respectively, averaged $65.52 in December 2019, according to data from the Petroleum Planning and Analysis Cell. The price was $51.03 a barrel on 5 March. The Indian basket represents the average of Oman, Dubai and Brent crude.
+* Thank you for subscribing to our newsletter.
+Click here to read the Mint ePaperLivemint.com is now on Telegram. Join Livemint channel in your Telegram and stay updated
+You are now subscribed to our newsletters. In case you can’t find any email from our side, please check the spam folder.
+lozad('.lozad', { load: function(el) { el.src = el.dataset.src; el.onload = function() { el.classList.add('fade')}}}).observe()
+.myAccount .planSec, .myAccount a.LinkCTA{padding:16px; margin:16px; box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.1); background-color: #fff;}
+	       		var userData = data;
+	       		var name = userData.name;
+	       		var email = userData.email;
+	       		var signupSource = userData.source;
+	       		var subscribedAtOnce = userData.subscribedAtOnce;
+	       		var plan  = userData.plan;
+	       		document.getElementById('uName').innerHTML = "<strong>"+name+"</strong>" + email;
+		       		var status = planData.status;
+		       		var purchaseSource = planData.source_device;
+			       		var nextActivationDate = planData.current_term_ends_at;
+			       		var planDescription = planData.plan.description;
+			       		var planName = planData.plan.name;
+			       		var planPrice = planData.amount;
+			       		//var planInterval = planData.shipping_interval;
+			       		var planInterval = planData.duration;
+			       		var planUnit = planData.interval_unit;
+			       		//var html = "<strong>Your Subscription Plan</strong>"+planName+" ₹"+planPrice+" / "+planInterval+" " + nextBillingHtml + cancelHtml; 
+			       		var html = "<strong>Your Subscription Plan</strong> "+planDescription + " "+ planName +": ₹"+planPrice + " "+ nextBillingHtml + cancelHtml;

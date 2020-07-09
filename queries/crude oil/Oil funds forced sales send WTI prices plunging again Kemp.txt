@@ -1,0 +1,36 @@
+Oil fund’s forced sales send WTI prices plunging again: Kemp
+LONDON (Reuters) - Front-month U.S. light crude oil futures prices slumped almost 25% yesterday, the second sharp tumble in a week, after the exchange operator ordered a major commodity fund to sell some of its near-dated futures contracts.
+FILE PHOTO: The sun sets behind a crude oil pump jack on a drill pad in the Permian Basin in Loving County, Texas, U.S. November 24, 2019. REUTERS/Angus Mordant
+USO positions were previously split between contracts for delivery in June (20%), July (40%), August (20%) and September (20%), after the fund had already been forced to shift them out of the front-month by recent volatility.
+The fund is now shifting its positions even further forward, exiting the June contract altogether, and moving positions to July (30%), August (15%), September (15%), October (15%), December (15%) and June 2021 (10%).
+USO announced its positions would be rolled forward between April 27 and April 29, with approximately one-third rolled each day, in a filing with the U.S. Securities Exchange Commission (SEC).
+In its filing, the fund noted there had been “significant market volatility” as a result of the coronavirus pandemic and the recent oil volume war between Saudi Arabia and Russia.
+It said positions were being rolled because of market conditions, regulatory requirements and risk-mitigation measures being imposed by the futures commission merchant that handles its trades.
+Position changes came after the USO received letters from CME instructing it not to exceed new position and accountability limits for the remaining contract months in the second and third quarters.
+“We cannot comment on our specific interaction with any market participant or any particular price move,” a spokesperson said in an email to Reuters.
+“CME Group operates a comprehensive surveillance program - including spot month position limits and accountability levels in order to monitor any concentration concerns - to further ensure our markets function as designed, provide price discovery, and facilitate risk transfer.”
+But position limits seem to have been intended to keep most of USO’s very large position in light sweet crude oil futures, also known as West Texas Intermediate (WTI), well away from contract expiry dates.
+By ensuring USO’s positions remain smaller in the run-up to expiries over the next few months, regulators can minimise the risk it could be forced to sell them abruptly in order to avoid taking delivery, distorting market prices.
+USO was not involved in the sudden plunge in WTI prices in the May contract on April 20, a day before it expired, because the fund had already rolled its positions forward several days earlier.
+But regulators seem keen to ensure USO’s large and well known positions do not become a cause of dislocations in future (“United States Oil Fund LP Form 8-K”, SEC, April 27).
+Ironically, the intervention, however well intentioned, has increased volatility in the short term, even if it could lessen volatility later on.
+USO has become a forced and very public seller of WTI futures contracts for June. Forced sales caused prices for the June contract to fall sharply yesterday on heavy turnover as other traders anticipated them.
+Futures prices for the June contract fell by almost 25% on Monday (equivalent to more than 5 standard deviations) following last week’s slump of more than 300% (67 standard deviations) in the May contract.
+Like last week’s price tumble, the dislocation has been concentrated in WTI, with much more limited falls in Brent futures, and is focused on contracts close to expiry.
+WTI futures specify physical settlement, at a landlocked inland location at Cushing, Oklahoma, while Brent is financially settled based on seaborne crude.
+WTI prices are vulnerable to dislocation when the tank farms and pipelines at Cushing threaten to become full, and have disconnected from Brent several times since 2008.
+In this instance, the tank farms at Cushing have already become 76% full, up from 48% five weeks ago, following heavy deliveries of surplus crude, and the remaining space is already fully committed or leased.
+Traders anticipate the tank farms could become full by the middle of May, and there are few opportunities for market participants who have not already booked space to make or take physical delivery.
+Most market participants must now avoid being forced to make or take physical delivery at all costs, which is causing many to shun taking a position in the June or July futures contracts.
+The total number of open positions in the June WTI contract has fallen by 254 million barrels or 44% over the last week.
+Front-month WTI prices have been hit by Cushing delivery-related pressure several times in the past, though never on the scale experienced last week and again yesterday.
+CME has warned oil futures trading is not suitable for retail investors and should only be done be professionals who understand and can manage the risks, including the challenges posed by physical settlement.
+“The small retail investors are somebody that we do not target. We go for professional participants in our marketplace,” CME chief Terry Duffy said in a television interview with CNBC on April 22.
+The problem is that the WTI futures price has been incorporated as a benchmark into large numbers of secondary products, some aimed at retail investors, or at least not restricted to professionals.
+Following last week’s negative WTI price, it has emerged WTI prices are incorporated into secondary products traded in China, Russia and India, among other countries.
+They are also incorporated into single-commodity and multi-commodity indices popular with institutional and other investors in the United States and other countries.
+And WTI prices are referenced in physical oil contracts for most of the crude produced in the United States as well as some imports from the Middle East.
+The popularity of referencing the price in these other investment products and physical sales contracts has contributed to rising turnover and liquidity in WTI futures.
+However, the essence of a crude oil benchmark is that it is representative of the wider market and can be used reliably by a much wider group of producers, consumers, traders and investors, many with no connection to Cushing.
+CME may not have encouraged retail investors to use WTI, but the contract’s benchmark status depends on its popularity with them, as well as with institutional investors and physical oil sellers.
+If WTI prices cease to be representative, investment products and physical sales contracts will need to be rewritten to reference something else.

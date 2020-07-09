@@ -1,0 +1,11 @@
+The number of Bitcoins held on exchanges continues to decline despite growing open interest in the futures markets.
+Cryptocurrency market data aggregator Glassnode has reported that the number of Bitcoins ( BTC ) held on centralized exchanges has fallen to a 12-month low.
+The decline in exchange reserves comes amid numerous recent records for open interest in Bitcoin futures contracts, suggesting that many traders may be over-leveraged.
+On June 24, Glassnode reported a new yearly low in the number of BTC held on exchanges, with more than 2.624 million BTC. As such, the number of Bitcoin custodied on centralized exchanges has fallen by 10% since February of this year.
+The decline in coins held on exchange has come amid surging open interest, or OI, in Bitcoin futures, with Glassnode noting a new three-month high for OI on Bitfinex on the same day.
+The combined Bitcoin OI across leading futures exchanges broke above $1 billion for the first time during May, before quickly ramping up a further 50% to tag $1.5 billion earlier this month.
+The increase was driven in part by surging activity on Chicago Mercantile Exchange’s BTC markets, with volume increasing 1,000% during May.
+Is DeFi siphoning coins from exchanges?
+However, the combination of expanding open interest alongside declining reserves held on exchanges suggests that many traders may be heavily leveraged — with OI continuing to expand despite the apparent drop in available collateral.
+The rising popularity of decentralized finance protocols may also have contributed to the diminishing number of coins held on exchanges. The total value of assets locked in DeFi projects has more than doubled from $700 million to $1.6 billion since mid-January, according to DeFi Pulse.
+Investors using synthetic Bitcoin to access Ethereum-based DeFi applications may also be using futures to hedge against their underlying assets, as might speculators seeking to lock in the fiat-value of their holdings amid the recent choppy consolidation in the BTC markets.

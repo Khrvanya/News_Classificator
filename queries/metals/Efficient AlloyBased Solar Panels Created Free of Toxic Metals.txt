@@ -1,0 +1,12 @@
+The new technology has a variety of applications including in electronic devices, buildings and vehicles.
+RELATED: HOW DO SOLAR PV PANELS WORK EXACTLY?
+To solve this conundrum, a team of scientists from DGIST, led by Dr. Jin-Kyu Kang and Dr. Dae-Hwan Kim, has been working on solar panels made from cheaper and more readily-available elements.
+“Thin-film solar cells using bronze (Cu-Sn) and brass (Cu-Zn) as base materials are composed of non-toxic earth-abundant materials, and have been studied worldwide because of their low cost, high durability, and sustainability," said Kang.
+These new alloys, however, did not come without drawbacks. While theoretically they are said to perform as well as top market products, in reality, they severely underperform.
+According to the researchers, this is because they form various flaws in the materials, such as “point” defect, “surface” defect, and “volume” defect, during “annealing”. These flaws see an important reduction in the amount of electricity generated.
+The scientists looked for a way to bypass these flaws and produce the best quality CZTSSe (copper, zinc, tin, sulfur, and selenium) thin films. They came up with the ingenious solution of toying with the film's annealing profile.
+They found that the longer the annealing time and the higher the annealing temperature, the lesser the electricity loss. Once they came up with this solution, they had to deal with the fact that high annealing temperatures cause the properties of the CZTSSe thin film to decompose over time.
+To bypass this next problem, the team used a special “liquid-assisted method" that prevented the CZTSSe thin film to change its properties.
+“Our technology has diverse applications, including electronic devices, household goods, buildings, and vehicles. The best part is that CZTS solar cells are free of the current drawbacks of toxic and rare metals. We can install everywhere we want!" said Kim.
+Just enter your email and we’ll take care of the rest:
+By subscribing, you agree to our Terms of Use and Privacy Policy . You may unsubscribe at any time.

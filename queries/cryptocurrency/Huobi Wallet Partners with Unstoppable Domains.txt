@@ -1,0 +1,8 @@
+The collaboration enables users to send money to .crypto blockchain domains.
+Huobi Wallet, a self custody wallet app created by blockchain company Huobi Group, today announced support for .crypto blockchain domains. Users can now pay one another simply by typing a domain into the send field, instead of using long addresses.
+Huobi Wallet revealed that users can send Bitcoin, Ethereum, or any other currencies supported by the wallet. Domains can be stored in Huobi Wallet and are visible in the collectibles section.
+The .crypto blockchain domain registry, built by Unstoppable Domains, enables censorship-resistant websites and simplifies cryptocurrency payments.
+Unstoppable Domains is a San Francisco-based company building domains on blockchains. The firm is backed by Draper Associates and Boost VC and has received grants from the Ethereum Foundation and Zilliqa Foundation.
+“The cryptocurrency industry is still in its infancy and user experience is one of its challenges for mass adoption. We are very excited to work with Unstoppable Domain to improve user experience by replacing cryptocurrency addresses with a human readable name,” said Will Huang, CEO of Huobi Wallet.
+“Huobi, with its global presence, has the power to shape the way cryptocurrency is used around the world. Their support for blockchain domains will help establish domains as the new standard for sending cryptocurrency,” Unstoppable Domains co-founder, Brad Kam, added.
+Unstoppable Domains recently launched a Google Chrome extension to deliver censorship-resistant websites and an integration with Opera Browser . To date, thousands of websites have been launched to the decentralized web, and Unstoppable Domains has registered over 200,000 domains.

@@ -1,0 +1,11 @@
+Editorial | what does this mean?
+This content has been selected, created and edited by the Finextra editorial team based upon its relevance and interest to our community.
+Ripple is pumping one billion of its XRP cryptocurrency (about $262 million) into Coil, a platform bidding to help writers and artists monetize their content on the internet.
+Founded by former Ripple CTO Stefan Thomas, Coil uses an open API to stream micropayments in any currency, including XRP, to creators - such as writers, streamers and artists - in real time.
+Launched in May, the publishing platform lets creators post public and exclusive content on their Coil-compatible websites, which is automatically enabled for streaming payments.
+Then, anyone who wants to support the creators can join the community with a $5 monthly subscription. When they consume content, Coil streams a portion of the subscription in XRP micropayments to the authors in real time using the Interledger Protocol.
+Creators - who do not pay a membership fee - have the option to be paid out in US dollars via cheque, ACH or wire transfer, or in XRP.
+Coil will use the one billion XRP "grant" to give the platform a kickstart, building an ecosystem of creators, developers, companies and nonprofits that are using XRP through the Web Monetization open standard.
+Some of the funds will also be used to help build awareness of Coil among creators, consumers and strategic partners. The firm has already invested in image-sharing site Imgur and Cinnamon, a video streaming service.
+Ripple's investment arm, Xpring, has also participated in Coil's $4 million seed round alongside Thomas.
+Ethan Beard, SVP, Xpring, says: "Advertising and site-by-site subscription models are ready for disruption. The low cost and fast transactions of XRP makes it an ideal tool for Coil to offer an alternative monetization method and have a positive impact on creators."

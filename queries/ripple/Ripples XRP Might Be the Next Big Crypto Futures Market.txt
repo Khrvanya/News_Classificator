@@ -1,0 +1,28 @@
+Please consider using a different web browser for better experience.
+Please enable JavaScript in your browser for a better site experience.
+Bitcoin futures may have been launched with tremendous fanfare – but XRP futures, on the other hand, not so much.
+In fact, U.K.-based startup Crypto Facilities has been operating a futures market for the world’s third-largest cryptocurrency, developed by blockchain startup Ripple Inc., for almost 18 months now . And while the company’s CEO, Timo Schlaefer, has been tight-lipped about the product so far, he sees trends in recent data that indicate broader XRP futures adoption may be on the horizon.
+“We have pretty good order books,” Schlaefer told CoinDesk, “And we’re in the process of working with some of the large market makers to draw that further.”
+Indeed, when bitcoin was still months away from getting its first Commodity and Futures Trading Commission (CFTC) regulated bitcoin derivatives, Schlaefer’s company had quietly partnered with Ripple and launched XRP futures – its second cryptocurrency futures product after bitcoin to be regulated under the UK’s Financial Conduct Authority (FCA).
+Later, when Chicago commodities giants Cboe and CME Group opened their first bitcoin futures in December, Crypto Facilities’ own XRP futures were trading $14.2 million in volume a month. And by the time Cboe’s first bitcoin futures contract expired in January, Crypto Facilities’ XRP futures had almost doubled in volume to $24.6 million.
+Yet, few outside the firm’s own pool of investors even knew the futures were being traded, much less with that kind of volume. Now, that appears to be changing with the company on track for another positive month, and others exploring the contracts.
+“The liquidity has been growing quite a lot,” Schlaefer said, adding:
+While Schlaefer wouldn’t reveal the identities of the large market makers the company is currently courting, data he provided exclusively to CoinDesk gives a look into how the offering has been growing – and it largely mirrors the price of XRP itself.
+For instance, the volume of cash-settled XRP futures, which the company officially launched in October 2016, were relatively flat from month to month until March 2017.
+That’s when XRP futures volume more than tripled to $3.08 million and quadrupled to $12.1 million the following month. Over the same time period, the price of XRP experienced similar growth, rising from $0.03 in April to $0.34 in mid-May, before shrinking substantially.
+But then again in January 2018, the volume of futures mirrored XRP’s price increases, jumping to $24.6 million as the price of the cryptocurrency reached a record $3.53.
+And according to Schlaefer, while the number of registered investors in XRP futures, between 2,000 and 3,000 people, seems small, he estimates that those investing in the product comprise about 30 percent of Crypto Facilities’ total number of investors.
+With most of those trading falling into the category of retail investors, XRP also represents a growth opportunity for the company, and Schlaefer believes, the industry at large.
+“We still want to get them a more diverse user base,” he said. ‘But it’s going in the right direction.”
+And there’s reason to believe more products could be on the horizon.
+Already, CME Group, valued at $55 billion, has set a precedent of working with Crypto Facilities in the build-up to its own bitcoin futures launch.
+While a representative of CME Group declined to comment on whether the company is exploring XRP futures specifically, it participated in Ripple’s $55 million Series B investment in 2016. Shortly thereafter, the former head of precious metals and metals options at CME Group also joined Ripple as its head of XRP markets.
+Cboe has also been non-committal in its answers to queries. In response to CoinDesk’s inquiry about XRP futures, a Cboe spokesperson reiterated statements from the company’s chief executive , who last year said the exchange was open to adding additional cryptocurrency options.
+But it may be startups focused on the use case that are the first to finally embrace XRP.
+Paul Chou, the co-founder and CEO of LedgerX, a CFTC-regulated bitcoin derivatives provider, said his company was exploring the possibility of XRP futures. LedgerX launched the first regulated and physically-settled bitcoin derivatives product last year and has since traded $100 million in notional volume.
+Still, Chou hinted at reservations that could slow adoption.
+Indeed, the reason for LedgerX’s concern reflects apprehension more broadly held within the cryptocurrency community about Ripple Inc. and its control over XRP. For one, Ripple’s employees reportedly hold large amounts of the cryptocurrency.
+As such, in response to demand from customers “who are definitely inquiring about XRP,” Chou said, the company established a group to investigate.
+In particular, the group is looking into the potential that those that who hold large amounts of XRP could manipulate the price, especially if the futures contracts are settled in cash.
+“Physical settlement avoids those issues because you are not beholden to some abstract price that might or might not be manipulated. You either want the crypto, or you don’t.”
+The leader in blockchain news, CoinDesk is a media outlet that strives for the highest journalistic standards and abides by a strict set of editorial policies . CoinDesk is an independent operating subsidiary of Digital Currency Group, which invests in cryptocurrencies and blockchain startups.

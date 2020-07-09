@@ -1,0 +1,6 @@
+At least a dozen supercomputers across Europe have shut down after cyber-attacks tried to take control of them.
+A pan-European supercomputing group says they seem to have tried to use the machines to mine cryptocurrency.
+"A security exploitation" disabled access to the Archer supercomputer, at the University of Edinburgh, on 11 May.
+Staff said they were working with the National Cyber Security Centre to restore the system, which had recently installed a pandemic modelling tool.
+"We now believe this to be a major issue across the academic community as several computers have been compromised in the UK and elsewhere in Europe," the team said.
+The NCSC said: "We are aware of this incident and are providing support.

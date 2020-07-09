@@ -1,0 +1,24 @@
+Researchers in Florida say they believe they have shown that the new coronavirus has mutated in a way that makes it more easily infect human cells.
+They say more research is needed to show whether the change has altered the course of the pandemic, but at least one researcher not involved in the study says it likely has, and the changes may explain why the virus has caused so many infections in the United States and Latin America.
+It's a mutation that scientists have been worried about for weeks.
+US missed early chance to slow coronavirus, genetic study indicates
+The researchers at the Scripps Research Institute in Florida said the mutation affects the spike protein -- a structure on the outside of the virus that it uses to get into cells. If the findings are confirmed, it would be the first time someone has demonstrated that changes seen in the virus have significance for the pandemic.
+"Viruses with this mutation were much more infectious than those without the mutation in the cell culture system we used," Scripps Research virologist Hyeryun Choe, who helped lead the study, said in a statement.
+Just this week, the World Health Organization said the mutations seen so far in the new coronavirus would not affect the efficacy of vaccines under development . Last week, WHO said mutations had not made it more easily transmissible, nor had they made the virus more likely to cause serious illness.
+Choe and colleagues ran a series of experiments in lab dishes that show a mutation called D614G gives the virus many more spikes, and makes those spikes more stable. That in turn make it easier for it to get into cells. The researchers will post their findings on a preprint server called BioRxiv. That means the work has not been reviewed by other experts in the field.
+But Choe and colleagues did send their paper to William Haseltine, a virologist, biotechnology entrepreneur and chairman of Access Health International. Haseltine believes the findings explain the easy spread of the coronavirus across the Americas.
+"It is significant because it shows the virus can change, does change to its advantage and possibly to our disadvantage," Haseltine told CNN. "It has done a good job so far of adapting to human culture," he added.
+Scientists have been freely sharing the sequences of the virus which, like all viruses, mutates constantly. "Sometime in the middle of January, there was a change that allowed the virus to become more infectious. It doesn't mean it's more lethal," Haseltine said. "It makes it about 10 times more infectious."
+Other researchers have suspected this. In April, Bette Korber of Los Alamos National Laboratory and colleagues published their concerns, also on BioRxiv, calling the D614G mutation "of urgent concern" because it had become by far the most common strain spreading in Europe and the US.
+"It began spreading in Europe in early February, and when introduced to new regions it rapidly becomes the dominant form," they wrote.
+But more work was needed to show that it just wasn't an accident that caused viruses with the D614G mutation to become the most common forms.
+Haseltine said the Scripps team showed this in three separate experiments.
+Coronavirus may not be mutating, but experts say there is still potential for danger
+"They measured this in three very elegant ways, not just one," he said.
+The mutation allows the virus not only to attach to cells more easily, but to enter them more easily.
+When viruses infect, they hijack their victim's cells and turn them into viral factories, pumping out copy after copy of viruses. They first must find a way into cells to do this.
+Sign up here to get The Results Are In with Dr. Sanjay Gupta every Tuesday from the CNN Health team.
+Korber, who has a different analysis under consideration for publication, said "it was nice to see the result," but did not comment further to CNN.
+Haseltine said the implications are important. Other researchers had hoped that the coronavirus would not prove to be as prone to mutation as other viruses that use RNA instead of DNA as their genetic material. Influenza, notorious for its mutations, is an RNA virus.
+"It means that we have to be on the alert for constant change," Haseltine said.
+"This virus is going to respond to whatever we do to control it. We make a drug, it is going to resist it. We make a vaccine, it is going to try to get around it. We stay at home, it is going to figure out how to hang around longer," he said.

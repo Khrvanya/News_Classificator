@@ -1,0 +1,17 @@
+Bitcoin S&P 500 Correlation Means It Should Cost $18K, Says Analyst
+Heavy correlation to the S&P 500 means that BTC/USD should be more like $18,000 unless the market falls, says the stock-to-flow creator.
+Bitcoin ( BTC ) should cost $18,000 right now — or the S&P 500 must crash, says the analyst behind the model that predicts a BTC price of $288,000.
+In a series of tweets on June 17, PlanB — the creator of stock-to-flow and stock-to-flow cross-asset — highlighted a correlation between the largest cryptocurrency and the stock market.
+According to PlanB, Bitcoin and the S&P 500 are both correlated and co-integrated, with the pair’s “R squared” value at 95%.
+Such a large correlation suggests that Bitcoin, as a dependent variable, is extremely susceptible to movements on the S&P 500.
+Highlighting events in March, when Bitcoin fell in line with stocks and then recovered, PlanB concluded that the S&P 500’s current level implies a BTC price of $18,000. The only alternative is for the stock market itself to fall.
+“This is consistent with S2FX model: $288K BTC at S2F56 -> it implies $4300 S&P,” another part of the tweet continues.
+Bitcoin vs. S&P 500 through halving cycles. Source: PlanB/Twitter
+Stock-to-flow predicts Bitcoin price performance based on the amount of “new” coins entering circulation against the existing supply.
+Given that the Bitcoin supply is immutable no matter how much interest there is in mining, stock-to-flow theorizes that by 2024 — Bitcoin’s next halving — BTC/USD will reach $288,000 or more.
+Is Bitcoin like a super-leveraged stocks position?
+While PlanB noted that the relationship is nothing new for Bitcoin, the reminder is timely, coming in the same week that Bitcoin once again showed a tendency to follow stock movements.
+The situation is complicated by coronavirus-related measures such as quantitative easing, which inflates the money supply, boosting both stocks and Bitcoin, he said.
+At the same time, stock markets are seeing increasing intervention in the form of artificial competition from central banks buying worthless shares.
+Bitcoin, then, remains a long way from “decoupling” from macro forces.
+“Yes it does imply BTC is not an uncorrelated asset. As I said in that Sep 2019 tweet ‘the real test is a stress situation.’ I guess with Corona we have had one such test: BTC seems not uncorrelated,” another comment from PlanB reads.

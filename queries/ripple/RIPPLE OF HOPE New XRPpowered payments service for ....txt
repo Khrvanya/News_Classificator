@@ -1,0 +1,23 @@
+XRP has been one of the worst-performing altcoins but can new XRP-powered payment services, including one for Aussies, offer it a lifeline?
+Australian users of Bitstamp will now have an easier and cheaper option to deposit USD into their crypto trading accounts.
+Ripple Labs have announced that their FlashFX service allows users to convert AUD to USD and send it to the crypto exchange in minutes.
+Currently, users are limited to SWIFT transactions which often take days and incur high international transfer fees.
+FlashFX leverages Ripple’s On-Demand Liquidity service which uses XRP to bridge AUD and USD currencies in seconds.
+The service allows RippleNet partners to send payments in one currency, to be received in another currency in seconds.
+Aussies can use the New Payment Platform (NPP) to get money instantly to FlashFX which then uses ODL to send it to Bitstamp.
+Ripple the company has not had a bad year with more banking and financial partners added to the list.
+RippleNet now has over 300 participants and offers liquidity in over 40 different currencies worldwide.
+Nic Carter, co-founder of Coinmetrics, caused an uproar this week when he said bankers hate being told they are going to use XRP.
+“They will never use it, there are structural reasons they cannot (does the Ripple army know about Basel III?) and even if they could, they wouldn’t”.
+if there's anything bankers hate, it's being told that banks will use XRP. they will never use it, there are structural reasons they cannot (does the Ripple army know about Basel III?) and even if they could, they wouldn't.
+— nic carter (@nic__carter) November 29, 2019
+The Ripple army on Twitter strongly disagreed with his conclusion but doubts persist over the value of XRP which has simply not performed this year.
+One major problem with XRP is that the company retains a tight leash over the supply leading to accusations that it is a centralized asset.
+Just yesterday another billion tokens were moved from the escrow wallet in three separate transactions.
+— Whale Alert (@whale_alert) December 2, 2019
+For whatever reason, the firm transferred the $220 million worth of tokens back into the escrow wallet less than an hour later.
+There are concerns among investors the company’s XRP dumping is putting downward pressure on the token price.
+There was even a petition from the community who want to hard fork the token to prevent the company from meddling with supply.
+At the time of writing, XRP was trading at $0.220, its lowest level since November 2017. Market cap has slid below $10 billion and XRP has dumped 37% since the beginning of the year.
+Micky is a news site and does not provide trading, investing, or other financial advice. By using this website, you affirm that you have read and agree to abide by our Terms and Conditions .
+Micky readers - you can get a 10% discount on trading fees on FTX and Binance when you sign up using the links above.

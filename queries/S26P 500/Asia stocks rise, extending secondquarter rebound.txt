@@ -1,0 +1,43 @@
+2 min read . Updated: 30 Jun 2020, 06:56 AM IST Bloomberg
+Benchmarks rose more than 1% in Japan, Australia and South Korea
+Asian stocks opened higher Tuesday, set to round out their best quarter since 2009 in a rebound from a devastating start to the year, as optimism about a recovery overshadows concerns over an increase in U.S. coronavirus cases.
+Benchmarks rose more than 1% in Japan, Australia and South Korea. Hong Kong assets will be closely watched after the Trump administration suspended some trade benefits for the city. S&P 500 futures edged higher after the benchmark erased its June decline as a report showed U.S. pending home sales posted a record gain, exceeding all forecasts. The tech-heavy Nasdaq extended gains as Facebook Inc. wiped out its losses. The dollar and Treasuries were little changed. Oil fluctuated.
+Investors are weighing an improvement in U.S. economic data that partly resulted from some states beginning to ease restrictions from lockdowns, against a continued increase in cases. Federal Reserve Chairman Jerome Powell stressed the importance of keeping the coronavirus contagion contained as the economy bounces back. The MSCI Asia Pacific Index is set for a 16% gain this quarter, the biggest in 11 years -- though following right after the worst quarter since 2008.
+As deaths from the virus surpassed 500,000 worldwide and confirmed cases exceeded 10 million, the World Health Organization warned the worst is yet to come.
+“It’s not clear what trajectory coronavirus is heading," Tom Lee, co-founder and head of research at Fundstrat Global Advisors, said on Bloomberg TV. “But I also think because we’re into quarter-end, there’s been some re-balancing. So I’m kind of in the camp that any weakness is short-lived. I would think July is going to be a strong month for stocks."
+Meanwhile, U.S. Commerce Secretary Wilbur Ross said in a statement that regulations affording preferential treatment to Hong Kong over China, including the availability of export license exceptions, were suspended. Ross pointed to China’s imposition of new security measures on Hong Kong and risks surrounding U.S. technology, as reasons behind the move.
+Here are some key events coming up:
+Federal Reserve Chairman Jerome Powell and Treasury Secretary Steven Mnuchin testify before the House Financial Services Committee on Tuesday.
+The monthly U.S. jobs report will be released on Thursday.
+These are some of the main moves in markets:
+S&P 500 futures rose 0.1% as of 9:03 a.m. in Tokyo. The S&P 500 Index rose 1.5%.
+Hong Kong’s Hang Seng Index futures rose 0.6% earlier.
+The offshore yuan traded at 7.0754 per dollar.
+The euro was at $1.1246.
+Bloomberg Dollar Spot Index was steady.
+West Texas Intermediate crude fell 0.8% to $39.38 a barrel after a 3% gain.
+Gold was flat at $1,771.75 an ounce.
+This story has been published from a wire agency feed without modifications to the text. Only the headline has been changed.
+* Thank you for subscribing to our newsletter.
+Click here to read the Mint ePaperLivemint.com is now on Telegram. Join Livemint channel in your Telegram and stay updated
+You are now subscribed to our newsletters. In case you can’t find any email from our side, please check the spam folder.
+lozad('.lozad', { load: function(el) { el.src = el.dataset.src; el.onload = function() { el.classList.add('fade')}}}).observe()
+.myAccount .planSec, .myAccount a.LinkCTA{padding:16px; margin:16px; box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.1); background-color: #fff;}
+	       		var userData = data;
+	       		var name = userData.name;
+	       		var email = userData.email;
+	       		var signupSource = userData.source;
+	       		var subscribedAtOnce = userData.subscribedAtOnce;
+	       		var plan  = userData.plan;
+	       		document.getElementById('uName').innerHTML = "<strong>"+name+"</strong>" + email;
+		       		var status = planData.status;
+		       		var purchaseSource = planData.source_device;
+			       		var nextActivationDate = planData.current_term_ends_at;
+			       		var planDescription = planData.plan.description;
+			       		var planName = planData.plan.name;
+			       		var planPrice = planData.amount;
+			       		//var planInterval = planData.shipping_interval;
+			       		var planInterval = planData.duration;
+			       		var planUnit = planData.interval_unit;
+			       		//var html = "<strong>Your Subscription Plan</strong>"+planName+" ₹"+planPrice+" / "+planInterval+" " + nextBillingHtml + cancelHtml; 
+			       		var html = "<strong>Your Subscription Plan</strong> "+planDescription + " "+ planName +": ₹"+planPrice + " "+ nextBillingHtml + cancelHtml;

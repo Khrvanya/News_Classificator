@@ -1,0 +1,12 @@
+Major Australian banks including NAB, the Commonwealth Bank and Westpac have been hit by the recent Travelex site ransom.
+Much like something out of a Sci-Fi novel, foreign exchange services company Travelex is right now under attack from cyberhackers. Hackers took the travel money giant’s website hostage on New Year’s Eve and are reportedly asking for $6 million (AUD 8.7 million) ransom money in exchange for encrypted customer data.
+Travelex announced the cyberattack on 2 January. Reports claim that the cyberhackers used Sodinokibi/REvil ransomware and are threatening to sell 5GBs worth of customer data on the dark web, unless Travelex hands over the ransom money. However, a statement on Travelex’s Australian website reads:
+“On discovering the virus, and as a precautionary measure, Travelex immediately took all its systems offline to prevent the spread of the virus further across the network.
+Whilst the investigation is still ongoing, to date our investigation shows that customer data has not been compromised.”
+UK based, Travelex is reportedly working with the Metropolitan Police to track down the hackers and regain control of the system.
+RELATED ARTICLE: Is it safe to send money overseas? Here’s what you need to know
+Which Aussie banks have been affected by the hack?
+Big four banks NAB, the Commonwealth Bank and Westpac are all currently affected by the Travelex site ransom. Foreign cash online ordering services for all three of these major banks are currently down.
+So if you were hoping to order foreign money from any of these major banks, all you’ll get right now is a broken link.
+But of course, major banks weren’t the only ones affected by the hack. Smaller Aussie banks and banking services affected include BOQ, People’s Choice Credit Union, Beyond Bank, Bankwest and Australia Post.
+Below is a table of Aussie banks and services currently affected by the Travelex cyberattack:

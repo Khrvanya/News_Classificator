@@ -1,0 +1,40 @@
+2 min read . Updated: 17 Feb 2020, 07:30 AM IST Parizad Sirwalla
+A rollover exemption can be sought by you against this LTCG under Section 54F by purchasing or constructing a residential house property in India, subject to the prescribed conditions and timelines
+I sold my house recently and have long-term capital gains (LTCG). If I buy an agricultural land, can I show the expense to claim tax exemption?
+A rollover exemption from tax on LTCG on sale of residential house property is available towards the following investments, subject to the prescribed conditions and timelines:
+•Under Section 54 of the Income-tax Act, by investing LTCG in a new residential house in India;
+•Under Section 54EC of the Act, by investing LTCG in specified notified bonds;
+•Under Section 54GB of the Act, by investing net consideration in equity shares of an eligible startup.
+However, there is no provision in the Act that provides an exemption from LTCG tax towards reinvestment in an agricultural land.
+Accordingly, the same shall not be eligible for exemption and you would be required to discharge appropriate LTCG tax as per the provisions of the Act.
+I was allotted 2,000 shares at ₹100 each in October 1981 at face value by my employer and another 2,000 shares on rights basis at ₹150 per share in October 1983. I sold these shares at ₹2,750 per share in July 2019. How much LTCG tax will I be liable to pay on the sale of these shares? Do help me with the calculations. If I invest this entire amount in a residential property, will I get LTCG tax exemption?
+It is assumed that the equity shares sold by you are listed and no discount or benefit was offered to you by the employer at the time of allotment of these shares and no perquisite tax was charged.
+As the equity shares were held for more than 12 months, they shall be considered long-term capital assets and the gains arising out of the sale would be taxable as LTCG in your hands.
+Beginning 1 April 2018, LTCG on sale of shares listed in India is taxable to the extent that such LTCG exceeds ₹1 lakh in the given tax year. The cost for the purpose of computation of LTCG shall be the highest listed price of the shares as on 31 January 2018 in place of the actual cost of purchase, provided the listed price is less than the sale value.
+However, where the sale value is less than the listed price, the cost for the purpose of computation of LTCG shall be the sale value or actual cost, whichever is higher.
+The resultant LTCG to the extent it exceeds ₹1 lakh is taxable in your hands at a rate of 10% plus applicable surcharge and cess.
+A rollover exemption can be sought by you against this LTCG under Section 54F by purchasing or constructing a residential house property in India, subject to the prescribed conditions and timelines.
+Parizad Sirwalla is partner and head, global mobility services, tax, KPMG in India. Queries and views at mintmoney@livemint.com
+* Thank you for subscribing to our newsletter.
+Click here to read the Mint ePaperLivemint.com is now on Telegram. Join Livemint channel in your Telegram and stay updated
+You are now subscribed to our newsletters. In case you can’t find any email from our side, please check the spam folder.
+lozad('.lozad', { load: function(el) { el.src = el.dataset.src; el.onload = function() { el.classList.add('fade')}}}).observe()
+.myAccount .planSec, .myAccount a.LinkCTA{padding:16px; margin:16px; box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.1); background-color: #fff;}
+	       		var userData = data;
+	       		var name = userData.name;
+	       		var email = userData.email;
+	       		var signupSource = userData.source;
+	       		var subscribedAtOnce = userData.subscribedAtOnce;
+	       		var plan  = userData.plan;
+	       		document.getElementById('uName').innerHTML = "<strong>"+name+"</strong>" + email;
+		       		var status = planData.status;
+		       		var purchaseSource = planData.source_device;
+			       		var nextActivationDate = planData.current_term_ends_at;
+			       		var planDescription = planData.plan.description;
+			       		var planName = planData.plan.name;
+			       		var planPrice = planData.amount;
+			       		//var planInterval = planData.shipping_interval;
+			       		var planInterval = planData.duration;
+			       		var planUnit = planData.interval_unit;
+			       		//var html = "<strong>Your Subscription Plan</strong>"+planName+" ₹"+planPrice+" / "+planInterval+" " + nextBillingHtml + cancelHtml; 
+			       		var html = "<strong>Your Subscription Plan</strong> "+planDescription + " "+ planName +": ₹"+planPrice + " "+ nextBillingHtml + cancelHtml;

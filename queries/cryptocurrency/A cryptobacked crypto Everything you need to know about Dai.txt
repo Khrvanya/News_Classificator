@@ -1,0 +1,20 @@
+Stablecoins, such as Facebook’s Libra, are a new breed of cryptocurrencies that aim to escape the wild price swings by basing their value on more stable underlying assets, typically traditional currencies or commodities. But Dai, in a major divergence from others, uses a volatile digital currency - ethereum - to maintain a steady value.
+Dai, launched in 2017, seeks to dodge such concerns by giving up control of the ethereum coins its value is tied to, locking them instead in the blockchain contracts run by algorithms. That, supporters say, offers the benefits of stablecoins - instant transactions and steady value - while avoiding governance risks. Here is all that we know yet:
+The workings of Dai are complex. It is effectively pegged to the dollar, and backed by ethereum cryptocurrency locked in publicly viewable contracts that are stored on the blockchain.
+Many stablecoins are trusted because their value is underpinned by central bank currencies. Users trust Dai, on the other hand, as the ethereum that is locked in the contracts always exceeds the value of Dai in circulation.
+When Dai’s value strays too far from the dollar, balancing mechanisms kick in to guide it back.
+Dai is not yet entirely decentralised. The Cayman Islands-registered Maker Foundation, run from Copenhagen, oversees the technology. The foundation, also headed by Christensen, develops code and other projects it hopes will allow Dai and MakerDAO to be entirely controlled by its users.
+But risks exist in the governance model. Flaws in smart contracts, for instance, could leave it vulnerable to exploitation and the theft of assets stored on the blockchain, said Timothy Stranex, co-founder of Luno, a crypto exchange in London. MakerDAO says an “emergency shutdown” mechanism guards against attacks. Should users seek to take over the protocol, it says, the shutdown would be triggered to protect collateral and return funds.
+HOW DO REGULATORS SEE IT?
+It’s unclear. Cryptocurrency-backed stablecoins fell outside the scope of a G7 report last month that said their ability to keep a steady value in the medium term was questionable.
+Britain’s Financial Conduct Authority said it did not use the term “stablecoin,” given stability was purely an aspiration, and that a thorough case-by-case analysis was needed.
+Stablecoins like Dai present a new front for regulators as they strive to tame the fast-moving world of cryptocurrencies, experts said.
+HOW’S IT FARED IN THE REAL WORLD?
+Better than many cryptocurrencies used mainly for speculation.
+Oxfam has tested Dai this year for distributing aid in the Pacific island state of Vanuatu, prone to natural disasters. It gave Dai to around 200 people and 30 vendors on one of Vanuatu’s 80-plus islands, building a mini Dai-based economy.
+Another larger version of the trial is planned in Vanuatu next year, Hart said, spread across multiple islands.
+Dai is also attracting attention in inflation-hit Argentina.Data is scarce, but a Telegram messaging group for Dai users in the country has doubled in size to over 450 members in recent weeks, the Maker Foundation’s Conti said.
+Better than many cryptocurrencies used mainly for speculation.
+Oxfam has tested Dai this year for distributing aid in the Pacific island state of Vanuatu, prone to natural disasters. It gave Dai to around 200 people and 30 vendors on one of Vanuatu’s 80-plus islands, building a mini Dai-based economy.
+Another larger version of the trial is planned in Vanuatu next year, Hart said, spread across multiple islands.
+Dai is also attracting attention in inflation-hit Argentina.Data is scarce, but a Telegram messaging group for Dai users in the country has doubled in size to over 450 members in recent weeks, the Maker Foundation’s Conti said.

@@ -1,0 +1,32 @@
+‘In a hard-Brexit scenario, I could see sterling-euro at parity,’ said Goodbody economist Dermot O’Leary.
+Sterling could move to parity with the euro “and possibly beyond” in the event of a “messy” no-deal Brexit , a currency expert has warned.
+Investec’s Gearóid Keegan raised the prospect of the another level shift in the euro-sterling exchange rate if the UK crashes out without a deal.
+However, this was still a worst-case scenario to which Investec ascribed a low probability, he said.
+“We continue to hold out hope that the UK will see sense and agree to an amended version of [Theresa] May’s deal, or take the offer of a short extension mentioned by incoming EU commission president Ursula Van der Leyden yesterday,” he said.
+Investec downgraded its outlook for sterling after UK prime minister Theresa May tendered her resignation and with the prospect of Boris Johnson , a staunch Brexiteer, succeeding her, predicting it was likely to reach 91p against the euro in the short term.
+However that rate was nearly reached this week after both Tory leadership candidates said they were not willing to accept the so-called Irish backstop element of Mrs May’s Brexit deal, raising the risk of a no-deal outcome.
+“If a no-deal becomes more likely, we feel that significant further deterioration of the pound is a possibility,” Mr Keegan said.
+“For euro-sterling, previous post-Brexit highs just above 0.93p and 0.94p would certainly be achievable even in the case of a so called ‘managed’ no deal, while a messy no deal could will see euro-sterling hit parity and possibly beyond,” he said.
+“Although we would note that a no-deal exit would also be bad for the euro zone and the euro, which may limit some of the sharpest moves,” he said.
+Employers’ group Ibec has warned of imminent business closures in the wake of another significant slide in the value of sterling particularly in the low-margin agri-food and manufacturing sectors.
+Sterling is currently trading at just over 90 pence against the euro, having been at 77pence prior to the UK’s referendum on EU membership last year.
+Ibec chief executive Danny McCoy has said previously that if sterling was to stay above 90p, certain UK-reliant businesses with limited credit lines and balance sheet resources would face closure within the quarter.
+“In addition, the UK economy looks less attractive of late on postponed investment, both in business and housing and tentative signs of a more cautious consumer,” he said.
+However, Mr Hughes said two factors are likely to limit the scale of losses for the moment, “perhaps to another penny or so”.
+“First of all markets are still very much of the view that even if it takes to the last minute, a no-deal Brexit can be avoided and second, FX markets look at the relative attractiveness of currency pairs,” he said.
+“To sell sterling you have to find another currency you might want to buy,” he said.
+“With the Federal Reserve set to cut rates later this month, Trump-related risks because of his preference for a more competitive exchange rate and concerns about poor corporate earnings, the dollar has its own problems at present,” Mr Hughes said.
+“Similarly, a faltering euro economy, expectations for an European Central Bank-easing, uncertainty about the direction of EU policy after the elections and ongoing worries about Italy , the euro appears vulnerable,” he said.
+The possibility of a “no-deal” Brexit has sent investors scurrying to brace for greater volatility in the pound, with three and six-month implied volatility gauges jumping in recent days while traders ramped up short futures positions in the pound.
+“In a hard-Brexit scenario, I could see sterling-euro at parity,” said Goodbody economist Dermot O’Leary.
+“The move in the past few weeks has been a reflection of the heightened risks and is justified in my view. I do believe though that ultimately the House of Commons will move to prevent a no-deal outcome, thus we are likely to see the rate to return to circa 85p after this occurs,” he said.
+/* Any CSS that needs to be patched put here with date and jira ref.
+  @media only screen and (max-width: 767px){.span2 .soa.feature_box .feature_text:before {top: 70px;}}
+    var minWidth = 1100;
+    var shouldShow = jq('body.isArticle.anonymous')[0] != undefined;
+  	var tab = '<div class="floating_tab slideFromLeft"><a class="gtm-event" data-evt-category="/digital-subscriptions" data-evt-action="Go to StoreFront" data-evt-label="Subscribe Now: Floating Tab" href="/digital-subscriptions"><b>Subscribe Now</b></a></div>';
+ -webkit-box-shadow: 5px 0px 20px 0px rgba(81, 81, 81, 0.7); -moz-box-shadow:    5px 0px 20px 0px rgba(81, 81, 81, 0.7); box-shadow: 5px 0px 20px 0px rgba(81, 81, 81, 0.7);}
+@media only screen and (max-width: 1101px) { .floating_tab{display:none !important;} }    
+            var lazyAds = adLazyloaded;
+            var active = false;
+                                    return ad !== lazyAd;

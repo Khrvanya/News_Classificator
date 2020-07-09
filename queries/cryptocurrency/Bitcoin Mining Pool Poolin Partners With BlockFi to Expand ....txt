@@ -1,0 +1,14 @@
+Please consider using a different web browser for better experience.
+Please enable JavaScript in your browser for a better site experience.
+Poolin, the second-largest bitcoin mining pool, is expanding its cryptocurrency lending and financial services businesses.
+The pool announced Monday it has started working with U.S.-based crypto lender BlockFi, which will be acting like an interbank lender, providing a source of capital for Poolin.
+The firm initially rolled out crypto lending offerings in February via its Singapore-registered wallet entity, Blockin. With more capital now available, Poolin will be able to extend the business to more miner customers, offering annualized interest at levels that can be below 6%.
+Miners that connect to the pool currently have about 18.3 exahashes per second (EH/s) of combined computing power, accounting for roughly 20% of the Bitcoin network’s total. That makes PoolIn the second-largest bitcoin mining pool, close behind F2Pool with around 19 EH/s of hashing power.
+“[A] mining pool is a traffic business and it is getting more and more competitive,” said Yang Jianguo, head of Poolin’s financial services. “Poolin has its unique advantage but we also want multiple business lines – not just lending but also financial services – that are parallel to our pool business.”
+Toward that end, the firm developed and launched its custodial Blockin wallet late last year. Poolin is the latest major bitcoin mining pool to have expanded into crypto lending products, despite a drop in demand after the major sell-off in March which force-liquidated the bitcoin collateral of many crypto miner operators in China.
+Yang said, though, there is still demand from miners for loans originating from the need to pay for electricity or buying new mining equipment with bitcoin pledged as collateral. There’s also a demand for options and derivative products.
+The firm declined to disclose the current value of outstanding loans or how much it is borrowing from BlockFi.
+The partnership also comes as BlockFi moves to extend credit to miners, as previously reported by CoinDesk.
+Poolin said it’s also considering accepting mining equipment as collateral, but acknowledged the valuation of such assets is not as definable as bitcoin.
+CORRECTION (June 3, 17:40 UTC): A passage in a previous version of this article incorrectly paraphrased an earlier CoinDesk story. BlockFi does not plan to accept mining equipment as collateral; on the contrary, its refusal to do so, when other lenders were willing to, used to be a hurdle to winning miners’ business.
+The leader in blockchain news, CoinDesk is a media outlet that strives for the highest journalistic standards and abides by a strict set of editorial policies . CoinDesk is an independent operating subsidiary of Digital Currency Group, which invests in cryptocurrencies and blockchain startups.

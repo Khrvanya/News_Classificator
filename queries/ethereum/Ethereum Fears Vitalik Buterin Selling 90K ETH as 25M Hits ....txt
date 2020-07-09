@@ -1,0 +1,12 @@
+Commentators worried after three giant token transfers sent over 200,000 ETH to three major exchanges on Christmas Day.
+Records from monitoring resource Etherscan showed a total of 92,000 ETH (currently worth $11.5 million) move from a single wallet to U.S. exchange Kraken on Dec. 25.
+As noted by blockchain analytics service ViewBase , the wallet contained over 300,000 ETH before the transaction and received most of its content from Buterin several years previously.
+“The whale is likely an ETH dev or VB himself,” it summarized in accompanying comments.
+The transaction formed one of three major movements to exchanges which triggered in quick succession. Huobi gained an extra 99,987 ETH, while another 25,908 ETH went to Binance .
+The total value of the three transactions is $25.5 million. Responding to ViewBase, commentators immediately raised concerns that Buterin or an associated investor was planning a major sell-off.
+Buterin has not participated in the discussion, which forms the third round of rumors regarding an ETH liquidation in recent days.
+In an interview earlier in December, Buterin revealed he personally orchestrated the sale of 70,000 ETH in 2018, when the altcoin was trading around its all-time high. The proceeds were worth $100 million.
+As Cointelegraph reported , last week, a 789,000 ETH transfer between two wallets known to be controlled by the Ponzi scheme PlusToken triggered further concerns.
+The mood among pundits has become increasingly hostile towards Ethereum as 2019 draws to a close, developers earning scorn for their management of the network’s major update roadmap.
+The largest altcoin is undergoing two hard forks in a matter of weeks, something well-known Bitcoin ( BTC ) supporter Udi Wertheimer has described as “absurd.”
+ETH/USD has declined around 17% since the start of December. Against its 2019 highs of $335, the pair is down over 60%.

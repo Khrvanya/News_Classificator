@@ -1,0 +1,8 @@
+A report from Crypsis Group revealed that threat actors have significantly escalated their tactical approaches in ransomware attacks.
+A study revealed by digital forensics firm, Crypsis Group, shows an actively growing trend in the ransoms demanded by ransomware attackers. Amounts sharply rose 200% from 2018 to 2019.
+According to the 2020 Incident Response and Data Breach Report , it’s no surprise that cybercriminals have claimed “exorbitant” crypto ransoms in the past three years. The firm pointed out that the median amount of funds demanded as ransom was $115,123.
+Crypsis Group says attackers are shifting their tactics to enterprise-targeted ransomware. They carefully select victims capable of paying higher sums, with tactics that are “maturing” over time.
+Attack tactics by the criminals have also apparently adapted very well to overcome defense strategies adopted by victims.
+Crypsis Group states that 2019 saw the rise of ransomware variants, such as Ryuk, Sodinokibi (or “REvil”) and Phobos, noting that these tactics are “highly effective.”
+The report reveals that Ryuk ransomware was the most popular variant in 2018. Threat actors rely on a banking trojan , known as TrickBot, to release spam/phishing campaigns against victims.
+On May 25, Cointelegraph reported on a report from Verizon which shows that attackers are targeting educational services in greater numbers since the start of 2020.

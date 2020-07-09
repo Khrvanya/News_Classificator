@@ -1,0 +1,12 @@
+“White hat hackers” (friendly researchers) have discovered nine bugs in the code underpinning Monero, a “privacy cryptocurrency” network created in 2014 that is designed to conceal the identities of its users, Hard Fork reports .
+Up until March of this year, one of the bugs could have allowed miners to generate “specifically crafted” blocks of data that would compel Monero wallets to accept deposits of Monero (XMR) that were, in fact, counterfeit.
+That counterfeit Monero could then be moved onto exchanges and sold.
+Another flaw involved the “leaking” of potentially sensitive material passing across the network.
+Five other bugs, one “critical,” would have allowed an attacker to flood the Monero networks in a DoS attack.
+A DoS flaw was also found in the network’s “CryptoNote” application layer which is used to enhance privacy.
+According to Andrey Sabelnikov, the hacker who discovered the bug, “If you have quite a big blockchain (with long history like Monero)…then you can push a protocol request that will call all of its blocks from another node, which could be hundreds of thousands of blocks…Eventually, the OS might kill it due to the huge memory consumptions, which is typical of Linux systems.”
+Sabelnikov also said that other currency networks using CryptoNote ( these include Bytecoin, Boolberry, Dashcoin, DigitalNote, DarkNetCoin, Fantomcoin, Pebblecoin, Quazarcoin and AEON) are also vulnerable if the bug is not patched.
+Eight of the nine bugs identified by Sabelnikov have now reportedly been patched, and the hacker has been rewarded a bug bounty of 45 XMR ($4,100) for his efforts.
+There has been no evidence so far that any of the bugs were successfully exploited.
+The Monero website describes the coin as ‘secure,’ ‘private,’ and ‘untraceable,’ although Sabelnikov’s discoveries suggest that this is a matter of debate.
+Crypto pundits periodically advise that relatively new cryptocurrency payment networks, even 10 years in like Bitcoin, remain experimental, especially given the fact that they are open source, publicly deployed and in some cases, governed by many disparate individuals.

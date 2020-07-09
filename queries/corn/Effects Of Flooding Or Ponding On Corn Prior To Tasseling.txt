@@ -1,0 +1,102 @@
+The consequences of flooding, ponding, and saturated soils on young corn depend heavily on the duration of the stress and temperatures.
+Intense rainfall events (technically referred to as “toad stranglers” or “goose drownders”) flood low-lying corn fields and create ponding (standing water) in poorly drained areas (depressions, compacted soil) within other fields. Other areas within fields, while technically not flooded or ponded, often remain saturated for lengthy periods of time. Recurrent heavy rainfall events simply “add insult to injury” by re-wetting, re-ponding, and re-flooding the same areas of the fields.
+What are the prospects for recently submerged corn fields or plants simply enduring days and days of saturated soils? The flippant answer is that suffering crops will survive until they die.
+What I really mean is that no one can tell you with certainty the day after the storm whether a ponded area of a corn field will survive or whether there will be long-term yield consequences until enough time has gone by such that you can assess the actual recovery of the damaged plants. We can, however, talk about the factors that increase or decrease the risks of severe damage or death to flooded soils.
+Plants that are completely submerged are at higher risk than those that are partially submerged.
+Plants that are only partially submerged may continue to photosynthesize, albeit at limited rates.
+The longer an area remains ponded, the higher the risk of plant death.
+Soil oxygen is depleted within about 48 hours of soil saturation. Without oxygen, the plants cannot perform critical life sustaining functions; e.g. nutrient and water uptake is impaired and root growth is inhibited ( Wiebold, 2013 ).
+Even when surface water subsides quickly, the likelihood of dense surface crusts that form as the soil dries increases the risk of emergence failure for recently planted crops.
+Be prepared with a rotary hoe to break up the crust and aid emergence. For those “youngsters” among you who do not know how to use a rotary hoe, see Hanna et al. (2001) .
+The greater the deposition of mud or old crop residues on plants as the water subsides, the greater the stress on the plants due to reduced photosynthesis.
+Ironically, such situations would benefit from another rainfall event to wash the mud deposits from the leaves.
+Mud and crud that cakes the leaves and stalks encourage subsequent development of fungal and bacterial diseases in damaged plant tissue. In particular, bacterial ear rot can develop when flood waters rise up to or above the developing ears of corn plants (Nielsen, 2003).
+Orange lower leaves due to rapid remobilization of mobile nutrients to upper canopy.
+Corn younger than about V6 (six fully exposed leaf collars) is more susceptible to ponding damage than is corn older than V6.
+This is partly because young plants are more easily submerged than older taller plants and partly because the corn plant’s growing point remains below ground until about V6. The health of the growing point can be assessed initially by splitting stalks and visually examining the lower portion of the stem ( Nielsen, 2019a ). Within 3 to 5 days after water drains from the ponded area, look for the appearance of fresh leaves from the whorls of the plants.
+Leaf rolling and wilting above ground in response to roots dying below ground from excessive soil moisture.
+Extended periods of saturated soils AFTER the surface water subsides will take their toll on the overall vigor of the crop.
+Some root death will occur and new root growth will be stunted until the soil dries to acceptable moisture contents. As a result, plants may be subject to greater injury during a subsequently dry summer due to their restricted root systems.
+Nutrients like nitrogen are rapidly remobilized from lower leaves to upper, newer leaves; resulting in a rapid development of orange or yellow lower leaves.
+Because root function in saturated soils deteriorates, less photosynthate is utilized by the root system and more accumulates in the upper plant parts. The higher concentration of photosynthate in the stems and leaves often results in dramatic purpling of those above-ground plant parts ( Nielsen, 2017 ).
+As more of the root system dies, the ability of the affected plants to take up water decreases and, ironically, the plants begin to show signs of drought stress (leaf rolling, plant wilting, leaf death).
+Damage to the root system today will predispose the crop to the development of root and stalk rots later by virtue of the photosynthetic stress imposed by the limited root system during the important grain filling period following pollination. Monitor affected fields later in August and early September for the possible development of stalk rots and modify harvest-timing strategies accordingly.
+Concomitant (I found a new word in the dictionary!) with the direct stress of saturated soils on a corn crop, flooding and ponding can cause significant losses of soil nitrogen (N) from either denitrification of nitrate-N in heavier soils or leaching of nitrate-N in coarser soils.
+Significant loss of soil N will cause nitrogen deficiencies and possible additional yield loss.
+On the other hand, if the corn dies in the ponded areas it probably does not matter how much nitrogen you’ve lost.
+Lengthy periods of wet soil conditions favor the development of seedling blight diseases in young corn seedlings, especially those caused by Pythium fungi ( Sweets, 2014 ).
+Fungicidal seed treatments effectively protect the seed and seedling for only about 3 weeks after planting. After that, especially if seedling development has been delayed by cold or excessive soil moisture, the risk of infection increases quickly. Fields that looked acceptable one week can be devastated by seedling blight by the next week if conditions are favorable for the disease and seedling development has not yet reached about V3 to V4.
+Poorly drained areas of fields are most at risk for the development of these diseases and so will also be risky for potential replant operations.
+The risk of diseases like common smut and crazy top also increases when soils are saturated or plants are submerged and temperatures are cool ( Pataky and Snetselaar, 2006 ; Jackson-Ziems, 2014 ).
+The fungus that causes crazy top depends on saturated soil conditions to infect corn seedlings.
+The common smut fungal organism is ubiquitous in soils and can infect young corn plants through tissue damaged by floodwaters. There is limited hybrid resistance to either of these two diseases and predicting damage is difficult until later in the growing season.
+Wind damage to corn during severe storms results in either stalk breakage (aka “green snap”) or root lodging (plants uprooted and laying nearly flat to the ground). The risk of permanent damage is greater during late vegetative development and less with younger plants.
+The yield effect of “green snap” damage depends on the percentage of field affected and whether the stalk breakage occurs above or below the ear, but is usually serious regardless. Obviously, stalk breakage below the ear results in zero yield for that plant. Stalk breakage above the ear results in significant yield loss due to the loss of upper canopy photosynthesis capacity for that plant.
+Root lodged corn will recover or straighten up to varying degrees depending on the growth stage of the crop. Generally, younger corn has a greater ability to straighten up with minimal “goose-necking” than older corn. Yield effects of root lodging depend on whether soil moisture remains adequate for root regeneration, the severity of root damage due to the uprooting nature of root lodging, and the degree of “goose-necking” that develops and its effect on the harvestability of the crop.
+Copyright © 2018. All market data is provided by Barchart Solutions. Futures: at least a 10 minute delay. Information is provided ‘as is’ and solely for informational purposes, not for trading purposes or advice. To see all exchange delays and terms of use, please see disclaimer .
+var mejsL10n = {"language":"en","strings":{"mejs.download-file":"Download File","mejs.install-flash":"You are using a browser that does not have Flash player enabled or installed. Please turn on your Flash player plugin or download the latest version from https:\/\/get.adobe.com\/flashplayer\/","mejs.fullscreen":"Fullscreen","mejs.play":"Play","mejs.pause":"Pause","mejs.time-slider":"Time Slider","mejs.time-help-text":"Use Left\/Right Arrow keys to advance one second, Up\/Down arrows to advance ten seconds.","mejs.live-broadcast":"Live Broadcast","mejs.volume-help-text":"Use Up\/Down Arrow keys to increase or decrease volume.","mejs.unmute":"Unmute","mejs.mute":"Mute","mejs.volume-slider":"Volume Slider","mejs.video-player":"Video Player","mejs.audio-player":"Audio Player","mejs.captions-subtitles":"Captions\/Subtitles","mejs.captions-chapters":"Chapters","mejs.none":"None","mejs.afrikaans":"Afrikaans","mejs.albanian":"Albanian","mejs.arabic":"Arabic","mejs.belarusian":"Belarusian","mejs.bulgarian":"Bulgarian","mejs.catalan":"Catalan","mejs.chinese":"Chinese","mejs.chinese-simplified":"Chinese (Simplified)","mejs.chinese-traditional":"Chinese (Traditional)","mejs.croatian":"Croatian","mejs.czech":"Czech","mejs.danish":"Danish","mejs.dutch":"Dutch","mejs.english":"English","mejs.estonian":"Estonian","mejs.filipino":"Filipino","mejs.finnish":"Finnish","mejs.french":"French","mejs.galician":"Galician","mejs.german":"German","mejs.greek":"Greek","mejs.haitian-creole":"Haitian Creole","mejs.hebrew":"Hebrew","mejs.hindi":"Hindi","mejs.hungarian":"Hungarian","mejs.icelandic":"Icelandic","mejs.indonesian":"Indonesian","mejs.irish":"Irish","mejs.italian":"Italian","mejs.japanese":"Japanese","mejs.korean":"Korean","mejs.latvian":"Latvian","mejs.lithuanian":"Lithuanian","mejs.macedonian":"Macedonian","mejs.malay":"Malay","mejs.maltese":"Maltese","mejs.norwegian":"Norwegian","mejs.persian":"Persian","mejs.polish":"Polish","mejs.portuguese":"Portuguese","mejs.romanian":"Romanian","mejs.russian":"Russian","mejs.serbian":"Serbian","mejs.slovak":"Slovak","mejs.slovenian":"Slovenian","mejs.spanish":"Spanish","mejs.swahili":"Swahili","mejs.swedish":"Swedish","mejs.tagalog":"Tagalog","mejs.thai":"Thai","mejs.turkish":"Turkish","mejs.ukrainian":"Ukrainian","mejs.vietnamese":"Vietnamese","mejs.welsh":"Welsh","mejs.yiddish":"Yiddish"}};
+if ( !!window.SLB && SLB.has_child('View.assets') ) { {$.extend(SLB.View.assets, {"1443389201":{"id":null,"type":"image","internal":false,"source":"https:\/\/www.agry.purdue.edu\/ext\/corn\/news\/timeless\/images\/20150622-082e.png"}});} }
+/* <![CDATA[ */if ( !!window.jQuery ) {(function($){$(document).ready(function(){if ( !!window.SLB ) { {$.extend(SLB, {"context":["public","user_guest"]});} }})})(jQuery);}/* ]]> */
+		for ( var i = 0; i < fields.length; i++ ) {
+					var arr_length = arr_splits.length;
+						for (var i = 0; i < arr_length; i++) {
+							var formated_str = arr_splits[i].replace(/\surl\(\'(?!data\:)/gi, function regex_function(str) {
+								return ' url(\'' + dir_path + '/' + str.replace(/url\(\'/gi, '').replace(/^\s+|\s+$/gm,'');
+    #buddypress div.item-list-tabs ul li > a span,
+    #buddypress div.item-list-tabs ul li > a:hover span,
+    #buddypress div.item-list-tabs ul li.selected a span,
+    #buddypress div.item-list-tabs ul li.current a span,
+    .td-grid-style-3 .td-big-grid-post .td-module-thumb a:last-child:before,
+    .td-grid-style-4 .td-big-grid-post .td-module-thumb a:last-child:before,
+    .td_category_template_2 .td-category-siblings .td-category a:hover,
+    .single-product .product .summary .cart .button:hover,
+    .woocommerce .woocommerce .product a.button:hover,
+    .woocommerce .product #respond input#submit:hover,
+    .td-header-sp-top-menu .top-header-menu > .current-menu-item > a,
+    .td-header-sp-top-menu .top-header-menu > .current-menu-ancestor > a,
+    .td-header-sp-top-menu .top-header-menu > .current-category-ancestor > a,
+    .td-header-sp-top-menu .top-header-menu > li > a:hover,
+    .td-header-sp-top-menu .top-header-menu > .sfHover > a,
+    .top-header-menu ul .current-menu-item > a,
+    .top-header-menu ul .current-menu-ancestor > a,
+    .top-header-menu ul .current-category-ancestor > a,
+    .top-header-menu ul li > a:hover,
+    .top-header-menu ul .sfHover > a,
+    .sf-menu ul .td-menu-item > a:hover,
+    .sf-menu ul .sfHover > a,
+    .sf-menu ul .current-menu-ancestor > a,
+    .sf-menu ul .current-category-ancestor > a,
+    .sf-menu ul .current-menu-item > a,
+    .header-search-wrap .td-drop-down-search .result-msg a:hover,
+    .td_top_authors .td-active .td-authors-name a,
+    .white-menu #td-header-menu .sf-menu > li > a:hover,
+    .white-menu #td-header-menu .sf-menu > .current-menu-ancestor > a,
+    .white-menu #td-header-menu .sf-menu > .current-menu-item > a,
+    #bbpress-forums .bbp-forums-list li a:hover,
+    #bbpress-forums .bbp-body .super-sticky li.bbp-topic-title .bbp-topic-permalink,
+    #bbpress-forums .bbp-body .sticky li.bbp-topic-title .bbp-topic-permalink,
+    .archive .widget_archive .current a,
+    .td-subcategory-header .td-category-siblings .td-subcat-dropdown a.td-current-sub-category,
+    .td-subcategory-header .td-category-siblings .td-subcat-dropdown a:hover,
+    .td_normal_slide .td-wrapper-pulldown-filter .td-pulldown-filter-list a:hover,
+    #buddypress ul.item-list li div.item-title a:hover,
+    .td_smart_list_8 .td-smart-list-dropdown-wrap .td-smart-list-button:hover i,
+    .td-mega-menu .wpb_content_element li a:hover,
+    .td_category_template_2 .td-category-siblings .td-category a:hover,
+    .page-template-page-title-sidebar-php .td-page-content > .wpb_row:first-child,
+    .page-template-page-pagebuilder-title-php .td-page-content > .wpb_row:first-child,
+    .td-header-sp-top-menu .top-header-menu > li > a,
+    .top-header-menu > .current-menu-item > a,
+    .top-header-menu > .current-menu-ancestor > a,
+    .top-header-menu > .current-category-ancestor > a,
+    .top-header-menu > li > a:hover,
+    .top-header-menu ul .current-menu-item > a,
+    .top-header-menu ul .current-menu-ancestor > a,
+    .top-header-menu ul .current-category-ancestor > a,
+    .top-header-menu ul li > a:hover,
+												$liveIframe.contents().find( 'body').append( '<textarea class="tdw-css-writer-editor" style="display: none"></textarea>' );
+													var regex = /el_class=\"([A-Za-z0-9_-]*\s*)+\"/g,
+													for (var i = 0; i < results.length; i++) {
+														for (var j = 0; j < currentClasses.length; j++) {
+									// We did it to reattach the existing compiled css to the new content received from server.
+												return "You have attempted to leave this page. Are you sure?";

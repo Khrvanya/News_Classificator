@@ -1,0 +1,20 @@
+On May 19, the Small Exchange announced the launch of a new CFTC approved futures exchange, marking a new beginning for the industry as market participants now have access to standardized, easy to consume financial instruments.
+In light of the launch, Edge Clear, a low-cost futures brokerage tailored for the active trader, hosted a live event showcasing the efficiency and flexibility provided by Small Exchange products.
+Futures are an agreement to buy or sell a particular asset at a specified time in the future. Typically, the contracts are levered, offering efficient and direct exposure for hedging or speculation purposes.
+“Futures contracts offer some very enticing benefits over stocks and ETFs,” said Michael Gough, Business Development Analyst at the Small Exchange. “However, traditional futures, which were largely intended for institutional investors, are also much larger in size than stocks and ETFs. A lot of times they force you outside of your comfort zone, taking on too much exposure.”
+Adding to the drawbacks of futures is also contract complexity, in which the tick sizes, expiration dates, and notional values differ between products.
+“We’ve created products that are standard in their construction, so you spend less time studying contract specifications and more time engaging in the market.”
+With the Exchange’s recent launch, the following products were released:
+Small US Dollar (SFX): An FX product priced directly to the USD.
+Small Stocks 75 (SM75): A diversified index that provides exposure to 5 stock sectors.
+Small Precious Metals (SPRE): A blended vehicle of popular metals.
+Due to the large size of futures contracts and unique margin available, small traders often overleverage themselves.
+“Small exchange products are actually scaled-down. They’re palatable in size, so you benefit from the efficient margining at much lower cost,” Gough told listeners.
+In comparison to the E-mini S&P 500 (/ES) contract, the Small Stocks (SM75) exhibits a .9 historical correlation, while a penny move is the equivalent of $1.
+“We look at our Precious Metals index, which is moving about $85 per day, versus gold, silver, and platinum futures that currently swing upwards of $2,400 on an intraday basis,” Gough added. “Our sleek interest rate product is actually quoted in yield and moves at just a fraction of interest rate bonds and notes.”
+Additionally, to provide investors ample time to respond to active markets, the Small Exchange has 7, 13, and 20% volatility limits.
+Trading is also more transparent and inexpensive with Small Exchange products.
+“We’ve removed the barrier to entry by having all Small contracts expire on the third Friday of the month,” Gough said. “We’ve launched something called a subscription offer, which is a one-time payment to the Small Exchange and it’s going to entitle you to reduce fees for your whole lifetime as a trader.”
+Additionally, traders can backtest strategies with 3 years of historical data and view product components on the Small Exchange website.
+Once the products develop a deep liquidity profile, the exchange will expand trading hours and add options, giving investors the ability to better manage risk and allocate exposure through complex strategies.
+“A big focus of ours, as we launch new products, is to put options on futures,” said Pete Mulmat, Chief Commercial Officer at the Small Exchange. “Having monthly expirations allows us to overlay very easily concurrent monthly expirations that will exercise and collapse into that cash settlement.”

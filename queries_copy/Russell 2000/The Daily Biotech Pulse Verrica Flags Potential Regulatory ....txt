@@ -1,0 +1,49 @@
+The Daily Biotech Pulse: Verrica Flags Potential Regulatory Delay, Back-To-Back FDA Approvals For Merck's Keytruda, OncoCyte Stalls Lung Nodule Malignancy Test
+The following is a roundup of top developments in the biotech space over the last 24 hours:
+Altimmune Inc (NASDAQ: ALT ) (received $4.7 million in DoD funding for its Phase 1/2 clinical trial of T-COVID, an investigational intranasal immune modulator for the treatment of outpatients with early COVID-19)
+Five Prime Therapeutics Inc (NASDAQ: FPRX )
+Halozyme Therapeutics, Inc. (NASDAQ: HALO ) (announced FDA nod for Roche Holdings AG's Basel ADR Common Stock (OTC: RHHBY ) Phesgo injection that uses Halozyme's Enhanze technology for treating early and metastatic HER2-positive breast cancer)
+KITOV PHARMA LT/S ADR (NASDAQ: KTOV )
+Pacira Biosciences Inc (NASDAQ: PCRX ) (moved in sympathy with Heron Therapeutics Inc (NASDAQ: HRTX ) after the latter's non-opioid pain medication failed to receive FDA approval)
+AnPac Bio-Medical Science Co Ltd – ADR (NASDAQ: ANPC )
+Genetron Holdings Ltd – ADR (NASDAQ: GTH )
+Verrica Pharmaceuticals Inc (NASDAQ: VRCA ) said it has received a letter from the FDA regarding the NDA for VP-102, its lead drug candidate for the treatment of molluscum contagiosum, stating there are deficiencies in the application that ruled out discussion of labeling and post-marketing requirements/commitments at this time.
+The notification does not reflect a final decision on the information under review, the letter said.
+The PDUFA date is scheduled for July 13.
+Although the recent letter did not identify any specific items, the FDA information request during the review period focused on chemistry, manufacturing and control aspects of the drug-device combo, Verrica said.
+The company also said its ability to address these CMC-related requests was significantly impacted due to the COVID-19 pandemic.
+Verrica said it intends to work with the FDA to resolve and address any items as quickly as possible.
+The stock declined 21.89% to $10.99 in after-hours trading.
+Merck & Co., Inc. (NYSE: MRK ) said the FDA approved approved its anti-PD-1 therapy Keytruda as a monotherapy for the first-line treatment of patients with unresectable or metastatic microsatellite instability-high or mismatch repair deficient colorectal cancer.
+The approval is based on results from the Phase 3 KEYNOTE-177 trial, in which Keytruda significantly reduced the risk of disease progression or death by 40% compared with chemotherapy, the current standard of care, according to Merck.
+The approval comes about a week after Keytruda received the nod for recurrent or metastatic cutaneous squamous cell carcinoma that is not curable by surgery or radiation.
+The stock was down 0.37% at $75.84 premarket Tuesday.
+Results from the trial showed a 24% confirmed objective response rate by independent central review, with a median duration of response of 8.3 months.
+Tisotumab vedotin is an investigational antibody-drug conjugate directed to tissue factor, which is expressed on cervical cancer and can promote tumor growth, angiogenesis and metastases.
+Tisotumab vedotin is being developed by Seattle Genetics in collaboration with GENMAB A/S/S ADR (NASDAQ: GMAB ).
+Seattle Genetics shares were up 3.43% to $170 premarket and Genmab was 0.98% higher at $32.95.
+BioMarin Pharmaceutical Inc. (NASDAQ: BMRN ) announced the promotions of Brian Mueller to EVP, chief financial officer and of Andrea Acosta to group VP, chief accounting officer. Mueller, who's been at BioMarin for 17 years, had been serving as acting CFO since February, the company said.
+Hepion Pharmaceuticals Inc (NASDAQ: HEPA ) announced advancement of the Phase 1b multiple ascending dose study that is evaluating its NASH drug candidate CRV431 to the final dose level of 375mg. This follows a Clinical Trial Management team's review of the 300mg cohort data and determining the dosing level to be safe and well-tolerated.
+"We are exceedingly pleased that CRV431 continues to be very well tolerated throughout the entire Phase 1 program, which well positions Hepion for our upcoming Phase 2a clinical trial in NASH patients," said Dr. Stephen Harrison, Hepion's consultant medical director.
+The stock was rallying 13.28% to $3.07 premarket Tuesday.
+Molecular diagnostics company OncoCyte Corp (NYSE: OCX ) said following the completion of the Clinical Validation study of DetermaDx, its liquid biopsy test intended to clarify whether a lung nodule is suspicious or likely benign, demonstrated that the performance of DetermaDx did not meet the predetermined endpoints for the study.
+The stock was down 47.99% to $1.68 premarket Tuesday.
+Imara Inc (NASDAQ: IMRA ) said it was added as a member of the U.S. small-cap Russell 2000 Index, effective after the U.S. market opens July 1, as part of the 2020 Russell U.S. Indexes reconstitution.
+The stock gained 4.99% to $29.90 in after-hours trading.
+Liquidia To Buy RareGen In All-Stock Deal, Announces 9.375M Common Stock Offering
+Liquidia Technologies Inc (NASDAQ: LQDA ) announced a definitive agreement to acquire RareGen, a portfolio company of PBM Capital, through an all-stock merger. Liquidia and RareGen will consolidate under a new holding company, to be named Liquidia Corporation, which is expected to trade on the Nasdaq the ticker symbol "LQDA."
+The proposed acquisition bolsters its capabilities in the pulmonary arterial hypertension and commercial readiness for LIQ861, if approved.
+RareGen has the right to promote Novartis AG (NYSE: NVS ) unit Sandoz's first-to-file generic of Remodulin for the treatment of patients with PAH.
+Separately, Liquidia said it has pricing an underwritten public offering of 9.375 million shares of its common stock at $8 per share for total gross proceeds of $75 million. The offering is expected to close July 2.
+The stock was slumping 22.31% to $8.29 premarket.
+Announcing top line results from the 14-week pivotal CONNECT-FX study that is evaluating its Zygel in Fragile X syndrome patients, Zynerba Pharmaceuticals Inc (NASDAQ: ZYNE ) said Zygel did not achieve statistical significance versus placebo in the primary endpoint as well as the three key secondary endpoints.
+However, the company said the study achieved statistical significance on the primary endpoint in a pre-planned ad hoc analysis of patients with full methylation of the FMR1 gene comprising 80% of the study population.
+In premarket trading Tuesday, the stock was sliding 42.66% to $3.75.
+Alterity Therapeutics Ltd (NASDAQ: ATHE ) said that following a pre-IND meeting regarding its lead drug candidate ATH434 for the treatment of multiple system atrophy, a Parkinsonian disorder, it has reached an agreement with the FDA on the non-clinical investigations required to support the Phase 2 study. The FDA also agreed to key aspects of the Phase 2 study design including the proposed patient population, safety monitoring plan and strategy for evaluating drug exposure during the study, the company said.
+In premarket trading Tuesday, the stock was climbing 214.53% to $1.84.
+Crispr Therapeutics AG (NASDAQ: CRSP ) said it is commencing an underwritten public offering of $325 million in common shares.
+The stock slid 5.4% to $71 in after-hours trading.
+Acceleron Pharma Inc (NASDAQ: XLRN ) said it intends to offer $400 million in common stock in an underwritten public offering. All of the shares in the are to be sold by the company.
+The stock was down 2.88% to $93.38 in after-hours trading.
+Akero Therapeutics Inc (NASDAQ: AKRO ) is due to discuss new efficacy and safety data, including biopsy results, from its Phase 2a BALANCED study of AKR-001 in patients with biopsy-confirmed NASH in a post-market press release and webcast.
+© 2020 Benzinga.com. Benzinga does not provide investment advice. All rights reserved.

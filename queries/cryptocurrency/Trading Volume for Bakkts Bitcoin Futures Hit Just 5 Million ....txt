@@ -1,0 +1,15 @@
+Please consider using a different web browser for better experience.
+Please enable JavaScript in your browser for a better site experience.
+The Intercontinental Exchange’s highly anticipated bitcoin futures contract mustered just $5 million of total trading – and its daily product traded fewer than five contracts across its first week.
+According to the exchange’s Bakkt division, set up last year by the Atlanta-based company as a new marketplace for digital assets, some 623 monthly bitcoin futures contracts changed hands last week. Both the monthly and daily contracts debuted on Sept. 23.
+Each of Bakkt’s futures contracts represents one bitcoin, so the total trading volume works out to just over $5 million, based on the current price of $8,322.
+By comparison, some 4,099 bitcoin futures contracts traded on Friday alone at rival Chicago-based exchange operator CME, whose market opened in 2017. And the CME’s futures contracts represent five bitcoins, for a trading volume of $165 million on the single day.
+Bakkt’s daily futures contracts fared even more poorly, with fewer than five contracts trading throughout the first week.
+Executives at Bakkt had touted the new contract as a milestone for the cryptocurrency industry, catering to big institutional investors that have thus far been slow to buy bitcoin and other digital assets.
+According to the exchange, the new offering should appeal to institutional investors like hedge funds and other money managers because bitcoin must be delivered to fulfill the contract’s terms when the maturity date arrives. That feature has been touted as a key advantage for asset owners who want to hedge their portfolios, in contrast with the CME’s contract, which is settled via cash payments but has become popular with individual investors.
+Dave Weisberger, CEO of CoinRoutes, a New York-based company that helps investors route cryptocurrency trades to various exchanges, says that bitcoin investors currently in the market already have plenty of places to buy and sell, but it’s too early to write off Bakkt’s new push, he said in a phone interview.
+“It takes time for people to move from one place to another, unless there’s a cost reason or a liquidity reason,” Weisberger, a veteran of Wall Street firms Citigroup and Morgan Stanley, said in a telephone interview, adding:
+Damon Leavell, a spokesman for Intercontinental Exchange, said in an email that there was “strong industry participation” during the first week of the new bitcoin contract.
+The contract maturing in October, he said, had the “tightest bid-offer spreads in the market, which was an exciting achievement.”
+Wall Street analysts look at the so-called bid-ask spread – the gap between what buyers are offering to pay and what sellers are offering to accept – as a gauge of how efficiently a market is operating.
+The leader in blockchain news, CoinDesk is a media outlet that strives for the highest journalistic standards and abides by a strict set of editorial policies . CoinDesk is an independent operating subsidiary of Digital Currency Group, which invests in cryptocurrencies and blockchain startups.

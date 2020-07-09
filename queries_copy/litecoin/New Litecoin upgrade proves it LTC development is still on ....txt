@@ -1,0 +1,23 @@
+Home » Cryptocurrency » New Litecoin upgrade proves it: LTC development is still on-going
+New Litecoin upgrade proves it: LTC development is still on-going
+Litecoin's alleged lack of performance caused a lot of people in its community to worry about the future.
+Such rumors originally emerged nearly a year ago, when a conversation between developers leaked.
+The rumors were proven false yesterday, as LTC's Charlie Lee announced the launch of a new upgrade.
+Litecoin (LTC) is one of the oldest high-ranking projects in the crypto industry, and also the oldest Bitcoin fork in the top 10 cryptos.
+However, the project has always had skeptics who claimed that the coin has no real purpose, or that it lacks development. Recently, such fears started to spread, after the leaked conversation of two LTC developers.
+About 10 months ago, a Reddit post under the name of ‘ LTC Foundation chat leaked: no evidence of development, lack of transparency ‘ appeared on the subreddit r/CryptoCurrency. The post contains a full conversation between developers, in which they stress their disappointment due to the lack of development.
+The leak caused a lot of concern among the community members, and the concern only grew greater as Litecoin’s price recovery from the mid-March crash ended up being less than satisfactory.
+The price has already spent a few months trapped between a support at $38 and a resistance at $50, causing further suspicion.
+Now, however, Litecoin’s Charlie Lee announced a new upgrade, which finally put a stop to the negative speculations.
+Charlie Lee published a post on Twitter on June 11th, stating that Litecoin Core 0.18.1 final release is out. He also said “Who says Litecoin has no development,” directly referring to the rumors caused by the Reddit leak.
+Litecoin Core 0.18.1 final release is out! Who says Litecoin has no development? ?
+Many thanks to all the developers that worked on this release! ?
+We are already hard at work on the next release, Litecoin Core 0.20, which will bring us in line with the latest Bitcoin Core. https://t.co/JaMq9RcwtR
+— Charlie Lee [LTC⚡] (@SatoshiLite) June 11, 2020
+In the same tweet, Lee also mentioned that the development team started working on the next upgrade, Litecoin Core 0.20, stating that it will bring the project in line with the latest Bitcoin Core.
+He added that Litecoin Core 0.20 will likely arrive before MimbleWimble.
+Litecoin Core 0.20 release will likely be done before @DavidBurkett38 's work on MimbleWimble is ready. So I expect to see 0.20 first and then a release after that which will include MW as Extension Blocks with a softfork.
+— Charlie Lee [LTC⚡] (@SatoshiLite) June 11, 2020
+Further, he noted that the team is exploring the idea of adding Jeremy Rubin’s CheckTemplateVerify feature as a soft fork. If everything goes as planned, Lee expects that the new feature will allow the developers to test out new smart contract capabilities.
+But for 0.20, we are exploring adding @JeremyRubin 's CTV (CheckTemplateVerify) feature as a soft fork. Check out https://t.co/r7NMxMomCQ
+I think this is an awesome feature and I hope deploying this first on Litecoin will allow us to test out new smart contract capabilities. ?

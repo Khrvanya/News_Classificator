@@ -1,0 +1,12 @@
+These new 5G enabled smartphones build on the Galaxy S10 ranges' bitcoin, cryptocurrency and blockchain support, which last year was revealed to boast a built-in bitcoin and cryptocurrency wallet .
+"We created a secure processor dedicated to protecting your PIN, password, pattern, and Blockchain Private Key," Samsung wrote on its website, announcing the new S20 Galaxy phones. "Combined with the Knox platform, security is infused into every part of your phone, from hardware to software. So private data stays private."
+Samsung's so-called Blockchain Keystore was introduced last year, initially with support for ethereum and other ERC-20 tokens, but adding bitcoin in August .
+Those using Samsung devices with the Blockchain Keystore are able to store the private keys to their bitcoin and crypto wallets on the device.
+Control over a wallet's private keys is often cited as one of the most overlooked and important aspects of bitcoin and cryptocurrencies, with many of the biggest crypto exchange hacks and thefts happening because people fail to store their tokens in wallets they have the private keys for .
+If bitcoin or cryptocurrencies are stored on a smartphone-based wallet that gives users control over their private keys it removes reliance on external exchanges.
+Bitcoin and cryptocurrency adoption has fallen short of expectations in recent years, with some predicting that bitcoin and other cryptocurrencies would be widely used by 2020 following bitcoin's epic 2017 bull run.
+The bitcoin price was sent sharply higher by technology giant interest in bitcoin, cryptocurrency ... [+] and blockchain last year.
+Meanwhile, iPhone-maker Apple raised eyebrows last year when one of its executives said it's "watching" cryptocurrencies —however, Apple chief executive Tim Cook subsequently dismissed expectations it could follow in Facebook's footsteps and create its own cryptocurrency .
+Elsewhere, another closely watched bitcoin adoption development is fast approaching.
+Bakkt, a New York Stock Exchange-owner backed bitcoin and cryptocurrency venture, announced in October last year it plans to launch a consumer app for cryptocurrency purchases in 2020 .
+U.S. coffee chain Starbucks will be its first launch partner, with the company one of the original backers of the crypto project, along with software giant Microsoft and Boston Consulting Group.

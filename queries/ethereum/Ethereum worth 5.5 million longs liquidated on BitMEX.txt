@@ -1,0 +1,9 @@
+As the price of the king coin surrendered under the selling pressure, other altcoins followed its lead. Ethereum , the world’s second-largest cryptocurrency and a highly correlated asset to Bitcoin , fell by 10.54% within three hours as its vale shrunk from $240.47 to $215.13. As the price of the coin was collapsing, BitMEX noted liquidations worth millions of dollars over this period.
+According to data provided by analytics firm, Skew, massive liquidations took between 26 February and early-27 February.
+The first set of liquidations took place at around 16:00 UTC, a time when Ethereum worth $3 million longs were liquidated on BitMEX. Seven hours later, longs worth almost $2.5 million saw liquidation. The total sell liquidation was noted to be $11 million, whereas the total buy liquidation was a mere $594k.
+Lately, the Ethereum Futures market has been noting the highest longs liquidation over the past three months, wherein the peak was marked on 19 February, noting liquidation of longs worth almost $9 million. On the other hand, Bitcoin liquidations were recorded to be over $150 million, highest in 2020.
+However, Ethereum’s performance in the market has been better than that of Bitcoin, reporting 62.19% gains. On the opposite end of the spectrum, Bitcoin’s gain, accounting for recent falls, was reported to be 19.21%. However, the strong correlation between Bitcoin and Ethereum may result in unfavored losses in the alts as the correlation was taking an upwards turn, at press time.
+The realized correlation between the two had dropped massively between 12 February and 15 February, falling to 70%. However, since then, the realized correlation between the two has been growing. At press time, the correlation was on a rise and it was marked at 77% over a one-month correlation frame.
+At the time of writing, Ethereum was trading at $231.12, with a 24-hour trading volume of $17.1B.
+Did you like this article?
+Your feedback is important to us!

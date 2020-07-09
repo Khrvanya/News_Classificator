@@ -1,0 +1,19 @@
+In the last week, Bitcoin‘s price rejected near $10,000 three times, raising the probability of a long squeeze.
+The price of Bitcoin ( BTC ) rose slightly above $9,900 on BitMEX, rising by nearly 9% within less than 48 hours since May 16. Despite the impressive recovery, the top-ranked digital asset on CoinMarketCap faces the risk of a major long squeeze in the near term.
+Three factors that suggest the price of Bitcoin may correct following its recent rally from $9,100 to $9,900 are: the overwhelmingly large number of longs over shorts, rising funding and a possible triple lower high formation.
+Across Bitfinex, BitMEX and Binance Futures, 77.51% of traders are holding long positions on average.
+In total, on the three futures exchanges alone, there is $763 million worth of longs filed, whereas merely $221 million in shorts is present.
+Total Bitcoin longs and shorts. Source: Blockchain Whispers
+If the price of Bitcoin is going up without facing significant resistance, a high number of long contracts can be considered an optimistic factor. It suggests the majority of the market is expecting the price of Bitcoin to increase in the short term.
+For instance, when the price of BTC rose from $8,500 to $10,085 within a four-day span in the first week of May, the market was majority long.
+The difference between early May and the current price trend is that almost 80% of traders in the entire Bitcoin futures market are long on BTC while it is testing the $9,900 to $10,000 resistance area that it has failed to overcome during the past two weeks.
+Bitcoin funding, long to short contract ratio and open interest. Source: CryptoISO
+In the Bitcoin futures market, traders typically trade a perpetual contract that has no expiry date. As opposed to conventional futures contracts, Bitcoin traders do not have to risk being forced out of their position due to time.
+To provide some balance, futures exchanges use a mechanism called funding. If the market has more long contracts open, then traders that are longing Bitcoin have to pay compensation to pay traders shorting BTC. That keeps the market balanced and prevents a prolonged downtrend or rally.
+On BitMEX, the funding rate of its perpetual Bitcoin futures contract is hovering at 0.05%. If a trader has a $100,000 long position open, the trader will have to pay $150 per day in compensation to merely keep the position open.
+A high funding rate is a negative factor when the price of Bitcoin starts to go down. When BTC declines, traders no longer have the incentive to keep their positions open and compensate short contract holders at the same time.
+The abnormally high percentage of long contracts in the Bitcoin futures market and the high funding rate are seen as potential catalysts of a steep pullback because BTC is at a strong resistance level.
+Since the start of May, the price of Bitcoin tested the $10,000 resistance level a total of three times.
+Triple lower highs on the 4H Bitcoin price chart. Source: TradingView
+On May 8, BTC went to as high as $10,085 but the price failed to remain above $10,000 and eventually fell to $8,100. On May 14, BTC surged to $9,970, only to be met with a fierce rejection to $9,100. Today, for a third time, BTC hit $9,910 but failed to push through overhead resistance.
+The triple lower high, a pattern composed of three low consecutive peaks, increases the likelihood that Bitcoin will experience a sharp correction in the near term.

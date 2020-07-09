@@ -1,0 +1,26 @@
+If you’re looking for a secure solution to store your ADA you can use a hardware wallet. Hardware wallets keep your private keys offline on the hardware device itself. This makes hardware wallets much more resistant to hacking than software wallets that are connected to the Internet.
+Daedalus is the official Cardano desktop wallet, Daedalus can be downloaded via its official website. It’s an open-source cryptocurrency wallet for ADA. The idea behind the wallet is that it will grow with the community, becoming a universal wallet, blockchain application platform, and app store.
+Daedalus wallet is available for Windows and Mac.
+Atomic Wallet is a software wallet available for desktop and mobile that allows you to store ADA and over 300 additional cryptocurrencies. The wallet also allows you to exchange your assets via non-custodial Atomic Swap with a decentralized order book.
+Once you have your Cardano wallet make sure to locate your ADA address. It’s a very long string of letters and characters that starts with a “D”. Here’s an example:
+Surprisingly enough, there aren’t many places you can buy ADA. Thankfully, you do have the option of several established cryptocurrency exchanges:
+eToro is probably the easiest way to go if you’re into Cardano only for speculative reasons (buying low and selling high for a profit). eToro, one of the leading companies in the cryptocurrency space, gives users the option to buy and sell many different coins at low fees and with a variety of payment options (PayPal, credit card, etc.).
+The main thing to keep in mind when dealing with eToro is that you won’t be able to withdraw the coins themselves to your own wallet. With eToro you can only withdraw fiat currency (i.e. USD, EUR). Therefor, if you’re using eToro you can skip Step 1 of getting a wallet.
+Be advised – cryptocurrencies can widely fluctuate in prices and are not appropriate for all investors. Trading cryptocurrencies is not supervised by any EU regulatory framework. Keep in mind that your capital is at risk.
+Coinmama is one of the oldest crypto exchanges around. Coinmama acts as a broker, meaning they instantly send you your coins instead of holding them in a dedicated account like other sites may do.
+Coinmama allows you to buy Cardano with a credit card, debit card or SEPA transfer. Verification is relatively quick and the fees are pretty low compared to the competition. You can read my complete Coinmama review here .
+Binance is a Shanghai-based cryptocurrency exchange that has become one of the most popular crypto exchanges around. On Binance, you can find dozens of cryptocurrencies, including ADA, that can be bought with BTC or ETH.
+Recently Binance added the option to buy coins from its exchange with credit or debit card, however it’s not possible to buy ADA this. What you can do, is buy Bitcoin with a credit card and then exchange it to Cardano. You can read my complete Binance review here .
+Here’s how to buy Cardano on Binance:
+Bittrex is a US cryptocurrency exchange with a huge number of cryptocurrencies listed. On Bittrex you can buy ADA by trading it for BTC, USDT and also USD. Bittrex accepts wire transfers only. You can read my complete Bittrex review here .
+There isn’t currently a way in which you can buy Cardano ADA with cash. What you can do is buy Bitcoin with cash then exchange it for Cardano on one of the cryptocurrency exchanges listed above.
+It’s not yet possible to buy ADA directly with PayPal. The only possible option is through eToro but then you won’t be able to withdraw the coins. It’s expected that there will be more options in the future, as cryptocurrencies continue to grow in popularity.
+If you need direct access to the coins, you can go to LocalBitcoins which allows you to buy Bitcoin via PayPal . Then, all you need to do is transfer your Bitcoin to Binance and exchange it for ADA.
+Once you’ve finished buying ADA make sure to move the coins to your own non-custodial wallet (i.e. a coin that gives you access to your private key). Leaving your coins on an exchange exposes you to the risk of fraud or theft (which have happened numerous times in the past).
+One the coins hit your wallet, you’ve successfully completed the process of buying Cardano.
+Cardano is a cryptocurrency that continues to grow in popularity. While it’s still at an early stage, the project shows some promise and should become easier to buy, sell, and store as cryptocurrency enjoy more widespread adoption.
+It’s hard to say if Cardano will continue to stay in the top of the cryptocurrency list in the future, with such fierce competition from Ethereum, IOTA, EOS and others.
+Have you used any of the above wallets or exchanges? What do you think of Cardano as a project? Let me know in the comments below!
+Learn everything you need to know about Bitcoin in just 7 days. Daily videos sent straight to your inbox.
+We hate spam as much as you do. You can unsubscribe with one click.
+We hate spam as much as you do. You can unsubscribe with one click.

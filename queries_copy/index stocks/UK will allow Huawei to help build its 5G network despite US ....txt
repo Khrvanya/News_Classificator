@@ -1,0 +1,34 @@
+Medical supplies are limited. Can 3D-printed face shields help?
+The British government said Tuesday that it will allow China's Huawei to help build the country's next generation of super-fast wireless networks, a decision that could undermine trade and intelligence ties with the United States.
+The announcement follows months of public debate in the United Kingdom over how to respond to concerns raised by the US government about potential national security risks posed by Huawei components and the threat of Chinese cyber attacks.
+UK mobile operators will be able to use Huawei equipment in their 5G networks but the company will be excluded from "security critical" core areas, according to a statement from the government.
+The Trump administration had been pressing for a total ban on Huawei products, alleging that Beijing could use the equipment for snooping. It had warned that US-UK intelligence sharing could be put at risk.
+Under Chinese law , Chinese companies can be ordered to act under the direction of Beijing. Huawei has consistently denied that it would help the Chinese government to spy.
+Prime Minister Boris Johnson has come under intense pressure, including from within his party, to agree to the US demands on Huawei. He discussed the issue with President Donald Trump in a phone call on Friday. US Secretary of State Mike Pompeo tweeted Sunday that Britain faced a "momentous" decision on 5G.
+Huawei already has a significant presence in UK wireless networks, and has been operating under supervision by government security agencies since 2003.
+"We've always treated them as a 'high risk vendor' and have worked to limit their use in the UK and put extra mitigations around their equipment and services," Ian Levy, technical director of the National Cyber Security Centre, said in a blog post.
+US President Donald Trump and British Prime Minister Boris Johnson at a NATO summit.
+In a statement, the company said it was "reassured" that it would be able to continue working with its UK customers on 5G, albeit in a restricted role.
+"We agree a diverse vendor market and fair competition are essential for network reliability and innovation, as well as ensuring consumers have access to the best possible technology," said Victor Zhang, a vice president at Huawei.
+The issue demonstrates how a conflict between the United States and China over the future of technology is forcing other countries to take sides, especially when it comes to advancements that could affect national security.
+5G allows greater and faster data processing, and is seen as an integral component of new interconnected technologies such as automated vehicles and smart appliances. Johnson's government has pledged to bring 5G to the entire country by 2025.
+Huawei, which is a leader in 5G technology and also one of the world's biggest sellers of smartphones, has seen its business targeted in a concerted campaign by the United States. But its products are often described as superior and cheaper than those sold by European rivals Nokia ( NOK ) and Ericsson ( ERIC ). Some experts say that Huawei owes part of its success to favorable loans from the Chinese state, an assertion the company disputes.
+The UK government said "high risk vendors" like Huawei will be excluded from all safety critical infrastructure, security critical "core" functions of the network and sensitive locations such as military sites and nuclear power stations.
+The company will also be limited to supplying 35% of network equipment and base stations, or carrying 35% of network traffic.
+"The government is certain that these measures, taken together, will allow us to mitigate the potential risk posed by the supply chain and to combat the range of threats, whether cyber criminals, or state sponsored attacks," the Department for Digital, Culture, Media and Sport said in a statement.
+A spokesperson for telecom company BT ( BTGOF ), which operates networks in the United Kingdom and several other markets, said the government's decision "is an important clarification for the industry." It said it does not use Huawei equipment in its core networks.
+Three, another mobile network operator, said it was reviewing the announcement. O2, the UK brand of Spain's Telefonica ( TEF ), said that Huawei products make up less than 1% of the network infrastructure it owns. O2 said it would continued to work with its primary vendors, Nokia and Ericsson.
+Vodafone ( VOD ) said it does not use Huawei equipment in core parts of its network. A spokesperson said the company would study the decision and its potential impact on the rest of its network, and work with authorities if it needs to swap out any parts.
+Britain, which will leave the European Union on Friday, faced a tough choice on whether to use the company's products. In recent years, it has courted investment from China, but it has a very close relationship with the United States and is banking on a new trade deal with Washington after Brexit. Allowing Huawei into its 5G networks could make such an agreement harder to get.
+The Trump administration said Tuesday it was "disappointed" with the decision.
+A senior administration official told CNN Business the United States will continue to press "all countries" to avoid using Huawei wireless gear.
+"There is no safe option for untrusted vendors to control any part of a 5G network," the official said. "We look forward to working with the UK on a way forward that results in the exclusion of untrusted vendor components from 5G networks."
+Three members of the US Senate, which plays a role in approving trade deals, made the stakes clear in a letter to Johnson on Monday.
+Marco Rubio, Tom Cotton and John Cornyn told Johnson that while they did not want to "threaten" a free trade deal or to review how the countries share intelligence, the facts on Huawei "are clear."
+"We hope that your government will make the right decision and reject Huawei's inclusion in its 5G infrastructure," the Republican senators wrote.
+The Trump administration did not respond Tuesday when asked whether the UK decision would affect intelligence sharing.
+US Senator Ben Sasse said in a statement that the Chinese Communist Party had now "infected" an intelligence alliance between the United States and its closest allies.
+"Here's the sad truth: our special relationship is less special now that the UK has embraced the surveillance state commies at Huawei," Sasse said.
+But British Foreign Secretary Dominic Raab, speaking to UK lawmakers, denied the decision would affect the United Kingdom's ability "to share highly sensitive intelligence data over highly secure networks, both within the UK and with our partners."
+Trump and Johnson spoke by phone after Tuesday's announcement. The White House said in a statement that they "discussed critical regional and bilateral issues, including telecommunications security."
+— Brian Fung in Washington contributed to this article.

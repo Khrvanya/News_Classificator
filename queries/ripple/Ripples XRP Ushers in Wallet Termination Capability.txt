@@ -1,0 +1,11 @@
+The XRP ledger network now has the ability to delete wallets, thanks to a community vote.
+XRP users can now delete their wallets on the XRP network if they so desire — an update put in place after the community majority voted in favor of the change.
+"After maintaining an 80% consensus during the mandatory 15-day voting period, the XRPL Deletable Accounts Amendment became enabled on May 8, 2020 at 4:29:30 UTC, through the ledger 55,313,921," former XRP Center manager, Arturo Portilla, said in a May 8 tweet .
+Ripple's XRP runs on a distributed ledger. "An account in the XRP Ledger represents a holder of XRP and a sender of transactions," XRPL.org notes .
+The XRPL blog announced the upcoming feature in a post on May 6. "Only the owner of an account can delete it, though, since you have to send a transaction from the account to be deleted," the post explained.
+Terminating a wallet means that the account no longer exists on XRP's present ledger, although the ledger's unchangeable history will still show the wallet's past activity, the post said. Sending 20 XRP or more to an old wallet, however, revives the dead account. Anyone can do this, but the wallet's private keys are still necessary to manage the wallet.
+The update is now in play, yielding the first account termination, as evident in Portilla's tweets . Deleting an account also allows owners to gain back XRP stuck in old accounts as each wallet requires a minimum balance of 20 XRP, the XRP post detailed.
+"For the first time in history, an XRPL account has been deleted," he said tweet. Portilla added, "20 reserved XRP were released, 15 XRP were recovered and 5 XRP were burned as the transaction fee (as expected)."
+XRP users now have two wallet options, "deletable accounts" and "non-deletable accounts," as of the update, Portilla said . He also specified that accounts engulfed in certain functions, such as escrows for example, fall under the non-deletable wallet category.
+The update from XRP also included other details, such as XRP Ledger number alterations.
+Although Ripple and XRP continue waging forward, the coin is not yet out of the woods in terms of securities law violations. Ripple faced another lawsuit this week, alleging that XRP is an unregistered security .

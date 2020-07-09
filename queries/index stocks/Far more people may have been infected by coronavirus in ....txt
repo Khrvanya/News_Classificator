@@ -1,0 +1,19 @@
+Far more people may have been infected with Covid-19 than have been confirmed by health officials in Santa Clara County, California, according to a study released Friday in preprint.
+The study used an antibody blood test to estimate how many people had been infected with Covid-19 in the past. Other tests, like those performed with nasal swabs or saliva, test for the virus' genetic material, which does not persist long after recovery, as antibodies do.
+"We found that there are many, many unidentified cases of people having Covid infection that were never identified with it with a virus test," said Dr. Jay Bhattacharya, a professor of medicine at Stanford University and one of the paper's authors . "It's consistent with findings from around the world that this disease, this epidemic is further along than we thought."
+The study estimated that 2.49% to 4.16% of people in Santa Clara Country had been infected with Covid-19 by April 1. This represents between 48,000 and 81,000 people, which is 50 to 85 times what county officials recorded by that date: 956 confirmed cases.
+A preprint study is a draft version of a study released to the public that hasn't been peer-reviewed for publication in a journal.
+In a statement, the Santa Clara County Public Health Department said it was aware of the study but could not comment until the study was published in a peer-reviewed journal.
+Similar efforts to estimate local antibody prevalence have launched in places like Miami-Dade County, Florida; San Miguel County, Colorado; and Los Angeles, California. The National Institutes of Health has a similar effort underway as well.
+Bhattacharya said information from these studies will not only give researchers a better idea on antibody prevalence, but they will also vastly improve projections and disease modeling. Experts have said it's clear there have been more people infected than we've tested for, but it's unclear how much higher that number could be.
+"All of the projection models have this as an input: how many people have been infected today," Bhattacharya said.
+"It just helps us plan better," he added. "Before, we were making policy in the dark."
+A Stanford University study used antibody tests to determine the prevalence of coronavirus infections in Santa Clara County, California.
+The research may also give a more realistic sense of how deadly the virus really is.
+"If I get the infection, how likely is it I'm going to die? That number depends on knowing how many people have had the infection -- not just actively have it now, but have had it and recovered from it," Bhattacharya said.
+If 50 times more people have had the infection, the death rate could drop by that same factor, putting it "somewhere between 'little worse than the flu' to 'twice as bad as the flu' in terms of case fatality rate," Bhattacharya said.
+But he cautioned that the flu and coronavirus are still quite different. For one, we don't yet have a vaccine for Covid-19.
+Doctors suspect, though, and are still trying to prove beyond a doubt, that antibodies to Covid-19 mean one is immune down the line.
+The study in Santa Clara County recruited participants largely using Facebook ads targeted by zip code to sample various parts of the community. The study tested 3,330 adults and children.
+"They had about five different tents set up and you just kind of drove through and they pricked your finger, took a blood sample and took down your information," one of those participants, Tony Huston, told CNN Chief Medical Correspondent Dr. Sanjay Gupta on his podcast, "Coronavirus: Fact vs. Fiction."
+"I think it's human nature to want to know if you've had it or if you have the antibodies," Huston said.

@@ -1,0 +1,9 @@
+At the time of writing, Bitcoin was priced at $6,900 with a market cap of $125 billion, having recorded a drop of 1% over the last 24-hours. However, the price did register a 7.61% drop on Friday.
+The Bitcoin CME Futures market has been halted since it is the weekend and this has caused an interesting contango with the spot prices.
+Contango or forwardation is when the Futures price of an asset is higher than the spot prices. This spread implies a premium on the Futures prices, something that could be used at an advantage during settlement periods.
+At press time, there was a 6% or a $400 premium on the Futures price of Bitcoin. The interesting thing to note here is the fact that the drop in price on 10 April looked exactly similar to the drop that took place on 27 March. On that particular day, the drop was a total of 12% with a pitstop at 10%. Bitcoin’s recent drop was only 7% and from the looks of it, more drops might be incoming. The drop could take BTC to $6,707 or $6,611.
+Although CME Futures do not trade on the weekends, there are multiple platforms that allow Futures trading on the weekend, platforms like Deribit, BitMEX, FTX, Binance, etc. For the cluster observed below, the Futures price for 11 April was higher than the spot prices of Bitcoin, albeit with a small spread.
+The reason why near-dated Futures have lower premiums when compared to long-dated Futures can be explained simply by supply and demand. Most of the near-dated Futures are trading at a premium, thus contributing to people borrowing money to buy the underlying asset; this is in hopes of taking the existing premium as a profit when the Futures expire.
+However, in an efficient market, as time lapses, the premium between the Future and the spot decreases. Hence, the larger the premium gap is, the more people invest, and hence, the gap vanishes quickly.
+Did you like this article?
+Your feedback is important to us!

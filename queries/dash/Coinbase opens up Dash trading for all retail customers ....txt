@@ -1,0 +1,7 @@
+Coinbase opens up Dash trading for all retail customers, except NY and U.K.
+Dash is now available on Coinbase , the San Francisco-based cryptocurrency exchange announced in a blog post today. Dash, currently among the top-20 cryptocurrencies by market cap, is available everywhere Coinbase operates, apart from New York and the United Kingdom.
+Today’s news follows the launch of Dash on Coinbase Pro last week . Coinbase Pro is designed for institutional clients—an exchange where users can trade crypto between each other. On Coinbase.com, retail customers can buy crypto instantly, directly from Coinbase itself.
+“Dash’s listing on Coinbase represents a significant expansion in access for users, as tens of millions of people have accounts with the exchange,” Ryan Taylor, CEO of Dash Core Group, told Decrypt.
+Dash’s main priority is payments and e-commerce. It offers lower transaction fees than credit cards, and, unlike its slower brethren Bitcoin , settles transactions quickly.
+And it turns out people actually use the thing: Dash’s volume hit over $350 million in the past 24 hours, and thousands of merchants across the world accept it, including Overstock.com. It’s also recently signed deals with a bunch of ATM operators, who operate around 1,000 Dash-friendly ATMs worldwide.
+Dash is “proof that crypto can be a more viable alternative to fiat,” Joël Valenzuela, director of community outreach at Dash, told Decrypt earlier this month.

@@ -1,0 +1,13 @@
+UPDATED: Hackers have returned the stolen funds after leaking their IP address during the attack.
+Hackers have stolen more than $25 million in cryptocurrency from the Lendf.me lending platform. A similar attack was carried out against the Uniswap cryptocurrency exchange, but no losses were recorded.
+The attacks took place over the weekend, on Saturday and Sunday, respectively. Although an investigation is currently underway, the two attacks are believed to be related, and most likely carried out by the same group or individual.
+Reentrancy attacks allow hackers to withdraw funds repeatedly, in a loop, before the original transaction is approved or declined.
+The similarities between Uniswap and Lendf.me is that both platforms were using:
+Lendf.me protocol -- a decentralized finance (DeFi) protocol developed by the dForce Foundation to support lending operations on the Ethereum platform.
+imBTC -- a token (coin) that runs on the Ethereum platform and is valued at a 1:1 rate with the Bitcoin cryptocurrency.
+"The ERC-777 token standard has - to our knowledge - no security vulnerabilities," said Tokenlon, the company behind imBTC.
+"However, the combination of using ERC777 tokens and Uniswap/Lendf.Me contracts enables [...] reentrancy attacks," the company wrote in a post-mortem report of the Uniswap and Lendf.me attacks.
+The company believes the hackers used an exploit published in July 2019 on GitHub by OpenZeppelin, a company that performs security audits for cryptocurrency platforms. They used the exploit against Uniswap first, and then used it again the next day against Lendf.me, with better results, draining about 99.5% of the platform's funds in the process. Stolen funds were immediately transferred into other accounts.
+Both websites have been taken down to prevent further attacks. Tokenlon has also suspended its imBTC token and is blocking all new transactions to prevent the hackers from carrying out new attacks against other platforms.
+UPDATE, April 21: The hackers have now returned all the stolen funds after they accidentally leaked an IP address during the attack. The funds were returned after Lendf.me and the dForce Foundation negotiated with the hackers using blockchain transactions.
+Now the attacker has returned virtually all funds. He took away $25 million and returned $23.8 million. The disparity is likely only because price went down slightly in the last two days. So there is no doubt in my mind that the attacker got caught and was forced to return it

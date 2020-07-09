@@ -1,0 +1,62 @@
+Travelex says it is making “good progress” in its recovery and is to begin restoring electronic foreign exchange services, but is silent about whether it has agreed to pay hackers a $6m ransom to decrypt computer files
+Share this item with your network:
+Travelex said today that it was to begin restoring its IT systems, which provide electronic foreign exchange services to banks and its own branch network, nearly two weeks after the company was hit by cyber gangsters .
+The company faced a $6m demand from a cyber mafia group to decrypt its internal files after discovering its networks had been attacked by Sodinokibi malware - also known as REvil - which disrupted the company’s operations in nearly 70 countries.
+The attack has left more than a dozen banks in the UK, including the Royal Bank of Scotland, NatWest, First Direct, Barclays and Lloyds, which rely on Travelex to provide services, unable to provide foreign exchange services.
+Banks in Australia , including NAB, the Commonwealth Bank and Westpac, have also been hit by the attack.
+Travelex said today that it had restored some of its internal order processing and was starting to restore customer-facing systems, beginning with in-store computer systems used to process electronic orders.
+“We are now at the point where we are able to start restoring functionality in our partner and customer services, and will be giving our partners additional detail on what that will look like during the course of this week,” said Travelex CEO Tony D’Souza.
+The company declined to say whether it had paid a ransom to the cyber criminals that disabled its global networks - a move that would allow it to recover encrypted files on computers in Travelex stores and offices worldwide.
+It is unclear whether Travelex has back-ups of the encyrpted files, which include the names of clients and bank account and transaction details, according to people familiar with Travelex.
+It emerged today that the criminals behind Sodinokibi have released internal documents from another hacked company – US Computer Services firm, Artech – which was hit by a similar ransomware attack in late December 2019.
+The hackers have posted a message on an underground hacking forum, threatening to disclose further hacked information from Artech, which claims to be the largest IT staffing company owned by women in the US, unless the company agrees to pay an undisclosed ransom.
+Irina Nesterovsky , head of research for Israeli security company and specialist in darknet threat intelligence, Kela , which identified the post, said it marked a significant change of tactic for the crime group, which first appeared in April 2019.
+“This is the first time that the group behind Sodinokibi published alleged proof of their attack,” she said. “While not mentioning explicitly Travelex – this is definitely a nod towards them and any other company that would be attacked by the operators of the ransomware, and refuses to pay.”
+Travelex said it had found no evidence that its customer data had been stolen.
+Travelex has instructed employees to hand over their laptop computers to IT specialists for analysis, according to people familiar with the attack.
+The company is categorising laptops as red, amber or green, depending on the risk they pose to the organisation and the damage caused by the malware.
+“IT teams will contact you as soon as they are able to rebuild your device,” said instructions sent to Travelex staff.
+Those with unaffected computers have been told to keep their machines switched on and connected to the internet, so the computers can receive continuous updates and be monitored for suspicious activity.
+The incident has disrupted employees’ ability to access the company’s Workday HR system , which is hosted in an independent cloud service.
+People familiar with the situation told Computer Weekly that staff were only able to access basic functions HR functions.
+Some staff have been told they will receive estimated salaries, as the company has not been able to update payroll systems with details of their overtime during the crisis.
+“This has impacted many staff who worked extra hours and holidays over Christmas and the New Year and haven’t been paid for it,” one member of staff said.
+Staff who received too much have been asked to pay back Travelex once its IT systems are back up and running.
+Computers and point-of-sale machines in Travelex’s retail outlets are still out of action, forcing staff to use cash books to keep track of transactions.
+Customers are being told they can only buy foreign exchange with cash as the company is unable to process card payments.
+Employees have been asked to use their own mobile phones to communicate with the company, and have set up WhatsApp groups to receive updates from managers.
+“Staff are pulling together. We all realise we’ve only got each other to rely on to get through this,” one person told Computer Weekly.
+“Older staff have found the transition to pen, paper and calculator easier, but younger employees have taken time to adjust. The younger ones are starting to find their feet and getting more confident, but many cannot grasp the concept of doing a manual balance at the end of the day,” they said.
+Travelex said in a statement today that it would continue to communicate with partners about the resumption of services and provide a roadmap setting out the next steps in its recovery.
+“We’re receiving updates on procedures and the latest story to give to our customers every couple of days. [Travelex management] seem to be making it up as they go along”
+It said the company had been able to honour “most” online orders for collection in store and, where it could not, it has proactively reached out to people affected to make alternative arrangements, through its 24/7 customer support desks.
+But one person familiar with the attack said communications had been chaotic.
+“We’re receiving updates on procedures and the latest story to give to our customers every couple of days, and every time they change their minds on what we are supposed to do. They seem to be making it up as they go along,” the person said.
+Travelex has sent its employees pre-prepared speaking notes to repeat to customers when asked questions.
+The company has also warned staff to say “no comment” to journalists. Travelex has instructed employees to take the name of any reporter asking questions, along with their contact details and organisation, and pass the information on to line managers.
+Managers have also instructed employees to report any unusual calls or suspicious visits by people to Travelex counters.
+Kela’s Nesterovsky said the decision by hackers to not to disclose Travelex internal company information, unlike that of Artech, might imply that Travelex has negotiated with the cyber crime group.
+“The fact that no documents from Travelex were published yet could hint to the fact that the company has gotten in contact with them. Another option is that the data stolen from Travelex is more sensitive in nature, and they would not share it in public like that,” she said.
+Analysis by Computer Weekly of Artech files released by Sodinokibi hackers appears to show that hackers had widespread access to the company’s internal networks, including administration credentials which could have provided administrator-level access.
+The Information Commissioner’s Office (ICO) said Travelex had not reported an information breach.
+“We are in contact with Travelex and giving advice on potential personal data issues following the recent ransomware attack. The company has not reported a data breach,” said an ICO spokesperson.
+“If an organisation decides that a breach doesn’t need to be reported they should keep their own record of it, and be able to explain why it wasn’t reported if necessary,” said the spokesperson. “Organisations must notify the ICO within 72 hours of becoming aware of a personal data breach unless it does not pose a risk to people’s rights and freedoms.”
+A spokesperson for the Financial Conduct Authority, which regulates Travelex, said: “We are aware of the issue and in contact with the firm to ensure affected customers are treated fairly.”
+Computer Weekly reported that Travelex had been attacked by ransomware in a report on 3 January and identified the origin of the attack as Sodinokibi on 6 January.
+Sodinokibi subsequently told security web site Bleeping Computer that the group had accessed 5GB of information from Travelex and had threatened to publish sensitive information, including credit card details and social security numbers, unless Travelex paid a $3m ransom.
+The group went on to tell the BBC that it was demanding a $6m ransom , and would release sensitive customer data by 16 January unless Travelex paid-up.
+A spokesperson for Artech confirmed to Computer Weekly that the company's computer systems had been hit by a malware attack on the morning of 8 January.
+"As a precaution, we immediately shut down all of our systems in order to fully investigate the attack and ascertain whether any sensitive or personal data was compromised. While we will continue to conduct further forensic examination, at this stage we believe that no sensitive or personal data has been compromised," the spokesman said.
+Additional research by Matt Fowler.
+Let's face it, cloud security can be done very wrong. Let's learn to do it right. 
+Regular Computer Weekly contributor Peter Ray Allison explores this issue, weighing up the questions organisations should be asking of their cloud service providers, and whose responsibility cloud security should be.
+You forgot to provide an Email Address.
+This email address doesn’t appear to be valid.
+This email address is already registered. Please login .
+You have exceeded the maximum character limit.
+Please provide a Corporate E-mail Address.
+I agree to TechTarget’s Terms of Use , Privacy Policy , and the transfer of my information to the United States for processing to provide me with relevant information as described in our Privacy Policy.
+Please check the box if you want to proceed.
+I agree to my information being processed by TechTarget and its Partners to contact me via phone, email, or other means regarding information relevant to my professional interests. I may unsubscribe at any time.
+Please check the box if you want to proceed.
+By submitting my Email address I confirm that I have read and accepted the Terms of Use and Declaration of Consent.

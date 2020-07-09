@@ -1,0 +1,10 @@
+Chinese Journalist Shares Report on COVID-19 on Ethereum, Bypassing Censor
+Journalist Sarah Zheng managed to use Ethereum blockchain to spread an interview on COVID-19 with a doctor in Wuhan amid censorship.
+Amid censorship in China of all coronavirus-related content circulating online, Sarah Zheng, a journalist for the South China Morning Post, claimed to have managed to publish an interview made to a doctor about the coronavirus within Ethereum network.
+According to a tweet published by Zheng, Dr. Ai's words from Wuhan (the epicenter of the COVID-19 outbreak) were posted on the Internet, thanks to the use of Ethereum blockchain to store its content in the network.
+The interview, as The Straits Times reports , was also encrypted with QR codes and deliberate typos, leaving supports in PDF files and Morse code, despite censorship from the Communist Party of China.
+The article, originally published in Renwu media, got banned from the local messaging platform WeChat, making it impossible for users to share it. As of press time, Cointelegraph has been unable to locate a live version of the interview itself.
+The multiple versions of the interview also included writing with the hanyu pinyin system, which translates the Chinese alphabet into Latin characters, in addition to the inclusion of emojis to replace many words in the article.
+The censored content quoted Dr. Ai's words, stating that she was the subject of an "unprecedented and severe reprimand" by the authorities, after having warned other doctors in December about tests performed on a patient who had a coronavirus diagnosis.
+Dr. Ai alerted doctors to take precautions against the virus, resulting in some disciplinary measures that the hospital took towards her.
+As of press time, China has recorded more than 3,150 deaths and nearly 81,000 infected, according to official data from the Chinese government.

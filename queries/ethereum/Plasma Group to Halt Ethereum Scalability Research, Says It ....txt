@@ -1,0 +1,11 @@
+Plasma Group to Halt Ethereum Scalability Research, Says It Reached Maturity
+Plasma scalability for the Ethereum network is now a matter of implementation, according to the non-profit Plasma Group.
+The non-profit research organization Plasma Group announced in a Jan. 9 blog post that it would cease studying Ethereum scalability. Identifying funding of public goods as the next key challenge, it pledged to donate its remaining funds to Gitcoin.
+Plasma Group was founded in Jan. 2019 with the goal of pushing research toward Ethereum scalability solutions based on Plasma technology. It received funding from a variety of organizations including the Ethereum Foundation, ConsenSys, OmiseGo, Matic Network and Gitcoin.
+The non-profit used this money to conduct research into solving practical obstacles for layer-two scaling solutions. The team identified several of its achievements as key, including creating Plasma Cashflow implementations, releasing a generalized Plasma specification and coining Optimistic Rollup.
+These served primarily to make Plasma sidechains into fully-fledged blockchains supporting smart contracts, as opposed to just limited money transfer capabilities.
+After one year of operation, Plasma Group reached the conclusion that research efforts into Plasma scalability are unneeded, as the theoretical base is mature enough:
+“A year ago, scalability research felt like the most pressing need to us, so we threw everything we had into accelerating it. It is amazing to see the multitude of competent teams pushing production plasma into reality now. This shift from research to implementation means that our mission as a research organization must shift as well.”
+While acknowledging that scalability is still a high priority, the researchers identified the funding of public goods such as open-source software as a key challenge. This follows similar statements by Ethereum’s founder Vitalik Buterin, who included this issue as one of 16 hard problems in blockchain in 2014.
+While comprehensive actions to shift Plasma Group’s focus are yet to be revealed, the non-profit announced it would donate the entirety of its funding runway to Gitcoin.
+Gitcoin is a crowdfunding platform focusing on the world of open-source development. It offers community-sourced grants to blockchain projects, having previously funded Plasma Group in this manner.

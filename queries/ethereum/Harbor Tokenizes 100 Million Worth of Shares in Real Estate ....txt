@@ -1,0 +1,24 @@
+San Francisco-based firm Harbor has decided to help companies tokenize existing securities, instead of assisting them in issuing security tokens.
+On September 16, Harbor’s management announced that it has issued Ethereum-based tokens that represent $100 million worth of shares in four real estate funds.
+The shares were tokenized in order to make it easier to trade private securities, which are held by 1,100 investors, and 17 placement agents and broker-dealers that work with iCap Equity .
+CEO of Washington-headquartered iCap Chris Christensen noted:
+Harbor’s business model has shifted from helping clients raise capital through security token sales to developing infrastructure for tokenized assets.
+Founded in 2017, Harbor’s management initially developed tokens representing real-world assets.
+According to Stein, if people were willing to invest in initial coin offerings (ICOs) that only came with a “promise” from their issuers, then they might “be excited” to find opportunities that allow them to purchase tokens backed by real-world assets.
+“The overlap between investors demanding tokens and investors interested in security tokens was zero. People were buying tokens but they weren’t buying it to invest, they were buying it to speculate.”
+In November 2018, Harbor teamed up with DRW Holdings’ real estate division, in order to conduct a sale involving approximately 1,000 tokenized shares in an apartment building. However, the deal collapsed earlier this year due to failed negotiations between the issuer and mortgage lender.
+Harbor’s platform provides a private marketplace for where investors, advisors, and broker-dealers can trade securities.
+Christensen noted that the funds are “high-yield, [which] usually requires a lockup” under which investors are not allowed to sell their shares for up to five years.
+“We just knew if we can provide measured liquidity for them and allow us to continue our business model [but] allow them to … exit as needed, that would be cutting-edge.”
+iCap investors normally purchase securities that cannot be sold for several years.
+However, there are cases where investors might need their funds before the multi-year lockup period ends, Christensen said.
+Under the company’s traditional system, these investors would have to work with another investor who would buy the securities and commit to the terms and conditions of the lockup period.
+Christensen revealed that his firm has helped close $2 million in trades for these types of deals. This, despite the process being expensive and time-consuming, as it can be challenging to find an investor interested in acquiring securities from another party.
+As a company that automates regulatory compliance, Harbor makes it easier for “those who want to come in [to] come in, [and for] those who want to exit [to be able to easily] do that.”
+Investment advisor Bradley Wealth is reportedly among the 17 broker-dealers that have access to Harbor’s platform.
+Acknowledging that the platform will never be like a public market, Stein noted that it’s possible to “take something that’s illiquid or semi-liquid and make it more liquid.”
+iCap’s business operations comply with Rule 144 of the Securities Act of 1933, which requires that investors commit to a one-year lockup period for any securities sold. This requirement is separate from the terms and conditions the firm imposes on contracts, Christensen explained.
+“Once you’ve held a security for one year, it can be freely tradeable.”
+After the one-year lockup period ends, non-accredited investors can trade the securities, however, iCap must first approve all transactions.
+Christensen further noted that unlike ICOs and other types of crowdfunding campaigns, these fund shares, represented by ERC-20 compliant tokens, are like passive investments.
+“What we’re hoping to do is increase access … in real estate and other [sectors], which was kind of the promise of security tokens to begin with. We’re just going about it a different way.”

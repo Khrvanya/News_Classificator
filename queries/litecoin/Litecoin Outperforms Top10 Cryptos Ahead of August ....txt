@@ -1,0 +1,19 @@
+Please consider using a different web browser for better experience.
+Please enable JavaScript in your browser for a better site experience.
+With the supply of new coins to be halved in less than five weeks, litecoin is outpacing its peers.
+The fourth-largest cryptocurrency by market capitalization is currently trading at $123, representing 5 percent gains on a seven-day basis, according to data source CoinMarketCap.
+Meanwhile, bitcoin, the top cryptocurrency by market value, is currently reporting a meager 1 percent gain on a weekly basis. Other top-10 cryptocurrencies are trading mixed as seen in the table below.
+Cardano, down 10 percent, is the worst performing top-10 cryptocurrency over the last seven days.
+ETH, XRP, BCH, and EOS are flashing red.
+Binance coin is up a staggering 481 percent on a year-to-date basis, followed by litecoin, up 305 percent.
+Litecoin’s recent relatively shining performance could be associated with the mining reward halving due on Aug. 6 this year.
+The process is aimed at curbing inflation by reducing the coins paid out for mining on litecoin’s blockchain by half. So, after Aug. 6, miners will get 12.5 coins for every block mined – down 50 percent from the current reward of 25 coins.
+Essentially, miners will be adding fewer coins to the ecosystem, likely leading to less in circulation. The impending supply cut might have helped LTC outperform its peers in the last seven days.
+While it is logical to expect the cryptocurrency to rise further in the run-up to the event, the upside looks limited. After all, LTC has already witnessed phenomenal growth in both price and non-price metrics so far this year, and is currently up more than 300 percent on a year-to-date basis.
+Meanwhile, litecoin’s hash rate, or computing power dedicated to mining, rose to a record high of 468.1019 TH/s this week. Notably, the metric is currently up 220 percent from the low of 146.2118 TH/s seen in December.
+All-in-all, the market may have largely priced in the reward halving already. In fact, if history is a guide, the probability of LTC witnessing a sharp pullback in the run-up to the Aug. 6 event is high.
+It is worth noting that LTC had nosedived from $8.72 to $2.55 in 6.5-weeks leading up to the previous reward halving, which took place on Aug. 25, 2015.
+Technical charts are also signaling scope for a near-term price drop.
+While the bullish higher lows, higher highs pattern is intact, the relative strength index (RSI) is reporting a bearish divergence and the 5- and 10-candle moving averages have produced a bearish crossover.
+As a result, the price risks falling to the 200-candle MA, currently at $221. A violation there would expose the 50-candle MA, currently at $83.00.
+The leader in blockchain news, CoinDesk is a media outlet that strives for the highest journalistic standards and abides by a strict set of editorial policies . CoinDesk is an independent operating subsidiary of Digital Currency Group, which invests in cryptocurrencies and blockchain startups.

@@ -1,0 +1,15 @@
+In many forex accounts, there is the option to trade CFDs on oil, gold, silver, copper, the S&P 500, or Dow 30, among others.
+These can be alluring, and they may seem like easy things to trade. After all, oil is discussed all the time on the news, so most people think they know a lot about it. Unless you have studied futures trading, I would advise against jumping into these CFDs for a number of reasons.
+1) The broker is going to charge a large spread, making it harder to profit over many trades.
+2) These types of CFDs don't trade like currencies. These products are based on futures contracts, which expire, and the next contract may have very different prices. If you don't close before expiry, you get rolled into the new contract, which is another trade and may be very different (different technicals, even different trend direction).
+3)The broker is going to charge you A LOT to hold positions overnight. You are trading against the broker in a CFD they will take their profit from you somehow. This is different than a futures contract, traded on an actual futures exchange, where the broker just facilitates your trade and another trader is on the other side of the transaction.
+I have been trying to explain to people all morning the spread between May oil, which is expiring soon, and June oil.
+May oil is trading at $18, June oil is trading at $25.
+I several posts I saw today, people were thinking their brokers were ripping them off, that there was sort of conspiracy, that maybe the $19 or the $25 contract was "Just forgotten about by the broker" or "Not updated". Since some brokers stopped showing the May contract and switched to the June contract, some though the price had gapped $7 instantly.
+No, these are both prices that are occurring right now in different oil contracts. Visible all along. Both contracts have been trading for a long time at their own respective prices.
+PLEASE! Before trading ANYTHING, study it. Know how it operates. If you can't open a futures account, or don't know what futures are, please don't trade gold, silver, oil, etc. in the forex account.
+You are likely not trading the market you think you are.
+CFDs are totally fine to trade if you know about the underlying market you are trading. It became quite clear that many people posting in some groups were trading something they did not even understand the basics of, let alone have a strategy for profiting from it.
+The worst thing was that with loads of comments on these charts and questions, not a single person knew about different contracts, expiries, or that there can be differences between contracts.
+Research and study come before placing trades.
+Disclaimer: Nothing in this article is personal investment advice, or advice to buy or sell anything. Trading is risky and can result in substantial losses, even more than deposited if using leverage.

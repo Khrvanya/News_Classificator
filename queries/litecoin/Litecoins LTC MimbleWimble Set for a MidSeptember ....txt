@@ -1,0 +1,14 @@
+The senior developer behind Litecoin’s MimbleWimble protocol has provided a monthly update.
+He anticipates a mid-September Testnet launch.
+The protocol is meant to introduce confidential transactions on the Litecoin network and could be the spark that reignites investor interest in LTC.
+Earlier today, Litecoin’s Senior MimbleWimble Developer, David Burkett, provided an update on the progress of the protocol for the month of June 2020. In it, he concluded that the stage was set for a mid-September testnet launch of MimbleWimble. Below is a Tweet by the Litecoin Foundation highlighting David Burkett’s monthly progress update of MimbleWimble.
+Want to know the latest with Mimbelwimble implementation on #Litecoin ? Check out the below thread from David Burkett for June's update. https://t.co/9S8MQYWdnr
+— Litecoin Foundation (@LTCFoundation) July 1, 2020
+Mr. Burkett further provided the following breakdown of the tasks ahead for the third quarter of 2020 that will clear the way for  a mid-September testnet launch.
+The high-level plan for the rest of the summer remains the same:
+Back in January 2019, the founder of Litecoin, Charlie Lee, announced that the focus of the project was geared towards making Litecoin more fungible by adding Confidential transactions. The latter transactions obfuscate the amounts being transacted over the network but not where the coins are being sent.
+Although not 100% private, confidential transactions could attract new LTC users who prefer to keep the value of their transactions away from prying eyes. This will most likely drive up the demand and use of LTC to the point where it will have a positive effect on Litecoin in the crypto markets.
+With the progress update stating a possible Testnet launch of MimbleWimble by mid-September, keen LTC traders and investors might be planning to capitalize on the hype surrounding the testnet by accumulating ahead of the event. Additionally, a successful Testnet would provide a clear path for a Mainnet launch that would further boost the appeal of LTC in the crypto markets.
+At the time of writing this, Litecoin has been experiencing serious sideways movement around the $39 support zone and below the $50 resistance zone. This uneventful price movement could be a sign of investors accumulating LTC as postualted through a significant increment of new non-zero accounts.
+Furthermore, the recent release of Litecoin Core Version 0.18.1 is further proof that development on the Litecoin project is still ongoing. This fact, combined with the MimbleWimble progress update, quells any fear or FUD that had insinuated that Litecoin was dead.
+Disclaimer: This article is not meant to give financial advice. Any additional opinion herein is purely the author’s and does not represent the opinion of EWN or any of its other writers. Please carry out your own research before investing in any of the numerous cryptocurrencies available. Thank you.

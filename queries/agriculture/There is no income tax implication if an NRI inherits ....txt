@@ -1,0 +1,35 @@
+2 min read . Updated: 16 Mar 2020, 11:12 PM IST Sonu Iyer
+If you decide to sell the land, it can only be sold to a person who is a resident in India as per the exchange control law
+Under the income tax law, there is no tax levied upon inheritance and sale of agricultural land in India
+Is it true that non-resident Indians (NRIs) can’t own agricultural land in India? I am about to inherit a piece of land. Can I ask for my share in the property to be liquidated and transferred to my account? What will be the tax liability in either instance?
+Under the exchange control law, NRIs can’t own agricultural land in India. However, they may acquire such agricultural land through inheritance from a person resident in India. Accordingly, you can inherit an agricultural land. If you decide to sell the land, it can only be sold to a person who is a resident in India as per the exchange control law. Further, the exchange control rules permit remittance of a maximum amount of $1 million per financial year from the sale proceeds of agricultural land from your non-resident ordinary (NRO) account.
+Under the income tax law, there is no tax levied upon inheritance of agricultural land in India and on the sale of agricultural land in India (unless the agricultural land is situated in or within the periphery of certain specified urban areas such as an urban agricultural land).
+I am an NRI and I have some dividend income from stocks that I invested through my non-resident rupee (NRE) account. How will this income be taxed?
+The taxability of dividend income will depend on your residential status in India. If you qualify as a resident of India, dividend income from shares of Indian companies will be exempt from tax in India if the total dividend income is up to ₹10 lakh during the relevant financial year. Dividend income in excess of ₹10 lakh will be taxable at 10%. If you qualify as a “non-resident", dividend income from shares of Indian companies will be wholly exempt from tax.
+Effective financial year (FY) 2020-21, Budget 2020 has proposed to abolish dividend distribution tax (DDT) applicable to companies and mutual funds, and instead tax dividends in the hands of the recipient shareholders at slab rates. If the proposal is approved, FY21 onwards, dividends from shares of Indian companies will be taxable in India in your hands, irrespective of your residential status in the country.
+I am an NRI and have Public Provident Fund (PPF) and non-resident ordinary (NRO) accounts in India. Can the PPF amount be repatriated to Canada on maturity, and what would be the purpose code when applying to a bank for repatriation?
+The PPF account may be continued till its maturity, and the maturity amount can be credited into the NRO account. From the NRO account, the funds can be transferred to your account in Canada, subject to an overall limit of ₹1 million per financial year (April-March). While remitting the funds, the purpose may be mentioned as “remittance by non-residents towards family maintenance and savings". However, do consult your bank at the time of remittance.
+Sonu Iyer is tax partner and people advisory services leader, EY India. Queries at mintmoney@livemint.com
+* Thank you for subscribing to our newsletter.
+Click here to read the Mint ePaperLivemint.com is now on Telegram. Join Livemint channel in your Telegram and stay updated
+You are now subscribed to our newsletters. In case you can’t find any email from our side, please check the spam folder.
+lozad('.lozad', { load: function(el) { el.src = el.dataset.src; el.onload = function() { el.classList.add('fade')}}}).observe()
+.myAccount .planSec, .myAccount a.LinkCTA{padding:16px; margin:16px; box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.1); background-color: #fff;}
+	       		var userData = data;
+	       		var name = userData.name;
+	       		var email = userData.email;
+	       		var signupSource = userData.source;
+	       		var subscribedAtOnce = userData.subscribedAtOnce;
+	       		var plan  = userData.plan;
+	       		document.getElementById('uName').innerHTML = "<strong>"+name+"</strong>" + email;
+		       		var status = planData.status;
+		       		var purchaseSource = planData.source_device;
+			       		var nextActivationDate = planData.current_term_ends_at;
+			       		var planDescription = planData.plan.description;
+			       		var planName = planData.plan.name;
+			       		var planPrice = planData.amount;
+			       		//var planInterval = planData.shipping_interval;
+			       		var planInterval = planData.duration;
+			       		var planUnit = planData.interval_unit;
+			       		//var html = "<strong>Your Subscription Plan</strong>"+planName+" ₹"+planPrice+" / "+planInterval+" " + nextBillingHtml + cancelHtml; 
+			       		var html = "<strong>Your Subscription Plan</strong> "+planDescription + " "+ planName +": ₹"+planPrice + " "+ nextBillingHtml + cancelHtml;

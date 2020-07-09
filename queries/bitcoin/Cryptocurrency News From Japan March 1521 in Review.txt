@@ -1,0 +1,14 @@
+Institutions partner with blockchain startup, Toyota builds a blockchain identity platform, & more headline news from Japan this week.
+This week’s headlines from Japan included exchange self-regulatory organization, JVCEA, suggesting guideline changes, financial institutions collaborating with a blockchain startup for asset management, GMO Coin exchange listing BAT, and news that Toyota has built a blockchain-based identity platform.
+Check out some of this week’s crypto and blockchain headlines, originally reported by Cointelegraph Japan .
+JVCEA, a Japanese self-regulatory organization (SRO) for exchanges, proposed alterations to an upcoming initiative called the Revised Funds Settlement Law, set to come into play in the first half of 2020.
+The group also noted changes to the Financial Instruments and Exchange Act (FIEA), which will determine requirements for digital asset derivative transactions. JVCEA looks to garner status as an SRO under the Act.
+Brokerage SMBC Nikko Securities, Sumitomo Mitsui Trust Bank, and general trading company Mitsui & Co. have joined together with blockchain startup, LayerX, to form a blockchain-based asset management company called Mitsui & Co. Digital Asset Management.
+The new company aims for several objectives, including furthering blockchain application in asset management, cutting down on expenses, and heightening transparency.
+The company looks to come together in April 2020, touting blockchain-based real estate and infrastructure options.
+Crypto exchange , GMO Coin, announced its listing of Basic Attention Token (BAT), an asset associated with the Brave Web Browser.
+The exchange added BAT to their platform on March 18, although they halted trading pairs associated with the asset during a window between March 18 and 19.
+Toyota Financial Services now boasts a finished blockchain-based platform for vehicle and personal IDs with which it is experimenting. The endeavor involves Toyota Blockchain Lab, an entity related to Toyota Group.
+The personal ID side houses aspects rooted in self-sovereign identification, allowing people to control their personal data. Toyota aims to eventually apply its solution globally, even outside the realms of Toyota.
+The vehicle ID part of the puzzle deals with things on the vehicle-related side, including registration and maintenance.
+Combining personal ID and vehicle ID through Toyota’s solution allows individuals to control their own information.

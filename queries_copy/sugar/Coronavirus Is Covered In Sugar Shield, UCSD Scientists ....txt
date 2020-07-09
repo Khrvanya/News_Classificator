@@ -1,0 +1,23 @@
+Coronavirus Is Covered In Sugar Shield, UCSD Scientists Figured Out What It Looks Like
+Credit: Image courtesy of Lorenzo Casalino, Zied Gaieb and Rommie Amaro/ UC San Diego
+Above: On the left is a computer model picture of a coronavirus spike protein without a sugar shield on it. On the right is a computer model picture of the spike protein with a sugar shield on it. The models demonstrate how the infection mechanism of the coronavirus is highly protected by these sugars, in the digital image above, June 25, 2020.
+The coronavirus is covered in a sugary exterior which makes it hard for the body to fight against it.
+UC San Diego chemists have zoomed in the coronavirus and uncovered a detailed picture of this shield, so that vaccine and antiviral developers can find ways to get through it.
+The research was published in bioRxiv , an open-access platform for science papers before they go to peer-review. In recent months the domain has been flooded with emerging coronavirus research.
+Most of us have seen a photo of the virus: A giant sphere covered in sticky and spiky proteins.
+“It’s really those spike proteins that are really the main infection machinery of the virus," said UC San Diego computational chemist Rommie Amaro. "And these are the bits of the virus that get really heavily coated with this sugary coating so that our immune system can’t detect it in the body.”
+Your browser does not support inline frames or is currently configured not to display inline frames. Content can be viewed at actual source page: https://youtu.be/ZSH6IeaNwdk>
+Many cells in our body also have sugar coatings. Viruses like coronavirus have adapted to be covered in sugar to blend in, Amaro said. The body has a hard time detecting the virus, covered in this shield, so it can survive and be more infectious.
+An artist illustration of 2019 novel coronavirus.
+“The human body thinks it’s sort of similar to what should be in the body and then doesn’t attack it,” she said.
+The existence of this coating on the coronavirus is well known in research, Amaro said. A May 2020 paper published in Science identified nearly two dozen sites where these sugars latch on to the infectious spikes on the virus.
+UC San Diego scientists created a 3-D computer model of the coronavirus spike protein with a sugar shield on it. A cross section of that model is shown in the image above, with the dark blue representing the sugars, June 25, 2020.
+Amaro and her team used a supercomputer at the Texas Advanced Computing Center to zoom in on the virus and produce a highly detailed three-dimensional atomic model of what that shield actually looks like.
+“There are some holes in the shield," she said. "And these are some so-called vulnerabilities and this is why it’s important to identify where those open areas in the shield are. It gives us a better chance to design neutralizing antibodies.”
+Some research, such as the May 2020 paper in Science, suggests the sugary coating on the coronavirus may not be as strong as on other viruses like HIV. That’s because of those holes in the shield.
+One of the lead scientists on that research, bio-chemist Max Crispin, told Forbes in May “there's very low level of shielding in that region so it's much more vulnerable to antibody neutralization,” which is “quite encouraging."
+Amaro is hopeful the models she and her team produced will help scientists with vaccine and antiviral design, so those treatments are more effective at finding vulnerable points in the virus.
+KPBS' daily news podcast covering local politics, education, health, environment, the border and more. New episodes are ready weekday mornings so you can listen on your morning commute.
+Don’t have time to keep up on the latest news? We’ve got you covered with a mid-week check-in every Wednesday afternoon.
+This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.
+I cover all things science and technology — from the biotech industry in San Diego to rooftop solar energy on new homes. I'm interested in covering the human side of science and technology, like barriers to entry for people of color or gender equity issues on biotech boards.

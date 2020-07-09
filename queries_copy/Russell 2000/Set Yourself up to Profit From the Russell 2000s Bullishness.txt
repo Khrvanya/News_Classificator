@@ -1,0 +1,22 @@
+By Ken Trester , Editor, Power Options Weekly Dec 12, 2019, 9:38 am EDT
+The Russell 2000 made a technical breakout last week, and I want to take advantage with a bullish call debit spread on the iShares Russell 2000 ETF (NYSEARCA: IWM ).
+As you can see in the chart below, the index broke above very strong resistance at 1,600 recently.
+Daily Chart of Russell 2000 Index (RUT) — Chart Source: TradingView
+Ever since the index dropped from the all-time high it set in August of 2018, it has had to contend with strong resistance at 1,600. While the S&P 500 was setting new highs this year, the small-cap index wasn’t keeping pace.
+But after several rate cuts from the Federal Open Market Committee (FOMC) — lower rates tend to benefit small-caps — the index has started to catch up.
+Small-caps also have a seasonal tendency to do well at the beginning of a new year, which should continue to push them higher.
+And with the recent breakout, I think we may be looking at a situation where the Russell 2000 continues to rise into the new year. Other advisors at InvestorPlace have made a similar case for small-cap stocks.
+IWM is an exchange-traded fund (ETF) that tracks the investment results of the Russell 2000, which makes it a great way to trade the bullishness in the index.
+How Should Investors Trade IWM?
+If you look at the chart of IWM below, you can see it has been relatively flat this week. Traders have a limited window to take a position before it starts to head higher.
+Daily Chart of iShares Russell 2000 ETF (IWM) — Chart Source: TradingView
+The driving force behind the back and forth action this week has been news out of Washington, D.C., and today, investors will be monitoring the election in the U.K. If something unexpected happens, we could see some volatility in the markets.
+At the same time, the FOMC also concluded its final meeting for 2019 yesterday. It released interest rate projections for 2020, 2021 and 2022, which came in at 1.6%, 1.9% and 2.1% respectively. Those numbers indicate the Federal Reserve plans to hold rates steady for 2020, which would be good for small-caps.
+While it’s too soon to say whether or not that will be the case, the meeting did provide investors with more information about where the U.S. economy is headed.
+If there is a pullback on the broader market, we may see IWM retest support at around $158, but ultimately, I think it will continue heading higher, breaking above resistance at $163.
+With this call debit spread, I’d like to take advantage of the bullishness that helps small-caps at this time of year, so I’ve picked the Jan. 10 expiration.
+Using a spread order, buy to open the IWM Jan. 10th (2020) $164 call and sell to open the IWM Jan. 10th (2020) $167 call for a net debit of about $1.15.
+Note: Be sure you are opening the weekly IWM options that expire on Friday, Jan. 10, 2020.
+A debit spread is simply a way to lower the cost of buying options, as the option that you sell to open (short) helps offset the cost of the option that you buy to open. Therefore, this call debit spread is a way to lower the cost of buying bullish call options. Many brokers will require the use of margin and/or a set amount of reserved capital to execute a debit spread; contact your broker directly for specific requirements.
+InvestorPlace advisor Ken Trester also brings you Power Options Weekly , which delivers 5 new options trades and his latest trading advice to you each Friday. Trester has been trading options since the first exchanges opened in 1973 with a winning streak that goes back to 1984 with money-doubling average annual profits since 1990.
+Article printed from InvestorPlace Media, https://investorplace.com/2019/12/set-yourself-up-to-profit-from-the-russell-2000s-bullishness/.

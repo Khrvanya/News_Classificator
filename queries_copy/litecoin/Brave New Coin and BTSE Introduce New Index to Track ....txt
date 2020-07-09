@@ -1,0 +1,17 @@
+New Zealand-based Brave New Coin (BNC), a data and research firm focused on the blockchain and digital equities industry, has partnered with multi-currency futures exchange BTSE in order to release the BNC-BTSE Composite Index (BBCX).
+According to a press release shared with Crowdfund Insider, the BBCX index has been designed to track the real-time market performance of major crypto assets including Bitcoin (BTC), Ether (ETH), and Litecoin (LTC).
+As explained in the release:
+Commenting on the introduction of the new index, Fran Strajnar , CEO and founder at Brave New Coin, remarked:
+“As one of the first indexes in the world to track an array of crypto assets across a number of exchanges, this is not only a key milestone for BNC, as we continue to be a go-to source for real-time, accurate data but for the industry as a whole.”
+Strajnar, who’s also the founder of Techemy Ltd., a company that builds businesses in the blockchain industry, added:
+“Joining forces with BTSE, an industry leader to equip traders, investors, and analysts throughout the industry with the right tools to make informed and educated decisions, is another step forward to an advanced industry.”
+As mentioned in the release, the BBCX index will track the performance of several major digital assets by “free-float market capitalization,” which will be based on order book data that’s sourced from five different crypto exchanges, including Bitstamp, Bitfinex, BTSE, Kraken, and Coinbase Pro.
+“Free float market capitalization, expressed in USD, is used to determine the weights of each underlying asset. Asset weighting is set at the beginning of each quarter and will remain constant throughout the quarter.”
+The asset weightings for this quarter are set at 60% for BTC, 33.25% for ETH, and 6.75% for LTC. The index will be rebalanced, or adjusted, every quarter in order to reflect each underlying asset’s current market performance.
+BTSE’s chief product officer Brian Wong stated:
+“BNC’s and BTSE’s index futures enable crypto traders to speculate on the direction of the market as a whole. They provide portfolio managers an effective tool to hedge out beta risk.”
+BTSE presently offers futures and spot trading and multiple fiat on- and off-ramps. The exchange’s management says the trading platform is designed as a “one-stop solution” for professional and new traders to easily deposit, trade, convert, and withdraw crypto assets and fiat currencies.
+BTSE utilizes various different proven technologies from the institutional trading industry and the latest Bitcoin technology to provide a secure and efficient digital asset trading experience.
+The company created Futures 2.0, which are customizable futures contracts that let traders select and combine their margin and settlement assets.
+Brave New Coin’s extensive suite of market news, insights and analysis is available on Dow Jones’ Factiva. The company’s indices and market data are also used by Amazon Alexa, Nasdaq, TPICAP, Refinitiv, and several other vendors.
+The BBCX index is developed and managed by Brave New Coin and co-branded by BTSE.

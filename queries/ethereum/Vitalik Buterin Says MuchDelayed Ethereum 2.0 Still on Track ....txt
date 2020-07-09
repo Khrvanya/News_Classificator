@@ -1,0 +1,14 @@
+Please consider using a different web browser for better experience.
+Please enable JavaScript in your browser for a better site experience.
+Vitalik Buterin on stage at RadicalXchange 2019. (Credit: Christine Kim for CoinDesk)
+UPDATE (May 12, 23:33 UTC): After this article was published, Buterin said he did not hear the word “July” in the question about Eth 2.0’s progress and misspoke as a result. Read his full statement here .
+Vitalik Buterin said the Ethereum 2.0 protocol upgrade, which will change the consensus mechanism to proof-of-stake (PoS), is well on its way to launching sometime in July.
+Kicking off the Consensus: Distributed event Monday, the founder of Ethereum told CoinDesk’s Michael Casey and Zack Seward the testnet for Ethereum 2.0 was already live and the first phases of implementation began about a week ago.
+The Ethereum community started talking about replacing its proof-of-work (PoW) system – which is based on “work” done by miners and is also employed by the Bitcoin protocol – with PoS almost as soon as the network launched back in 2015.
+Sometimes known as Serenity, Ethereum 2.0 has long been subject to delays. Although originally slated for January 2020, it was pushed back to Q2, and then again to Q3 2020. July has been a target date for developers since the beginning of the year. Many appear to be eyeing a debut for July 30 to coincide with Ethereum’s fifth anniversary.
+At Consensus: Distributed, Buterin also said many Ethereum developer teams were busy working on a series of scaling initiatives that could be implemented soon after PoS had successfully launched.
+These include well-known techniques like sharding, which effectively divides consensus into small groups to speed up verification times, as well as new scaling solutions currently in testing. One is a layer-2 solution, Optimistic Rollup, that could “theoretically scale to over 1,000 transactions per second,” even in Ethereum’s existing iteration, according to Buterin.
+Speaking at Consensus: Distributed earlier on Monday, Ethereum co-founder and former CTO Gavin Wood, who is now the founder of Parity Technologies, criticized his former project for its poor governance structure, which he said makes it next to impossible for Ethereum to act on behalf of the stakeholder community.
+Other figures within the Ethereum community have also commented that Ethereum 2.0 could go live around July, as expected. At the Ethereal Summit last week, Ben Edgington of Eth 2.0 client operator Teku commented , “I’m 80-90 percent confident it will go live by Q3.”
+Video Ethereum Vitalik Buterin Consensus: Distributed
+The leader in blockchain news, CoinDesk is a media outlet that strives for the highest journalistic standards and abides by a strict set of editorial policies . CoinDesk is an independent operating subsidiary of Digital Currency Group, which invests in cryptocurrencies and blockchain startups.

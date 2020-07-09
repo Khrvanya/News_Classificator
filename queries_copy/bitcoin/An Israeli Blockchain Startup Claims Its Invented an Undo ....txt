@@ -1,0 +1,8 @@
+A two-year-old Israeli blockchain startup says it has found a way to cancel crypto transactions if they are sent to the wrong wallet address.
+Kirobo, a two-year-old Israeli blockchain startup, announced on Tuesday that it has found a way to tackle problems related to human error in cryptocurrency transactions.
+In a recent survey by the Fio Foundation, 55% of respondents reported experiencing stressful human errors when sending cryptocurrency, and 18% reported loss of funds due to such errors.
+As such, Kirobo has invented “Retrievable Transfer,” a way for senders to cancel a transaction that is sent to the wrong address. Kirobo provides a unique code to the sender and the receiver has to enter the matching password in order to receive the transfer.
+“Until the right code has been provided by the recipient, the sender can retrieve the funds at any time. [...] Kirobo does not hold the user’s private key and has no access whatsoever to the funds or their destination: the password simply governs whether the transfer is finalized or not,” the startup said.
+The platform has reportedly been audited by cyber intelligence company Scorpiones Group and is supported by the Israel Innovation Authority.
+The aim of its invention, according to Kirobo CEO Asaf Naim, is to make blockchain transactions as easy and secure as online banking. Retrievable Transfer is the first product released by Kirobo, which is looking to add a logic layer into blockchains that protects users from human error.
+Kirobo said the Retrievable Transfer feature is now available on the Ledger crypto wallet for Bitcoin ( BTC ) transactions, and will purportedly remain free for transaction amounts up to $1,000.

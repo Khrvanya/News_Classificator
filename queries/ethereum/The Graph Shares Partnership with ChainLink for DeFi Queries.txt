@@ -1,0 +1,24 @@
+By Cooper Turley June 9, 2020
+For all the DeFi projects we cover here on DeFi Rate , there are a select few unsung heroes playing a vital role in aggregation and proliferation of on-chain data that makes the ecosystem so unique. Yesterday, two of those projects – The Graph and Chainlink – have partnered up to take DeFi queries to the next level.
+We're excited to announce an integration with @chainlink allowing all indexed data from subgraphs to be potential data sources for Chainlink oracles.
+The Graph + Chainlink are critical middleware that make decentralized applications possible. 🚀 https://t.co/0KaXQSKuLi
+— The Graph (@graphprotocol) June 8, 2020
+For those unfamiliar with The Graph , the project is best known for subgraphs – or indexes of specifically defined data from the Ethereum blockchain. Subgraphs allow projects to make queries about unique data requests in a fraction of the time, all of which are pulled from onchain information by leveraging existing smart contracts. Using this data, projects can put together compelling UIs that display key metrics and growth statistics we commonly see on any application we visit.
+At the time of writing, top DeFi projects like Uniswap , Compound , Maker , Synthetix , Set Protocol , PoolTogether and Balancer all have a custom subgraph , giving anyone the ability to pull custom data requests without running a full node.
+With this new partnership, subgraph information can now be routed onchain using ChainLink oracles, creating an even more robust ecosystem in which DeFi protocols can leverage onchain metrics to better define their interactions within their product or platform.
+As I’m sure everyone reading knows, ChainLink is the market leader for bringing web2 data into the web3 ecosystem, namely through a robust set of reference indexes – like cryptocurrency price feeds – that power various sectors like DEXs and lending .
+Now, while we’ve seen a clear trend of projects creating their own set of oracles to mitigate third-party trust, it’s safe to assume not every project will have the resources to do so. Taking this a step further, ChainLink’s generalized oracle protocol provides the flexibility to route ANY information onchain, so long as the party making the request has LINK to do so.
+Now, by teaming up with The Graph, ChainLink can route crucial onchain metrics directly to projects in almost real-time – reducing latency to delivery DeFi protocols with critical information which better shapes the user experience. As outlined in the original post , examples of this include:
+Using subgraphs as APIs for integrating global, real-world (off-chain) data into dApps such as gaming results, user identities, off-chain financial assets and more
+As an end-user, it’s likely that you will never have to experience a subgraph or a ChainLink oracle first hand. What’s worth noting about this partnership is that the whole DeFi ecosystem just leveled up.
+Both in terms of the robustness of data and the efficiency in which it can be used to better shape your product experience, there’s no denying The Graph is playing a crucial role for the projects we cover each and every day. Don’t believe us? Here’s some community love showing exactly that.
+Really enjoyed working with @graphprotocol on this one! https://t.co/EIs7tvwYO2 https://t.co/MEKEl71n1h
+— SuhailG (@cryptonomik) June 9, 2020
+We have the concept of a tent at Framework. As more getting added to it, the returns from collaboration begin to compound.
+Couldn't be more excited to see the visions for @chainlink and @graphprotocol begin to align. Its a behemoth duo in the making. https://t.co/ALL92BIHgg
+— Michael Anderson (@im_manderson) June 8, 2020
+As outlined in the blog post, The Graph will soon unveil a decentralized network, giving projects the opportunity to offload hosting costs likely through a tokenized ecosystem. What this goes to say is that The Graph is only just getting started, and it’s likely that this time next year all of your favorite projects will be using it in some capacity.
+To stay up with both of The Graph and ChainLink , follow them on Twitter!
+Leave this field empty if you're human:
+Cooper is the Editor of DeFi Rate. He is an ambassador of Set Protocol and an active contributor to MetaCartel where he seeks to find emerging consumer-facing applications that propel the Ethereum ecosystem. He often works with projects as the Director of Fitzner Blockchain Consulting where he coauthors the weekly publication Token Tuesdays .
+Your email address will not be published. Required fields are marked *

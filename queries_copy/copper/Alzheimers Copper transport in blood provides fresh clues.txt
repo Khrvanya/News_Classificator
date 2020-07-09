@@ -1,0 +1,29 @@
+Written by James Kingsland on June 7, 2020 — Fact checked by Jessica Beake, Ph.D.
+Faulty regulation of copper levels in tissues plays a major role in a wide range of illnesses, including Alzheimer’s disease, Parkinson’s disease, and motor neuron disease. An investigation of molecules that carry copper in the bloodstream has provided new leads for diagnosis and treatment.
+A new study investigates copper’s role in disease.
+The metal copper is crucial for a healthy metabolism, and yet, scientists know surprisingly little about how the body transports it and maintains optimum levels in tissues.
+Bonded to protein molecules, copper is a vital component of numerous enzymes that catalyze key metabolic reactions.
+“Biochemists have known about the importance of copper in the human body for a long time, but even they do not know, for example, how this element reaches from our food to the right destinations, i.e., various copper enzymes,” says Prof. Peep Palumaa, head of the Research Group of Metalloproteomics at Tallinn University of Technology in Estonia.
+Copper is present in trace amounts throughout the body. The highest concentrations occur in areas of the body that have extremely high activity, such as the liver, brain, heart, kidneys, and skeletal muscle.
+Among its many roles, the metal is vital for producing energy during cell respiration, making red blood cells, mounting immune responses, and maintaining nerve cells.
+In excess, however, it can trigger the production of destructive free radicals and contribute to inflammation.
+Research has linked the faulty regulation of copper levels to several neurodegenerative illnesses, including Menkes syndrome , motor neuron disease, Parkinson’s disease, and Alzheimer’s disease.
+A study that Medical News Today reported on in 2013, for example, found that when copper accumulates in the brain, it promotes the development of the beta-amyloid plaques that are the hallmark of Alzheimer’s disease.
+The study found that copper not only inhibits the removal of soluble beta-amyloid molecules from the brain but also encourages them to clump together to form insoluble plaques.
+Biochemists have been trying to get a better grasp of how the body maintains optimum levels of copper in its tissues and what happens when this homeostatic process goes awry.
+The knowledge could help them develop new ways to diagnose, monitor, and treat diseases that involve the breakdown of copper homeostasis.
+As part of this endeavor, Prof. Palumaa and his colleagues wanted to find out how copper is transported around the body in the bloodstream.
+Unusually for science, they discovered that the process was less complicated than they had expected. Previously, biochemists believed that three proteins play a role in transporting copper, but, according to the new study, only one is a major player.
+To measure each protein’s affinity for copper — meaning how tightly it binds to copper ions — the researchers developed a new and innovative approach called liquid chromatography and ICP-MS (inductively coupled plasma mass spectrometry). These biochemical techniques separate and identify molecules that are present in trace amounts in a biological fluid, such as blood or cerebrospinal fluid.
+The scientists found that in the blood, about 75% of copper ions are bound to an enzyme called ceruloplasmin, while about 25% are bound to an enzyme called albumin.
+However, ceruloplasmin binds to copper so tightly that it is unlikely to play a role in transporting the metal to where it is needed. The enzyme’s main job appears to be helping another protein transport iron in the blood.
+Albumin, on the other hand, binds to copper much less strongly and is likely to be the principal copper transporter.
+The researchers found that a tiny proportion of copper in the blood (about 0.2%) also binds to an amino acid called histidine. They speculate that histidine acts as a catalyst, helping release copper from albumin when it reaches a destination such as the liver.
+Biochemists had assumed that a further protein, called alpha-2 macroglobulin, also transports copper. However, Prof. Palumaa and his colleagues report that in their experiments, it did not bind to copper in blood plasma in significant quantities.
+The research is a product of collaboration between scientists at Tallinn University of Technology and the Swedish pharmaceutical company Wilson Therapeutics AB.
+Wilson Therapeutics AB’s lead product is Decuprate, which is a promising therapeutic agent to treat Wilson’s disease, a rare genetic disorder that causes copper to accumulate in toxic quantities in the liver, brain, and other tissues.
+By binding to copper, Decuprate promotes its excretion from the body.
+In their paper, Prof. Palumaa and his colleagues say that their findings could make it possible to detect the disturbances in copper metabolism that characterize diseases such as Wilson’s and Alzheimer’s.
+Their research could also provide new ways to monitor the effectiveness of drugs such as Decuprate in regulating copper levels.
+“[Our] research findings can be used for various applications. First, they help to understand the normal copper metabolism in the body, which has a direct diagnostic value. Second, these results also help to identify disturbances in the body’s copper metabolism. The latter occur in several genetic diseases, such as Wilson’s and Menkes disease, as well as the most common neurodegenerative disease — Alzheimer’s disease.”
+He continues, “In addition to specific diagnoses, the effect of pharmaceuticals normalizing copper metabolism that are used for the treatment of the abovementioned diseases can also be monitored through copper equilibrium in blood.”

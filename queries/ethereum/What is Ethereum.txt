@@ -1,0 +1,228 @@
+Please consider using a different web browser for better experience.
+Please enable JavaScript in your browser for a better site experience.
+Before you can understand ethereum, it helps to first understand the internet.
+Today, our personal data, passwords and financial information are all largely stored on other people’s computers – in clouds and servers owned by companies like Amazon, Facebook or Google. Even this CoinDesk article is stored on a server controlled by a company that charges to hold this data should it be called upon.
+This setup has a number of conveniences, as these companies deploy teams of specialists to help store and secure this data, and remove the costs that come with hosting and uptime.
+But with this convenience, there is also vulnerability. As we’ve learned, a hacker or a government can gain unwelcome access to your files without your knowledge, by influencing or attacking a third-party service – meaning they can steal, leak or change important information.
+Brian Behlendorf, creator of the Apache Web Server, has gone so far as to label this centralized design the “original sin” of the Internet. Some like Behlendorf argue the Internet was always meant to be decentralized, and a splintered movement has sprung up around using new tools, including blockchain technology, to help achieve this goal.
+Ethereum is one of the newest technologies to join this movement.
+While bitcoin aims to disrupt PayPal and online banking, ethereum has the goal of using a blockchain to replace internet third parties — those that store data, transfer mortgages and keep track of complex financial instruments.
+In short, ethereum wants to be a ‘World Computer’ that would decentralize – and some would argue, democratize – the existing client-server model.
+The vision is that ethereum would enable this same functionality to people anywhere around the world, enabling them to compete to offer services on top of this infrastructure.
+Scrolling through a typical app store, for example, you’ll see a variety of colorful squares representing everything from banking to fitness to messaging apps. These apps rely on the company (or another third-party service) to store your credit card information, purchasing history and other personal data – somewhere, generally in servers controlled by third-parties.
+Your choice of apps is of course also governed by third parties, as Apple and Google maintain and curate (or in some cases, censor) the specific apps you’re able to download.
+Take the example of an online document service like Evernote or Google Docs.
+Ethereum, if all goes according to plan, would return control of the data in these types of services to its owner and the creative rights to its author.
+The idea is that one entity will no longer have control over your notes and that no one could suddenly ban the app itself, temporarily taking all of your notebooks offline. Only the user can make changes, not any other entity.
+In theory, it combines the control that people had over their information in the past with the easy-to-access information that we’re used to in the digital age. Each time you save edits, or add or delete notes, every node on the network makes the change.
+It’s worth noting that the idea has been met with skepticism.
+Although the apps appear to be possible, it’s unclear which blockchain applications will actually prove useful, secure, or scalable, and if they will ever be as convenient to use as the apps we use today.
+The leader in blockchain news, CoinDesk is a media outlet that strives for the highest journalistic standards and abides by a strict set of editorial policies . CoinDesk is an independent operating subsidiary of Digital Currency Group, which invests in cryptocurrencies and blockchain startups.
+The thought of using ethereum might sound intimidating, but it could be rewarding.
+If the ‘unstoppable world computer’ develops according to plan, it could provide alternatives to the Facebooks and Googles that many people use everyday (as explained in “ What is Ethereum? “).
+Ethereum might not be as intuitive as the web as we know it today, but still, anyone with a computer or a smartphone can try the platform out as long as they own ‘ ether ‘ – unique pieces of code that allow updates to the blockchain’s ledger.
+One caveat is that losing your private key is a much bigger deal than misplacing a password: it means losing your ether, forever.
+Removing trusted parties is a two-edged sword. While intermediaries are no longer needed to verify transactions, there’s no help desk to turn to for help recovering your secret key.
+With that in mind, there are plenty of options for wallets to store cryptocurrency: desktop wallets, web wallets, hardware wallets and paper wallets.
+Choosing one depends on your preferences for convenience and security. Usually these two concepts are at odds with one another: the more convenient, the worse the security (and vice versa).
+Desktop wallets run on your PC or laptop. One option is to download an ethereum client (a copy of the entire ethereum blockchain). There are a few ethereum clients written in different programming languages and with different performance tradeoffs.
+This process can take up to a couple days, and will only increase as ethereum grows. The wallet then needs to stay in sync with the latest transactions on the blockchain.
+Mobile clients, or ‘light’ clients, require less data to be downloaded to connect to the network and make transactions, so they are more suitable for download to a smart phone.
+The light client option is more convenient, but not quite as safe. Full ethereum clients offer a more secure way of receiving transactions because they do not need to trust miners or nodes to send them accurate information – they validate transactions themselves.
+Storing private keys on a device that is detached from the internet (a method known as ‘cold storage’) is harder to hack and is best used for storing large ether holdings.
+However, the method is not as easy to use as when ether is stored on a smartphone or internet-connected computer.
+Hardware wallets, which are often as small as a finger or two, arguably offer the best of both worlds. These secure devices that can often be detached from the internet, and can sign transactions without being online.
+But again, this deposit-box-like system is not a good option if you want to use ether frequently or on the move.
+Another cold storage option is to print or carefully handwrite a private key on a slip of paper, a ‘paper wallet’, and lock it somewhere secure like a deposit box. Online tools can generate key pairs directly on your computer – not on a website’s servers, which could leave keys vulnerable if the site is hacked.
+It’s also possible to generate keys using the command line, provided you have the necessary cryptographic packages installed for your preferred language.
+All that said, again, if you lose your private key, it’s gone for good.
+So, best practice is to spend some extra time creating multiple copies of the private key and stashing them in different secure locations, in case one is lost or destroyed.
+Obtaining ether varies by country, or at least by currency. You need to find someone either online or in-person who has ether and wants to trade.
+There’s always the option of meeting in-person to buy or sell ether, especially if living in a city with frequent ethereum meetups, such as New York or Toronto.
+That’s not always an option in less populated areas. Exchanges allow users to buy ether directly with dollars or bitcoin. Typically there is a sign-up process.
+Buying ether with another currency might take an extra step.
+Bitcoin is the most commonly used cryptocurrency, and people around the world are more likely to want to trade for it in their currency. So, if you want to buy ether for rubles, for instance, the easiest way might be to purchase bitcoin at an exchange and then trade that for ether.
+Once you have ether, you can send it directly to another person (‘peer-to-peer’). It will likely cost a small transaction fee paid to miners.
+What can users do once they have ether?
+You may have noticed that the wallet and exchange lingo up to this point has been quite similar to bitcoin. But ethereum applications are quite different.
+Bundles of smart contracts can be used to create decentralized applications (‘dapps’), which you can use or join.
+But before we go any further, it’s worth explaining a little bit about how it works. Ethereum and other cryptocurrencies have an admittedly confusing storage system.
+Perhaps it’s useful to compare it to what we already know.
+Notice the string of numbers on the front of your credit card? It’s necessary for banks to determine where they should send money when the card is swiped. Cryptocurrencies allow you to generate similar identification numbers that identify where to debit funds.
+In this system, there are two main components that users need for identification: the public key and the private key. Usually represented as a scrambled string of numbers and letters, the two keys are linked together by cryptography.
+The public key can be sent to others so that they know where to send your money. If you want people to send you ether, you need an address: a scrambled string of letters and numbers derived from the similarly scrambled public key, for people to send coins to.
+To spend ether, you need to sign over the funds with your private key, which, as the name implies, is similar to a password. In the credit card analogy, it’s similar to the pin used to unlock your funds at the ATM or in a store.
+So, what’s the benefit of this system? One key difference in open blockchains (such as bitcoin and ethereum) is that users can generate an identification number for their funds at any time. They don’t need to wait for a bank to approve a bank account application and present the credit card.
+The leader in blockchain news, CoinDesk is a media outlet that strives for the highest journalistic standards and abides by a strict set of editorial policies . CoinDesk is an independent operating subsidiary of Digital Currency Group, which invests in cryptocurrencies and blockchain startups.
+Now that we’ve covered what ethereum is, let’s dive deeper into how the platform functions under the hood.
+Consider the online notebook application described in “ What is Ethereum? “
+Using ethereum, the app doesn’t require one entity to store and control its data. To accomplish this, ethereum borrows heavily from bitcoin’s protocol and its blockchain design, but tweaks it to support applications beyond money.
+Ethereum aims to abstract away bitcoin’s design, however, so that developers can create applications or agreements that have additional steps, new rules of ownership, alternative transaction formats or different ways to transfer state.
+The goal of ethereum’s ‘Turing-complete’ programming language is to allow developers to write more programs in which blockchain transactions could govern and automate specific outcomes.
+This flexibility is perhaps ethereum’s primary innovation, as explained in the guide “ How Ethereum Smart Contracts Work “.
+The structure of the ethereum blockchain is very similar to bitcoin’s, in that it is a shared record of the entire transaction history. Every node on the network stores a copy of this history.
+The big difference with ethereum is that its nodes store the most recent state of each smart contract, in addition to all of the ether transactions. (This is much more complicated than described, but the text below should help you get your feet wet.)
+For each ethereum application, the network needs to keep track of the ‘state’, or the current information of all of these applications, including each user’s balance, all the smart contract code and where it’s all stored.
+Bitcoin uses unspent transaction outputs to track who has how much bitcoin.
+While it sounds more complex, the idea is fairly simple. Every time a bitcoin transaction is made, the network ‘breaks’ the total amount as if it was paper money, issuing back bitcoins in a way that makes the data behave similarly to physical coins or change.
+To make future transactions, the bitcoin network must add up all your pieces of change, which are classed as either ‘spent’ or ‘unspent’.
+Like bank account funds, ether tokens appear in a wallet, and can be ported (so to speak) to another account. Funds are always somewhere, yet don’t have what you might call a continued relationship.
+With ethereum, every time a program is used, a network of thousands of computers processes it.
+Contracts written in a smart contract-specific programming languages are compiled into ‘bytecode’, which a feature called the ‘ethereum virtual machine’ (EVM) can read and execute.
+All the nodes execute this contract using their EVMs.
+Remember that every node in the network holds a copy of the transaction and smart contract history of the network, in addition to keeping track of the current ‘state’. Every time a user performs some action, all of the nodes on the network need to come to agreement that this change took place.
+The goal here is for the network of miners and nodes to take responsibility for transferring the shift from state to state, rather than some authority such as PayPal or a bank. Bitcoin miners validate the shift of ownership of bitcoins from one person to another. The EVM executes a contract with whatever rules the developer initially programmed.
+Actual computation on the EVM is achieved through a stack-based bytecode language (the ones and zeroes that a machine can read), but developers can write smart contracts in high-level languages such as Solidity and Serpent that are easier for humans to read and write.
+As explained in our guide “ How Ethereum Mining Works “, miners are the ones that are preventing bad behavior – like ensuring that no one is spending their money more than once and rejecting smart contracts that haven’t been paid for.
+There are a few thousand ethereum nodes out there, and every node is compiling and executing the same code.
+But, you might be thinking, isn’t that much more expensive than a normal computation? Yes, it is. That’s why the network might only be used only for particular use cases.
+The official ethereum dev tutorial concedes this inefficiency, stating:
+The leader in blockchain news, CoinDesk is a media outlet that strives for the highest journalistic standards and abides by a strict set of editorial policies . CoinDesk is an independent operating subsidiary of Digital Currency Group, which invests in cryptocurrencies and blockchain startups.
+What is a Decentralized Application?
+Internet users don’t have sole control over the data they share on today’s websites.
+Ethereum is unique in that it attempts to wield the blockchain as a way to correct what its designers believe is a problematic part of the internet’s design.
+It’s like a “decentralized appstore” where anyone can publish their unstoppable apps (dapps), which unlike today’s apps (think Gmail or Uber) don’t require a middleman to function or to manage a user’s information.
+Dapps connect users and providers directly.
+One example is to use this design for a decentralized Twitter that’s resistant to censorship. Once you publish a message to the blockchain, it can’t be erased, not even by the company that created the microblogging system.
+There isn’t one definition of a dapp, though, as it’s a newer concept.
+A couple of main characteristics are that they’re open source and don’t have a central point of failure.
+With this new technology out in the wild, ethereum advocates might feel electrified by the thought of decentralizing “all the things.” But the types of applications that users can build with the computing platform might be somewhat narrow.
+The ethereum white paper splits dapps into three types: apps that manage money, apps where money is involved (but also requires another piece), and apps in the “other” category, which includes voting and governance systems.
+In the first type of app, a user may need to exchange ether as a way to settle a contract with another user, using the network’s distributed computer nodes as a way to facilitate the distribution of this data.
+The second type of app mixes money with information from outside the blockchain.
+For example, a crop insurance application that’s dependent on an outside weather feed. (Say a farmer buys a derivative that automatically pays out if there’s a drought that impacts his work.)
+To execute, these smart contracts rely on so-called “oracles” that relay up-to-date information about the outside world. (Though, it’s worth noting that some developers are skeptical that this use case can be done in a decentralized way.)
+If bitcoin can do away with financial authorities, is it possible to do the same for companies and other types of organizations?
+Decentralized autonomous organizations are one particularly ambitious breed of dapp (this is explained further in ‘ What is a DAO? ‘).
+The goal is form a leaderless company, program rules at the beginning about how members can vote and how to release company funds and then… let it go.
+The leader in blockchain news, CoinDesk is a media outlet that strives for the highest journalistic standards and abides by a strict set of editorial policies . CoinDesk is an independent operating subsidiary of Digital Currency Group, which invests in cryptocurrencies and blockchain startups.
+How Do Ethereum Smart Contracts Work?
+Like many ideas in the blockchain industry, a general confusion shrouds so called ‘smart contracts’.
+A new technology made possible by public blockchains, smart contracts are difficult to understand because the term partly confuses the core interaction described.
+While a standard contract outlines the terms of a relationship (usually one enforceable by law), a smart contract enforces a relationship with cryptographic code.
+Put differently, smart contracts are programs that execute exactly as they are set up to by their creators.
+First conceived in 1993, the idea was originally described by computer scientist and cryptographer Nick Szabo as a kind of digital vending machine. In his famous example , he described how users could input data or value, and receive a finite item from a machine, in this case a real-world snack or a soft drink.
+In a simple example, ethereum users can send 10 ether to a friend on a certain date using a smart contract (See our guide “ What is Ether? “).
+In this case, the user would create a contract, and push the data to that contract so that it could execute the desired command.
+Ethereum is a platform that’s built specifically for creating smart contracts.
+But these new tools aren’t intended to be used in isolation. It is believed that they can also form the building blocks for ‘decentralized applications’ (See: “ What is a Dapp? “) and even whole decentralized autonomous companies (See: “ What is a DAO? ‘)
+It’s worth noting that bitcoin was the first to support basic smart contracts in the sense that the network can transfer value from one person to another. The network of nodes will only validate transactions if certain conditions are met.
+But, bitcoin is limited to the currency use case.
+By contrast, ethereum replaces bitcoin’s more restrictive language (a scripting language of a hundred or so scripts) and replaces it with a language that allows developers to write their own programs.
+Ethereum allows developers to program their own smart contracts, or ‘autonomous agents’, as the ethereum white paper calls them. The language is ‘Turing-complete’, meaning it supports a broader set of computational instructions.
+Store information about an application, such as domain registration information or membership records.
+Extrapolating that last point, smart contracts are likely to need assistance from other smart contracts.
+When someone places a simple bet on the temperature on a hot summer day, it might trigger a sequence of contracts under the hood.
+One contract would use outside data to determine the weather, and another contract could settle the bet based on the information it received from the first contract when the conditions are met.
+Running each contract requires ether transaction fees, which depend on the amount of computational power required.
+As explained in our guide “ How Ethereum Works “, ethereum runs smart contract code when a user or another contract sends it a message with enough transaction fees.
+The Ethereum Virtual Machine then executes smart contracts in ‘bytecode’, or a series of ones and zeroes that can be read and interpreted by the network.
+The leader in blockchain news, CoinDesk is a media outlet that strives for the highest journalistic standards and abides by a strict set of editorial policies . CoinDesk is an independent operating subsidiary of Digital Currency Group, which invests in cryptocurrencies and blockchain startups.
+Today, miners play an important role in making sure ethereum works.
+This role isn’t immediately obvious, though.
+Many new users think that the sole purpose of mining is to generate ethers in a way that doesn’t require a central issuer (see our guide “ What is Ether? “). This is true. Ethereum’s tokens are created through the process of mining at a rate of 5 ether per mined block. But mining also has another at least as important role.
+Usually, banks are in charge of keeping accurate records of transactions. They ensure that money isn’t created out of thin air, and that users don’t cheat and spend their money more than once.
+Blockchains, though, introduce an entirely new way of record-keeping, one where the entire network, rather than an intermediary, verifies transactions and adds them to the public ledger.
+Although a ‘trustless’ or ‘trust-minimizing’ monetary system is the goal, someone still needs to secure the financial records, ensuring that no one cheats.
+Mining is one innovation that makes decentralized record-keeping possible.
+Miners come to consensus about the transaction history while preventing fraud (notably the double spending of ethers) – an interesting problem that hadn’t been solved in decentralized currencies before proof-of-work blockchains.
+Although ethereum is looking into other methods of coming to consensus about the validity of transactions, mining currently holds the platform together.
+For each block of transactions, miners use computers to repeatedly and very quickly guess answers to a puzzle until one of them wins.
+More specifically, the miners will run the block’s unique header metadata (including timestamp and software version) through a hash function (which will return a fixed-length, scrambled string of numbers and letters that looks random), only changing the ‘nonce value’, which impacts the resulting hash value.
+If the miner finds a hash that matches the current target, the miner will be awarded ether and broadcast the block across the network for each node to validate and add to their own copy of the ledger. If miner B finds the hash, miner A will stop work on the current block and repeat the process for the next block.
+It’s difficult for miners to cheat at this game. There’s no way to fake this work and come away with the correct puzzle answer. That’s why the puzzle-solving method is called ‘proof-of-work’.
+On the other hand, it takes almost no time for others to verify that the hash value is correct, which is exactly what each node does.
+Approximately every 12–15 seconds, a miner finds a block. If miners start to solve the puzzles more quickly or slowly than this, the algorithm automatically readjusts the difficulty of the problem so that miners spring back to roughly the 12-second solution time.
+The miners randomly earn these ether, and their profitability depends on luck and the amount of computing power they devote to it.
+The specific proof-of-work algorithm that ethereum uses is called ‘ethash’, designed to require more memory to make it harder to mine using expensive ASICs – specialized mining chips that are now the only profitable way of mining bitcoin.
+In a sense, ethash might have succeeded in that purpose, since dedicated ASICs aren’t available to mine ethereum (at least not yet).
+Furthermore, since ethereum aims to transition from proof-of-work mining to ‘proof of stake’ – which we discuss below – buying an ASIC might not be a smart option since it likely won’t prove useful for long.
+Ethereum might not need miners forever, though.
+Developers plan to ditch proof-of-work, the algorithm that the network currently uses to determine which transactions are valid and protect it from tampering, in favor of proof of stake, where the network is secured by the owners of tokens.
+If and when that algorithm is rolled out, proof-of-stake could be a means for achieving distributed consensus that uses fewer resources.
+The leader in blockchain news, CoinDesk is a media outlet that strives for the highest journalistic standards and abides by a strict set of editorial policies . CoinDesk is an independent operating subsidiary of Digital Currency Group, which invests in cryptocurrencies and blockchain startups.
+Like other public blockchains, ethereum intends to support as many users as it can.
+The problem is that, today, we don’t really know the limits of the platform.
+Because of a hard-coded limit on computation per block, the ethereum blockchain currently supports roughly 15 transactions per second compared to, say, the 45,000 processed by Visa.
+This limitation of ethereum and other blockchain systems has long been the subject of discussion by developers and academics.
+While ethereum developers might like to highlight how the flexible smart contract platform differs from bitcoin, for example, it isn’t unique in regards to scalability.
+As disappointing as that might sound, there’s hope in proposed solutions that haven’t made it into the official software yet.
+Why is scaling so difficult?
+Ethereum and bitcoin use a combination of technical tricks and incentives to ensure that they accurately record who owns what without a central authority.
+That’s because ethereum depends on a network of “nodes,” each of which stores the entire ethereum transaction history and the current ‘state’ of account balances, contracts and storage. This is obviously a cumbersome task, especially since the total number of transactions is increasing approximately every 10–12 seconds with each new block.
+The worry is that, if developers raise the size of each block to fit more transactions, the data that a node will need to store will grow larger – effectively kicking people off the network. If each node grows large enough, only a few large companies will have the resources to run them.
+Despite the inconvenience, running a full node is the best way for users to take advantage of privacy and security. Making full nodes more difficult to run would further limit the number of people that can verify transactions themselves.
+In other words, decentralization and scalability are currently at odds, but developers are looking for ways around this.
+There are a few ethereum scaling projects in the works, each of which tackles a different scalability problem.
+As mentioned, one problem is that each node needs to store the updated state of each account on the network. “Sharding” draws from a traditional scaling technique called “database sharding,” which effectively breaks a database into pieces and puts each part on a different server.
+The goal of sharding is to move away from requiring “full” nodes – those which store the full state of the network and every transaction that occurs.
+Instead, each node stores a subset of this data and only verifies those transactions. If a node needs to know about transactions or blocks that it doesn’t store, then it finds another node with the information it needs.
+The problem here is that the process isn’t exactly trustless, since, in this model, nodes need to rely on other nodes.
+Ethereum wants to solve this problem using “cryptoeconomic incentives” that drive actors in a system to act a certain way – in this case, ensuring that nodes are passing on valid information to other nodes.
+A possibly more ambitious capacity-expanding technology borrows from bitcoin’s Lightning Network, a proposed top-layer to the blockchain that mirrors how the multi-layered internet works.
+Lightning-style “off-chain” transactions could bring the technology’s capabilities closer to how users were told it was “supposed to be” – fast and nearly limitless in supply, while still not requiring users to trust any intermediary.
+According to this vision, most transactions will be made on off-chain micropayment channels, lifting the burden from the underlying blockchain.
+The reason that this works, in theory, is that either party can kick the transaction back to the blockchain anytime they want, giving both parties the ability to end the interaction.
+With this add-on, ethereum’s computational limit doesn’t need to increase too much, and the hope is that it will still be reasonable for regular ethereum enthusiasts to run a full node.
+How long will it take to scale?
+This is a tricky question, as there’s still a lot of experimentation happening on the scaling front.
+In creator Vitalik Buterin’s words, the long-term goal is for the platform to be able to process transactions at “Visa-scale transaction levels” or beyond.
+However, as skeptical observers are keen to point out , this is based on Buterin’s analysis, and on techniques that have yet to be deployed on a public blockchain.
+In sum, although ethereum currently can only handle a handful of transactions per second, its architects have high hopes for the future.
+The leader in blockchain news, CoinDesk is a media outlet that strives for the highest journalistic standards and abides by a strict set of editorial policies . CoinDesk is an independent operating subsidiary of Digital Currency Group, which invests in cryptocurrencies and blockchain startups.
+Now that you know “ How Ethereum Mining Works “, you may want to know how to compete in the race to mine ether yourself.
+To recap, mining is the glue that holds ethereum’s ‘decentralized app store’ together by ensuring that it comes to consensus on each change to any of the applications (dapps) running on the network.
+Take the online notebook described in “ What is Ethereum? “. The network would not come to consensus about the ‘state’ of the notebook (say, if a note is added or deleted) without the computational power to process the changes.
+Miners set computers loose to solve cryptographic puzzles in an attempt to win ether, and they need to try a huge number of computational problems until one unlocks a new batch of the asset.
+One of the interesting things about open blockchains is that, in theory, anyone can set their computers to focus on these cryptographic puzzles as a way to win rewards.
+The catch is that mining on major public blockchains tends to require more and more power over time, as more people invest in more powerful hardware.
+In this day and age, those mining with low-powered setups are unlikely to win, but it’s still a viable past-time for hobbyists and enthusiasts alike.
+Before getting started, you will need special computer hardware to dedicate full-time to mining.
+There are two types of mining hardware: CPUs and GPUs. GPUs boast a higher hash rate, meaning they can guess puzzle answers more quickly. At time of writing, GPUs are now the only option for ether miners.
+Settling on a GPU is a complex task and you can browse plenty of advice about which ones are the most profitable based on hash rate performance, power consumption and the initial expense of the card. You probably want to set up a mining rig , a machine that might be composed of multiple GPUs and might take a week to build.
+Mining profitability calculators show the likely amount of ether you’ll earn at a given hash rate, and whether that ether is enough, when set against setup and electricity costs, to make a profit.
+Unlike bitcoin, powerful and fast ethereum ASICs aren’t available right now.
+After selecting some mining hardware, the next step is to install the mining software. First off, miners need to install a client to connect to the network.
+Programmers familiar with the command line can install geth , which runs an ethereum node written in the scripting language ‘Go’, or any of a number of clients.
+Download Geth here , using the directions for your appropriate operating system (Windows, Mac OS, or Linux), unzip it and run it.
+Once installed, your node can ‘talk’ to other nodes, connecting it to the ethereum network. In addition to mining ether, it provides an interface for deploying your own smart contracts and sending transactions using the command line.
+Mining on a test network doesn’t require any fancy hardware, just a home computer with geth or another client installed. But, minting fake ether obviously isn’t going to be very lucrative.
+If you’re interested in mining ‘real’ ether, you need to install mining software.
+Now that you’ve downloaded a client and your node is a part of the network, you can download Ethminer. Find the download for your appropriate version of Windows here , or GPU mining instructions for other operation systems here .
+Once installed, your node will officially play a part in securing the ethereum network. For more detailed instructions on any of the above, visit the official ethereum website .
+As a miner, you’re unlikely to be able to mine ether on your own.
+That’s why miners ‘pool’ together their computational power into ‘mining pools’, to improve their chances of solving the cryptographic puzzles and earning ether. Then, they split the profits proportional to how much power each miner contributed.
+There are many factors involved in joining a mining pool. Each pool might not be around forever, and the computational power of each pool is constantly changing, so there are a number of factors that go into deciding which to join.
+One point to keep in mind is that mining pools have different payout structures.
+Mining pools will have some sort of a signup process on the website so that miners can connect to the pool and begin mining.
+Keep in mind, though, the mining world is a whirlwind of change. The tools that you pick up today might be obsolete next year, and some mining pools might fall away while others emerge, so it’s worth keeping aware of industry shifts.
+The leader in blockchain news, CoinDesk is a media outlet that strives for the highest journalistic standards and abides by a strict set of editorial policies . CoinDesk is an independent operating subsidiary of Digital Currency Group, which invests in cryptocurrencies and blockchain startups.
+As we explored in “ What is Ethereum? “, ethereum aims to function both as a kind of decentralized internet and a decentralized app store, supporting a new type of application (a “dapp”) in the process.
+But while no one owns ethereum, the system that supports this functionality isn’t free. Rather, the network needs ‘ether’, a unique piece of code that can be used to pay for the computational resources needed to run an application or program.
+Like bitcoin, ether is a digital bearer asset (similar to a security, like a bond, issued in physical form). Just like cash, it doesn’t require a third party to process or approve a transaction.
+But instead of operating as a digital currency or payment, ether seeks to provide “fuel” for the decentralized apps on the network.
+While this might sound complicated, you can think of a more concrete example of how tokens might power a user experience.
+Let’s go back to the example of a decentralized online notebook. To post, delete or modify a note, you need to pay a transaction fee in ether to get the network to process the change.
+In this way, ‘ether’ has sometimes been called ‘digital oil’, and taking this analogy further, ethereum transaction fees are calculated based on how much ‘gas’ the action requires.
+Each action costs an amount of gas that’s based on the computational power required and how long it takes to run. A transaction costs 500 gas, for example, which is paid in ether.
+As an economic system, the rules for ether’s economy are a bit open-ended. While bitcoin has a hard cap of 21 million bitcoins, ether does not have a similar limit.
+Of the ether that does exist, 60m was purchased by users in a 2014 crowdfunding campaign.
+Another 12m ether went to the Ethereum Foundation , a group of researchers and developers working on the underlying technology. Every 12 seconds, 5 ethers (ETH) are also allotted to the miners that verify transactions on the network.
+Eighteen million ether, at most, are mined per year. Five ether are created roughly every 12 seconds, whenever a miner discovers a block, or a bundle of transactions.
+So, no one knows the total number of ether yet, and the pace of ether creation will be less clear after 2017 when ethereum plans to move to a new proof-of-stake consensus algorithm.
+This will probably lead to a change in the rules of ether creation, and thus the mining subsidy might decrease.
+The leader in blockchain news, CoinDesk is a media outlet that strives for the highest journalistic standards and abides by a strict set of editorial policies . CoinDesk is an independent operating subsidiary of Digital Currency Group, which invests in cryptocurrencies and blockchain startups.
+In 2008, an unknown developer (or developer group) invented bitcoin as a new way to send value over the internet. Four years later, a 19-year-old dreamed up a new platform based off of this innovation in an effort to transform the internet entirely.
+Vitalik Buterin, a programmer from Toronto, first grew interested in bitcoin in 2011.
+He co-founded the online news website Bitcoin Magazine in the same year, writing hundreds of articles on the cryptocurrency world. He went on to code for the privacy-minded Dark Wallet and the marketplace Egora.
+Along the way, he came up with the idea of a platform that would go beyond the financial use cases allowed by bitcoin. He released a white paper in 2013 describing an alternative platform designed for any type of decentralized application developers would want to build. The system was called ethereum.
+Ethereum makes it easy to create smart contracts, self-enforcing code that developers can tap for a range of applications.
+For his work, Buterin was named a 2014 Thiel fellow , a contest that awards winners $100,000.
+After Buterin unveiled the ethereum white paper, other developers joined ranks.
+Co-founder Dr Gavin Wood wrote the ethereum yellow paper, the “technical bible” that outlines the specification for the ethereum virtual machine (EVM) that handles the state of the ledger and runs smart contracts, for example (see: How Ethereum Works ).
+Co-founder Joseph Lubin went on to found the Brooklyn-based ConsenSys, a startup that focuses on building decentralized apps.
+To get the project off the ground, Buterin and the other founders launched a crowdfunding campaign in July 2014 where participants purchased ether, or the ethereum tokens that function as shares in the project. (See: What is Ether? ).
+Raising more than $18m, it was then the most successful crowdsale to date at the time. It took another year, but the first live release, Frontier , launched on 30th July, 2015. It wasn’t a sexy platform, but the command line interface offered developers a platform for creating their own decentralized apps.
+The smart contract platform took off, swelling into today’s ecosystem of hundreds of developers and even drawing the attention of tech giants like IBM and Microsoft.
+The funds from ethereum’s initial $18m crowdsale and project development are now managed by the Ethereum Foundation, a non-profit entity based in Switzerland.
+The leader in blockchain news, CoinDesk is a media outlet that strives for the highest journalistic standards and abides by a strict set of editorial policies . CoinDesk is an independent operating subsidiary of Digital Currency Group, which invests in cryptocurrencies and blockchain startups.

@@ -1,0 +1,49 @@
+What is a cryptocurrency price index?
+How is it different from a traditional stock market index?
+What information can you expect to find on a cryptocurrency price index?
+Where do they get their data from?
+What type of data do the indexes collect?
+How do they use the data to calculate the price of a specific cryptocurrency?
+How accurate are the prices on cryptocurrency indexes?
+What is a cryptocurrency price index?
+It&rsquo;s a website or platform that lists the price and capitalization info of various cryptocurrencies.
+Popular examples are CoinMarketCap , WorldCoinIndex and CryptoCompare . These sites are mainly used for the instant price information they provide on multiple cryptocurrencies but are also a good source of information for benchmarking, monitoring and comparing the growth of the various cryptocurrency assets.
+Depending on the listing criteria of individual price indexes, they might provide details on all coins and tokens available on the market or just certain ones which comply with the criteria, such as being available on public exchanges with a sufficient level of trading volume.
+Most reputable crypto price indexes will, however, list the majority of coins available on the market and are, therefore, a good way of keeping your finger on the pulse of the entire cryptocurrency market at any given time, without having to manually compile data from hundreds of individual cryptocurrency exchanges.
+How is it different from a traditional stock market index?
+It is essentially the same principal.
+Both indicate the financial health of an industry in which an investor has invested.
+The biggest difference is, of course, the fact that traditional stock market indexes list the price info for shares in companies while crypto indexes list price info for cryptocurrency assets of the various blockchain-based networks.
+Another difference is, where cryptocurrency price indexes tend to list the majority of crypto tokens available on the open market, traditional stock market indexes will only list a limited number of stocks, with some common denominator between them -- usually type of sector or size of company. These indexes are often seen as a snapshot to help investors gauge the health of the overall market.
+The Standard &amp; Poor's 500 Index (S&amp;P 500) in the United States lists the 500 largest U.S. companies by market value, while the Financial Times Stock Exchange 100 (FTSE 100) is composed of 100 of the largest companies listed on the London Stock Exchange (by market capitalization).
+On the other hand, the FTSE techMARK 100 represents only the top 100 innovative technology companies from the London Stock Exchange while the S&amp;P Global 1200 Information Technology Index lists only companies in the IT sector.
+What information can you expect to find on a cryptocurrency price index?
+The focus is on price and trading-related information.
+Commonly, you will find the current market price of the respective cryptocurrencies, the market cap &mdash; i.e., the current price multiplied by the circulating supply &mdash; and the 24H Volume, which is the total trading volume of the specific coin across the various markets in the last 24 hours.
+You can generally also click on individual coins to find more detailed information. This could include the current circulating and maximum supplies of the cryptocurrency, a graph that tracks the price performance over time and a list of all the markets or exchanges in which the coin can be traded.
+Although this is some of the common information you can expect to find, every platform is different and will provide different information, depending on their user base. If a specific index targets day traders, for example, it might display the highest and lowest price a coin has achieved over the last 24 hours, while another platform that is more attuned to the needs of long-term investors might provide information on specific features of the coin, such as whether it is a proof-of-work (PoW) or proof-of-stake (PoS) coin, whether it is focussed on remittance or tokenization of assets, etc.
+Where do they get their data from?
+The most common data sources are cryptocurrency exchanges.
+Cryptocurrency exchanges are ground zero for the majority of trading activity. It is where the price of a coin gets established, depending on the buy and sell price traders are willing to accept at any one point in that specific market. Exchange prices are therefore the most accurate representation of a coin&rsquo;s achievable market value and the best place to glean data from.
+Prices might vary slightly from exchange to exchange, depending on the specific market, so crypto price indexes will generally collect data from multiple exchanges to get the most accurate price. You can see which exchanges an index used to collect data from by clicking on the markets tab of a specific coin. This will display a list of exchanges the coin is traded on and from where the index has gathered the information.
+A commonly traded coin, like Bitcoin , will have several hundred markets, while IOTA &mdash; although still a popular coin &mdash; can have as little as 30 markets.
+The exchanges make trading data available through open APIs (Application Programming Interface) that makes it easy for indexes to collect the necessary data.
+An API is simply a mechanism that enables different software to communicate and exchange data or messages in a standard format. It&rsquo;s like a messenger running back and forth between applications, databases and devices to create a connection and deliver data.
+What type of data do the indexes collect?
+The type of data will depend on what type of information the index wants to make available to users.
+Apart from obvious information such as the trade price and trade amount of specific transactions, common data elements include:
+Unique cryptocurrency symbols to identify the various coins &mdash; e.g., BTC or XRP.
+Unique trade identifiers used to establish trade volume.
+Records the exact time a trade transaction took place and is used for various purposes, including for real-time pricing info, accurate opening-high low-closing (OHLC) data and precise 24-hour trading volume.
+Up to date exchange rates between BTC/USD or ETH/USD but also between the various crypto asset classes and available trading pairs, such as BTC/ETH, ETH/XRP, etc.
+This list is by no means exhaustive but serves to provide an overview of the kind of data cryptocurrency price indexes use in their listings.
+How do they use the data to calculate the price of a specific cryptocurrency?
+Indexes will typically use a 24-hour volume weighted average (VWA) to calculate prices.
+This method gives you the average price at which a cryptocurrency is traded over the trading period.
+Mathematically it can be presented as follow:
+The defined period of time here is a continuous &mdash; or rolling &mdash; 24-hour timeframe, which means the displayed prices are constantly updated.
+How accurate are the prices on cryptocurrency indexes?
+It provides a good representation of the overall market condition and position.
+However, you will often see the same cryptocurrency listed at a different price on different indexes. The reason for this is because individual index platforms will gather information from a wide variety of different exchanges.
+The various exchanges trade in different markets against different fiat currencies (USD, EUR, GBP, JPY, etc.). Depending on the market, the trading volume, how liquid a coin is, what transaction fees the exchange charges and how often the API requests and sends information &mdash; every two, five or 10 seconds, for example &mdash; will all influence the price calculation on the actual cryptocurrency index.
+To put an exact value on a coin at any one time across all markets would therefore not be an easy task, nor would it really be necessary, as long as you know that the price on the exchange you&rsquo;re trading on is accurate for that specific market.

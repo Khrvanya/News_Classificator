@@ -1,0 +1,35 @@
+Restoring privacy and financial independence to people is part of the founding ethos of cryptocurrencies. Due to the transparency of the transactions made with most of these assets and the trail of operations left behind, in most cases, the privacy is lost. However, thanks to the Bitmix.biz mixer service you can now conduct private transactions again in a few simple steps.
+If you prefer to use TOR to access the platform, they recommend using the Onion browser.
+“PLEASE, DO NOT USE TOR BROWSER WITH CLEARNET LINK!
+Exit nodes change bitcoin addresses and you can lose your coins, use TOR browser only with onion!” a warning notification on the service’s BitcoinTalk page reads.
+The process of mixing cryptocurrencies involves sending cryptocurrency from one wallet to another (say wallet A to B), without leaving a trace of the transaction. Once the cryptocurrencies are in the mixer’s wallet (B), they are considered private.
+This is accomplished in the following way:
+User A wants to conduct anonymous cryptocurrency transactions. For this, they will send their coins to a new wallet controlled by the Bitmix mixing service.
+By using this service they will achieve the desired privacy in a few steps.
+Bitmix already has coins stored that have previously been premixed. Once a user sends their coins into the mixer’s wallet, they receive an equal amount (less service fee) back to a wallet of their choosing and this is done automatically.
+You just have to create an order through the Bitmix application, send the funds to an assigned wallet address and Bitmix will send you the ‘new’ cryptocurrencies to the wallet you choose.
+What is the use of mixing cryptocurrencies?
+The openness and transparency witnessed on most of the public blockchains can sometimes pose a danger to the users since anyone can access this information for whatever reasons and there is a huge risk of the information being used for the wrong reasons.
+Imagine that you have your cryptocurrency funds in a single wallet and that you register on a cryptocurrency platform, for example, an exchange.
+By registering with your data to access the platform and send coins from your private wallet to the exchange’s wallet, your data is linked to the funds in your exchange account and by tracing the source of the coins in the exchange account, anyone can identify your wallet and further know how much funds are held in the private wallet.
+Up to this point, there is no problem, as our personally identifiable information is in the possession of the exchange and the exchange doesn’t care how much cryptocurrency you have in your possession.
+Continuing with our scenario, now imagine that this particular exchange is hacked and that your data is accessed by a malicious third party. At this point, both you and your funds are exposed and your funds may be at risk of being stolen, you could be extorted or any number of other fraudulent actions could happen.
+That is why using a cryptocurrency mixing service to hide transaction histories is a security measure that should be done periodically to keep our funds safe and Bitmix makes this process fast, easy, and safe.
+Currently, the Bitmix mixer service supports 3 cryptocurrencies, Bitcoin, Litecoin, and Dash. To use the service, you just have to follow the following steps:
+3 – Fill the mixing order:
+Unique code: This code will be delivered to users after their first mix, and serves to ensure that, in future transactions, cryptocurrencies that have been previously sent by you to the platform will not be sent back to you.
+Destination address: As its name indicates, it is the address to which the mixed cryptocurrencies will be sent. (You can input multiple destination addresses so that the mixed quantity is divided among them to increase security).
+Percentage distribution: If you have added several destination addresses, in this section you can indicate the amount you want to go to each wallet. You can input a value for each wallet address manually, or set the amount to be divided into equal parts using the [EQUALIZE] button
+Delay: This option allows you to indicate the time in which the transaction should occur. Choosing different times is taking extra precaution to break any patterns that indicate to these destination wallets being linked to a common owner. Bitmix recommends at least 1-hour delays between transactions.
+Service fee: Using higher fees ensures that you will get 100% legitimate exchanges or investment fund transactions.
+Mixing Strength: As indicated on the Bitmix website, the mixing strength depends on the configuration added in the previous points. The more wallets are added, the longer the transaction delay chosen and the higher the service fee paid, the higher the strength of the mix will be. Users are always assured that they will receive their coins back (less the service fee.)
+Randomize output addresses: This option allows you to configure the number of receiving addresses to which your coins will be sent to increase the difficulty of tracing transactions. Using this option will increase the service fees relative to the number of addresses added.
+After configuring your service transaction, you will need to accept the terms and conditions of the service then click on the [START MIXING] button. Once you receive your cryptocurrencies back, you can be sure of the privacy obtained.
+Before using the Bitmix service, there are other considerations to make such as the minimum amounts to be mixed. Bitmix allows a minimum of 0.005 BTC, LTC, or DASH to be sent to any destination address, otherwise, Bitmix might consider sending as a donation.
+Referral programs are very common in cryptocurrency communities, and it is one more way to ensure that with virtual currencies everyone wins.
+Thanks to the platform’s referral program, you can be paid a commission of up to 50% of the service fees paid by your referrals.
+To sign up for the referral program, just click through to the [PARTNER] page.
+At the bottom of the page, you must add the BTC address where you want your commissions sent and a password that you will need to access your partner page.
+After signing up, 2 referral links will be automatically generated for you. The first link redirects to the normal browser while the other redetects to the TOR network version of the website. You can then share either or both of these links with your friends and followers.
+The use of cryptocurrency mixers is a highly recommended practice for people who often carry out transactions. This is because all your transactions are being recorded onto the blockchain and backtracking any of the transactions leads back to your wallets.
+If you haven’t used a cryptocurrency mixing service before you should consider trying it some time to ensure the privacy and security of your coins. Thanks to Bitmix.biz this process is easy, fast, and safe.

@@ -1,0 +1,21 @@
+The KingMiner gang is brute-forcing the "sa" user, the highest-privileged account on a MSSQL database.
+Owners of MSSQL databases are advised to secure their servers, UK cyber-security firm Sophos said in a report today.
+The company says it detected a botnet operation that targets MSSQL databases with brute-force attacks that attempt to guess the password for the "sa" (server administrator) account.
+Once hackers break into a vulnerable MSSQL system, they create another database user named "dbhelp," and they install a cryptocurrency miner that abuses the server's resources to generate profits for the gang.
+Sophos says this botnet operation goes by the name of KingMiner, and is the same gang that was previously documented in a report from cyber-security form Check Point in late 2018 , and then again by Qihoo 360 Total Security in July 2019 .
+While most malware botnets die out after just a few weeks or months of activity, the KingMiner operation appears to have made enough of a profit for crooks to continue attacks even to this day.
+Furthermore, the botnet's code has also evolved as time went by, showing that hackers invested in sharpening their attack tools and routines.
+Sophos says that the KingMiner operation is now more persistent and capable of gaining root over the underlying Windows server where the MSSQL database is running. This is done by exploiting elevation of privilege bugs, such as CVE-2017-0213 or CVE-2019-0803, which grant the KingMiner malware access to execute code with admin privileges.
+Sophos says KingMiner operators have added this extra step in an attempt to prevent its operations from being disrupted, either by security solutions or other botnets that may infect the same server.
+Another area in which the KingMiner gang currently appears to be expanding is in expanding access from the MSSQL server to other systems to which the database is connected on a company's hacked network.
+KingMiner's focus on expanding access to the internal networks is not something new or strange, as this very same behavior has also been spotted in multiple other cryptocurrency-mining botnets. However, currently, KingMiner is in the incipient stages of implementing such a feature.
+It is doing this in several ways. The first is that KingMiner is now experimenting with the EternalBlue exploit, the same vulnerability used in the WannaCry and NotPetya ransomware outbreaks of 2017.
+EternalBlue allows attackers to access remote Windows systems via a bug in their Server Message Block (SMB) protocol implementations. Although fixes have been made available since 2017, not all companies have bothered to patch vulnerable systems.
+The second way in which the botnet tries to expand locally is by downloading other tools and malware on infected MSSQL servers. These include the Mimikatz password dumper, the Gh0st remote access trojan, and the Gates backdoor trojan.
+It is believed KingMiner does this in order to steal passwords for other systems to which the database server might be connected to. However, Sophos says this is still in its early stages.
+"The presence of Mimikatz is a new development, found only in the latest repositories. We haven't seen it being used, but the downloader script referred to it. It is likely a work in progress," the security firm said.
+But the strangest feature Sophos found was that KingMiner operators also scanned the infected system to see if it's vulnerable to the BlueKeep vulnerability in the Remote Desktop Protocol.
+If the system is found to be vulnerable, the KingMiner gang disables RDP access to the database to prevent the server from being hacked by other malware operations.
+All in all, KingMiner shows that malware botnets have continued to make a profit despite the up and down price of the Monero cryptocurrency. This profit has given hackers a reason to go after vulnerable systems, and especially after MSSQL databases, which have been some of the most heavily targeted servers by crypto-mining botnets.
+To prevent KingMiner's attacks, the easiest way is to secure the sa account with a strong password. The sa account is considered the account with the highest privileges on a MSSQL system , and should be secured accordingly .
+Indicators of compromise for recent KingMiner attacks are available in Sophos' recent report, available here in PDF format .

@@ -1,0 +1,21 @@
+When autocomplete results are available use up and down arrows to review and enter to go to the desired page. Touch device users, explore by touch or with swipe gestures.
+There has been a spike of BTC issuance and transactions on Ripple blockchain. However, it appears to be a hoax.
+Get daily crypto briefings and weekly Bitcoin market reports delivered right to your inbox.
+Despite its high transaction speed and low fees, Ripple is not favored as a Layer 2 for BTC.
+A significant percentage of the daily payments on Ripple is spam, highlighting the extent of low activity on the network.
+Lack of smart-contracts reduces Ripple’s transparency and bars it from participating in the DeFi and the stablecoin sectors.
+As Ethereum attracts more and more precious Bitcoin into its network, Ripple is attempting something quite similar. The results, however, appear far from convincing.
+Bitcoin has the largest market cap, along with the dominance of over 60% on the crypto market. Moreover, it is reported to be the most recognized brand in the space. Any project interoperable with Bitcoin has a chance to draw a substantial portion of the market’s attention.
+So far, Ethereum has enjoyed the most interoperability with Bitcoin.
+With apps like Compound , Bitcoin hodlers can enter the growing field of decentralized finance (DeFi) and earn passive income on their idle coins. This opportunity drove significant traffic to the platform, specifically to wrapped Bitcoin (WBTC).
+WBTC is a pegged token, meaning that for each token held by a custodian, there is one ERC-20 token minted on Ethereum. Now it looks like the XRP Ledger is attempting a similar initiative.
+While Ripple can’t extend Bitcoin’s computational capabilities, it can increase Bitcoin’s speed and reduce transaction fees.
+Cheapness and speed of transacting can make pegged Bitcoin on the XRP Ledger useful for arbitrage, with traders driving on-chain activity. An influx of minted BTC on Ripple, with some accounts holding hundreds of thousands of tokens, points to a potential surge in demand.
+Unlike Ethereum, however, the XRP Ledger won’t be able to ride the decentralized finance wave because of its limitations.
+Like WBTC, Ripple utilizes trusted token arrangements to mint pegged tokens. These custodians on the Ripple network are called “gateways.”
+There are a handful of these reputable gateways. Given their BTC capitalization dynamics, it’s obvious that they didn’t issue any significant quantities of BTC lately. Moreover, BTC trading volumes remain dismal.
+Unlike WBTC, which only has one custodian, BitGo, Ripple can have an unlimited number of gateways.
+Technically, any account can act as a gateway and issue non-XRP tokens like BTC, ETH, and USD. Ultimately, it is up to users to decide which gateways they trust.
+There is no ceiling on how many tokens an account can issue; the only limitation is the number of tokens other users want to hold. Moreover, an issuer can block issued tokens from being transacted by the broader Ripple community.
+As a consequence, one can issue tokens without actually holding BTC and transfer them between accounts.
+A reputable gateway has numerous connections to other accounts because they are actively used. A fraudulent one is likely to have much fewer connections. In the example below, the amount of BTC on an account connected with just three others topped 30,000 BTC.

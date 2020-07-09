@@ -1,0 +1,32 @@
+Pivot Or Perish Market Dashboard India-China Face-Off The Future Of Covid Tracker Lounge Coronavirus India2Global Emerging Tech Conclave #WFHLife Long Reads Money With Monika, Season 4 Mint 50 - Top Mutual Funds Plain Facts Mark To Market Podcasts Money With Monika, Season 3 Companies Markets Money Start-ups Mutual Funds Insurance Technology Industry Opinion Politics
+Home > News > India >Coronavirus update: Home quarantine stamp ink rubs out in just 3 days
+1 min read . Updated: 25 Mar 2020, 04:13 PM IST Nikhil Agarwal
+As various state governments have started using indelible ink, used during voting, to stamp the hands of people who have been kept under home quarantine for coronavirus , the Election Commission has clarified that the stamp will have an expiry date of just three days. Usually, people are kept under home quarantine for a period of 14 days.
+"Commission would like to bring to the notice of entities be they be ministries, departments in GoI, any PSU in the central or state sector, govts of user states, govts, of UTs that indelible ink mark is normally expected to last for 3 days when applied on the skin but lasts for a few weeks on the fingernail till the nail grows out," the Election Commission said in a letter to the health ministry today.
+People in several states like Delhi, Maharashtra and Karnataka are putting stamps on the back of the palm of those put under home quarantine.
+The commission has reviewed its decision suo moto and it is decided to allow usage of indelible ink on persons for stamping for home quarantine by health authorities.
+“…due to extraordinary circumstance due to Covid-19 pandemic, the Commission has reviewed its decision suo moto and it has decided to allow usage on indelible ink on persons for stamping for home quarantine by health authorities," the letter read.
+The authorities have been asked to not use the indelible ink on left hand's finger. “Ministry may standardize the mark and the location on the body where the mark has to be applied so that it does not come in way of conduct of elections anywhere in the country," the letter added.
+* Thank you for subscribing to our newsletter.
+Click here to read the Mint ePaperLivemint.com is now on Telegram. Join Livemint channel in your Telegram and stay updated
+You are now subscribed to our newsletters. In case you can’t find any email from our side, please check the spam folder.
+lozad('.lozad', { load: function(el) { el.src = el.dataset.src; el.onload = function() { el.classList.add('fade')}}}).observe()
+.myAccount .planSec, .myAccount a.LinkCTA{padding:16px; margin:16px; box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.1); background-color: #fff;}
+	       		var userData = data;
+	       		var name = userData.name;
+	       		var email = userData.email;
+	       		var signupSource = userData.source;
+	       		var subscribedAtOnce = userData.subscribedAtOnce;
+	       		var plan  = userData.plan;
+	       		document.getElementById('uName').innerHTML = "<strong>"+name+"</strong>" + email;
+		       		var status = planData.status;
+		       		var purchaseSource = planData.source_device;
+			       		var nextActivationDate = planData.current_term_ends_at;
+			       		var planDescription = planData.plan.description;
+			       		var planName = planData.plan.name;
+			       		var planPrice = planData.amount;
+			       		//var planInterval = planData.shipping_interval;
+			       		var planInterval = planData.duration;
+			       		var planUnit = planData.interval_unit;
+			       		//var html = "<strong>Your Subscription Plan</strong>"+planName+" ₹"+planPrice+" / "+planInterval+" " + nextBillingHtml + cancelHtml; 
+			       		var html = "<strong>Your Subscription Plan</strong> "+planDescription + " "+ planName +": ₹"+planPrice + " "+ nextBillingHtml + cancelHtml;
