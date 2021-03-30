@@ -52,7 +52,7 @@ prompt-toolkit==3.0.5
 psutil==5.7.0
 pycld2 @ file:///D:/Main%20Folder/Git%20Projects/News_Classificator/pycld2-0.41-cp38-cp38-win_amd64.whl
 pycparser==2.20
-Pygments==2.6.1
+Pygments==2.7.4
 PyICU @ file:///D:/Main%20Folder/Git%20Projects/News_Classificator/pyICU-2.4.3-cp38-cp38-win_amd64.whl
 pyOpenSSL==19.1.0
 pyparsing==2.4.7
